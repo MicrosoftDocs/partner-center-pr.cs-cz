@@ -46,6 +46,8 @@
       items:
         - name: Informace o kompetencích
           href: learn-about-competencies.md
+        - name: Nejčastější dotazy ke kompetencím
+          href: competencies-faq.md
         - name: Výjimka z kompetence Application Development
           href: app-dev-isv.md
     - name: Rozšířené specializace
