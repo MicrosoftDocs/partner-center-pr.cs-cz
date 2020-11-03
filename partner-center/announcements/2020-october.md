@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4877c3c21449c8b5cc4224973d159d70635d9262
-ms.sourcegitcommit: 4bff85c6a13a990d5eb6c4a4ef44e1013d06948e
+ms.openlocfilehash: f90c9ae32e68d6e772c51cede28237f500a0a7b9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92903042"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917245"
 ---
 # <a name="october-2020-announcements"></a>Oznámení z října 2020
 
@@ -23,6 +23,38 @@ Tato stránka podrobně popisuje oznámení pro partnery Microsoft Partner Cente
 2020 oznámení: [březen](2020-march.md),  |  [April](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md) | Října
 
 ______________
+
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Digitální prostředí Cloud Solution Provider (CSP) je teď aktualizované.
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-10-28
+- Možnosti
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři CSP
+
+### <a name="details"></a>Podrobnosti
+
+Společnost Microsoft se zavazuje, že našim partnerům maximalizuje svůj potenciál, sestavovat inovativní řešení a v Microsoft Partner Network můžou zvýšit úspěšnost zákazníků. Program poskytovatele Cloud Solution Provider (CSP) je jedním z našich nejrychlejších rozvíjejících se programů s více než 90 000 zúčastněnými společnostmi.
+Abychom vám pomohli zrychlit obchodní růst partnerů v programu Cloud Solution Provider, zavádíme na Microsoft Partner Network webu a na novém guidebooki CSP i aktualizované digitální prostředí Cloud Solution Program (CSP). Toto prostředí přepracované a nové prostředky pomůžou partnerům odemykat nové příležitosti a efektivněji rozšiřovat své podnikání v programu CSP.
+
+Toto nové digitální prostředí bude zahrnovat:
+
+- Aktualizace digitálního prostředí CSP, které vám pomůžou zrychlit obchodní růst: aktualizovaná stránka CSP nabízí zjednodušené možnosti, které zajišťují, aby se zaregistrovala cesta k partnerům napříč registrací, postupy pro vytváření, uvádění na trh a prodej. Partneři můžou rozrůstat své tržby díky kampaním z prodeje a k prostředkům pro uvedení na trh. Další integrované prostředky vám pomůžou zajistit, aby partneři zůstali v programu CSP v aktualizovaném a snadno ovladatelném podnikání.
+- Nový Cloud Solution Provider Guidebook program, který pomůže partnerům identifikovat nové příležitosti: Tento podrobný průvodce poskytuje partnerům pokyny, jak urychlit růst vašeho cloudového růstu pomocí programu a rozšířit vaše možnosti výnosů.
+- Obsah programu CSP v pracovním prostoru řešení: pracovní prostor řešení je digitální prostředí, které poskytuje jeden cíl pro použití prostředků na vyžádání, aby vaše nápady byly rychlejší při uvedení na trh. Nyní mohou poskytovatelé služeb najít obsah a prostředky specifické pro program CSP v pracovním prostoru řešení.
+
+### <a name="additional-resources"></a>Další materiály
+
+- Navštívit [stránku aktualizovaného zprostředkovatele CSP](https://aka.ms/CSP) 
+- Přečtěte si [Nový CSP program Guidebook](https://aka.ms/cspguidebook) a přečtěte si další informace o možnostech růstu.
+- Začněte používat pracovní prostor řešení k sestavování postupů a zjednodušení kroků
+- Prohráli další kampaně díky prodeji prostředků 
+- Doporučte svým kolegům navštívit stránku CSP a sdílejte výše uvedené prostředky ve vaší organizaci. Pokud jste nepřímými poskytovateli, sdílejte prosím prostředky s nepřímými prodejci.
+
+________________
 
 ## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Aktualizace ceníku pro předplatné Cloud Solution Provider (CSP) z října 2020
 
