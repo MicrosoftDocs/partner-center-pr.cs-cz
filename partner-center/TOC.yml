@@ -295,9 +295,6 @@
         - name: Vytvoření dokladu o provedení
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Odeslání daňového dokladu jako dokladu o provedení
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Žádosti o spolupráci v rámci pobídek
       items:
         - name: Žádosti o spolupráci v rámci pobídek
