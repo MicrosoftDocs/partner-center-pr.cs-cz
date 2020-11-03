@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f52caa9b536f289025a61ae245bb1f63d65a5698
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917208"
+ms.locfileid: "93027886"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z října 2020** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Možnosti|[Pro oprávněné zákazníky CSP (Cloud Solution Provider) pro vzdělávání je teď k dispozici upgrade na Windows 10 Education](2020-october.md#16)|28. října|
 |Možnosti|[Digitální prostředí pro CSP (Cloud Solution Provider) je teď aktualizované](2020-october.md#15)|28. října|
 |Možnosti|[Zavedení standardu výkonu pro požadavky partnerů s přímým vyúčtováním v rámci programu Cloud Solution Provider (CSP)](2020-october.md#13)|27. října|
 |Nabídky/trhy|[Aktualizace ceníku softwarových předplatných pro CSP (Cloud Solution Provider) z října 2020](2020-october.md#14)|26. října|

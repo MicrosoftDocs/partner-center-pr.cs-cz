@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/14/2020
-ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/27/2020
+ms.openlocfilehash: 4877c3c21449c8b5cc4224973d159d70635d9262
+ms.sourcegitcommit: 4bff85c6a13a990d5eb6c4a4ef44e1013d06948e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795807"
+ms.locfileid: "92903042"
 ---
 # <a name="october-2020-announcements"></a>Oznámení z října 2020
 
@@ -22,7 +22,44 @@ Tato stránka podrobně popisuje oznámení pro partnery Microsoft Partner Cente
 
 2020 oznámení: [březen](2020-march.md),  |  [April](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md) | Října
 
-________________________________
+______________
+
+## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Aktualizace ceníku pro předplatné Cloud Solution Provider (CSP) z října 2020
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-10-26
+- Nabídky/trhy
+ 
+### <a name="summary"></a>Souhrn
+
+Ceník pro předplatné softwaru pro říjen 2020 byl aktualizován.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Podrobnosti
+
+Ceník předplatných softwaru v říjnu 2020 byl aktualizován tak, aby zahrnoval dva dříve vynechané produkty.
+
+V říjnu 2020 byla k dispozici pro [Windows 7 rok 2 EVJ](#3) . Ceny za rok 2 jsou nyní k dispozici v ceníku předplatných softwaru.
+- ID produktu: DG7GMGF0FL73
+- ID SKU: 0003
+
+[Okraj Azure SQL Edge](2020-september.md#9) byl vydaný pozdě 2020. září. Je teď k dispozici v aktuálním ceníku centra pro partnery. 
+- ID produktu: DG7GMGF0GJC2
+
+Všechny ceníky partnerského centra CSP jsou k dispozici, když se přihlásíte do partnerského centra a přejdete na prodej/nabídky a ceny.
+
+### <a name="additional-resources"></a>Další materiály
+
+- [Stránka s nejčastějšími dotazy k podpoře Windows 7](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Podpora a Microsoft 365 aplikací pro Windows 7](/deployoffice/endofsupport/windows-7-support)
+- [Galerie prostředků v EVJ v systému Windows 7](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Web Azure SQL Edge](https://aka.ms/sqledge)
+
+________________
 
 ## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Zavedení standardu výkonu pro přímé požadavky na partnery z fakturace v programu Cloud Solution Provider (CSP)
 
@@ -45,7 +82,7 @@ Rozšiřování a optimalizace programu Microsoft Cloudho poskytovatele řešen�
 
 Dnes sdílíme několik nadcházejících změn požadavků pro přímé partnery vyúčtování v programu Cloud Solution Provider.
 
-Za prvé **zavádíme standard výkonu jako součást požadavků přímých partnerů na účet** . Partneři, kteří se chtějí zaregistrovat jako partneři s přímým přístupem v programu Cloud Solution Provider, musí v průběhu 12 měsíců před datem obnovení [smlouvy o podpoře](https://partner.microsoft.com/support/partnersupport) splňovat aspoň USD300K v programu Cloud Solution Provider.
+Za prvé **zavádíme standard výkonu jako součást požadavků přímých partnerů na účet**. Partneři, kteří se chtějí zaregistrovat jako partneři s přímým přístupem v programu Cloud Solution Provider, musí v průběhu 12 měsíců před datem obnovení [smlouvy o podpoře](https://partner.microsoft.com/support/partnersupport) splňovat aspoň USD300K v programu Cloud Solution Provider.
 
 Tento standard výkonu vstoupí v platnost v lednu 2021 pro stávající přímé partnery pro vyúčtování a vy budete muset splnit požadavky podle data svého plánu obnovení vašeho partnera.
 
@@ -63,7 +100,7 @@ Přečtěte si aktualizované požadavky a doporučení pro [přímé partnery](
 
 **Stávající partneři** , kteří jsou aktuálně zaregistrovaní v programu Cloud Solution Provider jako partneři s přímým účtováním, budou muset splnit nový standard pro zvýšení výkonu od ledna 2021. Bude to mít čas, až do příštího data obnovení plánu podpory partnera, aby splňovalo požadavky. Podle [tohoto průvodce](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)si můžete projít svůj časový 12měsíční výnos v partnerském centru.
 
-Noví partneři, kteří se registrují v programu Cloud Solution Provider, začnou platit jako nepřímý prodejci platné od **října 2020** . Musí mít minimálně USD300K v tržbách CSP během posledních 12 měsíců. Podle [tohoto průvodce](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)si můžete projít svůj koncový 12měsíční výnos na partnerském centru. 
+Noví partneři, kteří se registrují v programu Cloud Solution Provider, začnou platit jako nepřímý prodejci platné od **října 2020**. Musí mít minimálně USD300K v tržbách CSP během posledních 12 měsíců. Podle [tohoto průvodce](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)si můžete projít svůj koncový 12měsíční výnos na partnerském centru. 
 
 2. **požadavek na Smlouvu o podpoře** 
 
@@ -94,7 +131,7 @@ ________________________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-10-16
-- Nabídky a trhy
+- Nabídky/trhy
  
 ### <a name="summary"></a>Souhrn
 
@@ -160,7 +197,7 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-10-12
-- Nabídky a trhy
+- Nabídky/trhy
  
 ### <a name="summary"></a>Souhrn 
 
@@ -196,7 +233,7 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-10-09
-- Nabídky a trhy
+- Nabídky/trhy
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
@@ -229,7 +266,7 @@ Tyto propagační akce mají vliv na tyto zákazníky:
 - Klienti s čistým novým zákazníkem
 - Stávající klienti zákazníka, kteří nemají aktivní ani nedávno zrušené předplatné (za posledních 30 dní), na základě licence na CSP, web Direct nebo jiných komerčních kanálů Microsoftu
 
-#### <a name="additional-resources"></a>Další zdroje informací
+#### <a name="additional-resources"></a>Další materiály
 
 - Další informace o obchodním hlasu najdete na [stránce Microsoft 365 Business hlasového partnera](https://www.microsoft.com/microsoft-365/partners/businessvoice) . 
 - Další informace o [možnostech zvukové konference](/microsoftteams/audio-conferencing-in-office-365)najdete v tématu zvukové konference v Microsoft 365.
@@ -288,7 +325,7 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-10-05
-- Nabídky a trhy
+- Nabídky/trhy
  
 ### <a name="summary"></a>Souhrn 
 
@@ -353,7 +390,7 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-10-02
-- Nabídky a trhy
+- Nabídky/trhy
 
 ### <a name="summary"></a>Souhrn
 
@@ -409,7 +446,7 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-10-02
-- Nabídky a trhy
+- Nabídky/trhy
  
 ### <a name="summary"></a>Souhrn
 
@@ -473,7 +510,7 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-10-02
-- Nabídky a trhy
+- Nabídky/trhy
  
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
@@ -486,7 +523,7 @@ Od 1. listopadu 2020 společnost Microsoft vydává následující nové a aktua
 - Zákaznická licence k předplatnému uživatele Dynamics 365 (USL) 
 - Rozbalit nabídky do CSP
 
-### <a name="additional-resources"></a>Další zdroje informací
+### <a name="additional-resources"></a>Další materiály
 
 - Podrobnosti ID nabídky najdete v dokumentu [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excelu v dokumentu aplikace Project.
 - Další informace najdete na [domovské stránce hlasu zákazníka k Microsoft Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/).
@@ -499,7 +536,7 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-10-01
-- Nabídky a trhy
+- Nabídky/trhy
  
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
@@ -531,7 +568,7 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-10-01
-- Nabídky a trhy
+- Nabídky/trhy
 
 ### <a name="summary"></a>Souhrn
 
