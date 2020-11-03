@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: d41ec7b7ce3c8f7140b0944b4d39150ef34a9d83
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.date: 10/30/2020
+ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93027903"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132823"
 ---
 # <a name="october-2020-announcements"></a>Oznámení z října 2020
 
@@ -23,6 +23,28 @@ Tato stránka podrobně popisuje oznámení pro partnery Microsoft Partner Cente
 2020 oznámení: [březen](2020-march.md),  |  [April](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md) | Října
 
 ______________
+
+## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Aktualizace funkcí předplatných softwaru Windows serveru
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-10-29
+- Možnosti
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři poskytovatele Cloud Solution Provider (CSP), kteří dříve zakoupili standardní softwarová předplatná Windows serveru
+
+### <a name="details"></a>Podrobnosti
+
+Společnost Microsoft oznamuje vydání nové aktualizace funkcí pro odběry softwaru Windows Server pro poskytovatele CSP dne 30. října 2020. Tato aktualizace zahrnuje produkty pro odběr softwaru Windows serveru: Windows Server Standard, **verze 20H2** (CSP ID produktu: DG7GMGF0DVT9). Aktualizovaný soubor ke stažení je teď k dispozici pro tento produkt. Partneři si můžou stáhnout nejnovější soubor a získat tak nové funkce.
+
+### <a name="next-steps"></a>Další kroky
+
+- Tyto informace prosím sdílejte s příslušnými kontakty ve vaší organizaci.
+- Projděte si [dokumentaci k systému Windows Server verze 20H2](/windows/release-information/status-windows-10-20h2)
+
+________________
 
 ## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>K dispozici je nyní upgrade školení Windows 10 pro kvalifikované zákazníky poskytovatele Cloud Solution Provider (CSP)
 
