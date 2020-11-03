@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92527707"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132990"
 ---
 # <a name="april-2020-announcements"></a>Oznámení z dubna 2020
 
@@ -33,7 +33,7 @@ _________________
 - Stav: již brzy
 - [Další informace](https://aka.ms/CSPCOVIDPromo)
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 4. května 2020 (12:01am UTC) Microsoft zavede nové propagační akce pro Office 365 E1 a Microsoft 365 Business Basic a nahrazuje aktuální 6. verzi Office 365 E1 pro nové zákazníky.
 
@@ -88,7 +88,7 @@ _________________
 
 Partneři v programu Cloud Solution Provider
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Microsoft usiluje o zajištění flexibility a možností, které zákazníkům usnadňují nákup a využívání produktů a služeb od Microsoftu i našich partnerů.
 
@@ -119,7 +119,7 @@ _________________
 - Stav: nyní k dispozici
 - [Další informace](https://flow.microsoft.com/ui-flows/)
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Společnost Microsoft opravila chybu v ceně EUR za Microsoft 365 (M365) E3 od 1. dubna 2020. Od 22. dubna 2020 však společnost Microsoft za těchto mimořádných okolností za účelem pomáhat partnerům tuto cenu dočasně vrátila.
 
@@ -162,7 +162,7 @@ _________________
 - Všichni dodavatelé ovládacích panelů (CPV)
 - Všichni partneři Advisoru
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Vyšší a nepřetržitá ochrana zabezpečení a ochrany osobních údajů patří mezi naše nejdůležitější priority a budeme dál pomáhat partnerům chránit své zákazníky a klienty. V 2019 jsme zavedli [povinné požadavky na zabezpečení](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). Všichni partneři účastnící se programu Cloud Solution Provider, prodejci ovládacích panelů a poradci by měli implementovat požadavky na dodržování předpisů.
 
@@ -192,7 +192,7 @@ Pokud potřebujete další pomoc s technickými problémy, [odešlete prosím l�
 Děkujeme za vaše partnerství a závazek, aby se zajistilo, že naše ekosystémy důvěřují.
 
 >[!NOTE] 
->Pokud používáte základní zásady a nepřešli jste na zásady výchozích hodnot zabezpečení nebo [jiné možnosti implementace MFA](..\partner-security-requirements.md#actions-that-you-need-to-take), převeďte prosím co nejdříve na odkazování na [klíčové prostředky](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Pokud používáte základní zásady a nepřešli jste na zásady výchozích hodnot zabezpečení nebo [jiné možnosti implementace MFA](..\partner-security-requirements.md#implementing-multi-factor-authentication), převeďte prosím co nejdříve na odkazování na [klíčové prostředky](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Protokol změn
 
@@ -212,7 +212,7 @@ _________________
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 - Všichni partneři CSP.
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Změny smlouvy o zákaznících Microsoftu, které byly dříve k dispozici na stránce ceny a nabídky v partnerském centru, byly přesunuty. Tyto změny jsou nyní k dispozici pro partnery, kteří si mohou stáhnout z tématu Podpora zákaznické smlouvy Microsoftu v partnerském centru (prostřednictvím zabezpečeného přihlášení) a nevyžadují, aby se zákazníkům předvedli předběžná schválení od Microsoftu. Platí to pro dodatek pro finanční služby a další standardní dodatky ke Smlouvě se zákazníkem Microsoftu.
 
@@ -251,7 +251,7 @@ _________________
 - Typ: nabídky/trhy
 - Stav: nyní k dispozici
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 SKU programu Microsoft Defender ATP for Servers bude k dispozici pro CSP od 1. dubna 2020 ceny v rozmezí 5 – na OSE/měsíc.
 
@@ -305,7 +305,7 @@ _________________
 - Stav: již brzy
 - [Další informace](https://flow.microsoft.com/ui-flows/)
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Adresa pro provozní centrum Microsoft pro Severní Amerika v Reno, Nevada se mění a všechny systémy, korespondence a dokumentace budou vyžadovat aktualizaci.
 
@@ -345,7 +345,7 @@ _________________
 - Typ: možnosti
 - Stav: již brzy
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Aby se zajistilo nejlepší prostředí pro partnery a zákazníky, společnost Microsoft znovu spustí komerční nabídky s bezobslužnou licencí M365 1. května 2020. Ceny a možnosti nebudou nijak ovlivněny.
 
@@ -391,7 +391,7 @@ _________________
 - Stav: nyní k dispozici
 - [Další informace](https://flow.microsoft.com/ui-flows/)
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Od 1. dubna 2020 se v doplňku Microsoft a5 pro dodržování předpisů dostala další hodnota beze změny cen. Kromě toho jsme zavedli tři mini sady pro řešení nových uživatelských scénářů.
 
@@ -468,7 +468,7 @@ _________________
 - Typ: nabídky/trhy
 - Stav: nyní k dispozici
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Od 1. dubna 2020 je k dispozici nová zkušební verze sady Office 365 E1 k nákupu v CSP. Nabídka byla v ceníku k dispozici pro vyřešení nedávného zvýšení vzdáleného fungování.
 
@@ -515,7 +515,7 @@ _________________
 - Stav: nyní k dispozici
 - [Další informace](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Od 1. dubna 2020 společnost Microsoft vydala další produkty Dynamics 365. Další nové nabídky pro Dynamics 365 budou vydány 1. května 2020.
 Ovlivněná cílová skupina
@@ -594,7 +594,7 @@ _________________
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 - Všichni partneři CSP
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 [Umístění prostředků připravenosti na operace](https://partner.microsoft.com/resources#/) je teď aktivní a poskytuje partnerům jedno umístění pro prostředky připravenosti na operace. díky tomu je snazší než dřív najít nejnovější aktualizace a klíčové prostředky pro provozní připravenost napříč všemi kanály a programy Microsoftu. Program CSP aktualizoval galerii prostředků a obsah připravenosti Microsoftu se přesunul do umístění prostředku připravenosti operací a adresa URL, na kterou se odkazuje Galerie prostředků aktualizace programu CSP ( [https://partner.microsoft.com/resources#/](https://partner.microsoft.com/resources#/) ), aby odkazovala na umístění prostředku připravenosti na operace.
 
@@ -645,7 +645,7 @@ _________________
 - Stav: nyní k dispozici
 - [Další informace](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Microsoft 365 Business hlasu, cloudový telefonní systém sestavený pro malé a střední firmy, bude dostupný v zemích uvedených od 1. dubna 2020.
 
@@ -743,7 +743,7 @@ Všichni partneři CSP.
 
 **Aktualizace od 1. dubna 2020** Od 31. ledna 2020 měly všichni partneři v programu Cloud Solution Provider (CSP) přijmout smlouvu pro všechny jejich klienty CSP v tomto jazyce. Dříve jsme komunikovali, že další fáze implementace smlouvy by začala v dubnu 2020.Aby se zabránilo jakémukoli narušení podniku, rozhodli jsme se po dobu od dubna 2020 zvýšit další fázi implementace. Dostali jsme zpětnou vazbu od našich partnerů poskytovatele Cloud Solution Provider, u kterých došlo k potížím při přijímání aktivace. Na základě těchto okolností pracujeme na tom, abychom zajistili poskytování prostředků Microsoftu pro podporu partnerů, kteří mají potíže s přijetím smlouvy.
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 Od 31. ledna 2020 by všichni partneři v programu Cloud Solution Provider, včetně nepřímých prodejců, měli mít Smlouvu s partnerem Microsoftu, aby se zajistilo, že nedojde k přerušení jejich možnosti vytvářet nové zákazníky nebo objednávky pro stávající zákazníky v programu CSP. Přijetí Smlouvy s partnerem Microsoftu se teď vyžaduje od všech partnerů v programu CSP.
 
 Od dubna 2020:

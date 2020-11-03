@@ -1,7 +1,7 @@
 ---
 title: Přiřazení rolí & oprávnění uživatelům
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Seznamte se s rolemi, které jsou nejvhodnější pro uživatele vaší společnosti, kteří spravují komerční transakce, reference, pobídky nebo členství v programu MPN v partnerském centru.
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92527667"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133027"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Přiřazení rolí uživatelů a oprávnění pro uživatele společnosti, kteří potřebují pracovat v partnerském centru
 
@@ -52,7 +52,7 @@ Pomocí rolí a oprávnění, které přidáváte vašim uživatelům, určíte 
 ||* Vytvoření lístků podpory pro partnerské Centrum
 ||* Zobrazit lístky podpory partnerů, které vytvoříte
 |Výchozí uživatel|  Zobrazit můj profil   |[Resetování hesla](reset-my-pasword.md)
-|Agent správce | * Správa zákazníků|[Spojte se s vašimi zákazníky](connect-with-your-customers.md)
+|Agent správce | * Správa zákazníků|[Spojení se zákazníky](connect-with-your-customers.md)
 ||* Přidat seznam zařízení do partnerského centra
 ||* Vytvoření a použití profilů pro zařízení
 ||* Správa předplatných
@@ -97,8 +97,6 @@ CPVs vyvíjet aplikace pro použití partnery CSP (Cloud Solution Provider), aby
 |**Uživatel typu Host**   | **Role**|
 |---------------------------|:--------------------|
 ||Správce partnera MPN|
-||Správce účtů|
-||Motivace správce|
 ||Správce obchodního profilu|
 ||Správce odkazů|
 
@@ -122,7 +120,7 @@ Tyto role nejsou Azure Active Directory rolí. Tyto role spravují firmu společ
 ||* Zobrazit další uživatelské role v rámci společnosti, ale nemůžou přiřadit role
 ||* Vytvoření lístků podpory pro partnerské Centrum
 ||* Zobrazit lístky podpory partnerů, které vytvoříte
-|Správce účtu| Přidat umístění|[Spravovat umístění](manage-locations.md)
+|Správce účtu| Přidat umístění|[Správa umístění](manage-locations.md)
 || Správa profilů souvisejících s účty, ke kterým jste správce 
 ||* Přiřaďte role pro uživatele v tenantovi k rolím adresáře mimo Azure – Active Directory. 
 ||* Registrace umístění do programů
@@ -138,7 +136,7 @@ Tyto role nejsou Azure Active Directory rolí. Tyto role spravují firmu společ
 ||* Přijímání a Správa odkazů
 ||* Zobrazení, vytvoření a Správa odkazů společného prodeje|
 ||* Zobrazení, vytvoření a správa žádostí o partnerských služeb
-|Správce obchodního profilu   |* Zobrazit, vytvořit a spravovat obchodní profil |[Vytvořit obchodní profil](create-a-marketing-profile.md)
+|Správce obchodního profilu   |* Zobrazit, vytvořit a spravovat obchodní profil |[Vytvoření obchodního profilu](create-a-marketing-profile.md)
 ||* Zobrazení, vytvoření a správa žádostí o partnerských služeb
 ||* Vytvoření lístků podpory pro partnerské Centrum
 ||* Zobrazit lístky podpory partnerů, které vytvoříte|

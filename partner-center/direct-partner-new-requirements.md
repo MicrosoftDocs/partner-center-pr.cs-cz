@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92527208"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795763"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Požadavky na registraci jako partner CSP s přímým vyúčtováním
 
@@ -32,9 +32,10 @@ Jako partner s přímým přístupem jste vlastníkem ucelený vztah se zákazn�
 |--------------------------------|--------------------------------------------------------------|
 |**ID MPN**   |ID aktivního Microsoft Partner Network (MPN) pro vaše obchodní umístění.    |
 |**Doporučení**   |Autorita přijmout a podepsat právní smlouvy jménem vaší organizace.|
+|**Vázané**|Od ledna 2021 se partneři zaregistrované jako partneři s přímým účtováním budou muset v rámci programu Cloud Solution Provider v programu Cloud Solution Provider rozvažovat za transakční účet na úrovni globálního účtu partnerského serveru na úrovni, která bude za posledních 12 měsíců.| 
 |**Podpora**   |Možnost poskytnout zákazníkům první úroveň podpory cloudových produktů. <br/>Plán podpory společnosti Microsoft, ať už pokročilá podpora pro partnery (ASfP) nebo Premier Support pro partnery (smlouvou psfp můžou), podle vašich potřeb. [Porovnejte plány podpory](https://partner.microsoft.com/support/partnersupport).<br/> Důležité: než budete moct koupit plán podpory, musíte před tím, než budete chtít zakoupit plán podpory, projít kontrolu. Po úspěšné kontrole kreditu vás pošleme e-mailem. |
 |**Spravovaná služba**   |Alespoň jedna spravovaná služba, služba IP nebo aplikace pro řešení zákazníků. Přečtěte si další informace o přidávání [spravovaných služeb](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Účty – pohledávky** |Podniková infrastruktura, která umožňuje správu fakturace a zřizování zákazníků.
+|**Účty – pohledávky** |Podniková infrastruktura, která umožňuje správu fakturace a zřizování zákazníků.|
 
 ### <a name="verify-direct-bill-eligibility"></a>Ověřit nárok na přímé vyúčtování
 

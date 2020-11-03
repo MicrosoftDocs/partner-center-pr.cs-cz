@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527754"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795827"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Sloučení partnerského účtu s jiným partnerským účtem
 
@@ -89,7 +89,27 @@ Pokud se rozhodnete přijmout pozvánku ke sloučení účtů: · Vaše ID MPN a
 3. Přidejte ID MPN nacházející se v **partnerském profilu** účtu, který chcete s vámi vyzvat ke sloučení. Musíte použít jeho globální ID MPN partnera. Nemůžete použít umístění MPN ID.
 
 4. Když vyberete **Sloučit** , pošle se Partnerská společnost Pozvánka. Po přijetí žádosti můžete sloučení účtů zahájit v partnerském centru. Pokud společnost vaši žádost o sloučení účtů odmítne, může vysvětlit, proč žádost zamítla. Seznam všech sloučení vašich účtů najdete v části **Historie sloučení** .
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>Příklad dvou společností, které slučují účty
 
+1. Společnost Contoso má 
+
+    a. [ID globálního mpn 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) a jedno podřízené [umístění ID MPN 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+  
+    b. tenant Azure AD = @contoso.com
+ 
+    c. Gold Competency, který vyprší 1. října 2020
+2. Fabricam má
+ 
+    a.  globální ID MPN 3333333 a dvě podřízená umístění ID MPN 4444444 a 5555555
+
+    b.  tenant AAD = @fabricam.com
+
+    c.  dvě zlaté kompetence, jejichž platnost končí 1. prosince 2020.
+3.  Společnost Contoso nakupuje fabricam a přejde [sem](https://partner.microsoft.com/dashboard/account/merger) , aby zahájila žádost o sloučení.
+4.  Fabricam se přihlásí do partnerského centra a přejde na stejnou stránku jako contoso, která byla v kroku #3, ke schválení žádosti společnosti Contoso.
+5.  Společnost Contoso kontroluje podrobnosti o sloučení na stejné stránce a poskytuje potvrzení, aby bylo možné pokračovat v spojování s účtem.
+    
 ## <a name="next-steps"></a>Další kroky
 
 - [Přiřazování uživatelských rolí a oprávnění](permissions-overview.md)

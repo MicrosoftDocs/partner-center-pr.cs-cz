@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
+ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527805"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "93244059"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Zobrazení, Správa a export podrobností programu pobídek
 
@@ -89,7 +89,7 @@ Získání přístupu ke stránce **Přehled mých pobídek** :
 ## <a name="payments-page"></a>Stránka platby
 Součty na této stránce reprezentují všechna ID MPN, která používáte. Můžete je filtrovat podle ID účastníka, programu, ID platby a typu příjmu. Částky jsou uvedené v USD. Zaplacené částky jsou uvedené také v měně příjemce.
 
-|**Plošný**   |**Popis**    |
+|**Oblast**   |**Popis**    |
 |------------------|:-------------------------------------|
 |Celkem placené letos        |Celková částka, která se za tento rok zaplatila v USD, pro všechna vaše ID MPN.                                      |
 |Další odhadovaná platba      |Jedna další platba přichází vám (i v případě, že už brzy připravujeme), v amerických dolarech.                                     |
@@ -105,6 +105,61 @@ Na této stránce se zobrazí všechny vaše tržby, včetně data, typu a pří
 Chcete-li zobrazit další podrobnosti o objektu k dispozici, vyberte šipku dolů na pravé straně stránky. Tím se zobrazí páčka, objem výnosů, produkt a zákazník. Pokud z nějakého důvodu není k dispozici některá z těchto dat, ale potřebujete k ní přístup, obraťte se na podporu. Pokud je výsledkem vyrovnání výsledek úpravy, a ne transakce, pole produkt a zákazník se nezobrazí.
 
 Pokud chcete na této stránce Exportovat data transakcí, vyberte **exportovat** a potom postupujte podle pokynů na stránce Export dat. Soubory exportované ze stránky historie transakcí zobrazují data v měně transakce, výnosy v transakčních měnách i v amerických dolarech a placené hodnoty v hodnotě Pay to Currency.
+
+### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Odeslání daňové faktury jako důkazu provedení (PoE)
+
+>[!NOTE]
+>Tento obsah se vztahuje **pouze** na partnery v Indii, Číně, Itálii, Koreji, Mexiku a na Tchaj-wan. <br><br>K odeslání pevné kopie daňové faktury se vyžadují partneři v Indii.
+
+#### <a name="submit-a-tax-invoice"></a>Odeslat daňovou fakturu
+
+Pokud jste partnerem v jedné ze zemí uvedených výše, společnost Microsoft vás upozorní e-mailem, který je potřeba k odeslání daňové faktury, aby mohla nárok na své pobídky. E-mail, který obdržíte, vám poskytne pokyny k odeslání daňové faktury a také seznam všech potřebných informací.
+
+K odeslání daňové faktury v tištěné kopii se vyžadují partneři v Indii. Partneři v ostatních zemích můžou odeslat buď pevný nebo měkký opis.
+
+Svou daňovou fakturu musíte odeslat do 180 dnů od vaší deklarace. Až vaši fakturu obdržíme a ověříte, zpracujeme vaši platbu s pobídkou.
+
+Spolu s daňovou fakturou musíte odeslat následující informace:
+
+- Číslo faktury (Toto je číslo, které vygenerujete) 
+
+- Referenční číslo pro pobídky pro kanály (CI) (poskytované Microsoftem) 
+
+- Název vašeho programu pro podnět
+
+- Právní jméno a Adresa plátce v partnerském profilu 
+
+- Množství příjmů
+
+- Částka daně
+
+Pokud neznáte referenční číslo pro informace o pobídek (CI), najdete je na následujících třech místech: 
+
+- E-mailová oznámení Microsoftu pošleme vašemu správci s motivem pro správu. 
+
+- [Řídicí panel partnerského centra](https://partner.microsoft.com/dashboard/) (požadováno přihlášení) na kartě **placené** i na kartě **čeká na vyřízení** .  
+
+- Vaše sestava platby, která se nachází na [stránce pro export stažení platby](/partner-center/understand-incentive-payouts#payment-download-export). 
+
+#### <a name="if-your-submission-is-rejected"></a>Pokud se vaše odeslání odmítne
+
+Nejpravděpodobnější příčinou odmítnutí odeslání je, že informace o daňové faktuře neodpovídají informacím v našich záznamech. Mezi příklady chybějících nebo nesprávných dat patří: 
+
+- Číslo daně GST (zboží a služeb) vaší společnosti
+
+- Vaše harmonizovaná klasifikace (HSN) a kód pro účet služby (SAC)
+
+- Číslo faktury (nesmí překročit 16 číslic)
+
+- Datum faktury
+
+- Hodnota daně (včetně a exkluzivní)
+
+- Pokud je vaše společnost ve stejném stavu jako společnost Microsoft, je nutné zarovnat daňové procentní podíly pro centrální zboží a daň ze služeb (CGST) a daň za zboží a služby (SGST).
+
+- Pokud je vaše společnost v jiném stavu než Microsoft, musíte zadat procento pro integrované zboží a daň ze služby (IGST).
+
+Odesílání lze také odmítnout, pokud jsou poskytnuty více než 180 dní po deklaraci identity, pokud je faktura neplatná nebo pokud byla data zadána nesprávně.
 
 ### <a name="estimated-payment-month"></a>Odhadovaný měsíc platby
 
@@ -140,18 +195,18 @@ Všimněte si, že vaše platba se vydává v předpokládaném měsíci, pokud 
 
 |**Stav vystavení** |**Důvod** |**Je vyžadována akce partnera?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
-|Nezpracované        | Zisk má nárok na platbu. Zůstane v tomto stavu pro období chlazení, jak je definováno v Průvodci programu pro program k Pobídkě.       |No        |
-|Nadcházející      |Platební objednávka vygenerovala nevyřízené interní recenze před zpracováním platby.       |No       |
+|Nezpracované        | Zisk má nárok na platbu. Zůstane v tomto stavu pro období chlazení, jak je definováno v Průvodci programu pro program k Pobídkě.       |Ne        |
+|Nadcházející      |Platební objednávka vygenerovala nevyřízené interní recenze před zpracováním platby.       |Ne       |
 |Nevyřízená daňová faktura      |Vaše daňová faktura je neúplná nebo neplatná.          |Abyste mohli platit, musíte si nejdřív aktualizovat svou daňovou fakturu.         |
 |Zamítnuto během revize        |Platba byla během revize odmítnuta.          |Podrobnosti získáte od podpory Microsoftu.         |
-|Neúspěšný        |Platba se nezdařila z důvodu chyby systému společnosti Microsoft.         |Podrobnosti získáte od podpory Microsoftu.         |
-|Probíhá     |Platba probíhá.         |No         |
-|Nesprávná platba        |Recouping platby probíhá.          |No        |
-|Odesláno        |Platba byla odeslána do vaší banky.          |No       |
-|Opětovného zpracování       |V platbě došlo k systémové chybě společnosti Microsoft a probíhá její přepracování.           |No         |
-|Reversed        |Platba byla stornována vaší bankou a bude odeslána znovu v dalším platebním cyklu.          |No        |
+|Neúspěšné        |Platba se nezdařila z důvodu chyby systému společnosti Microsoft.         |Podrobnosti získáte od podpory Microsoftu.         |
+|Rozpracované     |Platba probíhá.         |Ne         |
+|Nesprávná platba        |Recouping platby probíhá.          |Ne        |
+|Odesláno        |Platba byla odeslána do vaší banky.          |Ne       |
+|Opětovného zpracování       |V platbě došlo k systémové chybě společnosti Microsoft a probíhá její přepracování.           |Ne         |
+|Reversed        |Platba byla stornována vaší bankou a bude odeslána znovu v dalším platebním cyklu.          |Ne        |
 |Daňová faktura odmítnuta       |Vaše daňová faktura byla během revize odmítnuta. Všechny probíhající platby budou pozastaveny, dokud se nedokončí kontrola daňové faktury.          |Podrobnosti získáte od podpory Microsoftu.         |
-|Daňová faktura pod kontrolou        |Vaše daňové faktury se přezkoumávají. Po schválení daňové faktury se vaše platba uvolní.           |No        |
+|Daňová faktura pod kontrolou        |Vaše daňové faktury se přezkoumávají. Po schválení daňové faktury se vaše platba uvolní.           |Ne        |
 |Zamítnuto        |Platba byla odmítnuta vaší bankou.           |Podrobnosti získáte od své banky.  |
 
 ## <a name="export-data-page"></a>Stránka pro export dat

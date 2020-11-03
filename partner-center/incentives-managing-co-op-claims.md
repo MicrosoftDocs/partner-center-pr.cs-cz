@@ -1,5 +1,5 @@
 ---
-title: Správa souběžných deklarací identity
+title: Správa žádostí o spolupráci
 description: Pochopení procesu deklarace identity souběžně, včetně konečných termínů, problémů s měnou a způsobu sporu o odmítnutou deklaraci souběžného plnění.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92527646"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133146"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Správa podnětů pro spolupracovní deklarace
 
@@ -65,16 +65,14 @@ Pokud se materiály, které jste přiložili k vaší žádosti o pobídku spolu
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. V části **pobídky** vyberte **Správa plánů** .
+2. V části **pobídky** vyberte **Správa souběžného řízení** .
 
-3. Vyberte možnost **Správa souběžného řízení** .
+3. Vyberte žádost o pobídku spolupráce, kterou chcete rozporovat. Otevře se stránka deklarace identity na co-op.
 
-4. Vyberte žádost o pobídku spolupráce, kterou chcete rozporovat. Otevře se stránka deklarace identity na co-op.
-
-5. V dolní části stránky vyberte **Rozporovat** .
+4. V dolní části stránky vyberte **Rozporovat** .
 
 Tým pro ověřování žádostí o pobídky spolupráce vaši žádost během pěti pracovních dnů zkontroluje. Během této doby se bude zobrazovat stav **Rozporováno** . Můžeme vás kontaktovat s žádostí o další informace. Po dokončení kontroly tým pro ověřování aktualizuje stav na **Schváleno** , **Zamítnuto** nebo **Vyžaduje se akce partnera** .
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Začínáme s motivací](incentives-get-started-intro.md)
+- [Začínáme s pobídkami](incentives-get-started-intro.md)

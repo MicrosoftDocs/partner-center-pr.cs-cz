@@ -1,7 +1,7 @@
 ---
 title: Správa podnětů pro spolupracovní deklarace
 ms.topic: how-to
-ms.date: 10/02/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Naučte se iniciovat podněty pro souběžné operace z partnerského centra. Můžete zobrazit všechny aktivity, které se docházejí do sestavení vaší deklarace v historii.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1af4620d040931ebbc263339fbfe37c1f26d0123
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 9b2f0b3acbbf3ad9648301b85cec3b8837e3e51e
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92527645"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132942"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Vytvoření a Správa deklarace identity spolupracovních pobídek
 
@@ -32,15 +32,13 @@ V rámci partnerského centra můžete iniciovat deklaraci identity.
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. Vyberte kartu **pobídek** a potom vyberte **plány Správa** .
+2. Vyberte kartu **pobídky** a potom vyberte možnost **Správa souběžných** .
 
-3. Vyberte možnost **Správa souběžného řízení** .
+3. Pokud už máte deklaraci identity v procesu, na stránce Přehled deklarací identity se zobrazí informace o stavu existujících deklarací identity a schválených, deklarovaných a celkových finančních prostředků.
 
-4. Pokud už máte deklaraci identity v procesu, na stránce Přehled deklarací identity se zobrazí informace o stavu existujících deklarací identity a schválených, deklarovaných a celkových finančních prostředků.
+4. Pokud chcete vytvořit novou deklaraci identity, vyberte **vytvořit deklaraci identity** .
 
-5. Pokud chcete vytvořit novou deklaraci identity, vyberte **vytvořit deklaraci identity** .
-
-6. Když jste vyplnili počáteční formulář a vybrali možnost **vytvořit deklaraci identity** , přejdete na stránku s podrobnostmi o deklaraci, na kterou budete moct přidávat faktury, dokumenty CSR, dokumenty ověření a metriky. V případě potřeby můžete přidat také další informace.
+5. Když jste vyplnili počáteční formulář a vybrali možnost **vytvořit deklaraci identity** , přejdete na stránku s podrobnostmi o deklaraci, na kterou budete moct přidávat faktury, dokumenty CSR, dokumenty ověření a metriky. V případě potřeby můžete přidat také další informace.
 
 Na stránce Podrobnosti o žádosti můžete požádat ostatní uživatele ve vaší organizaci o nahrání dokumentace do formuláře. Ke každému nahranému doprovodnému dokumentu můžete zadat podrobné vysvětlivky. 
 

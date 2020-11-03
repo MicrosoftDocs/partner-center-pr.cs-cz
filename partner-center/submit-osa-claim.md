@@ -1,7 +1,7 @@
 ---
-title: Vytvořit přidružení zákazníka
+title: Vytvoření přidružení zákazníka
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Vytvořte přidružení zákazníka s modelem deklarace identity Partner of Record (CPOR). Pomáhá spravovat prodej, použití, pobídky pro Microsoft 365 & zákazníky Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527737"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917246"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Přidružení zákazníků prostřednictvím deklarovaného modelu CPOR (Partner of Record) pro Microsoft 365 a Dynamics 365
 
@@ -35,9 +35,9 @@ K dokončení deklarace identity budete potřebovat následující informace:
 
 - **ID MPN** pro vaši entitu, která provádí deklaraci identity
 
-- **Název domény** zákazníka [najdete](find-domain-name.md) tady.
+- **Název domény** zákazníka [najdete](find-ids-and-domain-names.md) tady.
 
-- [Toto zjištění](find-domain-name.md) **ID adresáře** nebo **ID tenanta** zákazníka
+- [Toto zjištění](find-ids-and-domain-names.md) **ID adresáře** nebo **ID tenanta** zákazníka
 
 - **Oblast řešení** , například Business Applications nebo Microsoft 365
 
@@ -65,7 +65,7 @@ Měli byste taky pochopit následující body:
 
 - Zákazník může mít více partnerů, ale každá úloha (pro OSU-Microsoft 365) nebo předplatné (pro OSA-Sell a OSU-Business aplikace) může být přidružená jenom k jednomu partnerovi.
 
-## <a name="create-a-customer-association"></a>Vytvořit přidružení zákazníka
+## <a name="create-a-customer-association"></a>Vytvoření přidružení zákazníka
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
@@ -73,7 +73,7 @@ Měli byste taky pochopit následující body:
 
 3. V horní části stránky přidružení zákazníka vyberte **+ přidružení zákazníka** .
 
-4. Vyberte **ID MPN** umístění partnera, které se má k zákazníkovi přidružit, a pak přidejte název domény zákazníka a ID adresáře. [Najít](find-domain-name.md)
+4. Vyberte **ID MPN** umístění partnera, které se má k zákazníkovi přidružit, a pak přidejte název domény zákazníka a ID adresáře. [Najít](find-ids-and-domain-names.md)
 
 5. Vyberte **Pokračovat** .
 

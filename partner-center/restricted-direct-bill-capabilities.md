@@ -1,7 +1,7 @@
 ---
 title: Omezené přímé možnosti fakturace
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si o požadavcích na partnery pro poskytovatele CSP a o tom, jak zamezit omezením možností. Zjistěte, jestli jsou vaše schopnosti omezené.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92527073"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795762"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Omezené možnosti přímého vyúčtování a požadavky, které jsou potřeba pro partnery poskytovatele CSP Direct  
 
@@ -51,7 +51,7 @@ Pokud jsou možnosti přímých faktur omezené, nebudete už moct zákazníkům
 
 V rámci programu CSP nemůžete použít [nabídku Azure partner Shared Services](shared-services.md) k nákupu nových předplatných Azure pro vlastní použití.
 
-Existujícím předplatným přímých fakturování nejsou ovlivněny. Zůstávají platné a jsou obnovovány znovu. Společnost Microsoft bude nadále účtována přímo, dokud nebudou zrušeny. Stávající odběry můžete spravovat následujícími způsoby:
+Existujícím předplatným přímých fakturování nejsou ovlivněny. Zůstávají platné a jsou automaticky obnovovány. Společnost Microsoft bude nadále účtována přímo, dokud nebudou zrušeny. Stávající odběry můžete spravovat následujícími způsoby:
 
 - Pozastavit existující předplatná
 

@@ -1,7 +1,7 @@
 ---
 title: Práce s nepřímými zprostředkovateli v programu CSP
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si, jak můžou nepřímý prodejci spolupracovat s nepřímými poskytovateli Microsoftu (nebo distributory) a získat pomoc s zákaznickou podporou a fakturací.
@@ -10,20 +10,23 @@ ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92527678"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795844"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Naučte se, jak v programu Cloud Solution Provider spolupracuje s nepřímými poskytovateli.
 
+**Platí pro**
+
+- Partnerské centrum
+
 **Příslušné role**
 
-- Globální správce
-- Správce uživatelů
-- Agent správce
+
+- Všichni partneři Microsoftu, kteří mají zájem o registraci v programu Cloud Solution Provider
 
 
 Rychle rostoucí poptávka pro cloudová řešení a služby nabízí spoustu příležitostí pro partnery Microsoftu všech velikostí, aby mohli sestavovat ziskové cloudy obchodních řešení. Partneři, kteří jsou připravení na uvedení na trh, ale kteří nechtějí spravovat více dodavatelů nebo kteří nemají na začátku koncovou infrastrukturu pro správu vztahů se zákazníky, mohou registrovat v programu Microsoft Cloud Solution Provider (CSP) jako nepřímý prodejce.
@@ -47,7 +50,7 @@ Další informace o tom, co je potřeba k prodeji v programu CSP jako nepřímý
 
 ### <a name="before-you-begin"></a>Než začnete
 
-Pokud s CSP začínáte, budete se muset zaregistrovat v programu jako nepřímý prodejce. Pak je potřeba vytvořit účet v partnerském centru. K tomu je potřeba během procesu registrace zadat následující informace. Než začnete, může trvat několik minut, než se shromáždí tyto položky:
+Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskytovatele noví noví, zaregistrovaní v programu CSP jako nepřímý prodejce. Pak je potřeba vytvořit účet v partnerském centru. K tomu zadáte během procesu registrace následující informace. Než začnete, může trvat několik minut, než se shromáždí tyto položky:
 
 - **Přihlašovací údaje globálního správce pro váš pracovní účet**
 
@@ -65,7 +68,7 @@ Pokud s CSP začínáte, budete se muset zaregistrovat v programu jako nepřím�
 
 ### <a name="get-started"></a>Začínáme
 
-1. Pokud chcete tento proces aktivovat, klikněte na [**uvítací stránku**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) a zaregistrujte se.
+1. Pokud chcete zahájit proces registrace, klikněte na [**uvítací stránku**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) , která se zaregistruje.
 
 2. Zkontrolujte **úvodní stránku** a ujistěte se, že máte informace, které potřebujete k registraci, a pak vyberte **Další** .
 
@@ -99,6 +102,16 @@ Pokud s CSP začínáte, budete se muset zaregistrovat v programu jako nepřím�
 
    2. Ze seznamu uživatelů vyberte své jméno. Vyberte možnost **Agent správce** , pokud ještě není vybraný. Vyberte **Aktualizovat** .
 
+## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Všichni nepřímý prodejci musí podepsat smlouvu o partnerovi Microsoftu.
+
+1.  Pokud jste se ještě nepřesunuli do partnerského centra z partnerského centra pro členství, udělejte to teď. Chcete-li získat nápovědu k přesunu do partnerského centra, přečtěte si [příručku pro migraci z PMC do partnerského centra](guide-to-migration.md). 
+
+2.  Pokud máte účet pro členství v partnerském centru (MPN ID), musíte si ho i nadále úředně zaregistrovat v programu Cloud Solution Provider. Pokud chcete zkontrolovat stav členství, vyhledejte svůj [**partnerský profil**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) a potvrďte typ účtu. Pak se [jako nepřímý prodejce zaregistrujete do zprostředkovatele CSP](enrolling-in-the-csp-program.md). Jakmile se zaregistrujete jako nepřímý prodejce, [přijměte žádost o vztah CSP od svého nepřímého poskytovatele](indirect-reseller-tasks-in-partner-center.md).
+
+3.  Pokud jste už zaregistrovali v partnerském centru jako nepřímý prodejce, přijměte na [řídicím panelu partnerského centra](https://partner.microsoft.com/pcv/dashboard/overview) pomocí přihlašovacích údajů globálního správce smlouvu s partnerem Microsoftu. Potvrďte, že jste si zaregistrovali smlouvu s partnerem Microsoftu v části **informace o programu** v profilu partnera. Na stránce Přehled CSP se zobrazí také oznámení potvrzující hlavičku. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Hlavička zeleného přijetí":::
+
 
 ## <a name="connect-with-an-indirect-provider"></a>Spojení s nepřímým poskytovatelem
 
@@ -128,6 +141,8 @@ Pokud se chce nepřímý poskytovatel spojit s vámi v partnerském centru, zah�
 
 
 ## <a name="next-steps"></a>Další kroky
+
+- [Proces ověření účtu](verification-responses.md)
 
 - [Správa účtu v Partnerském centru](partner-center-account-setup.md)
 

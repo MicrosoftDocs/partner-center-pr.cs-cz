@@ -1,7 +1,7 @@
 ---
 title: Registrace do programu Cloud Solution Provider
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Naučte se, jak se zaregistrovat v programu Cloud Solution Provider (CSP), který je nejvhodnější pro vaši firmu, jako je například nepřímý prodejce nebo partner s přímým fakturací.
@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 1074b25ef90495db82600fc5c18b335a91970d84
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527802"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917157"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrace do programu Cloud Solution Provider
 
 **Platí pro**
 
-- Program Cloud Solution Provider  
+- Partnerské centrum  
 
 **Příslušné role**
 
@@ -73,6 +73,7 @@ Jako partner s přímým přístupem jste vlastníkem ucelený vztah se zákazn�
 |**ID MPN**   |ID aktivního Microsoft Partner Network (MPN) pro vaše obchodní umístění.    |
 |**Doporučení**   |Autorita přijmout a podepsat právní smlouvy jménem vaší organizace.|
 |**Podpora**   |Možnost poskytnout zákazníkům první úroveň podpory cloudových produktů. <br>Plán podpory společnosti Microsoft, ať už pokročilá podpora pro partnery (ASfP) nebo Premier Support pro partnery (smlouvou psfp můžou), podle vašich potřeb. [Porovnejte plány podpory](https://partner.microsoft.com/support/partnersupport).<br> Důležité: než si koupíte plán podpory, musíte před nákupem plánu předat kontrolu kreditu. Po úspěšné kontrole kreditu vás pošleme e-mailem. |
+|**Požadavek na výnosy**|Musí splňovat minimálně USD300K v programu Cloud Solution Provider roční tržby během posledních dvanácti měsíců jako nepřímý prodejce. Partneři si můžou prohlédnout na konci dvanácti měsíců výnosů na partnerském centru. prodeje, které tvoří USD300K na 12 měsíců, podléhají kontrole a ověření od Microsoftu a můžete být vyzváni k zadání dalších informací. Požadavek na příjmy USD300K se vypočítá na základě výnosů z cloudu a vyloučí trvalé software v CSP.|
 |**Spravovaná služba**   |Alespoň jedna spravovaná služba, služba IP nebo aplikace pro řešení zákazníků. Přečtěte si další informace o přidávání [spravovaných služeb](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Účty – pohledávky** |Podniková infrastruktura, která umožňuje správu fakturace a zřizování zákazníků.
 

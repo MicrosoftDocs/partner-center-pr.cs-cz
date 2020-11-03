@@ -1,19 +1,19 @@
 ---
 title: Řešení potíží s platbami a příjmy
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/30/2020
 description: Naučte se řešit problémy, jako jsou chybějící nebo nesprávné tržby, problémy s nárokem a postup sjednocení vašich pobídek.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 02d6aaf05abfed993d7fcb24f74b5303417b7636
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: e3a8890127ce9ff73fd09b7a35d4e167b5629f45
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92527248"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189760"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Řešení potíží s chybějícími platbami, nesprávnými tržbami a dalšími problémy
 
@@ -98,55 +98,61 @@ Příčinou chybějících nebo nesprávných příjmů může být některý z 
 
 - **Možná jste nesplnili požadavky.**  Zkontrolujte, jestli pro požadovanou pobídku splňujete [podmínky zakládající nárok](#my-payment-is-missing-or-incorrect) a pravidla způsobilosti pro výnosy.
 
-- **Mohlo dojít k nesrovnalostem.**  Pokud splňujete podmínky partnerského a oprávněného příjmu a stále se zobrazuje nesprávné tržby, mohou vám při načítání dat pomáhat následující informace.
- 
-Tržby si můžete prohlédnout prostřednictvím **historie transakcí** nebo **plateb** v partnerském centru kliknutím na ikonu **Výběr** na navigačním panelu v partnerském centru. 
+- **Mohlo dojít k nesrovnalostem.**  Pokud splňujete požadavky na nárok na splnění [programu](incentives-determined-your-program-eligibility.md) a nároky na [nárok na způsobilost](incentives-confirm-your-earnings-eligibility.md) a vaše tržby se pořád zdají být nesprávné, mohou vám při načítání dat pomáhat následující informace.
+
+Tržby se zobrazují na stránce **historie transakcí** i na stránce s **platbami** . Na obě stránky můžete přistupovat výběrem ikony **Výběr** na navigačním panelu v partnerském centru.
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="Informace o transakcích":::
 
 Částky za měsíc v zobrazení historie transakcí se nemůžou zarovnat s obdrženou výší platby za konkrétní měsíc. Je to kvůli opakovaným výpočtům a úpravám v předchozích obdobích, které se vztahují na budoucí platby.
 
 Například úprava pro tržby z ledna 2019, která byla zpracována v září 2019, se neprojeví v množství příjmů za září 2019; až se ale přijme platba za září 2019, bude zahrnovat úpravu pro 2019. ledna, která byla použita v září.
+
 V tomto scénáři budete muset stáhnout podrobnosti o transakcích a získat kompletní přehled o všech příjmech zahrnutých do platby.  Navíc můžete přejít na zobrazení platby a stáhnout transakce pro každou platbu.
 
 ### <a name="transaction-history"></a>Historie transakcí
 
-Toto zobrazení umožňuje zobrazit trendy zisků a plateb podle měsíců, zisků podle stavu a podrobností transakcí spolu se stavem platby pro každou transakci. Data se zobrazují jenom pro programy a ID MPN, ke kterým máte přiřazenou roli motivace uživatel nebo správce.
+V tomto zobrazení se zobrazují trendy zisků a plateb podle měsíce, příjmů podle stavu a podrobností transakcí spolu se stavem platby pro každou transakci. Data se zobrazují jenom pro programy a ID MPN, pro které jste připravujete uživatele nebo správce.
 
 ### <a name="payments"></a>Platby
 
-Toto zobrazení umožňuje zobrazit platby pro všechny programy a ID MPN. Data se zobrazují jenom pro programy a ID MPN, ke kterým máte přiřazenou roli motivace uživatel nebo správce. V tomto zobrazení si můžete stáhnout údaje o úhradách nebo zobrazit podrobnosti o transakcích v rámci jednotlivých plateb. 
+Toto zobrazení umožňuje zobrazit platby pro všechny programy a ID programu MPN. Data se zobrazují jenom pro programy a ID MPN, pro které jste připravujete uživatele nebo správce. Z tohoto zobrazení můžete stáhnout úhradu nebo zobrazit podrobnosti transakce podle platby.
 
-Posuňte se dolů k části **Seznam plateb** a zobrazte platební údaje podle řádku, který zahrnuje úhrady a částky plateb v místní měně. Kliknutím na **úhradu platby** Stáhněte upomínku. Kliknutím na tlačítko **Zobrazit** otevřete novou kartu a zobrazte podrobnosti o úrovni transakce pro konkrétní platbu. 
-
-Chcete-li exportovat podrobnosti transakce do aplikace Excel, klikněte na tlačítko **Start stáhnout** a pak klikněte na položku **exportovat data** . Poznámka: všechny vybrané filtry budou aplikovány na exportovaná data. Jakmile se stav změní na dokončeno, můžete kliknout na tlačítko Stáhnout a podle pokynů vyexportovat sestavu podrobné transakce. Aktualizuje stránku, pokud se stav neaktualizuje během pěti minut. 
+| Akce | Odkaz |
+| ------ | :----------- | 
+| Zobrazit platební údaje podle řádku, včetně peněžních a platebních částek v místní měně  | Zobrazit pole se **seznamem plateb**   |
+| Stažení dopisu pro úhradu   |  Vybrat **úhradu plateb**  |
+| Zobrazit podrobnosti o úrovni transakce pro konkrétní platbu |  Vybrat **zobrazení**  |
+| Exportovat podrobnosti transakce do aplikace Excel  |  Vyberte **Spustit stahování** a pak klikněte na **exportovat data** . Všimněte si, že všechny vybrané filtry budou aplikovány na exportovaná data. Jakmile se stav změní na dokončeno, vyberte **Stáhnout** a podle pokynů exportujte sestavu podrobná transakce. Aktualizuje stránku, pokud se stav neaktualizuje během pěti minut.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Chybějící nebo nesprávné tržby a platby
 
-Pokud nemůžete najít údaje o platbě nebo transakcích, ověřte, zda byly aplikovány správné filtry. Některé názvy programů se změnily, což může vyžadovat vícenásobné výběry (např.: CSP 1T Direct partner, partner pro přímé vyúčtování CSP).
+Pokud nemůžete najít údaje o platbě nebo transakcích, zkontrolujte, zda jste použili správné filtry. Všimněte si, že vzhledem k tomu, že se některé názvy programů změnily (například poskytovatel CSP 1T Direct partner je teď přímým vyúčtováním CSP), možná budete muset použít víc výběrů.
 
-Pokud tyto akce nejsou užitečné a stále nemůžete najít tržby nebo máte stále obavy o nedodržení příjmů, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Pokud stále nemůžete najít své tržby nebo se domníváte, že uvedené příjmy nejsou správné, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="how-do-i-reconcile-my-earnings"></a>Návody sjednotit příjmy?
 
 Pokud narazíte na nesrovnalosti ve vašich příjmech, postupujte následovně:
 
-1. **Ověřte, že na příjmy máte nárok.**  Příjmy budou k dispozici, pouze pokud splníte provozní podmínky zakládající nárok, tj. zaregistrujete se do odpovídajícího programového výdělečného období.
+1. **Ověřte, že na příjmy máte nárok.**  Zisky budou dostupné jenom v případě, že splňujete nárok na [způsobilost programu](incentives-determined-your-program-eligibility.md) a nárok na [příjmy](incentives-confirm-your-earnings-eligibility.md).
 
 2. **Ověřte, že je váš platební profil úplný.**  Počáteční datum pro vaše příjmy v rámci pobídky bude první den měsíce, ve kterém jste splnili všechny podmínky zakládající nárok včetně onboardingu se zadáním podrobností o platbách a daních. Za měsíce před tím, než zadáte podrobnosti o platbách a daních, nebudou příjmy k dispozici. Pokud například splníte všechny požadavky během dubna 2020, počáteční datum pro vaše příjmy bude 1. dubna 2020. 
 
-3. **Ověřte, že splňujete požadavky.**  Zkontrolujte, jestli pro požadovanou pobídku splňujete [podmínky zakládající nárok](#my-payment-is-missing-or-incorrect) a pravidla způsobilosti pro výnosy.
+3. **Ověřte, že splňujete požadavky.**  Zkontrolujte, jestli jste splnili pravidla [nároku](#my-payment-is-missing-or-incorrect) a nároku na dodržování předpisů pro svůj program pro podnět.
 
-Pokud vám tyto akce nepomůžou a vaše příjmy stále nejsou vypořádané, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Pokud tyto akce nejsou užitečné a vaše tržby ještě nejsou odsouhlasené, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>Kde najdu své sazby?
 
 1. Přihlaste se k [pobídkám partnerů](https://partner.microsoft.com/membership/partner-incentives).
 
-2. Přejděte dolů a získejte přístup k dokumentům pro váš zúčastněný program a klikněte na odkaz na dokument pro příslušný program.
+2. Přejděte dolů a získejte přístup k dokumentům pro váš program.
 
-3. V dokumentu, přečtěte si část **Struktura a sazby programu** .
+3. Vyberte odkaz na dokument pro příslušný program.
+
+4. V dokumentu, přečtěte si část **Struktura a sazby programu** .
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Správa souběžných deklarací identity](incentives-managing-co-op-claims.md)
+- [Správa žádostí o spolupráci](incentives-managing-co-op-claims.md)

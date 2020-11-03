@@ -1,7 +1,7 @@
 ---
 title: Vyžadování vícefaktorového ověřování u partnerského tenanta
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Naučte se, jak mandating MFA pro vaše partnerské klienty pomůže zabezpečit váš přístup k zákaznickým prostředkům. Obsahuje vzorové scénáře.
@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a85a7e415eac7f54ccd52302e350ce20de9856d
-ms.sourcegitcommit: 0cea15df24a6a1b310535eb1cb5e167dc2248a95
+ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "92527728"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680404"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Mandating Multi-Factor Authentication (MFA) pro vašeho partnerského tenanta
 
@@ -43,9 +43,7 @@ Partneři se musí vymáhat službou Multi-Factor Authentication (MFA) u všech 
 
 Vyšší a nepřetržité zabezpečení a ochrana osobních údajů jsou z našich nejdůležitějších priorit a budeme dál pomáhat partnerům chránit své zákazníky a klienty. Všichni partneři účastnící se programu Cloud Solution Provider (CSP), dodavatelé ovládacích panelů (CPVs) a poradci musí implementovat požadavky na [zabezpečení partnerů](partner-security-requirements.md) , aby zůstaly v souladu.
 
-Společnost Microsoft začala aktivovat další bezpečnostní opatření pro klienty partnera. Tato aktivace ochrany může pomáhat partnerům zabezpečit své klienty a jejich zákazníky tím, že mandating ověřování vícefaktorového ověřování (MFA), aby se předešlo neoprávněnému přístupu.
-
-Úspěšně jsme dokončili aktivaci pro možnosti delegované správy partnera pro všechny partnerské klienty. Aby bylo možné lépe chránit partnery a zákazníky od 1. května 2020, zahájíme aktivaci pro transakce partnerského centra ve zprostředkovateli CSP a pomůžete partnerům chránit své firmy a zákazníky před incidenty související s krádeží identity.
+Abychom svým firmám a zákazníkům usnadnili ochranu svých podniků a zákazníků před incidenty souvisejícími s krádeží identity, aktivovali jsme další bezpečnostní zabezpečení pro partnerské klienty, kteří můžou partnerům a zákazníkům zajistit, aby mandating ověřování vícefaktorového ověřování (MFA), aby se předešlo neoprávněnému přístupu. 
 
 Tato dokumentace poskytuje partnerům podrobné zkušenosti a pokyny týkající se aktivace bezpečnostních zabezpečení.
 

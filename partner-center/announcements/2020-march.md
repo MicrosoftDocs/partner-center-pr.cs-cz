@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ff697bec18c59957d8be7d5ec8ad09edb364b6bb
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92527695"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795794"
 ---
 # <a name="march-2020-announcements"></a>Oznámení z března 2020
 
@@ -63,7 +63,7 @@ Toto přejmenování umožňuje zákazníkům lépe pochopit přírůstkovou hod
 
 Také řeší nekonzistence názvů v plánech Office 365/Microsoft 365 Business. Podobně Toto přejmenování jasně odděluje základní aplikace Office, které se prodávají v rámci nových Microsoft 365 aplikací pro firmy/Enterprise, od širších plánů.
 
-### <a name="additional-resources"></a>Další materiály
+### <a name="additional-resources"></a>Další zdroje informací
 
 Další informace najdete na naší [stránce s partnerem pro M365](https://www.microsoft.com/microsoft-365/partners/smb-sku-rename) .
 
@@ -317,7 +317,7 @@ Podívejte se prosím na konkrétní změny v souboru s názvem "Dynamics CSP Of
 
 - [Domovská stránka Dynamics 365](https://dynamics.microsoft.com/)
 - [Stránka s přehledem pro aplikace hybridní reality](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Domovská stránka s podvody pro podvod aplikací](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing//docs.microsoft.com/dynamics365/fraud-protection/overview)
+- [Domovská stránka s podvody pro podvod aplikací](/dynamics365/fraud-protection/overview)
 - [FY20 PowerApps a aktualizace licencování Flow](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Licence k Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 - [Dynamics 365 a Power Platform – dostupnost, umístění dat, jazyk a lokalizace obsahu](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)

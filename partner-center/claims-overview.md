@@ -1,7 +1,7 @@
 ---
 title: Přehled funkcí pro spolupráci a deklarace identity
 ms.topic: article
-ms.date: 09/18/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Naučte se, jak odeslat úspěšnou souběžnou deklaraci vaší pobídky tím, že uspořádáte správnou dokumentaci, faktury, příkazy a provedeme kontrolu provádění.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527290"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133078"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Získat obchodní prostředky pro spolupráci
 
@@ -41,6 +41,9 @@ Další informace najdete na stránce [prostředky pro fondy souběžných op](h
 Společnost Microsoft vypočítá opravňující pobídky na základě procentuálního podílu (například 60% Rabat-40% co-op). Část s rabatem obdržíte s využitím stávajících tempo plateb pro váš individuální program, zatímco společnost Microsoft bude rozlišit část účasti v pobídkách na podnět.
 
 Další informace o tempo plateb a procentech rozdělení najdete v příručce k programu pobídek. [Tento postup](incentives-determined-your-program-eligibility.md) použijte pro přístup k příručce programu.
+
+>[!NOTE]
+>Pokud jsou příjmy mezi op pod prahovou hodnotou v době trvání souběžného navýšení, příjmy za souběžné operace se na konci pololetí převedou na rabat. Další podrobnosti nebo informace o tom, jak určit prahovou hodnotu, najdete v příručce programu pro motivaci.
 
 ## <a name="when-to-claim-your-funds"></a>Kdy získat nárok na vaše prostředky
 
@@ -75,4 +78,4 @@ Následující zdroje vám pomůžou začít pracovat s deklaracemi, které se n
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Začínáme s motivací](incentives-get-started-intro.md)
+- [Začínáme s pobídkami](incentives-get-started-intro.md)

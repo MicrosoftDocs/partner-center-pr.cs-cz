@@ -9,21 +9,25 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527605"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795861"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Přechod z partnera CSP (Cloud Solution Provider) s přímým vyúčtováním na nepřímého prodejce CSP
 
 **Platí pro:**
+- Partnerské centrum
 
-- Partneři CSP
+**Příslušné role**
+
+- Všichni partneři poskytovatele CSP pro přímé vyúčtování
 
 >[!Note]
 >Tento článek je určený pro přímé partnery, kteří se rozhodli přejít na nepřímé prodejce. Nicméně i v případě, že jste ještě neučinili explicitní rozhodnutí k registraci jako nepřímý prodejce, partneři s přímým účtováním, kteří nesplňují nové [požadavky](direct-partner-new-requirements.md) na partnerský program pro přímý přístup CSP, budou od Microsoftu informováni, když [budou jejich přímé možnosti vyúčtování omezeny](restricted-direct-bill-capabilities.md).
+<br>Od ledna 2021 se přidá nový požadavek na tržby. Partneři, kteří se zaregistrovali jako přímý účet pro fakturaci, budou muset v rámci programu Cloud Solution Provider brát v úvahu aspoň USD $300K, a to za předchozí 12 měsíců na úrovni globálního účtu partnera.
 
 V programu nepřímý prodejce se budete moci zaregistrovat pomocí stávajícího klienta přímé fakturace.
 
@@ -337,7 +341,7 @@ Převedený partner by měl provádět tyto akce:
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Přehled":::
 
-### <a name="considerations"></a>Požadavky
+### <a name="considerations"></a>Co je potřeba vzít v úvahu
 
 - **ID předplatného bude po přenosu jiné.** Pokud se jedná o předplatné Azure (MS-AZR-0145P), bude mít navíc ID předplatného Azure, které se zachová od předchozího vlastníka a zobrazí se na portálu pro správu Azure.
 

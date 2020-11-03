@@ -1,7 +1,7 @@
 ---
 title: Přehled programu Cloud Solution Provider
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si další informace o výhodách a různých modelech v programu Cloud Solution Provider (CSP), které vám pomůžou dosáhnout vaší firmy s novými zákazníky a novými znalostmi.
@@ -9,19 +9,19 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9780fe0b90a4889fca1f3a887c445a75b1549eaa
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527788"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917191"
 ---
 # <a name="cloud-solution-provider-program"></a>Program Cloud Solution Provider 
 
 **Platí pro**
 
 - Partnerské centrum
-- Partneři v programu CSP
+
 
 Tento článek poskytuje přehled programu Cloud Solution Provider (CSP) a vysvětluje různé provozní modely a jejich požadavky i další podrobnosti o prodeji prostřednictvím tohoto programu.  Program CSP vám pomůže podílet se na firmách zákazníků, mimo proprodej licencí, a může zahrnovat následující výhody: 
 
@@ -41,6 +41,10 @@ Tento článek poskytuje přehled programu Cloud Solution Provider (CSP) a vysv�
 Podpora
 
 - Rozšiřte své možnosti podpory tím, že si nakoupíte cloudovou podporu s vyšší prioritou pomocí balíčku Microsoft Advanced Support pro partnery. Případně můžete vybrat balíček Microsoft Premier Support for partners pro přístup k kompletnímu katalogu proaktivní služby, 24/7 zvýšená podpora přerušení a oprav a technická správa účtů napříč cloudem, hybridním i místním prostředím.
+
+Výnos
+
+- Musí splňovat minimálně USD300K v programu Cloud Solution Provider roční tržby během posledních dvanácti měsíců jako nepřímý prodejce. Partneři si můžou prohlédnout na konci dvanácti měsíců výnosů na partnerském centru. prodeje, které tvoří USD300K na 12 měsíců, podléhají kontrole a ověření od Microsoftu a můžete být vyzváni k zadání dalších informací. Požadavek na příjmy USD300K se vypočítá na základě výnosů z cloudu a vyloučí trvalé software v CSP.
 
 Služby
 
@@ -70,7 +74,7 @@ Můžete prodávat celou škálu [cloudových služeb Microsoftu](https://partne
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Registrace v programu CSP](enrolling-in-the-csp-program.md)
+- [Registrace do programu CSP](enrolling-in-the-csp-program.md)
 - [Kontrola požadavků pro každý model CSP](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 - [Platí pro prodej v národních cloudech Microsoftu.](csp-national-clouds-overview.md)
 - [Smlouvy o zákaznících Microsoftu podle oblasti a jazyka](agreements.md)

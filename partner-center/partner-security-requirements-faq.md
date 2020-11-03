@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "92527634"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133044"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Nejčastější dotazy týkající se požadavků na zabezpečení partnerů
+# <a name="common-questions-about-partner-security-requirements"></a>Běžné otázky týkající se požadavků na zabezpečení partnerů
 
 **Platí pro**
 
@@ -26,17 +26,16 @@ ms.locfileid: "92527634"
 
 - Všichni povolení uživatelé včetně uživatelů typu Host
 
-## <a name="partner-security-requirements"></a>Požadavky na zabezpečení partnerů
 
-Tento článek obsahuje několik nejčastějších dotazů týkajících se [požadavků na zabezpečení partnera](partner-security-requirements.md).
+Tento článek obsahuje odpovědi na některé běžné dotazy týkající se [požadavků na zabezpečení partnera](partner-security-requirements.md).
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Jaké jsou požadavky na zabezpečení partnerů a proč by měly partneři implementovat?
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Jaké jsou požadavky na zabezpečení partnerů a proč by se měly jejich partneři implementovat?
 
-Vyšší a nepřetržité zabezpečení a ochrana osobních údajů jsou z našich nejdůležitějších priorit a budeme dál pomáhat partnerům chránit své zákazníky a klienty. Dál se podrobněji prodlužuje a zvyšuje počet útoků zabezpečení, které jsou primárně spojené s incidenty ohrožení bezpečnosti identity. Protože preventivní kontroly hrají klíčovou roli v celkové strategii obrany, aby vzdoruje bezpečnostní útoky, představili jsme v 2019 [požadavky na zabezpečení](partner-security-requirements.md) . Všem partnerům zapojeným do programu Cloud Solution Provider (CSP), výrobci ovládacích panelů a poradců by měli implementovat požadavky na udržení kompatibility.
+Vyšší a nepřetržité zabezpečení a ochrana osobních údajů jsou z našich nejdůležitějších priorit a budeme dál pomáhat partnerům chránit své zákazníky a klienty. Dál se podrobněji prodlužuje a zvyšuje počet útoků zabezpečení, které jsou primárně spojené s incidenty ohrožení bezpečnosti identity. Protože preventivní kontroly hrají klíčovou roli v celkové strategii obrany, aby vzdoruje bezpečnostní útoky, představili jsme v 2019 [požadavky na zabezpečení](partner-security-requirements.md) . Všichni partneři účastnící se programu Cloud Solution Provider (CSP), prodejci ovládacích panelů a poradci musí implementovat požadavky, aby zůstaly v souladu.
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Jaké jsou klíčové časové osy a milníky?
 
-Podmínky spojené s těmito požadavky na zabezpečení, včetně časových os a milníků, jsou součástí smlouvy o [partnerovi Microsoftu](microsoft-partner-agreement.md) v 2019. Tyto požadavky na zabezpečení bude nutné co nejdříve implementovat, aby bylo možné v programu CSP v souladu s vaší účastí.
+Podmínky spojené s těmito požadavky na zabezpečení, včetně časových os a milníků, jsou součástí [smlouvy Microsoft Partner Agreement](microsoft-partner-agreement.md). Tyto požadavky na zabezpečení bude nutné co nejdříve implementovat, aby bylo možné v programu CSP v souladu s vaší účastí.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Co se stane, když tyto požadavky na zabezpečení těchto partnerů neimplementujem?
 
@@ -46,11 +45,11 @@ Partneři, kteří tyto postupy zabezpečení nedodržují, mohou ztratit svou s
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Platí požadavky na zabezpečení u všech geografických oblastí?
 
-Ano, požadavky na zabezpečení platí pro všechna geografická pole. Důrazně doporučujeme, aby všichni partneři, kteří pracují v rámci svrchovaného cloudu (21Vianet, USA a Německo), jednali a ihned přijali tyto nové požadavky na zabezpečení. Tito partneři ale nemusejí splňovat nové požadavky na zabezpečení, které platí od 1. srpna. Microsoft nabídne další podrobnosti týkající se vynucování těchto požadavků na zabezpečení pro cloudy svrchovaného v budoucnu.
+Ano, požadavky na zabezpečení platí pro všechna geografická pole. Důrazně doporučujeme, aby všichni partneři procházeli prostřednictvím svrchovaného cloudu (vlády USA a Německa) a okamžitě přijali tyto nové požadavky na zabezpečení. Tito partneři ale momentálně nevyžadují splnění požadavků na zabezpečení. Microsoft nabídne další podrobnosti týkající se vynucování těchto požadavků na zabezpečení pro cloudy svrchovaného v budoucnu.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Je možné získat pro účet vyloučení?
 
-Ne, nemůžete vyloučit žádný uživatelský účet z požadavku na vynucení vícefaktorového ověřování. S ohledem na vysoce privilegovaný charakter je Partnerská smlouva Microsoftu vyžaduje, aby se pro každý uživatelský účet ve vašem partnerském tenantovi vynutilo ověřování pomocí služby Multi-Factor Authentication.
+Ne, z požadavku na vynucení vícefaktorového ověřování (MFA) není možné vyloučit žádný uživatelský účet. S ohledem na vysoce privilegovaný charakter je Partnerská smlouva Microsoftu vyžaduje, aby se pro každý uživatelský účet ve vašem partnerském tenantovi vynutilo ověřování pomocí služby Multi-Factor Authentication.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Návody vědět, jestli splňujem požadavky na zabezpečení partnera?
 
@@ -59,7 +58,7 @@ Je nutné provést následující kroky:
 - Musíte splnit všechny požadavky, které jsou uvedené v požadavcích na [zabezpečení partnera](partner-security-requirements.md).
 - Je potřeba zajistit, aby všechny uživatelské účty ve vašem partnerském tenantovi vynutily službu Multi-Factor Authentication.
 
-Abychom vám pomohli identifikovat klíčové oblasti, kde můžete provádět akce, poskytujeme zprávu o [stavu požadavků na zabezpečení](https://partner.microsoft.com/commerce/security/compliance) , která je k dispozici prostřednictvím partnerského centra.
+Abychom vám pomohli identifikovat klíčové oblasti, kde můžete provádět akce, poskytujeme [zprávu o stavu požadavků na zabezpečení](https://partner.microsoft.com/commerce/security/compliance) , která je k dispozici prostřednictvím partnerského centra.
 
 Další informace o zprávě o stavu najdete v tématu [stav požadavků na zabezpečení partnerů](partner-security-compliance.md) .
 
@@ -95,7 +94,7 @@ Všichni partneři v programu CSP (přímá fakturace, nepřímý poskytovatel a
 
     Dodavatelům ovládacího [panelu se musí zapojit do](enroll-as-cpv.md) partnerského centra jako dodavatel řídicích panelů a okamžitě zahájit implementaci tohoto požadavku. Přečtěte si téma [partner Center: Secure Application Modeling Framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Dodavatelé ovládacích panelů musí místo přihlašovacích údajů přijmout a spravovat souhlas partnerů CSP, a vyprázdnit všechny existující přihlašovací údaje partnerů CSP.
 
-## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
+## <a name="multi-factor-authentication"></a>Ověřování pomocí služby Multi-Factor Authentication
 
 ### <a name="what-is-multi-factor-authentication-mfa"></a>Co je Multi-Factor Authentication (MFA)?
 
@@ -308,7 +307,7 @@ Technické vynucování požadavků na zabezpečení partnera se ověří, pokud
 
 Zásady "základní hodnoty" Azure Active Directory (Azure AD) [se odstraňují a nahrazují](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) "výchozím nastavením zabezpečení", ucelenou sadou zásad ochrany pro vás a vaše zákazníky. [Výchozí nastavení zabezpečení](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) vám může přispět k ochraně vaší organizace před útoky zabezpečení souvisejícími s krádeží identity.
 
-Implementace služby Multi-Factor Authentication (MFA) bude odebrána z důvodu vyřazení zásad standardních hodnot v případě, že jste nepřešli ze základních zásad na zásadu výchozích hodnot zabezpečení nebo [jiné možnosti implementace MFA](partner-security-requirements.md#actions-that-you-need-to-take). Všichni uživatelé v partnerských klientech provádějících operace chráněné MFA budou požádáni o dokončení ověřování MFA. Přečtěte si podrobnější pokyny [zde](partner-security-requirements-mandating-mfa.md).
+Implementace služby Multi-Factor Authentication (MFA) bude odebrána z důvodu vyřazení zásad standardních hodnot v případě, že jste nepřešli ze základních zásad na zásadu výchozích hodnot zabezpečení nebo [jiné možnosti implementace MFA](partner-security-requirements.md#implementing-multi-factor-authentication). Všichni uživatelé v partnerských klientech provádějících operace chráněné MFA budou požádáni o dokončení ověřování MFA. Přečtěte si podrobnější pokyny [zde](partner-security-requirements-mandating-mfa.md).
 Chcete-li zachovat dodržování předpisů a minimalizovat přerušení, proveďte jednu z následujících akcí:
 
 - Přechod na výchozí hodnoty zabezpečení

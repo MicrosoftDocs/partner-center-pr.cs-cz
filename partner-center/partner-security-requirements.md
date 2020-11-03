@@ -1,7 +1,7 @@
 ---
 title: Požadavky na zabezpečení partnerů
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Zavádí požadavky partnerů na povolení vícefaktorového ověřování (MFA) a přijímá rozhraní zabezpečeného modelu aplikace.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "92527653"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680394"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Požadavky na zabezpečení partnerů pro partnery pomocí partnerských Center nebo rozhraní API partnerského centra
 
@@ -58,7 +58,7 @@ Abyste vyhověli požadavkům na zabezpečení partnerů, musíte vymáhat služ
 
 - Azure Active Directory Premium nákupu pro každý uživatelský účet. Další informace najdete v tématu [plánování cloudového nasazení Azure Multi-Factor Authentication](/azure/active-directory/authentication/howto-mfa-getstarted).
 
-- Použití řešení třetí strany k vymáhání služby Multi-Factor Authentication pro každý uživatelský účet v partnerském tenantovi. Chcete-li zajistit, aby řešení poskytovalo očekávané řešení, přečtěte si téma [jak se vynutily požadavky na zabezpečení](#how-the-requirements-will-be-enforced).
+- Použití řešení třetí strany k vymáhání služby Multi-Factor Authentication pro každý uživatelský účet v partnerském tenantovi. Chcete-li zajistit, aby řešení poskytovalo očekávané řešení, přečtěte si téma [jak se vynutily požadavky na zabezpečení](#how-the-requirements-are-enforced).
 
 > [!NOTE]
 > I když se vícefaktorové ověřování nesmluvně nevyžaduje pro svrchovaný Cloud (21Vianet, státní správu USA a Německo), důrazně doporučujeme, abyste přijali tyto požadavky na zabezpečení.
@@ -92,7 +92,7 @@ Pokud chcete přejít ze základních zásad na výchozí nastavení zabezpečen
 
 Vzhledem k tomu, že se tyto požadavky vztahují na všechny uživatelské účty v partnerském tenantovi, je potřeba zvážit několik věcí, abyste zajistili hladké nasazení, včetně určení uživatelských účtů v Azure Active Directory, které nemůžou provádět vícefaktorové ověřování, a také aplikace a zařízení, které vaše organizace používá, které nepodporují moderní ověřování.
 
-Před provedením jakékoli akce doporučujeme, abyste identifikovali následující:
+Před provedením jakékoli akce doporučujeme, abyste dokončili následující ověřování: 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Máte aplikaci nebo zařízení, které nepodporuje použití moderního ověřování?
 
@@ -100,9 +100,9 @@ Pokud využijete starší verzi ověřování služby Multi-Factor Authenticatio
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Máte uživatele, kteří používají Office 365, k dispozici prostřednictvím licencí přidružených k Vašemu partnerskému tenantovi?
 
-Před implementací nějakého řešení doporučujeme určit, jakou verzi systém Microsoft Office uživatelé ve vašem partnerském tenantovi používají. Může se stát, že uživatelé budou mít problémy s připojením k aplikacím, jako je Outlook. Před vynucováním vícefaktorového ověřování je důležité zajistit, že se používá Outlook 2013 SP1 nebo novější a že má vaše organizace povolené moderní ověřování. Další informace najdete [v tématu Povolení moderního ověřování v Exchangi Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) .
+Před implementací nějakého řešení doporučujeme určit, jakou verzi systém Microsoft Office uživatelé ve vašem partnerském tenantovi používají. Může se stát, že uživatelé budou mít problémy s připojením k aplikacím, jako je Outlook. Před vynucováním vícefaktorového ověřování je důležité zajistit, že se používá Outlook 2013 SP1 nebo novější a že má vaše organizace povolené moderní ověřování. Další informace najdete v tématu [Povolení moderního ověřování v systému Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
 
-Pokud chcete povolit moderní ověřování pro všechna zařízení s Windows, která mají nainstalované systém Microsoft Office 2013, budete muset vytvořit dva klíče registru. Viz [Povolení moderního ověřování pro Office 2013 na zařízeních s Windows](/office365/admin/security-and-compliance/enable-modern-authentication).
+Pokud chcete povolit moderní ověřování pro všechna zařízení s Windows, která mají nainstalovanou systém Microsoft Office 2013, budete muset vytvořit dva klíče registru. Viz [Povolení moderního ověřování pro Office 2013 na zařízeních s Windows](/office365/admin/security-and-compliance/enable-modern-authentication).
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Brání některý z uživatelů, aby při práci používal jejich mobilní zařízení?
 
@@ -128,17 +128,19 @@ Výše uvedený seznam není vyčerpávající. Proto je důležité, abyste pro
 
 ## <a name="accessing-your-environment"></a>Přístup k prostředí
 
-Pro lepší pochopení toho, co nebo kdo se ověřuje bez výzvy k ověření služby Multi-Factor Authentication, doporučujeme zkontrolovat aktivitu přihlášení. Prostřednictvím Azure Active Directory Premium můžete využít sestavu přihlášení. Další informace najdete [v tématu sestavy aktivit přihlašování na portálu Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins) . Pokud nemáte Azure Active Directory Premium nebo pokud hledáte způsob, jak ho získat prostřednictvím PowerShellu, budete muset použít rutinu [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity)  z modulu [portálu pro partnerských Center pro partnery](https://www.powershellgallery.com/packages/PartnerCenter/) .
+Pro lepší pochopení toho, co nebo kdo se ověřuje bez výzvy k ověření služby Multi-Factor Authentication, doporučujeme zkontrolovat aktivitu přihlášení. Prostřednictvím Azure Active Directory Premium můžete využít sestavu přihlášení. Další informace o tomto tématu najdete v [sestavách aktivit přihlašování na portálu Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Pokud nemáte Azure Active Directory Premium nebo hledáte způsob, jak získat tuto přihlašovací aktivitu prostřednictvím PowerShellu, budete muset využít rutinu [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity)  z modulu [portálu pro partnery v prostředí PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) .
 
-## <a name="how-the-requirements-will-be-enforced"></a>Jak se vynutily požadavky
+## <a name="how-the-requirements-are-enforced"></a>Jak se vynutily požadavky
 
-Požadavky na zabezpečení partnera vynutila Azure Active Directory a v centru partnerských serverů zkontroluje přítomnost deklarace MFA, aby identifikovala ověřování pomocí služby Multi-Factor Authentication. Od 18. listopadu 2019 Microsoft pro partnerské klienty aktivuje další bezpečnostní zabezpečení (dříve označované jako "technické vynucování"). 
+Požadavky na zabezpečení partnera vynutila Azure Active Directory a v centru partnerských serverů kontrolují přítomnost deklarace MFA, aby identifikovali, že bylo provedeno ověřování službou Multi-Factor Authentication. Od 18. listopadu 2019 společnost Microsoft aktivovala další bezpečnostní zabezpečení (dříve označované jako "technické vynucování") do partnerských tenantů.
 
-Při aktivaci se uživatelé v partnerském tenantovi budou požádáni o ověření vícefaktorového ověřování (MFA) při provádění všech operací ADMINISTRATE (správce). Dál rozšiřujeme rozsah ochrany zabezpečení na další scénáře a role uživatelů a poskytnete partnerům oznámení předem. Další informace najdete v tomto dokumentu, který se často aktualizuje. Partneři, kteří tyto požadavky nesplnili, by měli co nejdříve implementovat tyto míry, abyste se vyhnuli jakýmkoli výpadkům v podniku. 
+Při aktivaci se uživatelé v partnerském tenantovi budou požádáni, aby při provádění všech operací s oprávněními správce (ADMINISTRATE), přístupu k portálu partnerského centra nebo volání rozhraní API partnerského centra vyžádali ověření MFA (Multi-Factor Authentication). Další podrobné informace najdete v tématu [Mandating Multi-Factor Authentication (MFA) pro vašeho partnerského tenanta](partner-security-requirements-mandating-mfa.md). 
+
+Partneři, kteří tyto požadavky nesplnili, by měli co nejdříve implementovat tyto míry, abyste se vyhnuli jakýmkoli výpadkům v podniku. 
 
 Pokud používáte výchozí nastavení zabezpečení Azure Multi-Factor Authentication nebo Azure AD, nemusíte provádět žádné další kroky.
 
-Pokud používáte řešení Multi-Factor Authentication od jiného výrobce, může se stát, že se deklarace MFA nevydá. Pokud tato deklarace identity chybí, Azure Active Directory nebude moct určit, jestli se žádost o ověření nastoupila službou Multi-Factor Authentication. Informace o tom, jak ověřit, že vaše řešení vydává očekávanou deklaraci identity, najdete v tématu [testování požadavků na zabezpečení partnera](/powershell/partnercenter/test-partner-security-requirements). 
+Pokud používáte řešení Multi-Factor Authentication od jiného výrobce, je možné, že se deklarace MFA nevydá. Pokud tato deklarace identity chybí, Azure Active Directory nebude moct určit, jestli se žádost o ověření nastoupila službou Multi-Factor Authentication. Informace o tom, jak ověřit, že vaše řešení vydává očekávanou deklaraci identity, najdete v tématu [testování požadavků na zabezpečení partnera](/powershell/partnercenter/test-partner-security-requirements). 
 
 > [!IMPORTANT]
 > Pokud vaše řešení třetí strany nevydá očekávanou deklaraci identity, budete muset spolupracovat s dodavatelem, který řešení vyvinul, abyste zjistili, jaké akce by se měly provést.
