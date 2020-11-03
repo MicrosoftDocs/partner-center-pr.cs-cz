@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: f90c9ae32e68d6e772c51cede28237f500a0a7b9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: d41ec7b7ce3c8f7140b0944b4d39150ef34a9d83
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917245"
+ms.locfileid: "93027903"
 ---
 # <a name="october-2020-announcements"></a>Oznámení z října 2020
 
@@ -23,6 +23,42 @@ Tato stránka podrobně popisuje oznámení pro partnery Microsoft Partner Cente
 2020 oznámení: [březen](2020-march.md),  |  [April](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md) | Října
 
 ______________
+
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>K dispozici je nyní upgrade školení Windows 10 pro kvalifikované zákazníky poskytovatele Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-10-28
+- Možnosti
+
+### <a name="summary"></a>Shrnutí
+
+Partneři CSP, kteří si zakoupili předplatná Microsoft 365 a3/a5 nebo Windows 10 Enterprise a3/a5 pro své vzdělávání, jim teď mohou pomáhat s upgradem svých domácích zařízení s Windows 10 na vzdělávání s Windows 10.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři CSP, kteří si zakoupili předplatná Microsoft 365 a3/a5 nebo Windows 10 Enterprise a3/a5 pro své vzdělávací zákazníky
+
+### <a name="details"></a>Podrobnosti
+
+Od 1. listopadu 2020 můžou poskytovatelé CSP, kteří si zakoupili Microsoft 365 a3/a5 nebo Windows 10 Enterprise a3/A5, pomáhat svým zákazníkům v oblasti vzdělávání upgradovat z Windows 10 Home na Windows 10, která je navržená pro učebnu i pro vzdálené učení.
+
+Od 1. listopadu 2020 budou Windows 10 Home opravňující operační systém pro zákazníky s licencí pro vzdělávání prostřednictvím Microsoft Cloud smlouvy (prostřednictvím CSP). Tato způsobilost, která byla nyní dostupná pouze v vzdělávacích programech multilicencí (Volume Licensing), byla povolena prostřednictvím podpory Microsoft 365 portálu pro správu. 
+
+#### <a name="how-the-upgrade-process-works"></a>Jak proces upgradu funguje
+
+Partneři CSP můžou zákazníkům pomáhat při upgradu tím, že na jejich jménem odesílají žádost o podporu. Podpora Microsoftu zkontroluje požadavek, aby se zajistilo, že zákazník bude vyhodnocený. Po schválení žádosti poskytnou zákazníkům klíč pro vzdělávání pro Windows 10 pro.
+
+Když zákazník nainstaluje klíč a zařízení se připojí k doméně tenanta přes Azure Active Directory (AAD), zařízení se automaticky upgraduje na vzdělávání Windows 10 (předplatné).   
+
+Podrobnosti o tom, jak upgradovat zákazníky, najdete v [tématu Průvodce krok za krokem a nejčastější dotazy](../upgrade-windows-to-education.md).
+
+### <a name="next-steps"></a>Další kroky
+
+- Upozorněte vaše oprávněné zákazníky a Projděte je pomocí podrobného procesu.
+- Tyto informace sdílejte s příslušnými lidmi ve vaší organizaci.  
+
+________________
 
 ## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Digitální prostředí Cloud Solution Provider (CSP) je teď aktualizované.
 
@@ -63,7 +99,7 @@ ________________
 - Datum: 2020-10-26
 - Nabídky/trhy
  
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Ceník pro předplatné softwaru pro říjen 2020 byl aktualizován.
 
@@ -100,7 +136,7 @@ ________________
 - Datum: 2020-10-27
 - Možnosti
  
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Jako součást požadavků přímých partnerů z účtu v programu Cloud Solution Provider zavádíme standardní výkon.
 
@@ -165,7 +201,7 @@ ________________________________
 - Datum: 2020-10-16
 - Nabídky/trhy
  
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 ID nabídek v zobrazení ceníku v listopadu byly nesprávné.
 
@@ -209,7 +245,7 @@ ________________
 - Datum: 2020-10-14
 - Schopnost
  
-### <a name="summary"></a>Souhrn 
+### <a name="summary"></a>Shrnutí 
 Aktualizace příručky pro autorizaci technologie aktivace
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
@@ -231,7 +267,7 @@ ________________
 - Datum: 2020-10-12
 - Nabídky/trhy
  
-### <a name="summary"></a>Souhrn 
+### <a name="summary"></a>Shrnutí 
 
 Od 1. listopadu 2020 Microsoft zavádí nové SKU pro Microsoft 365 Business hlas pro neziskové organizace.
 
@@ -323,7 +359,7 @@ ________________
 - Datum: 2020-10-07
 - Schopnost
  
-### <a name="summary"></a>Souhrn 
+### <a name="summary"></a>Shrnutí 
 
 Prostředí pro Azure Portal uživatele (UX) bylo nedávno změněno pro všechny aplikace Azure. Toto je aktualizace pro nezávislé výrobce softwaru (ISV) na základě toho, co očekávat a další kroky.
 
@@ -359,7 +395,7 @@ ________________
 - Datum: 2020-10-05
 - Nabídky/trhy
  
-### <a name="summary"></a>Souhrn 
+### <a name="summary"></a>Shrnutí 
 
 Microsoft Teams místnosti Premium SKU pro Microsoft Teams prostřednictvím programu Cloud Solution Provider (CSP) bude k dispozici od 1. listopadu 2020. 
 
@@ -424,7 +460,7 @@ ________________
 - Datum: 2020-10-02
 - Nabídky/trhy
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Společnost Microsoft se těší na to, že k dispozici jsou tyto plány volání společnosti Microsoft na těchto nových trzích: Rakousko, Dánsko, Itálie, Portugalsko, Švédsko a Švýcarsko.
  
@@ -480,7 +516,7 @@ ________________
 - Datum: 2020-10-02
 - Nabídky/trhy
  
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Od 1. listopadu 2020 budou k dispozici nové propagační ceny pro Microsoft Teams Advanced Communications. 
 
@@ -602,7 +638,7 @@ ________________
 - Datum: 2020-10-01
 - Nabídky/trhy
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 S radostí oznamujeme dostupnost nových SKU od 1. října 2020, abychom zákazníkům usnadnili výkon [Cortexí projektů](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) a hledání v Microsoftu.
  
@@ -653,7 +689,7 @@ ________________
 - Datum: 2020-10-01
 - Možnosti
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Termín programu FY21 CSP pro podnět začíná 1. října 2020. Příručky pro motivaci FY21 a procházejí balíčky jsou teď dostupné na partnerském centru.
  
