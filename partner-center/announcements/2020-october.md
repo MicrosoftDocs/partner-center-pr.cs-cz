@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749734"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795807"
 ---
 # <a name="october-2020-announcements"></a>Oznámení z října 2020
 
@@ -57,7 +57,7 @@ Druhý, zpátky v srpnu 2018, Aktualizovali jsme požadavky na přímé partnery
 
 ### <a name="direct-bill-partner-requirements"></a>Požadavky na přímý partner pro fakturaci
 
-Přečtěte si aktualizované požadavky a doporučení pro [přímé partnery](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) a vyhodnoťte, jak můžete pomocí správného modelu v programu Cloud Solution Provider sestavovat a rozšiřovat větší ziskové podnikání:
+Přečtěte si aktualizované požadavky a doporučení pro [přímé partnery](../direct-partner-new-requirements.md#minimum-requirements) a vyhodnoťte, jak můžete pomocí správného modelu v programu Cloud Solution Provider sestavovat a rozšiřovat větší ziskové podnikání:
 
 1. **nový požadavek na výkon výnosů**
 
@@ -80,11 +80,11 @@ Porovnejte [Možnosti smlouvy o podpoře](https://partner.microsoft.com/support/
 
 Abychom vám pomohli zajistit, že budete připraveni a máte znalosti o infrastruktuře potřebné k podpoře programu Direct Bill, máme několik dalších doporučení. Ukážeme, že máte k dispozici alespoň jednu spravovanou službu, službu IP nebo aplikaci řešení pro zákazníky. Partneři by měli přidat hodnotu nad Microsoft Cloud služby a nejenom provádět přímý prodej našich služeb. Je důležitou součástí strategie pro uvedení na trh partnera. [Přečtěte si další informace](https://partner.microsoft.com/solutions/managed-services) o přidávání spravovaných služeb. Doporučujeme, abyste splnili minimální možnosti infrastruktury, jako je fakturace a zřizování. 
 
-Partneři s přímým přístupem v programu CSP, který nesplňuje nové požadavky, bude muset znovu zaregistrovat jako nepřímo prodejci v programu v rámci Microsoft Partner Network. [Přečtěte si další informace](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) o tom, jak můžete provést přechod z přímé faktury na nepřímý prodejce.  
+Partneři s přímým přístupem v programu CSP, který nesplňuje nové požadavky, bude muset znovu zaregistrovat jako nepřímo prodejci v programu v rámci Microsoft Partner Network. [Přečtěte si další informace](../transition-direct-to-indirect.md) o tom, jak můžete provést přechod z přímé faktury na nepřímý prodejce.  
 
 ### <a name="next-steps"></a>Další kroky
 
-- Projděte si [Aktualizované požadavky na partnera pro přímé vyúčtování](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements).
+- Projděte si [Aktualizované požadavky na partnera pro přímé vyúčtování](../direct-partner-new-requirements.md#minimum-requirements).
 - Projděte si nejčastější dotazy a další informace v [galerii prostředků operací na webu Microsoft Partner](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/).
 - Najděte [nepřímý poskytovatel, se kterým budete pracovat](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) , pokud možnost nepřímý prodejce připadá lépe k vašim obchodním potřebám.
 ________________________________
@@ -232,7 +232,7 @@ Tyto propagační akce mají vliv na tyto zákazníky:
 #### <a name="additional-resources"></a>Další zdroje informací
 
 - Další informace o obchodním hlasu najdete na [stránce Microsoft 365 Business hlasového partnera](https://www.microsoft.com/microsoft-365/partners/businessvoice) . 
-- Další informace o [možnostech zvukové konference](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)najdete v tématu zvukové konference v Microsoft 365.
+- Další informace o [možnostech zvukové konference](/microsoftteams/audio-conferencing-in-office-365)najdete v tématu zvukové konference v Microsoft 365.
 - Přečtěte si další informace o těchto propagačních akcích v souvisejících [partnerských otázkách](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).
 
 ### <a name="next-steps"></a>Další kroky
@@ -273,7 +273,7 @@ Co je nové v Azure Portal:
 
 - Flexibilní navigace, která umožňuje zobrazovat, upravovat a ukládat informace v libovolném oddílu bez nutnosti dokončení předchozí části.
 - Nové zobrazení na celé stránce bez více vnořených úrovní.
-- Nové funkce pro označování a uspořádání prostředků Azure. Další informace o označování značek najdete v tématu [použití značek k uspořádání prostředků Azure](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources).
+- Nové funkce pro označování a uspořádání prostředků Azure. Další informace o označování značek najdete v tématu [použití značek k uspořádání prostředků Azure](/azure/azure-resource-manager/management/tag-resources).
 
 Pokud máte dotazy týkající se těchto změn, obraťte se na náš [tým podpory](https://aka.ms/marketplacepublishersupport).
 
@@ -490,7 +490,7 @@ Od 1. listopadu 2020 společnost Microsoft vydává následující nové a aktua
 
 - Podrobnosti ID nabídky najdete v dokumentu [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excelu v dokumentu aplikace Project.
 - Další informace najdete na [domovské stránce hlasu zákazníka k Microsoft Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/).
-- Seznamte se s [oznámením o nové nabídce](https://docs.microsoft.com/partner-center/announcements/2020-september#3)v září Dynamics.
+- Seznamte se s [oznámením o nové nabídce](2020-september.md#3)v září Dynamics.
 
 ________________
 

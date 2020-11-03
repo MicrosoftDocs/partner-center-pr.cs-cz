@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/24/2020
-ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.date: 10/27/2020
+ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749705"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917208"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,7 +22,9 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z října 2020** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Možnosti|[Digitální prostředí pro CSP (Cloud Solution Provider) je teď aktualizované](2020-october.md#15)|28. října|
 |Možnosti|[Zavedení standardu výkonu pro požadavky partnerů s přímým vyúčtováním v rámci programu Cloud Solution Provider (CSP)](2020-october.md#13)|27. října|
+|Nabídky/trhy|[Aktualizace ceníku softwarových předplatných pro CSP (Cloud Solution Provider) z října 2020](2020-october.md#14)|26. října|
 |Nabídky/trhy|[Aktualizace nabídky Microsoft 365 Business Voice](2020-october.md#12)|16. října|
 |Možnosti|[Aktualizace z listopadu 2020: Průvodce autorizací kanálu online služeb a softwaru](2020-october.md#11)|14. října|
 |Nabídky/trhy|[Představení nabídky Microsoft 365 Business Voice pro neziskové organizace](2020-october.md#10)|12. října|
@@ -45,7 +47,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 |Možnosti|[Vydání sady SDK v .NET Standard verze 1.16.2](2020-september.md#11)|22. září|
 |Možnosti|[Přehledy v Partnerském centru – Váš jediný zdroj sestav umožňující porozumět vašim obchodním vztahům s Microsoftem](2020-september.md#10)|23. září|
 |Nabídky/trhy|[Oznámení obecné dostupnosti Azure SQL Edge](2020-september.md#9)|22. září|
-|Možnosti|[Změny rozhraní API pro využití O365 v CSP a sestav využití licencí CSP připravované na 30. září 2020](2020-september.md#8)|17. září|
+|Možnosti|[Změny rozhraní API pro využití O365 v CSP a sestav využití licencí CSP připravované na 30. září 30 2020](2020-september.md#8)|17. září|
 |Možnosti|[Aktualizace smlouvy MPA pro nepřímé prodejce. Vyžaduje se akce od uživatelů rozhraní MPA API a nového generování sestav MPA.](2020-september.md#7)|16. září|
 |Nabídky/trhy|[Zpřístupnění možnosti samoobslužného nákupu produktů Microsoft Project a Microsoft Visio](2020-september.md#6)|15. září|
 |Nabídky/trhy|[Nové skladové položky přinášející zákazníkům sílu iniciativy Project Cortex a další možnosti](2020-september.md#5)|8\. září|
