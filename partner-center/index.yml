@@ -1,0 +1,113 @@
+### YamlMime:Landing
+title: Dokumentace k Partnerskému centru
+summary: V Partnerském centru můžete rozvíjet svou firmu prostřednictvím programu Microsoft Partner Network (MPN), Cloud Solution Provider (CSP) a dalších.
+metadata:
+  title: Dokumentace k Partnerskému centru
+  description: V Partnerském centru můžete rozvíjet svou firmu prostřednictvím programu Microsoft Partner Network (MPN), Cloud Solution Provider (CSP) a dalších.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: landing-page
+  author: LauraBrenner
+  ms.author: labrenne
+  ms.date: 10/16/2020
+  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
+  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "92526830"
+landingContent:
+- title: Začínáme s Partnerským centrem
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: Oznámení Partnerského centra
+      url: announcements/index.md
+    - text: Partner Microsoftu
+      url: mpn-overview.md
+    - text: Vytvoření účtu v Partnerském centru
+      url: mpn-create-a-partner-center-account.md
+    - text: Správa výhod a nabídek v rámci členství v MPN
+      url: manage-your-partner-network-benefits.md
+    - text: Informace o kompetencích
+      url: learn-about-competencies.md
+- title: Podpora růstu vaší firmy
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Spojení se zákazníky
+      url: connect-with-your-customers.md
+    - text: Program Cloud Solution Provider (CSP)
+      url: csp-overview.md
+    - text: Získání zákaznických referencí
+      url: manage-leads.md
+    - text: Pobídkové programy
+      url: incentives-get-started-intro.md
+    - text: Správa příležitostí ke spoluprodeji
+      url: manage-co-sell-opportunities.md
+    - text: Získání rozšířené specializace
+      url: advanced-specializations.md
+- title: Klíčové koncepty a úlohy
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Požadavky na zabezpečení Partnerského centra
+      url: partner-security-requirements.md
+    - text: Vytvoření obchodního profilu
+      url: create-a-marketing-profile.md
+    - text: Představení plánu Azure
+      url: azure-plan-lp.md
+    - text: Získání podpory od Microsoftu
+      url: support-from-microsoft.md
+  - linkListType: how-to-guide
+    links:
+    - text: Správa umístění účtu MPN
+      url: manage-locations.md
+    - text: Prodloužení platnosti nabídek MPN
+      url: renew-mpn-offers.md
+    - text: Vyhledání výhod programu MPN
+      url: mpn-find-benefits.md
+    - text: Zjištění vaší role
+      url: find-your-role.md
+- title: Účty a fakturace
+  linkLists:
+  - linkListType: how-to-guide
+    links:
+    - text: Správa účtu v partnerském centru
+      url: partner-center-account-setup.md
+    - text: Přiřazování rolí a oprávnění uživatelům
+      url: permissions-overview.md
+    - text: Správa uživatelů a uživatelských licencí
+      url: assign-licenses-to-users.md
+    - text: Základní informace o fakturaci
+      url: billing-basics.md
+    - text: Nastavení platebního účtu a daňových formulářů
+      url: set-up-your-payout-account.md
+    - text: Vysvětlení informací na faktuře
+      url: read-your-bill.md
+- title: Materiály pro vývojáře
+  linkLists:
+  - linkListType: reference
+    links:
+    - text: Připojení k programu pro uživatele rozhraní API a sady SDK pro Partnerské centrum v rané fázi
+      url: /partner-center/develop/early-adopter-program
+    - text: Dokumentace k Partnerskému centru pro vývojáře
+      url: /partner-center/develop
+    - text: Referenční informace k rozhraní REST API pro Partnerské centrum
+      url: /partner-center/develop/partner-center-rest-api-reference
+    - text: Referenční informace k rozhraní .NET API pro Partnerské centrum
+      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
+    - text: Sada SDK pro Partnerské centrum pro Javu
+      url: /java/partnercenter/overview
+    - text: PowerShell pro Partnerské centrum
+      url: /powershell/partnercenter/overview
+- title: Prodej na komerčním marketplace (nezávislí výrobci softwaru)
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Dokumentace ke komerčnímu marketplace
+      url: /azure/marketplace
+    - text: Co je komerční marketplace Microsoftu?
+      url: /azure/marketplace/overview
+    - text: Určení možností publikování
+      url: /azure/marketplace/determine-your-listing-type
