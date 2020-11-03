@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/09/2020
-ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/28/2020
+ms.openlocfilehash: 760e0157437dbad74c779100123b4239083ca6b7
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795763"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917140"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Požadavky na registraci jako partner CSP s přímým vyúčtováním
 
@@ -28,11 +28,11 @@ Jako partner s přímým přístupem jste vlastníkem ucelený vztah se zákazn�
 
 ### <a name="minimum-requirements"></a>Minimální požadavky
 
-|**Požadavek**|                             |
+|**Požadavek**| **Vysvětlení**|
 |--------------------------------|--------------------------------------------------------------|
 |**ID MPN**   |ID aktivního Microsoft Partner Network (MPN) pro vaše obchodní umístění.    |
 |**Doporučení**   |Autorita přijmout a podepsat právní smlouvy jménem vaší organizace.|
-|**Vázané**|Od ledna 2021 se partneři zaregistrované jako partneři s přímým účtováním budou muset v rámci programu Cloud Solution Provider v programu Cloud Solution Provider rozvažovat za transakční účet na úrovni globálního účtu partnerského serveru na úrovni, která bude za posledních 12 měsíců.| 
+|**Vázané**|Musí splňovat minimálně USD300K v programu Cloud Solution Provider roční tržby během posledních dvanácti měsíců jako nepřímý prodejce. Partneři si můžou prohlédnout na konci dvanácti měsíců výnosů na partnerském centru. prodeje, které tvoří USD300K na 12 měsíců, podléhají kontrole a ověření od Microsoftu a můžete být vyzváni k zadání dalších informací. Požadavek na příjmy USD300K se vypočítá na základě výnosů z cloudu a vyloučí trvalé software v CSP. Podrobnosti o výnosech z předchozích 12 měsíců najdete v tématu [Analýza předplatných](https://partner.microsoft.com/dashboard/analytics/licenseanalytics) .|
 |**Podpora**   |Možnost poskytnout zákazníkům první úroveň podpory cloudových produktů. <br/>Plán podpory společnosti Microsoft, ať už pokročilá podpora pro partnery (ASfP) nebo Premier Support pro partnery (smlouvou psfp můžou), podle vašich potřeb. [Porovnejte plány podpory](https://partner.microsoft.com/support/partnersupport).<br/> Důležité: než budete moct koupit plán podpory, musíte před tím, než budete chtít zakoupit plán podpory, projít kontrolu. Po úspěšné kontrole kreditu vás pošleme e-mailem. |
 |**Spravovaná služba**   |Alespoň jedna spravovaná služba, služba IP nebo aplikace pro řešení zákazníků. Přečtěte si další informace o přidávání [spravovaných služeb](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Účty – pohledávky** |Podniková infrastruktura, která umožňuje správu fakturace a zřizování zákazníků.|
@@ -55,6 +55,9 @@ Stávající partneři s přímým přístupem musí splňovat nové požadavky,
 Pokud se rozhodnete přejít z přímé prodejní firmy na nepřímý prodejce firmy, je potřeba provést několik kroků. Chcete-li získat další informace o přechodu, přečtěte si [Přechod z přímého partnera poskytovatele Cloud Solution Provider (CSP) na nepřímý prodejce CSP](transition-direct-to-indirect.md).
 
 ## <a name="next-steps"></a>Další kroky
+
+- [Nový požadavek na tržby pro partnery s přímým účtováním](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+ 
 
 - [Další informace o tom, jak se stát nepřímým prodejcem](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 

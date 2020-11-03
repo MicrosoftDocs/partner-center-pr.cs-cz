@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795827"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189743"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Sloučení partnerského účtu s jiným partnerským účtem
 
@@ -98,18 +98,28 @@ Pokud se rozhodnete přijmout pozvánku ke sloučení účtů: · Vaše ID MPN a
   
     b. tenant Azure AD = @contoso.com
  
-    c. Gold Competency, který vyprší 1. října 2020
+    c. Gold Competency, jehož platnost vyprší 1. října 2020
 2. Fabricam má
  
     a.  globální ID MPN 3333333 a dvě podřízená umístění ID MPN 4444444 a 5555555
 
-    b.  tenant AAD = @fabricam.com
+    b.  tenant Azure AD = @fabricam.com
 
-    c.  dvě zlaté kompetence, jejichž platnost končí 1. prosince 2020.
+    c.  dvě zlaté kompetence, jejichž platnost vyprší 1. prosince 2020
 3.  Společnost Contoso nakupuje fabricam a přejde [sem](https://partner.microsoft.com/dashboard/account/merger) , aby zahájila žádost o sloučení.
 4.  Fabricam se přihlásí do partnerského centra a přejde na stejnou stránku jako contoso, která byla v kroku #3, ke schválení žádosti společnosti Contoso.
 5.  Společnost Contoso kontroluje podrobnosti o sloučení na stejné stránce a poskytuje potvrzení, aby bylo možné pokračovat v spojování s účtem.
+6.  Po spojení se účet společnosti zobrazí jako:
+
+    a.  Společnost s názvem contoso s globálním ID MPN 1111111 a 4 ID MPN v podřízeném umístění 2222222, 3333333, 4444444 a 5555555
     
+    b.  Budou mít dva klienty Azure AD ( @contoso.com + @fabricam.com ), kteří mají přístup ke stejnému účtu partnerského centra.
+    
+    c.  Budou mít dva balíčky pro kompetenci, jednu, která vyprší od 1. října 2020 do 1. prosince 2020. Budou se moct prodloužit jako jeden balíček pro výhody kompetence od 1. prosince 2020. Po obnovení bude společnost Contoso uchovávat všechny tři kompetence, i když můžou udržovat jenom jeden balíček výhod.
+    
+7.  Správci společnosti Contoso budou nadále spravovat role partnerského centra pro @contoso.com uživatele. Správci fabricam budou nadále spravovat role partnerského centra pro @fabricam.com uživatele. Správci společnosti Contoso můžou spravovat uživatele fabricam jenom v případě, že jsou pozváni jako host do tenanta fabricam.
+8.  Společnost Contoso by mohla rozhodnout ignorovat @fabricam.com tenanta a znovu vydat fabricam zaměstnancům nové @contoso.com přihlašovací údaje s novými rolemi a oprávněními.
+
 ## <a name="next-steps"></a>Další kroky
 
 - [Přiřazování uživatelských rolí a oprávnění](permissions-overview.md)

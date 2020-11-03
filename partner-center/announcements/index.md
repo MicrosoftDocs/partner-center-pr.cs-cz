@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92526852"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749705"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z října 2020** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Možnosti|[Zavedení standardu výkonu pro požadavky partnerů s přímým vyúčtováním v rámci programu Cloud Solution Provider (CSP)](2020-october.md#13)|27. října|
 |Nabídky/trhy|[Aktualizace nabídky Microsoft 365 Business Voice](2020-october.md#12)|16. října|
 |Možnosti|[Aktualizace z listopadu 2020: Průvodce autorizací kanálu online služeb a softwaru](2020-october.md#11)|14. října|
 |Nabídky/trhy|[Představení nabídky Microsoft 365 Business Voice pro neziskové organizace](2020-october.md#10)|12. října|

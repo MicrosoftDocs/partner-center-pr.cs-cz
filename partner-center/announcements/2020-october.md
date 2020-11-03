@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 144ca69d3ea52921351d84dae40d007a976ddf73
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92527850"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749734"
 ---
 # <a name="october-2020-announcements"></a>Oznámení z října 2020
 
@@ -22,6 +22,71 @@ Tato stránka podrobně popisuje oznámení pro partnery Microsoft Partner Cente
 
 2020 oznámení: [březen](2020-march.md),  |  [April](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md) | Října
 
+________________________________
+
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Zavedení standardu výkonu pro přímé požadavky na partnery z fakturace v programu Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-10-27
+- Možnosti
+ 
+### <a name="summary"></a>Souhrn
+
+Jako součást požadavků přímých partnerů z účtu v programu Cloud Solution Provider zavádíme standardní výkon.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři pro přímé vyúčtování v programu Cloud Solution Provider.
+
+### <a name="details"></a>Podrobnosti
+
+Rozšiřování a optimalizace programu Microsoft Cloudho poskytovatele řešení je důležitou součástí naší cesty pro nové prostředí pro obchod s partnery a zákazníky. V takovém případě budeme pokračovat ve vývojovém programu, který bude vyhovovat potřebám zákazníků a nabízí pro vás naše partnery nejúčinnější a ziskové prostředí.
+
+Dnes sdílíme několik nadcházejících změn požadavků pro přímé partnery vyúčtování v programu Cloud Solution Provider.
+
+Za prvé **zavádíme standard výkonu jako součást požadavků přímých partnerů na účet** . Partneři, kteří se chtějí zaregistrovat jako partneři s přímým přístupem v programu Cloud Solution Provider, musí v průběhu 12 měsíců před datem obnovení [smlouvy o podpoře](https://partner.microsoft.com/support/partnersupport) splňovat aspoň USD300K v programu Cloud Solution Provider.
+
+Tento standard výkonu vstoupí v platnost v lednu 2021 pro stávající přímé partnery pro vyúčtování a vy budete muset splnit požadavky podle data svého plánu obnovení vašeho partnera.
+
+Pokud nemůžete nebo nechcete, aby splňoval aktualizované požadavky na přímý přístup k faktuře, budete se muset v programu Cloud Solution Provider znovu zaregistrovat jako nepřímý prodejce. 
+
+Tento nový požadavek na tržby pomůže partnerům v programu Cloud Solution Provider sestavovat více ziskové firmy prostřednictvím správného modelu a s jasným standardem pro zvýšení výkonu a soustředit se na poskytování větší hodnoty zákazníkům s nižší infrastrukturou a provozní režií.
+
+Druhý, zpátky v srpnu 2018, Aktualizovali jsme požadavky na přímé partnery z faktur s novými kritérii pro nákup plánu podpory kvalifikovaného partnera. V programu Cloud Solution Provider se znovu zvýrazňuje důležitost, která je vyžadována pro všechny přímé partnery pro vyúčtování.
+
+### <a name="direct-bill-partner-requirements"></a>Požadavky na přímý partner pro fakturaci
+
+Přečtěte si aktualizované požadavky a doporučení pro [přímé partnery](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) a vyhodnoťte, jak můžete pomocí správného modelu v programu Cloud Solution Provider sestavovat a rozšiřovat větší ziskové podnikání:
+
+1. **nový požadavek na výkon výnosů**
+
+**Stávající partneři** , kteří jsou aktuálně zaregistrovaní v programu Cloud Solution Provider jako partneři s přímým účtováním, budou muset splnit nový standard pro zvýšení výkonu od ledna 2021. Bude to mít čas, až do příštího data obnovení plánu podpory partnera, aby splňovalo požadavky. Podle [tohoto průvodce](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)si můžete projít svůj časový 12měsíční výnos v partnerském centru.
+
+Noví partneři, kteří se registrují v programu Cloud Solution Provider, začnou platit jako nepřímý prodejci platné od **října 2020** . Musí mít minimálně USD300K v tržbách CSP během posledních 12 měsíců. Podle [tohoto průvodce](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)si můžete projít svůj koncový 12měsíční výnos na partnerském centru. 
+
+2. **požadavek na Smlouvu o podpoře** 
+
+Možnosti podpory rozšíříte tak, že si koupíte jednu ze dvou možností smlouvy o podpoře:  
+
+   - Microsoft Advanced Support pro partnery (ASfP): jednosměrná podpora cloudu s upřednostněním  
+   - Microsoft Premier Support pro partnery (smlouvou psfp můžou): přístup k kompletnímu katalogu proaktivní služby, 24/7 zvýšená podpora přerušení a oprav a Správa technického účtu v cloudu, hybridním i místním prostředí. 
+
+Porovnejte [Možnosti smlouvy o podpoře](https://partner.microsoft.com/support/partnersupport) a kupte si kvalifikovaný plán.
+
+### <a name="direct-bill-partner-recommendations"></a>Doporučení k přímému partnerovi pro fakturaci
+
+**Předvedení klíčových funkcí**
+
+Abychom vám pomohli zajistit, že budete připraveni a máte znalosti o infrastruktuře potřebné k podpoře programu Direct Bill, máme několik dalších doporučení. Ukážeme, že máte k dispozici alespoň jednu spravovanou službu, službu IP nebo aplikaci řešení pro zákazníky. Partneři by měli přidat hodnotu nad Microsoft Cloud služby a nejenom provádět přímý prodej našich služeb. Je důležitou součástí strategie pro uvedení na trh partnera. [Přečtěte si další informace](https://partner.microsoft.com/solutions/managed-services) o přidávání spravovaných služeb. Doporučujeme, abyste splnili minimální možnosti infrastruktury, jako je fakturace a zřizování. 
+
+Partneři s přímým přístupem v programu CSP, který nesplňuje nové požadavky, bude muset znovu zaregistrovat jako nepřímo prodejci v programu v rámci Microsoft Partner Network. [Přečtěte si další informace](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) o tom, jak můžete provést přechod z přímé faktury na nepřímý prodejce.  
+
+### <a name="next-steps"></a>Další kroky
+
+- Projděte si [Aktualizované požadavky na partnera pro přímé vyúčtování](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements).
+- Projděte si nejčastější dotazy a další informace v [galerii prostředků operací na webu Microsoft Partner](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/).
+- Najděte [nepřímý poskytovatel, se kterým budete pracovat](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) , pokud možnost nepřímý prodejce připadá lépe k vašim obchodním potřebám.
 ________________________________
 
 ## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Aktualizace Microsoft 365 Business hlasové nabídky
@@ -164,7 +229,7 @@ Tyto propagační akce mají vliv na tyto zákazníky:
 - Klienti s čistým novým zákazníkem
 - Stávající klienti zákazníka, kteří nemají aktivní ani nedávno zrušené předplatné (za posledních 30 dní), na základě licence na CSP, web Direct nebo jiných komerčních kanálů Microsoftu
 
-#### <a name="additional-resources"></a>Další materiály
+#### <a name="additional-resources"></a>Další zdroje informací
 
 - Další informace o obchodním hlasu najdete na [stránce Microsoft 365 Business hlasového partnera](https://www.microsoft.com/microsoft-365/partners/businessvoice) . 
 - Další informace o [možnostech zvukové konference](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)najdete v tématu zvukové konference v Microsoft 365.
@@ -176,7 +241,7 @@ Tyto propagační akce mají vliv na tyto zákazníky:
 - Tyto nabídky zahrňte do vašich Microsoft 365ch prodejních propagačních akcí.
 - Zadávejte zákazníkům povědomí o hodnotě přidávání obchodních hlasů nebo zvukových konferencí do týmů.
 
-### <a name="questions"></a>Máte dotazy?
+### <a name="questions"></a>Máte otázky?
 
 Pokud se o těchto nabídkách chcete zeptat, obraťte se na svého zástupce ve účet Microsoft týmu nebo podpoře.
 
@@ -276,7 +341,7 @@ K tomu, abyste se seznámili s novou nabídkou a jejich geografickou dostupnost�
 - Přečtěte si [Nejčastější dotazy k místnostem Microsoftu pro týmy](https://aka.ms/PartnerMTRFAQ) , kde najdete další informace o řešení produktu a službách. 
 - Tyto informace se dají sdílet se všemi příslušnými kontakty ve vaší organizaci a porozumět příležitostem přeprodat a vzájemným prodejcům.
 
-### <a name="questions"></a>Máte dotazy?
+### <a name="questions"></a>Máte otázky?
 
 Další otázky k těmto nabídkám najdete v příslušných komunitách Yammeru.
 
@@ -333,7 +398,7 @@ K dispozici byly tyto plány volání Microsoft na následujících trzích: Bel
 - Využijte průvodce pro partnery Microsoft Teams pro vývoj volání. 
 - Dosažení volání pro Microsoft Teams Advanced specializace 
 
-### <a name="questions"></a>Máte dotazy?
+### <a name="questions"></a>Máte otázky?
 
 Další otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru.
 
@@ -397,7 +462,7 @@ Microsoft Teams and any Microsoft 365/Office 365 Suite.
 - Projděte si část prostředky v [příručce Teams partner](https://aka.ms/teamscallingmeetingsguide).
 - Další informace o propagačních nabídkách Microsoft Teams najdete na [blogu](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/) nebo ve [skupině yammeru partnera Office 365](https://www.yammer.com/office365partners/).
 
-### <a name="questions"></a>Máte dotazy?
+### <a name="questions"></a>Máte otázky?
 
 Jakékoli dotazy týkající se těchto nabídek vám poskytne zástupce v účet Microsoft týmu nebo podpoře.
 
@@ -421,7 +486,7 @@ Od 1. listopadu 2020 společnost Microsoft vydává následující nové a aktua
 - Zákaznická licence k předplatnému uživatele Dynamics 365 (USL) 
 - Rozbalit nabídky do CSP
 
-### <a name="additional-resources"></a>Další materiály
+### <a name="additional-resources"></a>Další zdroje informací
 
 - Podrobnosti ID nabídky najdete v dokumentu [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excelu v dokumentu aplikace Project.
 - Další informace najdete na [domovské stránce hlasu zákazníka k Microsoft Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/).
@@ -456,7 +521,7 @@ Pro zákazníky, kteří očekávají, že budou používat zařízení s Window
 
 Projděte si materiály k tomuto tématu a sdílejte tyto informace s příslušnými zúčastněnými stranami ve vaší organizaci.  
 
-### <a name="questions"></a>Máte dotazy?
+### <a name="questions"></a>Máte otázky?
 
 Další otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru. 
 ________________
@@ -537,7 +602,7 @@ Aktualizované sazby za program FY21 začnou platit od 1. října 2020. Partneř
 
 - Projděte si materiály k programu FY21 a připravte se na aktualizace pro vybrané produkty a pohyby zákazníků.
 
-### <a name="questions"></a>Máte dotazy?
+### <a name="questions"></a>Máte otázky?
 
 Doporučené kroky a články věnované samoobslužným pomocníkům pro otázky související s motivací jsou k dispozici na **stránce s vyhledáváním v** partnerském centru. 
 ________________

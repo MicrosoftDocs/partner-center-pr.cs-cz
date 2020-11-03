@@ -1,7 +1,7 @@
 ---
 title: Přehled programu Cloud Solution Provider
 ms.topic: article
-ms.date: 10/28/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si další informace o výhodách a různých modelech v programu Cloud Solution Provider (CSP), které vám pomůžou dosáhnout vaší firmy s novými zákazníky a novými znalostmi.
@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9780fe0b90a4889fca1f3a887c445a75b1549eaa
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f72a4cffaa8557e7e8f56dd2253c99449e3a696d
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917191"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045403"
 ---
 # <a name="cloud-solution-provider-program"></a>Program Cloud Solution Provider 
 
@@ -22,8 +22,7 @@ ms.locfileid: "92917191"
 
 - Partnerské centrum
 
-
-Tento článek poskytuje přehled programu Cloud Solution Provider (CSP) a vysvětluje různé provozní modely a jejich požadavky i další podrobnosti o prodeji prostřednictvím tohoto programu.  Program CSP vám pomůže podílet se na firmách zákazníků, mimo proprodej licencí, a může zahrnovat následující výhody: 
+Tento článek poskytuje přehled programu Cloud Solution Provider (CSP) a vysvětluje různé provozní modely a jejich požadavky i další podrobnosti o prodeji prostřednictvím tohoto programu.  Program CSP vám pomůže podílet se na firmách vašich zákazníků i po reprodejech licencí a může zahrnovat následující výhody: 
 
 - Hlubší zapojení zákazníků: setkání pravidelně s vašimi zákazníky znamená, že budete vyvíjet lepší znalosti o jejich podnikání a potřebách.
 - Zvýšení zisku: nabízí zvýšenou podporu a fakturační služby, ať už na vašem vlastním nebo prostřednictvím nepřímého poskytovatele, otevře nové datové proudy příjmů.  
@@ -32,35 +31,33 @@ Tento článek poskytuje přehled programu Cloud Solution Provider (CSP) a vysv�
 
 ## <a name="which-csp-model-is-best-for-me"></a>Který model CSP je pro mě nejvhodnější?
 
-### <a name="direct-bill-model"></a>Model přímé faktury
-
- V modelu přímé fakturace si partneři kupují produkty a odběry Microsoftu přímo od Microsoftu a prodávají je přímo svým zákazníkům prostřednictvím svých interních obchodních zaměstnanců. Přímé modely CSP můžou zvolit partneři, kteří už pracují s nebo jsou ochotni vyvíjet, příslušnou infrastrukturu pro prodej, fakturaci a podporu. Požadavky, které se stanou přímým partnerem, se nedávno změnily a začnou platit od 31. srpna 2018. Přímí partneři budou muset splnit nové požadavky až do 31. srpna 2018, a to až do příštího období registrace.
-
-#### <a name="new-expanded-requirements"></a>Nové rozšířené požadavky
-
-Podpora
-
-- Rozšiřte své možnosti podpory tím, že si nakoupíte cloudovou podporu s vyšší prioritou pomocí balíčku Microsoft Advanced Support pro partnery. Případně můžete vybrat balíček Microsoft Premier Support for partners pro přístup k kompletnímu katalogu proaktivní služby, 24/7 zvýšená podpora přerušení a oprav a technická správa účtů napříč cloudem, hybridním i místním prostředím.
-
-Výnos
-
-- Musí splňovat minimálně USD300K v programu Cloud Solution Provider roční tržby během posledních dvanácti měsíců jako nepřímý prodejce. Partneři si můžou prohlédnout na konci dvanácti měsíců výnosů na partnerském centru. prodeje, které tvoří USD300K na 12 měsíců, podléhají kontrole a ověření od Microsoftu a můžete být vyzváni k zadání dalších informací. Požadavek na příjmy USD300K se vypočítá na základě výnosů z cloudu a vyloučí trvalé software v CSP.
-
-Služby
-
-- Ukážeme, že máte k dispozici alespoň jednu spravovanou službu, službu IP nebo aplikaci řešení pro zákazníky. 
-
-- Vyhovět minimálním funkcím infrastruktury, jako je fakturace a zřizování. Sledujeme roční výkon a potvrzujeme, že partneři s přímým účtováním, kteří splňují tyto požadavky, prokazují stabilní růst podnikání. V tuto chvíli nejsou k dispozici žádné konkrétní cíle výkonu, ale společnost Microsoft může v budoucnu implementovat panel výkonu.
-
-- ID aktivního Microsoft Partner Network (MPN) pro umístění, ve kterém chcete prodávat
-
 ### <a name="indirect-model"></a>Nepřímý model
 
-V nepřímém modelu si poskytovatelé (označované také jako distributoři) kupují produkty a odběry Microsoftu přímo od Microsoftu, ale prodávat zákazníkům prostřednictvím sítě nepřímých prodejců. Mezi předpoklady pro registraci v CSP jako nepřímý prodejce patří:
+Společnost Microsoft pomáhá všem partnerům zapojeným do programu Cloud Solution Provider najít nejlepší model pro růst jejich podnikání. Společnost Microsoft vytvořila globální síť kvalifikovaných nepřímých zprostředkovatelů, kteří pomůžou partnerům v programu Cloud Solution Provider úspěšně rozšířit svůj cloudový podnik. Když se připojíte jako nepřímý prodejce, můžete urychlit uvedení na trh s minimalizací provozní složitosti. 
 
-- ID aktivního Microsoft Partner Network (MPN) pro umístění, ve kterém chcete prodávat
+Jako nepřímý prodejce můžete pracovat s nepřímými poskytovateli, kteří můžou poskytovat nástroje a prostředky, které vám pomůžou se správou vašich vztahů se zákazníky. Pomocí nepřímého modelu si můžete koupit od nepřímého poskytovatele, který vám s vámi může spolupracovat na zákaznické podpoře a fakturaci.
+Co budete potřebovat: 
+
+- Aktivní členství v Microsoft Partner Network a MPN ID pro umístění, ve kterém chcete prodávat.
 - Možnost podepisovat právní smlouvy jménem vaší organizace
-- Vztah s [oficiálním poskytovatelem Microsoftu](https://partnercenter.microsoft.com/partner/find-a-provider)
+- Vztah s [oficiálním nepřímým poskytovatelem Microsoftu](https://partnercenter.microsoft.com/partner/find-a-provider) v programu Cloud Solution Provider
+
+### <a name="direct-bill-model"></a>Model přímé faktury
+
+V modelu přímé fakturace si partneři kupují produkty a odběry Microsoftu přímo od Microsoftu a prodávají je přímo svým zákazníkům prostřednictvím svých interních obchodních zaměstnanců. Partneři, kteří již pracují s nebo jsou ochotni vyvíjet, je vhodné, aby si zvolili přímý model, který je vhodný pro prodej, fakturaci a podporu. V případě 27. října 2020 jsme aktualizovali požadavky na registraci pro partnery s přímým účtováním.
+
+#### <a name="requirements"></a>Požadavky
+
+Projděte si aktualizované požadavky na přímý zápis a doporučení k registraci níže, abyste vyhodnotili, jak můžete pomocí správného modelu v programu Cloud Solution Provider sestavovat a rozšiřovat více ziskovosti obchodních aplikací:  
+
+- **Podpora:** Rozšiřte své možnosti podpory tím, že si nakoupíte cloudovou podporu s vyšší prioritou pomocí balíčku Microsoft Advanced Support pro partnery. Případně můžete vybrat balíček Microsoft Premier Support for partners pro přístup k kompletnímu katalogu proaktivní služby, 24/7 zvýšená podpora přerušení a oprav a technická správa účtů napříč cloudem, hybridním i místním prostředím. Projděte si smlouvu o partnerovi Microsoftu, abyste lépe porozuměli povinnosti podpory.
+- **Požadavek na výkon:** Ujistěte se, že máte minimálně USD300K v rámci programu Cloud Solution Provider roční tržby během posledních dvanácti měsíců jako nepřímý prodejce. Partneři si můžou prohlédnout jejich na konci dvanácti měsíců v partnerském centru. Tržby, které tvoří USD300K na 12 měsíců, podléhají kontrole a ověřování od Microsoftu a můžete být vyzváni k zadání dalších informací. Požadavek na příjmy USD300K se vypočítá na základě výnosů z cloudu a vyloučí trvalé software v CSP.
+- Splnění minimálních schopností infrastruktury, jako je fakturace a zřizování
+- Aktivní členství v Microsoft Partner Network a MPN ID pro umístění, ve kterém chcete prodávat.
+
+#### <a name="recommendations"></a>Doporučení
+
+- **Předvedení klíčových funkcí:** Ukážeme, že máte k dispozici alespoň jednu spravovanou službu, službu IP nebo aplikaci řešení pro zákazníky. [Přečtěte si další informace o přidávání spravovaných služeb](https://partner.microsoft.com/solutions/managed-services). 
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Kde můžu prodávat přes program CSP?
 
