@@ -1,0 +1,5 @@
+- name: Dokumentace k marketplace Microsoftu pro zákazníky
+  href: index.yml
+  items:
+    - name: Vytvoření privátního marketplace Azure
+      href: create-manage-private-azure-marketplace.md

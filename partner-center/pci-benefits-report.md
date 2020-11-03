@@ -1,0 +1,91 @@
+---
+title: Sestava výhod partnerského centra pro přehledy
+ms.topic: article
+ms.date: 05/19/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Podívejte se, které typy partnerů Microsoftu máte k dispozici, abychom vám pomohli rozšiřovat vaše podnikání, Vylepšete efektivitu a zvyšte své dovednosti v týmu.
+author: shthota77
+ms.author: shthota
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.translationtype: MT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "92527075"
+---
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Sestava výhod dostupná na řídicím panelu přehledy partnerského centra
+
+**Příslušné role**
+
+- Globální správce
+- Agent správce
+- Prohlížeč sestav
+- Prohlížeč sestav Executive
+
+Jako partner Microsoftu máte přístup k hostiteli výhod, které využívají nejnovější technologie a inovace, které vám pomohou vylepšit dovednosti svého týmu, zvýšit efektivitu a rozšířit svou firmu. Balíčky s výhodami zahrnují: přidělení licencovaného softwaru, cloudových služeb, předplatných sady Visual Studio a podpora. Tyto balíčky můžou také zahrnovat určité materiály, nabídky a programy pro uvedení na trh. Sestava výhod představuje trendy výhod, ke kterým jste se přistupovali, a jejich využití během vybraného časového období.
+
+:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="Přehled stránky výhod":::
+
+V sestavě výhod můžete vizualizovat následující grafy:
+
+- Souhrn
+- Udělené cloudové služby
+- Softwarové produkty
+- Předplatná sady Visual Studio
+- Technické výhody
+- Přejít na trh
+
+ > [!NOTE]
+ > Tato sestava je k dispozici na řídicím panelu Insights. Pokud chcete zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav v nástroji Executive. Další informace najdete v tématu globální správce vaší společnosti. konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními správce sestav nástroje Executive.
+
+## <a name="summary"></a>Souhrn
+
+V části Souhrn se zobrazují výhody poskytované licencovaným softwarem, Cloud Services (mimo Azure), předplatná sady Visual Studio, technická podpora a určité služby a nabídky pro uvedení na trh.
+
+Příklad: partneři členství v Microsoft Partner Network (MPN) mají nárok na technickou podporu místních produktů a cloudových produktů. Partnerům, kteří dosahují stříbrné kompetence, se uděluje technická podpora pro 15 incidentů místních produktů. Tato podpora může podle potřeby využívat. 
+
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Přehled stránky výhod":::
+
+## <a name="cloud-services-granted"></a>Udělené cloudové služby
+
+Tento graf znázorňuje měsíční trend licencí udělených v rámci vybraného rozsahu kalendářních dat pro odběry na základě licencí vybrané cloudové služby.
+Vyberte cloudovou službu na kartě **služby** pro zobrazení grafu pro konkrétní cloudovou službu. Spojnicový graf představuje celkové licence udělené vaší společnosti.
+
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="Přehled stránky výhod":::
+
+## <a name="software-products"></a>Softwarové produkty
+
+Tento graf znázorňuje měsíční trend licencí udělených během vybraného časového rozsahu pro určitý softwarový produkt. Vyberte softwarový produkt z rozevíracího seznamu v horní části grafu, abyste mohli zobrazit trend konkrétního softwarového produktu, který jste udělili jako výhody. Spojnicový graf představuje celkové licence udělené vaší společnosti.
+
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="Přehled stránky výhod":::
+
+## <a name="visual-studio-subscriptions"></a>Předplatná sady Visual Studio
+
+Tento graf znázorňuje měsíční trend předplatných sady Visual Studio aktivovaných u předplatných, která jste přiřadili během vybraného rozsahu dat.
+
+Výběrem karty v grafu zobrazíte trend konkrétního předplatného sady Visual Studio, které jste vám udělili jako výhody. Sloupce v grafu reprezentují licence spotřebované v rámci předplatného. Spojnicový graf představuje celkové licence přiřazené k předplatnému.
+
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Přehled stránky výhod":::
+
+## <a name="technical-benefits"></a>Technické výhody
+
+Tento graf znázorňuje měsíční trend výhod podpory, které se udělují během vybraného rozsahu kalendářních dat.
+
+Výběrem karty v grafu zobrazíte trend konkrétního výhody podpory, kterou jste udělili. Spojnicový graf představuje celkový počet hodin podpory přidělených pro vybrané výhody podpory.
+
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="Přehled stránky výhod":::
+
+## <a name="go-to-market-offers-or-services"></a>Nabídky nebo služby pro uvedení na trh
+
+Tento graf znázorňuje měsíční trend nabídek a služeb nabízených k uvedení na trh aktivovaných během vybraného období a pro vybranou nabídku přejít na trh nebo kategorii služeb.
+
+Výběrem nabídky přejít na trh nebo kategorie služby v rozevíracím seznamu v horní části grafu zobrazíte trend vybraných služeb pro uvedení na trh udělených vaší společnosti. Sloupce v grafu představují nabídky přejít na trh nebo aktivované služby. Spojnicový graf představuje celkové nabídky pro uvedení na trh nebo služby udělené vaší společnosti.
+
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Přehled stránky výhod":::
+
+## <a name="next-steps"></a>Další kroky
+
+- Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).

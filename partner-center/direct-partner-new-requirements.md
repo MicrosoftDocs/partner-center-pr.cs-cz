@@ -1,0 +1,60 @@
+---
+title: Požadavky na partnery pro přímé vyúčtování CSP
+description: Naučte se, jak splnit nejnovější požadavky na podporu a služby, aby se staly přímým partnerem pro fakturaci v programu Microsoft Cloudho poskytovatele řešení (CSP).
+ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+author: vinayks
+ms.author: vinayks
+ms.localizationpriority: high
+ms.custom: SEOAPR.20
+ms.date: 04/27/2020
+ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.translationtype: MT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "92527208"
+---
+# <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Požadavky na registraci jako partner CSP s přímým vyúčtováním
+
+**Platí pro**
+
+- Partneři pro přímé vyúčtování v programu Cloud Solution Provider
+
+## <a name="enroll-as-a-direct-partner"></a>Zaregistrovat jako přímý partner
+
+Jako partner s přímým přístupem jste vlastníkem ucelený vztah se zákazníkem a Microsoftem. Do 31. srpna 2018 jsme aktualizovali požadavky na registraci pro partnery s přímým účtováním. Tyto nové požadavky vám pomůžou zrychlit obchodní růst pomocí správného modelu registrace CSP. Pomůžou vám taky posílit vztahy se zákazníky díky službám a podpoře přidaných hodnot.
+
+### <a name="minimum-requirements"></a>Minimální požadavky
+
+|**Požadavek**|                             |
+|--------------------------------|--------------------------------------------------------------|
+|**ID MPN**   |ID aktivního Microsoft Partner Network (MPN) pro vaše obchodní umístění.    |
+|**Doporučení**   |Autorita přijmout a podepsat právní smlouvy jménem vaší organizace.|
+|**Podpora**   |Možnost poskytnout zákazníkům první úroveň podpory cloudových produktů. <br/>Plán podpory společnosti Microsoft, ať už pokročilá podpora pro partnery (ASfP) nebo Premier Support pro partnery (smlouvou psfp můžou), podle vašich potřeb. [Porovnejte plány podpory](https://partner.microsoft.com/support/partnersupport).<br/> Důležité: než budete moct koupit plán podpory, musíte před tím, než budete chtít zakoupit plán podpory, projít kontrolu. Po úspěšné kontrole kreditu vás pošleme e-mailem. |
+|**Spravovaná služba**   |Alespoň jedna spravovaná služba, služba IP nebo aplikace pro řešení zákazníků. Přečtěte si další informace o přidávání [spravovaných služeb](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
+|**Účty – pohledávky** |Podniková infrastruktura, která umožňuje správu fakturace a zřizování zákazníků.
+
+### <a name="verify-direct-bill-eligibility"></a>Ověřit nárok na přímé vyúčtování
+
+Pokud jste to ještě neudělali, Projděte si minimální požadavky výše, abyste se ujistili, že je budete muset splnit, a pak dokončete [dotazník poskytovatele Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider/assessment).
+
+Vaše odpovědi na otázky ve formuláři vám pomůžou s určením nároku na registraci do programu CSP jako přímého partnera poskytujícího účty.
+
+Po ověření, že vaše společnost splnila požadavky na nárok na registraci jako přímý účet a že jste dokončili aplikaci pro registraci, zkontrolujeme a ověříme obchodní informace, které jste zadali v procesu registrace. V rámci této recenze zkontrolujeme kredit vaší společnosti. Po úspěšném ověření vaší společnosti vám pošleme informace e-mailem.
+
+>[!IMPORTANT]
+>Kontrola kreditu vaší společnosti může trvat několik dní nebo i déle. Během této doby je důležité, abyste nekoupili plán podpory společnosti Microsoft. Plán podpory Microsoftu si můžete koupit až po informování o tom, že jste prošli kontrolou kreditu.
+
+## <a name="transition-from-direct-to-indirect-reseller"></a>Přechod z přímého na nepřímý prodejce
+
+Stávající partneři s přímým přístupem musí splňovat nové požadavky, aby zůstali v programu partner CSP Direct Bill. V opačném případě [budou mít přístup k přímým funkcím vyúčtování omezené](restricted-direct-bill-capabilities.md) a můžou už provádět konkrétní úkoly, jako je třeba nové nákupy pro zákazníky.
+
+Pokud se rozhodnete přejít z přímé prodejní firmy na nepřímý prodejce firmy, je potřeba provést několik kroků. Chcete-li získat další informace o přechodu, přečtěte si [Přechod z přímého partnera poskytovatele Cloud Solution Provider (CSP) na nepřímý prodejce CSP](transition-direct-to-indirect.md).
+
+## <a name="next-steps"></a>Další kroky
+
+- [Další informace o tom, jak se stát nepřímým prodejcem](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+
+- [Nejčastější dotazy k fakturaci na nepřímý prodejce](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

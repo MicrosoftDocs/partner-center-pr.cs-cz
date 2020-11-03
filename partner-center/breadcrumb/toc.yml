@@ -1,0 +1,7 @@
+- name: Dokumentace k Partnerskému centru
+  tocHref: /partner-center/
+  topicHref: /partner-center/index
+  items:
+    - name: Oznámení
+      tocHref: /partner-center/announcements/
+      topicHref: /partner-center/announcements/
