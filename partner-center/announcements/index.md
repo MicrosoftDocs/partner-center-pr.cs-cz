@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133010"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327245"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
 Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace často aktualizujeme, proto vám doporučujeme je pravidelně sledovat.
 
-| **Kategorie** | **Oznámení z října 2020** | **Datum oznámení** |
+| **Kategorie** | **Oznámení z listopadu 2020** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Nabídky/trhy|[Pro oprávněné zákazníky CSP (Cloud Solution Provider) pro vzdělávání je teď k dispozici upgrade na Windows 10 Education](2020-november.md#4)|2\. listopadu|
+|Nabídky/trhy|[Digitální prostředí pro CSP (Cloud Solution Provider) je teď aktualizované Aktualizace ceníku softwarových předplatných pro CSP (Cloud Solution Provider) z října 2020](2020-november.md#3)|2\. listopadu|
+|Nabídky/trhy|[Aktualizace ceníku softwarových předplatných pro CSP (Cloud Solution Provider) z října 2020](2020-november.md#2)|2\. listopadu|
+|Nabídky/trhy|[Zavedení standardu výkonu pro požadavky partnerů s přímým vyúčtováním v rámci programu Cloud Solution Provider (CSP)](2020-november.md#1)|2\. listopadu|
+| **Kategorie** | **Oznámení z října 2020** | **Date** (Datum) |
 |Možnosti|[Aktualizace funkcí softwarových předplatných Windows Serveru](2020-october.md#17)|29. října|
 |Možnosti|[Pro oprávněné zákazníky CSP (Cloud Solution Provider) pro vzdělávání je teď k dispozici upgrade na Windows 10 Education](2020-october.md#16)|28. října|
 |Možnosti|[Digitální prostředí pro CSP (Cloud Solution Provider) je teď aktualizované](2020-october.md#15)|28. října|
