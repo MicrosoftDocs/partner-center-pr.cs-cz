@@ -1,7 +1,7 @@
 ---
 title: Ukazatele příspěvku partnerů
 ms.topic: article
-ms.date: 09/16/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si o sedmi ukazatelích partnerských příspěvků (PCI), které ukazují, jak provádíte se zákaznickou rezervací Dynamics 365 nebo s financemi a operacemi Dynamics 365.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
+ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527739"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93344387"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Ukazatele příspěvku na partnery (PCI) ukazují dopad na partnery na sedm klíčových měr úspěšnosti zákazníků
 
@@ -89,7 +89,7 @@ Každý indikátor přináší skóre, které je přidáno k celkovému součtu.
 |Úspěch zákazníka – měsíční nárůst aktivních uživatelů  | 25 bodů |
 
 Následující obrázek nabízí rychlý a vizuální odkaz.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Zobrazuje skóre PCI pro dosažení stříbrné nebo zlaté kompetence." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Zobrazuje graf s maximálním počtem možných výsledků pro každý ze sedmi ukazatelů pro příspěvek partnerů (PCI)." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Prahové hodnoty pro jednotlivé metriky PCI
 
@@ -111,8 +111,8 @@ Podrobnosti najdete v následujících tabulkách:
 | Metrika sběrnice PCI | Ukazatel výkonu: NET New výnos | Ukazatel výkonu: Přidání nového zákazníka | Indikátor schopností: funkční konzultanti | Indikátor schopností: růst funkčního konzultanta | Indikátor schopností: vývojáři | Indikátor úspěšnosti zákazníka: nová rozsáhlá nasazení | Indikátor úspěšnosti zákazníka: měsíční nárůst uživatele na aktivní |
 |---|---|---|---|---|---|---|---|
 | **Maximální počet bodů** | 10 bodů | 10 bodů | 15 bodů | 15 bodů | 5 bodů | 20 bodů | 25 bodů |
-| **Prav** | $300 000 | 10 bodů | 10 bodů | *\* Viz Poznámka* | 5 bodů | 5 bodů | 25% |
-| **Rozvíjet** | $150 000 | 5 bodů | 5 bodů |*\* Viz Poznámka* | 2 body | 1 bod | 25% |
+| **Prav** | $300 000 | 10 | 10 | *\* Viz Poznámka* | 5 | 5 | 25% |
+| **Rozvíjet** | $150 000 | 5  | 5  |*\* Viz Poznámka* | 2 | 1 | 25% |
 
 *\* Poznámka: cíle růstu se liší v závislosti na počtu základních konzultantů. Cíle růstu najdete v [tabulce 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
 
@@ -122,8 +122,8 @@ Podrobnosti najdete v následujících tabulkách:
 | Metrika sběrnice PCI | Ukazatel výkonu: NET New výnos | Ukazatel výkonu: Přidání nového zákazníka | Indikátor schopností: funkční konzultanti | Indikátor schopností: růst funkčního konzultanta | Indikátor schopností: vývojáři | Indikátor úspěšnosti zákazníka: nová rozsáhlá nasazení | Indikátor úspěšnosti zákazníka: měsíční nárůst uživatele na aktivní |
 |---|---|---|---|---|---|---|---|
 | **Maximální počet bodů** | 10 bodů | 10 bodů | 15 bodů | 15 bodů | 5 bodů | 20 bodů | 25 bodů |
-| **Prav** | $300 000 | 3 body | 15 bodů | *\* Viz Poznámka* | 5 bodů | 3 body | 25% |
-| **Rozvíjet** | $150 000 | 1 bod | 5 bodů |*\* Viz Poznámka* | 2 body | 1 bod | 25% |
+| **Prav** | $300 000 | 3 | 15 | *\* Viz Poznámka* | 5  | 3 | 25% |
+| **Rozvíjet** | $150 000 | 1 | 5 |*\* Viz Poznámka* | 2 | 1 | 25% |
 
 *\* Poznámka: cíle růstu se liší v závislosti na počtu základních konzultantů. Cíle růstu najdete v [tabulce 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
 
@@ -300,12 +300,12 @@ Chcete-li zobrazit své obchodní příspěvky a grafy a průběh, postupujte po
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra.
 
-2. V navigační nabídce vyberte **CSP** a pak vyberte **indikátory partnerských příspěvků** . 
+2. V navigační nabídce vyberte **CSP** a pak vyberte **indikátory partnerských příspěvků**. 
 
    Měli byste vidět řídicí panel ukazatele příspěvku partnera s přidruženými grafy.
 
    > [!NOTE]
-   > Pokud tyto možnosti nevidíte, zkuste vybrat **MPN** z nabídky a potom **ukazatele příspěvku partnera** . Pokud tyto možnosti stále nenajdete, možná nemáte přiřazenou příslušnou roli uživatele v partnerském centru. Požádejte o nápovědu globálního správce partnerského centra nebo správce partnerského programu MPN.
+   > Pokud tyto možnosti nevidíte, zkuste vybrat **MPN** z nabídky a potom **ukazatele příspěvku partnera**. Pokud tyto možnosti stále nenajdete, možná nemáte přiřazenou příslušnou roli uživatele v partnerském centru. Požádejte o nápovědu globálního správce partnerského centra nebo správce partnerského programu MPN.
 
 ### <a name="read-the-charts"></a>Čtení grafů
 
@@ -313,7 +313,7 @@ Následující obrázek ukazuje, jak číst některé oblasti a grafy na stránc
 
 Další informace o používání této oblasti najdete v tématu shromažďování prostředků a videí, které najdete na konci tohoto článku.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Zobrazuje skóre PCI pro dosažení stříbrné nebo zlaté kompetence.":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Jak číst graf":::
 
 ## <a name="next-steps"></a>Další kroky
 
