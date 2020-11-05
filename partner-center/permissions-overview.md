@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133027"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363618"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Přiřazení rolí uživatelů a oprávnění pro uživatele společnosti, kteří potřebují pracovat v partnerském centru
 
@@ -127,21 +127,38 @@ Tyto role nejsou Azure Active Directory rolí. Tyto role spravují firmu společ
 ||* Vytvoření lístků podpory pro partnerské Centrum
 ||* Zobrazit lístky podpory partnerů, které vytvoříte
 
+## <a name="manage-referrals"></a>Správa odkazů
 
-## <a name="manage-referrals"></a>Správa odkazů 
+> [!Note]
+>Nová role uživatele referenčních seznamů bude k dispozici od 16. listopadu 2020. Stávající správci odkazů si budou zachovávat jejich oborovou roli správce odkazů na celou firmu.
 
-|**Role**|**Co můžete dělat**|**Další informace**|
-|-----------------------------|:------------------------|---|
-|Správce odkazů       |* Zobrazení, vytvoření a Správa obchodních profilů|[Správa různých potenciálních zákazníků, jako jsou potenciální zákazníci na základě dotazů zákazníků, kvalifikovaní potenciální zákazníci z marketingového oddělení a kvalifikovaní potenciální zákazníci z prodejního oddělení](manage-leads.md)
-||* Přijímání a Správa odkazů
-||* Zobrazení, vytvoření a Správa odkazů společného prodeje|
-||* Zobrazení, vytvoření a správa žádostí o partnerských služeb
-|Správce obchodního profilu   |* Zobrazit, vytvořit a spravovat obchodní profil |[Vytvoření obchodního profilu](create-a-marketing-profile.md)
-||* Zobrazení, vytvoření a správa žádostí o partnerských služeb
-||* Vytvoření lístků podpory pro partnerské Centrum
-||* Zobrazit lístky podpory partnerů, které vytvoříte|
+|**Role** | **Co můžete dělat**|**Další informace**
+|------------------------------|:-------------------------|---|
+|Správce odkazů|Vytvoření a Správa všeho v části karta odkazy v partnerském centru|[Správa příležitostí ke spoluprodeji](manage-co-sell-opportunities.md)
+||    Může zobrazit a upravit všechny příležitosti a potenciální zákazníky ve společném prodeji.
+||    Může přiřadit členy týmu pro obchod.
+||    Může zobrazovat a upravovat obchodní profily.
+||    Může zobrazit a zaregistrovat obchody pro příležitosti, které jsou označené jako získané a které mají nárok na registraci koupí.
+||    Může vytvářet a zobrazovat lístky podpory
+|Uživatel s odkazy|Vytváření a správa příležitostí společného prodeje pouze v případě, že jsou součástí týmu |[Správa příležitostí ke spoluprodeji](manage-co-sell-opportunities.md)
+||    Může vytvořit příležitosti pro společný prodej pro umístění, kde jsou přiřazena role.
+||    Může zobrazit a zaregistrovat obchody pro příležitosti, které jsou označené jako získané a mají nárok na registraci koupě, pokud jsou členy týmu.
+||    Může vytvářet a zobrazovat lístky podpory
+|Správce obchodního profilu|Vytváření a Správa obchodních profilů | [Správa obchodních profilů](create-a-marketing-profile.md)
+||    Může vytvářet a zobrazovat lístky podpory
 
-## <a name="manage-incentives"></a>Správa pobídek 
+Společně s novou referenční rolí uživatele zavádíme také rozsah umístění pro obchody. V tabulce níže najdete informace o přístupu na základě umístění.
+
+|**Rozsah** | **Co můžete dělat** |
+|------------------------------|:-------------------------|
+|Celá společnost | Správci i uživatelé mají přístup k vytváření obchodů pro libovolné umístění ve své společnosti.|
+|| Správce odkazů má přístup k zobrazení a úpravám všech obchodů. |
+|| Uživatelé s odkazem mají přístup k zobrazení a úpravám všech obchodů pouze v případě, že jsou součástí týmu. |
+|Jedno nebo více umístění | Správci i uživatelé mají přístup k vytváření obchodů pro přiřazené umístění ve společnosti.|
+|| Správce odkazů má přístup, který umožňuje zobrazit a upravit všechny obchody patřící do přiřazených umístění.|
+|| Příslušní uživatelé mají přístup k zobrazení a úpravám všech obchodů náležejících k přiřazeným umístěním, pokud jsou součástí týmu.|
+
+## <a name="manage-incentives"></a>Správa pobídek
 
 |**Role** | **Co můžete dělat**|**Další informace**
 |------------------------------|:-------------------------|---|

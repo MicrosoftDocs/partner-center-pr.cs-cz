@@ -1,5 +1,5 @@
 ---
-title: Správa příležitostí společného prodeje
+title: Správa příležitostí ke spoluprodeji
 ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527796"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363635"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Správa příležitostí společného prodeje v partnerském centru
 
@@ -63,7 +63,7 @@ Můžete vytvořit tři typy příležitostí.
 
 Vyberte zákazníka pro tuto konkrétní obchod. Zadejte jejich umístění a začněte psát název. Automatický návrh začne zobrazovat doporučení na základě kritérií hledání. Vzhledem k tomu, že mnoho společností má více než jednu obchodní entitu ve stejném umístění, může se zobrazit více výsledků. Pokud si nejste jistí, která z nich si zvolíte, můžete si ověřit, které číslo D-U-N-S vašemu zákazníkovi patří. Ujistěte se, že jste vybrali přesnou shodu pro zákazníka, se kterým pracujete.
 
-Po kliknutí na **vybrat zákazníka** se zobrazí výzva, abyste zadali jméno, telefonní číslo a e-mailovou adresu osoby, která je vaším hlavním kontaktním bodem tohoto obchodu. Tyto podrobnosti jsou volitelné a jsou vyžadovány pouze v případě, že plánujete pozvat prodej na Microsoft, abyste vám mohli při zapojení. Vyberte **Další** .
+Po kliknutí na **vybrat zákazníka** se zobrazí výzva, abyste zadali jméno, telefonní číslo a e-mailovou adresu osoby, která je vaším hlavním kontaktním bodem tohoto obchodu. Tyto podrobnosti jsou volitelné a jsou vyžadovány pouze v případě, že plánujete pozvat prodej na Microsoft, abyste vám mohli při zapojení. Vyberte **Další**.
 
 > [!IMPORTANT]
 > Ujistěte se, že jste získali souhlas zákazníka, abyste Microsoftu poskytli své kontaktní údaje k obchodování. Společnost Microsoft může tyto informace použít k přímému kontaktování zákazníka.
@@ -75,6 +75,7 @@ Zadejte podrobnosti o aktuální koupi. Pole, která jsou definována níže, se
 | **Název pole** | **Povinný/volitelný** | **Podrobnosti** |
 |-------------|--------|-------|
 |**Název obchodu** | Povinné | Popisný název k identifikaci vaší práce v pozdějším časovém okamžiku. |
+|**Umístění**| Povinné | Rozsah umístění MPN odkazu Odkazování uživatelů pomocí tohoto oboru umístění může zobrazit odkazy, pokud jsou součástí týmu. Správci odkazů a správci odkazů s globálním rozsahem mohou zobrazit reference bez ohledu na umístění. Po vytvoření odkazu nelze upravovat umístění.|
 |**Odhadovaná hodnota** | Povinné | Hodnota obchodu na základě informací, které jsou k dispozici při vytváření obchodu.|
 |**Odhadované datum ukončení**| Povinné| Datum, kdy očekáváte uzavření obchodu se zákazníkem. |
 |**ID CRM**| Volitelné | Zaregistrujte obchod s ID příležitosti v příslušném účelu pro účely sledování CRM.|
@@ -134,21 +135,21 @@ Pokud jste v této fázi obdrželi novou příležitost k prodeji buď od prodej
 
 - **Přijmout:** Zadejte název obchodu, upravte odhadovanou hodnotu koupě a odhadovaný časový rámec nákupu na základě vaší recenze. Po navázání kontaktu se zákazníkem byste měli v poli **poznámky** zadat informace, které vám pomůžou vysvětlit, co zákazník hledá. Volitelně můžete zadat ID vaší aplikace CRM (jenom pro referenci), ID marketingové kampaně, které vedlo k příslušné příležitosti, a přidat kontakty z vaší společnosti, kteří budou na této práci pracovat.
 
-- Až budete hotovi, vyberte **Další** . Budeme přemístit odkaz na **další fázi** , což znamená, že se budete chtít aktivně zapojit zákazníka, aby si vyřeší jejich potřebu. Tyto informace také použijeme, abychom vám pomohli najít podobné obchody v budoucnosti.
+- Až budete hotovi, vyberte **Další**. Budeme přemístit odkaz na **další fázi** , což znamená, že se budete chtít aktivně zapojit zákazníka, aby si vyřeší jejich potřebu. Tyto informace také použijeme, abychom vám pomohli najít podobné obchody v budoucnosti.
 
-- **Odmítnout** : Vyberte důvod odmítnutí obchodu a přidejte všechny poznámky, které chcete zahrnout, a pak vyberte **uzavřít obchod** . Budeme archivovat jako **odmítnuté** a oznamujeme Microsoftu nebo partnerovi, který vám tuto příležitost poslal.
+- **Odmítnout** : Vyberte důvod odmítnutí obchodu a přidejte všechny poznámky, které chcete zahrnout, a pak vyberte **uzavřít obchod**. Budeme archivovat jako **odmítnuté** a oznamujeme Microsoftu nebo partnerovi, který vám tuto příležitost poslal.
 
 - Pokud během přiděleného času (v současnosti 14 dnů) neodpovíte, archivujte ho jako **konec platnosti** a upozorněte buď společnost Microsoft, nebo partnera, který vám tuto příležitost poslal.
 
 ### <a name="accepted-stage"></a>Přijatá fáze
 
-Pracujte na uzavření obchodu se zákazníkem. Pokud chcete změnit některou z informací, které jste zadali pro přijatý odkaz, vyberte **Upravit** . Potom můžete aktualizovat název obchodu, odhadované datum nákupu, odhadované hodnoty, poznámky, CRM ID a/nebo ID marketingové kampaně.  Můžete také vybrat možnost **Přidat tým** a zadat jméno, telefonní číslo a e-mailové adresy všech dalších osob, které na obchod pracují. Řešení je také možné upravovat v závislosti na potřebě zákazníka.
+Pracujte na uzavření obchodu se zákazníkem. Pokud chcete změnit některou z informací, které jste zadali pro přijatý odkaz, vyberte **Upravit**. Potom můžete aktualizovat název obchodu, odhadované datum nákupu, odhadované hodnoty, poznámky, CRM ID a/nebo ID marketingové kampaně.  Můžete také vybrat možnost **Přidat tým** a zadat jméno, telefonní číslo a e-mailové adresy všech dalších osob, které na obchod pracují. Řešení je také možné upravovat v závislosti na potřebě zákazníka.
 
 Všechny obchody, které jste vytvořili, jsou ve výchozím nastavení v přijaté fázi.
 
 Jakmile začnete pracovat na práci, můžete zadat podrobné informace o postupu, který provedete, a to tak, že označíte fáze prodeje v životním cyklu obchodu. Existují čtyři fáze v životním cyklu obchodu mimo počáteční přijetí nebo vytvoření a poslední fáze výhry nebo ztráty, jak je uvedeno níže. Poskytnutí těchto podrobností je volitelné, ale vysoce doporučujeme je sdílet, abyste získali vhodné informace od prodejních zástupců Microsoftu v rámci společného obchodování.
 
-:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Obrázek znázorňující životní cyklus obchodu, kde lze označit fázi prodeje.&quot;:::
+:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Obrázek znázorňující životní cyklus obchodu, kde lze označit fázi prodeje.":::
 
 > [!Note]
 > Prodejní fáze se budou lišit, pokud se jedná o řešení posouzení řešení. Označení prodejní fáze je také **povinné** pro vyhodnocování řešení. Tlačítko **výhra** bude povoleno až po označení všech fází prodeje jako dokončených partnerem.
@@ -182,43 +183,9 @@ Obchod bude způsobilý k registraci koupě pouze v případě, že splňuje vš
 > [!Important]
 > Zaregistrujte se do obchodu jenom v případě, že je název vaší společnosti a opravňující řešení v rámci obchodu jasně zmíněn v kontraktu se zákazníkem.
 
-Pokud máte nárok na registraci koupek, bude do životního cyklu obchodu s názvem &quot;registrace Koupek" přidán další milník, jak je vidět níže.
+Pokud máte nárok na registraci koupek, bude do životního cyklu obchodu s názvem "registrace Koupek" přidán další milník, jak je vidět níže.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Obrázek znázorňující životní cyklus obchodu, kde lze označit fázi prodeje.&quot;:::
-
-> [!Note]
-> Prodejní fáze se budou lišit, pokud se jedná o řešení posouzení řešení. Označení prodejní fáze je také **povinné** pro vyhodnocování řešení. Tlačítko **výhra** bude povoleno až po označení všech fází prodeje jako dokončených partnerem.
-
-Níže je uvedená tabulka s prodejními fázemi a odpovídajícími procentními sazbami pro jiné obchody než posouzení řešení, jak je určeno systémem Microsoft Partner Center References.
-
-|**Název prodejní fáze**|**Procento fáze prodeje**|**Definice fáze prodeje**|
-|:----|:-----|:-----|
-|Vytvořeno|10 %|Vytváření odchozích operací koupě.|
-|Přijato|10 %|Přijetí příchozího obchodování.|
-|Qualified|20 %|Než budete pokračovat, je kvalifikována hodnota obchodu a požadavky zákazníků.|
-|Prav|40 %|Další postup při vývoji obchodu vám pomůže pochopit podrobné požadavky na přípravu pravidla ověření nebo jakékoli jiné artefakty, které jsou nezbytné pro formální návrh.|
-|Proposed|60 %|Zajištění formálního návrhu na zákazníka na základě jejich požadavků.|
-|Vyjednávaný|80 %|Vyjednávání konečných podmínek na základě návrhu za účelem získání do konečného stavu – výhra nebo ztráta obchodu.|
-|Získání|100 %|Označení obchodu jako získaného.|
-
-Až budete hotovi, můžete provést jednu ze dvou akcí, což označuje, že se jednalo o **získanou** nebo **ztracenou** práci k nahlášení výsledku.
-
-> [!Note]
-> Není nutné, aby vaše společnost měla stejné prodejní fáze. To je způsob, jakým Partnerská centra rozpoznává fáze Sales pro prodej a automaticky namapuje fáze vaší společnosti na tyto standardní fáze, pokud tyto hodnoty předáte pomocí rozhraní API. Pokud používáte uživatelské rozhraní partnerského centra, procenta uvedená v tabulce se používají k označení fází prodeje.
-
-> [!Important]
-> Po výběru získaného řešení budete požádáni o zadání dalších informací k registraci vašeho obchodu. Společnost Microsoft si přezkoumá informace, které tady zadáte, a může požádat o další podrobnosti během procesu kontroly. Další informace najdete v tématu [registrace vašich obchodů](register-deals.md).
-
-Obchod bude způsobilý k registraci koupě pouze v případě, že splňuje všechna níže uvedená kritéria.
-
-1. Společnost Microsoft se vyzývá k obchodování.
-2. Společnost Microsoft buď přijala pozvánku, nebo ji označila jako získanou. Stav společnosti Microsoft si můžete porozumět na kartě společnosti Microsoft pod podrobnostmi o vaší koupi.
-3. V rámci obchodu je vhodné řešení s motivací.
-
-> [!Important]
-> Zaregistrujte se do obchodu jenom v případě, že je název vaší společnosti a opravňující řešení v rámci obchodu jasně zmíněn v kontraktu se zákazníkem.
-
-Pokud máte nárok na registraci koupek, bude do životního cyklu obchodu s názvem &quot;registrace Koupek":::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Obrázek znázorňující životní cyklus obchodu, umístění, ze kterého lze zahájit registraci koupě.":::
 
 Můžete se rozhodnout, že se chystáte tuto práci zaregistrovat hned po označení získanou nebo později v čase prostřednictvím tlačítka **Registrovat** v životním cyklu obchodu.
 Po zaregistrování obchodu si můžete prohlédnout průběh ověřování koupí ze stejného životního cyklu. Pokud vaše společnost vyžaduje akci, zobrazí se v zobrazení životního cyklu obchodu příslušné chyby. Transakce přejde do stavu Uzavřeno, když je ověření platnosti koupě dokončeno.
@@ -251,88 +218,20 @@ Ne, obchody se po přesunu do stavu terminálu nedají změnit. Vypršení platn
 
 K tomu může dojít, pokud má vaše společnost více tenantů přidružených ke stejnému účtu MPN. Přejít na nastavení účtu partnerského centra a ověřte klienty přidružené k tomuto účtu. Pak vytvořte lístek podpory požadující odkazování na klienty. Zadejte ID tenanta, ke kterému jste se přihlásili v lístku podpory.
 
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Obrázek znázorňující životní cyklus obchodu, kde lze označit fázi prodeje.&quot;:::
-
-> [!Note]
-> Prodejní fáze se budou lišit, pokud se jedná o řešení posouzení řešení. Označení prodejní fáze je také **povinné** pro vyhodnocování řešení. Tlačítko **výhra** bude povoleno až po označení všech fází prodeje jako dokončených partnerem.
-
-Níže je uvedená tabulka s prodejními fázemi a odpovídajícími procentními sazbami pro jiné obchody než posouzení řešení, jak je určeno systémem Microsoft Partner Center References.
-
-|**Název prodejní fáze**|**Procento fáze prodeje**|**Definice fáze prodeje**|
-|:----|:-----|:-----|
-|Vytvořeno|10 %|Vytváření odchozích operací koupě.|
-|Přijato|10 %|Přijetí příchozího obchodování.|
-|Qualified|20 %|Než budete pokračovat, je kvalifikována hodnota obchodu a požadavky zákazníků.|
-|Prav|40 %|Další postup při vývoji obchodu vám pomůže pochopit podrobné požadavky na přípravu pravidla ověření nebo jakékoli jiné artefakty, které jsou nezbytné pro formální návrh.|
-|Proposed|60 %|Zajištění formálního návrhu na zákazníka na základě jejich požadavků.|
-|Vyjednávaný|80 %|Vyjednávání konečných podmínek na základě návrhu za účelem získání do konečného stavu – výhra nebo ztráta obchodu.|
-|Získání|100 %|Označení obchodu jako získaného.|
-
-Až budete hotovi, můžete provést jednu ze dvou akcí, což označuje, že se jednalo o **získanou** nebo **ztracenou** práci k nahlášení výsledku.
-
-> [!Note]
-> Není nutné, aby vaše společnost měla stejné prodejní fáze. To je způsob, jakým Partnerská centra rozpoznává fáze Sales pro prodej a automaticky namapuje fáze vaší společnosti na tyto standardní fáze, pokud tyto hodnoty předáte pomocí rozhraní API. Pokud používáte uživatelské rozhraní partnerského centra, procenta uvedená v tabulce se používají k označení fází prodeje.
-
-> [!Important]
-> Po výběru získaného řešení budete požádáni o zadání dalších informací k registraci vašeho obchodu. Společnost Microsoft si přezkoumá informace, které tady zadáte, a může požádat o další podrobnosti během procesu kontroly. Další informace najdete v tématu [registrace vašich obchodů](register-deals.md).
-
-Obchod bude způsobilý k registraci koupě pouze v případě, že splňuje všechna níže uvedená kritéria.
-
-1. Společnost Microsoft se vyzývá k obchodování.
-2. Společnost Microsoft buď přijala pozvánku, nebo ji označila jako získanou. Stav společnosti Microsoft si můžete porozumět na kartě společnosti Microsoft pod podrobnostmi o vaší koupi.
-3. V rámci obchodu je vhodné řešení s motivací.
-
-> [!Important]
-> Zaregistrujte se do obchodu jenom v případě, že je název vaší společnosti a opravňující řešení v rámci obchodu jasně zmíněn v kontraktu se zákazníkem.
-
-Pokud máte nárok na registraci koupek, bude do životního cyklu obchodu s názvem &quot;registrace Koupek":::
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Obrázek znázorňující nastavení účtu, kde lze najít informace o tenantovi.":::
 
 **Q3. Kdo dostane e-mailové oznámení z partnerského centra?**
 
 Následující pracovní postup vysvětluje, jak se e-maily odesílají partnerům ze systému odkazů z partnerského centra pro nové příchozí odkazy na partnery.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Obrázek znázorňující životní cyklus obchodu, kde lze označit fázi prodeje.&quot;:::
-
-> [!Note]
-> Prodejní fáze se budou lišit, pokud se jedná o řešení posouzení řešení. Označení prodejní fáze je také **povinné** pro vyhodnocování řešení. Tlačítko **výhra** bude povoleno až po označení všech fází prodeje jako dokončených partnerem.
-
-Níže je uvedená tabulka s prodejními fázemi a odpovídajícími procentními sazbami pro jiné obchody než posouzení řešení, jak je určeno systémem Microsoft Partner Center References.
-
-|**Název prodejní fáze**|**Procento fáze prodeje**|**Definice fáze prodeje**|
-|:----|:-----|:-----|
-|Vytvořeno|10 %|Vytváření odchozích operací koupě.|
-|Přijato|10 %|Přijetí příchozího obchodování.|
-|Qualified|20 %|Než budete pokračovat, je kvalifikována hodnota obchodu a požadavky zákazníků.|
-|Prav|40 %|Další postup při vývoji obchodu vám pomůže pochopit podrobné požadavky na přípravu pravidla ověření nebo jakékoli jiné artefakty, které jsou nezbytné pro formální návrh.|
-|Proposed|60 %|Zajištění formálního návrhu na zákazníka na základě jejich požadavků.|
-|Vyjednávaný|80 %|Vyjednávání konečných podmínek na základě návrhu za účelem získání do konečného stavu – výhra nebo ztráta obchodu.|
-|Získání|100 %|Označení obchodu jako získaného.|
-
-Až budete hotovi, můžete provést jednu ze dvou akcí, což označuje, že se jednalo o **získanou** nebo **ztracenou** práci k nahlášení výsledku.
-
-> [!Note]
-> Není nutné, aby vaše společnost měla stejné prodejní fáze. To je způsob, jakým Partnerská centra rozpoznává fáze Sales pro prodej a automaticky namapuje fáze vaší společnosti na tyto standardní fáze, pokud tyto hodnoty předáte pomocí rozhraní API. Pokud používáte uživatelské rozhraní partnerského centra, procenta uvedená v tabulce se používají k označení fází prodeje.
-
-> [!Important]
-> Po výběru získaného řešení budete požádáni o zadání dalších informací k registraci vašeho obchodu. Společnost Microsoft si přezkoumá informace, které tady zadáte, a může požádat o další podrobnosti během procesu kontroly. Další informace najdete v tématu [registrace vašich obchodů](register-deals.md).
-
-Obchod bude způsobilý k registraci koupě pouze v případě, že splňuje všechna níže uvedená kritéria.
-
-1. Společnost Microsoft se vyzývá k obchodování.
-2. Společnost Microsoft buď přijala pozvánku, nebo ji označila jako získanou. Stav společnosti Microsoft si můžete porozumět na kartě společnosti Microsoft pod podrobnostmi o vaší koupi.
-3. V rámci obchodu je vhodné řešení s motivací.
-
-> [!Important]
-> Zaregistrujte se do obchodu jenom v případě, že je název vaší společnosti a opravňující řešení v rámci obchodu jasně zmíněn v kontraktu se zákazníkem.
-
-Pokud máte nárok na registraci koupek, bude do životního cyklu obchodu s názvem &quot;registrace Koupek":::
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Obrázek znázorňující logiku posílání e-mailů partnerům pro nové příchozí odkazy.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Získání více příležitostí společného prodeje
 
 Tady je několik tipů, které vám pomůžou získat více příležitostí, které jsou vhodné pro vaši firmu:
 
-- **Rychle reagovat na obchody** . Když odpovíte včas na příchozí požadavky, zvýšíme vaši viditelnost v budoucích výsledcích hledání partnerů. Ujistěte se, že váš tým rychle reaguje s vaším záměrem.
-- **Choosy se s obchody, které přijmete** . Sledujeme typy obchodů, které přijímáte a odmítáte, a tyto informace můžete využít k tomu, abyste vám pomohli najít podobné obchody. Přijímání obchodů, které nejsou vhodné, nevylepší výsledky hledání a může ovlivnit kvalitu příležitostí, které obdržíte.
+- **Rychle reagovat na obchody**. Když odpovíte včas na příchozí požadavky, zvýšíme vaši viditelnost v budoucích výsledcích hledání partnerů. Ujistěte se, že váš tým rychle reaguje s vaším záměrem.
+- **Choosy se s obchody, které přijmete**. Sledujeme typy obchodů, které přijímáte a odmítáte, a tyto informace můžete využít k tomu, abyste vám pomohli najít podobné obchody. Přijímání obchodů, které nejsou vhodné, nevylepší výsledky hledání a může ovlivnit kvalitu příležitostí, které obdržíte.
 - **Nahlaste se s předpokládanými velikostmi, konečnými se daty a konečným stavem vašich obchodů** (získaných nebo ztracených). Tyto informace použijeme, abychom vám mohli dál poskytovat odkazy na kvalitu.
 
 ## <a name="next-steps"></a>Další kroky
