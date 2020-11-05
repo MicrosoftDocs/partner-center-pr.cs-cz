@@ -1,4 +1,5 @@
 # [Oznámení Partnerského centra](index.md)
+# [Listopad 2020](2020-november.md)
 # [Říjen 2020](2020-october.md)
 # [Září 2020](2020-september.md)
 # [Srpen 2020](2020-august.md)
