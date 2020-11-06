@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2f82caf36171a1757d8e1f2d016c82f7f2dedecf
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
+ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93328048"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "94333891"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -24,6 +24,97 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 
 ______________
 
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Rozšiřování obsahu komerčního licenčního partnera v galerii připravenost k provozu
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-11-5
+- Možnosti
+
+### <a name="summary"></a>Shrnutí
+
+Od listopadu 5 2020 budou k dispozici komerční obsah partnerského oddělení z partnerské univerzity, a to i v galerii připravenost k provozu.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Komerční partneři
+
+### <a name="details"></a>Podrobnosti
+
+Od 5. listopadu 2020 bude k dispozici komerční obsah partnerského oddělení z partnerské univerzity, který bude dostupný i v galerii připravenost k provozu. Tím se už stávající provozní a komerční licenční partner spustí obsah v galerii připravenost k provozu s naším dlouhodobě komerčním partnerem licencování od partnerského studia. Díky tomu budou mít partneři pružnější možnosti připravenosti. Do galerie připravenost k operacím byly přidány následující kolekce:
+
+- [Microsoft Azure – nabídky a licencování](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [Komerční licencování – volání Spotlightu pro CSP](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [Komerční licencování – volání aktualizací licencování](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+
+### <a name="next-steps"></a>Další kroky
+
+Tyto informace Sdílejte se všemi odpovídajícími kontakty ve vaší organizaci.
+
+________________
+
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Microsoft Teams Rooms úrovně Premium – spuštění SKU
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-11-3
+- Nabídky/trhy
+
+### <a name="summary"></a>Shrnutí
+
+Microsoft Teams je teď dostupný v programu Cloud Solution Provider (CSP) pro týmy Microsoft.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Podrobnosti
+
+Nové týmy Microsoft Teams jsou teď dostupné pro vaše zákazníky, kteří si kupují poskytovatele CSP za USD50 na zařízení za měsíc. SKU Microsoft Teams je alternativou k Microsoft Teams místnosti Standard SKU (dříve označované jako licence na schůzku). Tato SKU obsahuje všechno ve standardní nabídce, jako jsou třeba licence pro Microsoft teams, Online Skype pro firmy a správu Intune. Nabídka taky umožňuje telefonnímu systému – nutnému pro integraci veřejné telefonní sítě (PSTN) a zvukové konference, kde je k dispozici. 
+
+Díky nabídce Premium mají zákazníci přístup k nově vydaným verzím Microsoft Teams místností spravované služby, kde odborníci zpracovávají správu a operace pro místnosti pro schůzky jménem zákazníka. Tato cloudová služba pro správu a sledování IT zajišťuje, aby týmy Microsoftu místnosti zařízení a jejich periferních zařízení v aktuálním stavu. Také se aktivně monitorují a spravují a udržují prostředí optimalizované pro skvělou práci v místnosti.
+
+#### <a name="released-at-launch"></a>Vydaná při spuštění
+
+   |****|**Microsoft Teams Rooms úrovně Standard USD15 za měsíc**|**Microsoft Teams Rooms Premium USD50 Device za měsíc**|
+   |-------------------|:------|:------|
+   |Skype pro firmy|Yes| |
+   |Microsoft Teams|Yes|Yes|
+   |Telefonní systém|Yes|Yes|
+   |Zvukové konference|Yes|Yes|
+   |Microsoft Intune|Yes|Yes|
+   | |Microsoft Teams Rooms Standard USD15 na zařízení za měsíc|Microsoft Teams Rooms Premium USD50 na zařízení za měsíc|
+   |Microsoft Teams místností spravované služby| |Yes|
+   |Celosvětová dostupnost|Yes|Na vybraných trzích|
+
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams místností spravované služby
+
+- Proaktivní Správa: zcela nepřetržitou správu vašich systémů místností, včetně oprav, správy konfigurací a dalších.
+• Monitorování a analýza hlavní příčiny v reálném čase: monitorování a zjišťování s orchestrací reakce na správu incidentů, kterou zajišťuje Microsoft v koordinaci s zákazníkem v případě potřeby. Mobilní aplikace vám umožní udržet výstrahy na cestách.
+- Spravované aktualizace: Správa a doručování aktualizací aplikací, Windows KB a firmwaru.
+- Ochrana před hrozbami zabezpečení: Ochrana před internetovými útoky pomocí rozšířené ochrany před internetovými útoky v programu Microsoft Defender
+- Zákaznická podpora: podpora lístků zcela nepřetržitou prostřednictvím našeho vyhrazeného provozního centra služeb s asistencí pro jiné než automatizované případy. Podrobné řízení přístupu na základě rolí.
+- Přehledy a doporučení: agregované přehledy pro zákazníky a sestavy o stavu místnosti, inventáři, používání, online schůzkách a trendech incidentů.
+
+#### <a name="offer-details"></a>Podrobnosti nabídky
+
+   |**Název nabídky**|**ID nabídky**|**ID materiálu**|
+   |-------------------|:------|:------|
+   |Týmy na místnosti úrovně Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Týmy v místnostech Premium (USA a může)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Týmy – místnosti Premium pro vyučující|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+
+### <a name="next-steps"></a>Další kroky
+
+- Seznamte se s novou nabídkou a její geografickou dostupností najdete [v nejčastějších dotazech.]()
+- Seznámení s novou nabídkou a její geografickou dostupností 
+- Přečtěte si další informace o místnostech Microsoftu a souvisejících nabídkách na [týmových místnostech Microsoftu](https://rooms.microsoft.com/).
+- Pomocí [Průvodce týmy pro týmy](https://aka.ms/teamscallingmeetingsguide) můžete vyvinout svůj postup s týmy pro setkání a vytvořit nabídku, která je připravená pro spoluprodej.
+- Přečtěte si [Nejčastější dotazy k místnostem Microsoft Teams](https://aka.ms/PartnerMTRFAQ) , kde najdete další informace o řešení a službách produktu. 
+- Tyto informace se dají sdílet se všemi příslušnými kontakty ve vaší organizaci a porozumět příležitostem přeprodat a vzájemným prodejcům.
+
+________________
+
 ## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Nové Microsoft Teams Advanced Communications pro Cloud Community (RSZ) již brzy
 
 ### <a name="categories"></a>Kategorie
@@ -31,7 +122,7 @@ ______________
 - Datum: 2020-11-2
 - Nabídky/trhy
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Nové skladové položky doplňku pro pokročilou komunikaci pro Microsoft Teams v RSZ budou k dispozici od 1. prosince 2020.
 
@@ -126,7 +217,7 @@ ________________
 - Datum: 2020-11-2
 - Nabídky/trhy
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Od listopadu 1 2020 společnost Microsoft zavedla nové SKU pro Microsoft 365 Business hlas pro neziskové organizace.
 
@@ -162,7 +253,7 @@ ________________
 - Datum: 2020-11-2
 - Nabídky/trhy
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Zlevněné ceny pro nové a obnovení předplatných Microsoft 365 Business hlasu pomocí plánu volání a Microsoft 365 Business hlasu bez volání plánu.
 
