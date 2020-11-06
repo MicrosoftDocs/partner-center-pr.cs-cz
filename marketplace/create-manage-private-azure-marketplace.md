@@ -1,18 +1,17 @@
 ---
 title: Vytvoření a Správa privátních Azure Marketplace v Azure Portal
 description: Seznamte se s vytvářením a správou privátních Azure Marketplace (Preview) v Azure Portal.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "92527270"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414854"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Vytvoření a Správa privátních Azure Marketplace (Preview) v Azure Portal
 
@@ -32,7 +31,7 @@ Globální správce tenanta musí přiřadit roli **správce Marketplace** sprá
 >[!IMPORTANT]
 > Přístup ke správě privátních Azure Marketplace je k dispozici jenom správcům IT, kteří mají přiřazenou roli správce Marketplace.
 
-### <a name="prerequisites"></a>Požadavky
+### <a name="prerequisites"></a>Předpoklady
 
 Abyste mohli přiřadit roli správce Marketplace uživateli v oboru tenanta, musíte splnit tyto požadavky:
 
@@ -129,38 +128,38 @@ Další informace o rutinách obsažených v modulu příkazového portálu AZ. 
 
 ## <a name="create-private-azure-marketplace"></a>Vytvořit soukromé Azure Marketplace
 
-1. Přihlaste se k webu [Azure Portal](https://portal.azure.com/).
-2. Vyberte **všechny služby** a potom **Marketplace** .
+1. Přihlaste se k [portálu Azure Portal](https://portal.azure.com/).
+2. Vyberte **všechny služby** a potom **Marketplace**.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal hlavní okno.":::
 
 3. Z možností na levé straně vyberte **soukromé tržiště** .
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Azure Portal hlavní okno.":::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Výběr privátního tržiště v Azure Portal hlavním okně.":::
 
 4. Vyberte **Začínáme** pro vytvoření privátního Azure Marketplace (stačí to udělat jenom jednou).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Azure Portal hlavní okno.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Výběr možnosti Začínáme v hlavním okně Azure Portal.":::
 
     Pokud pro tohoto tenanta už existuje privátní Azure Marketplace, bude ve výchozím nastavení vybraná možnost **Spravovat Marketplace** .
 
 5. Po dokončení budete mít prázdné a zakázané soukromé Azure Marketplace.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Azure Portal hlavní okno.":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Prázdná obrazovka privátního Azure Marketplace.":::
 
 ## <a name="add-items-from-gallery"></a>Přidat položky z Galerie
 
 Položka je kombinací nabídky a plánu. Položku můžete vyhledat a přidat na stránce Spravovat web Marketplace.
 
-1. Vyberte **Přidat položky** .
+1. Vyberte **Přidat položky**.
 
 2. Přejděte do **Galerie** nebo vyhledejte požadovanou položku pomocí vyhledávacího pole.
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Azure Portal hlavní okno.":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Procházení Galerie nebo použití vyhledávacího pole.":::
 
 3. Ve výchozím nastavení se při přidávání nové nabídky přidají všechny aktuální plány do seznamu povolených. Chcete-li před přidáním vybraných položek změnit výběr plánu, vyberte rozevírací nabídku v dlaždici nabídky a aktualizujte požadované plány.
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Azure Portal hlavní okno.":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Aktualizujte požadované plány.":::
 
 4. Vyberte **Hotovo** vlevo dole po provedení výběru.
 
@@ -174,22 +173,22 @@ Plány položky můžete upravit na stránce Spravovat web Marketplace.
 1. Ve sloupci **plány** zkontrolujte dostupné plány z rozevírací nabídky pro danou položku.
 2. Zaškrtnutím nebo zrušením zaškrtnutí políček zvolte, které plány mají být uživatelům k dispozici.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Azure Portal hlavní okno.":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Zaškrtněte nebo zrušte zaškrtnutí políčka pro požadovanou položku.":::
 
 > [!NOTE]
 > U každé nabídky je nutné vybrat alespoň jeden plán, aby došlo k aktualizaci. Chcete-li odebrat všechny plány související s nabídkou, odstraňte celou nabídku (viz další oddíl).
 
 ## <a name="delete-offers"></a>Odstranit nabídky
 
-Na stránce Spravovat Marketplace zaškrtněte políčko vedle názvu nabídky (viz obrazovka výše) a vyberte **Odstranit položky** .
+Na stránce Spravovat Marketplace zaškrtněte políčko vedle názvu nabídky (viz obrazovka výše) a vyberte **Odstranit položky**.
 
 ## <a name="enabledisable-private-azure-marketplace"></a>Povolit nebo zakázat privátní Azure Marketplace
 
 Na stránce Spravovat Marketplace se zobrazí jedna z těchto proužkových proužků, která zobrazí aktuální stav privátních Azure Marketplace:
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Azure Portal hlavní okno.":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="Deaktivovat banner stavu":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Azure Portal hlavní okno.":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="Povolit banner stavu":::
 
 V případě potřeby můžete povolit nebo zakázat privátní Azure Marketplace.
 
@@ -205,7 +204,7 @@ Když je povolený privátní Azure Marketplace, uživatelé uvidí, které plá
 
 Uživatelé mohou filtrovat mezi nabídkami, které nejsou a nejsou povoleny:
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="Azure Portal hlavní okno.":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="Možnost filtrování":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Koupit nebo nasadit v privátních Azure Marketplace
 
@@ -213,15 +212,15 @@ I když je prostředí stránky s podrobnostmi o produktu podobné veřejnému A
 
 - Když uživatel vybere povolený plán, aktivuje se tlačítko **vytvořit** :
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Azure Portal hlavní okno.":::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Informační zpráva nabídky, která označuje plán, se dá vytvořit.":::
 
 - Když uživatel vybere nepovolený plán, banner se zaznamená, že plán není povolený a tlačítko **vytvořit** je zakázané.
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Azure Portal hlavní okno.":::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Banner nabídky, který označuje plán, nejde vytvořit.":::
 
 - Pokud se výběr plánu produktu nezobrazuje na stránce s podrobnostmi o produktu, ale správce schválil jeden nebo více plánů, poznamenejte si, které plány jsou povolené a že je povolené tlačítko **vytvořit** :
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Azure Portal hlavní okno.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Banner nabídky, který označuje plán, se dá vytvořit a Zobrazit dostupné plány.":::
 
 ## <a name="contact-support"></a>Kontaktování podpory
 
