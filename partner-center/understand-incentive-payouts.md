@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244059"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360050"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Zobrazení, Správa a export podrobností programu pobídek
 
@@ -40,7 +40,7 @@ Pomocí těchto stránek si můžete zobrazit podrobnosti o vašich minulých, n
 Z [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra můžete získat přístup k pobídek informacím několika způsoby:
 
 - V nabídce na levé straně vyberte **pobídky** . V části **pobídky** , včetně **přehledu** , se zobrazí několik možností. Prozkoumejte tyto možnosti, abyste se seznámili se stavem motivačních programů, motivačních plateb, příjmů a nároků.
-- V pravém horním rohu vyberte ikonu **peníze** (výběr). Pak můžete vybrat další možnosti, například **historie transakcí** , **platby** , **Export dat** nebo **prodejní sestavu pro Office** .
+- V pravém horním rohu vyberte ikonu **peníze** (výběr). Pak můžete vybrat další možnosti, například **historie transakcí** , **platby** , **Export dat** nebo **prodejní sestavu pro Office**.
 
 Následující stránky jsou popsány zde:
 
@@ -70,7 +70,7 @@ Získání přístupu ke stránce **Přehled mých pobídek** :
    - Pokud chcete seskupit podle umístění, vyberte kartu **podle umístění** nad tabulkou.
    - Chcete-li zobrazit více podrobností o registraci v rámci konkrétní skupiny, vyberte symbol dvojité šipky na konci daného řádku. Tato Dvojitá šipka rozbalí vaše zobrazení.
 
-4. Pokud se k registraci do programu vyžaduje další akce, tato informace se zobrazí ve sloupci **Stav** . V takovém případě můžete výběrem symbolu dvojité šipky zobrazit další kroky, které musíte provést.
+4. Pokud se k registraci do programu vyžaduje další akce, tato informace se zobrazí ve sloupci **Stav**. V takovém případě můžete výběrem symbolu dvojité šipky zobrazit další kroky, které musíte provést.
 
 >[!NOTE]
 >Další informace o různých stavech registrace zobrazených ve sloupci **stav** najdete v následující tabulce.
@@ -95,7 +95,7 @@ Součty na této stránce reprezentují všechna ID MPN, která používáte. M�
 |Další odhadovaná platba      |Jedna další platba přichází vám (i v případě, že už brzy připravujeme), v amerických dolarech.                                     |
 |Poslední platba           |Částka (v amerických dolarech), název programu a ID MPN poslední platby.                                      |
 |Platby podle zdroje       |Množství plateb v amerických dolarech reprezentovaných programem za posledních 12 měsíců.                                      |
-|Platby                       |Vyberte **placené** nebo **nevyřízené** a pak podle potřeby seřaďte. Chcete-li zobrazit další podrobnosti o konkrétní platbě, vyberte možnost **Zobrazit** . Pokud si chcete stáhnout kopii příkazu platební platby, vyberte **Stáhnout** . Zobrazení dat historie transakcí může trvat až 24 hodin, takže se vám nemusí okamžitě zobrazovat související zisky.  |
+|Platby                       |Vyberte **placené** nebo **nevyřízené** a pak podle potřeby seřaďte. Chcete-li zobrazit další podrobnosti o konkrétní platbě, vyberte možnost **Zobrazit**. Pokud si chcete stáhnout kopii příkazu platební platby, vyberte **Stáhnout**. Zobrazení dat historie transakcí může trvat až 24 hodin, takže se vám nemusí okamžitě zobrazovat související zisky.  |
 
 Pokud chcete exportovat všechna data na této stránce, vyberte **exportovat** a potom postupujte podle pokynů na stránce Exportovat data.
 
@@ -139,7 +139,7 @@ Pokud neznáte referenční číslo pro informace o pobídek (CI), najdete je na
 
 - [Řídicí panel partnerského centra](https://partner.microsoft.com/dashboard/) (požadováno přihlášení) na kartě **placené** i na kartě **čeká na vyřízení** .  
 
-- Vaše sestava platby, která se nachází na [stránce pro export stažení platby](/partner-center/understand-incentive-payouts#payment-download-export). 
+- Vaše sestava platby, která se nachází na [stránce pro export stažení platby](#payment-download-export). 
 
 #### <a name="if-your-submission-is-rejected"></a>Pokud se vaše odeslání odmítne
 
@@ -167,7 +167,7 @@ Stránka historie transakcí nyní obsahuje tabulku zobrazující odhadované č
 
 Odhadovaný měsíc platby se vypočítá na základě pravidel konfigurace programu a časových os a zpracovává se v nejbližším nebo nadcházejícím platebním cyklu.
 
-Odhadovaný platební měsíc je aktuálně k dispozici pro všechny typy vyloučení s výjimkou souběžného op, který se zobrazí jako **nepoužitelné** . V případě zisků do 1. července 2020 se odhadované platební měsíc zobrazí jako **nedostupné** .
+Odhadovaný platební měsíc je aktuálně k dispozici pro všechny typy vyloučení s výjimkou souběžného op, který se zobrazí jako **nepoužitelné**. V případě zisků do 1. července 2020 se odhadované platební měsíc zobrazí jako **nedostupné**.
 
 #### <a name="estimated-payment-month-example"></a>Příklad odhadovaného platebního měsíce
 
@@ -195,18 +195,18 @@ Všimněte si, že vaše platba se vydává v předpokládaném měsíci, pokud 
 
 |**Stav vystavení** |**Důvod** |**Je vyžadována akce partnera?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
-|Nezpracované        | Zisk má nárok na platbu. Zůstane v tomto stavu pro období chlazení, jak je definováno v Průvodci programu pro program k Pobídkě.       |Ne        |
-|Nadcházející      |Platební objednávka vygenerovala nevyřízené interní recenze před zpracováním platby.       |Ne       |
+|Nezpracované        | Zisk má nárok na platbu. Zůstane v tomto stavu pro období chlazení, jak je definováno v Průvodci programu pro program k Pobídkě.       |No        |
+|Nadcházející      |Platební objednávka vygenerovala nevyřízené interní recenze před zpracováním platby.       |No       |
 |Nevyřízená daňová faktura      |Vaše daňová faktura je neúplná nebo neplatná.          |Abyste mohli platit, musíte si nejdřív aktualizovat svou daňovou fakturu.         |
 |Zamítnuto během revize        |Platba byla během revize odmítnuta.          |Podrobnosti získáte od podpory Microsoftu.         |
-|Neúspěšné        |Platba se nezdařila z důvodu chyby systému společnosti Microsoft.         |Podrobnosti získáte od podpory Microsoftu.         |
-|Rozpracované     |Platba probíhá.         |Ne         |
-|Nesprávná platba        |Recouping platby probíhá.          |Ne        |
-|Odesláno        |Platba byla odeslána do vaší banky.          |Ne       |
-|Opětovného zpracování       |V platbě došlo k systémové chybě společnosti Microsoft a probíhá její přepracování.           |Ne         |
-|Reversed        |Platba byla stornována vaší bankou a bude odeslána znovu v dalším platebním cyklu.          |Ne        |
+|Neúspěšný        |Platba se nezdařila z důvodu chyby systému společnosti Microsoft.         |Podrobnosti získáte od podpory Microsoftu.         |
+|Rozpracované     |Platba probíhá.         |No         |
+|Nesprávná platba        |Recouping platby probíhá.          |No        |
+|Odesláno        |Platba byla odeslána do vaší banky.          |No       |
+|Opětovného zpracování       |V platbě došlo k systémové chybě společnosti Microsoft a probíhá její přepracování.           |No         |
+|Reversed        |Platba byla stornována vaší bankou a bude odeslána znovu v dalším platebním cyklu.          |No        |
 |Daňová faktura odmítnuta       |Vaše daňová faktura byla během revize odmítnuta. Všechny probíhající platby budou pozastaveny, dokud se nedokončí kontrola daňové faktury.          |Podrobnosti získáte od podpory Microsoftu.         |
-|Daňová faktura pod kontrolou        |Vaše daňové faktury se přezkoumávají. Po schválení daňové faktury se vaše platba uvolní.           |Ne        |
+|Daňová faktura pod kontrolou        |Vaše daňové faktury se přezkoumávají. Po schválení daňové faktury se vaše platba uvolní.           |No        |
 |Zamítnuto        |Platba byla odmítnuta vaší bankou.           |Podrobnosti získáte od své banky.  |
 
 ## <a name="export-data-page"></a>Stránka pro export dat
@@ -331,7 +331,7 @@ Sestava souhrnu transakcí poskytuje podrobnosti transakce na úrovni souhrnu, v
 ### <a name="download-the-transaction-summary-report"></a>Stažení sestavy souhrnu transakcí
 
 1. Na stránce **Přehled pobídek** vyberte v pravém horním rohu ikonu **peníze** (výběr).
-2. Vyberte možnost **Export dat** .
+2. Vyberte možnost **Export dat**.
 3. Vyberte kartu **Souhrn transakce** .
 4. Vyberte vhodné filtry, abyste viděli programy a páky, které mají nárok na agregované tržby. Pokud se nezobrazí žádná data, vaše programy nejsou vhodné pro agregované páky.
 5. Vyberte možnost **Spustit stahování**   a vyexportujte sestavu.  

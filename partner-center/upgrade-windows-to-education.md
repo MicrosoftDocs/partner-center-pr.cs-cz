@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93028786"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94359999"
 ---
 # <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Upgradovat domácí zákazníky s Windows 10 na Windows 10 – vzdělávání
 
@@ -49,9 +49,9 @@ Partneři by měli vytvořit žádost o podporu a získat klíče z podpory. Par
 
 2. V nabídce partnerské Centrum vyberte **zákazníci** a pak vyberte zákazníka, který potřebuje podporu.
 
-3. Vyberte možnost **Správa služeb** a vyberte **žádosti o služby** .
+3. Vyberte možnost **Správa služeb** a vyberte **žádosti o služby**.
 
-4. Vyberte **nový požadavek** a pak vyberte **Office 365 a Enterprise Mobility Suite** .
+4. Vyberte **nový požadavek** a pak vyberte **Office 365 a Enterprise Mobility Suite**.
 
 5. Přejdete na portál Office 365, kde se potřebujete přihlásit pomocí přihlašovacích údajů partnerského centra.
 
@@ -63,9 +63,9 @@ Partneři by měli vytvořit žádost o podporu a získat klíče z podpory. Par
 - **Popis:** Vyžadování klíčů [insert number] pro povolení upgradu na vzdělávání s Windows 10. (Všimněte si, že počet požadovaných klíčů nesmí být větší než vaše Microsoft 365 licence k předplatnému Windows 10 Enterprise a3/a5.) ID předplatného zákazníka [vložit identifikátor GUID ID předplatného pro zákazníky pro svoje předplatné Microsoft 365 a3/a5 nebo Windows 10 Enterprise a3/a5.]
 - **Kontaktní číslo:** Tato akce bude vyplněna. Zkontrolujte a potvrďte nebo aktualizujte.
 - **E-mail:** Tato akce bude vyplněna a měla by se jednat o e-mail, který používáte jako správce portálu Microsoft Portal (pouze správce globálního správce nebo fakturace).
-- **Preferovaný způsob kontaktu** : vyberte **telefon** nebo **Naplánujte zpětné volání** .
+- **Preferovaný způsob kontaktu** : vyberte **telefon** nebo **Naplánujte zpětné volání**.
 
-8. Vyberte **kontakt mi** . Očekávaná čekací doba je uvedena v podokně **Potřebuji Help?** .
+8. Vyberte **kontakt mi**. Očekávaná čekací doba je uvedena v podokně **Potřebuji Help?** .
 
 9. **Podpora Microsoftu** zkontroluje požadavek, aby zajistil, že zákazník bude vyhodnocen. Po schválení žádosti pošle partnerovi e-mail s pokyny, jak přistupovat ke klíčům.
 
@@ -75,7 +75,7 @@ Partneři by měli vytvořit žádost o podporu a získat klíče z podpory. Par
 
 Pokud chcete upgradovat Windows 10 Home pomocí kódu Product Key pro Windows 10 pro vzdělávání, musí zákazník udělat toto:  
 
-1. Vyberte **Start** a pak vyberte **nastavení > aktualizovat & > aktivace** . Vyberte **změnit kód Product Key** a pak zadejte 25místný kód Product Key pro Windows 10 pro. Kliknutím na tlačítko **Další** zahájíte upgrade na Windows 10 pro.
+1. Vyberte **Start** a pak vyberte **nastavení > aktualizovat & > aktivace**. Vyberte **změnit kód Product Key** a pak zadejte 25místný kód Product Key pro Windows 10 pro. Kliknutím na tlačítko **Další** zahájíte upgrade na Windows 10 pro.
 
 2. Když je zařízení připojené k doméně tenanta (přes AAD), bude se zařízení automaticky upgradovat na vzdělávání s Windows 10.  
 
@@ -100,4 +100,4 @@ Upgrade Windows 10 školství je založený na aktivních předplatných Microso
 Další informace získáte pomocí následujících odkazů:
 
 - [Funkce Eduction systému Windows](https://www.microsoft.com/education/products/windows/features)
-- [Centrum vzdělávání Windows](https://docs.microsoft.com/education/windows/)
+- [Centrum vzdělávání Windows](/education/windows/)

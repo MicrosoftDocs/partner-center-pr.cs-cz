@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 10/29/2020
-ms.openlocfilehash: 7b965bff0a962e26e5e5800a6059e4a6fc7a1d6a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 882617433f7cf2bce01de8dce608951a9a13c77e
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045369"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360016"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Požadavky na registraci jako partner CSP s přímým vyúčtováním
 
@@ -55,7 +55,7 @@ Pokud se rozhodnete přejít z přímé prodejní firmy na nepřímý prodejce f
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Nový požadavek na tržby pro partnery s přímým účtováním](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+- [Nový požadavek na tržby pro partnery s přímým účtováním](./announcements/2020-october.md#13)
  
 
 - [Další informace o tom, jak se stát nepřímým prodejcem](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
