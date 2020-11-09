@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527732"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381405"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Řešení potíží s nastavením účtu nebo problémy s obnovením MPN
 
@@ -38,7 +38,7 @@ Podrobnosti na této obrazovce nemůžete změnit. Jedná se o návrh a nejedná
 Vyberte **přijmout** a **pokračovat** a pokračujte.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Pokud IT oddělení vypnulo **registraci v partnerském centru** .
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Pokud IT oddělení vypnulo **registraci v partnerském centru**.
 
 Tato zpráva se zobrazí, protože virové uživatele jsou zakázané, nebo protože je v tenantovi Azure AD zakázaná registrace viru. Globální správce vašeho účtu Azure AD může povolit požadované funkce spuštěním následujícího příkazu PowerShellu:
 
@@ -50,7 +50,7 @@ Další informace najdete v tématu věnovaném [registraci samoobslužných slu
 
 Pokud jste zapomněli heslo, vyberte odkaz **nemáte přístup k účtu?** na přihlašovací stránce. Tato možnost umožňuje resetovat heslo nebo požádat globálního správce, aby vám přiřadil nové přihlašovací údaje.
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>V "Řekněte nám o vaší společnosti" Scree se zobrazí chyba "něco se pokazilo".
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Na obrazovce řekněte nám o vaší firmě se zobrazí chyba "něco se pokazilo".
 
 Tato chybová zpráva se obvykle zobrazuje, pokud nechtěně používáte v telefonním čísle vaší společnosti speciální znaky, mezery nebo kód země. Hodnota zadaná v poli telefonní číslo může obsahovat jenom maximálně 10 znaků.
 
