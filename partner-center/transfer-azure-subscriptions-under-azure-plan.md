@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92527658"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433341"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Přenos předplatných plánu Azure pro zákazníka na jiného partnera
 
-## <a name="applies-to"></a>Platí pro
+**Příslušné role**
 
 - Partneři v programu Cloud Solution Provider (CSP)
 
@@ -67,27 +67,30 @@ Zákazník musí také identifikovat předplatná, která chtějí přenést z a
 Budoucí partner předplatného musí vyplnit formulář žádosti o přenos z partnerského centra, aby vyžádal přenos předplatného:
 
 1.  V nabídce partnerského centra vyberte **zákazníci** a pak vyberte zákazníka, kterému chcete vyplnit formulář žádosti o přenos.
-2.  V nabídce zákazník vyberte **předplatná** .
+2.  V nabídce zákazník vyberte **předplatná**.
 3.  Vyberte část **žádost o přenos** .
-4.  V **části žádost o přenos** vyberte **Přidat novou žádost** .
+4.  V **části žádost o přenos** vyberte **Přidat novou žádost**.
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Oddíl transfery":::
 
 5.  Vyplňte formulář **nové žádosti o přenos** .
 
-6.  Vyberte odeslat **žádost o odeslání žádosti o přenos**  >  **Send** .
+6.  Vyberte odeslat **žádost o odeslání žádosti o přenos**  >  **Send**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Oddíl transfery":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formulář žádosti o dokončení přenosu":::
 
 7.  Kontrola potvrzení žádosti o přenos
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Oddíl transfery" nebo "dokončeno", zrušení nebudou možné.
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Kontrola probíhajícího přenosu":::
+
+    >[!Note]
+    >Budoucí partner může žádost o přenos zrušit tak, že v pravém horním rohu vybere možnost **zrušit žádost** jenom v případě, že stav žádosti o přenos čeká na vyřízení. Jakmile je stav požadavku na přenos "probíhá" nebo "dokončeno", zrušení nebudou možné.
 
 ## <a name="current-partner-tasks-to-be-completed"></a>Aktuální úkoly partnerského serveru, které se mají dokončit
 
 Agent pro správce aktuálního partnera dostane e-mail, že zákazník požaduje přenos svých předplatných:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Oddíl transfery":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Opakování":::
 
 Pokud chcete dokončit přenos předplatného, přečtěte si a přijměte formulář žádosti o přenos z partnerského centra.
 
@@ -96,11 +99,11 @@ Pokud chcete dokončit přenos předplatného, přečtěte si a přijměte formu
 
 1.  Vyberte **zkontrolovat žádost o přenos** z e-MAILu nebo
 1.  V nabídce partnerské Centrum vyberte **zákazníci** a pak vyberte zákazníka, kterému byla odeslána žádost o přenos jménem.
-2.  V nabídce zákazník vyberte **předplatná** .
+2.  V nabídce zákazník vyberte **předplatná**.
 3.  Vyberte část **žádost o přenos** .
 4.  Rozbalte informace o přenosu výběrem zvoleného **ID žádosti o přenos** v části **přijaté požadavky** .
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Oddíl transfery":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Revize zdrojového kódu požadavek na přenos":::
 
 5.  Zkontrolujte požadavek na přenos. Vyberte požadovaná předplatná Azure, která chcete přenést.
 
@@ -111,7 +114,7 @@ Pokud chcete dokončit přenos předplatného, přečtěte si a přijměte formu
 
 6.  Pak vyberte **přijmout a přenést** a dokončete proces přenosu.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Oddíl transfery":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Vyberte předplatná, která se mají přenést do vašich plánů Azure.":::
 
 7.  Zobrazení potvrzení přijetí přenosu.
 

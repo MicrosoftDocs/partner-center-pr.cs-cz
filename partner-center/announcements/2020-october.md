@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132823"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433304"
 ---
 # <a name="october-2020-announcements"></a>Oznámení z října 2020
 
@@ -23,6 +23,27 @@ Tato stránka podrobně popisuje oznámení pro partnery Microsoft Partner Cente
 2020 oznámení: [březen](2020-march.md),  |  [April](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md) | Října
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Oprava pro volání rozšíření plánu 
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-10-29
+- Nabídky/trhy
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Přímí poskytovatelé, nepřímá poskytovatelé a nepřímí prodejci
+
+### <a name="details"></a>Podrobnosti
+
+Od 1. října 2020 jsme oznámili [dostupnost plánu volání Office 365 na nových trzích](2020-september.md#2). Toto oznámení není správné a 240 minut na uživatele za měsíc pro domácí plány není k dispozici, jak je uvedeno výše. 
+
+
+Podrobnosti o volání plánů najdete v [dokumentaci k produktu](/microsoftteams/calling-plan-landing-page)Microsoft Teams.
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Aktualizace funkcí předplatných softwaru Windows serveru
 
@@ -104,7 +125,7 @@ Toto nové digitální prostředí bude zahrnovat:
 - Nový Cloud Solution Provider Guidebook program, který pomůže partnerům identifikovat nové příležitosti: Tento podrobný průvodce poskytuje partnerům pokyny, jak urychlit růst vašeho cloudového růstu pomocí programu a rozšířit vaše možnosti výnosů.
 - Obsah programu CSP v pracovním prostoru řešení: pracovní prostor řešení je digitální prostředí, které poskytuje jeden cíl pro použití prostředků na vyžádání, aby vaše nápady byly rychlejší při uvedení na trh. Nyní mohou poskytovatelé služeb najít obsah a prostředky specifické pro program CSP v pracovním prostoru řešení.
 
-### <a name="additional-resources"></a>Další materiály
+### <a name="additional-resources"></a>Další zdroje informací
 
 - Navštívit [stránku aktualizovaného zprostředkovatele CSP](https://aka.ms/CSP) 
 - Přečtěte si [Nový CSP program Guidebook](https://aka.ms/cspguidebook) a přečtěte si další informace o možnostech růstu.
@@ -142,7 +163,7 @@ V říjnu 2020 byla k dispozici pro [Windows 7 rok 2 EVJ](#3) . Ceny za rok 2 js
 
 Všechny ceníky partnerského centra CSP jsou k dispozici, když se přihlásíte do partnerského centra a přejdete na prodej/nabídky a ceny.
 
-### <a name="additional-resources"></a>Další materiály
+### <a name="additional-resources"></a>Další zdroje informací
 
 - [Stránka s nejčastějšími dotazy k podpoře Windows 7](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
 - [Podpora a Microsoft 365 aplikací pro Windows 7](/deployoffice/endofsupport/windows-7-support)
@@ -174,7 +195,7 @@ Dnes sdílíme několik nadcházejících změn požadavků pro přímé partner
 
 Za prvé **zavádíme standard výkonu jako součást požadavků přímých partnerů na účet**. Partneři, kteří se chtějí zaregistrovat jako partneři s přímým přístupem v programu Cloud Solution Provider, musí v průběhu 12 měsíců před datem obnovení [smlouvy o podpoře](https://partner.microsoft.com/support/partnersupport) splňovat aspoň USD300K v programu Cloud Solution Provider.
 
-Tento standard výkonu vstoupí v platnost v lednu 2021 pro stávající přímé partnery pro vyúčtování a vy budete muset splnit požadavky podle data svého plánu obnovení vašeho partnera.
+Tento standard výkonu začne pro aktuální partnery s přímým vyúčtováním platit od ledna 2021 a požadavky bude nutné splnit nejpozději do data prodloužení vašeho plánu podpory pro partnery.
 
 Pokud nemůžete nebo nechcete, aby splňoval aktualizované požadavky na přímý přístup k faktuře, budete se muset v programu Cloud Solution Provider znovu zaregistrovat jako nepřímý prodejce. 
 
@@ -356,7 +377,7 @@ Tyto propagační akce mají vliv na tyto zákazníky:
 - Klienti s čistým novým zákazníkem
 - Stávající klienti zákazníka, kteří nemají aktivní ani nedávno zrušené předplatné (za posledních 30 dní), na základě licence na CSP, web Direct nebo jiných komerčních kanálů Microsoftu
 
-#### <a name="additional-resources"></a>Další materiály
+#### <a name="additional-resources"></a>Další zdroje informací
 
 - Další informace o obchodním hlasu najdete na [stránce Microsoft 365 Business hlasového partnera](https://www.microsoft.com/microsoft-365/partners/businessvoice) . 
 - Další informace o [možnostech zvukové konference](/microsoftteams/audio-conferencing-in-office-365)najdete v tématu zvukové konference v Microsoft 365.
@@ -613,7 +634,7 @@ Od 1. listopadu 2020 společnost Microsoft vydává následující nové a aktua
 - Zákaznická licence k předplatnému uživatele Dynamics 365 (USL) 
 - Rozbalit nabídky do CSP
 
-### <a name="additional-resources"></a>Další materiály
+### <a name="additional-resources"></a>Další zdroje informací
 
 - Podrobnosti ID nabídky najdete v dokumentu [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excelu v dokumentu aplikace Project.
 - Další informace najdete na [domovské stránce hlasu zákazníka k Microsoft Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/).
@@ -638,7 +659,7 @@ Podpora pro Windows 7 skončila 14. ledna 2020. I když mnoho zákazníků je do
 
 Pro zákazníky, kteří očekávají, že budou používat zařízení s Windows 7 v 2021, je pro partnery CSP teď k dispozici pro zákazníky s jejich rozhodnutím Windows 10 EVJ (koncové datum 12. ledna 2022). Další informace najdete v [galerii prostředků](https://partner.microsoft.com/resources/collection/windows-esu-csp#/) . 
 
-#### <a name="additional-resources"></a>Další zdroje
+#### <a name="additional-resources"></a>Další materiály
 
 - [Stránka s nejčastějšími dotazy k podpoře Windows 7](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
 - [Podpora a Microsoft 365 aplikací pro Windows 7](/deployoffice/endofsupport/windows-7-support)
