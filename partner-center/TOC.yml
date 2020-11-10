@@ -324,6 +324,25 @@
     - name: Řešení potíží s platbami a výnosy
       href: incentives-payment-issues.md
       displayName: incentives
+    - name: Práce na platformě CHIP (Channel Incentives Platform)
+      items:
+        - name: Navigace v platformě CHIP
+          href: chip-intro.md
+          displayName: chip
+        - name: Přidání uživatelů k účtu CHIP
+          href: chip-users.md
+        - name: Zobrazení výnosů na platformě CHIP
+          href: chip-earnings.md
+        - name: Kontrola stavu plateb na platformě CHIP
+          href: chip-payment-status.md
+        - name: Vyhledání počtu klientů a úrovně poplatků pro smlouvu
+          href: chip-locate-agreement.md
+        - name: Způsobilost pro Solution Assessment
+          href: chip-solution-assessment.md
+        - name: Stav plateb pro Solution Assessment
+          href: chip-solution-assessment-payment.md
+        - name: Potíže s přístupem k platformě CHIP
+          href: chip-access-trouble.md
 - name: Fakturace a daně
   href: billing.md
   displayName: trial
