@@ -1,19 +1,19 @@
 ---
-title: Porozumění daňovým formám finančního úřadu vydaných společností Microsoft
+title: Vysvětlení daňových formulářů IRS vydaných Microsoftem
 description: Seznamte se s daňovými formuláři vydanými Microsoftem, včetně toho, kdo je obdrží a kdy jsou zpřístupněni.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92527713"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487869"
 ---
-# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Porozumění daňovým formám finančního úřadu vydaných společností Microsoft
+# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Vysvětlení daňových formulářů IRS vydaných Microsoftem
 
 Každý rok může obdržet jednu nebo více daňových formulářů od společnosti Microsoft. To závisí na vašem umístění a objemu prodejů nebo plateb, které obdržíte. Společnost Microsoft je nutná k vystavení těchto formulářů a jejich podávání pomocí služby interního výnosu (finančního úřadu).
 
@@ -27,7 +27,7 @@ V tomto článku se dozvíte víc o těchto formulářích, včetně toho, kdo j
 |1042-S | V souvislosti s platbami, které jste provedli, se vztahují na USA srážková daň. | Tištěné formuláře budou postmarked do **15. března** nebo do 15. kopie. PDF budou k dispozici v partnerském centru (v **nastavení pro vývojáře partnerského centra** v části **Výběr a daňové > výběr a daňové profily** ) ve stejnou dobu.  |
 
 > [!NOTE]
-> Adresa, kterou používáme u daňových formulářů finančního úřadu, přichází z adresy v [daňovém profilu](/azure/marketplace/marketplace-payout-account-setup). Pokud se vaše adresa změnila, ujistěte se, že jste adresu aktualizovali v **daňovém profilu** .
+> Adresa, kterou používáme u daňových formulářů finančního úřadu, přichází z adresy v daňovém profilu při [nastavování účtu výběr a daňového formuláře](set-up-your-payout-account.md). Pokud se vaše adresa změnila, ujistěte se, že jste adresu aktualizovali v **daňovém profilu**.
 
 Daňové formuláře vám budou odesílány z následujících adres:
 

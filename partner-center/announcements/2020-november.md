@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333891"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488102"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -23,6 +23,56 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 2020 oznámení: [duben](2020-april.md)v  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenci, červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md)  |  [October](2020-October.md) | Listopadu
 
 ______________
+
+
+## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>K dispozici testování: aktualizace rozhraní API partnerského centra a vylepšení uživatelského rozhraní pro proces ověření zákazníka pro vzdělávání
+
+### <a name="categories"></a>Kategorie
+
+- Datum 2020-11-10
+- Možnosti | Škálování & škály při zvyšování produktivity
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři prodávají akademické nabídky prostřednictvím programu Cloud Solution Provider (CSP).
+
+### <a name="summary"></a>Shrnutí
+
+Testování je teď k dispozici pro aktualizace rozhraní API partnerského centra a vylepšení uživatelského rozhraní pro účely procesu ověření zákazníka pro vzdělávání.
+
+### <a name="details"></a>Podrobnosti
+
+Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat kompatibilní, bezpečnou a zabezpečenou metodu ověřování zákazníků pro účely transakcí akademických nabídek v programu CSP. V rámci tohoto článku zavádíme v druhém čtvrtletí tohoto fiskálního roku vylepšení rozhraní API pro partnerské centrum a uživatelské rozhraní (FY21 Q2). Tato vylepšení dostanou jasnou a srozumitelnou v rámci procesu ověřování zákazníků a také možnost zadat přesnější data, což bude zlepšit úspěšnost zákazníků při ověřování.
+
+**Vylepšení partnerského centra**
+
+- Nová rozhraní API pro získání a odeslání kvalifikace pro podporu přesného zadání dat a zlepšení procesu pro vzdělávání zákazníků v oblasti vzdělávání.
+
+- Vylepšení uživatelského rozhraní pro podporu přesného zadání dat a zlepšení procesu pro vzdělávání zákazníků v oblasti vzdělávání od Microsoftu.
+
+**Testování**
+
+Aby bylo možné lépe pochopit rozhraní API a zadávání dat potřebné k úspěšnému ověření od zákazníka, partneři budou moci otestovat Tato vylepšení od října 2020. Brzy poskytneme další podrobnosti o přesném časování a o tom, jak se zúčastnit. Existující rozhraní API partnerského centra budou vyřazena před uplynutím FY21.2. čtvrtletí. V tuto chvíli budete muset přejít na nová rozhraní API partnerského centra.
+
+   - Testování dostupných dat partnerských testů od 2. prosince 2020. Partneři, kteří se chtějí zúčastnit, by si stáhli příručku pro testování zákazníků z partnerského centra, kde se můžete připravit, jak se zaregistrovat a co očekávat během testovací fáze.
+
+**Zákazníci knihoven a Museum**
+
+Kromě těchto vylepšení vám s radostí oznamujeme, že v FY21 Q2 umožníme, abychom zákazníkům pro knihovny a Museum povolili nabídky pro akademické zákazníky a rozšíříte si zákazníky s vzděláváním, se kterými můžete vyřizovat nabídky služby Transact CSP.
+
+Společnost Microsoft si vyhrazuje právo zkontrolovat stav každého zákazníka nebo navrženého zákazníka jako kvalifikovaného vzdělávacího uživatele. Úplné podrobnosti najdete v [požadavcích na školní potřeby vzdělávání uživatelů](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) .
+
+## <a name="next-steps"></a>Další kroky
+
+Přečtěte si nové změny uživatelského rozhraní a rozhraní API partnerského centra, jakož i Průvodce testováním v [procesu ověřování zákazníků vzdělávacího centra pro vzdělávání. vylepšení shromažďování obsahu](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+
+• Zaregistrujte se, abyste se mohli zúčastnit testování. (Podrobnosti najdete v [Průvodci testováním](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
+
+• Ujistěte se, že vaše organizace je obeznámená s [požadavky školního uživatele na vzdělávání](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+
+• Sdílejte tyto informace s příslušnými týmy v rámci vaší organizace spolu s prodejci, aby jim pomohli připravit se na tyto změny.
+
+
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Rozšiřování obsahu komerčního licenčního partnera v galerii připravenost k provozu
 

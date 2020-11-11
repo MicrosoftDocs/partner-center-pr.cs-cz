@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527612"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488125"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Nastavení platebního účtu a daňových formulářů
 
@@ -28,7 +28,7 @@ Po nastavení účtu je třeba provést dvě věci, abyste mohli prodávat nabí
 - [Nastavení účtu výběr](#payout-account)
 
 > [!NOTE]
-> Podrobnosti o tom, jak a kdy budete platit za peníze, které vaše nabídka nabízí, najdete v tématu [získání placeného](/azure/marketplace/marketplace-payout-account-setup).
+> Podrobnosti o tom, jak a kdy budete platit za peníze, které vaše nabídka nabízí, najdete v tématu [získání placeného obchodu na komerčním webu Marketplace](marketplace-get-paid.md).
 
 ## <a name="tax-forms"></a>Daňové formuláře
 
@@ -44,13 +44,13 @@ Daňové formuláře můžete v partnerském centru doplňovat a odesílat elekt
 > [!IMPORTANT]
 > Různé země a oblasti mají různé daňové požadavky. Přesná částka, kterou musíte zaplatit za daně, závisí na zemích a oblastech, kde prodáváte nabídku. Informace o tom, které země nebo oblasti společnost Microsoft zavazuje k prodeji a používání daní vaším jménem, najdete v článku o [smlouvě Microsoft Azure Marketplace Publisher](https://go.microsoft.com/fwlink/p/?LinkID=699560) . V jiných zemích nebo oblastech, v závislosti na tom, kde jste registrováni, může být nutné uhradit prodej a daň z prodeje za vaše nabídky přímo do místní autority zdanění. Kromě toho prodejní příjem aplikace může být zdanitelný jako příjem. Důrazně doporučujeme, abyste se obrátili na příslušné oprávnění pro vaši zemi nebo oblast, která vám nejlépe pomůže určit správné daňové informace pro vaše komerční aktivity na webu Marketplace.
 
-1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte v pravém horním rohu ikonu **Nastavení účtu** a pak vyberte **Nastavení vývojáře** .
+1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte v pravém horním rohu ikonu **Nastavení účtu** a pak vyberte **Nastavení vývojáře**.
 
-2. V navigační nabídce vlevo vyberte výběr **a daň** a pak vyberte **Výběr a daňová přiřazení** .
+2. V navigační nabídce vlevo vyberte výběr **a daň** a pak vyberte **Výběr a daňová přiřazení**.
 
 3. Vyberte kombinaci programu a ID prodejce, pro kterou chcete nakonfigurovat daňové informace.
 
-4. Pokud chcete použít existující daňový profil, vyberte ho z rozevíracího seznamu. V opačném případě vyberte **vytvořit nový profil** a stiskněte **Odeslat** . Přejdete na stránku daňové profily.
+4. Pokud chcete použít existující daňový profil, vyberte ho z rozevíracího seznamu. V opačném případě vyberte **vytvořit nový profil** a stiskněte **Odeslat**. Přejdete na stránku daňové profily.
 
 5. Kliknutím na tlačítko **Upravit** upravte daňové informace.
 
@@ -77,12 +77,12 @@ Pokud nejste mimo USA, možná budete moct využít výhody daňové smlouvy. Ty
 Účet pro výběr je bankovní účet, na který budeme odeslat výsledek z prodeje. Můžete zobrazit všechny platební účty, které jste zadali na stránce profil.
 
 > [!NOTE]
-> V některých trzích se dá účet PayPal použít pro svůj účet ve výběrovém účtu. Další informace o tom, jestli se pro konkrétní trh podporuje PayPal, najdete v tématu [prahové hodnoty pro platby, metody a časové rámce](/azure/marketplace/payment-thresholds-methods-timeframes) a [informace PayPal](#paypal-info) níže.
+> V některých trzích se dá účet PayPal použít pro svůj účet ve výběrovém účtu. Další informace o tom, jestli se pro konkrétní trh podporuje PayPal, najdete v tématu [prahové hodnoty pro platby, metody a časové rámce](payment-thresholds-methods-timeframes.md) a [informace PayPal](#paypal-info) níže.
 
 ### <a name="create-a-payment-profile"></a>Vytvořit platební profil
 
-1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte ikonu ozubeného kola **Nastavení** v pravém horním rohu a pak vyberte **Nastavení účtu** .
-2. Pod záhlavím *Výběr a daň* vyberte možnost **Výběr a přiřazení daňového profilu** .
+1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte ikonu ozubeného kola **Nastavení** v pravém horním rohu a pak vyberte **Nastavení účtu**.
+2. Pod záhlavím *Výběr a daň* vyberte možnost **Výběr a přiřazení daňového profilu**.
 
     > [!NOTE]
     > Vzhledem k tomu, že se jedná o citlivé informace, může se zobrazit výzva, abyste se znovu přihlásili.
@@ -116,7 +116,7 @@ Pokud jste se rozhodli použít bankovní účet pro příjem výběrů, dokonč
 
 Aby byl váš výběr úspěšný, ujistěte se, že:
 
-- **Název držitele účtu** , který jste zadali pro svůj účet pro výběr v partnerském centru, musí mít stejný název, který je přidružený k vašemu bankovnímu účtu. Pokud například název vašeho bankovního účtu obsahuje prostřední jméno, přidejte prostřední jméno do svého **názvu držitele účtu** .
+- **Název držitele účtu** , který jste zadali pro svůj účet pro výběr v partnerském centru, musí mít stejný název, který je přidružený k vašemu bankovnímu účtu. Pokud například název vašeho bankovního účtu obsahuje prostřední jméno, přidejte prostřední jméno do svého **názvu držitele účtu**.
 - Výběry se přenášejí přímo z Microsoftu na váš bankovní účet v měně USD.
 - Informace o bance zadané v partnerském centru v latince jsou přeloženy na znaky cyrilice.
 
@@ -124,27 +124,27 @@ Aby byl váš výběr úspěšný, ujistěte se, že:
 
 Pokud potřebujete provést změny nebo opravit nesprávné informace, můžete upravit existující platební profily.
 
-1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte ikonu ozubeného kola **Nastavení** v pravém horním rohu a pak vyberte **Nastavení vývojáře** .
+1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte ikonu ozubeného kola **Nastavení** v pravém horním rohu a pak vyberte **Nastavení vývojáře**.
 
-2. Pod položkou *Výběr a daň* vyberte výběr **a daňové profily** .
+2. Pod položkou *Výběr a daň* vyberte výběr **a daňové profily**.
 
 3. Vaše platební profily budou uvedené spolu se stavem. Najděte profil, který chcete upravit, a klikněte na **Upravit** úplně vpravo.
 
 > [!IMPORTANT]
-> Změna účtu výběr může zpozdit vaše platby až do jednoho platebního cyklu. K tomuto zpoždění dochází, protože potřebujeme ověřit změnu účtu, stejně jako při prvním nastavení účtu výběr. Po ověření účtu se pořád bude platit celá částka. jakékoli platby splatné za aktuální platební cyklus budou přidány do dalšího. Další informace najdete v tématu [získání placeného](/azure/marketplace/marketplace-payout-account-setup) .
+> Změna účtu výběr může zpozdit vaše platby až do jednoho platebního cyklu. K tomuto zpoždění dochází, protože potřebujeme ověřit změnu účtu, stejně jako při prvním nastavení účtu výběr. Po ověření účtu se pořád bude platit celá částka. jakékoli platby splatné za aktuální platební cyklus budou přidány do dalšího. Další informace najdete v tématu [získání platby na komerčním webu Marketplace](marketplace-get-paid.md).
 
 ### <a name="paypal-info"></a>Informace PayPal
 
 Ve vybraných zemích a oblastech můžete vytvořit platební účet tím, že zadáte svoje informace PayPal. Před volbou možnosti účet PayPal jako platebního účtu ale vyberte:
 
-- Zkontrolujte [prahové hodnoty plateb, metody a časové rámce a](/azure/marketplace/payment-thresholds-methods-timeframes) ověřte, jestli je PayPal podporovaným způsobem platby ve vaší zemi nebo oblasti.
+- Zkontrolujte [prahové hodnoty plateb, metody a časové rámce a](payment-thresholds-methods-timeframes.md) ověřte, jestli je PayPal podporovaným způsobem platby ve vaší zemi nebo oblasti.
 - Přečtěte si následující Nejčastější dotazy. V závislosti na vaší situaci nemusí být PayPal pro vás nejvhodnější možností platebního účtu a může být upřednostňovaný bankovní účet.
 
 Běžné dotazy týkající se používání služby PayPal jako způsobu platby:
 
 - **Jaká nastavení PayPal je potřeba mít, aby se daly přijímat platby?** Ujistěte se, že váš účet PayPal neblokuje platby eCheck. Toto nastavení se spravuje na stránce předvolby pro příjem plateb v PayPal. Další informace najdete na [stránce nastavení účtu pro účet PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139) .
 
-- **Je moje země/oblast podporovaná?** V tématu [prahové hodnoty plateb, metody a časové rámce](/azure/marketplace/payment-thresholds-methods-timeframes) zjistíte, kde je PayPal podporovaným způsobem platby.
+- **Je moje země/oblast podporovaná?** V tématu [prahové hodnoty plateb, metody a časové rámce](payment-thresholds-methods-timeframes.md) zjistíte, kde je PayPal podporovaným způsobem platby.
 
 - **Musí se můj účet PayPal zaregistrovat ve stejné zemi nebo oblasti jako účet partnerského centra?** Ne. Při nastavování účtu PayPal můžete přijmout výchozí konfiguraci. Pokud jste v některých měnách neblokovali platbu, neměli byste mít žádné problémy s jinými zeměmi nebo oblastmi a měnami. Toto nastavení se spravuje na stránce předvolby pro příjem plateb v PayPal.
 
@@ -173,7 +173,7 @@ Pokud jste Vydavatel, který je v Rusku, možná budete muset před bankou posky
 
 Aby byl váš výběr úspěšný, ujistěte se, že:
 
-- **Název držitele účtu** , který jste zadali pro svůj účet pro výběr v partnerském centru, musí mít stejný název, který je přidružený k vašemu bankovnímu účtu. Pokud například název vašeho bankovního účtu obsahuje prostřední jméno, přidejte prostřední jméno do svého **názvu držitele účtu** .
+- **Název držitele účtu** , který jste zadali pro svůj účet pro výběr v partnerském centru, musí mít stejný název, který je přidružený k vašemu bankovnímu účtu. Pokud například název vašeho bankovního účtu obsahuje prostřední jméno, přidejte prostřední jméno do svého **názvu držitele účtu**.
 - Výběry se přenášejí přímo z Microsoftu na váš bankovní účet v měně Rubl (RUB).
 - Informace o bance zadané v partnerském centru v latince jsou přeloženy na znaky cyrilice.
 - Výběry musí být provedeny na bankovní účet, nikoli na bankovní kartu.
@@ -205,4 +205,4 @@ Pokud jste se rozhodli použít bankovní účet pro příjem výběrů, dokonč
 
 ## <a name="next-steps"></a>Další kroky
 
-[Fakturace pro komerční marketplace](/azure/marketplace/billing-details)
+[Vyplácení na komerčním marketplace](marketplace-get-paid.md)

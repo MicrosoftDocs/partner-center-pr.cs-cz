@@ -6,14 +6,14 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 89b014b87dd37cc2d38a5931b2f5433394f369c9
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527742"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488193"
 ---
-# <a name="tax-details-for-commercial-marketplace-publishers"></a>Podrobnosti o daních pro komerční vydavatele na webu Marketplace
+# <a name="tax-details-for-commercial-marketplace-publishers"></a>Podrobnosti o daních pro vydavatele na komerčním marketplace
 
 Chcete-li porozumět finančním hlediskům pro výběr ceny a daňové zodpovědnosti v rámci [smlouvy Microsoft Azure Marketplace Publisher](https://go.microsoft.com/fwlink/p/?LinkID=699560) nebo dohody o moderním vydavateli, přečtěte si v následujících tabulkách země a oblasti distribuce.
 
@@ -269,7 +269,7 @@ Následující platí pouze pro Azure Marketplace vydavatelů bez ohledu na coko
 
 ## <a name="mixed-remittance-countriesregions-for-publishers"></a>Smíšené země nebo oblasti pro převod pro vydavatele
 
-Někteří finanční partneři Microsoftu mohou shromažďovat a hradit prodej, použití, zboží a služby, přidané hodnoty nebo podobné daně, pokud jsou k dispozici pro získání vašich aplikací nebo In-App produktů prostřednictvím obchodu v zemích nebo oblastech uvedených níže. V [sestavách](/azure/marketplace/payout-summary-overview) , které společnost Microsoft zpřístupňuje, budete identifikovat transakce, pro které má fakturační partner shromažďovat prodej, použití, zboží a služby, přidané hodnoty nebo podobné daně, které se vztahují na pořízení vašich aplikací nebo In-App produktů prostřednictvím obchodu pro zákazníky. S výjimkou transakcí popsaných v takových sestavách neuplatní poskytovatelé ani společnost Microsoft ani její poskytovatelé fakturační služby žádné prodeje, použití, zboží a služby, přidané hodnoty ani podobné daně v souvislosti s získáním vašich aplikací nebo In-App produktů v těchto zemích nebo oblastech. Na vaší straně leží zodpovědnost za kontrolu všech vám předložených výkazů a za stanovení a vyrovnání všech závazků z nich plynoucích ohledně registrace, výběru a úhrady daní vztahujících se na transakce zahrnující vaše Aplikace či Produkty z aplikace (IAP).
+Někteří finanční partneři Microsoftu mohou shromažďovat a hradit prodej, použití, zboží a služby, přidané hodnoty nebo podobné daně, pokud jsou k dispozici pro získání vašich aplikací nebo In-App produktů prostřednictvím obchodu v zemích nebo oblastech uvedených níže. Sestavy v [příkazu výběr](payout-statement.md) , které společnost Microsoft zpřístupňuje, zjistíte transakce, pro které má fakturační partner shromažďovat prodej, použití, zboží a služby, přidané hodnoty nebo podobné daně, které se vztahují na pořízení vašich aplikací nebo In-App produktů prostřednictvím obchodu. S výjimkou transakcí popsaných v takových sestavách neuplatní poskytovatelé ani společnost Microsoft ani její poskytovatelé fakturační služby žádné prodeje, použití, zboží a služby, přidané hodnoty ani podobné daně v souvislosti s získáním vašich aplikací nebo In-App produktů v těchto zemích nebo oblastech. Na vaší straně leží zodpovědnost za kontrolu všech vám předložených výkazů a za stanovení a vyrovnání všech závazků z nich plynoucích ohledně registrace, výběru a úhrady daní vztahujících se na transakce zahrnující vaše Aplikace či Produkty z aplikace (IAP).
 
 | Smíšené země/oblasti pro úhrady |
 |------------------------------------|
@@ -289,4 +289,4 @@ Následující platí pouze pro Azure Marketplace vydavatelé:
 
 ## <a name="next-steps"></a>Další kroky
 
-[Nastavení platebního účtu a daňových formulářů](/azure/marketplace/marketplace-payout-account-setup)
+[Nastavení platebního účtu a daňových formulářů](set-up-your-payout-account.md)
