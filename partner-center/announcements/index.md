@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/02/2020
-ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.date: 11/10/2020
+ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333908"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488121"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z listopadu 2020** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Možnosti|[Testování k dispozici: Aktualizace rozhraní API Partnerského centra a vylepšení uživatelského rozhraní pro proces ověřování zákazníků v oblasti vzdělávání](2020-november.md#7)|10. listopadu|
 |Možnosti|[Rozšiřujeme partnerský obsah ke komerčnímu licencování v galerii provozní připravenosti](2020-november.md#6)|2\. listopadu|
 |Nabídky/trhy|[Spuštění skladové položky Premium pro Místnosti v Microsoft Teams](2020-november.md#5)|2\. listopadu|
 |Nabídky/trhy|[Chystají se nové skladové jednotky rozšířené komunikace pro Microsoft Teams pro Government Community Cloud (GCC)](2020-november.md#4)|2\. listopadu|
@@ -29,6 +30,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 |Nabídky/trhy|[Představení nabídky Microsoft 365 Business Voice pro neziskové organizace](2020-november.md#2)|2\. listopadu|
 |Nabídky/trhy|[Nově je k dispozici propagační akce CSP (Cloud Solution Provider) pro Microsoft 365 Business Voice](2020-november.md#1)|2\. listopadu|
 | **Kategorie** | **Oznámení z října 2020** | **Date** (Datum) |
+|Nabídky/trhy|[Oprava rozšíření volacího plánu](2020-october.md#18)|29. října|
 |Možnosti|[Aktualizace funkcí softwarových předplatných Windows Serveru](2020-october.md#17)|29. října|
 |Možnosti|[Pro oprávněné zákazníky CSP (Cloud Solution Provider) pro vzdělávání je teď k dispozici upgrade na Windows 10 Education](2020-october.md#16)|28. října|
 |Možnosti|[Digitální prostředí pro CSP (Cloud Solution Provider) je teď aktualizované](2020-october.md#15)|28. října|

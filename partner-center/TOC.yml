@@ -338,9 +338,11 @@
         - name: Vyhledání počtu klientů a úrovně poplatků pro smlouvu
           href: chip-locate-agreement.md
         - name: Způsobilost pro Solution Assessment
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: Stav plateb pro Solution Assessment
           href: chip-solution-assessment-payment.md
+        - name: Nejčastější dotazy k programu Solution Assessment
+          href: chip-faq.md
         - name: Potíže s přístupem k platformě CHIP
           href: chip-access-trouble.md
 - name: Fakturace a daně
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: Soubory s vyrovnáním na základě licencí
       href: license-based-recon-files.md
+    - name: Jednorázový nákup – soubory s vyrovnáním pro CSP
+      href: modern-invoice-reconciliation-file.md
+    - name: Výpočet efektivní jednotkové ceny
+      href: effective-unit-price-calculation.md
     - name: Běžné scénáře fakturace
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'
