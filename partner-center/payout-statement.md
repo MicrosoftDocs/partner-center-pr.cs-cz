@@ -4,15 +4,15 @@ description: Přečtěte si o příkazech výběr a souhrnech a o tom, jak zobra
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92527623"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532051"
 ---
 # <a name="payout-statements"></a>Výpisy plateb
 
@@ -22,7 +22,7 @@ ms.locfileid: "92527623"
 
 Chcete-li získat přístup k příkazu typu výběr, je nutné přiřadit roli **vlastníka účtu** nebo **finančního přispěvatele** .
 
-| Sestavy/stránky | Vlastník účtu | Manager | Vývojář | Obchodní Přispěvatel | Přispěvatel pro finance | Obchodník |
+| Sestavy/stránky | Vlastník účtu | Manažer | Vývojář | Obchodní Přispěvatel | Přispěvatel pro finance | Obchodník |
 | --- | --- | --- | --- | --- | --- | --- |
 | Sestava pořízení (včetně dat téměř v reálném čase) | Může zobrazit | Může zobrazit | Bez přístupu | Bez přístupu | Může zobrazit | Bez přístupu |
 | Sestava nebo odpovědi zpětné vazby | Může zobrazit a odeslat názor. | Může zobrazit a odeslat názor. | Může zobrazit a odeslat názor. | Bez přístupu | Bez přístupu | Může zobrazit a odeslat názor. |
@@ -50,7 +50,7 @@ Přihlaste se k [partnerskému centru](https://partner.microsoft.com/dashboard/h
 
 Na stránce **historie transakcí** se zobrazuje souhrn příjmů, odhad další platby a trend a podíl plateb za posledních 36 měsíců. Z této části si také můžete stáhnout podrobnosti transakcí.
 
-:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Ukazuje ikonu Výběr v pravém horním rohu portálu partnerského centra.":::
+:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Přehled transakcí":::
 
 - **Příjmy zaslaly tento rok** – celkové tržby a rozpis výdělků, které byly placené a budou vypláceny v nadcházejícím měsíci.
 - **Odhadované platební měsíc** – očekávané tržby v nadcházejících měsících.
@@ -59,13 +59,13 @@ Na stránce **historie transakcí** se zobrazuje souhrn příjmů, odhad další
 
 Pomocí výběru rozsahu kalendářních dat v pravém horním rohu stránky můžete vyfiltrovat výstup stránky, aby se zobrazily poslední 3, 6, 12 nebo 36 měsíců. Případně vyberte vlastní rozsah kalendářních dat až do 36 měsíců. Výchozí rozsah kalendářních dat je 12 měsíců.
 
-:::image type="content" source="images/payouts/search-filter.png" alt-text="Ukazuje ikonu Výběr v pravém horním rohu portálu partnerského centra.":::
+:::image type="content" source="images/payouts/search-filter.png" alt-text="Vyhledávací filtr v pravém horním rohu stránky.":::
 
 ### <a name="transaction-history-summary"></a>Souhrn historie transakcí
 
 Tím se zobrazí informace o převádění, včetně původu z produktů, které se prodávají, stavu a odhadované platební měsíce.
 
-:::image type="content" source="images/payouts/transaction-history.png" alt-text="Ukazuje ikonu Výběr v pravém horním rohu portálu partnerského centra.":::
+:::image type="content" source="images/payouts/transaction-history.png" alt-text="Historie transakcí.":::
 
 - **Datum výpočtu** – datum nákupu.
 - **Typ** vlastnictví – typ přijetí, jako je například prodej, Rabat nebo souběžná op.
@@ -171,7 +171,7 @@ Stránka s **platbami** detailně popisuje peníze, které jste získali od Micr
 >[!Note]
 > Aby bylo možné výsledek vyhodnotit, vaše výtěžek musí dosáhnout [prahové hodnoty pro platbu](payment-thresholds-methods-timeframes.md) $50. Další informace najdete v tématu [smlouva Microsoft Publisher](https://go.microsoft.com/fwlink/?LinkID=699560).
 
-:::image type="content" source="images/payouts/payments-overview.png" alt-text="Ukazuje ikonu Výběr v pravém horním rohu portálu partnerského centra.":::
+:::image type="content" source="images/payouts/payments-overview.png" alt-text="Obrazovka s přehledem plateb":::
 
 - **Celkem za tento rok** – celková částka za tento rok, v amerických dolarech, pro všechny vaše programy.
 - **Další odhadovaná platba** – jediná další platba, kterou jste udělali (i když už brzy přijdete), v amerických dolarech.
@@ -182,11 +182,11 @@ Stránka s **platbami** detailně popisuje peníze, které jste získali od Micr
 
 Tabulka **Seznam plateb** zobrazuje placené a nedokončené platby. Informace o daních poplatků za službu si můžete stáhnout ve formátu PDF a zobrazit detaily o vzdávkách pro danou platbu.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Ukazuje ikonu Výběr v pravém horním rohu portálu partnerského centra.":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Exportovat historii transakcí":::
 
 - **Placené** – všechny platby se úspěšně odeslaly. V rozevírací nabídce vyberte rok, který chcete filtrovat podle plateb vydaných v daném roce.
 - **Čeká na vyřízení** – nadcházející platby.
-- **Daň za poplatek za službu (formulář PDF)** – je dostupná pro platby, na které se vztahuje daň za poplatek za službu. Daně za poplatky za služby jsou uvedené v **dalších daních** .
+- **Daň za poplatek za službu (formulář PDF)** – je dostupná pro platby, na které se vztahuje daň za poplatek za službu. Daně za poplatky za služby jsou uvedené v **dalších daních**.
 - **Zobrazení** – přesměruje na historii transakcí se seznamem výdělků zahrnutých do platby.
 
 Informace o tom, proč možná nemáte nějaké nebo neočekávané tržby, najdete v tématu [běžné otázky o výběrech na komerčním webu Marketplace](payout-faq.md#why-are-my-earnings-missing).
@@ -197,18 +197,18 @@ Následující tabulka popisuje různé stavy vystavení.
 
 | Stav vystavení | Důvod | Je vyžadována akce partnera? |
 | --- | --- | --- |
-| Nezpracované | Zisk má nárok na platbu. Zůstane v tomto stavu pro období chlazení, jak je definováno v Průvodci programu pro program pobídek. | No |
-| Nadcházející | Platební objednávka vygenerovala nevyřízené interní recenze před zpracováním platby. | No |
+| Nezpracované | Zisk má nárok na platbu. Zůstane v tomto stavu pro období chlazení, jak je definováno v Průvodci programu pro program pobídek. | Ne |
+| Nadcházející | Platební objednávka vygenerovala nevyřízené interní recenze před zpracováním platby. | Ne |
 | Nevyřízená daňová faktura | Vaše daňová faktura je neúplná nebo neplatná. | Abyste mohli platit, musíte si nejdřív aktualizovat svou daňovou fakturu. |
 | Zamítnuto během revize | Platba byla během revize odmítnuta. | Podrobnosti získáte od podpory Microsoftu. |
 | Neúspěšný | Platba se nezdařila z důvodu chyby systému společnosti Microsoft. | Podrobnosti získáte od podpory Microsoftu. |
-| Probíhá | Platba probíhá. | No |
-| Nesprávná platba | Recouping platby probíhá. | No |
-| Odesláno | Platba byla odeslána do vaší banky. | No |
-| Opětovného zpracování | V platbě došlo k systémové chybě společnosti Microsoft a probíhá její přepracování. | No |
-| Reversed | Platba byla stornována vaší bankou a bude odeslána znovu v dalším platebním cyklu. | No |
+| Rozpracované | Platba probíhá. | Ne |
+| Nesprávná platba | Recouping platby probíhá. | Ne |
+| Odesláno | Platba byla odeslána do vaší banky. | Ne |
+| Opětovného zpracování | V platbě došlo k systémové chybě společnosti Microsoft a probíhá její přepracování. | Ne |
+| Reversed | Platba byla stornována vaší bankou a bude odeslána znovu v dalším platebním cyklu. | Ne |
 | Daňová faktura odmítnuta | Vaše daňová faktura byla během revize odmítnuta. Všechny probíhající platby budou pozastaveny, dokud se nedokončí kontrola daňové faktury. | Podrobnosti získáte od podpory Microsoftu. |
-| Daňová faktura pod kontrolou | Vaše daňové faktury se přezkoumávají. Po schválení daňové faktury se vaše platba uvolní. | No |
+| Daňová faktura pod kontrolou | Vaše daňové faktury se přezkoumávají. Po schválení daňové faktury se vaše platba uvolní. | Ne |
 | Zamítnuto | Platba byla odmítnuta vaší bankou. | Podrobnosti získáte od své banky. |
 |
 
@@ -238,13 +238,13 @@ Pokud chcete zobrazit další podrobnosti o platbách, vyberte **Stáhnout** v h
 
 ## <a name="export-data"></a>Exportovat data
 
-Stránka **exportovat data** se neaktualizuje sama na sebe. Je možné, že budete muset stránku aktualizovat ručně, aby se zobrazila nejnovější data. Výběrem ze tří karet můžete exportovat **historii transakcí** , **platby** , **souhrn transakcí** nebo **historické příkazy** .
+Stránka **exportovat data** se neaktualizuje sama na sebe. Je možné, že budete muset stránku aktualizovat ručně, aby se zobrazila nejnovější data. Výběrem ze tří karet můžete exportovat **historii transakcí** , **platby** , **souhrn transakcí** nebo **historické příkazy**.
 
 Váš filtr může mít za následek **nedostupnou chybu dat** . K tomu může dojít, pokud jste opustili výchozí časové období, které jste vybrali po dobu tří měsíců, a pak jste si vybrali ID platby z vybírání, které je mimo tuto dobu. Pokud k tomu dojde, rozbalte své časové období a zkuste to znovu.
 
 Tady je ukázka exportu plateb:
 
-:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Ukazuje ikonu Výběr v pravém horním rohu portálu partnerského centra.":::
+:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Sestava exportu plateb.":::
 
 ### <a name="historical-statements"></a>Historické příkazy
 
@@ -253,7 +253,10 @@ Souhrn **exportu dat** také poskytuje přístup k historickým příkazům.
 > [!NOTE]
 > Historický příkaz je snímek a není aktualizován. Obraťte se prosím na [podporu](https://partner.microsoft.com/support/v2/?stage=1) a v případě potřeby požádejte o nejnovější data.
 
-:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Ukazuje ikonu Výběr v pravém horním rohu portálu partnerského centra." v moderní historii, s tím rozdílem, že vylučuje všechny příjmy se stavem se rovná "odeslané platby".
+:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Exportujte historické příkazy.":::
+
+- Historie transakcí od 1. července 2019 se zpracovává samostatně a používá jiná pole z pozdějších sestav historie.
+- Starší historie transakcí obsahuje sloupec s názvem "vyhrazeno", který odpovídá sloupci "příjmy" v moderní historii, s tím rozdílem, že vylučuje všechny příjmy se stavem se rovná "odeslané platby".
 - Filtry, jako jsou 3M, 6 min nebo 12M, se nebudou vztahovat na oddíl historická prohlášení.
 
 ### <a name="historical-statement-downloads"></a>Stažení historických příkazů

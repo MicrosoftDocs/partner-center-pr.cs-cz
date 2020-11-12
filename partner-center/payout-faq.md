@@ -4,15 +4,15 @@ description: Získejte odpovědi na běžné otázky týkající se výběrů na
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527771"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532017"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>Běžné otázky k obchodním výběrům na webu Marketplace
 
@@ -71,7 +71,7 @@ Použijte AssetID, ČísloObjednávky a ID položky řádku, které se zobrazuj�
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Návody nastavte můj účet na nepříjem plateb?
-Platby můžete uchovávat v [profilu výběr](https://partner.microsoft.com/dashboard/commercial-marketplace/overview); jednoduše se podívejte na **blokování** . Společnost Microsoft bude mít za vás platbu, dokud neuvolníte blokování.
+Platby můžete uchovávat v [profilu výběr](https://partner.microsoft.com/dashboard/commercial-marketplace/overview); jednoduše se podívejte na **blokování**. Společnost Microsoft bude mít za vás platbu, dokud neuvolníte blokování.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Proč mi platby přicházejí v jiné měně, než je měna použitá při nákupu?
 
@@ -91,11 +91,11 @@ Ve stažené historii transakcí vyhledejte sloupec Tax model (Daňový model). 
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Jak si můžu stáhnout formuláře pro daň z poplatků za služby?
 
-Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb** . Pro platby, na které se vztahuje daň z poplatků za služby, se zobrazí odkaz na formulář pro daň z poplatků za služby.
+Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Pro platby, na které se vztahuje daň z poplatků za služby, se zobrazí odkaz na formulář pro daň z poplatků za služby.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Jak si můžu stáhnout formulář pro srážkovou daň ve formátu PDF?
 
-Přejděte na stránku *Výplata plateb* a pak do části **Seznam plateb** . Vedle plateb se zobrazí odkaz na formulář pro srážkovou daň.
+Přejděte na stránku *Výplata plateb* a pak do části **Seznam plateb**. Vedle plateb se zobrazí odkaz na formulář pro srážkovou daň.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Kde najdu daňové formuláře ke konci roku?
 
@@ -110,8 +110,8 @@ Srážkové dani podléhají vydavatelé z USA, kteří vyplnili formulář W-9.
 
 #### <a name="how-do-i-access-a-payout-statement"></a>Jak získám přístup k výpisu plateb?
 
-1. Zkontrolujte své role. Abyste mohli získat přístup k výpisu plateb, musíte mít roli *finančního přispěvatele* nebo *vlastníka účtu* .
-2. V pravém horním rohu vyberte ikonu **Výběr** , abyste zobrazili příkaz výběr. Vyberte si mezi **historií transakcí** , **platbami** a **stažením** .
+1. Zkontrolujte své role. Abyste mohli získat přístup k výpisu plateb, musíte mít roli *finančního přispěvatele* nebo *vlastníka účtu*.
+2. V pravém horním rohu vyberte ikonu **Výběr** , abyste zobrazili příkaz výběr. Vyberte si mezi **historií transakcí** , **platbami** a **stažením**.
 
 **Další** materiály: [Výběr rolí a oprávnění](payout-statement.md#roles-and-permissions), [příkazů výběr](payout-statement.md) 
 
@@ -131,11 +131,11 @@ Zobrazí se vaše tržby buď nezpracovaných, zpracovávaných, nebo odeslanýc
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Jak si můžu stáhnout formuláře pro daň z poplatků za služby?
 
-Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb** . Pro platby, na které se vztahuje daň z poplatků za služby, se zobrazí odkaz na formulář pro daň z poplatků za služby.
+Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Pro platby, na které se vztahuje daň z poplatků za služby, se zobrazí odkaz na formulář pro daň z poplatků za služby.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Návody stáhnout formulář pro srážkovou daň ve formátu PDF?
 
-Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb** . Vedle plateb se zobrazí odkaz na formulář pro srážkovou daň.
+Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Vedle plateb se zobrazí odkaz na formulář pro srážkovou daň.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Kde najdu daňové formuláře ke konci roku?
 

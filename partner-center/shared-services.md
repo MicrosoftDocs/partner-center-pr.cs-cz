@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92527615"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532034"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Přidejte služby Azure partner Shared Services, aby partneři mohli koupit předplatné Azure pro vlastní použití.
 
-**Platí pro**
-
-- Partnerské centrum
  
 **Příslušné role**
 
@@ -32,29 +29,29 @@ Azure partner Shared Services je nový typ nabídky pro partnery v programu CSP,
 
 ## <a name="create-the-shared-services-tenant"></a>Vytvoření tenanta sdílených služeb
 
-1. Přejít na **Nastavení** nastavení  >  **účtu**  >  **sdílené služby** .
+1. Přejít na **Nastavení** nastavení  >  **účtu**  >  **sdílené služby**.
 
    :::image type="content" source="images/sharedservices2.png" alt-text="Nastavení účtu > sdílené služby":::
 
-2. Pokud ještě nemáte tenanta sdílených služeb, klikněte na **vytvořit sdílené služby** .
+2. Pokud ještě nemáte tenanta sdílených služeb, klikněte na **vytvořit sdílené služby**.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Nastavení účtu > sdílené služby":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Vytváření sdílených služeb":::
 
 3. Tím se vytvoří tenant sdílených služeb a nakupují předplatné Azure CSP Shared Services, které se bude používat pro sdílené prostředky a interní úlohy.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Nastavení účtu > sdílené služby":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Vytvoření tenanta a zakoupení předplatného":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>O nabídce Azure-Internal/Shared Services
 
 - Azure-Internal/Shared Services předplatné je nový typ nabídky Azure ve zprostředkovateli CSP, ke kterému se přistupoval prostřednictvím partnerského centra, které partneři získají k vlastnímu používání Azure.
 
-- Nabídka Azure-Internal/Shared Services nemá nárok na slevy a pobídky.
+- Nabídka Azure-Internal/Shared Services je vhodná pro slevy a pobídky.  Předplatné Azure partner Shared Services má nárok a dá se použít k zakoupení služeb vzdálené instalace.
 
 - Nabídku Azure-Internal/Shared Services lze použít pouze pro tenanta sdílených služeb.
 
 - Primárním využitím předplatného Azure-Internal/Shared Services je, abyste mohli Azure používat pro vlastní účely vývoje. Sdílený tenant, který použijete k zřízení této nabídky, se nedá použít pro jiné služby, jako jsou licence na Office 365 nebo Dynamics.
 
-- Předplatné můžete zrušit stejně jako jakékoli jiné předplatné. Přejít na **Nastavení**  >  **Zobrazit všechna nastavení**  >  **sdílené služby** . Vyberte předplatné Azure-Internal/Shared Services a zrušte ho.
+- Předplatné můžete zrušit stejně jako jakékoli jiné předplatné. Přejít na **Nastavení**  >  **Zobrazit všechna nastavení**  >  **sdílené služby**. Vyberte předplatné Azure-Internal/Shared Services a zrušte ho.
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Přístup k podrobnostem o spotřebě Azure partner Shared Services
 
@@ -70,11 +67,15 @@ Od 1. března 2019 již Azure partner Shared Services (APSS) už nepodporuje nab
 
 |**Podpora Marketplace**   |**APSS se podporuje do 1. března 2019**|**Od 1. března 2019**|
 |---------------------------|:----------------------------|:-------------------|
-|Přineste si vlastní licenci (BYOL) a bezplatné služby   | Ano   | No|
-|Další nabídky na webu Marketplace třetích stran   | No   |No|
+|Přineste si vlastní licenci (BYOL) a bezplatné služby   | Yes   | Ne|
+|Další nabídky na webu Marketplace třetích stran   | Ne   |Ne|
 
 Partneři, kteří mají BYOL nebo bezplatné služby nasazené pomocí APSS, nebudou ovlivněny. od 1. března 2019 ale nebude moct koupit nové BYOL nebo bezplatné služby.
 
 Aby bylo možné využít kompletní katalog nabízených nabídek Marketplace (ne jenom BYOL a bezplatné služby), doporučujeme, aby partneři CSP nasadili sdílené služby s použitím předplatných Azure web Direct.  Partneři CSP, kteří už dříve nasadili BYOL a bezplatné prostředky služeb z webu Marketplace a chtějí je dál používat a nasazovat další nabídky třetích stran, se doporučuje migrovat předplatné APSS na web přímo [migrací stávajících předplatných Azure](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
 Partneři, kteří plánují i nadále používat předplatné APSS po 1. březnu 2019 a chtějí nasadit nové [služby BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) třetích stran nebo bezplatné služby, můžou podle pokynů od nezávislých výrobců softwaru tyto informace nasadit do svých předplatných APSS.
+
+## <a name="next-steps"></a>Další kroky
+
+- [Prodej softwarových předplatných prostřednictvím CSP](csp-software-subscriptions.md)
