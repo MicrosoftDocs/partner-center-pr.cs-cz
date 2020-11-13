@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92527676"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567045"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partnerství s nepřímými prodejci v programu Cloud Solution Provider
 
@@ -55,7 +55,7 @@ Provedením následujících kroků zřídíte a spravujete své partnerství s 
 
    - Než budete moct s prodejci pracovat a s nimi pracovat, musíte v partnerském centru navázat partnerství.
 
-3. Spojte se se zákazníky
+3. Spojení se zákazníky
 
    - Přidružte nové zákazníky a předplatné k prodejcům
 
@@ -76,7 +76,7 @@ Na stránce Podrobnosti předplatného v poli prodejce (MPN ID) přidejte prodej
 
 1. V nabídce **partnerského centra** vyberte **nepřímé prodejce** .
 
-2. Na stránce **nepřímé prodejce** vyberte **požádat o partnerství** . Zobrazí se koncept e-mailové zprávy.
+2. Na stránce **nepřímé prodejce** vyberte **požádat o partnerství**. Zobrazí se koncept e-mailové zprávy.
 
 3. Výběrem **otevřít v e-mailu** otevřete zprávu ve vaší výchozí e-mailové aplikaci nebo vyberte **Kopírovat do schránky** a zkopírujte a pak vložte zprávu do e-mailu. Po dokončení vyberte **Hotovo** .
     > [!IMPORTANT]  
@@ -109,9 +109,9 @@ Pokud se u stávajících předplatných rozhodnete pracovat s nepřímým prode
 
 Pokud chcete odstranit partnerství se stávajícím nepřímým prodejcem, postupujte podle následujících kroků. 
 
-1. V nabídce partnerského centra na řídicím panelu vyberte **nepřímé prodejce** . 
+1. V nabídce partnerského centra na řídicím panelu vyberte **nepřímé prodejce**. 
 
-2. Na stránce **nepřímé prodejce** vyberte **Odstranit partnerství** . Zobrazí se zpráva s výzvou k potvrzení vyberte Ano, aby bylo možné pokračovat.
+2. Na stránce **nepřímé prodejce** vyberte **Odstranit partnerství**. Zobrazí se zpráva s výzvou k potvrzení vyberte Ano, aby bylo možné pokračovat.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Odebrat partnerství":::
 
@@ -124,7 +124,7 @@ Pokud chcete odstranit partnerství se stávajícím nepřímým prodejcem, post
 V závislosti na úrovni přístupu a zapojení můžete chtít sdělit nepřímým prodejcům i koncovému zákazníkovi tuto změnu.
 
 
-## <a name="connect-with-customers"></a>Spojte se se zákazníky
+## <a name="connect-with-customers"></a>Spojení se zákazníky
 
 Když dostanete nové zákazníky, budete je muset pro tyto účty vytvořit v partnerském centru. Když přidáte nový účet zákazníka, můžete určit konkrétního prodejce, který bude spravovat účet a spravovat předplatná a služby zákazníků jejich jménem.
 
@@ -134,36 +134,36 @@ Když přidružíte prodejce k novému účtu zákazníka, delegujete si prodejc
 
 1. V nabídce **partnerského centra** vyberte **nepřímé prodejce** .
 
-2. Vyhledejte nepřímý prodejce, ke kterému chcete přiřadit nové zákazníky, a pak vyberte **Přidat nového zákazníka** . Pamatujte na to, že nepřímý prodejce je už vybraný pro vás na formuláři s podrobnostmi o zákaznících. Zadejte podrobnosti o zákazníkovi a potom vyberte **Další: předplatná** .
+2. Vyhledejte nepřímý prodejce, ke kterému chcete přiřadit nové zákazníky, a pak vyberte **Přidat nového zákazníka**. Pamatujte na to, že nepřímý prodejce je už vybraný pro vás na formuláři s podrobnostmi o zákaznících. Zadejte podrobnosti o zákazníkovi a potom vyberte **Další: předplatná**.
 
 3. Na stránce **Nový odběr** vyberte předplatné, které chce zákazník koupit, a pak zadejte počet licencí, které zákazník potřebuje.
 
-4. Vyberte **Další: Kontrola** .
+4. Vyberte **Další: Kontrola**.
 
-5. Pokud je pořadí správné, vyberte **Odeslat** . Pokud je pořadí nesprávné, vyberte **Zrušit** a zrušte celou operaci a začněte znovu.
+5. Pokud je pořadí správné, vyberte **Odeslat**. Pokud je pořadí nesprávné, vyberte **Zrušit** a zrušte celou operaci a začněte znovu.
 
 6. Po odeslání objednávky se zobrazí stránka **potvrzení** . V části **informace o nastavení** se zobrazí název uživatelského účtu správce a dočasné heslo. Zkopírujte informace o názvu a heslu uživatelského účtu, abyste ho mohli poslat novému zákazníkovi.
 
     > [!IMPORTANT]  
     > Nezapomeňte si poznamenat název a heslo uživatelského účtu, protože po zavření této stránky nebudete moct znovu získat přístup k těmto informacím.
 
-7. Vyberte **Hotovo** . Nový zákazník se zobrazí v seznamu zákazníků, který je přidružený k nepřímému prodejci. Prodejce má teď přístup správce k informacím o účtu zákazníka a předplatným a může spravovat předplatná jménem zákazníka.
+7. Vyberte **Hotovo**. Nový zákazník se zobrazí v seznamu zákazníků, který je přidružený k nepřímému prodejci. Prodejce má teď přístup správce k informacím o účtu zákazníka a předplatným a může spravovat předplatná jménem zákazníka.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Přidání nových předplatných do zákaznických účtů
 
-Když si zákazníci chtějí koupit nové předplatné, upgradovat existující nebo si koupit další licence, provedete tyto změny v účtu zákazníka.
+Když si zákazníci chtějí koupit nové předplatné, upgradovat existující nebo koupit další licence, provedete tyto změny v účtu zákazníka prostřednictvím portálu M365. Nemůžete to provést v Azure Portal.
 
 1. V nabídce **partnerského centra** vyberte **zákazníci** .
 
-2. Vyhledejte zákazníka, jehož účet chcete změnit. Seznam můžete filtrovat podle nepřímého prodejce, abyste mohli zúžit vaše volby. Rozbalte záznam zákazníka tak, že vyberete šipku dolů a pak vyberete **Přidat předplatné** .
+2. Vyhledejte zákazníka, jehož účet chcete změnit. Seznam můžete filtrovat podle nepřímého prodejce, abyste mohli zúžit vaše volby. Rozbalte záznam zákazníka tak, že vyberete šipku dolů a pak vyberete **Přidat předplatné**.
 
 3. Na stránce **Nový odběr** vyberte odběry a zadejte počet licencí, které si zákazník chce koupit.
 
-4. Chcete-li přidružit předplatné k prodejci, vyberte ze seznamu název prodejce a pak vyberte **Odeslat** . Přidružení prodejce k předplatnému umožňuje získat pobídky, pokud jsou k dispozici.
+4. Chcete-li přidružit předplatné k prodejci, vyberte ze seznamu název prodejce a pak vyberte **Odeslat**. Přidružení prodejce k předplatnému umožňuje získat pobídky, pokud jsou k dispozici.
 
 5. Nové odběry se zobrazí v seznamu předplatných zákazníka.
 
-6. Pokud chcete, aby prodejci zpracovávala žádosti o zákaznickou podporu pro nové předplatné, vyberte předplatné a pak vyberte prodejce ze seznamu **vyhrazených kontaktů podpory** .
+6. Pokud chcete, aby prodejci zpracovávala žádosti o zákaznickou podporu pro nové předplatné, vyberte předplatné a pak vyberte prodejce ze seznamu **vyhrazených kontaktů podpory** . 
 
 7. Po dokončení vyberte **Odeslat** .
 
