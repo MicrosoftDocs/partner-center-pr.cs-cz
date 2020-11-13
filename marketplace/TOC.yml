@@ -3,3 +3,7 @@
   items:
     - name: Vytvoření privátního marketplace Azure
       href: create-manage-private-azure-marketplace.md
+- name: Referenční informace
+  items:
+    - name: Azure PowerShell
+      href: /powershell/module/az.marketplace
