@@ -1,19 +1,19 @@
 ---
 title: Platební a daňový profil v Partnerském centru
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 11/12/2020
 description: Vytvořte a spravujte svůj výběr a daňový profil, abyste se mohli vyplatit za práci s vašimi pobídkami. Zahrnuje vytváření, správu a používání různých profilů.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ca2ffe992ff92b98546934f4a249779f39179acb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527781"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626027"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Vytváření a Správa pobídek pro výběr a daňové profily v partnerském centru
 
@@ -24,7 +24,7 @@ ms.locfileid: "92527781"
 **Příslušné role:**
 
 - Motivace správce
-- Správce fakturace
+- Správce účtu
 - Globální správce
 
 Než budete moct začít přijímat platby za vaše programy pobídek pro určitou oblast MPN, musíte nejprve dokončit svou registraci tím, že k programu a umístění MPN přidružíte platný platební a daňový profil. Microsoft bude tento platební a daňový profil používat k odesílání plateb. V závislosti na pravidlech konkrétního programu pobídek možná můžete přijímat platby elektronickým bankovním převodem nebo dobropisem. 
@@ -43,15 +43,11 @@ Motivuje uživatelům možnost zobrazit informace o výdělkech a platebních po
 
 ### <a name="choose-your-disbursement-currency"></a>Zvolit svou výdajový měnu
 
-Ve výchozím nastavení jsou pobídky k platbám v místní měně každé příslušné entity. Během nastavení profilu můžete zadat jinou měnu. Platby se vypočítávají pomocí směnného kurzu, který je nastavený měsíčně Microsoftem. Z důvodu vybrané měny zodpovídáte za všechny změny v hodnotě.
-
-### <a name="bank-and-tax-information-and-other-programs"></a>Bankovní a daňové informace a další programy
-
-Níže popsané informace uveďte i v případě, že společnost Microsoft už používá vaše bankovní údaje k platbám. To pomáhá zajistit ochranu osobních údajů a zabezpečení dat vaší společnosti, protože kopírování vašeho profilu do nového nástroje by mohlo vystavit citlivé informace. Tento proces je také dobrým příležitostí, aby se zajistilo, že data jsou kompletní a přesná.
+V měně, kterou jste zvolili při nastavování svého platebního profilu, se platby k motivaci vytvářejí. Platby se vypočítávají pomocí směnného kurzu, který je nastavený měsíčně Microsoftem. Z důvodu vybrané měny zodpovídáte za všechny změny v hodnotě.
 
 ### <a name="using-different-profiles-for-different-microsoft-programs"></a>Používání různých profilů pro různé programy Microsoftu
 
-V rámci maloobchodního prodeje se platby za každý z pěti programů maloobchodního prodeje můžou nacházet do stejného bankovního účtu. Alternativně můžete zvolit, aby prodejní platby Xbox přešly do jednoho bankovního účtu, zatímco prodejní kancelář je placená na jiný bankovní účet.
+Pokud je vaše společnost zaregistrovaná v několika aplikacích pro motivaci, můžete použít stejný platební účet pro všechny z nich nebo zvolit používání různých platebních účtů pro různé programy.
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Vytvoření a Správa výběrových a daňových profilů v partnerském centru
 
@@ -66,23 +62,23 @@ V následujících částech se dozvíte, jak vytvořit a spravovat platební a 
 
    - V jednom účtu Azure AD se dá zaregistrovat víc domén. Chcete-li zjistit, které domény jsou přidruženy, obraťte se na svého globálního správce.
    - Pokud se přihlašujete jenom k @onmicrosoft.com doméně, obraťte se na správce účtu a přidejte další domény k účtu Azure AD.
-   - Pokud budete vyzváni k výběru **pracovního nebo školního** účtu nebo **osobního účtu** , vyberte **pracovní nebo školní účet** .
+   - Pokud budete vyzváni k výběru **pracovního nebo školního** účtu nebo **osobního účtu** , vyberte **pracovní nebo školní účet**.
 
-2. Výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** a pak vyberte **nastavení partnera** .
+2. Výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** a pak vyberte **nastavení partnera**.
 
-3. V nabídce **Nastavení účtu** vyberte **Výběr a daň** . 
+3. V nabídce **Nastavení účtu** vyberte **Výběr a daň**. 
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Přiřadit výběr a daňové profily jednotlivým programům
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/)a výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** . 
 
-2. Vyberte **Nastavení partnerského serveru** , rozbalte **část výběr a daň** a pak vyberte **Výběr a přiřazení finančního profilu** . 
+2. Vyberte **Nastavení partnerského serveru** , rozbalte **část výběr a daň** a pak vyberte **Výběr a přiřazení finančního profilu**. 
    
    Zobrazí se seznam vašich programů. Výběrem šipky vedle programu zobrazíte podrobnosti o profilu. 
 
 3. V rozevírací nabídce **daňový profil** vyberte požadovaný daňový profil nebo vyberte možnost vytvoření nového profilu. Když vyberete možnost vytvoření nového profilu, budete odpovídajícím způsobem přesměrováni.  V automaticky otevíraném okně vyberte pokračovat. Postup vytvoření nového daňového profilu byl uveden níže.
 
-4. Vyberte **způsob platby** .
+4. Vyberte **způsob platby**.
 
    - Pokud jste jako způsob platby vybrali **přenos elektronickými bankami** , vyberte požadovaný profil platby nebo vyberte možnost vytvoření nového profilu. Když vyberete možnost vytvoření nového profilu, budete odpovídajícím způsobem přesměrováni. V automaticky otevíraném okně vyberte pokračovat. Postup vytvoření nového platebního profilu byl uveden níže.
 
@@ -94,9 +90,9 @@ V následujících částech se dozvíte, jak vytvořit a spravovat platební a 
     >[!NOTE]
     >Dostupnost způsobu platby závisí na pravidlech programu motivačních.
     
-5. Vyberte **měnu** .
+5. Vyberte **měnu**.
 
-6. Po dokončení všech platebních polí vyberte **Odeslat** .
+6. Po dokončení všech platebních polí vyberte **Odeslat**.
 
 ## <a name="create-your-bank-profile"></a>Vytvořit profil banky
 
@@ -109,17 +105,17 @@ Profily banky se vytvářejí na úrovni organizace. Tím umožníte, aby jeden 
     **Umístění bankovního účtu:** Země, ve které se nachází banka vaší společnosti.
     **Způsob platby:** Preferovaným způsobem platby pro partnerské Centrum je přenos elektronické banky.
 
-2. Vyberte **Další** .
+2. Vyberte **Další**.
 
 3. Na stránce **bankovní účet** zadejte vaše informace. Pole zobrazená na této stránce se budou lišit podle země. 
 
-4. Vyberte **Další** .
+4. Vyberte **Další**.
 
 5. Na stránce **příjemce** zadejte příslušné informace. Příjemcem je osoba ve vaší společnosti, které by banka kontaktovala v případě, že potřebuje diskutovat o vašem účtu.
 
 6. Až budou pole Dokončená, vyberte **Dokončit** a pak kliknutím na **Potvrdit** vytvořte svůj bankovní profil.
 
-Budete přesměrováni na stránku **Výběr a daňové profily** . Stav nového profilu bude odpovídat **vyřízenému ověření společnosti Microsoft** až do dokončení ověření. Tento proces může trvat až 48 hodin. Po dokončení ověření bude stav vašeho profilu odpovídat buď **schválenému** , nebo **požadované akce** . Pokud je **vyžadována akce** , opakujte výše uvedené kroky, které poskytují nezbytné informace. 
+Budete přesměrováni na stránku **Výběr a daňové profily** . Stav nového profilu bude odpovídat **vyřízenému ověření společnosti Microsoft** až do dokončení ověření. Tento proces může trvat až 48 hodin. Po dokončení ověření bude stav vašeho profilu odpovídat buď **schválenému** , nebo **požadované akce**. Pokud je **vyžadována akce** , opakujte výše uvedené kroky, které poskytují nezbytné informace. 
 
 ## <a name="create-your-tax-profile"></a>Vytvořte si daňový profil
 
@@ -133,24 +129,24 @@ Pokud pro partnerské společnosti v Severní Americe potřebujete informace o d
 >[!IMPORTANT]
 > Zadejte jenom podrobnosti vaší společnosti. Nikdy nezadat osobní údaje.
 
-1. Na stránce **obchodní profil** vyplňte požadovaná pole a pak vyberte **Další** . 
+1. Na stránce **obchodní profil** vyplňte požadovaná pole a pak vyberte **Další**. 
 
 2. Na stránce **instalace** vyberte možnost, která se vztahuje na vaši společnost.
 
    - Tuto možnost vyberte vlevo, pokud je vaše společnost začleněná do USA jenom, nebo pokud je tento profil pro jednotlivce.
    - Vyberte možnost na pravé straně, pokud je vaše společnost začleněná mimo USA a pak ze seznamu vyberte svou zemi/oblast.
 
-3. Vyberte **Další** . 
+3. Vyberte **Další**. 
 
-4. Na stránce **Stav daně** zadejte požadované informace a pak vyberte **Další** . Pole na této stránce se budou lišit podle země. Vaše podrobnosti. 
+4. Na stránce **Stav daně** zadejte požadované informace a pak vyberte **Další**. Pole na této stránce se budou lišit podle země. Vaše podrobnosti. 
 
-5. Na stránce **Další dokumentace** zadejte požadovaná pole a pak klikněte na **Další** . 
+5. Na stránce **Další dokumentace** zadejte požadovaná pole a pak klikněte na **Další**. 
 
-6. Vyberte **Procházet** a odešlete všechny dokumenty vyžadované vaší zemí nebo oblastí. Po zobrazení názvu dokumentu vyberte **Odeslat** . 
+6. Vyberte **Procházet** a odešlete všechny dokumenty vyžadované vaší zemí nebo oblastí. Po zobrazení názvu dokumentu vyberte **Odeslat**. 
 
-7. Pokud potřebujete odebrat dokument, vyberte **Odebrat** .
+7. Pokud potřebujete odebrat dokument, vyberte **Odebrat**.
 
-8. Pokud chcete uložit a pokračovat, vyberte **Dokončit** .
+8. Pokud chcete uložit a pokračovat, vyberte **Dokončit**.
 
 9. V místní zprávě vyberte **Potvrdit** . Vrátíte se na stránku **Výběr a daňové nastavení** .
 

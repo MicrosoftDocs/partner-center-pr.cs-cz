@@ -1,20 +1,20 @@
 ---
 title: Ověření partnerského profilu
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Zjistěte, jak ověřit podrobnosti společnosti, například primární kontakt, adresu a informace o programu. Můžete také aktualizovat své právní a fakturační adresy.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "92527226"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94625993"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Ověření informací o partnerském profilu v partnerském centru
 
@@ -27,9 +27,9 @@ Při prvním přihlášení do partnerského centra jako globální správce bys
 
 Váš partnerský profil se skládá z vašich obchodních informací, primárního kontaktního jména a e-mailu, programů, ve kterých se vaše společnost účastní, a v případě potřeby i dalších společností, které jsou teď sloučené do vaší právní firmy. Ujistěte se, že název a adresa společnosti ve vašem oficiálním obchodním profilu neobsahují pravopisné chyby a zkratky a přesně odpovídají vašim formálním záznamům o registraci firmy. Pokud pracujete jako jediný vlastník, musíte jako svůj právní název použít název vaší společnosti.
 
-1. Přejít na **Nastavení** a vybrat **profil partnera** .
+1. Přejít na **Nastavení** a vybrat **profil partnera**.
 
-2. Zkontrolujte svůj **oficiální obchodní profil** , **primární kontaktní údaje** a **informace o programu** .
+2. Zkontrolujte svůj **oficiální obchodní profil** , **primární kontaktní údaje** a **informace o programu**.
 
 Pokud jste své jiné společnosti sloučili v rámci svého právního podnikání, můžete si prohlédnout jejich informace i na této stránce.
 
@@ -37,7 +37,7 @@ Pokud jste své jiné společnosti sloučili v rámci svého právního podniká
 
 Vaše zákonná adresa teď můžete aktualizovat v partnerském centru.
 
-1. Přejít na **Nastavení** a vybrat **profil partnera** . 
+1. Přejít na **Nastavení** a vybrat **profil partnera**. 
 
 2. Vyberte **aktualizovat** vedle na platnou adresu. 
 
@@ -50,29 +50,37 @@ Vaše zákonná adresa teď můžete aktualizovat v partnerském centru.
 
 Pokud během migrace z partnerského centra pro členství v partnerském centru došlo k identifikaci špatné firmy jako právní, můžete ji změnit na správnou firmu.
 
-1. V části **Nastavení účtu** klikněte na **umístění** a ujistěte se, že podnik, který chcete použít jako právní firmu, je v seznamu. Pokud ne, můžete ho přidat. Vyberte **Přidat umístění** .
+1. V části **Nastavení účtu** klikněte na **umístění** a ujistěte se, že podnik, který chcete použít jako právní firmu, je v seznamu. Pokud ne, můžete ho přidat. Vyberte **Přidat umístění**.
 
-2. Vedle možnosti přejít na **partnerský profil** vyberte **aktualizovat právní profil pro firmy** .
+2. Vedle možnosti přejít na **partnerský profil** vyberte **aktualizovat právní profil pro firmy**.
 
-3. Vyberte umístění a firmu, které chcete použít jako právní firmu, a pak vyberte **Uložit** .
+3. Vyberte umístění a firmu, které chcete použít jako právní firmu, a pak vyberte **Uložit**.
 
 ## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>Aktualizace ID MPN přidruženého k účtu CSP
 
 Aktualizace ID MPN přidruženého k vašemu účtu CSP:
 
 1. Přihlaste se k řídicímu panelu partnerského centra.
-1. Vyberte **partnerský profil** z **Nastavení účtu** .
-1. V poli **přidružená MPNID** vyberte **aktualizovat** .
-1. Vyberte **Pokračovat** .
+1. Vyberte **partnerský profil** z **Nastavení účtu**.
+1. V poli **přidružená MPNID** vyberte **aktualizovat**.
+1. Vyberte **Pokračovat**.
 1. Přidejte své ID MPN.
 
 
 ## <a name="update-your-billing-address"></a>Aktualizace fakturační adresy
 
-Pokud jste globálním správcem, správcem fakturace nebo agentem správce, můžete adresu, která se zobrazí na faktuře, změnit ve **fakturačním profilu** . Kvůli omezení fakturačního systému však nemůžete změnit název společnosti na faktuře.
+Pokud jste globálním správcem, správcem fakturace nebo agentem správce, můžete aktualizovat:
 
- 
+- Adresa, která se zobrazí na faktuře ve **fakturačním profilu**
+- Vaše číslo na objednávce
+
+Nemůžete změnit:
+ 
+- Název firmy
+- Země
+- Datum fakturace
+ 
 ## <a name="next-steps"></a>Další kroky
 
-- [Spravovat umístění](manage-locations.md)
+- [Správa umístění](manage-locations.md)
 

@@ -1,19 +1,19 @@
 ---
 title: Pobídky k registraci
 ms.topic: how-to
-ms.date: 09/25/2020
+ms.date: 11/12/2020
 description: Zaregistrujte se do programu pobídek a přiřaďte potřebné role pro správu uživatelů. Tento článek popisuje proces registrace.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 067ad9370da6a6deeaeac7b24e606fe0bcd555a9
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527756"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626010"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrace a Správa uživatelů v programu pobídek
 
@@ -41,13 +41,15 @@ Aby bylo možné zaregistrovat se v programu pro povýšení partnerských Cente
 Až bude vaše organizace nárokná na pobídky, Microsoft pošle pozvánky správci účtu a správci s motivem.
 
 >[!NOTE]
->Pouze správce s motivací může zaregistrovat v programu motivačních programů. Pokud pro vaše umístění není k dispozici žádný správce, účet globálního správce a správce účtu ho musí přiřadit. Pro umístění MPN ID se musí přiřadit správce pro pobídky. Správce účtu globálního správce nebo účtu se dá také přiřadit jako správce pro motivaci.
+>Pouze správce s motivací může zaregistrovat v programu motivačních programů. Pokud pro vaše umístění není k dispozici žádný správce, účet globálního správce a správce účtu ho musí přiřadit. Pro umístění MPN ID se musí přiřadit správce pro pobídky. Správce účtu globálního správce nebo účtu se dá také přiřadit jako správce pro motivaci. Další informace o různých rolích najdete v tématu [Správa pobídek](permissions-overview.md#manage-incentives).
 
 ## <a name="enrollment-process"></a>Proces registrace
 
-Jakmile má vaše organizace nárok na pobídky, pošle vám společnost Microsoft pozvánku správci pobídek opravňujícího MPNLocationID, aby zahájili proces registrace. Tento e-mail se pošle z **partnerského centra Microsoftu** a bude mít **pozvánku na motiv předmětu pro** pokládání partnerů. Otevřete pozvánku **a vyberte Začínáme** .
+Jakmile má vaše organizace nárok na pobídky, společnost Microsoft pošle pozvánku správci s oprávněným MPNLocationID, aby zahájili proces registrace. Tento e-mail se pošle z **partnerského centra Microsoftu** a bude mít **pozvánku na motiv předmětu pro** pokládání partnerů. Otevřete pozvánku **a vyberte Začínáme**.
 
-Na domovské stránce partnerského centra se zobrazí také Pozvánka. Jakmile vyberete tuto zprávu, nebudete ji moct znovu zobrazit. Správce pobídek ale stále může proces zahájit přihlášením do [řídicího panelu partnerského centra](https://partner.microsoft.com/dashboard/) a výběrem **správy uživatelů** .
+Na domovské stránce partnerského centra se zobrazí také Pozvánka. Jakmile vyberete tuto zprávu, nebudete ji moct znovu zobrazit. Správce pro motivaci ale může tento proces i nadále dokončit přihlášením do [řídicího panelu partnerského centra](https://partner.microsoft.com/dashboard/) a výběrem možnosti **Přehled** v části **motivace** v levém navigačním podokně. Vyberte možnost **Registrovat** a pak dokončete výběr a daňový profil pro program.
+
+Registrace se považuje za kompletní, jenom když společnost Microsoft ověří daný a daňový profil, který zadáte pro registraci.
 
 Některé programy pro motivaci nemají žádná kritéria pro nárok a jsou otevřené všem partnerům. Správce pobídky uvidí pro tyto programy pozvánky na stránce Přehled o proměně, pokud mají oprávnění k příslušnému programu a MPN. Společnost Microsoft neposílá e-mailová pozvání pro tyto programy.
 
@@ -55,7 +57,7 @@ Chcete-li získat další informace o procesu registrace, Stáhněte si [příru
 
 ## <a name="expiration-and-renewal"></a>Vypršení platnosti a obnovení
 
-Vyprší platnost registrace na konci fiskálního roku. Pokud ale zůstanete oprávněným partnerem s aktivní smlouvou, Microsoft zavede vaše pobídky k registraci do příštího fiskálního roku. Nemusíte provádět žádnou akci.
+Vyprší platnost registrace na konci fiskálního roku. Pokud ale zůstanete oprávněným partnerem s aktivní smlouvou, Microsoft zavede vaše pobídky k registraci do příštího fiskálního roku. Nemusíte provádět žádnou akci, pokud je výběr a daňové informace vyžadované pro program pro podnět dokončen podle pravidel programu pro podnět.
 
 ## <a name="next-steps"></a>Další kroky
 
