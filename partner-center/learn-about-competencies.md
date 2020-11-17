@@ -1,7 +1,7 @@
 ---
 title: Microsoft Gold, Silver Competency požadavky
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Naučte se získat stav vydaných partnerů Microsoftu a přilákat nové zákazníky pomocí požadavků na kompetenci a získat tak zlato a stříbrné úrovně členství.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92527724"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691329"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Odlišení podnikání díky kompetencím Microsoftu
 
@@ -40,7 +40,7 @@ V oblasti kompetence na řídicím panelu vašeho partnerského centra si může
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
 
-2. V nabídce Partnerského centra v části MPN vyberte **Kompetence** .
+2. V nabídce Partnerského centra v části MPN vyberte **Kompetence**.
 
 3. Výběrem názvu kompetence a konkrétní možnosti kompetence zobrazíte podrobnosti. Můžete vidět, co jste dokončili, a můžete také zobrazit všechny požadavky a odkazy na konkrétní zkoušky a data vyřazení zkoušek.
 
@@ -48,7 +48,7 @@ V oblasti kompetence na řídicím panelu vašeho partnerského centra si může
 
 Aby bylo možné získat nepotřebný členství v stříbrném nebo zlatě, budete požádáni o ukázku odbornosti v různých oblastech podnikání a technologie.
 
-|**Plošný**            |**Kompetencí**                    |
+|**Oblast**            |**Kompetencí**                    |
 |--------------------|--------------------------------|
 |Aplikace a infrastruktura| – Vývoj aplikací<br/> – Integrace aplikací<br/> – Cloudová platforma<br/> – DevOps<br/> – Datacenter |
 |Podnikové aplikace | -Cloud Business Applications</br> – Podnikové plánování prostředků (ERP)</br> – Projekt a portfolio |
@@ -65,6 +65,10 @@ Další informace o tom, co je potřeba k dosažení stříbrné a zlaté kompet
 
 - Přečtěte si, jak můžete dál prezentovat své zkušenosti spárováním Gold Competency s jednou nebo více [pokročilými specializacemi](advanced-specializations.md).
 
-- Seznamte se s konkrétními [výhodami pro uvedení na trh, které](mpn-learn-about-go-to-market-benefits.md) jsou součástí kompetence.
+- Přečtěte si o konkrétních [prostředcích pro uvedení na trh, které](mpn-learn-about-go-to-market-benefits.md) jsou součástí kompetence.
 
 - Seznamte [se s fakturami a daněmi pro kompetence](mpn-view-print-maps-invoice.md).
+
+- Prohlédněte si [sestavu kompetence](pci-competencies-report.md) pro přehled partnerských Center, která zobrazuje aktuální stav vašich kompetencí.
+
+- Získejte odpovědi na [Nejčastější dotazy](competencies-faq.md) týkající se kompetencí.

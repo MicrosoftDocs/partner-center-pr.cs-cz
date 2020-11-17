@@ -614,7 +614,7 @@
           href: advisor-create-a-purchase-offer.md
 - name: Data a analýzy v Partnerském centru
   items:
-    - name: Přístup k datům a analýzám uživatelů
+    - name: Přístup k analýzám a datům předplatného
       href: data-analysis-lp.md
     - name: Aplikace Analýzy pro Power BI
       items:
@@ -628,7 +628,7 @@
       items:
         - name: Informace o přehledech
           href: partner-center-insights.md
-          displayName: mpn
+          displayName: data
         - name: Přístup k přehledům na základě role
           href: pci-roles.md
         - name: Analytické sestavy

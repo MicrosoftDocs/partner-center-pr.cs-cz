@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488102"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691295"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -23,6 +23,128 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 2020 oznámení: [duben](2020-april.md)v  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenci, červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md)  |  [October](2020-October.md) | Listopadu
 
 ______________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Změna fakturační měny partnerů v EU/ESVO pro nové nabídky obchodu  
+
+### <a name="categories"></a>Kategorie
+- Datum 2020-11-17
+- Možnosti
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina  
+
+Partneři s podporou programu Cloud Solution Provider v oblasti EU/ESVO 
+
+### <a name="summary"></a>Shrnutí 
+
+V oblasti Evropské unie (EU)/European volného obchodu (ESVO) se všechny nové nabídky obchodování v programu Cloud Solution Provider použijí místo fakturačního umístění zákazníka. To znamená, že se partneři účtují společností Microsoft na základě jejich měny umístění, nikoli podle měny jejich zákazníků. To se provádí ve dvou fázích: 
+
+- **Fáze 1: noví zákazníci, kteří si zakoupí novou nabídku Commerce v CSP**
+
+Od ledna 2021 partneři s novými zákazníky, kteří si zakoupí nové nabídky pro obchod, se budou fakturovat za tyto nákupy v peněžních umístěních partnera. Partneři se stávajícími zákazníky, kteří si už zakoupili nové nabídky pro obchod ve zprostředkovateli CSP, se v této fázi budou dál účtovat v měně fakturačního umístění zákazníka. 
+
+ 
+
+- **Fáze 2: stávající zákazníci, kteří si zakoupili novou nabídku pro obchodování ve zprostředkovateli CSP před lednem 2021** 
+
+Po fázi 1 a v kalendářním roce 2021 bude Microsoft převádět účtování nových nabídek obchodu pro partnery se stávajícími zákazníky, kteří si zakoupili novou nabídku pro obchodování ve zprostředkovateli CSP před lednem 2021, od měny zákazníka až po měnu umístění partnera. Před implementací této změny se partneři budou předem informovat.  
+
+>Značte Tato změna bude mít vliv jenom na účtovací měnu partnerů a ne na ceny za nové nabídky obchodování v CSP. 
+
+Mezi nové nabídky pro obchod v oboru pro tuto změnu patří: předplatná Azure, která jsou součástí plánu Azure, rezervacích Azure, předplatných softwaru, trvalého softwaru a nákupů z komerčního obchodu na webu Microsoft Azure v programu Cloud Solution Provider.
+
+### <a name="partner-benefits"></a>Výhody pro partnery  
+
+- Tato aktualizace sníží složitost a režii při fakturaci na více měn v oblasti EU/ESVO pro nové prostředí pro obchod.  
+
+- Partneři obdrží konsolidovanou fakturu v rámci jedné měny a nebude už dostávat fakturu pro každou měnu zákazníka na místo. 
+
+- Výběry k pobídkám budou ve stejné měně jako fakturační měna partnera.
+
+- Partneři budou upozorněni na složitost fakturace způsobené fakturací na více měn, což uvolní čas a prostředky, které jsou aktuálně přidruženy k sjednocování účtů. 
+
+- Pro partnery, kteří ještě nepřijali nové nabídky obchodu, se tato změna zarovnává s předchozím modelem fakturace partnerů, takže partneři můžou snadněji přejít na nové prostředí pro obchod v rámci CSP. 
+
+### <a name="resources"></a>Zdroje informací 
+
+Projděte si informace o tomto tématu v [galerii operací] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ na webu Microsoft Partner.  
+
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>Omezování rozhraní API pro partnery, kteří volají rozhraní API partnerského centra
+
+### <a name="categories"></a>Kategorie
+
+- Datum 2020-11-17
+- Možnosti
+
+### <a name="summary"></a>Shrnutí
+
+Microsoft zavádí omezování rozhraní API pro partnery, kteří volají rozhraní API partnerského centra pro zajištění jednotnějšího výkonu v daném časovém intervalu.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Natransakční partneři pomocí programu Cloud Solution Provider
+
+### <a name="details"></a>Podrobnosti
+
+Společnost Microsoft implementuje omezování rozhraní API v Q1 2021, aby umožňovalo jednotnější výkon v časovém intervalu pro partnery, kteří volají rozhraní API partnerského centra. Omezování omezuje počet požadavků na službu v určitém časovém rozsahu, aby nedocházelo k nadměrnému využití prostředků. Při překročení prahové hodnoty omezuje Partnerská centra všechny další požadavky od tohoto klienta po určitou dobu.  
+
+### <a name="partner-benefits"></a>Výhody pro partnery 
+
+Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků, ale pokud je zahlceno více požadavků několika partnery, omezování vám pomůže udržet optimální výkon a spolehlivost pro všechny partnery. Zajišťuje minimální prostoje. Díky omezení vysokého objemu požadavků můžeme zajistit konzistentní výkon pro všechny partnery. 
+
+
+### <a name="apis-to-be-throttled"></a>Rozhraní API k omezení
+
+|**Operace**|**Dokumentace k Partnerskému centru**|
+|-------------------------|----------------------------------|
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions|[Získání všech předplatných zákazníka](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Získat předplatné podle ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/Customers/{customer_id}/Orders||[Získat všechny objednávky zákazníka](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Získat objednávku podle ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Získat stav zřizování předplatného](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Správa objednávek a Správa předplatného](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Získat seznam doplňků pro předplatné](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Získat seznam nároků na Azure pro předplatné](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Získat stav registrace předplatného](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/Customers/{Customer-tenant-ID}/Transfers|[Získat všechny přenosy zákazníka](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Získat stav upgradu produktu](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/Customers/{Customer-ID}/Subscriptions/{Subscription-ID}/Conversions|[Získat seznam nabídek zkušebního převodu](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+  
+
+Toto oznámení se zaměřuje na poskytování partnerů s včasnou informovaností o nadcházejících změnách, což jim umožní připravit se. Důrazně doporučujeme, aby se partneři seznámili s těmito rozhraními API, a zvažte použití rozhraní API protokolu aktivit pro zajištění vyšší efektivity a zabránění omezování. Další informace o této funkci najdete v tématu podrobnosti o [omezeních rozhraní API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+
+### <a name="next-steps"></a>Další kroky
+
+Projděte si [pokyny k omezování rozhraní API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)a proveďte potřebné kroky. 
+
+
+
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 chyb způsobených duplicitními požadavky MCA
+
+### <a name="categories"></a>Kategorie
+
+- Datum 2020-11-16
+- Možnosti
+
+### <a name="context"></a>Kontext
+
+- V únoru požádali partnery o podepsání smlouvy o zákaznících Microsoftu (MCuA). To bylo migrace z předchozí smlouvy Microsoft Cloud (MCA). 
+- Jako součást tohoto partnera pro změny požadovali, aby partneři byli požádáni o zahrnutí parametru typu smlouvy, jak je popsáno [zde](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement).
+
+### <a name="what-happened-next"></a>Co se stalo s následujícím:
+
+- Ne všichni partneři zahrnuli do své implementace požadavek parametru. Microsoft vrátil pro tyto partnery tuto MCA.
+- Partner pak znovu odešle žádost o podepsání zákazníkovi a znovu ji odešle společnosti Microsoft. 
+- Duplikace ovlivnila schopnost Microsoftu poskytovat služby partnerům.
+- V září 2020 jsme všem partnerům poslali oznámení prostřednictvím Yammeru ve více fórech a požádali, aby partneři opravili parametr. Společnost Microsoft již nemůže přijmout duplicity a obdržela 409 chyb.
+
+>[Poznámka] Nejednalo se o novou změnu kontraktu nebo rozhraní API pro partnery.
+
+- V říjnu jsme úzce pracovali s partnery, kteří měli nejvíce duplicitních žádostí o vyřešení problému.
+- V současné době připomínáme partnerům a posílání osobních e-mailů na 10 nejčastějších pachatelů, ke kontrole jejich požadavků a k vyřešení problému, abychom vám mohli pomoci s jejich testováním.
+- 10. listopadu 2020 přestaly přijímat duplicity a partneři, kteří neopravili parametry, narazili na chyby 409.
+- Od té doby jsme změnili změny, aby nepřijímaly duplicity. 
+- Od 14. ledna 2021 ale už nebudeme moci přijímat duplicity. Díky tomu mohou partneři docílit na své ukončení jakékoli úpravy. Již jsme dostali oznámení od partnera, který plánuje nasadit aktualizaci na 11/16, na které budeme s nimi úzce spolupracovat.
+- Požadujeme, aby se partneři dostali na nás, abychom vám mohli považovat test přidáním jejich klientů do letu se změnami tak, aby se zajistilo, že jejich aktualizace řešení funguje podle očekávání.
+
 
 
 ## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>K dispozici testování: aktualizace rozhraní API partnerského centra a vylepšení uživatelského rozhraní pro proces ověření zákazníka pro vzdělávání
