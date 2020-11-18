@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1e6002354323d2c528cbf32271144bbf61d40ac8
+ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691295"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94845335"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -23,6 +23,128 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 2020 oznámení: [duben](2020-april.md)v  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenci, červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md)  |  [October](2020-October.md) | Listopadu
 
 ______________
+
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Vylepšení rozhraní API partnerského centra a rozšíření uživatelského rozhraní (UI) pro posílení prověrky zákazníků v určitých zemích
+
+### <a name="categories"></a>Kategorie
+
+- Datum 2020-11-17
+- Možnosti | Vylepšené prověřování zákazníků
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Poskytovatelé přímých faktur nebo nepřímo poskytovatelé účastnící se programu Cloud Solution Provider (CSP), který má nové nebo existující zákazníky v následujících zemích:
+
+- Arménská (AM)
+- Ázerbájdžán (AZ)
+- Bělorusko (do)
+- Maďarsko (HU)
+- Kazachstán (KZ)
+- Kyrgyzstán (KG)
+- Moldavsko (MD)
+- Rusko (RU)
+- Tádžikistán (TJ)
+- Uzbekistán (UZ)
+- Ukrajina (UA)
+
+### <a name="summary"></a>Shrnutí
+
+Jako součást trvalého závazku Microsoftu zákazníkům a partnerům v oblasti souladu s podnikovými postupy se teď někteří partneři se zákazníky v určitých zemích budou požádáni, aby při dalším pokusu o aktualizaci stávajícího zákaznického předplatného nebo vytvoření nového předplatného pro nového zákazníka požádali o dokončení několika dalších polí dat o těchto zákaznících. 
+
+### <a name="details"></a>Podrobnosti
+
+Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečné a zabezpečené metody ověřování zákazníků pro transakce předplatných zákazníka v programu CSP. V rámci tohoto úsilí jsme zavedli vylepšení rozhraní API partnerského centra a uživatelského rozhraní, která budou mít vliv na partnery, kteří splňují všechna následující kritéria: 
+
+- Partner má přímý fakturační vztah s Microsoftem (jako je například přímý fakturační partner nebo nepřímý poskytovatel); ani
+
+- Partner pracuje s novými nebo stávajícími zákazníky v následujících zemích: Arménská (AM), Ázerbájdžán (AZ), Bělorusko (BY), Maďarsko (HU), Kazachstán (KZ), Kyrgyzstán (KG), Moldávie (MD), Rusko (RU), Tádžikistán (TJ), Uzbekistánu (UZ), Ruskem (UA), Tádžikistán (), Uzbekistán () a Ukrajina 
+
+Pro tyto partnery se zákazníkem v těchto zemích bude mít partner nyní k odeslání **platného identifikátoru** zákazníka (označovaného také jako **DIČ organizace** zákazníka) a **telefonní číslo** zákazníka, když se partner příště pokusí aktualizovat nebo vytvořit předplatné pro daného zákazníka. Tito partneři se teď můžou také rozhodnout, že budou taky zadávat volitelné a **střední jméno** zákazníka.
+
+### <a name="partner-center-enhancements"></a>Vylepšení partnerského centra
+
+- Vylepšení uživatelského rozhraní partnerského centra pro vylepšení ověřování zákazníků v konkrétních zemích
+
+- Nová rozhraní API pro podporu vylepšeného ověřování zákazníků v konkrétních zemích
+
+**Změny na stránce uživatelského rozhraní partnerského centra – účet zákazníka**
+
+Stránka účet zákazníka partnerského centra se aktualizovala takto:
+
+1. **Inn organizace** (označuje se také jako právní identifikátor). Toto pole je nyní vyžadováno pro zákazníky v konkrétních zemích. 
+
+   > [!NOTE]
+   > Data se musí zadávat jenom v alfanumerických znacích, bez jakýchkoli spojovníků, speciálních znaků nebo mezer. Partneři budou muset spolupracovat s kontaktními zákazníky v těchto zemích, aby potvrdili stav právního identifikátoru zákazníka, jako jsou daňové identifikační číslo nebo DIČ. Další informace o konkrétních zemích najdete v následující tabulce.  
+
+2. **Prostřední jméno.** Toto pole je pro všechny zákazníky volitelné. Pokud znáte prostřední jméno zákazníka nebo počátečního, partner ho může zadat tady.
+
+3. **Telefonní číslo.** Toto pole bylo dříve volitelné, ale je nyní vyžadováno pro zákazníky v konkrétních zemích.  
+
+Níže jsou uvedené požadavky na pole INN (právní identifikátor) (platný identifikátor) **organizace** specifické pro danou zemi.
+
+| Země | A14-Area | ISO – kód země | Požadavky na znaky pole | Název pole pro konkrétní zemi v nativním jazyce | Překlad nebo komentáře v angličtině |
+|---------|----------|------------------|------------------------|--------------------|--------------------------------------|
+| Arménie | EHS      | AM               | číslice 8 nebo 10         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/číslo veřejné služby                     |
+| Ázerbájdžán| EHS      | AZ               | 7 nebo 10 číslic         | :::no-loc text="ИНН/VOEN/ПИК"::: | DIČ/INN/PIC              |
+| Bělorusko | EHS      | BY               | 9 číslic         | :::no-loc text="УНП"::: | UNP (to znamená daňové ID)                    |
+| Maďarsko | EHS      | HU               | číslice 10 nebo 11         | :::no-loc text="TIN"::: | DIČ (daňové ID)                     |
+| Kazachstán | EHS      | KZ              | 12 číslic         | :::no-loc text="БИН/ИИН"::: | PŘIHRÁDKA/PROFILACE                     |
+| Kyrgyzstán | EHS      | KG               | 14 číslic         | :::no-loc text="ИНН"::: | UNN/číslo veřejné služby                     |
+| Moldavsko  | EHS        | MD               | číslice 6, 7, 8 nebo 13         | :::no-loc text="IDNO/IDNP"::: | Jedinečné identifikační číslo stavu (IDNO) přiřazené k právní entitě se považuje také za fiskální kód. \"Stavový registr právních jednotek, které se týkají společností zaregistrovaných v republice Moldávie zveřejněné ministerstvem informačních a komunikačních technologií na vládním portálu Open data data.gov.md.\"                    |
+| Rusko | EHS      | RU               | 9, 10 nebo 12 číslic         | :::no-loc text="ИНН"::: | DIČ                     |
+| Tádžikistán | EHS      | TJ               | 9, 10 nebo 12 číslic     | :::no-loc text="ИНН/ЕИН/КПП"::: | DIČ/EIN/KPP                     |
+| Uzbekistán | EHS     | UZ               | 9 číslic                 | :::no-loc text="INN":::         | DIČ                               |
+| Ukrajina   | EHS      | UA               | 8, 10 nebo 12 číslic      | :::no-loc text="EGRPOU/EDRPOU":::        | Identifikační kód právnické osoby                             | 
+
+**Změny rozhraní API partnerského centra**
+
+V rozhraní API partnerského centra budou provedeny následující změny kontraktu. Tyto změny jsou omezené na partnery, kteří spravují účty zákazníků v zemích uvedených výše.
+
+> [!NOTE]
+> Pokud jste partner s použitím striktní interpretace odpovědi JSON z partnerského centra, může to mít vliv na tyto změny, pokud aktualizace nejsou dokončené na konci. JSON není doporučená integrace s rozhraními API partnerského centra.
+
+| Aktualizace prostředků REST | Dokumentace k souvisejícímu partnerskému centru |
+|---------------------------|-----------------------|
+| Nové povinné pole: organizationRegistrationNumber | - [Vytvoření zákazníka](/partner-center/develop/create-a-customer#company-profile)<br/>- [Vytvoření zákazníka pro nepřímý prodejce](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [Zdroje informací o zákaznících](/partner-center/develop/customer-resources#customercompanyprofile) |
+| Požadované aktualizované pole je nyní vyžadováno: PhoneNumber<br/>Volitelné pole: MiddleName | - [Prostředky nástrojů](/partner-center/develop/utility-resources#address) |
+| Nové kódy chyb REST důvodu chybného požadavku: 600002, 600049, 600050, 600051 | - [Kódy chyb REST partnerského centra](/partner-center/develop/error-codes#error-codes) |
+
+*Navrhovaný externí kontrakt pro zákazníky:*
+
+```
+public class CustomerCompanyProfile : ResourceBaseWithLinks
+{
+               public string TenantId { get; set; }
+               public string Domain { get; set; }
+               public string CompanyName { get; set; }
+               public Address Address { get; set; }
+               public string Email { get; set; }
+ 
+                // Newly added fields
+               public string OrganizationRegistrationNumber { get; set; }
+}
+ 
+public class Address
+{
+                public string Id { get; set; }
+                public string Country { get; set; }
+                public string Region { get; set; }
+                public string City { get; set; }
+                public string PostalCode { get; set; }
+                public string AddressLine1 { get; set; }
+                public string AddressLine2 { get; set; }
+                public string AddressLine3 { get; set; }
+                public string FirstName { get; set; }
+                public string LastName { get; set; }
+                public string PhoneNumber { get; set; }
+                public string EmailAddress { get; set; }
+ 
+                // Newly added fields
+                public string MiddleName { get; set; }
+}
+```
+
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Změna fakturační měny partnerů v EU/ESVO pro nové nabídky obchodu  
 
 ### <a name="categories"></a>Kategorie
@@ -146,8 +268,15 @@ Projděte si [pokyny k omezování rozhraní API](https://docs.microsoft.com/par
 - Požadujeme, aby se partneři dostali na nás, abychom vám mohli považovat test přidáním jejich klientů do letu se změnami tak, aby se zajistilo, že jejich aktualizace řešení funguje podle očekávání.
 
 
+### <a name="next-steps-for-partners"></a>Další kroky pro partnery
 
-## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>K dispozici testování: aktualizace rozhraní API partnerského centra a vylepšení uživatelského rozhraní pro proces ověření zákazníka pro vzdělávání
+- Zkontrolujte tyto nové uživatelské rozhraní a změny rozhraní API partnerského centra. Když se pokusíte vytvořit předplatné zákazníka nebo aktualizovat stávající předplatné pro zákazníka v některé z těchto zemí, zkontrolujte informace o účtu zákazníka a ujistěte se, že jste přidali data do dvou nových, vyžadovaných polí pro zákazníka: DIČ (právní identifikátor) a telefonní číslo. Tyto informace můžete aktualizovat prostřednictvím [řídicího panelu](https://partner.microsoft.com/dashboard) partnerského centra nebo přes [rozhraní API](/partner-center/develop/create-a-customer#company-profile)partnerského centra.
+
+- Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci, abyste se mohli připravit na tyto změny.
+
+
+
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testování k dispozici: vylepšení rozhraní API partnerského centra a uživatelského rozhraní (UI) pro proces ověření zákazníka pro vzdělávání
 
 ### <a name="categories"></a>Kategorie
 
