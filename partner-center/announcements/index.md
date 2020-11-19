@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488121"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691312"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,9 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z listopadu 2020** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Možnosti|[EU/ESVO: Změna měny fakturace partnerských služeb pro nové komerční nabídky](2020-november.md#10)|17. listopadu|
+|Možnosti|[Omezování rozhraní API pro rozhraní API Partnerského centra](2020-november.md#9)|17. listopadu|
+|Možnosti|[Chyby 409 kvůli duplicitním požadavkům MCA](2020-november.md#8)|16. listopadu|
 |Možnosti|[Testování k dispozici: Aktualizace rozhraní API Partnerského centra a vylepšení uživatelského rozhraní pro proces ověřování zákazníků v oblasti vzdělávání](2020-november.md#7)|10. listopadu|
 |Možnosti|[Rozšiřujeme partnerský obsah ke komerčnímu licencování v galerii provozní připravenosti](2020-november.md#6)|2\. listopadu|
 |Nabídky/trhy|[Spuštění skladové položky Premium pro Místnosti v Microsoft Teams](2020-november.md#5)|2\. listopadu|
