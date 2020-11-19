@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
-ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
+ms.openlocfilehash: 4524514177c636fbb2b613ed50323fd8f586c56d
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 11/19/2020
-ms.locfileid: "94885590"
+ms.locfileid: "94932816"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -23,6 +23,43 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 2020 oznámení: [duben](2020-april.md)v  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenci, červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md)  |  [October](2020-October.md) | Listopadu
 
 ______________
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nové a jednotné prostředí pro správu účtů
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-11-18
+- Možnosti
+
+## <a name="summary"></a>Shrnutí
+
+Od 18. listopadu bude partnerské Centrum začínat nové prostředí pro správu účtů, které bude zlepšit uživatelské prostředí pro partnery. Partneři teď budou moct spravovat svůj účet pro všechny programy z nastavení – > nastavení účtu.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všichni partneři
+
+### <a name="details"></a>Podrobnosti
+
+Klíčovou změnou správy účtů je integrace dříve oddělených zobrazení **Nastavení partnerů** pro partnery zaregistrované v komerčních programech (Microsoft Partner Network, poskytovatel cloudových řešení, referenčních seznamů atd.) a zobrazení **nastavení pro vývojáře** pro partnery zaregistrované v vývojářských aplikacích (komerční tržiště, Windows & Xbox atd.) do zobrazení sjednoceného **Nastavení účtu** .
+
+### <a name="entry-point"></a>Vstupní bod
+
+Přihlaste se k řídicímu panelu partnerského centra a potom vyberte ikonu  **Nastavení**   a klikněte na **Nastavení účtu**. Už si nemusíte volit mezi partnerem a vývojářem, protože se teď Zkombinují všechny profily a nastavení.
+
+### <a name="left-navigation-hierarchy"></a>Levá navigační hierarchie
+
+- Profil organizace
+   - Zákonně Spravujte svůj oficiální obchodní profil, profil partnera a firemní umístění.
+   - Klienti – tady se sledují všechny vaše informace o klientech Azure AD, komerčních a vývojářích.
+   - Identifikátory – identity partnerského centra pro vaši společnost – vaše MPNID, publisherId atd.
+- Správa uživatelů – Spravujte uživatele a přiřaďte jim komerční a vývojářské role z jednoho místa. Skupiny a aplikace Azure AD můžete spravovat také tady.
+
+### <a name="next-steps"></a>Další kroky
+
+Tyto informace si nasdílejte u všech odpovídajících kontaktů ve vaší společnosti.
+
+
+
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 pro propagační akce v polovině trhu (LATAM, APAC a Indie)
 
@@ -303,6 +340,7 @@ Projděte si [pokyny k omezování rozhraní API](https://docs.microsoft.com/par
 - Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci, abyste se mohli připravit na tyto změny.
 
 
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testování k dispozici: vylepšení rozhraní API partnerského centra a uživatelského rozhraní (UI) pro proces ověření zákazníka pro vzdělávání
 
@@ -611,7 +649,7 @@ Tyto propagační akce mají vliv na tyto zákazníky:
 - Klienti s čistým novým zákazníkem
 - Stávající vzdálení klienti, kteří nemají aktivní nebo nedávno zrušené předplatné (během posledních 30 dnů), mají licenci na podnikovou nebo bezplatnou licenci na CSP, web Direct nebo jiný komerční kanál Microsoftu.
 
-#### <a name="additional-resources"></a>Další zdroje informací
+#### <a name="additional-resources"></a>Další zdroje
 
 - Další informace o obchodním hlasu najdete na [stránce Microsoft 365 Business hlasového partnera](https://www.microsoft.com/microsoft-365/partners/businessvoice) . 
 - Přečtěte si další informace o této propagačních DOTAZech v souvisejícím [partnerovi](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).

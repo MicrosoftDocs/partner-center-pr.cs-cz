@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
-ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
+ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "92527856"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932836"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Správa výhod a nabídek členství v Microsoft Partner Network v partnerském centru
 
@@ -43,7 +43,7 @@ Po zakoupení balíčku zvýhodněného členství budete muset získat softwaro
 
 Balíčky s výhodami zahrnují přidělení licencovaného softwaru, cloudových služeb, předplatných sady Visual Studio a technickou podporu. Balíčky s výhodami můžou zahrnovat i některé prostředky pro uvedení na trh, nabídky a programy související s trhem. Podrobnosti o předplatném sady Action Pack můžete získat na [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) lokalitě.  
 
-Pokud chcete zobrazit a spravovat všechny výhody svého členství, navštivte stránku s [ **výhodami**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (vyžaduje se přihlášení). Alternativně se můžete přihlásit na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra, v nabídce vlevo vybrat **možnost [výhody** ] a pak vybrat možnosti, které se zobrazí.  
+Pokud chcete zobrazit a spravovat všechny výhody svého členství, navštivte stránku s [ **výhodami**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (vyžaduje se přihlášení). Alternativně se můžete přihlásit na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra, v nabídce vlevo vybrat **možnost [výhody**] a pak vybrat možnosti, které se zobrazí.  
 
 Aby bylo možné aktivovat většinu výhod nebo stahovat související softwarové klíče atd., Partnerská centra obvykle vyžaduje, aby byla přiřazena role správce partnerů pro globálního správce nebo MPN. Pokud nevidíte žádné výhody nebo nemůžete aktivovat výhody, obraťte se na globálního správce partnerského centra, abyste měli jistotu, že máte správná oprávnění. [Přečtěte si další informace o rolích partnerského centra](permissions-overview.md).
 
@@ -63,15 +63,34 @@ Aby bylo možné aktivovat většinu výhod nebo stahovat související softwaro
 
    d. Použijte odkazy ke stažení a instalaci instalačních balíčků softwaru.
 
-## <a name="manage-cloud-services-benefits"></a>Správa výhod cloudových služeb
+## <a name="azure-and-cloud-products"></a>Produkty Azure a Cloud
 
-1. Pokud chcete zobrazit seznam předplatných cloudových služeb, vyberte **Cloud** .
+Karta **cloudové produkty Azure &** zobrazuje předplatné založené na využití (kredit Azure) a odběry založené na licencích (například Office 365), které jsou zřízené pro vás, typ nabídky, na kterou se vám zvýhodněný produkt podílí, typ výhody (ať už pochází ze základního nebo přírůstkového) a datum vypršení platnosti této výhody.
 
-2. Vyhledejte předplatné nebo produkt, které chcete začít používat, a potom výběrem šipky dolů na pravé straně řádku rozbalte podrobnosti o předplatném nebo produktu.
+:::image type="content" source="images/benefits/azuretab.png" alt-text="Karta produkty Azure a cloudu":::
 
-3. Pokud chcete aktivovat Microsoft Azure předplatná na základě využití, přiřaďte se jako uživatel. Pro správu předplatného použijte portál Microsoft Azure.
+### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>Předplatná založená na využití – Microsoft Azure kredit
 
-   Chcete-li aktivovat odběry založené na licencích, vyberte **získat klíče** pro zkopírování licenčních klíčů produktu a pak postupujte podle jakýchkoli zvláštních pokynů k aktivaci předplatného.  
+Existují dva typy předplatných založených na využití, které byste mohli obdržet, v závislosti na typu nabídky, kterou máte aktivní jako partner MPN – MAPS, stříbrné a/nebo Gold – měsíční kredit nebo hromadný kredit.
+
+Můžete zřídit pomocí:
+
+- 100 USD za měsíc (nebo ekvivalent v místní měně) měsíční kredit Azure nebo/a
+- $6000, $12000 nebo/a $13000/Year (nebo každý z nich ekvivalentní v místní měně) Azure – hromadný kredit
+
+Pokud chcete aktivovat předplatné Microsoft Azure v partnerském centru, přiřaďte přístup k uživateli v rámci společnosti (včetně uživatelů typu Host), který má v Azure Active Directory vytvořenou položku uživatele.
+V rámci měsíčního kreditu Azure za měsíc (nebo ekvivalent v místní měně) můžete kdykoli přidat nebo odebrat uživatele z tohoto předplatného. 
+
+V případě kreditu Azure v rámci hromadného (ročního) není možnost odebrat dostupná v partnerském centru, ale tento hromadný kredit můžete přenést na někoho jiného během registračního roku. Předplatné Azure v rámci hromadného (ročního) kreditu se nedá kombinovat s jinými nabídkami licencování, předplatnými nebo kredity (tj. Microsoft smlouva Enterprise, Cloud Solution partner, Systém Azure v rámci licenčního programu Open, Azure Pass, Action Pack atd.).
+
+## <a name="license-based-subscriptions"></a>Odběry na základě licencí
+
+V části odběry na základě licencí na kartě cloudové produkty Azure & najdete všechny cloudové produkty, které pro aktivaci vyžadují kód Product Key, jako je Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI atd., které vám budou nabídnuty v závislosti na typu nabídky, kterou jste aktivní jako partner MPN – MAPS, stříbrné nebo zlaté.
+
+Pokud chcete aktivovat odběry založené na licencích, klikněte na symbol rozevíracího seznamu v souladu s produktem a přečtěte si pokyny, jak klíče uplatnit. Po přečtení pokynů vyberte odkaz, který vás přesměruje na portál, aby vybral klíče a také přiřazený klíč pro váš produkt.
+
+>[!IMPORTANT]
+>Počítejte s tím, že po uplatnění klíče se nedá stejný klíč znovu považovat za druhý, takže se ujistěte, že jste nejasní, jestli potřebujete přidat další licence (křesla) nebo rozšíříte koncové datum. Pokud se rozhodnete přidat další licence a ne koncové datum, systém vám poskytne za méně než 12 měsíců aktivní předplatné. Ujistěte se, že jste se přihlásili se správnými přihlašovacími údaji pro aktivaci klíčů ve správném tenantovi.
 
 ## <a name="manage-visual-studio-subscriptions"></a>Spravovat předplatná sady Visual Studio
 
@@ -79,10 +98,10 @@ Aby bylo možné aktivovat většinu výhod nebo stahovat související softwaro
 
 2. Najděte předplatné, které chcete začít používat, a potom výběrem šipky dolů v pravém rohu řádku rozbalte podrobnosti o předplatném.
 
-3. Pokud chcete aktivovat předplatné sady Visual Studio, vyberte uživatele ze seznamu a pak vyberte **přiřadit uživatele** .
+3. Pokud chcete aktivovat předplatné sady Visual Studio, vyberte uživatele ze seznamu a pak vyberte **přiřadit uživatele**.
 
    > [!IMPORTANT]  
-   > Pokud se uživatel, kterého chcete přiřadit, nenachází v seznamu, můžete [Přidat nové uživatele](create-user-accounts-and-set-permissions.md) v **Nastavení účtu** .
+   > Pokud se uživatel, kterého chcete přiřadit, nenachází v seznamu, můžete [Přidat nové uživatele](create-user-accounts-and-set-permissions.md) v **Nastavení účtu**.
 
 4. Tento postup opakujte u každého předplatného, které chcete přiřadit. Uživatelé mohou spravovat své odběry na portálu sady Visual Studio.
 
@@ -103,7 +122,7 @@ Pokud chcete zobrazit technické výhody v partnerském centru, udělejte toto:
 
 3. Rozbalte seznam výhod. Pokud chcete začít používat konkrétní výhodu podpory, musíte při prvním použití provést následující akce:
 
-   - **Aktivujte si technický přínos.** Až rozšíříte podrobnosti o výhodách, vyberte **aktivovat** . Počkejte několik dní na zpracování vaší žádosti o aktivaci.
+   - **Aktivujte si technický přínos.** Až rozšíříte podrobnosti o výhodách, vyberte **aktivovat**. Počkejte několik dní na zpracování vaší žádosti o aktivaci.
 
    - **Umožňuje zobrazit a sdílet ID přístupu a ID smlouvy pro produkt.** Po zpracování žádosti o aktivaci se při příštím rozšiřování tohoto technického přínosu zobrazí podrobnosti o **ID** a **ID smlouvy** . Při prvním odeslání žádosti o podporu pro určité typy produktů nebo služeb může být nutné, abyste vy nebo vaši uživatelé společnosti nasdíleli tyto informace.
 
@@ -113,7 +132,7 @@ Pokud chcete zobrazit technické výhody v partnerském centru, udělejte toto:
 
    **Technická podpora (přerušit opravu).** Tento typ technické podpory použijte v případě, že je funkce poškozená nebo když něco nefunguje podle očekávání (například při obdržení chybové zprávy). Tady jsou některé doprovodné materiály:
 
-   - Pro partnery Gold/stříbrného kompetence (není k dispozici pro předplatitele akčního balíčku) použijte **podpisovou podporu produktu** pro **cloudové produkty** .
+   - Pro partnery Gold/stříbrného kompetence (není k dispozici pro předplatitele akčního balíčku) použijte **podpisovou podporu produktu** pro **cloudové produkty**.
 
    - Pro partnery sady Action Pack a Gold/stříbrné kompetence použijte incidenty **podpory produktů společnosti Microsoft** pro **nedávné místní produkty** (pouze aktuální a předchozí verze).
 
@@ -137,22 +156,22 @@ Pokud chcete zobrazit technické výhody v partnerském centru, udělejte toto:
 
 2. Pokud chcete aktivovat jakoukoli nabídku nebo program pro uvedení na trh, musíte nejdřív přiřadit marketingový kontakt společnosti. Tento kontakt vám pošle následnou komunikaci o aktivních nabídkách pro uvedení na trh.
 
-3. Pokud chcete přidat nebo aktualizovat svoje marketingové kontaktní údaje, přejděte na stránku přejít na trh a pak vyberte **Přidat** , **aktualizovat** nebo **změnit** . Nyní proveďte následující kroky:  
+3. Pokud chcete přidat nebo aktualizovat svoje marketingové kontaktní údaje, přejděte na stránku přejít na trh a pak vyberte **Přidat**, **aktualizovat** nebo **změnit**. Nyní proveďte následující kroky:  
 
-   a. Vyberte uživatele ze seznamu. Pokud se uživatel, kterého chcete přiřadit, nenachází v seznamu, můžete [Přidat nové uživatele](create-user-accounts-and-set-permissions.md) v **Nastavení účtu** .
+   a. Vyberte uživatele ze seznamu. Pokud se uživatel, kterého chcete přiřadit, nenachází v seznamu, můžete [Přidat nové uživatele](create-user-accounts-and-set-permissions.md) v **Nastavení účtu**.
 
    b. Zadejte e-mailovou adresu uživatele, která se liší od e-mailové adresy přidružené k účtu partnerského centra vaší společnosti.
 
       E-mailem vám pošleme pokyny k používání nabídky pro uvedení na trh na vaši e-mailovou adresu vašeho marketingového kontaktu.
 
-   c.  Zadejte kontaktní telefon a upřednostňovaný jazyk této kontaktní osoby pro marketing. Po zadání těchto informací vyberte **Přiřadit uživatele** .
+   c.  Zadejte kontaktní telefon a upřednostňovaný jazyk této kontaktní osoby pro marketing. Po zadání těchto informací vyberte **Přiřadit uživatele**.
 
-4. Po aktualizaci marketingového kontaktu Vyhledejte nabídku pro uvedení na trh, kterou chcete začít používat, a pak výběrem šipky dolů na pravé straně řádku rozbalte podrobnosti nabídky. V seznamu se zobrazí každý typ nabídky, který je k dispozici pod názvem výhody (například, **stříbrné jádro** , **Gold Core** nebo ISV, který je **připravený pro prodej** ).
+4. Po aktualizaci marketingového kontaktu Vyhledejte nabídku pro uvedení na trh, kterou chcete začít používat, a pak výběrem šipky dolů na pravé straně řádku rozbalte podrobnosti nabídky. V seznamu se zobrazí každý typ nabídky, který je k dispozici pod názvem výhody (například, **stříbrné jádro**, **Gold Core** nebo ISV, který je **připravený pro prodej**).
 
 5. Výběrem **aktivovat** aktivujete nabídku.
 
    > [!NOTE]
-   >E-mailové pokyny pro přiřazený marketingový kontakt a aktivaci nabídky pro uvedení na trh můžou trvat několik dní. Jakmile je nabídka aktivovaná, zobrazí se na stránce pro uvedení na trh změny. Ve sloupci **stav** se zobrazí nabídka změnit na **aktivní** . Do sloupce **vypršení platnosti** se zobrazí datum vypršení platnosti nabídky. Tuto nabídku můžete použít do data vypršení platnosti. Přečtěte si další informace o [různých typech prostředků uvedení na trh, nabídek a dostupných programech](mpn-learn-about-go-to-market-benefits.md) .  
+   >E-mailové pokyny pro přiřazený marketingový kontakt a aktivaci nabídky pro uvedení na trh můžou trvat několik dní. Jakmile je nabídka aktivovaná, zobrazí se na stránce pro uvedení na trh změny. Ve sloupci **stav** se zobrazí nabídka změnit na **aktivní**. Do sloupce **vypršení platnosti** se zobrazí datum vypršení platnosti nabídky. Tuto nabídku můžete použít do data vypršení platnosti. Přečtěte si další informace o [různých typech prostředků uvedení na trh, nabídek a dostupných programech](mpn-learn-about-go-to-market-benefits.md) .  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Zrušení zvýhodněné nebo nabídky členství
 
