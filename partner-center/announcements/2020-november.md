@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 1e6002354323d2c528cbf32271144bbf61d40ac8
-ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
+ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94845335"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94885590"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -22,6 +22,34 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 
 2020 oznámení: [duben](2020-april.md)v  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenci, červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md)  |  [October](2020-October.md) | Listopadu
 
+______________
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 pro propagační akce v polovině trhu (LATAM, APAC a Indie)
+
+### <a name="categories"></a>Kategorie
+- Datum 2020-11-18
+- Nabídky/trhy
+
+### <a name="summary"></a>Shrnutí
+Zavádíme novou propagační službu Office 365 E1 pro střední trh, která je omezená na nově vznikající trhy LATAM, Indie a APAC (s výjimkou vyvinutých trhů v APAC).
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+Všichni partneři procházejí prostřednictvím programu Cloud Solution Provider (CSP) na zúčastněných trzích uvedených výše.
+
+### <a name="details"></a>Podrobnosti
+Propagační akce se skládá z 30% slevy na Office 365 E1 pro CSP. Spustí se 1. prosince 2020 a bude k dispozici po dobu 6 měsíců až do 31. května 2020. Tato propagační akce je k dispozici pouze pro zákazníky, kteří jsou noví v cloudu MW a mají až 500 míst. Upozorňujeme, že toto je omezené na nově vznikající trhy LATAM, Indie a APAC, aby bylo možné přejít do cloudu. 
+
+#### <a name="offer-details"></a>Podrobnosti nabídky
+
+   |**Název nabídky**|**ID nabídky**|
+   |-------------------|:------|
+   |Office 365 E1 pro střední-trh – propagační akce|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>Další kroky
+Tato akce bude k dispozici od 1. prosince do té doby, tyto informace prosím sdílejte s příslušnými kontakty v rámci vaší organizace (v zúčastněných oblastech). Začněte s zákazníky, kteří ještě nejsou v cloudu, v zúčastněných oblastech. 
+
+### <a name="questions"></a>Máte otázky?
+Kontaktujte prosím [podporu partnerského centra](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) pro všechny dotazy, dotazy nebo další informace.
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Vylepšení rozhraní API partnerského centra a rozšíření uživatelského rozhraní (UI) pro posílení prověrky zákazníků v určitých zemích
@@ -185,7 +213,7 @@ Mezi nové nabídky pro obchod v oboru pro tuto změnu patří: předplatná Azu
 
 - Pro partnery, kteří ještě nepřijali nové nabídky obchodu, se tato změna zarovnává s předchozím modelem fakturace partnerů, takže partneři můžou snadněji přejít na nové prostředí pro obchod v rámci CSP. 
 
-### <a name="resources"></a>Zdroje informací 
+### <a name="resources"></a>Zdroje a prostředky 
 
 Projděte si informace o tomto tématu v [galerii operací] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ na webu Microsoft Partner.  
 
