@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/10/2020
-ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.date: 11/19/2020
+ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691312"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932765"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,9 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z listopadu 2020** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Možnosti|[Nové jednotné prostředí pro správu účtů](2020-november.md#13)|18. listopadu|
+|Nabídky/trhy|[Propagační akce Office 365 E1 pro středně velké firmy (LATAM, APAC a Indie)](2020-november.md#12)|18. listopadu|
+|Možnosti|[Aktualizace rozhraní API Partnerského centra a vylepšení uživatelského rozhraní pro posílení screeningu zákazníků v konkrétních zemích](2020-november.md#11)|17. listopadu|
 |Možnosti|[EU/ESVO: Změna měny fakturace partnerských služeb pro nové komerční nabídky](2020-november.md#10)|17. listopadu|
 |Možnosti|[Omezování rozhraní API pro rozhraní API Partnerského centra](2020-november.md#9)|17. listopadu|
 |Možnosti|[Chyby 409 kvůli duplicitním požadavkům MCA](2020-november.md#8)|16. listopadu|
