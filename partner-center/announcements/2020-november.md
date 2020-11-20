@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 4524514177c636fbb2b613ed50323fd8f586c56d
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 2b089a666fdb312d49f26be0f9a47da8daad2715
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932816"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947694"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -51,7 +51,7 @@ Přihlaste se k řídicímu panelu partnerského centra a potom vyberte ikonu �
 - Profil organizace
    - Zákonně Spravujte svůj oficiální obchodní profil, profil partnera a firemní umístění.
    - Klienti – tady se sledují všechny vaše informace o klientech Azure AD, komerčních a vývojářích.
-   - Identifikátory – identity partnerského centra pro vaši společnost – vaše MPNID, publisherId atd.
+   - Identifikátory – identity partnerského centra pro vaši společnost – MPNIDs, publisherIds atd.
 - Správa uživatelů – Spravujte uživatele a přiřaďte jim komerční a vývojářské role z jednoho místa. Skupiny a aplikace Azure AD můžete spravovat také tady.
 
 ### <a name="next-steps"></a>Další kroky

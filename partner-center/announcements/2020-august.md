@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92527708"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947677"
 ---
 # <a name="august-2020-announcements"></a>Oznámení ze srpna 2020
 
@@ -35,7 +35,7 @@ ________________
 
 Partneři prodávající akademické nabídky prostřednictvím programu Cloud Solution Provider (CSP) 
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Microsoft běží na trustu a jsme se zavázali zajistit, aby se pro transakce akademických nabídek v programu Cloud Solution Provider zajistila vyhovující, bezpečná a zabezpečená metoda ověřování zákazníků. V rámci tohoto závazku zavádíme vylepšení rozhraní API partnerského centra a uživatelského rozhraní ve čtvrtletích dvou z tohoto fiskálního roku (FY21 Q2), které doplní přehlednost a přehlednost do procesu dozvíte ČSFD zákazníka a také možnost zadávání přesnější dat, která budou zvýšit úspěšnost zákazníka dozvíte ČSFD. 
 
@@ -68,7 +68,7 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-08-14
-- Nabídky a trhy
+- Nabídky/trhy
 
 ### <a name="details"></a>Podrobnosti
 
@@ -87,9 +87,9 @@ ________________
 
 Přímé partnery a nepřímá poskytovatelé, kteří se účastní programu CSP, kteří používají sadu SDK pro partnerských Center. 
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
-Od 21. července 2020 mohou partneři začít stahovat verzi sady **.NET Standard SDK Microsoft Partner Center** .NET SDK v 1.16.1 spolu s aktualizovanými ukázkami nástroje Public **partner Center SDK GitHub** .
+Od 21. července 2020 mohou partneři začít stahovat verzi sady **.NET Standard SDK Microsoft Partner Center** .NET SDK v 1.16.1 spolu s aktualizovanými ukázkami nástroje Public **partner Center SDK GitHub**.
 
 ### <a name="details"></a>Podrobnosti
 
@@ -138,7 +138,7 @@ Vaše služby budete moct nabízet jednotlivcům a týmům, aniž byste museli p
 
 Přečtěte si další informace o příležitostech partnerů pomocí řešení pro aplikace Visio a Power Platform v rámci [opětovného sestavování a](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)reinspirovat relace Microsoft Visia a Power Platform. Další informace najdete v [příručce pro správce samoobslužných služeb](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
 
-#### <a name="additional-resources"></a>Další materiály
+#### <a name="additional-resources"></a>Další zdroje
 
 - Projděte si všechny prostředky připravenosti v galerii prostředků připravenosti na provoz: [možnosti nákupu samoobslužných](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)uživatelů.
 - Zákazníci si můžou vyzkoušet před nákupem s zkušebními verzemi aplikace Visio a projektu, k dispozici nyní pro [aplikace Visio Plan 1 a plán 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)pro Visio Plan 2 a [Project Plan 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
@@ -149,9 +149,9 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-08-04
-- Nabídky a trhy
+- Nabídky/trhy
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Nové položky Advanced Communications Add-on pro Microsoft Teams byly dostupné od 1. srpna 2020.
 
@@ -167,8 +167,6 @@ Nový doplněk pro pokročilou komunikaci pro Microsoft Teams je teď k dispozic
 
 Vydaná při spuštění
 - Omezení živé události na 20 KB účastníků (50 souběžných, 16 hodin)
-- Integrace záznamu kompatibility (ISV) 
-- Informující o službě kontakt Center Solution Integration (ISV) 
 
 Vydaná později v CY2020
 - 1 000 – schůzky interaktivních týmů pro osobu 
@@ -203,7 +201,7 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-08-04
-- Nabídky a trhy
+- Nabídky/trhy
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
@@ -229,13 +227,13 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-08-03
-- Nabídky a trhy
+- Nabídky/trhy
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
 Partneři s podporou řešení Microsoft Dynamics 365
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Od 1. srpna 2020 společnost Microsoft vydala novou nabídku sady Dynamics 365 Sales Premium pro komerční zákazníky ve všech programech a zemích a oblastech.
 
@@ -245,7 +243,7 @@ Od 1. srpna 2020 společnost Microsoft vydala novou nabídku sady Dynamics 365 S
 
 Podrobnosti o těchto nabídkách najdete v [dokumentu aplikace Dynamics CSP Offers-August 2020](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/) . 
 
-#### <a name="additional-resources"></a>Další materiály
+#### <a name="additional-resources"></a>Další zdroje
 
 - [Ochrana proti podvodům v Microsoft Dynamics 365](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/)
 - [Licence k Microsoft Dynamics 365](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/)
@@ -261,13 +259,13 @@ ________________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-08-03
-- Nabídky a trhy
+- Nabídky/trhy
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
 Všichni partneři účastnící se programu Cloud Solution Provider (CSP)
 
-### <a name="summary"></a>Souhrn
+### <a name="summary"></a>Shrnutí
 
 Společnost Microsoft zavádí zkušební nabídky pro aplikace Visio Plan 1 a Plan 2 od 1. srpna 2020. 
 

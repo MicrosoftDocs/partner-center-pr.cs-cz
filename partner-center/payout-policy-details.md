@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531983"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947660"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Podrobnosti o plánech a zásadách pro výběr
 
@@ -32,9 +32,9 @@ K určitému typu často dojde předtím, než Microsoft shromáždí platbu od 
 | --- | --- | --- | --- |
 | Využití nebo měsíc transakce | Zákazník používá nebo kupuje službu. | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 1** |
 | Objednávka nákupu se vytvoří. | Určení celkového využití, transakcí celkem | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 2** |
-| Vytvoří se vydaný výběr ISV. | Určení poplatků za platební instituce a jejich výběr | Označení jako nezpracované v historii transakce v příkazu výběr | **Měsíc 3 (1. týden)** |
-| Připravit výběr | Tržby se připravují na měsíční platby. | Označeno jako nadcházející v historii transakce v příkazu výběr | **Měsíc 3 (1. týden)** |
-| **Datum vyvýběru** | **Platba se posílá vydavateli.** | **Označeno jako odesláno v historii transakce a v části platby příkazu výběr** | **Měsíc 3 (ne později než 15.)** |
+| Vytvoří se vydaný výběr ISV. | Určení poplatků za platební instituce a jejich výběr | Označení jako nezpracované v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 3 (1. týden)** |
+| Připravit výběr | Tržby se připravují na měsíční platby. | Označeno jako nadcházející v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 3 (1. týden)** |
+| **Datum vyvýběru** | **Platba se posílá vydavateli.** | **Označeno jako odesláno v historii transakce a v části platby [příkazu výběr](payout-statement.md)** | **Měsíc 3 (ne později než 15.)** |
 | Faktura placená zákazníkem | Microsoft shromažďuje platbu od zákazníka. | Beze změny | **Měsíc 4 až 12** |
 |
 
@@ -48,10 +48,10 @@ Všechny nákupy pomocí platební karty nebo faktury za měsíc mají za úkol,
 | --- | --- | --- | --- |
 | Využití nebo měsíc transakce | Zákazník používá nebo kupuje službu. | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 1** |
 | Faktura placená zákazníkem | Určení celkového využití, celkové hodnoty transakcí a faktury zákazníka | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 2** |
-| Vytvoří se vydaný výběr ISV. | Určení poplatků za platební instituce a jejich výběr | Označení jako nezpracované v historii transakce v příkazu výběr | **Měsíc 2** |
-| 30denní doba uchovávání | Zajištění shromažďování prostředků, možných vrácení peněz a žádostí o refundaci | Označení jako nezpracované v historii transakce v příkazu výběr | **Měsíc 3** |
-| Připravit výběr | Tržby se připravují na měsíční platby. | Označeno jako nadcházející v historii transakce v příkazu výběr | **První týden v měsíci 4** |
-| **Datum vyvýběru** | **Platba se posílá vydavateli.** | **Označeno jako odesláno v historii transakce a v části platby příkazu výběr** | **Měsíc 4 (ne později než 15.)** |
+| Vytvoří se vydaný výběr ISV. | Určení poplatků za platební instituce a jejich výběr | Označení jako nezpracované v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 2** |
+| 30denní doba uchovávání | Zajištění shromažďování prostředků, možných vrácení peněz a žádostí o refundaci | Označení jako nezpracované v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 3** |
+| Připravit výběr | Tržby se připravují na měsíční platby. | Označeno jako nadcházející v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 4 (1 týden)** |
+| **Datum vyvýběru** | **Platba se posílá vydavateli.** | **Označeno jako odesláno v historii transakce a v části platby [příkazu výběr](payout-statement.md)** | **Měsíc 4 (ne později než 15.)** |
 |
 
 \* Datum vyvýběru je v Tichomoří (běžný čas) (PST).
@@ -97,4 +97,4 @@ Na 15. den tohoto měsíce obvykle posíláme jakékoli platby splatné v daném
 
 ## <a name="next-steps"></a>Další kroky
 
-Přečtěte si o [daňových detailech](tax-details-marketplace.md).
+- [Podrobné informace o daních](tax-details-marketplace.md)

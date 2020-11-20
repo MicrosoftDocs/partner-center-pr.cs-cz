@@ -8,12 +8,12 @@ description: Synchronizujte své odkazy v partnerském centru se službou Salesf
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92527684"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947847"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Konektor pro společný prodej pro Salesforce CRM – přehled
 
@@ -84,19 +84,21 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
 5. V místní obrazovce vyhledejte **konektory odkazů partnerského centra pro Salesforce** .  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Otevřít AppSource":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. Klikněte na tlačítko **získat nyní** a potom **pokračujte** .
+6. Klikněte na tlačítko **získat nyní** a potom **pokračujte**.
 
 7. Otevře se stránka, kde můžete vybrat prostředí Salesforce CRM k instalaci aplikace.  Vyjádřit souhlas s podmínkami a ujednáními.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Otevřít AppSource" pomocí tlačítek se šipkami ve spodní části stránky. **Naplánovaná instalace** by se měla objevit u řešení s odkazy partnerského centra. Instalace bude trvat 10-15 minut.
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Dostupné CRMS":::
+
+8. Pak budete přesměrováni na stránku **spravovat vaše řešení** .  Přejděte na "odkazy na partnerské Centrum" pomocí tlačítek se šipkami ve spodní části stránky. **Naplánovaná instalace** by se měla objevit u řešení s odkazy partnerského centra. Instalace bude trvat 10-15 minut.
 
 9. Po dokončení instalace přejděte zpátky na [Power](https://flow.microsoft.com) automat a vyberte **řešení** z navigační oblasti vlevo. Všimněte si, že v seznamu řešení je k dispozici **synchronizace odkazů partnerského centra pro Salesforce** .
 
-10. Vyberte **synchronizaci odkazů z partnerského centra pro Salesforce** . K dispozici jsou tyto toky a entity automatizace pro napájení:
+10. Vyberte **synchronizaci odkazů z partnerského centra pro Salesforce**. K dispozici jsou tyto toky a entity automatizace pro napájení:
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Otevřít AppSource":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Toky Salesforce":::
 
 
 
@@ -111,9 +113,9 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
     - Správce CRM s Power Automate automatizuje v řešení.
 4. V levém navigačním panelu vyberte **připojení** a v seznamu vyberte řešení partnerského centra pro partnery.
 
-5. Vytvořte připojení kliknutím na **vytvořit připojení** .
+5. Vytvořte připojení kliknutím na **vytvořit připojení**.
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Otevřít AppSource":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Vytvoření připojení":::
 
 - Na panelu hledání v pravém horním rohu vyhledejte odkazy na partnerské Centrum (Preview).
 
@@ -121,21 +123,21 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
 -  Potom vytvořte připojení událostí partnerského centra pro uživatele partnerského centra s přihlašovacími údaji správce odkazů.
 
-- Vytvořte připojení pro Common Data Service (aktuální prostředí) pro uživatele správce CRM.
+- Vytvořte připojení pro Salesforce pro uživatele správce CRM.
 
 -  Po přidání všech připojení byste měli ve svém prostředí zobrazit následující připojení:
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Otevřít AppSource":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Sledovat připojení":::
 
 ### <a name="edit-the-connections"></a>Upravit připojení
 
-1. Vraťte se na stránku řešení a vyberte **výchozí řešení** .  Kliknutím na tlačítko **vše** vyberte **odkaz připojení (Preview)** .
+1. Vraťte se na stránku řešení a vyberte **výchozí řešení**.  Kliknutím na tlačítko **vše** vyberte **odkaz připojení (Preview)** .
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Otevřít AppSource":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Zahájit úpravu konektoru":::
 
 2. Každé připojení jednu po jedné upravte výběrem ikony tři tečky. Přidejte příslušná připojení.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Otevřít AppSource":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Upravit konektory":::
 
 3. Zapněte toky v následujícím pořadí:
 
@@ -155,33 +157,35 @@ Rozhraní API Webhooku partnerského centra vám umožní registrovat se na udá
 
 2. Přidat připojení pro uživatele partnerského centra (a.) s událostmi partnerského centra s přihlašovacími údaji správce (b.), jak je zvýrazněno níže
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Otevřít AppSource":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
 
 3. Po provedení těchto aktualizací se zobrazí
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Otevřít AppSource":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooky":::
 
-4. Uložte změny a vyberte **zapnout** .
+4. Uložte změny a vyberte **zapnout**.
 
    Pokud chcete, aby Webhooky partnerského centra naslouchali změnám událostí, proveďte následující kroky:
 
-5. Vyberte **Partnerské centrum pro SALESFORCE CRM (Insider Preview)** .
+5. Vyberte **Partnerské centrum pro SALESFORCE CRM (Insider Preview)**.
 
-6. Vyberte ikonu **Upravit** a vyberte, **kdy se přijme požadavek HTTP** .
+6. Vyberte ikonu **Upravit** a vyberte, **kdy se přijme požadavek HTTP**.
 
 7. Kliknutím na ikonu **kopírování** zkopírujte zadanou adresu URL post protokolu HTTP.
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Otevřít AppSource" a vyberte **Spustit** .
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Zkopírování adresy URL":::
 
-9. Ujistěte se, že se v pravém podokně otevře okno spustit tok a klikněte na **pokračovat** .
+8. Nyní vyberte možnost "automatické registrace Webhooku partnerského centra (Insider Preview)" a vyberte **Spustit**.
+
+9. Ujistěte se, že se v pravém podokně otevře okno spustit tok a klikněte na **pokračovat**.
 
 10. Zadejte následující podrobnosti:
 
-    1. **Koncový bod triggeru http** : adresa URL zkopírována z předchozího kroku
+    1. **Koncový bod triggeru http**: adresa URL zkopírována z předchozího kroku
 
-    2. **Události k registraci** : odkaz-vytvořeno a odkaz-Aktualizováno
+    2. **Události k registraci**: odkaz-vytvořeno a odkaz-Aktualizováno
 
-    3. **Přepsat existující koncové body triggeru, pokud je k dispozici** : Ano (přepsání všech stávajících koncových bodů)
+    3. **Přepsat existující koncové body triggeru, pokud je k dispozici**: Ano (přepsání všech stávajících koncových bodů)
 
 11. Vyberte **Spustit** a potom vyberte **Hotovo.**
 
@@ -201,13 +205,13 @@ V závislosti na vašich potřebách je možné přizpůsobit více kroků každ
 
    2. Vyberte **Upravit** a upravte nebo Přizpůsobte tok automatizovaného výkonu.
 
-   3. Vyberte **(rozsah) synchronizujte zájemce nebo příležitost** .
+   3. Vyberte **(rozsah) synchronizujte zájemce nebo příležitost**.
 
-2. Pokud chcete přizpůsobit mapování polí CRM pro události vytvoření, vyberte, **jestli je nová sdílená příležitost, a pak** . Vyberte dílčí krok, **Pokud ano** , a pak rozbalte **vytvořit novou příležitost v CRM** . Mapování v této části můžete upravit pomocí Průvodce mapováním polí.
+2. Pokud chcete přizpůsobit mapování polí CRM pro události vytvoření, vyberte, **jestli je nová sdílená příležitost, a pak**. Vyberte dílčí krok, **Pokud ano** , a pak rozbalte **vytvořit novou příležitost v CRM**. Mapování v této části můžete upravit pomocí Průvodce mapováním polí.
 
    1. Pokud chcete přizpůsobit mapování polí CRM pro události aktualizace, klikněte na krok (obor) synchronizovat zájemce nebo příležitost.
 
-   2. Vyberte **, jestli se jedná o aktualizaci příležitosti, a pak** . Vyberte dílčí krok, **Pokud ano** , a pak rozbalte **rozdíl mezi objekty příležitostí v partnerském centru a CRM a pak** .  
+   2. Vyberte **, jestli se jedná o aktualizaci příležitosti, a pak**. Vyberte dílčí krok, **Pokud ano** , a pak rozbalte **rozdíl mezi objekty příležitostí v partnerském centru a CRM a pak**.  
 
    3. Vyberte, **jestli ano** , a pak **aktualizovat existující příležitost** .
 
@@ -215,11 +219,11 @@ V závislosti na vašich potřebách je možné přizpůsobit více kroků každ
 
    1. Vyberte **Upravit**  a upravte nebo Přizpůsobte tok automatizovaného výkonu.
 
-   2. Vyberte **(rozsah) synchronizace příležitosti** .
+   2. Vyberte **(rozsah) synchronizace příležitosti**.
 
-   3. Chcete-li upravit mapování polí CRM (na základě Průvodce mapováním polí) pro události aktualizace, vyberte, **zda existuje rozdíl mezi objekty potenciálních zákazníků v partnerském centru a CRM, a pak** .
+   3. Chcete-li upravit mapování polí CRM (na základě Průvodce mapováním polí) pro události aktualizace, vyberte, **zda existuje rozdíl mezi objekty potenciálních zákazníků v partnerském centru a CRM, a pak**.
 
-   4. Vyberte dílčí krok, **Pokud ano** , a pak rozbalte krok **aktualizace odkazu s daty příležitostí** .
+   4. Vyberte dílčí krok, **Pokud ano** , a pak rozbalte krok **aktualizace odkazu s daty příležitostí**.
 
    Mapování v této části můžete upravit v závislosti na průvodci mapováním polí.
 
@@ -229,7 +233,7 @@ V závislosti na vašich potřebách je možné přizpůsobit více kroků každ
 
    2. Výběr **(rozsah) synchronizace odkazů.**
 
-   3. Pokud chcete přizpůsobit mapování polí CRM (na základě Průvodce mapováním polí) pro události vytvořit, vyberte **vytvořit odkaz Microsoftu** .
+   3. Pokud chcete přizpůsobit mapování polí CRM (na základě Průvodce mapováním polí) pro události vytvořit, vyberte **vytvořit odkaz Microsoftu**.
 
 Mapování v této části můžete upravit v závislosti na průvodci mapováním polí.
 
@@ -246,17 +250,17 @@ Sada vlastních polí je k dispozici jako součást synchronizace odkazů partne
 
 Následující vlastní pole by měla být součástí části CRM:
 
-- **Synchronizovat s partnerským centrem** : jestli se má synchronizovat příležitost s partnerským centrem Microsoftu
+- **Synchronizovat s partnerským centrem**: jestli se má synchronizovat příležitost s partnerským centrem Microsoftu
 
-- **Identifikátor odkazu** : pole identifikátoru jen pro čtení pro odkaz na partnerského centra Microsoftu
+- **Identifikátor odkazu**: pole identifikátoru jen pro čtení pro odkaz na partnerského centra Microsoftu
 
 - **Odkaz** odkazu: odkaz na odkaz určený jen pro čtení v partnerském centru Microsoftu
 
-- **Jak může Microsoft pomáhat** : Podrobnější informace od Microsoftu
+- **Jak může Microsoft pomáhat**: Podrobnější informace od Microsoftu
 
-- **Produkty** : seznam produktů přidružených k této příležitosti
+- **Produkty**: seznam produktů přidružených k této příležitosti
 
-- **Audit** : záznam auditu jen pro čtení pro synchronizaci s odkazy partnerského centra
+- **Audit**: záznam auditu jen pro čtení pro synchronizaci s odkazy partnerského centra
 
 ### <a name="scenarios"></a>ŘEŠENÍ
 
@@ -266,7 +270,7 @@ Následující vlastní pole by měla být součástí části CRM:
 
    2. Při vytváření nové příležitosti v prostředí Salesforce CRM se ujistěte, že je k dispozici následující oddíl.
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Otevřít AppSource":::
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Prostředí Salesforce":::
 
    3. Pokud chcete tuto příležitost synchronizovat s partnerským centrem Microsoftu, ujistěte se, že jste v zobrazení karta nastavili následující pole:
 
@@ -274,7 +278,7 @@ Následující vlastní pole by měla být součástí části CRM:
        - "Jak může Microsoft pomáhat?": Vyberte si z následujících možností:
        - Produkty: ID řešení produktu
 
-   4. Jakmile nastavíte možnost Synchronizovat příležitost  **s partnerským centrem** na **Ano** , počkejte 10 minut, přihlaste se k účtu partnerského centra. Vaše odkazy budou synchronizovány s CRM Salesforce.
+   4. Jakmile nastavíte možnost Synchronizovat příležitost  **s partnerským centrem** na **Ano**, počkejte 10 minut, přihlaste se k účtu partnerského centra. Vaše odkazy budou synchronizovány s CRM Salesforce.
 
    5. Pokud je možnost synchronizovat s partnerským centrem nastavená na hodnotu Ano, změny se synchronizují s vaším účtem partnerského centra.
 
@@ -290,9 +294,9 @@ Následující vlastní pole by měla být součástí části CRM:
 
     4. Přihlaste se do prostředí Salesforce CRM.
 
-    5. Přejděte na **otevřené příležitosti** . Odkaz vytvořený v partnerském centru Microsoftu je teď synchronizovaný v Salesforce CRM.
+    5. Přejděte na **otevřené příležitosti**. Odkaz vytvořený v partnerském centru Microsoftu je teď synchronizovaný v Salesforce CRM.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Otevřít AppSource":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Obrazovka příležitostí pro Salesforce":::
 
     6. Když vyberete synchronizovaný odkaz, vyplní se podrobnosti zobrazení karty.
 
