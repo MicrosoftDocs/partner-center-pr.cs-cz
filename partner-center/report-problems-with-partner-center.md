@@ -1,20 +1,20 @@
 ---
 title: Hlášení problémů s Partnerským centrem
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Naučte se nahlásit problémy s partnerským centrem a shromažďovat diagnostické informace pro tým podpory pro partnery.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567070"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983333"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Nahlášení problémů s partnerským centrem a odeslání jakýchkoli informací o protokolu nebo diagnostice
 
@@ -23,9 +23,7 @@ ms.locfileid: "94567070"
 - Partnerské centrum
 - Partnerské centrum pro Microsoft Cloud for US Government
 
-Pokud najdete problémy nebo potřebujete pomoc s partnerským centrem, obraťte se na podporu partnerského centra.
-
-**Role uživatelů**
+**Příslušné role**
 
 Všichni přihlášení uživatelé partnerského centra můžou vytvářet žádosti o podporu partnerů. Uživatelé mohou zobrazit pouze žádosti o podporu, které odeslali po přihlášení do partnerského centra.
 
@@ -58,6 +56,12 @@ Pokud váš problém vyžaduje konverzaci s poradcem na podporu, můžete naplá
 1. Po naplánování schůzky vám partnerské Centrum pošle pozvánku do kalendáře s informacemi o tom, jak vás Poradce pro podporu vás bude kontaktovat, takže tuto schůzku můžete sledovat ve svém vlastním pracovním kalendáři.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Datum a čas":::
+
+## <a name="hours-of-operation"></a>Hodiny operace
+
+**Partnerská podpora**
+
+:::image type="content" source="images/support/hoop.png" alt-text="Podpora hodin operace":::
 
 ## <a name="send-diagnostics"></a>Poslat diagnostiku
 
