@@ -1,8 +1,11 @@
 - name: Dokumentace k marketplace Microsoftu pro zákazníky
   href: index.yml
+- name: Azure Marketplace
   items:
     - name: Vytvoření privátního marketplace Azure
       href: create-manage-private-azure-marketplace.md
+    - name: Integrace partnerů na Azure Marketplace
+      href: partner-integrations.md
 - name: Referenční informace
   items:
     - name: Azure PowerShell
