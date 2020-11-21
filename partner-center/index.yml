@@ -9,13 +9,13 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 10/16/2020
-  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
-  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.date: 11/19/2020
+  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
+  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "92526830"
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "94983313"
 landingContent:
 - title: Začínáme s Partnerským centrem
   linkLists:
@@ -85,22 +85,6 @@ landingContent:
       url: set-up-your-payout-account.md
     - text: Vysvětlení informací na faktuře
       url: read-your-bill.md
-- title: Materiály pro vývojáře
-  linkLists:
-  - linkListType: reference
-    links:
-    - text: Připojení k programu pro uživatele rozhraní API a sady SDK pro Partnerské centrum v rané fázi
-      url: /partner-center/develop/early-adopter-program
-    - text: Dokumentace k Partnerskému centru pro vývojáře
-      url: /partner-center/develop
-    - text: Referenční informace k rozhraní REST API pro Partnerské centrum
-      url: /partner-center/develop/partner-center-rest-api-reference
-    - text: Referenční informace k rozhraní .NET API pro Partnerské centrum
-      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
-    - text: Sada SDK pro Partnerské centrum pro Javu
-      url: /java/partnercenter/overview
-    - text: PowerShell pro Partnerské centrum
-      url: /powershell/partnercenter/overview
 - title: Prodej na komerčním marketplace (nezávislí výrobci softwaru)
   linkLists:
   - linkListType: concept
