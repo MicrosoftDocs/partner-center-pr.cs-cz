@@ -2,16 +2,16 @@
 title: Vytvoření a Správa privátních Azure Marketplace v Azure Portal
 description: Seznamte se s vytvářením a správou privátních Azure Marketplace (Preview) v Azure Portal.
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487699"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006935"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Vytvoření a Správa privátních Azure Marketplace (Preview) v Azure Portal
 
@@ -31,14 +31,14 @@ Globální správce tenanta musí přiřadit roli **správce Marketplace** sprá
 >[!IMPORTANT]
 > Přístup ke správě privátních Azure Marketplace je k dispozici jenom správcům IT, kteří mají přiřazenou roli správce Marketplace.
 
-### <a name="prerequisites"></a>Předpoklady
+### <a name="prerequisites"></a>Požadavky
 
 Abyste mohli přiřadit roli správce Marketplace uživateli v oboru tenanta, musíte splnit tyto požadavky:
 
 - Máte přístup k uživateli **globálního správce** .
 - Tenant má minimálně jedno předplatné (může to být libovolný typ).
-- Pro globálního správce se uživateli přiřadí role **Přispěvatel** nebo vyšší pro předplatné zvolené v kroku 2.
-- Uživatel globálního správce má zvýšenou úroveň přístupu nastavenou na **Ano** (viz [zvýšení úrovně přístupu – globální správce](/azure/role-based-access-control/elevate-access-global-admin)).
+- Pro globálního správce se uživateli přiřadí role **Přispěvatel** nebo vyšší pro vybrané předplatné.
+- Uživatel globálního správce má zvýšenou úroveň přístupu nastavenou na **Ano** (viz [přístup ke správě všech předplatných Azure a skupin pro správu](/azure/role-based-access-control/elevate-access-global-admin)).
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>Přiřazení role správce Marketplace k PowerShellu
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)
@@ -128,7 +127,7 @@ Další informace o rutinách obsažených v modulu příkazového portálu AZ. 
 
 ## <a name="create-private-azure-marketplace"></a>Vytvořit soukromé Azure Marketplace
 
-1. Přihlaste se k [portálu Azure Portal](https://portal.azure.com/).
+1. Přihlaste se na [Azure Portal](https://portal.azure.com/).
 2. Vyberte **všechny služby** a potom **Marketplace**.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal hlavní okno.":::
