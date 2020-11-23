@@ -9,19 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "92527232"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417247"
 ---
 # <a name="benefits-faq"></a>Nejčastější dotazy k výhodám
 
 Platí pro:
 
 - Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro Microsoft Cloud for US Government
 
 ## <a name="general-questions"></a>Obecné otázky
 
@@ -44,7 +44,7 @@ K obnovení svých výhod použijte následující postup:
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. V levém navigačním panelu vyberte **MPN** .
+2. V levém navigačním panelu vyberte **MPN**.
 
 3. Na kartě **MPN** vyberte možnost **výhody** .
 
@@ -87,16 +87,16 @@ Můžete přiřadit odběry komukoli v seznamu správy uživatelů v partnerské
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. V levém navigačním panelu vyberte **MPN** .
+2. V levém navigačním panelu vyberte **MPN**.
 
-3. Vyberte možnost **výhody** a pak vyberte možnost **Visual Studio** .
+3. Vyberte možnost **výhody** a pak vyberte možnost **Visual Studio**.
 
 4. Přiřaďte požadované uživatele k dispozici stávajícím předplatným sady Visual Studio.
 
 Po přiřazení předplatného se uživatel musí přihlásit k aplikaci Visual Studio, aby ho mohl spravovat.
 
 >[!Note]
-> Uživatele přiřazený k předplatnému sady Visual Studio na partnerském centru nelze odebrat, dokud 90 dní po původním přiřazení.
+> Předplatná sady Visual Studio se můžou znovu přiřadit od jednoho předplatitele k druhému po 90 dnů od původního přiřazení.
 
 ## <a name="technical-benefits-and-support"></a>Technické výhody a podpora
 
@@ -106,9 +106,9 @@ Instalace, aktivace a další informace související s produktem jsou k dispozi
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. V levém navigačním panelu vyberte **MPN** .
+2. V levém navigačním panelu vyberte **MPN**.
 
-3. Vyberte **výhody** a pak vyberte **technické výhody** .
+3. Vyberte **výhody** a pak vyberte **technické výhody**.
 
 4. Část technické výhody použijte k aktivaci a získání ID a ID smlouvy pro přístup.
 

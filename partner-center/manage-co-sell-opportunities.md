@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363635"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417264"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Správa příležitostí společného prodeje v partnerském centru
 
@@ -40,7 +40,7 @@ Využijte výhod společného prodejního příležitosti.  Příležitosti spol
 **Posouzení řešení (SA)** – tyto typy obchodů je možné vytvořit pouze pomocí sady partnerů, kteří jsou prověřené obchodním týmem řešení řešení pro vyhodnocování technologií pro zákazníky, kteří používají nebo plánují používání technologií Microsoftu.
 
 > [!NOTE]
-> Sem patří soukromé obchody, i když nejsou skutečně týmová spolupráce, a poskytují tak snadnou cestu k upgradu libovolného kanálu v jakékoli neterminálové fázi ( **výhra, ztráta, zamítnutí a platnost** ).
+> Sem patří soukromé obchody, i když nejsou skutečně týmová spolupráce, a poskytují tak snadnou cestu k upgradu libovolného kanálu v jakékoli neterminálové fázi (**výhra, ztráta, zamítnutí a platnost**).
 
 ## <a name="navigating-the-co-sell-section"></a>Navigace v části společný prodej
 
@@ -100,14 +100,14 @@ V této části je potřeba poskytnout informace související s řešeními, kt
 
 Jakmile budete mít k dispozici informace o řešení, vyberte další a přejděte k části, kde můžete rozhodnout o typu prodeje. Máte tři možnosti, pokud jste zvolili řešení z prvních tří možností, nikoli vyhodnocení řešení:
 
-**Soukromá koupě** : Pokud nechcete, aby se v tomto kroku vytvořila žádná akce, bude se jednat o typ privátního kanálu. Prodejci Microsoftu nebudou mít přehled o této koupi.
+**Soukromá koupě**: Pokud nechcete, aby se v tomto kroku vytvořila žádná akce, bude se jednat o typ privátního kanálu. Prodejci Microsoftu nebudou mít přehled o této koupi.
 
 > [!Important]
 > Registrace koupě se nevztahuje na soukromé obchody. Vyzkoušejte si opatrnost při vytváření privátních obchodních operací s motivací opravňujícími řešeními, protože nebudou mít nárok na registraci koupě v partnerském centru.
 
 **Společný prodej:** Pokud vyberete jinou možnost, než je výchozí výběr otázky, **Určete typ vaší aplikace, které byste chtěli od společnosti Microsoft, a zařadí** se do společného obchodování, kde vám může prodejce Microsoftu pomáhat s uzavřením obchodu. Žádost o technickou podporu od Microsoftu není nijak zaručena, že se prodejce Microsoftu účastní obchodu. Microsoft Sales zástupci mají 14 dnů na rozhodnutí, jestli se chtějí zúčastnit. V části poznámky Nezapomeňte určit typ požadované aplikace.
 
-**Obchod s partnery pro partnery (P2P)** : můžete pozvat další partnery do obchodu kliknutím na odkaz pozvat partnera. Níže je uvedený postup pro vytvoření koupě P2P.
+**Obchod s partnery pro partnery (P2P)**: můžete pozvat další partnery do obchodu kliknutím na odkaz pozvat partnera. Níže je uvedený postup pro vytvoření koupě P2P.
 
 - **Vyberte partnera:** Po kliknutí na pozvat partnera budete moct začít psát název partnera a získat tak navrhovaný seznam partnerů, kteří odpovídají názvu, který zadáváte. Vyberte partnera, který vás zajímá, aby pro tohoto partnera vyplnil další podrobnosti. Můžete hledat jenom partnery, kteří jsou v ekosystému pro spoluprodejní společnosti Microsoft a používají se v partnerském centru k vytváření transakcí.
 
@@ -135,9 +135,9 @@ Pokud jste v této fázi obdrželi novou příležitost k prodeji buď od prodej
 
 - **Přijmout:** Zadejte název obchodu, upravte odhadovanou hodnotu koupě a odhadovaný časový rámec nákupu na základě vaší recenze. Po navázání kontaktu se zákazníkem byste měli v poli **poznámky** zadat informace, které vám pomůžou vysvětlit, co zákazník hledá. Volitelně můžete zadat ID vaší aplikace CRM (jenom pro referenci), ID marketingové kampaně, které vedlo k příslušné příležitosti, a přidat kontakty z vaší společnosti, kteří budou na této práci pracovat.
 
-- Až budete hotovi, vyberte **Další**. Budeme přemístit odkaz na **další fázi** , což znamená, že se budete chtít aktivně zapojit zákazníka, aby si vyřeší jejich potřebu. Tyto informace také použijeme, abychom vám pomohli najít podobné obchody v budoucnosti.
+- Až budete hotovi, vyberte **Další**. Budeme přemístit odkaz na **další fázi**, což znamená, že se budete chtít aktivně zapojit zákazníka, aby si vyřeší jejich potřebu. Tyto informace také použijeme, abychom vám pomohli najít podobné obchody v budoucnosti.
 
-- **Odmítnout** : Vyberte důvod odmítnutí obchodu a přidejte všechny poznámky, které chcete zahrnout, a pak vyberte **uzavřít obchod**. Budeme archivovat jako **odmítnuté** a oznamujeme Microsoftu nebo partnerovi, který vám tuto příležitost poslal.
+- **Odmítnout**: Vyberte důvod odmítnutí obchodu a přidejte všechny poznámky, které chcete zahrnout, a pak vyberte **uzavřít obchod**. Budeme archivovat jako **odmítnuté** a oznamujeme Microsoftu nebo partnerovi, který vám tuto příležitost poslal.
 
 - Pokud během přiděleného času (v současnosti 14 dnů) neodpovíte, archivujte ho jako **konec platnosti** a upozorněte buď společnost Microsoft, nebo partnera, který vám tuto příležitost poslal.
 
@@ -214,13 +214,7 @@ Toto je finální fáze pro všechny příležitosti. Můžete zobrazit všechny
 
 Ne, obchody se po přesunu do stavu terminálu nedají změnit. Vypršení platnosti, zamítnutí, výhry a ztráty jsou stavy terminálů, ve kterých nejsou k dispozici žádné další aktualizace k obchodování. Pokud přesouváte práci do libovolného z těchto stavů terminálu, vyzkoušejte opatrnost.
 
-**F2. Obdržel (a) jsem nové oznámení s odkazem, ale nemůžete ho najít v partnerském centru?**
-
-K tomu může dojít, pokud má vaše společnost více tenantů přidružených ke stejnému účtu MPN. Přejít na nastavení účtu partnerského centra a ověřte klienty přidružené k tomuto účtu. Pak vytvořte lístek podpory požadující odkazování na klienty. Zadejte ID tenanta, ke kterému jste se přihlásili v lístku podpory.
-
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Obrázek znázorňující nastavení účtu, kde lze najít informace o tenantovi.":::
-
-**Q3. Kdo dostane e-mailové oznámení z partnerského centra?**
+**F2. Kdo dostane e-mailové oznámení z partnerského centra?**
 
 Následující pracovní postup vysvětluje, jak se e-maily odesílají partnerům ze systému odkazů z partnerského centra pro nové příchozí odkazy na partnery.
 
