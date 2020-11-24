@@ -1,11 +1,35 @@
 - name: Dokumentace k marketplace Microsoftu pro zákazníky
   href: index.yml
+- name: Microsoft AppSource
+  items:
+    - name: Informace o Microsoft AppSource
+      href: appsource-overview.md
+    - name: Nákup softwaru na AppSource
+      href: purchase-software-appsource.md
 - name: Azure Marketplace
   items:
-    - name: Vytvoření privátního marketplace Azure
+    - name: Informace o Azure Marketplace
+      href: azure-marketplace-overview.md
+    - name: Nákup
+      href: azure-purchasing-invoicing.md
+    - name: Vyúčtování a fakturace
+      href: billing-invoicing.md
+    - name: Soukromé nabídky
+      href: private-offers.md
+    - name: Způsobilost k převodu předplatného
+      href: transfer-eligibility.md
+    - name: Vytvoření a správa privátního Azure Marketplace
       href: create-manage-private-azure-marketplace.md
     - name: Integrace partnerů na Azure Marketplace
       href: partner-integrations.md
+- name: Obecné prostředky
+  items:
+    - name: Zásady pro refundace
+      href: refund-policies.md
+    - name: Právní smlouvy
+      href: legal-contracts.md
+    - name: Získání podpory
+      href: get-support.md
 - name: Referenční informace
   items:
     - name: Azure PowerShell
