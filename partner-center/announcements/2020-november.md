@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2b089a666fdb312d49f26be0f9a47da8daad2715
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947694"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514737"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -23,6 +23,32 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 2020 oznámení: [duben](2020-april.md)v  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenci, červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md)  |  [October](2020-October.md) | Listopadu
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Představujeme možnost zakoupit si nabídky SaaS s využitím účtovaných faktur v partnerském centru 
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-11-24
+- Možnosti
+
+## <a name="summary"></a>Shrnutí
+
+Společnost Microsoft zavádí možnost, že partneři v programu Cloud Solution Provider si můžou koupit nabídky SaaS s měřeným účtováním v partnerském centru. 
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všichni partneři
+
+### <a name="details"></a>Podrobnosti
+
+Společnost Microsoft zavádí možnost pro partnery v programu Cloud Solution Provider, včetně nepřímých poskytovatelů a přímých partnerů, k nákupu nabídek SaaS s využitím [účtovaných faktur](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)   v partnerském centru. V dnešní době můžou partneři v programu Cloud Solution Provider zobrazit a [koupit nabídky SaaS s využitím účtované fakturace prostřednictvím Azure Portal](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase).Toto nové prostředí umožní partnerům zakoupit si tyto nabídky prostřednictvím tržiště CSP v partnerském centru a rozhraní API jako pro další typy SaaS nabídek. 
+
+### <a name="next-steps"></a>Další kroky
+
+Tyto informace si nasdílejte u všech odpovídajících kontaktů ve vaší společnosti.
+
+
+
+
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nové a jednotné prostředí pro správu účtů
 
 ### <a name="categories"></a>Kategorie
@@ -445,14 +471,14 @@ Díky nabídce Premium mají zákazníci přístup k nově vydaným verzím Micr
 
    |****|**Microsoft Teams Rooms úrovně Standard USD15 za měsíc**|**Microsoft Teams Rooms Premium USD50 Device za měsíc**|
    |-------------------|:------|:------|
-   |Skype pro firmy|Yes| |
-   |Microsoft Teams|Yes|Yes|
-   |Telefonní systém|Yes|Yes|
-   |Zvukové konference|Yes|Yes|
-   |Microsoft Intune|Yes|Yes|
+   |Skype pro firmy|Ano| |
+   |Microsoft Teams|Ano|Ano|
+   |Telefonní systém|Ano|Ano|
+   |Zvukové konference|Ano|Ano|
+   |Microsoft Intune|Ano|Ano|
    | |Microsoft Teams Rooms Standard USD15 na zařízení za měsíc|Microsoft Teams Rooms Premium USD50 na zařízení za měsíc|
-   |Microsoft Teams místností spravované služby| |Yes|
-   |Celosvětová dostupnost|Yes|Na vybraných trzích|
+   |Microsoft Teams místností spravované služby| |Ano|
+   |Celosvětová dostupnost|Ano|Na vybraných trzích|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams místností spravované služby
 
@@ -649,7 +675,7 @@ Tyto propagační akce mají vliv na tyto zákazníky:
 - Klienti s čistým novým zákazníkem
 - Stávající vzdálení klienti, kteří nemají aktivní nebo nedávno zrušené předplatné (během posledních 30 dnů), mají licenci na podnikovou nebo bezplatnou licenci na CSP, web Direct nebo jiný komerční kanál Microsoftu.
 
-#### <a name="additional-resources"></a>Další zdroje
+#### <a name="additional-resources"></a>Další zdroje informací
 
 - Další informace o obchodním hlasu najdete na [stránce Microsoft 365 Business hlasového partnera](https://www.microsoft.com/microsoft-365/partners/businessvoice) . 
 - Přečtěte si další informace o této propagačních DOTAZech v souvisejícím [partnerovi](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).

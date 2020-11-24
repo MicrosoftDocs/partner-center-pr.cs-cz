@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488125"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514754"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Nastavení platebního účtu a daňových formulářů
 
@@ -44,7 +44,7 @@ Daňové formuláře můžete v partnerském centru doplňovat a odesílat elekt
 > [!IMPORTANT]
 > Různé země a oblasti mají různé daňové požadavky. Přesná částka, kterou musíte zaplatit za daně, závisí na zemích a oblastech, kde prodáváte nabídku. Informace o tom, které země nebo oblasti společnost Microsoft zavazuje k prodeji a používání daní vaším jménem, najdete v článku o [smlouvě Microsoft Azure Marketplace Publisher](https://go.microsoft.com/fwlink/p/?LinkID=699560) . V jiných zemích nebo oblastech, v závislosti na tom, kde jste registrováni, může být nutné uhradit prodej a daň z prodeje za vaše nabídky přímo do místní autority zdanění. Kromě toho prodejní příjem aplikace může být zdanitelný jako příjem. Důrazně doporučujeme, abyste se obrátili na příslušné oprávnění pro vaši zemi nebo oblast, která vám nejlépe pomůže určit správné daňové informace pro vaše komerční aktivity na webu Marketplace.
 
-1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte v pravém horním rohu ikonu **Nastavení účtu** a pak vyberte **Nastavení vývojáře**.
+1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte v pravém horním rohu ikonu ozubeného kolečka **Nastavení** a pak **Nastavení účtu**.
 
 2. V navigační nabídce vlevo vyberte výběr **a daň** a pak vyberte **Výběr a daňová přiřazení**.
 
@@ -81,7 +81,7 @@ Pokud nejste mimo USA, možná budete moct využít výhody daňové smlouvy. Ty
 
 ### <a name="create-a-payment-profile"></a>Vytvořit platební profil
 
-1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte ikonu ozubeného kola **Nastavení** v pravém horním rohu a pak vyberte **Nastavení účtu**.
+1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte v pravém horním rohu ikonu ozubeného kolečka **Nastavení** a pak **Nastavení účtu**.
 2. Pod záhlavím *Výběr a daň* vyberte možnost **Výběr a přiřazení daňového profilu**.
 
     > [!NOTE]
@@ -124,7 +124,7 @@ Aby byl váš výběr úspěšný, ujistěte se, že:
 
 Pokud potřebujete provést změny nebo opravit nesprávné informace, můžete upravit existující platební profily.
 
-1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte ikonu ozubeného kola **Nastavení** v pravém horním rohu a pak vyberte **Nastavení vývojáře**.
+1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte v pravém horním rohu ikonu ozubeného kolečka **Nastavení** a pak  **Nastavení účtu**.
 
 2. Pod položkou *Výběr a daň* vyberte výběr **a daňové profily**.
 

@@ -7,14 +7,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 11/20/2020
+ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93d7c706c5281d239062a1eb4fa95d5fba92097
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007003"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514703"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Ověření informací o profilu organizace v partnerském centru
 
@@ -53,9 +53,11 @@ Vaše zákonná adresa teď můžete aktualizovat v partnerském centru.
 
 Pokud během migrace z partnerského centra pro členství v partnerském centru došlo k identifikaci špatné firmy jako právní, můžete ji změnit na správnou právní firmu.
 
-1. V části **Nastavení účtu** klikněte na **umístění** a ujistěte se, že podnik, který chcete použít jako právní firmu, je v seznamu. Pokud ne, můžete ho přidat. Vyberte **Přidat umístění**. Přidejte podrobnosti o umístění a **uložte** je.
+1. V **Nastavení účtu** klikněte na **Profil organizace** a pak na **právní**.
 
-2. Vedle možnosti přejít na **Profil organizace** vyberte **aktualizovat platný obchodní profil**.
+1.  Posuňte se dolů k **umístění** a ujistěte se, že podnik, který chcete mít jako právní firmu, je uveden v seznamu. Pokud ne, můžete ho přidat. Vyberte **Přidat umístění**. Přidejte podrobnosti o umístění a **uložte** je.
+
+2. Potom se posuňte nahoru a **aktualizujte právní obchodní profil**.
 
 3. Zobrazí se umístění, které jste právě přidali. Vyberte ho a firmu, které chcete použít jako právní firmu, a pak vyberte **Uložit**.
 

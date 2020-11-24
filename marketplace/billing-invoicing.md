@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007469"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514771"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace fakturace a fakturace
 
@@ -57,7 +57,7 @@ Při obdržení vaší faktury se liší:
 - Pokud je vaším platebním nástrojem kreditní karta, bude se vám ihned po nákupu rezervace fakturovat. Tato faktura bude oddělená od vaší měsíční faktury.
 - Pokud je váš platební nástroj na základě kontroly nebo vedení, bude tento nákup zahrnut na měsíční fakturu na webu Marketplace.
 
-Faktury se vytvářejí pro fakturační účty pro program Microsoft Online Service (MOSP), smlouvu se zákazníkem Microsoftu (MCA) a smlouvu s partnerem Microsoftu (MPA). Faktury se generují na základě vašeho typu fakturačního účtu. Azure Marketplace vám účtuje několik dní po skončení [fakturačního období](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice). Faktura pro Azure Marketplace, rezervace a místo virtuálních počítačů se vygeneruje po [devátém dni v měsíci](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). Zobrazí se příslušné poplatky za předchozí měsíc. Pokud například uživatel zakoupil rezervaci na 1. březnu a další rezervaci na 30. březnu, zahrnuje jedna faktura v dubnu obě rezervace.
+Faktury se vytvářejí pro fakturační účty pro program Microsoft Online Service (MOSP), smlouvu se zákazníkem Microsoftu (MCA) a smlouvu s partnerem Microsoftu (MPA). Faktury se generují na základě vašeho typu fakturačního účtu. Azure Marketplace vám účtuje několik dní po skončení fakturačního období. Faktura pro Azure Marketplace, rezervace a místo virtuálních počítačů se vygeneruje po [devátém dni v měsíci](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). Zobrazí se příslušné poplatky za předchozí měsíc. Pokud například uživatel zakoupil rezervaci na 1. březnu a další rezervaci na 30. březnu, zahrnuje jedna faktura v dubnu obě rezervace.
 
 Další informace o fakturách najdete v tématu [vysvětlení poplatků za externí služby Azure](/azure/cost-management-billing/understand/understand-azure-marketplace-charges).
 

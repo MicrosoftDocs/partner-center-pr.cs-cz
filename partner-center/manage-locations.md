@@ -1,7 +1,7 @@
 ---
 title: Správa umístění v partnerském účtu
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se, jak přidat nové umístění a jak se v programu motivačních programů, v obchodních předplatných, předplatných a dalších transakcích používá umístění MPN ID.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92527723"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514791"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Správa umístění účtu MPN a přidání nového umístění
 
@@ -58,9 +58,9 @@ Poskytování právních informací o společnosti, včetně právního jména s
 
 1. Přihlaste se pomocí účtu MPN v partnerském centru. Účet MPN by měl mít oprávnění globálního správce nebo správce účtů. 
 
-1. V **ikoně nastavení** vyberte **nastavení partnera** .
+1. V **ikoně nastavení** vyberte **Nastavení organizace**.
 
-2. Vyberte **umístění.**
+2. Vyberte **právní** a potom vyberte **umístění.**
 
 3. Vyberte **Přidat umístění** a vložte podrobnosti o umístění, které chcete přidat do své společnosti, i k primárnímu kontaktu pro dané umístění.
 
@@ -69,18 +69,15 @@ Poskytování právních informací o společnosti, včetně právního jména s
 
 ## <a name="change-global-partner-account-location"></a>Změnit umístění globálního účtu partnera
 
-1. Na stránce **[umístění](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** zkontrolujte seznam umístění a ujistěte se, že je v seznamu uvedeno umístění, které má vaše právní entita. Pokud není, přidejte ho.
+1. V části **[obchodní umístění](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** zkontrolujte seznam umístění a ujistěte se, že je v seznamu uvedeno umístění, které chcete jako právní entita. Pokud není, přidejte ho.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Struktura míst MPN":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="Snímek obrazovky se stránkou pro umístění účtů partnerského centra se seznamem všech aktuálních umístění":::
 
-2. Vyberte **profil partnera** a pak vyberte **aktualizovat platný obchodní profil** .
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Struktura míst MPN":::
-
+2. Vyberte **právní** a pak vyberte **aktualizovat platný obchodní profil** .
+  
 3. Vyberte oblast a právní entitu a **odešlete** ji.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Struktura míst MPN":::
-
+  
 ## <a name="next-steps"></a>Další kroky
 
 - Přečtěte si o [procesu ověřování](verification-responses.md).

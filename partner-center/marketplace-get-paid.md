@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 61730eec204674d7ad095d1fffcd997f65d135ea
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189726"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514720"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Vyplácení na komerčním marketplace
 
@@ -35,9 +35,9 @@ Před tím, než se vyhradíte poprvé, musíte nastavit svůj účet pro výbě
 
 Ve výchozím nastavení pošleme platby měsíčně, jak je popsáno výše. Máte ale možnost umístit své výběry do pozastaveného programu a společnost Microsoft neuvolní vaše platby na váš účet. Pokud se rozhodnete, že vaše výběry podržíte, budeme na stránce vydaných vydaných **výběrů** pokračovat v evidenci všech příjmů. Do vašeho účtu ale nepošleme žádné platby, dokud ho neodeberete.
 
-Pokud chcete své platby zablokovat, vyberte ikonu ozubeného kola **Nastavení** v pravém horním rohu a pak na **nastavení pro vývojáře** . V nabídce vlevo vyberte **Výběr a daň** a v části přiřazení k výběru **a daňovému profilu** Najděte program, pro který byste chtěli zadržené platby. Zaškrtněte políčko u **platby** pro tento program, pokud chcete uchovat platby. Stav blokování můžete kdykoli změnit, ale vaše rozhodnutí bude mít vliv na další měsíční výběr. Pokud například chcete pozastavit výběr z dubna, ujistěte se, že jste na konci března nastavili stav blokování vstupu na **zapnuto** .
+Pokud chcete své platby zablokovat, vyberte ikonu ozubeného kolečka pro **Nastavení** v pravém horním rohu a pak klikněte na **Nastavení účtu**. V nabídce vlevo vyberte **Výběr a daň** a v části přiřazení k výběru **a daňovému profilu** Najděte program, pro který byste chtěli zadržené platby. Zaškrtněte políčko u **platby** pro tento program, pokud chcete uchovat platby. Stav blokování můžete kdykoli změnit, ale vaše rozhodnutí bude mít vliv na další měsíční výběr. Pokud například chcete pozastavit výběr z dubna, ujistěte se, že jste na konci března nastavili stav blokování vstupu na **zapnuto** .
 
-Jakmile nastavíte stav blokování výběru **na zapnuto** , budou všechny výběry pro tento program pozastaveny, dokud nezrušíte zaškrtnutí **políčka.** Když to uděláte, budete zahrnuti během měsíčního cyklu výběrů (za předpokladu, že byla dodržena prahová hodnota platby). Pokud máte vaše výběry podržené, ale chcete mít vygenerovaný výběr v červnu, zrušte zaškrtnutí **políčka před** koncem května.
+Jakmile nastavíte stav blokování výběru **na zapnuto**, budou všechny výběry pro tento program pozastaveny, dokud nezrušíte zaškrtnutí **políčka.** Když to uděláte, budete zahrnuti během měsíčního cyklu výběrů (za předpokladu, že byla dodržena prahová hodnota platby). Pokud máte vaše výběry podržené, ale chcete mít vygenerovaný výběr v červnu, zrušte zaškrtnutí **políčka před** koncem května.
 
 >[!Note]
 > Váš výběr se vztahuje na každý program zvlášť (Microsoft Store, inzerce, Azure Marketplace atd.). Pokud chcete uchovávat platby pro všechny své programy, požádejte o každý program každou platbu zvlášť.
