@@ -1,26 +1,26 @@
 ---
 title: Kompetence – Nejčastější dotazy
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: Odpovědi na otázky týkající se Microsoft Partner Network zlatých a stříbrnéch kompetencí, výhod vypršení platnosti, obnovování a Aktivace licencí pro Azure, Cloud, Visual Studio a technické výhody a výhody podpory
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755268"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812822"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Kompetence – Nejčastější dotazy
 
 Platí pro:
 
 - Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro Microsoft Cloud for US Government
 - Partneři v programu Microsoft Partner Network (MPN)
 
 Tento článek obsahuje odpovědi na obecné otázky týkající se zkoušek, certifikace a výhod softwaru souvisejících s dosažením Microsoft Partner Network kompetence.
@@ -44,7 +44,7 @@ Můžete tak učinit z partnerského centra následujícím způsobem:
 
 1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
 
-1. Vyberte **MPN** a potom **kompetence** .
+1. Vyberte **MPN** a potom **kompetence**.
 
 1. V horní části stránky kompetence vyhledejte a vyberte možnost **zpráva ke stažení dovedností** .
 
@@ -54,7 +54,7 @@ Sestavy Insights zobrazíte takto:
 
 1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
 
-1. V nabídce partnerského centra klikněte na **přehledy** a pak na **dovednosti organizace** . Zobrazí se menší nabídka.
+1. V nabídce partnerského centra klikněte na **přehledy** a pak na **dovednosti organizace**. Zobrazí se menší nabídka.
 
 1. V nabídce vyberte buď **školení** , nebo **Microsoft Learn** .
 
@@ -64,7 +64,7 @@ Sestavy Insights zobrazíte takto:
 
 ## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>Otázka: Jak dlouho trvá zobrazení nejnovějších posouzení uživatelů v sestavě uživatelských dovedností v partnerském centru?
 
-Partnerský účet univerzity bude přidružen k uživatelskému účtu partnerského centra. Posouzení se zobrazí v sestavě uživatelských dovedností v partnerském centru do **72 hodin** .
+Partnerský účet univerzity bude přidružen k uživatelskému účtu partnerského centra. Posouzení se zobrazí v sestavě uživatelských dovedností v partnerském centru do **72 hodin**.
 
 V této sestavě se zobrazí jenom dovednosti týkající se kompetencí a programů v partnerském centru. (Některé vyřazení dovedností se může zobrazit i po dobu 12 měsíců nebo více po jejich vyřazení).
 
@@ -79,7 +79,7 @@ Podívejte se na následující zdroje informací:
 
 - [Stáhněte si](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) licenční tabulky pro partnery kompetence.
 
-- [Stáhněte si](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx) licenční tabulku pro partnery pro předplatné Microsoft Action Pack.
+- [Stáhněte si](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) licenční tabulku pro partnery pro předplatné Microsoft Action Pack.
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>Otázka: Návody propojit ID certifikačního profilu Microsoftu (ID MCP nebo MCID) k účtu Microsoft Partner Center?
 

@@ -1,7 +1,7 @@
 ---
 title: Najděte si své výhody
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Přečtěte si, jak najít výhody programu MPN na řídicím panelu partnerského centra. Obsahuje informace o tom, jak najít ID vašeho přístupu a ID smlouvy pro technické výhody.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527777"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812830"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Vyhledání výhod programu Microsoft Partner Network 
 
@@ -36,7 +36,7 @@ Tento článek oznamuje členům Microsoft Partner Network (MPN), jak najít vý
 
 Jako člen Microsoft Partner Network má vaše společnost přístup k mnoha výhodám, které vám můžou pomoct při rostoucím podnikání. Pokud chcete zjistit, jaké jsou tyto výhody:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra, vyberte **MPN** a pak vyberte **výhody** .
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra, vyberte **MPN** a pak vyberte **výhody**.
 
 2. Z výhod můžete sledovat, aktivovat, třídit nebo stahovat výhody, které patří do jedné z kategorií, které máte k dispozici. Provedete to tak, že vyberete oblast s výhodami, o které chcete získat další informace:
 
@@ -68,13 +68,13 @@ Pro technické výhody uvidíte ID podpory produktů společnosti Microsoft, jak
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 
-2. Vyberte **MPN** , potom **výhody** , za kterými následuje **technický přínos** .
+2. Vyberte **MPN**, potom **výhody**, za kterými následuje **technický přínos**.
 
 3. Vyberte ze seznamu výhod. Pokud si chcete zobrazit další podrobnosti, rozbalte zvýhodnění. 
 
    Měli byste vidět **ID a ID kontraktu** podpory produktu **, které** jsou přiřazené k této výhodě.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Rozšířené výhody":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Ukázka odborné kompetence Gold support Technical přínos znázorňující ID podpory produktů Microsoftu, jako je ID kontraktu a ID přístupu":::
 
    > [!NOTE]
    > Udržujte si přehled o těchto ID podpory. Některé systémy se můžou zeptat na to, že poprvé (nebo některou z uživatelů vaší společnosti) protokolují žádost o podporu, která je přidružená ke konkrétnímu technickému přínosu. Všichni uživatelé vaší společnosti budou nejspíš používat stejné ID přístupu a ID smlouvy.
@@ -83,7 +83,7 @@ Pro technické výhody uvidíte ID podpory produktů společnosti Microsoft, jak
 
 Chcete-li zjistit, které výhody jsou k dispozici u sady Microsoft Action Pack, stříbrné a/nebo zlaté kompetence, přečtěte si následující zdroje informací:
 
-- [Tabulka licencí pro partnery Microsoft Action Pack](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Tabulka licencí pro partnery Microsoft Action Pack](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [Tabulka licencí pro partnery s kompetencí](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
