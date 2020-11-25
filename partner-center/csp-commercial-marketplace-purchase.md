@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7533b0791ec8760c6223d6af59c2b7995b34a7bc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d8eb2faec7c2ddd70ed0cacedebf4f9824441a7a
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527582"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038848"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Nákup produktů z komerčního tržiště pro vaše zákazníky v partnerském centru
 
@@ -28,22 +28,22 @@ ms.locfileid: "92527582"
 - Globální správce
 - Agent správce
 
-Jako partner v programu Cloud Solution Provider (CSP) můžete pomocí komerčního tržiště koupit předplatné pro zákazníky na určité produkty SaaS (software jako služba), které nabízí nezávislí dodavatelé softwaru (ISV). 
+Jako partner v programu Cloud Solution Provider (CSP) můžete pomocí komerčního tržiště koupit předplatné pro zákazníky na určité produkty SaaS (software jako služba), které nabízí nezávislí dodavatelé softwaru (ISV).
 
 Díky nabídce předplatným ISV SaaS vašim zákazníkům můžete lépe odlišit své podnikání. Zákazníkům můžete také poskytnout přístup k softwarovým balíčkům, které řeší jejich konkrétní obchodní potřeby. Licence a odběry pro tyto produkty SaaS z webu Marketplace od vydavatelů ISV můžete spravovat stejným způsobem jako vy při správě licencí a předplatných pro produkty Microsoftu.
 
 Můžete si koupit buď odběry SaaS **založené na licencích** , nebo předplatné **založené na využití** . Další informace o rozdílu mezi účtováním na základě licencí a na základě využití najdete v tématu [základy fakturace](billing-basics.md).
 
-## <a name="purchase-license-based-saas-subscriptions-in-partner-center"></a>Zakoupení předplatných SaaS založených na licencích v partnerském centru
+## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>Nákup SaaS předplatných na základě licencí a vyměřených předplatných v partnerském centru
 
-Zakoupíte předplatné pro produkty SaaS založené na licencích, které nabízí vydavatelé ISV, pomocí stejného procesu, který použijete k nákupu předplatných pro produkty Microsoftu.
+Zakoupíte si předplatné pro produkty založené na licenci nebo SaaS, které nabízí vydavatelé ISV, pomocí stejného procesu, který používáte k nákupu předplatných pro produkty Microsoftu.
 
-Pokud si chcete koupit předplatné SaaS založené na licencích v partnerském centru, přečtěte si téma [Vytvoření, pozastavení nebo zrušení zákaznických předplatných](create-a-new-subscription.md#create-a-new-subscription).
+Pokud si chcete koupit předplatné SaaS na základě licence nebo účtované podle objemu dat v partnerském centru, přečtěte si téma [Vytvoření, pozastavení nebo zrušení zákaznických předplatných](create-a-new-subscription.md#create-a-new-subscription).
 
 [Rozhraní API partnerského centra](/partner-center/develop/) můžete použít také k vytváření předplatných komerčního tržiště pro vaše zákazníky. (Další informace o používání rozhraní API partnerského centra najdete v tématu [Vytvoření odběru pro produkty z komerčního tržiště](/partner-center/develop/create-subscription-azure-marketplace-products).)
 
 >[!IMPORTANT]
-> Jako partner v programu CSP můžete zakoupit jenom SaaS odběry **založené na licencích** od vydavatelů ISV v partnerském centru. To znamená, že si můžete koupit jakoukoli nabídku SaaS **založenou na licencích** , kterou vám vydavatel ISV zpřístupnila, včetně [exkluzivních nabídek](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , ke kterým máte přístup. Pokud si chcete koupit nebo spravovat jiné komerční nabídky na webu Marketplace od nezávislého výrobce softwaru (jako jsou nabídky na **základě využití** , měřené nebo spotřebované na základě spotřeby zahrnující aplikace, kontejnery nebo virtuální počítače Azure), musíte přejít na [Azure Portal](https://portal.azure.com/). Další informace najdete v následujícím tématu.
+> Jako partner v programu CSP si můžete koupit předplatné SaaS **založené na licencích** nebo **účtované podle objemu** od vydavatelů ISV v partnerském centru. To znamená, že si můžete koupit jakoukoli nabídku **založenou na licencích** nebo **měřený** SaaS. Vydavatel ISV vám k dispozici, včetně [exkluzivních nabídek](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , ke kterým máte přístup. Pokud si chcete koupit nebo spravovat jiné komerční nabídky na webu Marketplace od nezávislého výrobce softwaru (jako jsou nabídky na základě využití zahrnující aplikace a kontejnery Azure), musíte přejít na [Azure Portal](https://portal.azure.com/).
 
 ## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Nákup předplatných na základě využití v Azure Portal
 
@@ -51,9 +51,9 @@ Na rozdíl od předplatných SaaS založených na licencích od vydavatelů ISV,
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra a v nabídce na levé straně vyberte **zákazníci** .
 
-2. Vyberte konkrétního zákazníka a pak vyberte **předplatná** .  
+2. Vyberte konkrétního zákazníka a pak vyberte **předplatná**.  
 
-3. V části **předplatná založená na využití** vyberte **všechny prostředky** . Tím přejdete na portál pro správu Azure.
+3. V části **předplatná založená na využití** vyberte **všechny prostředky**. Tím přejdete na portál pro správu Azure.
 
 4. Na portálu pro správu Azure vyberte v nabídce na levé straně **vytvořit prostředek** .
 
@@ -61,7 +61,7 @@ Na rozdíl od předplatných SaaS založených na licencích od vydavatelů ISV,
 
 6. Pokud chcete seznam zúžit, použijte filtry v horní části seznamu Marketplace. V rozevíracím seznamu **vydavatele** můžete například vybrat **Microsoft** nebo **partner** a zobrazit jenom nabídky od Microsoftu nebo od vydavatele ISV.
 
-7. Zvolte konkrétní nabídku a pak vyberte **vytvořit** .
+7. Zvolte konkrétní nabídku a pak vyberte **vytvořit**.
 
 ## <a name="next-steps"></a>Další kroky
 

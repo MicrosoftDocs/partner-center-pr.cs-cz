@@ -9,19 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527583"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038876"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Vytváření, pozastavování nebo rušení zákaznických předplatných
 
 **Platí pro**
 
 - Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro Microsoft Cloud for US Government
 - Partneři CSP
 
 **Příslušné role**
@@ -36,8 +36,8 @@ Až vytvoříte záznam o zákazníkovi v partnerském centru, můžete si ho pr
 
 Některé nabídky jsou omezené na jedno předplatné na zákazníka. Pokud chcete zobrazit seznam nabídek, které jsou omezené, navštivte stránku ceny a nabídky partnerského centra.
 
-> [!IMPORTANT]
-> Jako partner v programu CSP můžete zakoupit jenom SaaS odběry **založené na licencích** od vydavatelů ISV v partnerském centru. To znamená, že si můžete koupit jakoukoli nabídku SaaS **založenou na licencích** , kterou vám vydavatel ISV zpřístupnila, včetně [exkluzivních nabídek](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , ke kterým máte přístup. Pokud si chcete koupit nebo spravovat jiné komerční nabídky na webu Marketplace od nezávislého výrobce softwaru (jako jsou nabídky na základě **využití** , měřené nebo spotřebované na základě spotřeby zahrnující aplikace, kontejnery nebo virtuální počítače Azure), musíte přejít na [portál pro správu Azure](https://portal.azure.com/). Další informace najdete v tématu [Nákup produktů z komerčního tržiště](csp-commercial-marketplace-purchase.md).
+>[!IMPORTANT]
+> Jako partner v programu CSP si můžete koupit předplatné SaaS **založené na licencích** nebo **účtované podle objemu** od vydavatelů ISV v partnerském centru. To znamená, že si můžete koupit jakoukoli nabídku **založenou na licencích** nebo **měřený** SaaS. Vydavatel ISV vám k dispozici, včetně [exkluzivních nabídek](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , ke kterým máte přístup. Pokud si chcete koupit nebo spravovat jiné komerční nabídky na webu Marketplace od nezávislého výrobce softwaru (jako jsou nabídky na základě využití zahrnující aplikace a kontejnery Azure), musíte přejít na [Azure Portal](https://portal.azure.com/).
 
 ## <a name="create-a-new-subscription"></a>Vytvoření nového předplatného
 
@@ -45,12 +45,12 @@ Některé nabídky jsou omezené na jedno předplatné na zákazníka. Pokud chc
 
 2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
 
-3. Vyberte **přidat odběr** . Na kartě **online služby** se zobrazí všechny dostupné nabídky SaaS Marketplace.
+3. Vyberte **přidat odběr**. Na kartě **online služby** se zobrazí všechny dostupné nabídky SaaS Marketplace.
 
 4. Chcete-li zobrazit pouze určité typy předplatných, proveďte výběr v dostupných filtrech:
-   - **Vydavatel** : vyberte **Microsoft** , pokud chcete zobrazit jenom nabídky od Microsoftu nebo **partnera** , aby viděli produkty z komerčního tržiště publikované prostřednictvím nezávislého výrobce softwaru.
-   - **Typ fakturace** : Vyberte typ fakturace předplatného, který chcete použít: **licence** nebo **použití** . Informace, které vám pomůžou při rozhodování mezi měsíční a roční frekvencí fakturace, najdete v tématu [fakturace na základě licencí](license-based-billing.md) .
-   - **Kategorie** : vyberte **podnik** , **malý podnik** nebo **zkušební verzi** . Informace o zkušebních předplatných najdete v tématu [Nabídka vašich zákazníků s zkušebními produkty Microsoftu](offer-your-customers-trials-of-microsoft-products.md).
+   - **Vydavatel**: vyberte **Microsoft** , pokud chcete zobrazit jenom nabídky od Microsoftu nebo **partnera** , aby viděli produkty z komerčního tržiště publikované prostřednictvím nezávislého výrobce softwaru.
+   - **Typ fakturace**: Vyberte typ fakturace předplatného, který chcete použít: **licence** nebo **použití**. Informace, které vám pomůžou při rozhodování mezi měsíční a roční frekvencí fakturace, najdete v tématu [fakturace na základě licencí](license-based-billing.md) .
+   - **Kategorie**: vyberte **podnik**, **malý podnik** nebo **zkušební verzi**. Informace o zkušebních předplatných najdete v tématu [Nabídka vašich zákazníků s zkušebními produkty Microsoftu](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Vyberte předplatné produktů, které chcete pro zákazníka koupit. Produkty, které vidíte, závisí na typu segmentu zákazníka (vzdělávání, státní správa atd.) a na použitých filtrech. Některé nabídky zobrazené na webu Marketplace nemusí být vždy dostupné konkrétnímu zákazníkovi nebo konkrétnímu partnerovi CSP. To může být způsobeno tím, že:
 
@@ -60,17 +60,17 @@ Některé nabídky jsou omezené na jedno předplatné na zákazníka. Pokud chc
 
    - V případě nabídek ISV SaaS může být nabídka k dispozici z několika důvodů k zakoupení: ISV nemusí podporovat fakturační zemi nebo oblast zákazníka; nezávislý výrobce softwaru se možná rozhodl, že nabídku zpřístupní prostřednictvím programu CSP. nebo nezávislý výrobce softwaru mohl vytvořit nabídku [výhradně](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) pro určité partnery CSP. Nabídku ISV nelze také využít v partnerském centru (například v kontejnerech nebo v některých nabídkách založených na používání).  
 
-6. U každého předplatného, které chcete přidat, zadejte počet licencí (v případě potřeby) a vyberte **Přidat do košíku** .
+6. U každého předplatného, které chcete přidat, zadejte počet licencí (v případě potřeby) a vyberte **Přidat do košíku**.
 
 7. Až skončíte s přidáváním předplatných, vyberte **zkontrolovat** a zkontrolovat vaši objednávku.
 
-8. Po kontrole objednávek a jejich přípravě na nákup můžete vybrat **koupit** .
+8. Po kontrole objednávek a jejich přípravě na nákup můžete vybrat **koupit**.
 
 9. Po zakoupení předplatného pro zákazníka dojde k následujícímu:
 
     - Předplatné můžete zkontrolovat nebo upravit výběrem názvu předplatného ze stránky **předplatné** daného zákazníka. Tady můžete vybrat licence pro doplňky, pokud jsou k dispozici, změnit množství licencí nebo pozastavit předplatné.
 
-    **Pro předplatná ISV SaaS (založená na licencích):**
+    **V případě předplatných ISV SaaS (podle licencí a měřených):**
     - Zobrazí se odkaz na web vydavatele ISV. Tento odkaz by vám měl pomáhat s dokončením nastavení nasazení nebo účtu u předplatného zákazníka.
       
     >[!NOTE]
@@ -90,7 +90,7 @@ Aby si zákazník mohl koupit doplněk, musí nejprve mít aktivní základní p
 
 4. Pod oddílem **stav** je seznam dostupných doplňků pro předplatné.  
 
-5. Aktualizujte množství licencí pro každý požadovaný doplněk. Pak změny **odešlete** .
+5. Aktualizujte množství licencí pro každý požadovaný doplněk. Pak změny **odešlete**.
 
 Možnost zakoupit doplňky prostřednictvím partnerského centra je dostupná jenom pro přímé faktury a nepřímé poskytovatele.
 Na základě základních požadavků a regionální dostupnosti se zobrazují jenom opravňující doplňky. Další informace o cenách a nabídkách najdete v tabulce nabídek pro prodejce cloudových řešení.  Pozastavením základního předplatného se pozastaví také všechny přidružené doplňky.
@@ -104,7 +104,7 @@ Partneři můžou předplatné pozastavit nebo zrušit, pokud ho požaduje záka
 
 ### <a name="suspend-a-subscription"></a>Pozastavení předplatného
 
-Když změníte stav předplatného na **pozastaveno** , uživatelé se nebudou moct přihlašovat ani získat přístup ke službám.
+Když změníte stav předplatného na **pozastaveno**, uživatelé se nebudou moct přihlašovat ani získat přístup ke službám.
 
 1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
 
@@ -112,7 +112,7 @@ Když změníte stav předplatného na **pozastaveno** , uživatelé se nebudou 
 
 3. Vyberte předplatné, které chcete spravovat.
 
-4. V části **Stav** zvolte **Pozastaveno** . Pak změny **odešlete** .
+4. V části **Stav** zvolte **Pozastaveno**. Pak změny **odešlete**.
 
 5. Všechna data budou odstraněna, pokud předplatné nebude znovu aktivováno během 90 dnů nebo 90 dnů plus počet dní mezi časem otevření účtu a prvním fakturačním obdobím (maximum 120 dní).
 
@@ -147,11 +147,11 @@ Pokud chcete zrušit předplatné SaaS založené na licencích od vydavatele IS
 
 3. Vyhledejte předplatné, které chcete zrušit.
 
-4. Ve sloupci **stav** vyberte **Zrušit** . Pak změny **odešlete** .
+4. Ve sloupci **stav** vyberte **Zrušit**. Pak změny **odešlete**.
 
-5. Pokud se zobrazí dialogové okno, vyplňte příslušné podrobnosti a pak vyberte **Odeslat** .
+5. Pokud se zobrazí dialogové okno, vyplňte příslušné podrobnosti a pak vyberte **Odeslat**.
 
-6. Zrušení potvrďte tak, že vyberete **Ano, zrušit** .
+6. Zrušení potvrďte tak, že vyberete **Ano, zrušit**.
 
 > [!NOTE]
 > Můžete také zvolit zrušení předplatného Azure Marketplace pomocí rozhraní API. Pokud to chcete udělat, přečtěte si téma [zrušení předplatného Azure Marketplace](/partner-center/develop/cancel-an-azure-marketplace-subscription).
@@ -166,13 +166,13 @@ Pokud chcete zastavit aktivní předplatné komerčního tržiště z automatick
 
 2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
 
-3. Vyberte **Předplatná** . Obsahuje seznam všech předplatných založených na licencích, které jste zakoupili pro zákazníka.
+3. Vyberte **Předplatná**. Obsahuje seznam všech předplatných založených na licencích, které jste zakoupili pro zákazníka.
 
 4. Ve sloupci **předplatné** vyberte předplatné, které chcete upravit.
 
 5. Na stránce Podrobnosti předplatného vyhledejte část **stav** a zrušte kontrolu **automatického obnovení** .
 
-6. Vyberte **Odeslat** .
+6. Vyberte **Odeslat**.
 
 ## <a name="next-steps"></a>Další kroky
 
@@ -180,4 +180,4 @@ Pokud chcete zastavit aktivní předplatné komerčního tržiště z automatick
 
 - [Správa produktů z komerčního tržiště pro vaše zákazníky](csp-commercial-marketplace-manage.md)
 
-- [Přehled komerčního tržiště](csp-commercial-marketplace-overview.md)
+- [Přehled komerčního marketplace](csp-commercial-marketplace-overview.md)
