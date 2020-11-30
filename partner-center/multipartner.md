@@ -1,7 +1,7 @@
 ---
 title: Podpora více partnerů
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Zákazník může chtít pracovat s více partnery v programu Cloud Solution Provider, který se specializuje na různé služby.
@@ -9,26 +9,27 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5e34a8f8c85b1ad7826869a50f79a26550cf4790
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92526995"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322113"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Podpora více partnerů pro zákazníky, kteří chtějí pracovat s více než jedním partnerem
 
 **Platí pro**
 
--  Partnerské centrum
--  Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum
+- Partnerské centrum pro Microsoft Cloud for US Government
 
 **Příslušné role**
--   Globální správce
--   Správce uživatelů
--   Agent prodeje
 
-Funkce pro více partnerů partnerského centra podporuje scénáře, když chce zákazník pracovat s více než jedním partnerem. Zákazník může například chtít, aby jeden partner pro své odbornosti v sadě Office 365 najednal, ale najmout jiného partnera, který se specializuje na Microsoft Azure. 
+- Globální správce
+- Správce uživatelů
+- Agent prodeje
+
+Funkce pro více partnerů partnerského centra podporuje scénáře, když chce zákazník pracovat s více než jedním partnerem. Zákazník může například chtít, aby jeden partner pro své odbornosti v sadě Office 365 najednal, ale najmout jiného partnera, který se specializuje na Microsoft Azure.
 
 Tenant CSP Azure může zahrnovat další předplatné Azure od jiného partnera CSP.
 
@@ -45,10 +46,4 @@ Funkce vícenásobných partnerů neprovádí tyto akce:
 - Změna partnera záznamu pro předplatné
 
 > [!IMPORTANT]  
-> Partner v programu CSP nemůže v současnosti doprodávat online služby k jinému partnerovi v programu CSP. Microsoft nepřetržitě kontroluje zásady a možnosti všech programů. Všechny novinky o vydáních funkcí nebo změnách zásad budou oznámeny prostřednictvím obvyklých komunikačních kanálů, včetně [oznámení z partnerského centra](announcements/index.md).
-
-
-
-
-
-
+> Partner v programu CSP nemůže v současnosti doprodávat online služby k jinému partnerovi v programu CSP. Toto omezení platí jenom pro tenanta, který se používá pro provádění transakcí CSP. Partneři CSP, kteří používají klienta jiného typu než CSP pro své podnikové využití, mohou zakoupit online služby od jiného partnera CSP. Microsoft nepřetržitě kontroluje zásady a možnosti všech programů. Všechny novinky o vydáních funkcí nebo změnách zásad budou oznámeny prostřednictvím obvyklých komunikačních kanálů, včetně [oznámení z partnerského centra](announcements/index.md).

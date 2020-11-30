@@ -1,7 +1,7 @@
 ---
 title: Registrace do programu Cloud Solution Provider
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Naučte se, jak se zaregistrovat v programu Cloud Solution Provider (CSP), který je nejvhodnější pro vaši firmu, jako je například nepřímý prodejce nebo partner s přímým fakturací.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045393"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322079"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrace do programu Cloud Solution Provider
 
@@ -42,7 +42,7 @@ Kontrola a ověření informací, které jste poskytli, může trvat několik dn
 3. Po ověření vašich informací Přijměte smlouvu nepřímých prodejců Microsoftu.
 
 > [!IMPORTANT]  
-> Partner v programu CSP nemůže v současnosti doprodávat online služby k jinému partnerovi v programu CSP. Microsoft nepřetržitě kontroluje zásady a možnosti všech programů. Všechny novinky o vydáních funkcí nebo změnách zásad budou oznámeny prostřednictvím obvyklých komunikačních kanálů, včetně [oznámení z partnerského centra](announcements/index.md).
+> Partner v programu CSP nemůže v současnosti doprodávat online služby k jinému partnerovi v programu CSP. Toto omezení platí jenom pro tenanta, který se používá pro provádění transakcí CSP. Partneři CSP, kteří používají klienta jiného typu než CSP pro své podnikové využití, mohou zakoupit online služby od jiného partnera CSP. Microsoft nepřetržitě kontroluje zásady a možnosti všech programů. Všechny novinky o vydáních funkcí nebo změnách zásad budou oznámeny prostřednictvím obvyklých komunikačních kanálů, včetně [oznámení z partnerského centra](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Zaregistrovat jako nepřímý prodejce
 
@@ -60,7 +60,7 @@ Různí nepřímá zprostředkovatelé nabízejí různé podpory a služby, tak
 
 Pokud ještě nepracujete se zprostředkovatelem (označuje se také jako distributor), můžete si ho vyhledat [v seznamu oficiálních poskytovatelů Microsoftu](https://partnercenter.microsoft.com/partner/find-a-provider) .
 
-Další informace o tom, co je potřeba k účasti v programu CSP jako nepřímý prodejce, najdete v tématu [Začínáme jako nepřímý](https://partner.microsoft.com/cloud-solution-provider/whats-required) prodejce na [webu Microsoft Partner Network](https://partner.microsoft.com/). 
+Další informace o tom, co je potřeba k účasti v programu CSP jako nepřímý prodejce, najdete v tématu [Začínáme jako nepřímý](https://partner.microsoft.com/cloud-solution-provider/whats-required) prodejce na [webu Microsoft Partner Network](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Registrovat jako přímý fakturační partner
 
@@ -99,4 +99,4 @@ Aby bylo možné [Přidat nové umístění pro firmy CSP](manage-locations.md),
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Další informace o smlouvě Microsoft Partner Agreement (MPA) pro partnery programu CSP](microsoft-partner-agreement.md)
+[Další informace o smlouvě Microsoft Partner Agreement (MPA) pro partnery programu CSP](microsoft-partner-agreement.md)
