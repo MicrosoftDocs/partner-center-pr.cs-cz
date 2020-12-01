@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132990"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439135"
 ---
 # <a name="april-2020-announcements"></a>Oznámení z dubna 2020
 
@@ -30,8 +30,8 @@ _________________
 
 - Datum: 2020-04-30
 - Typ: možnosti
-- Stav: již brzy
-- [Další informace](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>Shrnutí
 
@@ -49,7 +49,7 @@ Na 4. května 2020 Microsoft zavede nové propagační akce pro Office 365 E1 a 
 Tyto propagační akce nahradí aktuální nabídku zkušební verze Office 365 E1 a liší se následujícími způsoby:
 
 - Partneři dostanou roční SKU Office 365 E1 nebo Microsoft 365 Business základní skladové jednotky s využitím propagačního poskytovatele CSP, který pro prvních 6 měsíců použije 100% slevu, nikoli jedinečnou SKU zkušební verze na 6 měsíců. [Přečtěte si další informace o propagačních akcích CSP](../promotions.md).
-- Řazení bude technicky omezené jenom na nové zákazníky, nikoli na zkušební verzi Office 365 E1, která byla omezená jenom na nové zákazníky prostřednictvím písemných zásad. Další informace najdete [v tématu Nejčastější dotazy k partnerovi Microsoftu](https://aka.ms/CSPCOVIDPromo).
+- Řazení bude technicky omezené jenom na nové zákazníky, nikoli na zkušební verzi Office 365 E1, která byla omezená jenom na nové zákazníky prostřednictvím písemných zásad. 
 - Pro zákazníky s protokolem SMB bude tato propagační akce zahrnovat Microsoft 365 Business Basic. Tím zajistíte, že partneři budou moci začít zákazníky s méně než 300 místy v pravé rodině produktů s Microsoft 365 pro firmy.
 Zákazníci, kteří jsou aktuálně licencováni pomocí zkušební verze Office 365 E1 (k dispozici až do 4. května 2020), zůstanou na svém aktuálním plánu – tato změna má dopad jenom na čisté nové zákazníky.
 
@@ -58,12 +58,13 @@ Definice nových zákazníků
 Noví zákazníci, kteří mají nárok na tuto povýšení, jsou:
 
 1. Klienti s čistým novým zákazníkem
-2. Stávající zákazníci, kteří nemají aktuálně placené nebo nedávno zrušené předplatné (během posledních 30 dnů) předplatného ve svém tenantovi, pro všechny produkty definované v průvodci Nejčastějšími [dotazy k Microsoft partnerovi](https://aka.ms/CSPCOVIDPromo).
+2. Stávající zákazníci, kteří nemají aktuálně placené nebo nedávno zrušené předplatné (během posledních 30 dnů) předplatného ve svém tenantovi, pro všechny produkty definované v průvodci nejčastějšími dotazy Microsoftu pro partnery
 
-### <a name="additional-resources"></a>Další materiály
+ 
+### <a name="additional-resources"></a>Další zdroje informací
 
 - Další informace o zabezpečené vzdálené práci najdete v [centru partnerských vzdálených pracovních prostředků](https://www.microsoft.com/microsoft-365/partners/remotework) .
-- Další informace o těchto změnách najdete v [souvisejících nejčastějších dotazech k partnerům](https://aka.ms/CSPCOVIDPromo).
+
 
 ### <a name="next-steps"></a>Další kroky
 
@@ -168,16 +169,16 @@ Vyšší a nepřetržitá ochrana zabezpečení a ochrany osobních údajů pat�
 
 V poslední době jsme úspěšně dokončili aktivaci ochrany zabezpečení pro funkce ADMINISTRATE (admin-on-of) pro všechny partnerské klienty, přičemž své firmy a zákazníci chrání před incidenty souvisejícími s krádeží identity.
 
-Aby bylo možné dál chránit partnery a zákazníky **od 1. května 2020, zahájíme aktivaci zabezpečení pro transakce partnerského centra v CSP** . Aktivace dalších bezpečnostních opatření znamená, že partneři budou požádáni o použití vícefaktorového ověřování (MFA) pro všechny transakce v CSP pomocí uživatelského rozhraní a rozhraní API pro Partnerský portál, což brání neoprávněnému přístupu a ochraně jejich zákazníků a klientů před incidenty zabezpečení souvisejícími se krádeží identity. Další podrobnosti najdete [tady](../partner-security-requirements-mandating-mfa.md).
+Aby bylo možné dál chránit partnery a zákazníky **od 1. května 2020, zahájíme aktivaci zabezpečení pro transakce partnerského centra v CSP**. Aktivace dalších bezpečnostních opatření znamená, že partneři budou požádáni o použití vícefaktorového ověřování (MFA) pro všechny transakce v CSP pomocí uživatelského rozhraní a rozhraní API pro Partnerský portál, což brání neoprávněnému přístupu a ochraně jejich zákazníků a klientů před incidenty zabezpečení souvisejícími se krádeží identity. Další podrobnosti najdete [tady](../partner-security-requirements-mandating-mfa.md).
 
 ### <a name="next-steps"></a>Další kroky
 
-- **Pokud jste neaktivovali doporučené požadavky na zabezpečení pro ochranu vašeho tenanta a uživatelů** , zajistěte, aby byly v souladu s předpisy, a zabraňte jakýmkoli výpadkům v chodu společnosti při správě zákazníků nebo v transakčním prostředí v CSP. Partneři, kteří neimplementují požadavky na zabezpečení, mohou své účasti v programu CSP ohrozit.
+- **Pokud jste neaktivovali doporučené požadavky na zabezpečení pro ochranu vašeho tenanta a uživatelů**, zajistěte, aby byly v souladu s předpisy, a zabraňte jakýmkoli výpadkům v chodu společnosti při správě zákazníků nebo v transakčním prostředí v CSP. Partneři, kteří neimplementují požadavky na zabezpečení, mohou své účasti v programu CSP ohrozit.
 - Nepřímí zprostředkovatelé musí implementovat tyto požadavky na zabezpečení pro vlastní firmy a spolupracovat s prodejci, aby zajistili, že implementují požadavky a také používají tuto šablonu e-mailu. Prostřednictvím e-mailové komunikace se také přímo dostanou k vašim prodejcům.
 - Na [stránce stav požadavků na zabezpečení partnerského centra](https://partner.microsoft.com/commerce/security/compliance) můžete identifikovat průběh a klíčové akce, které je potřeba provést. Spolupracovat s globálním správcem a pravidelně kontrolovat průběh vašich požadavků na zabezpečení pro každého tenanta.
 - Pokud používáte řešení pro řízení dodavatele (CPV), obraťte se prosím na CPV.
 
-### <a name="additional-resources"></a>Další materiály
+### <a name="additional-resources"></a>Další zdroje informací
 
 Projděte si tyto materiály, které vám pomůžou s implementací požadavků na zabezpečení.
 
@@ -237,7 +238,7 @@ Pro přístup k změnám použijte následující postup:
 
 Případně se přihlaste do partnerského centra a přejít na [adresu URL](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c007d538-f817-84e3-06b5-ff4005c1a6bb).
 
-### <a name="additional-resources"></a>Další materiály
+### <a name="additional-resources"></a>Další zdroje informací
 
 Další informace o smlouvě o zákaznících Microsoftu najdete [tady](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)v této kolekci.
 
@@ -280,7 +281,7 @@ Tyto informace prosím sdílejte s příslušnými kontakty ve vaší organizaci
 
 Pro sdílení s vašimi zákazníky budeme mít k dispozici více veřejných informací později v roce.
 
-### <a name="additional-resources"></a>Další materiály
+### <a name="additional-resources"></a>Další zdroje informací
 
 - Další informace najdete na stránce [rozšířené ochrany před internetovými útoky v programu Microsoft Defender](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp) .
 - Další informace týkající se Azure Security Center najdete v [dokumentaci k Azure Security Center](/azure/security-center/) .
@@ -560,7 +561,7 @@ Od 1. dubna 2020 mají nabídky elektronického obchodování název a/nebo PFAM
 |Zobrazit a PFAM|Dynamics 365 Commerce Cloud Scale jednotka Standard|Dynamics 365 Commerce Scale Unit úrovně Basic-Cloud|
 |Zobrazit a PFAM|Dynamics 365 Commerce Cloud Unit Scale úrovně Premium|Dynamics 365 Commerce Scale Unit úrovně Premium – Cloud|
 
-### <a name="additional-resources"></a>Další materiály
+### <a name="additional-resources"></a>Další zdroje informací
 
 - [Domovská stránka Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Stránka s přehledem pro aplikace hybridní reality](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)

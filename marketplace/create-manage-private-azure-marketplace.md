@@ -1,17 +1,17 @@
 ---
 title: Vytvoření a Správa privátních Azure Marketplace v Azure Portal
-description: Seznamte se s vytvářením a správou privátních Azure Marketplace (Preview) v Azure Portal.
+description: Seznamte se s vytvářením a správou privátních Azure Marketplace (Preview) v Azure Portal. Privátní Azure Marketplace (Preview) umožňuje správcům řídit, která řešení třetích stran můžou uživatelé používat.
 ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006935"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439247"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Vytvoření a Správa privátních Azure Marketplace (Preview) v Azure Portal
 
@@ -127,7 +127,7 @@ Další informace o rutinách obsažených v modulu příkazového portálu AZ. 
 
 ## <a name="create-private-azure-marketplace"></a>Vytvořit soukromé Azure Marketplace
 
-1. Přihlaste se na [Azure Portal](https://portal.azure.com/).
+1. Přihlaste se k [portálu Azure Portal](https://portal.azure.com/).
 2. Vyberte **všechny služby** a potom **Marketplace**.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal hlavní okno.":::

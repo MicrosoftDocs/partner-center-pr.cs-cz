@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360067"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439231"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Vyhledat důležitá ID pro uživatele
 
@@ -33,7 +33,7 @@ Při hledání ID tenanta Azure AD nebo názvu primární domény v rámci Azure
 > [!NOTE]
 > ID tenanta se může v různých aplikacích a prostředcích volat jako jiné názvy. ID klienta může být například označováno jako ID adresáře, tenant Azure Active Directory (Azure AD), Microsoft ID nebo pro určité sestavy, a to i pro *tenantguid*.
 
-1. Přihlaste se k webu [Azure Portal](https://portal.azure.com/).
+1. Přihlaste se k [portálu Azure Portal](https://portal.azure.com/).
 
 2. V nabídce vyberte **Azure Active Directory** .
 
@@ -53,7 +53,7 @@ Při hledání ID tenanta Azure AD nebo názvu primární domény v rámci Azure
 
 Stačí najít název domény a ID tenanta nemusí být vždy dostatek. Může být také nutné vyhledat konkrétní ID objektu přiřazené uživateli. Pomocí těchto kroků můžete najít ID objektu uživatele v Azure Portal:
 
-1. Přihlaste se k webu [Azure Portal](https://portal.azure.com/).
+1. Přihlaste se k [portálu Azure Portal](https://portal.azure.com/).
 
 2. V nabídce vyberte **Azure Active Directory** .
 
@@ -78,3 +78,4 @@ Stačí najít název domény a ID tenanta nemusí být vždy dostatek. Může b
 - [Programové zjištění ID tenanta pomocí PowerShellu nebo rozhraní příkazového řádku](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Další informace o uživatelských profilech v Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Zjistěte, jak můžou partneři zobrazit nebo exportovat podrobnosti o zákaznících v partnerském centru.](see-your-customer-list.md)
+

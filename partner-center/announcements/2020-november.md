@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514737"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439078"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -30,7 +30,7 @@ ______________
 - Datum: 2020-11-24
 - Možnosti
 
-## <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Shrnutí
 
 Společnost Microsoft zavádí možnost, že partneři v programu Cloud Solution Provider si můžou koupit nabídky SaaS s měřeným účtováním v partnerském centru. 
 
@@ -46,8 +46,7 @@ Společnost Microsoft zavádí možnost pro partnery v programu Cloud Solution P
 
 Tyto informace si nasdílejte u všech odpovídajících kontaktů ve vaší společnosti.
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nové a jednotné prostředí pro správu účtů
 
@@ -56,7 +55,7 @@ Tyto informace si nasdílejte u všech odpovídajících kontaktů ve vaší spo
 - Datum: 2020-11-18
 - Možnosti
 
-## <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Shrnutí
 
 Od 18. listopadu bude partnerské Centrum začínat nové prostředí pro správu účtů, které bude zlepšit uživatelské prostředí pro partnery. Partneři teď budou moct spravovat svůj účet pro všechny programy z nastavení – > nastavení účtu.
 
@@ -84,8 +83,7 @@ Přihlaste se k řídicímu panelu partnerského centra a potom vyberte ikonu �
 
 Tyto informace si nasdílejte u všech odpovídajících kontaktů ve vaší společnosti.
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 pro propagační akce v polovině trhu (LATAM, APAC a Indie)
 
@@ -113,6 +111,7 @@ Tato akce bude k dispozici od 1. prosince do té doby, tyto informace prosím sd
 
 ### <a name="questions"></a>Máte otázky?
 Kontaktujte prosím [podporu partnerského centra](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) pro všechny dotazy, dotazy nebo další informace.
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Vylepšení rozhraní API partnerského centra a rozšíření uživatelského rozhraní (UI) pro posílení prověrky zákazníků v určitých zemích
@@ -254,8 +253,6 @@ V oblasti Evropské unie (EU)/European volného obchodu (ESVO) se všechny nové
 
 Od ledna 2021 partneři s novými zákazníky, kteří si zakoupí nové nabídky pro obchod, se budou fakturovat za tyto nákupy v peněžních umístěních partnera. Partneři se stávajícími zákazníky, kteří si už zakoupili nové nabídky pro obchod ve zprostředkovateli CSP, se v této fázi budou dál účtovat v měně fakturačního umístění zákazníka. 
 
- 
-
 - **Fáze 2: stávající zákazníci, kteří si zakoupili novou nabídku pro obchodování ve zprostředkovateli CSP před lednem 2021** 
 
 Po fázi 1 a v kalendářním roce 2021 bude Microsoft převádět účtování nových nabídek obchodu pro partnery se stávajícími zákazníky, kteří si zakoupili novou nabídku pro obchodování ve zprostředkovateli CSP před lednem 2021, od měny zákazníka až po měnu umístění partnera. Před implementací této změny se partneři budou předem informovat.  
@@ -279,6 +276,8 @@ Mezi nové nabídky pro obchod v oboru pro tuto změnu patří: předplatná Azu
 ### <a name="resources"></a>Zdroje a prostředky 
 
 Projděte si informace o tomto tématu v [galerii operací] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ na webu Microsoft Partner.  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>Omezování rozhraní API pro partnery, kteří volají rozhraní API partnerského centra
 
@@ -310,7 +309,7 @@ Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků,
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions|[Získání všech předplatných zákazníka](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Získat předplatné podle ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/Orders||[Získat všechny objednávky zákazníka](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders||[Získat všechny objednávky zákazníka](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Získat objednávku podle ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Získat stav zřizování předplatného](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Správa objednávek a Správa předplatného](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ Toto oznámení se zaměřuje na poskytování partnerů s včasnou informovanos
 
 Projděte si [pokyny k omezování rozhraní API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)a proveďte potřebné kroky. 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 chyb způsobených duplicitními požadavky MCA
 
@@ -365,8 +364,7 @@ Projděte si [pokyny k omezování rozhraní API](https://docs.microsoft.com/par
 
 - Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci, abyste se mohli připravit na tyto změny.
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testování k dispozici: vylepšení rozhraní API partnerského centra a uživatelského rozhraní (UI) pro proces ověření zákazníka pro vzdělávání
 
@@ -405,17 +403,17 @@ Kromě těchto vylepšení vám s radostí oznamujeme, že v FY21 Q2 umožníme,
 
 Společnost Microsoft si vyhrazuje právo zkontrolovat stav každého zákazníka nebo navrženého zákazníka jako kvalifikovaného vzdělávacího uživatele. Úplné podrobnosti najdete v [požadavcích na školní potřeby vzdělávání uživatelů](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) .
 
-## <a name="next-steps"></a>Další kroky
+### <a name="next-steps"></a>Další kroky
 
-Přečtěte si nové změny uživatelského rozhraní a rozhraní API partnerského centra, jakož i Průvodce testováním v [procesu ověřování zákazníků vzdělávacího centra pro vzdělávání. vylepšení shromažďování obsahu](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Přečtěte si nové změny uživatelského rozhraní a rozhraní API partnerského centra, jakož i Průvodce testováním v [procesu ověřování zákazníků vzdělávacího centra pro vzdělávání. vylepšení shromažďování obsahu](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-• Zaregistrujte se, abyste se mohli zúčastnit testování. (Podrobnosti najdete v [Průvodci testováním](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
+- Zaregistrujte se, abyste se mohli zúčastnit testování. (Podrobnosti najdete v [Průvodci testováním](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
 
-• Ujistěte se, že vaše organizace je obeznámená s [požadavky školního uživatele na vzdělávání](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+- Ujistěte se, že vaše organizace je obeznámená s [požadavky školního uživatele na vzdělávání](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
 
-• Sdílejte tyto informace s příslušnými týmy v rámci vaší organizace spolu s prodejci, aby jim pomohli připravit se na tyto změny.
+- Tyto informace můžete sdílet s příslušnými týmy v rámci vaší organizace, společně s prodejci, aby jim pomohli připravit se na tyto změny.
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Rozšiřování obsahu komerčního licenčního partnera v galerii připravenost k provozu
 
@@ -471,19 +469,19 @@ Díky nabídce Premium mají zákazníci přístup k nově vydaným verzím Micr
 
    |****|**Microsoft Teams Rooms úrovně Standard USD15 za měsíc**|**Microsoft Teams Rooms Premium USD50 Device za měsíc**|
    |-------------------|:------|:------|
-   |Skype pro firmy|Ano| |
-   |Microsoft Teams|Ano|Ano|
-   |Telefonní systém|Ano|Ano|
-   |Zvukové konference|Ano|Ano|
-   |Microsoft Intune|Ano|Ano|
+   |Skype pro firmy|Yes| |
+   |Microsoft Teams|Yes|Yes|
+   |Telefonní systém|Yes|Yes|
+   |Zvukové konference|Yes|Yes|
+   |Microsoft Intune|Yes|Yes|
    | |Microsoft Teams Rooms Standard USD15 na zařízení za měsíc|Microsoft Teams Rooms Premium USD50 na zařízení za měsíc|
-   |Microsoft Teams místností spravované služby| |Ano|
-   |Celosvětová dostupnost|Ano|Na vybraných trzích|
+   |Microsoft Teams místností spravované služby| |Yes|
+   |Celosvětová dostupnost|Yes|Na vybraných trzích|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams místností spravované služby
 
 - Proaktivní Správa: zcela nepřetržitou správu vašich systémů místností, včetně oprav, správy konfigurací a dalších.
-• Monitorování a analýza hlavní příčiny v reálném čase: monitorování a zjišťování s orchestrací reakce na správu incidentů, kterou zajišťuje Microsoft v koordinaci s zákazníkem v případě potřeby. Mobilní aplikace vám umožní udržet výstrahy na cestách.
+- Monitorování a analýza hlavní příčiny v reálném čase: monitorování a zjišťování s orchestrací reakce na správu incidentů, kterou Microsoft provedl v koordinaci s zákazníkem v případě potřeby. Mobilní aplikace vám umožní udržet výstrahy na cestách.
 - Spravované aktualizace: Správa a doručování aktualizací aplikací, Windows KB a firmwaru.
 - Ochrana před hrozbami zabezpečení: Ochrana před internetovými útoky pomocí rozšířené ochrany před internetovými útoky v programu Microsoft Defender
 - Zákaznická podpora: podpora lístků zcela nepřetržitou prostřednictvím našeho vyhrazeného provozního centra služeb s asistencí pro jiné než automatizované případy. Podrobné řízení přístupu na základě rolí.

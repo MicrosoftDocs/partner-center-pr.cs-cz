@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81ca02a0fb93f88893e7339d63deec55b6913d9c
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 45b924fa9143d1b4947e5b88c2e14c41c4451d19
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038903"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439007"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Správa účtu partnerského centra – profil společnosti, informace o bance, role, oprávnění a další
 
-Účet, který vytvoříte v partnerském centru při registraci, je váš pracovní e-mail a vaše firemní informace. Po vytvoření účtu se dokončí nastavení úplného profilu vaší společnosti, včetně podrobností o podpoře, případného případného osvobození od daně ze souboru a primárních kontaktních informací. Účet vaší společnosti bude také obsahovat uživatelské účty pro kohokoli, kdo bude používat partnerské Centrum pro přidávání a správu zákazníků, prodej předplatných, práci s fakturací a fakturaci, vytváření obchodních profilů, správu odkazů, práci s pobídkami a poskytování podpory.
-
 **Příslušné role** – globální správce, správce MPN
+
+Účet, který vytvoříte v partnerském centru při registraci, je váš pracovní e-mail a vaše firemní informace. Po vytvoření účtu se dokončí nastavení úplného profilu vaší společnosti, včetně podrobností o podpoře, případného případného osvobození od daně ze souboru a primárních kontaktních informací. Účet vaší společnosti bude také obsahovat uživatelské účty pro kohokoli, kdo bude používat partnerské Centrum pro přidávání a správu zákazníků, prodej předplatných, práci s fakturací a fakturaci, vytváření obchodních profilů, správu odkazů, práci s pobídkami a poskytování podpory.
 
 Podívejte se také [na články pozvaní zaměstnanci, aby se připojili k partnerskému centru](guide-to-migration.md) , a [přidejte nového uživatele](create-user-accounts-and-set-permissions.md).
 

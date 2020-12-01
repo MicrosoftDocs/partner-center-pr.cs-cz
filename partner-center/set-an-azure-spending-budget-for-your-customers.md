@@ -9,19 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92527134"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96438988"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Nastavení, kontrolu nebo odebrání měsíčních rozpočtů Azure útraty pro zákazníky v partnerském centru
 
 Platí pro:
 
 - Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro Microsoft Cloud for US Government
 
 Můžete [nastavit měsíční rozpočet Azure útraty pro vaše zákazníky](#set-azure-spending-budget) v partnerském centru. To pomáhá vašim zákazníkům spravovat útraty Azure. Tato možnost umožňuje porovnat náklady na Azure, které jsou v daném měsíci v rozpočtu. Pomáhá zákazníkům také rozpočtovat své výdaje na Azure, takže jejich měsíční vyúčtování není vyšší než jejich předvídání.
 
@@ -40,9 +40,9 @@ Po [nastavení rozpočtu útraty Azure pro zákazníky](#set-azure-spending-budg
 
 ## <a name="azure-spending-data"></a>Data o výdajích Azure
 
-Data o výdajích Azure jsou *odhadem* a *skutečné fakturační částky se můžou lišit* . Hodnota dat *nezohledňuje* daně, kredity, úpravy nebo jiné poplatky, které mohou platit.
+Data o výdajích Azure jsou *odhadem* a *skutečné fakturační částky se můžou lišit*. Hodnota dat *nezohledňuje* daně, kredity, úpravy nebo jiné poplatky, které mohou platit.
 
-Data o výdajích se *aktualizují jednou denně* . Vaši zákazníci můžou dál používat (a budou se vám účtovat) služby a prostředky Azure, pokud nezměníte nastavení svého účtu v Azure Portal.
+Data o výdajích se *aktualizují jednou denně*. Vaši zákazníci můžou dál používat (a budou se vám účtovat) služby a prostředky Azure, pokud nezměníte nastavení svého účtu v Azure Portal.
 
 ## <a name="set-azure-spending-budget"></a>Nastavení rozpočtu útraty Azure
 
@@ -50,11 +50,11 @@ Můžete *nastavit měsíční rozpočet Azure útraty* pro více zákazníků v
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/).
 
-2. V nabídce vlevo v části **CSP** vyberte **útraty Azure** .
+2. V nabídce vlevo v části **CSP** vyberte **útraty Azure**.
 
 3. Na stránce **útraty Azure** v části **zákazníci s předplatnými Microsoft Azure** vyberte zákazníky, pro které chcete nastavit rozpočet.
 
-4. Zadejte hodnotu pro **měsíční rozpočet** .
+4. Zadejte hodnotu pro **měsíční rozpočet**.
 
 5. Chcete-li uložit změny, klikněte na tlačítko **použít** .
 
@@ -62,11 +62,11 @@ Můžete také *nastavit rozpočet pro jednotlivé zákazníky* v nastavení jej
 
 1. Přihlaste se k řídicímu panelu partnerského centra.
 
-2. V nabídce vlevo v části **CSP** vyberte **zákazníci** .
+2. V nabídce vlevo v části **CSP** vyberte **zákazníci**.
 
 3. Na stránce **Customers (zákazníci** ) vyberte **název společnosti** zákazníka.
 
-4. Na stránce **předplatná** zákazníka v části **předplatné na základě využití** vyberte **změnit rozpočet** .
+4. Na stránce **předplatná** zákazníka v části **předplatné na základě využití** vyberte **změnit rozpočet**.
 
 5. Zadejte hodnotu pro rozpočet.
 
@@ -78,11 +78,11 @@ Můžete také *nastavit rozpočet pro jednotlivé zákazníky* v nastavení jej
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/).
 
-2. V nabídce vlevo v části **CSP** vyberte **útraty Azure** .
+2. V nabídce vlevo v části **CSP** vyberte **útraty Azure**.
 
 3. Na stránce **útraty Azure** v části **zákazníci s předplatnými Microsoft Azure** vyberte zákazníky, jejichž rozpočet chcete odebrat.
 
-4. Vyberte možnost **Odebrat rozpočet** .
+4. Vyberte možnost **Odebrat rozpočet**.
 
 ## <a name="check-current-azure-spending"></a>Kontrolovat aktuální útratu Azure
 
@@ -90,7 +90,7 @@ Můžete také *nastavit rozpočet pro jednotlivé zákazníky* v nastavení jej
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/).
 
-2. V nabídce vlevo v části **CSP** vyberte **útraty Azure** .
+2. V nabídce vlevo v části **CSP** vyberte **útraty Azure**.
 
 3. Na stránce **útraty Azure** můžete v části **zákazníci s předplatnými Microsoft Azure** zobrazit přehled měsíčních rozpočtů zákazníků, aktuální odhady útraty a procento využití rozpočtu.
 
@@ -100,24 +100,29 @@ Můžete také *nastavit rozpočet pro jednotlivé zákazníky* v nastavení jej
 
 1. Přihlaste se do Partnerského centra.
 
-2. V nabídce vlevo v části **CSP** vyberte **útraty Azure** .
+2. Přejít na **Nastavení**.
 
-3. Na stránce **útraty Azure** v části **e-mailová oznámení** přepněte nastavení **získat e-maily** na **zapnuto** .
+3. Vyberte **moje předvolby**.
 
-4. Zvolením možnosti **změnit e-mailová** adresa zobrazíte e-mailovou adresu pro oznámení.
+4. Pokud jste neučinili, nakonfigurujte upřednostňovanou e-mailovou adresu.
 
-5. Pokud e-mailová adresa *není správná* , zadejte správnou e-mailovou adresu a klikněte na **aktualizovat** . Pokud je e-mailová adresa *správná* , klikněte na **tlačítko Storno** .
+5. Nakonfigurujte preferovaný jazyk pro oznámení.
+
+6. V části **předvolby oznámení** vyberte kartu **CSP** .
+
+7. Podívejte se na E-mail s oznámením o **útratách Azure** a **uložte** ho.
+
 
 ## <a name="itemized-costs-by-service"></a>Vynásobené náklady podle služby
 
-*Podle služby můžete u předplatných založených na využití zobrazit náklady na zboží (a Odhadované využití)* :
+*Podle služby můžete u předplatných založených na využití zobrazit náklady na zboží (a Odhadované využití)*:
 
 1. Přihlaste se do Partnerského centra.
 
-2. V nabídce vlevo v části **CSP** vyberte **zákazníci** .
+2. V nabídce vlevo v části **CSP** vyberte **zákazníci**.
 
 3. Na stránce **Customers (zákazníci** ) vyberte **název společnosti** zákazníka.
 
-4. Na stránce **předplatná** zákazníka v části **předplatná na základě využití** vyberte název **předplatného** .
+4. Na stránce **předplatná** zákazníka v části **předplatná na základě využití** vyberte název **předplatného**.
 
 5. Na stránce předplatného můžete zkontrolovat **náklady na zboží** podle služby a **Odhadované využití** aktuálního měsíce.
