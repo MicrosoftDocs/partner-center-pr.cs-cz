@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
+ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92527702"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96354220"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Získat data o tom, jak dobře vaši zákazníci a předplatná Azure provádějí
 
@@ -32,18 +32,18 @@ ms.locfileid: "92527702"
 
 Datové jednotky: obchodní rozhodnutí. Pomocí metrik na stránce **využití Azure** můžete identifikovat vaše úspěšnosti a oblasti, které vyžadují větší pozornost. Tyto informace použijte při plánování nových obchodních cílů.
 
-Pokud se chcete dostat k **využití Azure** , přihlaste se na [řídicí panel](https:/partner.microsoft.com/dashboard)partnerského centra. V nabídce partnerského centra vyberte **Analytics** a pak vyberte **využití Azure** .
+Pokud se chcete dostat k **využití Azure**, přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra. V nabídce partnerského centra vyberte **Analytics** a pak vyberte **využití Azure**.
 
 > [!NOTE]
 > Analýza využití Azure je dostupná jenom pro partnery v programu Cloud Solution Provider.
 
 Sledujeme následující metriky:
 
-## <a name="summary"></a>Souhrn
+## <a name="summary"></a>Shrnutí
 
-- **Celkový počet prodaných předplatných Azure** : počet předplatných prodaných v zadaném časovém období  
-- **Zákazníci s využitím** : počet zákazníků s využitím Azure v zadaném časovém období  
-- **Zákazníci bez použití** : počet zákazníků bez využití Azure v zadaném časovém období  
+- **Celkový počet prodaných předplatných Azure**: počet předplatných prodaných v zadaném časovém období  
+- **Zákazníci s využitím**: počet zákazníků s využitím Azure v zadaném časovém období  
+- **Zákazníci bez použití**: počet zákazníků bez využití Azure v zadaném časovém období  
 
 ## <a name="top-5-customers-in-category"></a>Prvních 5 zákazníků v kategorii
 
@@ -59,8 +59,8 @@ V této části se uvádí předpokládaná rizika v případě předplatných A
 
 ## <a name="azure-subscription-churn"></a>Změny předplatného Azure
 
-- **Aktivní předplatná** : počet aktivních předplatných podle data  
-- **Odzřízené odběry** : Počet zrušených předplatných nebo pozastavených podle data  
+- **Aktivní předplatná**: počet aktivních předplatných podle data  
+- **Odzřízené odběry**: Počet zrušených předplatných nebo pozastavených podle data  
 
 ## <a name="customer-count"></a>Počet zákazníků
 
