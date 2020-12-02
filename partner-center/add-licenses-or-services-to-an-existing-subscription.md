@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527317"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474219"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Přidání licencí nebo dalších služeb k předplatnému zákazníka
-
-**Platí pro**
-
-- Partnerské centrum
-- Partneři programu Cloud Solution Provider
 
 **Příslušné role**
 
@@ -35,7 +30,7 @@ Pokud zákazník potřebuje víc licencí, než je aktuální předplatné nebo 
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Upgrady podporované v programu CSP <a id="upgradesubscription"></a>
 
-Ve zprostředkovateli Cloud Solution Provider jsou podporovány následující upgrady:
+V programu Cloud Solution Provider jsou podporovány následující upgrady:
 
 | Nabídka | Možné upgrady|
 |---:|:---|
@@ -66,9 +61,9 @@ Další informace o dopadu fakturace najdete v tématu Postup zrušení předpla
 
 1. Pokud chcete zjistit, jestli má předplatné nárok na upgrade, zvolte zákazníka a pak otevřete svůj seznam předplatných.
 
-2. Pokud je možné předplatné upgradovat, uvidíte informační ikonu hned za názvem předplatného. Najeďte myší na tuto ikonu a pak vyberte **upgradovat nyní** .
+2. Pokud je možné předplatné upgradovat, uvidíte informační ikonu hned za názvem předplatného. Najeďte myší na tuto ikonu a pak vyberte **upgradovat nyní**.
 
-3. Vyberte novou nabídku a pak zvolte **Odeslat** .
+3. Vyberte novou nabídku a pak zvolte **Odeslat**.
 
 4. Pro určité služby může být potřeba přejít na další práci a vyřešit některé uživatelské účty. V takovém případě Partnerská centra obsahuje seznam účtů a služeb, které byly ovlivněny. Nápovědu najdete v článku znalostní báze problémy při [opětovném přiřazení licencí při přepínání plánů v sadě Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 

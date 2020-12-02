@@ -9,19 +9,15 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a9b2ed89b10e43c31d00777054839f3208e5c16
-ms.sourcegitcommit: 32516c30e90ee78415e5537d2b8ccf467f56a82d
+ms.openlocfilehash: 9f1d6e2a59bd892b7b79a1e3aa532242cdd0e302
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92527113"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474185"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Nahrání souboru. csv uživatelů na účet zákazníka
 
-
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
@@ -37,18 +33,18 @@ Přidejte více uživatelů na účet zákazníka najednou, a to tak, že do par
 
 3. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
 
-4. Vyberte kartu **Uživatelé a licence zákazníka a** pak vyberte **Odeslat uživatele** .
+4. Vyberte kartu **Uživatelé a licence zákazníka a** pak vyberte **Odeslat uživatele**.
 
-5. V části **Odeslat informace o uživateli** vyberte **Procházet** .
+5. V části **Odeslat informace o uživateli** vyberte **Procházet**.
 
-6. V selektoru souborů vyberte datový soubor a pak vyberte **otevřít** .
+6. V selektoru souborů vyberte datový soubor a pak vyberte **otevřít**.
 
-7. Vyberte **Ověřit** .
+7. Vyberte **Ověřit**.
 
-    **Poznámka:**    Většina chyb při vytváření účtu je způsobena problémy s datovými soubory, včetně chybějících informací, poškozených nebo duplicitních e-mailových adres nebo příliš mnoha záznamů v souboru.
+    **Poznámka:**  Většina chyb při vytváření účtu je způsobena problémy s datovými soubory, včetně chybějících informací, poškozených nebo duplicitních e-mailových adres nebo příliš mnoha záznamů v souboru.
 
 8. Po ověření souboru partnerským centrem vyberte zeměpisnou **polohu** pro nové uživatele.
-9. Vyberte **Uložit** .
+9. Vyberte **Uložit**.
 10. Stáhněte si informace o dočasném hesle pro uživatele.
 
     >[!IMPORTANT]

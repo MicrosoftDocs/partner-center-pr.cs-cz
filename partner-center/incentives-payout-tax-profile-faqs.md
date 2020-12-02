@@ -1,25 +1,21 @@
 ---
 title: Pobídek – Nejčastější dotazy k vydaným a daňovému profilu
 ms.topic: article
-ms.date: 10/27/2020
+ms.date: 12/01/2020
 description: Nejčastější dotazy týkající se pobídek pro výběr a daňové profily Otázky zahrnují, proč nemůžete zobrazit váš výběr a daňové profily a co dělat.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: d7a5e5ae5fa8bd23c3158efe7c0880f67544f9b9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133129"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474321"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Nejčastější dotazy ohledně pobídek výběrů a daňových profilů
-
-Platí pro:
-
-- Partnerské centrum
 
 Příslušné role:
 
@@ -35,7 +31,7 @@ Aby bylo možné přijímat výběry pro programy pro motivaci Microsoft, je nut
 
 Všichni partneři, kteří registrují nový pobídkový program, musí poskytnout platný výběr a daňové údaje pro dokončení registrace.
 
-Je také možné, že budete muset zadat aktualizované informace v případě, že se změní pravidla programu pro přizpůsobitelné změny, nebo jestli neprošlé aspekty tohoto profilu. Pokud k tomu dojde, na stránce s přehledem se zobrazí stav **vyžadované akce – Aktualizovat banku nebo daňový profil** .
+Je také možné, že budete muset zadat aktualizované informace v případě, že se změní pravidla programu pro přizpůsobitelné změny, nebo jestli neprošlé aspekty tohoto profilu. Pokud k tomu dojde, na stránce s přehledem se zobrazí stav **vyžadované akce – Aktualizovat banku nebo daňový profil**.
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Jak můžu zadat nebo aktualizovat podrobnosti o platbách nebo dani?
 
@@ -51,11 +47,11 @@ Chcete-li zobrazit výběr a daňové profily, použijte následující postup:
 
 1. Přihlaste se na [řídicí panel partnerského centra](https://partner.microsoft.com/dashboard).
 
-2. Výběrem ikony ozubeného kola otevřete nabídku **Nastavení** .
+2. Výběrem ikony ozubeného kola otevřete nabídku **Nastavení**.
 
-3. Vyberte **nastavení partnera** .
+3. Vyberte **nastavení partnera**.
 
-4. V části **Nastavení účtu** vyberte **Platby a daň** a pak vyberte **Platební a daňový profil** . Zobrazí se všechny stávající platební a daňové profily společně se stavem a možností je upravit.
+4. V části **Nastavení účtu** vyberte **Platby a daň** a pak vyberte **Platební a daňový profil**. Zobrazí se všechny stávající platební a daňové profily společně se stavem a možností je upravit.
 
 ## <a name="my-organization-is-participating-in-multiple-incentive-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Moje organizace se účastní více programů s motivací. Potřebuji zadat platbu a daňový profil několikrát?
 
@@ -75,17 +71,19 @@ Pokud vypršela platnost daňového profilu nebo brzy vyprší platnost, znamen�
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. Výběrem ikony ozubeného kola otevřete nabídku **Nastavení** .
+2. Výběrem ikony ozubeného kola otevřete nabídku **Nastavení**.
 
-3. V části **Nastavení účtu** vyberte **Platby a daň** a pak vyberte **Platební a daňový profil** .
+3. V části **Nastavení účtu** vyberte **Platby a daň** a pak vyberte **Platební a daňový profil**.
 
-4. Vyberte **daňový profil** .
+4. Vyberte **daňový profil**.
 
 5. Vyberte sloupec **Datum vypršení platnosti** a potom přejděte do vyprší platnost daňového profilu, jehož platnost vypršela nebo brzy vyprší.
 
 6. Vyberte **Upravit** a zahajte proces úpravy pro daňový profil.
 
-7. Aktualizujte daňové formuláře poskytnutím požadovaných podrobností.
+7. Vyhledejte část **daňový formulář** a pak vyberte **Spustit daňový formulář**.
+
+8. Aktualizujte daňové formuláře poskytnutím požadovaných podrobností.
 
 ## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Jak Microsoft zaručí, že informace o bance jsou vlastně společnosti, a ne osobní bankovní účet pro zaměstnance?
 

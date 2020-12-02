@@ -9,19 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fabdc52056b4b4bd9fe612dfa2d299a357be213
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92527093"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474270"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partnerské centrum má dvě úrovně účtů pro partnery programu MPN.
 
-**Platí pro**
-
-- Partnerské centrum
-- Partneři MPN
 
 **Příslušné role**
 
@@ -34,7 +30,7 @@ Vaše společnost má v partnerském centru dvě úrovně účtů.
 ## <a name="the-top-level-is-the-partner-global-account-pga"></a>Nejvyšší úroveň je globální účet partnera (PGA).
 
 - Globální účet partnera obsahuje platnou obchodní adresu a primární kontakt vaší společnosti. 
-- Prohlédněte si podrobnosti o globálním účtu vašeho partnera z **Nastavení**  ->  **Profil organizace** , **zákonný profil** .
+- Prohlédněte si podrobnosti o globálním účtu vašeho partnera z **Nastavení**  ->  **Profil organizace**, **zákonný profil**.
 - Podrobnosti budou obsahovat také ID MPN pro globální účet partnera. 
 - PGA je nadřazeným prvkem vaší společnosti a nepoužívá se k přidružení k pobídek programům nebo poskytovateli Cloud Solution Provider. 
 - Pro taková přidružení by se měla použít umístění.

@@ -9,20 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92527665"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474253"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Postup přidání záznamu nového zákazníka v partnerském centru
 
-**Platí pro**
-
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
-- Partneři programu Cloud Solution Provider
 
 **Příslušné role**
 
@@ -31,14 +26,14 @@ ms.locfileid: "92527665"
 - Agent správce
 - Agent prodeje
 
-V tomto článku se dozvíte, jak přidat nového zákazníka do seznamu zákazníků v partnerském centru. Před prodejem předplatných, správou fakturace nebo poskytováním podpory pro zákazníka proveďte tyto kroky.
+Tento článek popisuje, jak přidat nového zákazníka do seznamu zákazníků v partnerském centru. Tyto kroky jsou nutné, aby bylo možné prodávat předplatná, spravovat fakturaci nebo poskytovat podporu zákazníkům.
 
 >[!NOTE]
->Pro stávající zákazníky, včetně těch, kteří už mají záznamy o zákaznících v partnerském centru prostřednictvím [více kanálů](multichannel.md) nebo scénářů s více [partnery](multipartner.md) , můžete [s nimi požádat o relaci](request-a-relationship-with-a-customer.md), a to místo podle kroků uvedených tady.
+>Pro stávající zákazníky, včetně těch, kteří už mají záznamy o zákaznících v partnerském centru v rámci scénářů s [více kanály](multichannel.md) nebo s více [partnery](multipartner.md) , je potřeba [požádat o relaci s nimi](request-a-relationship-with-a-customer.md)místo následujících kroků.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Přidání nového zákazníka v Partnerském centru
 
-1. V nabídce partnerské Centrum vyberte **zákazníci** a pak vyberte **Přidat zákazníka** .
+1. V nabídce partnerské Centrum vyberte **zákazníci** a pak vyberte **Přidat zákazníka**.
 
 2. Na stránce **informace o účtu** zadejte podrobnosti a primární kontaktní informace zákazníka. Ověřte taky, že zákazník přijal a podepsal nejnovější [Zákaznickou smlouvu Microsoftu](agreements.md).
 
@@ -58,7 +53,7 @@ V tomto článku se dozvíte, jak přidat nového zákazníka do seznamu zákazn
 
 4. Po dokončení zadávání všech požadovaných informací vyberte **Další: předplatná** .
 
-5. Na stránce **předplatná** vyberte nabídky, které si zákazník chce koupit, zadejte počet licencí a potom vyberte **Další: zkontrolovat** .
+5. Na stránce **předplatná** vyberte nabídky, které si zákazník chce koupit, zadejte počet licencí a potom vyberte **Další: zkontrolovat**.
 
 6. Na stránce **Kontrola** zkontrolujte správnost vašich záznamů a pak vyberte **Odeslat** , pokud jsou informace správné.
 

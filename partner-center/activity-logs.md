@@ -9,20 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43ee23fe23b75946fa960f68fe41f7e490761f5c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92527098"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474236"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Zobrazit nebo exportovat protokoly aktivit zákazníků pro lepší přehled o transakcích zákazníků
-
-**Platí pro**
-
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
-- Partneři programu Cloud Solution Provider
 
 **Příslušné role**
 
@@ -41,7 +35,7 @@ Protokoly aktivit poskytují záznamy pro akce partnerů u zákaznických účt�
 
 1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
 
-2. V nabídce **Nastavení účtu** vyberte **Protokol aktivit** .
+2. V nabídce **Nastavení účtu** vyberte **Protokol aktivit**.
 
 3. V polích **od** a **do** vyberte období protokolu aktivit. Export protokolu aktivit je ve výchozím nastavení pro poslední měsíc.
 
@@ -51,9 +45,9 @@ Protokoly aktivit poskytují záznamy pro akce partnerů u zákaznických účt�
 
 4. Mezi datové sloupce protokolu patří následující:
    - **Datum** a čas – datum a čas akce;
-   - **Ovlivněný zákazník** – název společnosti zákazníka;
-   - **Akce** – akce provedená zákazníkem, jako je například "Vytvoření odkazu";
-   - **Partnerský uživatel** – partner přidružený k aktivitě.
+   - **Ovlivněný zákazník**– název společnosti zákazníka;
+   - **Akce**– akce provedená zákazníkem, jako je například "Vytvoření odkazu";
+   - **Partnerský uživatel**– partner přidružený k aktivitě.
 
 5. Vyberte **exportovat protokol** a zkopírujte data předplatného zákazníka do souboru. csv a stáhněte ho do výchozí složky pro stažení v počítači.
 

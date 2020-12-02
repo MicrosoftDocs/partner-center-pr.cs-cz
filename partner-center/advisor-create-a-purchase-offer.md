@@ -9,18 +9,15 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92527087"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474134"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Poradci: Vytvoření nabídky nákupu
 
-**Platí pro**
-
-- Partnerské centrum
  
 **Příslušné role**
 
@@ -38,18 +35,18 @@ Pokud váš klient potřebuje jiný počet licencí, odešle jim novou nabídku 
 
 ## <a name="to-create-a-purchase-offer"></a>Vytvoření nabídky nákupu
 
-1. Přejděte na **zkušební verze a nabídky koupit** nabídky  >  **vytvořit nabídku** .
+1. Přejděte na **zkušební verze a nabídky koupit** nabídky  >  **vytvořit nabídku**.
 
 2. Na stránce **vytvořit nabídku nákupu** vyberte možnosti nabídky nákupu, které chcete zahrnout:
 
-    - **Partnerská kancelář** : Pokud má vaše společnost víc poboček, vyberte Office, ke kterému chcete tuto nabídku nákupu přidružit.
+    - **Partnerská kancelář**: Pokud má vaše společnost víc poboček, vyberte Office, ke kterému chcete tuto nabídku nákupu přidružit.
 
         Pokud chcete přidat umístění partnerských kanceláří, přečtěte si téma [Přidání umístění](manage-locations.md). Nová umístění kanceláře můžou vyžadovat až 24 hodin od jejich vytvoření, aby se zobrazila v seznamu **Partnerská kancelář** .
 
-    - **Umístění použití** : vyberte umístění, kde bude klient služby používat.
-    - **Předplatná** : seznam předplatných, která si můžete vybrat, je určený umístěním využití v zemi nebo oblasti klienta. Zaškrtněte políčko předplatného nebo předplatného, které vám nabídne váš klient.
-    - **Počet licencí** : po výběru předplatného zadejte počet licencí, které chcete zahrnout do nabídky koupit.
-    - **Delegovaná Správa** : Tato možnost je k dispozici pouze partnerům, kteří jsou certifikováni k poskytování delegované správy. Tuto možnost vyberte, pokud chcete nabízet delegovanou správu klienta. Pokud tak učiníte, může klient přijmout nabídku nákupu s nebo bez přijetí delegované správy.
+    - **Umístění použití**: vyberte umístění, kde bude klient služby používat.
+    - **Předplatná**: seznam předplatných, která si můžete vybrat, je určený umístěním využití v zemi nebo oblasti klienta. Zaškrtněte políčko předplatného nebo předplatného, které vám nabídne váš klient.
+    - **Počet licencí**: po výběru předplatného zadejte počet licencí, které chcete zahrnout do nabídky koupit.
+    - **Delegovaná Správa**: Tato možnost je k dispozici pouze partnerům, kteří jsou certifikováni k poskytování delegované správy. Tuto možnost vyberte, pokud chcete nabízet delegovanou správu klienta. Pokud tak učiníte, může klient přijmout nabídku nákupu s nebo bez přijetí delegované správy.
 
 3. Klikněte na **Next** (Další).
 
@@ -69,3 +66,7 @@ Pokud váš klient potřebuje jiný počet licencí, odešle jim novou nabídku 
     - Sdělte klientům, jak vás kontaktovat s dotazy ohledně služby nebo nabídky.
     - Dejte klientům informace o tom, že řídí počet zakoupených uživatelských licencí a můžou po přijetí nabídky změnit počet licencí.
     - Pokud nabízíte delegovanou správu, vysvětlete, co znamená a jaké jsou vaše zodpovědnosti. Další informace o delegované správě najdete v tématu [Nabídka delegovaná Správa](customers-revoke-admin-privileges.md).
+
+## <a name="next-steps"></a>Další kroky
+
+- [Sestavte si klientskou základnu pomocí zkušebních pozvánek Office 365 a nabídek nákupů.](advisors-build-your-business.md)

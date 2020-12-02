@@ -9,48 +9,43 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2963ac7fbcba36d61782e49a4696f95a86bf95b8
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: d5e7adaf25376edb7d10d2deff9ed4e6f52badb4
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92527105"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96473879"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Přiřazení prodejce jako kontaktu technické podpory pro zákazníky
-
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
 - Agent správce
 - Globální správce
 - Agent helpdesku
-- Agent prodeje
-- Správce správy uživatelů
+
 
 Při nastavování předplatných pro služby Microsoftu pro zákazníky budete možná chtít přiřadit technickou podporu pro tyto produkty určenému prodejci místo poskytování podpory sami.
 
-Po nastavení kontaktů podpory se zákazníkům na stránkách podpory produktu zobrazí informace o kontaktu s přiřazenými pracovníky. Pokud například zákazníci s Office 365 potřebují podporu, můžou přejít na stránku Office.com, přihlásit se pomocí přihlašovacích údajů správce, vybrat dlaždici **správce** a v části **Podpora** Zobrazit kontaktní informace o přiřazených podpoře.
+Po nastavení kontaktů podpory si zákazníci můžou na stránkách podpory produktu zobrazit vaše přiřazené informace o kontaktu podpory. Pokud například zákazníci se sadou Office 365 potřebují podporu, můžou přejít na stránku Office.com, přihlásit se pomocí přihlašovacích údajů správce, vybrat dlaždici **správce** a v části **Podpora** zjistit kontaktní informace o přiřazeném podpoře.
 
 Tato možnost se dá použít pro scénáře s [více partnery](multipartner.md) a [více kanály](multichannel.md) . 
 
 
 ## <a name="assign-contacts"></a>Přiřazení kontaktů
 
-1.  Začněte tím, že [si vyžádáte vztah](request-a-relationship-with-a-customer.md) s vámi určenému prodejci produktů. Vyjednávat si smlouvu o podpoře pro zpracování technické podpory.
+1. Začněte tím, že [si vyžádáte vztah](request-a-relationship-with-a-customer.md) s vámi určenému prodejci produktů. Vyjednávat si smlouvu o podpoře pro zpracování technické podpory.
 
-2.  V nabídce **Partnerské centrum** vyberte **zákazníci** , pak vyberte zákazníka a pak vyberte předplatné, například Office 365 Business Standard.
+2. V nabídce **Partnerské centrum** vyberte **zákazníci**, pak vyberte zákazníka a pak vyberte předplatné, například Office 365 Business Standard.
 
-3.  V části  **určený kontakt podpory** vyberte určeného prodejce produktu a pak klikněte na **Odeslat** . 
+3. V části  **určený kontakt podpory** vyberte určeného prodejce produktu a pak klikněte na **Odeslat**. 
 
-   >[!NOTE]  
- >U nových předplatných se vybraný kontakt podpory nastaví jako výchozí pro nepřímýho poskytovatele. Můžete ji také změnit na nepřímý prodejce, který má delegovaná oprávnění správce.    
->Pokud se název prodejce nezobrazí v seznamu dostupných kontaktů podpory, přidejte ho v části [vyžádáním vztahu](request-a-relationship-with-a-customer.md). Po navázání relace by se měly zobrazit v seznamu.  
+      >[!NOTE]  
+      >U nových předplatných se vybraný kontakt podpory nastaví jako výchozí pro nepřímýho poskytovatele. Můžete ji také změnit na nepřímý prodejce, který má delegovaná oprávnění správce.    
+    >Pokud se název prodejce nezobrazí v seznamu dostupných kontaktů podpory, přidejte ho v části [vyžádáním vztahu](request-a-relationship-with-a-customer.md). Po navázání relace by se měly zobrazit v seznamu.  
 
-4.  Zkontrolujte, zda jsou změny správné, a pak vyberte **Zavřít** .
+4. Zkontrolujte, zda jsou změny správné, a pak vyberte **Zavřít**.
 
 ## <a name="next-steps"></a>Další kroky
 
-[Odebrat relaci se zákazníkem](remove-a-relationship.md)
+- [Odebrat relaci se zákazníkem](remove-a-relationship.md)

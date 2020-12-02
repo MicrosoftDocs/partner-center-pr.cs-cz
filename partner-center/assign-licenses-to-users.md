@@ -9,26 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527790"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474066"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Správa uživatelů a uživatelských licencí pro zákaznické účty
-
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
 - Globální správce
 - Správce správy uživatelů
 - Agent správce
-- Agent prodeje
-- Agent helpdesku
+
 
 Můžete vytvářet a odstraňovat nové uživatele v účtu zákazníka. Můžete také obnovit jeden nebo více uživatelských účtů, které jste dříve odstranili během 30 dnů od odstranění. Budou obnovena i předchozí přiřazení předplatného uživatele (za předpokladu, že jsou k dispozici jejich předchozí přidělení).
 
@@ -44,13 +39,13 @@ Když si koupíte nové předplatné pro zákazníka, zákazník by vám měl po
 
 2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
 
-3. V nabídce zákazník vyberte **Uživatelé a licence** .
+3. V nabídce zákazník vyberte **Uživatelé a licence**.
 
 4. Pro každého uživatele, kterého přidáte, vyberte **Přidat předplatné** a pak vyplňte informace, včetně oprávnění a licencí. **Uložte** změny.
 
 5. Nezapomeňte zaznamenat uživatelské jméno a dočasné heslo pro odeslání uživateli.
 
-6. Pokud současně přidáváte více uživatelů, použijte **Přidat jiného uživatele** .
+6. Pokud současně přidáváte více uživatelů, použijte **Přidat jiného uživatele**.
 
 7. Můžete také přidat více uživatelů najednou [importováním souboru tabulky CSV kompatibilního s Excelem](adding-multiple-users-to-a-customer-account.md). Před odesláním e-mailu nebo tiskem názvů a hesel z potvrzovací obrazovky můžete počkat, dokud nedokončíte celou sadu.
 
@@ -64,11 +59,11 @@ Následující postup platí pro přidání nebo odebrání uživatelských lice
 
 2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
 
-3. V nabídce zákazník vyberte **Uživatelé a licence** .
+3. V nabídce zákazník vyberte **Uživatelé a licence**.
 
 4. Vyberte jednoho nebo více uživatelů ze seznamu. Pokud například zákazník právě koupil nové licence a chtěli jste jim přiřadit lidi, kteří je ještě nemají, můžete k vyhledání správné skupiny použít možnost **filtrovat uživatele podle..** ..
 
-5. Vyberte **spravovat licence** . Proveďte změny a pak ho **uložte** .
+5. Vyberte **spravovat licence**. Proveďte změny a pak ho **uložte**.
 
 > [!NOTE]
 > U [Azure Marketplace produktů](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)se přiřazení licencí a aktivace spravují prostřednictvím nezávislého výrobce softwaru (ISV), který produkt zveřejnil.
@@ -81,9 +76,9 @@ Následující postup platí pro přidání nebo odebrání uživatelských lice
 
 2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
 
-3.  V nabídce zákazník vyberte **Uživatelé a licence** . Vyberte uživatele ze seznamu.
+3.  V nabídce zákazník vyberte **Uživatelé a licence**. Vyberte uživatele ze seznamu.
 
-4.  V dolní části obrazovky vyberte **resetovat heslo** . 
+4.  V dolní části obrazovky vyberte **resetovat heslo**. 
 
 5.  Poslat uživateli nové dočasné heslo.
 
@@ -91,11 +86,11 @@ Následující postup platí pro přidání nebo odebrání uživatelských lice
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Odstranění uživatelských účtů pro zákazníka
 
-1.  V nabídce **Partnerské centrum** vyberte **zákazníci** . Vyberte zákazníka ze seznamu.
+1.  V nabídce **Partnerské centrum** vyberte **zákazníci**. Vyberte zákazníka ze seznamu.
 
-2.  V nabídce zákazník vyberte **Uživatelé a licence** . Vyberte uživatele ze seznamu.
+2.  V nabídce zákazník vyberte **Uživatelé a licence**. Vyberte uživatele ze seznamu.
 
-3.  V dolní části obrazovky vyberte **Odstranit uživatelský účet** .
+3.  V dolní části obrazovky vyberte **Odstranit uživatelský účet**.
 
 Pokud potřebujete tento účet obnovit, můžete ho najít na kartě **odstraněné uživatele** v seznamu **Uživatelé a licence** zákazníka. K obnovení odstraněného uživatele máte 30 dní.
 
@@ -105,11 +100,11 @@ Pokud potřebujete tento účet obnovit, můžete ho najít na kartě **odstran�
 
 1.  V nabídce **Partnerské centrum** vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
 
-2.  Vyberte **Uživatelé a licence** .
+2.  Vyberte **Uživatelé a licence**.
 
 3.  Vyberte kartu **odstraněné uživatele ()** . V případě odstranění uživatelů, které lze obnovit, by mělo být přečteno **(1)** nebo vyšší.
 
-4.  Zaškrtněte jedno nebo více políček Odstraněná uživatelé a pak vyberte **obnovit** .
+4.  Zaškrtněte jedno nebo více políček Odstraněná uživatelé a pak vyberte **obnovit**.
 
     Všechny vybrané uživatelské účty se znovu zobrazí na stránce **Uživatelé a licence** .
 

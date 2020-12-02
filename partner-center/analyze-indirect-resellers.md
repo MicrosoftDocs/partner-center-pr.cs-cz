@@ -9,40 +9,34 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92527214"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474049"
 ---
-# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Analýza výkonu nepřímých prodejců pomocí analýzy
-
-**Platí pro**
-
-- Partnerské centrum
-- Partneři programu Cloud Solution Provider
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Analýza výkonu nepřímých prodejců pomocí analýzy
 
 **Příslušné role**
 
 - Globální správce
 - Správce správy uživatelů
-- Agent správce
-- Agent prodeje
+
 
 Datové jednotky: obchodní rozhodnutí. Pomocí metrik na stránce **analýzy prodejců** můžete identifikovat vaše úspěšnosti, nepřímými prodejci a oblasti, které vyžadují větší pozornost. Tyto informace použijte při plánování nových obchodních cílů.
 
 > [!NOTE]
-> Analytiky nepřímých prodejců jsou k dispozici pouze pro partnery v programu Cloud Solution Provider.
+> Analýzy nepřímých prodejců jsou k dispozici pouze pro nepřímé zprostředkovatele v programu Cloud Solution Provider.
 
 ## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Typy metrik analýzy prodejců, které můžete zobrazit
 
 Sledujeme následující metriky:
 
 **Souhrn**  
- - **Celkem prodejců** : počet aktivních prodejců za poslední den předplatného  
- - **Noví prodejci** : počet nových nepřímých prodejců za zadané časové období  
- - **Aktivní prodejci** : počet nepřímých prodejců, na kterých je MPNID aspoň 1 předplatné, a kde se stav předplatného nezrušil.  
+ - **Celkem prodejců**: počet aktivních prodejců za poslední den předplatného  
+ - **Noví prodejci**: počet nových nepřímých prodejců za zadané časové období  
+ - **Aktivní prodejci**: počet nepřímých prodejců, na kterých je MPNID aspoň 1 předplatné, a kde se stav předplatného nezrušil.  
  - **Transakce** v provozu: počet nepřímých prodejců s předplatným prodaným v zadaném časovém období  
 
 **Prodejci podle trhu**  
@@ -52,33 +46,33 @@ Sledujeme následující metriky:
  - Seznam prodejců seřazený podle počtu předplatných, která prodali  
 
 **Hlavní produkty podle počtu předplatných**  
- - **Dynamics 365** : produkty Dynamics 365 seřazené podle předplatných prodaných  
- - **EMS** : počet prodaných předplatných služby Enterprise Management Services  
- - **Microsoft 365** : počet prodaných předplatných Microsoft 365  
- - **Office 365** : produkty Office 365 seřazené podle předplatných prodaných  
+ - **Dynamics 365**: produkty Dynamics 365 seřazené podle předplatných prodaných  
+ - **EMS**: počet prodaných předplatných služby Enterprise Management Services  
+ - **Microsoft 365**: počet prodaných předplatných Microsoft 365  
+ - **Office 365**: produkty Office 365 seřazené podle předplatných prodaných  
 
 **Nová předplatná**  
  - Počet nových předplatných přidaných podle data  
 
 **Změny předplatného**  
- - **Nová předplatná** : počet nových předplatných přidaných podle data  
- - **Odzřízené odběry** : Počet zrušených předplatných nebo pozastavených podle data  
+ - **Nová předplatná**: počet nových předplatných přidaných podle data  
+ - **Odzřízené odběry**: Počet zrušených předplatných nebo pozastavených podle data  
 
 **Podrobnosti o novém prodejci**  
- - **Jméno prodejce** : názvy nepřímých prodejců  
- - **Umístění** : trhy, kde pracují nepřímé prodejci  
- - **Předplatná** : počet předplatných, které prodejce prodal  
- - **Licence** : celkový počet licencí, které prodejce proprodal napříč všemi předplatnými  
+ - **Jméno prodejce**: názvy nepřímých prodejců  
+ - **Umístění**: trhy, kde pracují nepřímé prodejci  
+ - **Předplatná**: počet předplatných, které prodejce prodal  
+ - **Licence**: celkový počet licencí, které prodejce proprodal napříč všemi předplatnými  
 
 **Stav podepsaný v technologii MPA**
 
 V této části je uveden stav podepsaných u nepřímých prodejců CSP.
 
- - **Jméno prodejce** : název nepřímého prodejce CSP
- - **MPN ID** : MPN ID nepřímého prodejce
- - **Oblast** : oblast, kde pracuje nepřímý prodejce
- - **Stav programu MPN dozvíte ČSFD** : dozvíte ČSFD status nepřímého prodejce
- - **Stav podepsané aktivace** : stav podepisování technologie MPa pro nepřímý prodejce
+ - **Jméno prodejce**: název nepřímého prodejce CSP
+ - **MPN ID**: MPN ID nepřímého prodejce
+ - **Oblast**: oblast, kde pracuje nepřímý prodejce
+ - **Stav programu MPN dozvíte ČSFD**: dozvíte ČSFD status nepřímého prodejce
+ - **Stav podepsané aktivace**: stav podepisování technologie MPa pro nepřímý prodejce
 
 Kliknutím na ikonu Stáhnout v grafu si můžete stáhnout data o stavu s podpisem aktivace s dalšími dimenzemi.
   
