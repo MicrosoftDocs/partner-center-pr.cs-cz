@@ -2,6 +2,8 @@
   href: index.yml
 - name: Oznámení
   href: announcements/TOC.md
+- name: Informace o Partnerském centru
+  href: overview.md
 - name: Členství v programu Partner Network
   items:
     - name: Partner Microsoftu
@@ -60,8 +62,13 @@
         - name: Výjimka z kompetence Application Development
           href: app-dev-isv.md
     - name: Rozšířené specializace
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: Předvedení vaší odbornosti
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: Žádost nebo kontrola stavu
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: Staňte se Poskytovatelem spravovaných služeb Azure Expert
       href: azure-expert-msp.md
     - name: Výhody
