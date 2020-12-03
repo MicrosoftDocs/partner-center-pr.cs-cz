@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si, jak vám partnerský kredit (PEC) nabízí zjednodušené ceny Azure, poskytuje spravované služby s přidanou hodnotou a pomáhá eliminovat soutěž na maržích.
+description: Seznamte se s tím, jak vydaný kredit (PEC) nabízí zjednodušené jednotné ceny Azure a spravované služby s přidanou hodnotou a zároveň pomáhá eliminovat soutěž na maržích.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92527182"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556391"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Získaný kredit partnerů – přehled o tom, jak funguje v novém prostředí pro obchodování v CSP
 
@@ -51,20 +51,20 @@ Když se zákazníci přejdou na platformy cloud computingu, čelí se správou 
 
 Vaši zákazníci vám budou mít na maximum své podnikání v Azure. Se spravovanými službami můžete zákazníkům pravidelně poskytovat bílou šetrnější službu. Mezi každodenní operace a podporu, které byste mohli poskytnout, patří:
 
-- **Cloudové operace a služby pro správu** : zákazníci, kteří mají za cíl snížit náklady v Azure, když reprodukuje izolaci, zásady zabezpečení a modely auditu, které ještě dnes mají. Očekávají taky, že partneři mají přístup k vyspělým nástrojům pro identifikaci vhodnosti úloh a také jednorázovému nasazení a průběžným provozním nákladům na Azure. Kromě toho zákazníci potřebují podporu pro automatizaci a orchestraci, opravy aktualizací, správu konfigurace, zálohování a zotavení po havárii a správu identit. 
+- **Cloudové operace a služby pro správu**: zákazníci, kteří mají za cíl snížit náklady v Azure, když reprodukuje izolaci, zásady zabezpečení a modely auditu, které ještě dnes mají. Očekávají taky, že partneři mají přístup k vyspělým nástrojům pro identifikaci vhodnosti úloh a také jednorázovému nasazení a průběžným provozním nákladům na Azure. Kromě toho zákazníci potřebují podporu pro automatizaci a orchestraci, opravy aktualizací, správu konfigurace, zálohování a zotavení po havárii a správu identit. 
 
-- **Monitorování cloudu a technická podpora** : ve světě cloudové spotřeby se vyvinuly nástroje a požadavky, ale to, že se nezměnily správné prostředky pro správu IT infrastruktury, se nezměnily. Většina organizací jednoduše nemá čas, prostředky nebo vyhrazené zaměstnance potřebné k monitorování všech aspektů. v takovém případě jste jako důvěryhodný partner přidali nejvíc hodnot. I když Azure nabízí mnoho integrovaných partnerů pro monitorování, kteří poskytují další, hlubší nástroje pro monitorování, rozhodnou falešně pozitivní výstrahy od skutečných výstrah a proaktivně se upozorní na výstrahy předtím, než bude potřeba měřitelné ztráty ve výkonu. 
+- **Monitorování cloudu a technická podpora**: ve světě cloudové spotřeby se vyvinuly nástroje a požadavky, ale to, že se nezměnily správné prostředky pro správu IT infrastruktury, se nezměnily. Většina organizací jednoduše nemá čas, prostředky nebo vyhrazené zaměstnance potřebné k monitorování všech aspektů. v takovém případě jste jako důvěryhodný partner přidali nejvíc hodnot. I když Azure nabízí mnoho integrovaných partnerů pro monitorování, kteří poskytují další, hlubší nástroje pro monitorování, rozhodnou falešně pozitivní výstrahy od skutečných výstrah a proaktivně se upozorní na výstrahy předtím, než bude potřeba měřitelné ztráty ve výkonu. 
 
 
 ### <a name="included-in-monitoring-and-technical-support"></a>Zahrnuté do monitorování a technické podpory:
 
-- **Sledování stavu systému** : kompletní monitorování virtuálních počítačů, využití procesoru, využití paměti, IOPS úložiště a výkon operačního systému. Zahrnuje monitorování výkonu aplikací a stavu provozu a řídicích panelů a sestav na stav systému.
+- **Sledování stavu systému**: kompletní monitorování virtuálních počítačů, využití procesoru, využití paměti, IOPS úložiště a výkon operačního systému. Zahrnuje monitorování výkonu aplikací a stavu provozu a řídicích panelů a sestav na stav systému.
 
-- **Log Analytics a výstrahy** : každý klient, zařízení a uživatel přistupující k síti vytvoří data, která se protokolují. Analýza protokolů může nabídnout hlubší přehled o výkonu, zabezpečení, spotřebě prostředků a dalších smysluplných metrikách.
+- **Log Analytics a výstrahy**: každý klient, zařízení a uživatel přistupující k síti vytvoří data, která se protokolují. Analýza protokolů může nabídnout hlubší přehled o výkonu, zabezpečení, spotřebě prostředků a dalších smysluplných metrikách.
 
-- **Monitorování databáze** : zobrazení databáze zákazníků, které partnerům pomáhá zajistit vysokou dostupnost databázových serverů. Tento proces zahrnuje uchovávání protokolů velikosti, času připojení a uživatelů databází, analýze trendů využití a využití dat k proaktivnímu napravení problémů.
+- **Monitorování databáze**: zobrazení databáze zákazníků, které partnerům pomáhá zajistit vysokou dostupnost databázových serverů. Tento proces zahrnuje uchovávání protokolů velikosti, času připojení a uživatelů databází, analýze trendů využití a využití dat k proaktivnímu napravení problémů.
 
-- **Sledování výkonu aplikací** : kompletní sledování všech aspektů aplikace (nebo webové stránky). Monitorování aplikací zahrnuje sledování každé části od nákupních košíků až po registrační stránky – u zákaznických aplikací, které mají problémy s výkonem, aby bylo zajištěno nejlepší možné uživatelské prostředí.
+- **Sledování výkonu aplikací**: kompletní sledování všech aspektů aplikace (nebo webové stránky). Monitorování aplikací zahrnuje sledování každé části od nákupních košíků až po registrační stránky – u zákaznických aplikací, které mají problémy s výkonem, aby bylo zajištěno nejlepší možné uživatelské prostředí.
 
 Přečtěte si další informace o tom, jak rozšířit [portfolio spravované služby pomocí Azure](https://partner.microsoft.com/campaigns/cloud-playbooks-thank-you).
 
@@ -75,6 +75,6 @@ Tyto služby představují odpovídající úroveň přístupu pro partnery do p
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Jak se vypočítá a hradí partnerský placený kredit](partner-earned-credit-explanation.md)
+- [Principy výpočtu a vyplácení kreditu získaného partnerem](partner-earned-credit-explanation.md)
 - [Správa předplatných a prostředků v rámci plánu Azure](azure-plan-manage.md)
 - [Ceník pro nové prostředí Azure Commerce v CSP](azure-plan-price-list.md)

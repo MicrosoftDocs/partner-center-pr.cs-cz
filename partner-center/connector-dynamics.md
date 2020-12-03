@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Synchronizujte své odkazy v partnerském centru s konektorem pro spoluprodeji pro Dynamics 365 CRM. Prodejci pak můžou v rámci svých systémů CRM prodávat společně s Microsoftem.
+description: Synchronizujte odkazy v partnerském centru s konektorem pro spoluprodeji pro Dynamics 365 CRM. Prodejci pak můžou v rámci svých systémů CRM prodávat společně s Microsoftem.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 18a54bf777cb987e8f486f85afcf277e04c1055c
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947737"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556357"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Konektor pro společný prodej pro Dynamics 365 CRM – přehled
 

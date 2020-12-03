@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Přečtěte si o výhodách Microsoft Partner Network (MPN), včetně Microsoft Action packu, kompetence a možností programu, jak přejít na trh a prodávat vaše řešení.
+description: Přečtěte si o výhodách Microsoft Partner Network (MPN), jako je Microsoft Action Pack, kompetence nebo možnosti programu, které umožňují přejít na trh a prodávat vaše řešení.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527789"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556374"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner s Microsoftem a zjišťování výhod členství
 
@@ -31,7 +31,7 @@ Když se připojíte k programu Microsoft Partner program, stanete se součást�
 
 ## <a name="join-the-microsoft-partner-network"></a>Připojit k Microsoft Partner Network
 
-Pokud se chcete připojit k Microsoft Partner Network, klikněte na webu MPN na [stránku **členství**](https://partner.microsoft.com/membership) a vyberte **zapsat** nebo **připojit se nyní** .
+Pokud se chcete připojit k Microsoft Partner Network, klikněte na webu MPN na [stránku **členství**](https://partner.microsoft.com/membership) a vyberte **zapsat** nebo **připojit se nyní**.
 
 ## <a name="action-pack"></a>Akční balíček
 

@@ -1,22 +1,22 @@
 ---
-title: Upgradovat domácí zákazníky s Windows 10 na Windows 10 – vzdělávání
+title: Upgradovat Windows 10 Home na Windows 10 – vzdělávání
 ms.topic: article
 ms.date: 10/28/2020
-description: Upgradovat domácí zákazníky s Windows 10 na Windows 10 – vzdělávání
+description: Přečtěte si, jak partneři poskytovatele Cloud Solution Provider (CSP) můžou upgradovat některé ze svých zákazníků z oblasti vzdělávání z Windows 10 domů na Windows 10 – vzdělávání
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94359999"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556408"
 ---
-# <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Upgradovat domácí zákazníky s Windows 10 na Windows 10 – vzdělávání
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Upgradujte některé zákazníky pro vzdělávání z Windows 10 Home na Windows 10 vzdělávání.
 
 **Platí pro**
 
@@ -63,7 +63,7 @@ Partneři by měli vytvořit žádost o podporu a získat klíče z podpory. Par
 - **Popis:** Vyžadování klíčů [insert number] pro povolení upgradu na vzdělávání s Windows 10. (Všimněte si, že počet požadovaných klíčů nesmí být větší než vaše Microsoft 365 licence k předplatnému Windows 10 Enterprise a3/a5.) ID předplatného zákazníka [vložit identifikátor GUID ID předplatného pro zákazníky pro svoje předplatné Microsoft 365 a3/a5 nebo Windows 10 Enterprise a3/a5.]
 - **Kontaktní číslo:** Tato akce bude vyplněna. Zkontrolujte a potvrďte nebo aktualizujte.
 - **E-mail:** Tato akce bude vyplněna a měla by se jednat o e-mail, který používáte jako správce portálu Microsoft Portal (pouze správce globálního správce nebo fakturace).
-- **Preferovaný způsob kontaktu** : vyberte **telefon** nebo **Naplánujte zpětné volání**.
+- **Preferovaný způsob kontaktu**: vyberte **telefon** nebo **Naplánujte zpětné volání**.
 
 8. Vyberte **kontakt mi**. Očekávaná čekací doba je uvedena v podokně **Potřebuji Help?** .
 

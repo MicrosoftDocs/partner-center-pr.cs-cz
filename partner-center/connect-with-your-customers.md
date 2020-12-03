@@ -1,6 +1,6 @@
 ---
-title: Spojte se s vašimi zákazníky
-description: Přečtěte si, jak se připojit k novým a stávajícím zákazníkům jako nepřímý prodejce
+title: Spojení se zákazníky
+description: Pokud jste nepřímý prodejce v programu CSP, Tento článek vám pomůže s tím, že se připojíte k novým a stávajícím zákazníkům.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,14 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: dc0d5af728b5e17bc8070fae9c895adc2bf8db4c
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92527666"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556306"
 ---
-# <a name="connect-with-customers"></a>Spojte se se zákazníky
+# <a name="connect-with-customers"></a>Spojení se zákazníky
 
 **Platí pro:**
 
@@ -38,7 +38,7 @@ Když se připojíte pomocí nepřímého poskytovatele, nebudete automaticky z�
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Pozvání zákazníka k navázání vztahu prodejce s vámi
 
-1. V nabídce **partnerského centra** vyberte **zákazníci** a pak vyberte **požádat o vztah prodejce** .
+1. V nabídce **partnerského centra** vyberte **zákazníci** a pak vyberte **požádat o vztah prodejce**.
 
 2. Na další stránce zkontrolujte koncept e-mailové zprávy. Koncept zprávy můžete otevřít v e-mailu nebo můžete zprávu zkopírovat do schránky a vložit ji do e-mailu.
 
@@ -82,9 +82,9 @@ Chcete-li odebrat vztah se zákazníkem, proveďte následující kroky:
 
 1.  V partnerském centru klikněte na **zákazníci** a vyberte zákazníka, jehož relaci chcete odebrat.
 
-2.  Vyberte **účet** .
+2.  Vyberte **účet**.
 
-3.  Vyberte možnost **odebrat vztah zákazníka** .
+3.  Vyberte možnost **odebrat vztah zákazníka**.
 
 4.  Zákazník se už nebude zobrazovat v seznamu zákazníků.
 
@@ -95,4 +95,4 @@ Chcete-li odebrat vztah se zákazníkem, proveďte následující kroky:
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Přidat nového zákazníka](add-a-new-customer.md)
+- [Přidání nového zákazníka](add-a-new-customer.md)
