@@ -9,14 +9,14 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527347"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534722"
 ---
-# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Ceník pro nové prostředí pro obchodování v CSP pro Azure
+# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Ceník nového obchodního prostředí v CSP pro Azure
 
 **Příslušné role**
 
@@ -31,16 +31,16 @@ Ceník pro nové prostředí Azure Commerce v CSP je zveřejněný v partnerské
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Podívejte se na ceny předplatných podle plánu Azure
 
-1. V nabídce partnerského centra na levé straně vyberte **prodávat** a pak vyberte **Marketplace** .
+1. V nabídce partnerského centra na levé straně vyberte **prodávat** a pak vyberte **Marketplace**.
 
 2. V části ceny plánu Azure vyberte zemi, pro kterou chcete počítat s cenami.
 
-3. Vedle **pole typ exportu** vyberte **ceny za využití plánu Azure** , **ceny za rezervace plánu Azure** nebo **devizové sazby** . 
+3. Vedle **pole typ exportu** vyberte **ceny za využití plánu Azure**, **ceny za rezervace plánu Azure** nebo **devizové sazby**. 
 
 >[!NOTE] 
 >**Sazby za FX** nejsou specifické pro země.
 
-4. V poli **ceny pro datum** vyberte datum, které chcete, například **aktuální** .
+4. V poli **ceny pro datum** vyberte datum, které chcete, například **aktuální**.
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="konkrétní země":::
 
@@ -49,21 +49,21 @@ Ceník pro nové prostředí Azure Commerce v CSP je zveřejněný v partnerské
 
 ## <a name="azure-price-list-specifics"></a>Specifické ceny Azure pro ceník
 
-- Ceny plánu Azure budou k dispozici na stránce Marketplace v partnerském centru v části **prodej** .
+- Ceny plánu Azure budou k dispozici na stránce Marketplace v partnerském centru v části **prodej**.
 
 - K dispozici jsou exporty pro služby spotřeby plánů Azure, Azure Reservations a míry FX.
 
 - Mezi možnosti exportu patří:
 
-  - **Dnešní ceny** : zahrnuje všechny měřiče a ceny od 1. měsíce k aktuálnímu datu aktuálního měsíce. To zahrnuje nové ceny, změněné ceny nebo odebrané ceny. Všechny ceny budou mít počáteční počáteční a koncové datum, které vysvětlí, jestli jsou nové nebo odebrané.
+  - **Dnešní ceny**: zahrnuje všechny měřiče a ceny od 1. měsíce k aktuálnímu datu aktuálního měsíce. To zahrnuje nové ceny, změněné ceny nebo odebrané ceny. Všechny ceny budou mít počáteční počáteční a koncové datum, které vysvětlí, jestli jsou nové nebo odebrané.
 
-  - **Ceny za předchozí měsíc** : stažení každého typu prostředku bude po měsících. Pro soubory s cenami budou zahrnuty všechny měřiče, které byly během daného měsíce k dispozici. Pokud se v průběhu měsíce objevilo nové měření, zobrazí se mi jako měřič s datem účinnosti, který odráží jeho dostupnost. Podobně jako u cen, které jsou vyřazeny, zobrazuje s nejefektivnějším koncovým datem, které popisují, kdy již nejsou k dispozici.
+  - **Ceny za předchozí měsíc**: stažení každého typu prostředku bude po měsících. Pro soubory s cenami budou zahrnuty všechny měřiče, které byly během daného měsíce k dispozici. Pokud se v průběhu měsíce objevilo nové měření, zobrazí se mi jako měřič s datem účinnosti, který odráží jeho dostupnost. Podobně jako u cen, které jsou vyřazeny, zobrazuje s nejefektivnějším koncovým datem, které popisují, kdy již nejsou k dispozici.
 
-  - **Frekvence FX** : pro stažení za den před 1.18:00 PST budou k dispozici poplatky za FX. Například pokud chcete, aby se sazby za listopad, stáhly do 31. října. Sazby za předchozí měsíc budou také k dispozici.
+  - **Frekvence FX**: pro stažení za den před 1.18:00 PST budou k dispozici poplatky za FX. Například pokud chcete, aby se sazby za listopad, stáhly do 31. října. Sazby za předchozí měsíc budou také k dispozici.
 
 - Ceny v ceníkech jsou přímé ceny. Někteří partneři můžou mít nárok na kredity, které získali partneři. Informace o tom, jak se vypočítal partner získaný kredit, najdete v tématu [Výpočet a platby pro partnerský účet](partner-earned-credit-explanation.md).
 
-- **Opravňující služby** : získaný partnerský kredit se vztahuje na služby uvedené v **cenovém** partnerovi pro Azure Plan – ceny se můžou exportovat na stránce s [cenami plánu Azure](https://partner.microsoft.com/commerce/sales) . Všimněte si, že existují výjimky, včetně produktů třetích stran, které jsou označené jako "třetí strana" ve sloupci značky v seznamu cena za využití plánu Azure a rezervacích plánu Azure.
+- **Opravňující služby**: získaný partnerský kredit se vztahuje na služby uvedené v **cenovém** partnerovi pro Azure Plan – ceny se můžou exportovat na stránce s [cenami plánu Azure](https://partner.microsoft.com/commerce/sales) . Všimněte si, že existují výjimky, včetně produktů třetích stran, které jsou označené jako "třetí strana" ve sloupci značky v seznamu cena za využití plánu Azure a rezervacích plánu Azure.
 
 ## <a name="price-list-data"></a>Data ceníku
 
@@ -114,3 +114,7 @@ Toto rozhraní API také umožňuje partnerům načítat měsíční sazby, prot
 > Cenové rozhraní API je specifické pro ceny plánu Azure. Pořád byste měli používat stávající RateCard API a ceníky publikované na stránce ceny a nabídky partnerského centra pro prostředky Azure nebo rezervace nasazené do předplatných plánů mimo Azure. Cenové rozhraní API pro Azure Plan nepodporuje software, Marketplace ani ceny založené na licencích, jako je Microsoft 365 nebo Dynamics 365.
 
 Další informace o cenách plánu Azure a rozhraní API pro cizí kurz najdete v [dokumentaci k rozhraní API](/partner/develop/pricing)pro celou cenu.
+
+## <a name="next-steps"></a>Další kroky
+
+- [Správa předplatných a prostředků v rámci plánu Azure](azure-plan-manage.md)

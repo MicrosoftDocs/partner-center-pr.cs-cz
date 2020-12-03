@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527305"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534688"
 ---
-# <a name="new-commerce-experience-in-csp---azure-billing"></a>Nové prostředí pro obchod ve zprostředkovateli CSP – fakturace Azure 
+# <a name="new-commerce-experience-in-csp---azure-billing"></a>Nové obchodní prostředí v CSP – Fakturace Azure 
 
-**Příslušné role:**
+**Příslušné role**
 
 - Agent správce
 - Správce fakturace
 - Globální správce
 
-Fakturace v rámci plánu Azure je zjednodušené fakturační prostředí s využitím zarovnaných a fakturačních období na základě kalendářního měsíce.
+Tento článek vysvětluje, jak získat přístup ke struktuře souborů fakturace a odsouhlasení souvisejících s fakturací za plán Azure. Fakturace v rámci plánu Azure je zjednodušené fakturační prostředí s využitím zarovnaných a fakturačních období na základě kalendářního měsíce.
 
 ## <a name="summary-of-billing-essentials"></a>Shrnutí základních informací o fakturaci
 
-- **Datum faktury** : soubor fakturace a odsouhlasení bude k dispozici v 8. bodě a řídicím panelu partnerského centra/rozhraní API.
+- **Datum faktury**: soubor fakturace a odsouhlasení bude k dispozici v 8. bodě a řídicím panelu partnerského centra/rozhraní API.
 
-- **Fakturační období faktury** : fakturační období faktury je zarovnané na kalendářní měsíc, například 10/1-10/31, 11/1-11/30.
+- **Fakturační období faktury**: fakturační období faktury je zarovnané na kalendářní měsíc, například 10/1-10/31, 11/1-11/30.
 
-- Poplatky **za období služby** : poplatky se budou zarovnávat do kalendářního měsíce. Pokud třeba účtováná partner přidá služby Azure prostřednictvím plánu Azure na 10/15 a zákazník začne využívat služby Azure na 10/15, bude vám účtovaný partner dostávat faktury nebo rekognoskaci na 11/8 za spotřebu zákazníka za období služby 10/15-10/31. Faktura za příští měsíc, která se vygeneruje v 12/8, obsahuje všechny poplatky za období služby 11/1-11/31.
+- Poplatky **za období služby**: poplatky se budou zarovnávat do kalendářního měsíce. Pokud třeba účtováná partner přidá služby Azure prostřednictvím plánu Azure na 10/15 a zákazník začne využívat služby Azure na 10/15, bude vám účtovaný partner dostávat faktury nebo rekognoskaci na 11/8 za spotřebu zákazníka za období služby 10/15-10/31. Faktura za příští měsíc, která se vygeneruje v 12/8, obsahuje všechny poplatky za období služby 11/1-11/31.
 
-- **Platební podmínka faktury** : NET 60 dní.
+- **Platební podmínka faktury**: NET 60 dní.
 
-- **Měna faktury** : partneři se budou dál účtovat v přiřazené měně zákazníka v country's. Pokud je například účtovaný partner v Irsku se zákazníky ve Spojeném království, Norsku a Německu, bude se fakturovaná Partnerská adresa GBP, NOK a EUR a rekognoskaci.
+- **Měna faktury**: partneři se budou dál účtovat v přiřazené měně zákazníka v country's. Pokud je například účtovaný partner v Irsku se zákazníky ve Spojeném království, Norsku a Německu, bude se fakturovaná Partnerská adresa GBP, NOK a EUR a rekognoskaci.
 
-- **Pobídky pro partnery** : placené 45 dny od konce měsíce faktury.
+- **Pobídky pro partnery**: placené 45 dny od konce měsíce faktury.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Přístup k vašim fakturám a souborům pro odsouhlasení
 
@@ -48,13 +48,13 @@ Přístup k souboru faktury a odsouhlasení:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/)partnerského centra.
 
-2. V nabídce partnerského centra vyberte **fakturace** .
+2. V nabídce partnerského centra vyberte **fakturace**.
 
 3. Vyberte kartu pro **opakovanou** a **jednorázovou** a měnu, které vás zajímají.
 
    :::image type="content" source="images/azure/billing3.png" alt-text="fakturované":::
 
-4. Vyberte soubor **faktury** nebo **souboru k odsouhlasení** .  
+4. Vyberte soubor **faktury** nebo **souboru k odsouhlasení**.  
 
    Chcete-li zobrazit historické faktury a soubory rekognoskaci, rozbalte řádek historie fakturace níže.
 
@@ -106,7 +106,7 @@ Přístup k souboru faktury a odsouhlasení:
 
 5. Další informace o fakturaci najdete v souboru rekognoskaci faktury a v souboru denního hodnocení využití.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="fakturované":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="faktur":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Přečtěte si soubor odsouhlasení faktury
 
@@ -134,7 +134,7 @@ Přístup k souboru faktury a odsouhlasení:
 
   - Pro měřený **kredit pro služby spravované** z 7/8-7/31 se měří na měřič. (Poznámka: efektivní Jednotková cena je cenově dosažená za maloobchodní cenu, která je nižší než partnerský.
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="fakturované":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
 ## <a name="invoice-in-customer-currency"></a>Faktura v měně zákazníka
 
@@ -142,7 +142,7 @@ Ceny služeb Azure v rámci plánu Azure budou platit v USD a budou se fakturova
 
 Microsoft použije Thomson Reuters k určení sazeb za FX, které se používají k určení cenové měny pro převod zúčtovací měny. Sazby za FX budou aktualizovány a k dispozici v den před prvním dnem v měsíci, pro které se vztahují.
 
-**Příklad** : poplatky za využití pro období služby od 1. srpna 31 se budou fakturovat pomocí sazby FX publikované dne 31. července. Tyto poplatky se zobrazí na faktuře z září a na poslední stránce faktury se zaznamená sazba na FX.
+**Příklad**: poplatky za využití pro období služby od 1. srpna 31 se budou fakturovat pomocí sazby FX publikované dne 31. července. Tyto poplatky se zobrazí na faktuře z září a na poslední stránce faktury se zaznamená sazba na FX.
 
 ## <a name="azure-reservations"></a>Rezervace Azure
 
@@ -160,7 +160,7 @@ Stávající prostředí Azure útraty se aktualizuje tak, aby podporovalo nové
 
 Vzhledem k tomu, že model fakturace pro služby Azure prostřednictvím plánu Azure je spotřeba po platbě, aby se předešlo většímu množství, než je očekávané, můžou partneři použít měsíční rozpočet a sledovat procento využití. Rozpočet lze použít na jednoho zákazníka nebo více zákazníků najednou. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="fakturované":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Útrata v Azure":::
 
 ## <a name="next-steps"></a>Další kroky
 

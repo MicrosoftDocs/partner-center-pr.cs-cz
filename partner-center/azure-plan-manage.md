@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527596"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534926"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Správa předplatných a prostředků v rámci plánu Azure
 
-Při převodu zákazníka na plán Azure vám standardně přiřadíte oprávnění správce v Azure (práva vlastníka předplatného prostřednictvím Správce jménem).
+**Příslušné role**
+
+- Agent správce
+
+
+V tomto článku se dozvíte, jak partneři CSP můžou pomocí různých možností řízení přístupu na základě role (RBAC) získat provozní kontrolu a správu prostředků Azure zákazníka. Při převodu zákazníka na plán Azure vám standardně přiřadíte oprávnění správce v Azure (práva vlastníka předplatného prostřednictvím Správce jménem).
 
  > [!NOTE]
  > Oprávnění správce k předplatnému Azure může odebrat zákazník na základě předplatného, skupiny prostředků nebo úrovně zatížení. 
@@ -27,9 +32,9 @@ Při převodu zákazníka na plán Azure vám standardně přiřadíte oprávně
 
 - **Správce jménem (administrate)** – s [administrate](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)bude mít každý uživatel s rolí agenta správce v partnerském tenantovi přístup k předplatným Azure, které vytvoříte prostřednictvím programu CSP.
 
-- **Azure Lighthouse** : administrate neumožňuje flexibilitu vytvářet odlišné skupiny, které pracují s různými zákazníky, nebo pro skupiny nebo uživatele povolit různé role. Pomocí Azure Lighthouse můžete přiřadit různé skupiny různým zákazníkům nebo rolím. Vzhledem k tomu, že uživatelé budou mít odpovídající úroveň přístupu prostřednictvím delegované správy prostředků Azure, můžete snížit počet uživatelů, kteří mají roli agenta správce (a mít tak úplný přístup k ADMINISTRATE). To pomáhá zlepšovat zabezpečení tím, že omezuje zbytečný přístup k prostředkům vašich zákazníků. Nabízí také větší flexibilitu při správě více zákazníků ve velkém měřítku. Další informace najdete v tématu věnovaném nástroji [Azure Lighthouse a programu Cloud Solution Provider](/azure/lighthouse/concepts/cloud-solution-provider).
+- **Azure Lighthouse**: administrate neumožňuje flexibilitu vytvářet odlišné skupiny, které pracují s různými zákazníky, nebo pro skupiny nebo uživatele povolit různé role. Pomocí Azure Lighthouse můžete přiřadit různé skupiny různým zákazníkům nebo rolím. Vzhledem k tomu, že uživatelé budou mít odpovídající úroveň přístupu prostřednictvím delegované správy prostředků Azure, můžete snížit počet uživatelů, kteří mají roli agenta správce (a mít tak úplný přístup k ADMINISTRATE). To pomáhá zlepšovat zabezpečení tím, že omezuje zbytečný přístup k prostředkům vašich zákazníků. Nabízí také větší flexibilitu při správě více zákazníků ve velkém měřítku. Další informace najdete v tématu věnovaném nástroji [Azure Lighthouse a programu Cloud Solution Provider](/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Uživatelé adresáře nebo hostů nebo [instanční objekty](/azure/active-directory/develop/app-objects-and-service-principals)** : podrobnější přístup k předplatným CSP můžete delegovat přidáním uživatelů v adresáři zákazníka nebo přidáním uživatelů typu Host a přiřazením konkrétních rolí RBAC.
+- **Uživatelé adresáře nebo hostů nebo [instanční objekty](/azure/active-directory/develop/app-objects-and-service-principals)**: podrobnější přístup k předplatným CSP můžete delegovat přidáním uživatelů v adresáři zákazníka nebo přidáním uživatelů typu Host a přiřazením konkrétních rolí RBAC.
 
 Microsoft doporučuje, aby uživatelé měli minimální oprávnění, která potřebují k tomu, aby pracovali jako bezpečnostní postupy. Viz [Azure Active Directory Privileged Identity Management prostředky](/azure/active-directory/privileged-identity-management/pim-configure).
 
@@ -60,11 +65,11 @@ Pro správu služeb zákazníka a přijímání realizovaných kreditů vyžaduj
 
 2. Vyberte typ akce, kterou má výstraha provést. Pokud například zadáte, že chcete e-mailem, obdržíte e-mail s upozorněním, pokud dojde k odstranění přiřazení role.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Výstraha Azure":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="konfigurovat výstrahu":::
 
 ### <a name="aobo-removal"></a>Odebrání ADMINISTRATE
 
-Zákazníci mohou spravovat přístup ke svým předplatným, a to tak, že v Azure Portal **Access Control** . Na kartě **přiřazení rolí** vyberte možnost **Odebrat přístup** . Pokud k tomu dojde, můžete:
+Zákazníci mohou spravovat přístup ke svým předplatným, a to tak, že v Azure Portal **Access Control** . Na kartě **přiřazení rolí** vyberte možnost **Odebrat přístup**. Pokud k tomu dojde, můžete:
 
 - Poraďte se se zákazníkem a zjistěte, jestli je možné obnovit přístup správce.
 

@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48774cb830ceb575a84177efb57431afdcb9b25
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.openlocfilehash: 8c36883dc7d12b7ea0ce8f2644dbac86595ab131
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "92527236"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534586"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Role a oprávnění, která mají nárok na získání realizovaného kreditu partnerů
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>Role a oprávnění vyžadovaná k získání kreditu získaného partnerským serverem
 
 Následující role se mapují na úrovně oprávnění, které určují, jestli má partner nárok na získané kredity partnerů.
 
@@ -55,7 +55,7 @@ Azure Service Bus přijímač dat | Umožňuje získat přístup k prostředkům
 Azure Service Bus odesílatel dat | Umožňuje odeslat přístup k prostředkům Azure Service Bus. | Ano | 
 Vlastník registrace Azure Stack | Umožňuje spravovat Azure Stack registrace. | Ano | 
 Přispěvatel zálohování | Umožňuje správu služby zálohování, ale nemůže vytvářet trezory a udělovat přístup jiným uživatelům. | Ano | 
-Operátor zálohování | Umožňuje správu zálohovacích služeb s výjimkou odebrání zálohování, vytváření trezoru a poskytování přístupu jiným uživatelům. | Ano | 
+Operátor záloh | Umožňuje správu zálohovacích služeb s výjimkou odebrání zálohování, vytváření trezoru a poskytování přístupu jiným uživatelům. | Ano | 
 Čtečka zálohování | Může zobrazovat služby zálohování, ale nemůže provádět změny. | Ne | 
 Čtenář fakturace | Povolí přístup pro čtení k fakturačním údajům. | Ne | 
 Přispěvatel BizTalk | Umožňuje spravovat BizTalk Services, ale ne přístup k nim. | Ano | 
@@ -118,7 +118,7 @@ Správce zabezpečení (starší verze) | Toto je starší role. Místo toho pro
 Čtenář zabezpečení | Pouze v Security Center: může zobrazit doporučení a výstrahy, zobrazit zásady zabezpečení, zobrazit stavy zabezpečení, ale nemůže provádět změny. | Ne | 
 Přispěvatel Site Recovery | Umožňuje správu Site Recovery služby s výjimkou vytvoření trezoru a přiřazení role. | Ano | 
 Operátor Site Recovery | Umožňuje převzetí služeb při selhání a navrácení služeb po obnovení, ale jiné operace správy Site Recovery. | Ano | 
-Čtecí modul Site Recovery | Umožňuje zobrazit Site Recovery stav, ale nemůže provádět jiné operace správy. | Ne | 
+Čtenář Site Recovery | Umožňuje zobrazit Site Recovery stav, ale nemůže provádět jiné operace správy. | Ne | 
 Přispěvatel účtu prostorových kotev | Umožňuje spravovat prostorové kotvy ve vašem účtu, ale neodstraňovat je. | Ano | 
 Vlastník účtu prostorových ukotvení | Umožňuje spravovat prostorové kotvy v účtu, včetně jejich odstranění. | Ano | 
 Čtečka účtu prostorových kotev | Umožňuje vyhledat a číst vlastnosti prostorových ukotvení ve vašem účtu. | Ne | 
@@ -147,3 +147,7 @@ Přispěvatel virtuálních počítačů | Umožňuje správu virtuálních poč
 Přihlášení uživatele virtuálního počítače | Zobrazte Virtual Machines na portálu a přihlaste se jako běžný uživatel. | Ano | 
 Přispěvatel webového plánu | Umožňuje spravovat webové plány pro weby, ale ne přístup k nim. | Ano | 
 Přispěvatel webu | Umožňuje spravovat weby (nikoli webové plány), ale ne přístup k nim. | Ano |
+
+## <a name="next-steps"></a>Další kroky
+
+- [Získaný kredit partnerů – přehled o tom, jak funguje v novém prostředí pro obchodování v CSP](partner-earned-credit.md)

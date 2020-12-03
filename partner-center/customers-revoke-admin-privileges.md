@@ -1,7 +1,7 @@
 ---
 title: Získání oprávnění správce pro zákazníka
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Získejte oprávnění, která potřebujete ke správě služby nebo předplatného zákazníka jménem uživatele. Přečtěte si, jak se udělují, odvolají a spravují oprávnění.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92527121"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534875"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Získejte oprávnění ke správě služby nebo předplatného zákazníka.
 
@@ -31,7 +31,7 @@ Pokud chcete spravovat službu nebo předplatné zákazníka jménem uživatele,
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Pozvání zákazníka k navázání vztahu prodejce s vámi
 
-1.  Vyberte **zákazníci** a potom zvolte **požádat o vztah prodejce** .
+1.  Vyberte **zákazníci** a potom zvolte **požádat o vztah prodejce**.
 
 2.  Na další stránce zkontrolujte koncept e-mailové zprávy. Koncept zprávy můžete otevřít ve výchozí e-mailové aplikaci nebo můžete zprávu zkopírovat do schránky a vložit do e-mailu. 
 
@@ -47,13 +47,13 @@ Pokud chcete spravovat službu nebo předplatné zákazníka jménem uživatele,
 6.  Pokud chcete spravovat účet, služby, uživatele a licence zákazníka, rozbalte záznam zákazníka tak, že vyberete šipku dolů vedle svého jména a pak vyberete portál pro správu služby, kterou chcete spravovat.
 
 >[!IMPORTANT]  
->Zákazníci můžou na portálu pro správu služby změnit přiřazení nebo odebrání oprávnění správce. Nicméně pokud a dokud neprovedete znovu vyjednávání vaší smlouvy se zákazníkem, budete mít i nadále odpovědnost za poskytování zákaznické podpory a dodržování podmínek smlouvy pro prodejce v cloudu, a to i když zákazník znovu přiřadí nebo odebere oprávnění správce. V takové situaci, pokud zákazník vyžaduje pomoc, požádejte podporu Microsoftu o otevření žádosti o služby jménem zákazníka.
+>Zákazníci můžou na portálu pro správu služby změnit přiřazení nebo odebrání oprávnění správce. Musíte ale informovat zákazníka, že odebráním oprávnění správce znamená, že už nebudete moct za jeho jménem otevřít žádost o služby společnosti Microsoft. Tyto typy žádostí o služby nebude možné otevřít na účet zákazníka, dokud smlouvu nebudete dohodnout se zákazníkem.
 
 Vaši zákazníci si můžou zjistit, kteří z jejich partnerů mají oprávnění správce ke svému tenantovi z portálu pro správu Office 365. Použijte následující postup:
 
 1. Zákazník se musí přihlásit k portálu pro správu Office 365 jako globální správce.
 
-2. Vyberte **Nastavení**  >  **partnerské vztahy** .
+2. Vyberte **Nastavení**  >  **partnerské vztahy**.
 
 3. Na stránce **partnerské vztahy** se zobrazí zákazník se seznamem partnerů, se kterými pracují, a s uživateli, kterým byla udělena oprávnění delegovaná Správa ke svému tenantovi.
 
@@ -68,8 +68,8 @@ Zákazník se může rozhodnout odebrat vaše delegovaná oprávnění správce 
 Odebrání oprávnění delegované správy z partnera:
 
 1. Na stránce **partnerské vztahy** vyberte partnera, který vás zajímá.
-2. V podokně podrobností vyberte **Odebrat delegovaného správce** .
-3. V podokně potvrzení vyberte **Odebrat** .
+2. V podokně podrobností vyberte **Odebrat delegovaného správce**.
+3. V podokně potvrzení vyberte **Odebrat**.
 
 >[!IMPORTANT]  
 >Přiřazení rolí Azure AD k partnerovi jsou implicitní. Pokud se pokusíte zobrazit seznam členů rolí Azure AD pomocí portálu Azure AD nebo PowerShellu nebo grafu, partner se nevrátí. Pokud chcete zjistit, jestli se partneři přiřazují k rolím Azure AD, musíte na stránce partnerské vztahy na portálu pro správu Office 365 zjistit, jestli je partnerovi udělené oprávnění k delegované správě.

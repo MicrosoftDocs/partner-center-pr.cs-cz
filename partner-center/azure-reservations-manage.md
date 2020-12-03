@@ -9,20 +9,14 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527343"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534756"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Správa, zrušení, výměna nebo refundace Microsoft Azure rezervacích pro zákazníky
-
-**Platí pro**
-
-- Partnerské centrum
-- Microsoft Azure Portal 
-- Partneři v CSP
 
 **Příslušné role**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92527343"
 - Agent helpdesku
 - Agent prodeje
 - Správce správy uživatelů
+
+Tento článek vysvětluje, jak spravovat rezervace Azure pro zákazníka, včetně toho, jak zrušit rezervaci, vyměnit rezervaci nebo požádat o refundaci.
 
 > [!NOTE]
 > Tento článek se týká jenom partnerů v programu Cloud Solution Provider (CSP). [Tuto dokumentaci k rezervacím Azure](/azure/cost-management-billing/reservations)by si měli přečíst zákazníci, kteří používají jiné typy předplatných (například, platby na základě průběžných plateb, jednotlivce, smlouvy o zákaznících Microsoftu nebo předplatná smlouva Enterprise).
@@ -43,7 +39,7 @@ Pokud chcete spravovat rezervace Azure pro zákazníky po nákupu, vyberte záka
 
 3. V části **Akce** vyberte **Spravovat** , pokud chcete přejít na záznam o rezervacích zákazníka v Azure Portal. Na stránce s podrobnostmi o rezervacích dokončete úlohy podle následujících kroků.  
 
-    | **Výběr**   | **Záměr**    |
+    | **Výběr**   | **Schopn**    |
     |:-----------------------------|:-----------------|
     | **Přehled**   | Zobrazení podrobností o rezervacích zákazníka, včetně data vypršení platnosti, rozsahu a dat o využití **Poznámka:** Vyberte **refundaci** a vytvořte žádost o podporu s hodnocením pro nominální částku. Pokud chcete vytvořit žádost o podporu pro výměnu nevyužité části podmínky rezervace, vyberte **Exchange** .  
     | **Access Control (IAM)**   | Spravujte přístup k informacím o rezervacích zákazníka.|
@@ -66,9 +62,9 @@ Podrobnosti zrušení a poplatky najdete níže.
 
 |**Datum zrušení**<br> denní   |**Použití**    |**Kredit**  |**Předčasné ukončení**<br> vyjádřen    |**Limit refundace** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 nebo méně                         | No          | 100 %       | No                              | $50 000 USD   |
-|5 nebo méně                         | Ano         | Pro-hodnocené  | No                              | $50 000 USD   |
-|Více než 5                        | No          | Pro-hodnocené  | 12 %                             | $50 000 USD   |
+|5 nebo méně                         | Ne          | 100 %       | Ne                              | $50 000 USD   |
+|5 nebo méně                         | Ano         | Pro-hodnocené  | Ne                              | $50 000 USD   |
+|Více než 5                        | Ne          | Pro-hodnocené  | 12 %                             | $50 000 USD   |
 |Více než 5                        | Ano         | Pro-hodnocené  | 12 %                             | $50 000 USD   |
 
 ### <a name="how-exchanges-work"></a>Jak fungují funkce Exchange 

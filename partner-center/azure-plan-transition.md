@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527344"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534807"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Přechod zákazníků do plánu Azure ze stávajících nabídek Azure CSP
 
@@ -27,9 +27,9 @@ ms.locfileid: "92527344"
 - Agent prodeje
 - Správce správy uživatelů
 
-Nepřímá poskytovatelé a Přímí partneři s přímým přístupem můžou přejít na nové prostředí pro obchod, které je dostupné v programu poskytovatele Microsoft Cloudch služeb (CSP) pro Azure. (Nepřímí prodejci budou muset pracovat prostřednictvím jejich nepřímých zprostředkovatelů.) Zákazníci budou mít k dispozici zjednodušený způsob nákupu cloudových služeb, ať už se jedná o nákupy od partnerů, od prodejců Microsoftu nebo přímo na webu.
+V tomto článku se dozvíte, jak můžou partneři CSP používat Partnerské centrum k přesunu zákazníků ze stávajících nabídek CSP Azure do služeb Azure v rámci plánu Azure. Nepřímá poskytovatelé a Přímí partneři s přímým přístupem můžou přejít na nové prostředí pro obchod, které je dostupné v programu poskytovatele Microsoft Cloudch služeb (CSP) pro Azure. (Nepřímí prodejci budou muset pracovat prostřednictvím jejich nepřímých zprostředkovatelů.) Zákazníci budou mít k dispozici zjednodušený způsob nákupu cloudových služeb, ať už se jedná o nákupy od partnerů, od prodejců Microsoftu nebo přímo na webu.
 
-Možnost přechodu je určena jenom pro zákazníky, kteří přecházejí na nové prostředí pro obchod s Azure a kteří podepsali smlouvu o zákaznících Microsoftu, a ne pro jiné nabídky ve zprostředkovateli CSP, jako je například Office 365 nebo Dynamics 365.
+Možnost přechodu je určena jenom pro zákazníky, kteří přecházejí na nové prostředí pro obchod s Azure a kteří podepsali smlouvu o zákaznících Microsoftu. Nejedná se o jiné nabídky ve zprostředkovateli CSP, jako je například Office 365 nebo Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Převod stávajících nabídek CSP na plán Azure
 
@@ -39,17 +39,17 @@ Zákazníky ze svých stávajících poskytovatelů CSP Azure můžete převést
 
 1. Vyberte plán Azure pro zákazníka.
 
-2. Vyberte **Převod fakturace do plánu Azure** .
+2. Vyberte **Převod fakturace do plánu Azure**.
 
    :::image type="content" source="images/azure/transition1.png" alt-text="Snímek obrazovky s informacemi o předplatných založených na využití s možností s možností volby s názvem: přechod předplatného Azure do plánu Azure":::
 
-3. Vyberte **Pokračovat** .
+3. Vyberte **Pokračovat**.
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Snímek obrazovky s informacemi o předplatných založených na využití s možností s možností volby s názvem: přechod předplatného Azure do plánu Azure":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Dialogové okno s názvem přechod do plánu Azure s důsledky pro přečtení o přechodu a dvou možnostech pro výběr, pokračování nebo zrušení.":::
 
    Váš zákazník se převede na plán Azure.
 
-   **Pracovní postup přechodu automatizuje požadavky na tyto kroky** :
+   **Pracovní postup přechodu automatizuje požadavky na tyto kroky**:
 
    - Nákup plánů Azure
    - Jeden plán na zákazníka ve scénářích přímého CSP  
@@ -63,7 +63,7 @@ Zákazníky ze svých stávajících poskytovatelů CSP Azure můžete převést
 
 4. Vraťte se na stránku **předplatná** partnerského centra zákazníka a aktualizujte svůj limit rozpočtu pomocí místní měny.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Snímek obrazovky s informacemi o předplatných založených na využití s možností s možností volby s názvem: přechod předplatného Azure do plánu Azure":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="Částečné zobrazení stránky předplatná partnerského centra s limity rozpočtu nastavenými v místní měně pro fakturační období":::
 
    >[!NOTE]
    >Rozpočet, který jste nastavili v partnerském centru, se nepřenese do Azure Portal. Měli byste také nastavit rozpočet a výstrahu v Azure Portal.
@@ -77,7 +77,7 @@ Zákazníky ze svých stávajících poskytovatelů CSP Azure můžete převést
 
 Sledujte průběh přechodu v Azure Portal i v partnerském centru.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Snímek obrazovky s informacemi o předplatných založených na využití s možností s možností volby s názvem: přechod předplatného Azure do plánu Azure":::
+:::image type="content" source="images/azure/details1.png" alt-text="Snímek obrazovky s tabulkou se seznamem podrobností o přechodu na předplatné – zahrnuje předplatné I D, datum přechodu a stav přechodu.":::
 
 ### <a name="billing-impact-to-partners"></a>Dopad fakturace na partnery
 

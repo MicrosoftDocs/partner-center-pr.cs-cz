@@ -1,7 +1,7 @@
 ---
 title: Nákup Microsoft Azure rezervací pro zákazníky
 description: Zjistěte, jak koupit nebo koupit rezervace Azure jménem zákazníků v partnerském centru. Také uvádí trhy, kde nejsou k dispozici rezervace Azure.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92527686"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534603"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Nákup Microsoft Azurech rezervací jménem vašich zákazníků v partnerském centru
-
-**Platí pro**
-
-- Partnerské centrum
-- Microsoft Azure Portal
-- Partneři v CSP
 
 **Příslušné role**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92527686"
 - Agent helpdesku
 - Agent prodeje
 - Správce správy uživatelů
+
+Tento článek vysvětluje, jak koupit nebo koupit rezervace Azure jménem zákazníků v partnerském centru. Také identifikuje trhy, kde nejsou k dispozici rezervace Azure.
  
 > [!NOTE]
 > Tento článek se týká jenom partnerů v programu Cloud Solution Provider (CSP). [Tuto dokumentaci k rezervacím Azure](/azure/cost-management-billing/reservations)by si měli přečíst zákazníci, kteří používají jiné typy předplatných (například, platby na základě průběžných plateb, jednotlivce, smlouvy o zákaznících Microsoftu nebo předplatná smlouva Enterprise).
@@ -110,7 +106,7 @@ Podle následujících kroků můžete koupit Microsoft Azure rezervace jménem 
 
 2. Na stránce vaši **zákazníci** vyhledejte zákazníka, který chce koupit rezervace Azure, a potom výběrem šipky dolů rozbalte řádek zákazníka.  
 
-3. Vyberte **Přidat produkty** a potom vyberte **Azure** . 
+3. Vyberte **Přidat produkty** a potom vyberte **Azure**. 
 
     a. Vyberte segment trhu zákazníka ze seznamu **segmentů** .
 
@@ -125,7 +121,7 @@ Podle následujících kroků můžete koupit Microsoft Azure rezervace jménem 
 
 5. Pomocí filtrů můžete najít rezervace Azure na virtuálních počítačích, které splňují požadavky vašich zákazníků.  
 
-6. Po vyhledání rezervací, které chcete koupit, zadejte počet rezervovaných instancí, které zákazník bude potřebovat **, a pak** vyberte **Přidat do košíku** .  
+6. Po vyhledání rezervací, které chcete koupit, zadejte počet rezervovaných instancí, které zákazník bude potřebovat **, a pak** vyberte **Přidat do košíku**.  
 
 7. Opakujte kroky 5 a 6, dokud nepřidáte všechny potřebné položky do objednávky. Vyberte **zkontrolovat** a ověřte, jestli je vaše objednávka správná.  
 
@@ -139,7 +135,7 @@ Podle následujících kroků můžete koupit Microsoft Azure rezervace jménem 
       >Pokud se rozhodnete omezit rozsah rezervace na jedno předplatné Azure, možná budete muset zvýšit kvótu vCPU předplatného. Pokud chcete zvýšit kvótu vCPU předplatného, budete muset vytvořit žádost o podporu v Azure Portal. Pokud chcete vytvořit žádost, postupujte podle pokynů [v tomto tématu](/azure/azure-supportability/resource-manager-core-quotas-request) . 
 
       >[!NOTE]   
-      >Pokud je zákazník v rámci plánu Azure, **obor**  bude nastaven na **Shared** . 
+      >Pokud je zákazník v rámci plánu Azure, **obor**  bude nastaven na **Shared**. 
 
     - Pokud jste partnerem poskytovatele, vyberte prodejce, kterého chcete k produktu přidružit.
     
@@ -150,7 +146,8 @@ Podle následujících kroků můžete koupit Microsoft Azure rezervace jménem 
 
 10. Pokud chcete spravovat rezervaci zákazníka v Azure Portal, najděte zákazníka na stránce vaši **zákazníci** a pak výběrem šipky dolů rozbalte řádek zákazníka. Výběrem **portál pro správu Microsoft Azure** otevřete záznam zákazníka v Azure Portal.
 
-## <a name="azure-reservations-resources"></a>Prostředky rezervací Azure
+## <a name="next-steps"></a>Další kroky
+
 |**Pro informace o**   |**Přečtěte si:**    |
 |:-----------------------------|:-----------------|
 |Přehled rezervací Azure v CSP  | [Prodej rezervovaných instancí Microsoft Azure](azure-reservations.md) |

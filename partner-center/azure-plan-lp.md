@@ -9,14 +9,20 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "92527144"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534739"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Úvod: plán Azure umožňuje partnerům koupit Azure na základě průběžných plateb pro zákazníky.
+
+**Příslušné role**
+
+- Agent správce
+- Agent prodeje
+- Globální správce
 
 Společnost Microsoft představila nové prostředí pro obchod v partnerském centru, plánu Azure.  Díky tomuto novému prostředí pro obchod získají partneři přístup ke službám Azure podle tarifů průběžných plateb pro zákazníky podle smlouvy o zákaznících Microsoftu.
 
@@ -30,7 +36,7 @@ Převeďte zákazníky ze svých stávajících poskytovatelů CSP Azure do slu�
 >Od 1. února 2020 se existující smlouva Microsoft Cloud odebere z programu CSP. Od této doby bude pro všechny ostatní nabídky, včetně Microsoft 365, Dynamics 365 a stávajících Azure, vyžadováno potvrzení partnera (atestace) přijetí souhlasu se zákazníkem pro novou zákaznickou smlouvu Microsoftu. Partneři v CSP nebudou moct vytvořit novou objednávku pro zákazníka bez potvrzení smlouvy o zákaznících Microsoftu. Úplné podrobnosti najdete v článku [potvrzení souhlasu zákazníka se smlouvou Microsoft o zákaznících](confirm-customer-agreement.md).
 
 
-## <a name="learn-about-the-azure-plan"></a>Další informace o plánu Azure
+## <a name="next-steps"></a>Další kroky
 
 |**K tomu**   |**Přečtěte si:**   |
 |------------------|---------------------|

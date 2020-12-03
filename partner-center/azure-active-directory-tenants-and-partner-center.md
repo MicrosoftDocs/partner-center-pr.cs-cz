@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527307"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534790"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Vytvořte pracovní účet, který propojuje vaši společnost s účtem partnerského centra.
-
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
@@ -44,7 +40,7 @@ Pokud máte více než jednu platnou pracovní e-mailovou adresu, použijte tu, 
 
 Pokud si nejste jistí, jestli má vaše společnost pracovní účet, proveďte kontrolu pomocí těchto kroků. Pokud máte aktivní předplatné Microsoft Azure nebo Office 365, již máte pracovní účet.
 
-1. Přihlaste se k webu [Azure Portal](https://portal.azure.com).
+1. Přihlaste se na [Azure Portal](https://portal.azure.com).
 
 2. V nabídce vyberte Azure Active Directory a pak vyberte názvy domén.
 
@@ -71,3 +67,8 @@ Když si koupíte předplatné Azure, nebudete mít v podstatě vyhrazené a zab
 Pracovní účet Azure je vyhrazená a izolovaná virtuální reprezentace vaší společnosti ve veřejném cloudu Azure, která se vytvoří po přihlášení k odběru cloudové služby Microsoftu, jako je Azure, Microsoft Intune nebo Office 365.
 
 Váš pracovní účet je hostitelem uživatelů Azure AD a informací o nich – jejich hesla, data profilu, oprávnění atd. Pracovní účet obsahuje také skupiny, aplikace a další informace, které se týkají společnosti a jejího zabezpečení.
+
+## <a name="next-steps"></a>Další kroky
+
+- [Správa účtu v Partnerském centru](partner-center-account-setup.md)
+- [Sledovat stav ověřování](verification-responses.md)

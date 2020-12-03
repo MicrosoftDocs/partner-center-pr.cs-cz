@@ -1,6 +1,6 @@
 ---
 title: Dostupné služby Azure v rámci programu Azure CSP
-description: Tato část se zabývá službami Azure, které nejsou v programu Azure Cloud Solution Provider (CSP) k dispozici.
+description: Tento článek popisuje služby Azure, které nejsou a nejsou k dispozici v programu Azure Cloud Solution Provider (CSP).
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527308"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534960"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Služby Azure dostupné v programu Azure Cloud Solution Provider (CSP)
 
@@ -91,22 +91,22 @@ V následující tabulce je uveden pravidelný aktualizovaný seznam dostupných
 |  Content Delivery Network  |    |    |
 |  Traffic Manager  |    |    |
 |  ExpressRoute  |  X  |  X  |
-|  Virtual Network  |  X  |  X  |
+|  Virtuální síť  |  X  |  X  |
 |  Load Balancer  |  X  |  X  |
 |  VPN Gateway  |  X  |  X  |
 |  Application Gateway  |  X  |  X  |
 |  Network Watcher  |  X  |  X  |
 |  **Storage**  |    |    |
-|  Storage  |  X  |  X  |
+|  Úložiště  |  X  |  X  |
 |  Backup  |  X  |  X  |
-|  StorSimple  |    |  ×  |
+|  StorSimple  |    |  X  |
 |  Site Recovery  |  X  |  X  |
 |  Data Lake Store  |    |    |
 |  Spravované disky  |  X  |  X  |
 |  **Web a mobilní zařízení**  |    |    |
 |  App Service  |  X  |  X  |
-|  App Service v Linuxu  |    |  ×  |
-|  API Management  |  ×  |    |
+|  App Service v Linuxu  |    |  X  |
+|  API Management  |  X  |    |
 |  Content Delivery Network  |    |    |
 |  Media Services  |  X  |  X  |
 |  Notification Hubs  |  X  |  X  |
@@ -114,14 +114,14 @@ V následující tabulce je uveden pravidelný aktualizovaný seznam dostupných
 |  Logic Apps funkce Azure App Service  |    |    |
 |  **Containers**  |    |    |
 |  App Service  |  X  |  X  |
-|  App Service v Linuxu  |    |  ×  |
+|  App Service v Linuxu  |    |  X  |
 |  Batch  |  X  |  X  |
 |  Container Registry  |    |    |
 |  Container Instances  |    |    |
 |  Service Fabric  |  X  |  X  |
 |  Container Service  |    |    |
 |  **Databáze**  |    |    |
-|  Databáze SQL  |  X  |  X  |
+|  SQL Database  |  X  |  X  |
 |  Azure Cosmos DB  |  X  |  X  |
 |  SQL Data Warehouse  |  X  |  X  |
 |  Redis Cache  |  X  |  X  |
@@ -131,36 +131,36 @@ V následující tabulce je uveden pravidelný aktualizovaný seznam dostupných
 |  **Data a analýza**  |    |    |
 |  Databricks  |    |    |
 |  HDInsight  |  X  |  X  |
-|  Stream Analytics  |    |  ×  |
+|  Stream Analytics  |    |  X  |
 |  Data Factory  |    |    |
-|  Log Analytics  |  ×  |    |
+|  Log Analytics  |  X  |    |
 |  Data Catalog  |    |    |
 |  Data Lake Store  |    |    |
 |  Data Lake Analytics  |    |    |
 |  Azure Analysis Services  |    |    |
 |  Power BI Embedded  |    |    |
 |  **Umělá inteligence a Cognitive Services**  |    |    |
-|  Machine Learning  |    |  ×  |
+|  Machine Learning  |    |  X  |
 |  Azure Bot Service  |    |    |
 |  Cognitive Services  |    |    |
 |  Azure Batch AI  |    |    |
 |  **Internet věcí**  |    |    |
 |  IoT Hub  |  X  |  X  |
 |  IoT Central  |    |    |
-|  Machine Learning  |    |  ×  |
-|  Stream Analytics  |    |  ×  |
+|  Machine Learning  |    |  X  |
+|  Stream Analytics  |    |  X  |
 |  Event Hubs  |  X  |  X  |
 |  Služby Location-Based  |    |    |
 |  Notification Hubs  |  X  |  X  |
 |  Time Series Insights  |    |    |
 |  **Podniková integrace**  |    |    |
-|  StorSimple  |  ×  |    |
+|  StorSimple  |  X  |    |
 |  API Management  |    |    |
 |  Event Grid  |    |    |
 |  Data Factory  |    |    |
 |  Service Bus  |  X  |  X  |
 |  Data Catalog  |    |    |
-|  SQL Server Stretch Database  |    |  ×  |
+|  SQL Server Stretch Database  |    |  X  |
 |  Logic Apps funkce Azure App Service  |    |    |
 |  **Zabezpečení a identita**  |    |    |
 |  Azure Active Directory  |  X  |  X  |
@@ -181,7 +181,7 @@ V následující tabulce je uveden pravidelný aktualizovaný seznam dostupných
 |  Site Recovery  |  X  |  X  |
 |  Scheduler  |  X  |  X  |
 |  Automation  |  X  |  X  |
-|  Log Analytics  |  ×  |    |
+|  Log Analytics  |  X  |    |
 |  Azure Monitor  |    |    |
 |  Azure-Managed aplikací  |    |    |
 |  Azure Migrate  |    |    |

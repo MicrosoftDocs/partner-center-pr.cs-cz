@@ -1,7 +1,7 @@
 ---
 title: Potvrzení souhlasu zákazníka se zákaznickou smlouvou Microsoftu
 description: Seznamte se s tím, že má smysl ověřit přijetí smlouvy o zákaznících Microsoftu jménem zákazníka.
-ms.topic: article
+ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: aarzh-AaronZhang
@@ -9,28 +9,21 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: fcf1a682d0150675f8bc8660e8dd5215d4c4333c
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 921926ba44a592b8d2fb5da0a50697d62d9d95c7
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92527217"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534773"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Potvrzení souhlasu smlouvy se zákazníkem Microsoftu jménem vašeho zákazníka
 
-**Platí pro**
-
-- Partnerské centrum
-- Centrum pro správu Microsoft 365
 
 **Příslušné role**
 
+- Globální správce
 - Agent správce
-- Agent prodeje
-
-**Příslušné typy partnerů**
-
-- Nepřímí prodejci, přímé faktury, nepřímá poskytovatelé
+- Agent helpdesku
 
 Tento článek popisuje některé scénáře, kdy budete možná potřebovat ověřit přijetí smlouvy o zákaznících Microsoftu v rámci zákazníka jménem zákazníka.
 
@@ -41,17 +34,17 @@ Tento článek popisuje některé scénáře, kdy budete možná potřebovat ov�
 
 V současné době je možné, že zákazníci nebudou moci zákaznickou smlouvu od Microsoftu přijmout přímo v centru pro správu Microsoft 365.
 
-**Scénář 1** : stávající zákazník si koupil některý z následujících stávajících partnerských vztahů: nabídky, předplatné softwaru nebo softwaru, rezervované instance a plán Azure. Zákazník se teď snaží vytvořit nový nákup (kromě automatického obnovování). Když zákazník klikne na adresu URL, obdrží zprávu "kontaktujte svého partnera a potvrďte přijetí smlouvy o zákaznících Microsoftu."  
+**Scénář 1**: stávající zákazník si koupil některý z následujících stávajících partnerských vztahů: nabídky, předplatné softwaru nebo softwaru, rezervované instance a plán Azure. Zákazník se teď snaží vytvořit nový nákup (kromě automatického obnovování). Když zákazník klikne na adresu URL, obdrží zprávu "kontaktujte svého partnera a potvrďte přijetí smlouvy o zákaznících Microsoftu."  
 
-**Řešení** : je nutné, abyste byli jménem zákazníka ověřeni.
+**Řešení**: je nutné, abyste byli jménem zákazníka ověřeni.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Snímek obrazovky se stránkou centra pro správu Microsoft 365 s výzvou, abyste se mohli obrátit na svého partnera a potvrdit přijetí smlouvy o zákaznících Microsoftu.&quot;:::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Snímek obrazovky se stránkou centra pro správu Microsoft 365 s výzvou, abyste se mohli obrátit na svého partnera a potvrdit přijetí smlouvy o zákaznících Microsoftu.":::
 
-**Scénář 2** : stávající zákazník si koupil některou z následujících nabídek, předplatných softwaru a softwaru, rezervovaných instancí a plánu Azure. Zákazník se teď snaží vytvořit nový nákup s novým partnerem.
+**Scénář 2**: stávající zákazník si koupil některou z následujících nabídek, předplatných softwaru a softwaru, rezervovaných instancí a plánu Azure. Zákazník se teď snaží vytvořit nový nákup s novým partnerem.
 
-Když zákazník klikne na adresu URL, Microsoft 365 centrum pro správu, aby přijal nový partnerský vztah a smlouvu, obdrží zprávu &quot;kontaktujte svého partnera a potvrďte přijetí smlouvy o zákaznících Microsoftu."  
+Když zákazník klikne na adresu URL, Microsoft 365 centrum pro správu, aby přijal nový partnerský vztah a smlouvu, obdrží zprávu "kontaktujte svého partnera a potvrďte přijetí smlouvy o zákaznících Microsoftu."  
 
-**Řešení** : je nutné, abyste byli jménem zákazníka ověřeni.  
+**Řešení**: je nutné, abyste byli jménem zákazníka ověřeni.  
 
 ## <a name="next-steps"></a>Další kroky
 

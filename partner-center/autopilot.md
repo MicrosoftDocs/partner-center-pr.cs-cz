@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527310"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534981"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Přizpůsobení prostředí prvního spuštění nových zařízení s využitím profilů Windows Autopilot
-
-**Platí pro**
-
-- Poskytovatelé CSP – partneři, nepřímá poskytovatelé a nepřímo prodejci
 
 **Příslušné role**
 
@@ -31,13 +27,13 @@ ms.locfileid: "92527310"
 
 Pokud spravujete zákaznická zařízení, možná budete muset pro uživatele zákazníka přizpůsobit integrované prostředí (OOBE). Před dodáním zařízení zákazníkům a uplatněním nových profilů na zařízení, která si zákazníci už koupili, můžete předem nakonfigurovat nová zařízení pomocí profilů Windows autopilotu. 
 
-Všimněte si, že výrobci OEM začali včetně dodacího štítku na vnějším panelu zařízení autopilotu, který zobrazuje **ID kódu Product Key zařízení (PKID)** .  Tento jednorozměrný čárový kód poskytuje podřízeným partnerům způsob, jak registrovat zařízení pro autopilota, aniž by museli zařízení Unbox a získat ID zařízení alternativním způsobem.
+Všimněte si, že výrobci OEM začali včetně dodacího štítku na vnějším panelu zařízení autopilotu, který zobrazuje **ID kódu Product Key zařízení (PKID)**.  Tento jednorozměrný čárový kód poskytuje podřízeným partnerům způsob, jak registrovat zařízení pro autopilota, aniž by museli zařízení Unbox a získat ID zařízení alternativním způsobem.
 
 Tento článek vysvětluje, jak vytvořit a použít profily autopilotu na zařízeních v partnerském centru.
 
 Pokud ještě nejste obeznámeni s autopilotem, přečtěte si informace v těchto článcích:
 
-- [Přehled Windows autopilotu](/windows/deployment/windows-10-auto-pilot)
+- [Přehled Windows Autopilotu](/windows/deployment/windows-10-auto-pilot)
 - [Referenční příručka k nasazení autopilotu](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Přehled
@@ -73,9 +69,9 @@ V partnerském centru můžete vytvořit profily nasazení Windows autopilot a p
 
 1. V nabídce partnerského centra vyberte **zákazníci** a pak vyberte zákazníka, pro který vytváříte profil pro autopilot.
 
-2. Na stránce s podrobnostmi zákazníka vyberte **zařízení** .
+2. Na stránce s podrobnostmi zákazníka vyberte **zařízení**.
 
-3. V části **profily Windows autopilotu** vyberte **Přidat nový profil** .
+3. V části **profily Windows autopilotu** vyberte **Přidat nový profil**.
 
 4. Zadejte název a popis profilu a pak nakonfigurujte nastavení OOBE. Vybírejte z těchto možností:  
 
@@ -84,7 +80,7 @@ V partnerském centru můžete vytvořit profily nasazení Windows autopilot a p
    - Zakázat účet místního správce v nastavení
   
    - Automaticky přeskočit stránky v instalačním programu<br>
-        (Zahrnuje *automaticky výběr nastavení pracovní nebo školní* a *Přeskočit stránky pro nastavení registrace Cortany, OneDrive a OEM* )
+        (Zahrnuje *automaticky výběr nastavení pracovní nebo školní* a *Přeskočit stránky pro nastavení registrace Cortany, OneDrive a OEM*)
   
    - Přeskočit licenční smlouvu s koncovým uživatelem (EULA)<br> 
        >[!IMPORTANT] 
@@ -101,9 +97,9 @@ Po vytvoření profilu autopilotu pro zákazníka ho můžete použít na zaří
 
 1. V nabídce partnerského centra vyberte **zákazníci** a potom vyberte zákazníka, pro který jste vytvořili profil pro autopilotu.
 
-2. Na stránce s podrobnostmi zákazníka vyberte **zařízení** .
+2. Na stránce s podrobnostmi zákazníka vyberte **zařízení**.
 
-3. V části **použít profily na zařízení** vyberte skupiny zařízení nebo zařízení, do kterých chcete přidat profily, a pak vyberte **použít profil** . Profil, který jste právě použili, se zobrazí ve sloupci **profil** .
+3. V části **použít profily na zařízení** vyberte skupiny zařízení nebo zařízení, do kterých chcete přidat profily, a pak vyberte **použít profil**. Profil, který jste právě použili, se zobrazí ve sloupci **profil** .
 
 4. Postupujte podle následujících kroků a ověřte, zda se profil na zařízení úspěšně použije.
 
@@ -117,9 +113,9 @@ Po vytvoření profilu autopilotu pro zákazníka ho můžete použít na zaří
 
 1. V nabídce partnerského centra vyberte **zákazníci** a potom vyberte zákazníka, pro který jste vytvořili profil pro autopilotu.
 
-2. Na stránce s podrobnostmi zákazníka vyberte **zařízení** .
+2. Na stránce s podrobnostmi zákazníka vyberte **zařízení**.
 
-3. V části **použít profily na zařízení** vyberte zařízení, ze kterých chcete profil odebrat, a pak vyberte **Odebrat profil** .
+3. V části **použít profily na zařízení** vyberte zařízení, ze kterých chcete profil odebrat, a pak vyberte **Odebrat profil**.
 
    >[!NOTE]
    >Když odeberete profil ze zařízení, profil ze seznamu se neodstraní. Pokud chcete odstranit profil, postupujte podle pokynů v části [aktualizace nebo odstranění profilu autopilotu](#update-or-delete-an-autopilot-profile).
@@ -132,9 +128,9 @@ Jakmile se zařízení zákazníka připojí k Internetu, stáhne nejnovější 
 
 1. V nabídce partnerského centra vyberte **zákazníci** a pak vyberte zákazníka, který požaduje, abyste změnili profil autopilotu.
 
-2. Na stránce s podrobnostmi zákazníka vyberte **zařízení** .
+2. Na stránce s podrobnostmi zákazníka vyberte **zařízení**.
 
-3. V části **profily Windows autopilotu** vyberte profil, který potřebujete aktualizovat. Proveďte požadované změny a pak vyberte **Odeslat** .
+3. V části **profily Windows autopilotu** vyberte profil, který potřebujete aktualizovat. Proveďte požadované změny a pak vyberte **Odeslat**.
 
 Chcete-li odstranit tento profil, vyberte možnost **Odstranit profil** v pravém horním rohu stránky.
 
@@ -149,22 +145,22 @@ Pokud máte v plánu používat název výrobce OEM, sériové číslo a kombina
 
 - Tato řazená kolekce členů funguje jenom pro novější zařízení (například hodnoty hash 4k) a není podporovaná pro hodnoty hash 128B (RS2 a předchozí zařízení).
 
-- Registrace řazené kolekce členů rozlišuje velká a malá písmena, takže data v souboru musí odpovídat modelům a názvům výrobců ***přesně*** tak, jak poskytuje poskytovatel OEM (poskytovatel hardwaru).
+- Registrace řazené kolekce členů rozlišuje velká a malá písmena, takže data v souboru se musí shodovat s názvy modelů a výrobců **_přesně_* _, jak poskytuje poskytovatel OEM (poskytovatel hardwaru).
 
 Podle pokynů níže přidejte zařízení k účtu zákazníka v partnerském centru.
 
-1. V nabídce partnerského centra vyberte **zákazníci** a pak vyberte zákazníka, jehož zařízení chcete spravovat.
+1. V nabídce partnerského centra vyberte _ *zákazníci** a pak vyberte zákazníka, jehož zařízení chcete spravovat.
 
-2. Na stránce s podrobnostmi zákazníka vyberte **zařízení** .
+2. Na stránce s podrobnostmi zákazníka vyberte **zařízení**.
 
-3. V části **použít profily na zařízení** vyberte **Přidat zařízení** .
+3. V části **použít profily na zařízení** vyberte **Přidat zařízení**.
 
 4. Zadejte název seznamu zařízení a pak vyberte **Procházet** a nahrajte seznam zákazníků (ve formátu souboru. csv) do partnerského centra.
 
     >[!NOTE]
     >Tento soubor. csv byste měli při nákupu zařízení přijmout. Pokud jste neobdrželi soubor. csv, můžete si ho vytvořit sami podle kroků v části [Přidání zařízení do Windows autopilotu](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
 
-5. Nahrajte soubor. csv a pak vyberte **Uložit** .
+5. Nahrajte soubor. csv a pak vyberte **Uložit**.
 
 Pokud se vám při pokusu o nahrání souboru .csv zobrazí chybová zpráva, zkontrolujte formát souboru. Můžete použít pouze hodnotu hash hardwaru nebo název výrobce OEM, sériové číslo a model (v uvedeném pořadí sloupců), případně ID produktu Windows. K vytvoření seznamu zařízení můžete použít také ukázkový soubor. csv poskytnutý z odkazu vedle **Přidat zařízení** .
 

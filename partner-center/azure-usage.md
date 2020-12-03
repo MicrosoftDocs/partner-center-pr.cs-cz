@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527338"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534943"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Nastavení velikosti virtuálního počítače Microsoft Azure, která maximálně využívá rezervaci
 
-**Platí pro**
+**Příslušné role**
 
-- Partnerské centrum
-- portál Azure
-- Partneři v programu CSP
+- Agent správce
+- Agent prodeje
+
+Tento článek vysvětluje, jak změnit velikost virtuálního počítače na požadavky vašich zákazníků na výpočetní výkon při nákupu Microsoft Azure rezervacích.
  
 > [!NOTE]
 > Tento článek se týká jenom partnerů v programu Cloud Solution Provider (CSP). [Tuto dokumentaci k rezervacím Azure](/azure/cost-management-billing/reservations)by si měli přečíst zákazníci, kteří používají jiné typy předplatných (například, platby na základě průběžných plateb, jednotlivce, smlouvy o zákaznících Microsoftu nebo předplatná smlouva Enterprise).
@@ -66,7 +67,7 @@ Pokyny k používání každé z těchto metod jsou uvedeny níže. Po zakoupen�
 
 K získání umístění a velikosti virtuálního počítače, pro který chcete zakoupit rezervaci, použijte informace na obrázku níže. 
 
-:::image type="content" source="images/usage2.png" alt-text="Informace o velikosti a oblasti na stránce podrobností":::
+:::image type="content" source="images/usage2.png" alt-text="Umístění a velikost virtuálního počítače":::
 
 ### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Získání informací o velikosti virtuálních počítačů pomocí rozhraní API pro Azure Resource Manager (ARM)
 
@@ -74,10 +75,10 @@ K získání umístění a velikosti virtuálního počítače, pro který chcet
 
 2. /Subscriptions/ <Subscription ID> /ResourceGroups/ <Resource group name> /providers/Microsoft.COMPUTE/virtualMachines/ <VM Instance Name> ? API-Version = 2017-12-01
 
-3. Volání vrátí hodnoty pro **vmSize** a **Location** , jak je znázorněno níže.
+3. Volání vrátí hodnoty pro **vmSize** a **Location**, jak je znázorněno níže.
 
-    :::image type="content" source="images/usage3.png" alt-text="Informace o velikosti a oblasti na stránce podrobností":::
-    :::image type="content" source="images/usage4.png" alt-text="Informace o velikosti a oblasti na stránce podrobností":::
+    :::image type="content" source="images/usage3.png" alt-text="hodnota vmSize":::
+    :::image type="content" source="images/usage4.png" alt-text="Hodnota umístění":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Ověření využití virtuálních počítačů Azure a slevy za rezervaci
 
@@ -117,7 +118,7 @@ Pokyny k používání každé z těchto metod jsou uvedeny níže.
 
 Data o využití rezervace můžete získat pomocí rozhraní API využití Azure, abyste ověřili, že zákazník získává slevu za rezervaci, a zobrazí, na kterých virtuálních počítačích se sleva vztahuje. Porovnejte příklad A s příkladem B, abyste viděli, jak ověřit využití rezervace zákazníka.
 
-:::image type="content" source="images/usage5.png" alt-text="Informace o velikosti a oblasti na stránce podrobností":::
+:::image type="content" source="images/usage5.png" alt-text="Příklady použití rezervací":::
 
 - ReservationId identifikuje rezervaci Azure, která se použila k uplatnění slevy na virtuální počítač.
 - consumptionMeter je MeterId pro virtuální počítač, na kterém je nastavená sleva rezervace.
@@ -128,7 +129,7 @@ Další informace najdete v tématu [získání záznamů o využití zákazník
 >[!IMPORTANT]
 >Náklady na software, jako je například Microsoft Windows Server, nejsou aktuálně zahrnuté v ceně rezervovaného virtuálního počítače a zobrazí se jako samostatné položky řádku v záznamu objednávky a na faktuře. Pokud ale má zákazník zvýhodněné hybridní využití Azure, náklady na software se nepoužijí. Další informace najdete v tématu [náklady na software systému Windows, které nejsou součástí rezervovaných instancí](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
-## <a name="azure-reservations-resources"></a>Prostředky rezervací Azure
+## <a name="next-steps"></a>Další kroky
 
 |**Pro informace o**   |**Přečtěte si:**    |
 |:-----------------------------|:-----------------|
