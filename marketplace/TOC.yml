@@ -20,6 +20,8 @@
       href: transfer-eligibility.md
     - name: Vytvoření a správa privátního Azure Marketplace
       href: create-manage-private-azure-marketplace.md
+    - name: Správa privátního Azure Marketplace – PowerShell
+      href: manage-private-azure-marketplace-powershell.md
     - name: Integrace partnerů na Azure Marketplace
       href: partner-integrations.md
 - name: Obecné prostředky
