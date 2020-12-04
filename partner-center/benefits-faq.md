@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417247"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570684"
 ---
 # <a name="benefits-faq"></a>Nejčastější dotazy k výhodám
 
-Platí pro:
+**Příslušné role**
 
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud for US Government
+- Správce MPN
+
+V tomto článku jsou řešeny mnohé běžné otázky týkající se výhod Microsoft Partner Network (MPN).
+
 
 ## <a name="general-questions"></a>Obecné otázky
 
@@ -87,7 +89,7 @@ Můžete přiřadit odběry komukoli v seznamu správy uživatelů v partnerské
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. V levém navigačním panelu vyberte **MPN**.
+2. V nabídce partnerské Centrum vyberte **MPN**.
 
 3. Vyberte možnost **výhody** a pak vyberte možnost **Visual Studio**.
 
@@ -96,7 +98,7 @@ Můžete přiřadit odběry komukoli v seznamu správy uživatelů v partnerské
 Po přiřazení předplatného se uživatel musí přihlásit k aplikaci Visual Studio, aby ho mohl spravovat.
 
 >[!Note]
-> Předplatná sady Visual Studio se můžou znovu přiřadit od jednoho předplatitele k druhému po 90 dnů od původního přiřazení.
+> Předplatná sady Visual Studio se můžou znovu přiřadit od jednoho předplatitele k jinému 90 dne po původním přiřazení.
 
 ## <a name="technical-benefits-and-support"></a>Technické výhody a podpora
 
@@ -106,7 +108,7 @@ Instalace, aktivace a další informace související s produktem jsou k dispozi
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. V levém navigačním panelu vyberte **MPN**.
+2. V nabídce partnerské Centrum vyberte **MPN**.
 
 3. Vyberte **výhody** a pak vyberte **technické výhody**.
 
@@ -115,3 +117,7 @@ Instalace, aktivace a další informace související s produktem jsou k dispozi
 5. Přihlaste se [Podpora Microsoftu](https://support.microsoft.com/supportforbusiness/productselection).
 
 6. Vyberte produkt, který se pokoušíte nainstalovat, a pak vytvořte lístek technické podpory.
+
+## <a name="next-steps"></a>Další kroky
+
+- [Získejte pokročilou specializaci pro předvedení vaší odbornosti.](advanced-specializations.md)

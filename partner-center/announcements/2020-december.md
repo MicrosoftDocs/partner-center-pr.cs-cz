@@ -9,18 +9,61 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: d0bc790e31cf38aabc1703f073c42f8946c316ee
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 38a9b83c5c13ed0a0c0f27db409335f9b86b8173
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556721"
+ms.locfileid: "96570769"
 ---
 # <a name="december-2020-announcements"></a>Oznámení z prosince 2020
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu za listopadu 2020.
 
-2020 oznámení: [duben](2020-april.md)v  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenci](2020-july.md),  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md)  |  [listopad](2020-november.md)– září Použitelnost
+2020 oznámení: [duben](2020-april.md)v  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenci](2020-july.md),  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md)  |  [listopad](2020-november.md) – září Použitelnost
+
+
+______________
+
+## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Připravujeme aktualizaci hlasu Microsoft 365 Business US pomocí nabídky plánu volání.
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-12-3
+- Nabídky/trhy
+
+### <a name="summary"></a>Shrnutí 
+
+Od 1. ledna 2021 začne Microsoft přecházet mezi partnery a zákazníky v USA na nový Microsoft 365 Business hlas pomocí nabídky plánu volání. Není vyžadována žádná akce partnera.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina 
+
+Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Podrobnosti
+
+Společnost Microsoft nahradí stávající obchodní hlas pomocí nabídky plánu volání v USA novou nabídkou pro podporu vnitřních požadavků na produkty výpovědi. Nová nabídka bude mít stejnou sadu funkcí a ceny. Změny nabídky jsou interní pro společnost Microsoft a neměly by mít vliv na způsob, jakým partneři CSP budou mít na trh, prodávat nebo podporovat obchodní hlas pomocí nabídky plánu volání. Tato změna se vztahuje pouze na tuto nabídku.
+
+V případě nových prodejů použijete novou nabídku od 1. ledna 2021. Stará nabídka bude nahrazena novou nabídkou na ceníku.
+
+Stávající zákazníci budou po datu obnovení automaticky převedeni na novou nabídku. Od partnerů se nevyžaduje žádná akce, která by obnovila zákazníky.
+
+
+* * Nové nabídky – podrobnosti
+ 
+   |**Název nabídky**|**ID nabídky**|**ID materiálu**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business hlas (US)|86713ec1-ad33-42cf-a1ce-8397d4d875fe|PZW-00023|
+   
+* * Staré nabídky – podrobnosti
+
+   |**Název nabídky**|**ID nabídky**|**ID materiálu**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business hlas (US)|9f9f2c7b-c961-402b-9421-8e3c9207eeb3|PZW-00009|
+
+### <a name="next-steps"></a>Další kroky
+
+Seznamte se s ceníkem a sdílejte tyto informace s příslušnými kontakty ve vaší organizaci.
 
 ______________
 

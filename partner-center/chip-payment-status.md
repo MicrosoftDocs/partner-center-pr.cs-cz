@@ -1,22 +1,22 @@
 ---
-title: Kontrolovat stav platby na čipu
+title: Kontrola stavu plateb na platformě CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Přečtěte si, jak kontrolovat stav platby na čipu.
+description: Naučte se používat platformu pro motivaci kanálů (čip) k ověření stavu platby. Všimněte si, že čip bude vyřazen na konci 2021.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e86030c16405808d3b4036e313e8970c495382e
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: b234f026592a6f6040cc901a3721b144b1c6c4e7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422183"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570531"
 ---
-# <a name="check-payment-status-in-chip"></a>Kontrolovat stav platby na čipu
+# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Kontrolovat stav platby na platformě pro pobídky kanálů (čip)
 
 **Příslušné role**
 

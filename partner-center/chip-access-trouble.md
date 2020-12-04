@@ -1,22 +1,22 @@
 ---
-title: Problémy s přístupem k čipu
+title: Potíže s přístupem k platformě CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Pokyny pro případ, že máte potíže s přístupem k čipu
+description: Přečtěte si tyto pokyny, které vám pomohou při řešení potíží s použitím nástroje Channel pobídek Platform (čip).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d25a04119490c0f7d67c733beb3d3b6931f72bb0
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422180"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570599"
 ---
-# <a name="trouble-accessing-chip"></a>Problémy s přístupem k čipu
+# <a name="troubleshoot-issues-with-accessing-chip"></a>Řešení potíží s přístupem k čipu
 
 **Příslušné role**
 
@@ -29,10 +29,10 @@ Pokud nejste primární kontakt nebo PPA (primární program Správce), požáde
 
 Pokud jste primární kontakt nebo PPA (primární správce programu), měli byste mít přístup ke čipu, protože všechna oznámení pro registraci se odesílají do aktuálního primárního kontaktu nebo služby PPA (primární správce programu). Tento přístup pokračuje pro každou dobu od počátečního období registrace.
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-have-had-access-previously"></a>Postup řešení potíží s přístupem k čipu, pokud jste předtím měli přístup
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Postup řešení potíží při přístupu k čipu, pokud jste předtím měli přístup
 
 1. Vymažte všechny soubory cookie a otevřete čip v privátním prohlížeči.
-1. V prohlížeči klikněte na **Nastavení zobrazení kompatibility** . ČIP by měl být již uveden v části Microsoft.com, jinak přidat web.
+1. V prohlížeči vyberte **Nastavení zobrazení kompatibility** . ČIP by měl být již uveden v části Microsoft.com, jinak přidat web.
 
 ## <a name="next-steps"></a>Další kroky
 

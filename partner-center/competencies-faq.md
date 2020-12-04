@@ -2,18 +2,18 @@
 title: Kompetence – Nejčastější dotazy
 ms.topic: article
 ms.date: 11/23/2020
-description: Odpovědi na otázky týkající se Microsoft Partner Network zlatých a stříbrnéch kompetencí, výhod vypršení platnosti, obnovování a Aktivace licencí pro Azure, Cloud, Visual Studio a technické výhody a výhody podpory
+description: Odpovědi na MPN Gold nebo stříbrné kompetence, výhody vypršení platnosti, prodloužení nebo Aktivace licencí pro Azure, Cloud, Visual Studio, technické, výhody podpory.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812822"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570480"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Kompetence – Nejčastější dotazy
 

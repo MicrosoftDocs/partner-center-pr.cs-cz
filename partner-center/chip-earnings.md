@@ -1,22 +1,22 @@
 ---
-title: Zobrazit tržby na čipu
+title: Zobrazení výnosů na platformě CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Pokyny k zobrazení příjmů na čipu
+description: Naučte se, jak zobrazit váš příkaz pobídek a příjmy v nástroji Channel pobídek Platform (čip).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422182"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570497"
 ---
-# <a name="view-earnings-in-chip"></a>Zobrazit tržby na čipu
+# <a name="view-earnings-using-the-chip-tool"></a>Zobrazit tržby pomocí nástroje čip
 
 K příkazu pobídek můžete přistupovat pomocí nástroje Channel pobídek Platform Tool (čip).
 
@@ -32,7 +32,7 @@ K příkazu pobídek můžete přistupovat pomocí nástroje Channel pobídek Pl
 
 ### <a name="explanation-of-details-tabs"></a>Vysvětlení karet podrobností
 
-|**Rážky**|**Definition**|
+|**Rážky**|**Definice**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|Obsahuje podrobnosti o programu pobídek pro vybrané časové období, včetně názvu zákazníka, smlouvy a podrobností páčky.|
 |DeltaReport – Pivot|Aktualizace z posledního publikovaného příkazu pouze pro podniky|
@@ -41,4 +41,4 @@ K příkazu pobídek můžete přistupovat pomocí nástroje Channel pobídek Pl
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Kontrolovat stav platby na čipu](chip-payment-status.md)
+- [Kontrola stavu plateb na platformě CHIP](chip-payment-status.md)

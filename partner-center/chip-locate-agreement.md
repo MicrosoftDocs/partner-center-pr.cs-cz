@@ -1,22 +1,22 @@
 ---
-title: Vyhledání počtu klientů a úrovní poplatků za smlouvu
+title: Najít počet klientů, úroveň poplatku v čipu
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Kde je informace o počtu klientů a úrovni poplatků v čipu.
+description: Naučte se používat platformu pro motivaci kanálů (čip) k vyhledání informací o počtu klientů a úrovních poplatků za smlouvu.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422181"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570548"
 ---
-# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Vyhledání počtu klientů a úrovní poplatků za smlouvu
+# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Vyhledání počtu klientů a úrovně poplatků pro smlouvu
 
 Můžete si stáhnout do Excelu a soubor, který poskytuje podrobnosti o smlouvě pro počet klientů a úroveň poplatků.
 

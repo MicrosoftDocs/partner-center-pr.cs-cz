@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "92527083"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570701"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Přehled fakturace pro partnery v programu CSP pracující v Partnerském centru 
-
-**Platí pro**
-
-- Partnerské centrum
-- Partneři v programu Cloud Solution Provider (CSP)
 
 **Příslušné role**
 
@@ -31,13 +26,16 @@ ms.locfileid: "92527083"
 - Agent helpdesku
 - Agent prodeje
 
+Tento článek obsahuje základní informace o fakturaci a faktuře pro partnery CSP v partnerském centru, včetně toho, jak fakturovat zákazníky a jak najít a číst vaši fakturu.
+
+
 ## <a name="find-your-bill"></a>Hledání faktury
 
 Postup při hledání faktury:
 
-1. [Přihlaste se k řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/home).
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
 
-2. V nabídce na levé straně vyberte **fakturace** .
+2. V nabídce partnerského centra vyberte **fakturace**.
 
 3. Na stránce **fakturace** si můžete stáhnout nejnovější vydanou fakturu nebo stáhnout předchozí faktury v části **historie fakturace** .
 
@@ -45,17 +43,17 @@ Postup při hledání faktury:
 
 Společnost Microsoft nemá žádné požadavky ani podmínky týkající se způsobu zpracování vaší vlastní fakturace.
 
-Pokud chcete zjistit využití zákazníka, podívejte se na [vaše soubory odsouhlasení](#find-your-bill). K určení využití můžete použít název zákazníka a další příslušná pole.
+Pokud chcete zjistit využití zákazníka, podívejte se na vaše [soubory odsouhlasení](#find-your-bill). K určení využití použijte název zákazníka a další příslušná pole.
 
 ### <a name="billing-types"></a>Typy fakturace
 
-Typy fakturace v partnerském centru zahrnují fakturaci na **základě licencí** , **fakturaci na základě využití** a **jednorázové fakturaci** . 
+Typy fakturace v partnerském centru zahrnují fakturaci na **základě licencí**, **fakturaci na základě využití** a **jednorázové fakturaci**. 
 
 ### <a name="billing-currency"></a>Fakturační měna
 
-**Fakturace založená na licencích a na základě využití** : za produkt se vám bude účtovat v měně země nebo oblasti, ve které jste umístění. Účtují se stejně bez ohledu na umístění zákazníka, kterému jste prodali produkt (y).
+**Fakturace založená na licencích a na základě využití**: za produkt se vám bude účtovat v měně země nebo oblasti, ve které jste umístění. Účtují se stejně bez ohledu na umístění zákazníka, kterému jste prodali produkt (y).
 
-**Jednorázové účtování** : vaše vyúčtování se vygeneruje v souvislosti s měnou zákazníka. To znamená, že pokud jste partnerem s podporou transakcí z různých fakturovatelných měn, obdržíte fakturu za každý typ měny zákazníka. Přečtěte si další informace o [jednorázová a opakující se](azure-plan-billing.md). 
+**Jednorázové účtování**: vaše vyúčtování se vygeneruje v souvislosti s měnou zákazníka. To znamená, že pokud jste partnerem s podporou transakcí z různých fakturovatelných měn, obdržíte fakturu za každý typ měny zákazníka. Přečtěte si další informace o [jednorázová a opakující se](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Faktury
 
@@ -72,7 +70,7 @@ Ceníky se aktualizují měsíčně. Ceníky verze Preview jsou k dispozici v p�
 Chcete-li zobrazit ceníky:
 
 1. [Přihlaste se k řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/home).
-2. V nabídce na levé straně zvolte **prodej** a pak vyberte **ceny a nabídky** .
+2. V nabídce na levé straně zvolte **prodej** a pak vyberte **ceny a nabídky**.
 3. Na stránce **ceny a nabídky** uvidíte 6 měsíců ceníku (včetně aktuálního měsíce) a zobrazte si seznam ceníků (Pokud je k dispozici).
 
 Ceny na **základě licencí** jsou zaručené pro podmínky předplatného, obvykle 12 měsíců od data nákupu. 
@@ -106,10 +104,10 @@ Frekvence účtování se mění na úrovni objednávky a po změně frekvence s
 Změna četnosti fakturace online služby pro zákazníka:
 
 1. [Přihlaste se k řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/home).
-2. V nabídce vlevo vyberte možnost **zákazníci** .
+2. V nabídce vlevo vyberte možnost **zákazníci**.
 3. Vyberte zákazníka, jehož četnost fakturace předplatného chcete změnit.
 4. Na stránce **předplatná** zákazníka vyberte předplatné, které chcete změnit.
-5. Na stránce **Podrobnosti** vyberte v části **četnost fakturace** možnost **měsíčně** nebo **roční** . Zobrazí se stránka s potvrzením s důležitými informacemi o změně četnosti fakturace a seznam předplatných, která se má změnit.
+5. Na stránce **Podrobnosti** vyberte v části **četnost fakturace** možnost **měsíčně** nebo **roční**. Zobrazí se stránka s potvrzením s důležitými informacemi o změně četnosti fakturace a seznam předplatných, která se má změnit.
 6. Kliknutím na **tlačítko OK** provedete změnu ( **kliknutím na zrušit ji zrušíte** ).
 
 ### <a name="adjustmentscreditscancellations"></a>Úpravy/kredity/zrušení
@@ -153,7 +151,7 @@ Sazby za měřené služby se můžou v rámci cyklu fakturace změnit.
 Chcete-li zobrazit aktuální stav fakturace, faktury a soubory pro odsouhlasení:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
-2. V nabídce na levé straně zvolte **fakturace** a pak vyberte **opakované a jednorázové nákupy** .
+2. V nabídce na levé straně zvolte **fakturace** a pak vyberte **opakované a jednorázové nákupy**.
 3. Chcete-li zobrazit podrobnější informace, vyberte na stránce stav fakturace možnost soubor faktury nebo odsouhlasení.
 
 ### <a name="customer-order-history"></a>Historie objednávek zákazníků
@@ -161,7 +159,7 @@ Chcete-li zobrazit aktuální stav fakturace, faktury a soubory pro odsouhlasen�
 Zobrazení historie objednávek zákazníka:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
-2. V nabídce na levé straně vyberte **zákazníci** .
+2. V nabídce na levé straně vyberte **zákazníci**.
 3. Na stránce **zákazníci** vyhledejte zákazníka, jehož historii objednávek chcete zobrazit. Výběrem šipky dolů rozbalte záznam zákazníka.
 4. Zvolením možnosti **Zobrazit objednávky** zobrazíte historii objednávek zákazníka.
 
@@ -173,3 +171,8 @@ Možná budete muset požádat o kredit nebo novou fakturaci z následujících 
 - Po vygenerování faktury se použila daňová refundace. Můžete požádat o kredit nebo novou fakturaci a získat daňovou refundaci zpět do původní faktury. Totéž platí také pro refundace. Můžete požádat o kredit nebo novou fakturaci původní faktury a pak si vyžádat refundaci.
 
 **U všech jednorázových a opakovaných transakcí** může společnost Microsoft vydat dobropis při žádosti o kredit nebo opětovné vyúčtování. Po vydání kreditu se faktura zruší. 
+
+## <a name="next-steps"></a>Další kroky
+
+- [Informace o vašem účtu a souboru pro odsouhlasení](read-your-bill.md)
+- [Běžné scénáře fakturace pro partnery programu CSP](common-billing-scenarios.md)

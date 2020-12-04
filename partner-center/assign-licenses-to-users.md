@@ -1,22 +1,22 @@
 ---
-title: Správa uživatelů a uživatelských licencí pro zákaznické účty
+title: Správa uživatelů pro účty zákazníků
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Naučte se spravovat uživatele pro vaše zákazníky v partnerském centru, jako je vytváření uživatelských účtů, přidávání nebo odebírání uživatelských licencí, Resetování uživatelských hesel a odstraňování nebo obnovování uživatelských účtů.
+description: Správa uživatelů pro vaše zákazníky v partnerském centru – vytváření uživatelských účtů, přidávání nebo odebírání uživatelských licencí, resetování hesel a odstraňování a obnovování uživatelských účtů.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474066"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570735"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Správa uživatelů a uživatelských licencí pro zákaznické účty
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Správa uživatelů a uživatelských licencí pro zákaznické účty 
 
 **Příslušné role**
 
@@ -72,25 +72,25 @@ Následující postup platí pro přidání nebo odebrání uživatelských lice
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Resetování hesla uživatele pro zákazníka
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra.
 
 2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
 
-3.  V nabídce zákazník vyberte **Uživatelé a licence**. Vyberte uživatele ze seznamu.
+3. V nabídce zákazník vyberte **Uživatelé a licence**. Vyberte uživatele ze seznamu.
 
-4.  V dolní části obrazovky vyberte **resetovat heslo**. 
+4. V dolní části obrazovky vyberte **resetovat heslo**. 
 
-5.  Poslat uživateli nové dočasné heslo.
+5. Poslat uživateli nové dočasné heslo.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Odstranění uživatelských účtů pro zákazníka
 
-1.  V nabídce **Partnerské centrum** vyberte **zákazníci**. Vyberte zákazníka ze seznamu.
+1. V nabídce **Partnerské centrum** vyberte **zákazníci**. Vyberte zákazníka ze seznamu.
 
-2.  V nabídce zákazník vyberte **Uživatelé a licence**. Vyberte uživatele ze seznamu.
+2. V nabídce zákazník vyberte **Uživatelé a licence**. Vyberte uživatele ze seznamu.
 
-3.  V dolní části obrazovky vyberte **Odstranit uživatelský účet**.
+3. V dolní části obrazovky vyberte **Odstranit uživatelský účet**.
 
 Pokud potřebujete tento účet obnovit, můžete ho najít na kartě **odstraněné uživatele** v seznamu **Uživatelé a licence** zákazníka. K obnovení odstraněného uživatele máte 30 dní.
 
@@ -98,19 +98,18 @@ Pokud potřebujete tento účet obnovit, můžete ho najít na kartě **odstran�
 
 ## <a name="restore-deleted-user-accounts"></a>Obnovení odstraněných uživatelských účtů
 
-1.  V nabídce **Partnerské centrum** vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
+1. V nabídce **Partnerské centrum** vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
 
-2.  Vyberte **Uživatelé a licence**.
+2. Vyberte **Uživatelé a licence**.
 
-3.  Vyberte kartu **odstraněné uživatele ()** . V případě odstranění uživatelů, které lze obnovit, by mělo být přečteno **(1)** nebo vyšší.
+3. Vyberte kartu **odstraněné uživatele ()** . V případě odstranění uživatelů, které lze obnovit, by mělo být přečteno **(1)** nebo vyšší.
 
-4.  Zaškrtněte jedno nebo více políček Odstraněná uživatelé a pak vyberte **obnovit**.
+4. Zaškrtněte jedno nebo více políček Odstraněná uživatelé a pak vyberte **obnovit**.
 
     Všechny vybrané uživatelské účty se znovu zobrazí na stránce **Uživatelé a licence** .
 
-## <a name="related-topics"></a>Související témata
+## <a name="next-steps"></a>Další kroky
 
+- [Přiřazení licencí několika uživatelům nebo jejich odvolání](bulk-license-provisioning-for-multiple-users.md)
 
-[Přiřazení licencí několika uživatelům nebo jejich odvolání](bulk-license-provisioning-for-multiple-users.md)
-
-[Vytvoření více uživatelů pro účet zákazníka](adding-multiple-users-to-a-customer-account.md)
+- [Vytvoření více uživatelů pro účet zákazníka](adding-multiple-users-to-a-customer-account.md)

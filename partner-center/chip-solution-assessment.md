@@ -1,20 +1,20 @@
 ---
-title: Stav příležitosti posouzení řešení na platformě pro motivaci kanálu (čip)
+title: Stav příležitosti posouzení řešení čipu
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Přečtěte si, jak najít stav příležitosti vyhodnocení řešení na čipu.
+description: Přečtěte si, jak najít svůj stav příležitosti hodnocení řešení v rámci platformy pro motivaci kanálů (čip).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 035d500e41e3b28ac566ab42b3406c095dea7b11
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422179"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570378"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Najít stav příležitosti vyhodnocení řešení na čipu
 
@@ -62,7 +62,7 @@ Pokud máte další dotazy nebo chcete odeslat lístek podpory, klikněte na [Po
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Kontrolovat stav platby na čipu](chip-payment-status.md)
+- [Kontrola stavu plateb na platformě CHIP](chip-payment-status.md)
 - [Podpora](report-problems-with-partner-center.md)
 
 .
