@@ -1,19 +1,19 @@
 ---
-title: Údaje o dani z přidané hodnoty (DPH) v registraci partnerského centra
+title: Informace o dani z přidané hodnoty (DPH) v registraci v Partnerském centru
 description: Pokud v rámci procesu registrace partnerského centra potřebujete zadat číslo ID DPH, vám tyto informace pomůžou začít.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92527650"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755635"
 ---
-# <a name="vat-info"></a>Informace k DPH
+# <a name="value-added-tax-vat-information"></a>Údaje o dani z přidané hodnoty (DPH)
 
 **Platí pro:**
 
@@ -25,6 +25,24 @@ Pokud v rámci procesu registrace partnerského centra potřebujete zadat ID DPH
 ## <a name="understanding-vat-numbers"></a>Porozumění číslům DPH
 
 Hodnota daně z přidané hodnoty (DPH) je identifikátor používaný pro země nebo oblasti v Evropské unii. Další informace najdete na stránce oficiálního [VIES](http://ec.europa.eu/taxation_customs/vies/vieshome.do)v Evropské unii.
+
+## <a name="location-specific-vat-information"></a>Informace o DPH pro konkrétní umístění
+
+Následující podrobnosti jsou jedinečné pro země nebo oblasti uvedené níže.
+
+### <a name="european-union"></a>Evropská unie
+
+V členských státech Evropské unie musí partneři poskytnout své platné daňové identifikační číslo pro zpětný poplatek a správné fakturace. Číslo DPH musí být přijato jako platné.
+
+Společnost Microsoft nepodporuje kredity a opětovné vyúčtování. Před prodejem všech předplatných musíte [zaregistrovat číslo ID DPH](organization-tax-info.md) v partnerském centru.
+
+### <a name="south-africa"></a>Jižní Afrika
+
+Microsoft teď používá standardní DPH pro digitální obsah a služby zakoupené partnery v Jižní Africe. Pokud chcete DPH z vašich faktur vyloučit a spravovat ji sami, musíte aktualizovat svůj fakturační profil partnera tím, že [Odešlete své identifikační číslo pro společnost Microsoft](organization-tax-info.md).
+
+### <a name="turkey"></a>Turecko
+
+Microsoft teď používá standardní DPH k digitálnímu obsahu a službám koupeným partnery v Turecku. Pokud chcete DPH z vašich faktur vyloučit a spravovat ji sami, musíte aktualizovat svůj fakturační profil partnera tím, že [Odešlete své identifikační číslo pro společnost Microsoft](organization-tax-info.md).
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Přijaté formáty pro čísla DPH
 
