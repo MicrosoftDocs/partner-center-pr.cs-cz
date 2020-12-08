@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 12/04/2020
-ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
-ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
+ms.date: 12/07/2020
+ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
+ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "96612799"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96776899"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Průvodce spoluprodejem v partnerském centru (PC) pro partnery, kteří se migrují z partnerského prodejního připojení (PSC)
 
@@ -66,22 +66,22 @@ V nabídce centrální navigace v partnerském centru vyberte možnost **odkazy*
   >[!Note]
   > Možná se budete muset odhlásit z partnerského centra a znovu se přihlásit a aktualizovat přihlašovací údaje pro přístup ke stránkám s odkazy.
 
-Pokud nevidíte možnost **odkazy** v nabídce partnerského centra nebo na stránkách souvisejících s odkazy, obraťte se na [globálního správce](permissions-overview.md) vaší společnosti a požádejte ho, aby vám poskytl přístup k možnosti **odkazy** a související oblasti. 
+Pokud nevidíte možnost **odkazy** v nabídce partnerského centra nebo na stránkách souvisejících s odkazy, obraťte se na [správce účtu](permissions-overview.md) společnosti a požádejte ho, aby vám poskytl přístup k možnosti **odkazy** a související oblasti.
 
-Jak najít globálního správce vaší společnosti:
+Jak najít správce účtu vaší společnosti:
 
 1. Z ikony ozubeného kolečka v pravém horním rohu řídicího panelu partnerského centra vyberte **Nastavení účtu** .
 
-1. V navigační nabídce druhé úrovně vyberte **Správa uživatelů** . 
+1. V navigační nabídce druhé úrovně vyberte **Správa uživatelů** .
 
-1. V horní části seznamu uživatelů vyberte rozevírací nabídku **Filtr** . Změňte možnost na **globální správce**.
+1. V horní části seznamu uživatelů vyberte rozevírací nabídku **Filtr** . Změňte možnost na **správce účtu**.
 
-   Stránka zobrazí všechny globální správce se svými příslušnými e-mailovými adresami. Pošlete jednu z nich e-mailem a požádejte je o přiřazení role Správce odkazů pro váš pracovní účet.
+   Na stránce se zobrazí všichni správci účtu se svými příslušnými e-mailovými adresami. Pošlete jednu z nich e-mailem a požádejte je o přiřazení role Správce odkazů pro váš pracovní účet.
 
   :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Obrázek znázorňující správce účtu na stránce Správa uživatelů nastavení partnera.":::
 
 >[!Important]
->- Pokud vaše role zahrnuje jenom správu uživatelů v účtu PSC, požádejte globálního správce vaší společnosti, aby vám přidělil roli [správce účtu](permissions-overview.md#manage-mpn-membership-and-your-company) v partnerském centru. 
+>- Pokud vaše role zahrnuje jenom správu uživatelů v PSC, požádejte správce účtu vaší společnosti, aby vám přidělil roli [správce účtu](permissions-overview.md#manage-mpn-membership-and-your-company) v partnerském centru. 
 >- Pokud vaše role zahrnuje i správu příležitostí pro společný prodej, požádejte o přiřazení role [Správce odkazů](permissions-overview.md#manage-referrals) .
 > - Je vhodné také pojmenovat jednoho vedoucího řízení změn mezi správci PBV. Tím se zabrání všem správcům PSC v tom, aby se mohli jednotlivě spojit s správci účtů partnerského centra. Místo toho může být vedoucí změny v rámci správy změn primární osobou, která spolupracuje se správcem účtu partnerského centra.
 
@@ -129,7 +129,7 @@ V některých případech může migrace selhat a způsobit chyby. Tady je něko
 
 Po dokončení migrace uživatelů při rozhodování o strategii migrace použijte následující pokyny:
 
-Pokud má vaše společnost PDM – když je nastavený účet partnerského centra a vaši uživatelé přesunuli a mají role a oprávnění, můžete své spolupracovní aktivity přesunout do partnerského centra. Informujte PDM, aby místo čekání na dokončení migrace nečekala na dokončení migrace. Tím umožníte, aby všechny vaše nové obchody pokračovaly do partnerského centra.
+Pokud má vaše společnost manažer vývoje pro vývoj (PDM) – když je nastavený účet partnerského centra a vaši uživatelé přesunuli a mají role a oprávnění, můžete své spolupracovní aktivity přesunout do partnerského centra. Informujte PDM, aby místo čekání na dokončení migrace nečekala na dokončení migrace. Tím umožníte, aby všechny vaše nové obchody pokračovaly do partnerského centra.
 
 >[!Note]
 >Po provedení tohoto přepínače budete moct pracovat jenom s existujícími aktivními obchody v PBV. Nemůžete ani vytvořit nové obchody ani dostávat žádné obchody od prodejců Microsoftu v PBV.
@@ -137,7 +137,7 @@ Pokud má vaše společnost PDM – když je nastavený účet partnerského cen
 Pokud vaše společnost nemá PDM, ujistěte se, že jsou všechny uživatelské účty nastavené a ověřené všemi uživateli. Budete upozorněni e-mailem a bannerem v části PSC ohledně přesného data, kdy můžete začít prodávat v partnerském centru. Mějte na paměti, že stále budete muset spravovat existující aktivní obchody v PSC.
 
 >[!Important]
->Aktivní obchody nebudou migrovány na počítač. Až do 31. prosince 2020 uzavřete a zaregistrujete obchody.
+>Aktivní obchody nebudou migrovány na počítač. Až do 31. března 2021 uzavřete a zaregistrujte obchody.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Další kroky pro správce PSC, správci koupích a PBV
 
@@ -263,7 +263,7 @@ Můžete se obrátit na správce, kteří jsou uvedeni na stránce "bez přístu
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2 – kdo mi může udělit přístup k části odkazy v partnerském centru?
 
-[Správce účtu](permissions-overview.md#manage-mpn-membership-and-your-company) vám může udělit přístup k kartě odkazy. Pokud chcete najít globálního správce, vyberte **Nastavení účtu** z ikony ozubeného kolečka v pravém horním rohu [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra. Pak vyberte **Správa uživatelů** z druhé úrovně vlevo v navigačním panelu. V horní části seznamu uživatelů vyberte rozevírací nabídku **Filtr** a změňte možnost **globální správce**. Stránka zobrazí všechny globální správce se svými příslušnými e-mailovými adresami. Položte jednu z nich, abyste přiřadili roli správce odkazů pro váš pracovní účet.
+[Správce účtu](permissions-overview.md#manage-mpn-membership-and-your-company) vám může udělit přístup k kartě odkazy. Pokud chcete najít správce účtu, vyberte **Nastavení účtu** z ikony ozubeného kolečka v pravém horním rohu [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra. Pak vyberte **Správa uživatelů** z druhé úrovně vlevo v navigačním panelu. V horní části seznamu uživatelů vyberte rozevírací nabídku **Filtr** a změňte možnost na **správce účtu**. Na stránce se zobrazí všichni správci účtu se svými příslušnými e-mailovými adresami. Položte jednu z nich, abyste přiřadili roli správce odkazů pro váš pracovní účet.
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3 – tlačítko + nové koupě je pro náš účet šedé. Co mám udělat, pokud chcete začít vytvářet obchody?
 
