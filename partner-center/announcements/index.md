@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570752"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869312"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,8 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z prosince 2020** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Možnosti|[Vydání sady SDK v .NET Standard (v1.16.3)](2020-december.md#4)|8\. prosince|
+|Nabídky/trhy|[Poznámky k ceníku založenému na licencích pro prosinec 2020](2020-december.md#3)|8\. prosince|
 |Nabídky/trhy|[Připravujeme aktualizaci nabídky Microsoft 365 Business Voice s nabídkou volacího plánu pro USA](2020-december.md#2)|3\. prosince|
 |Možnosti|[Nově v provozu: Aktualizace rozhraní API Partnerského centra a vylepšení uživatelského rozhraní pro proces ověřování zákazníků v oblasti vzdělávání](2020-december.md#1)|3\. prosince|
 | **Kategorie** | **Oznámení z listopadu 2020** | **Datum oznámení** |
