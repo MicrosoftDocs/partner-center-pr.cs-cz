@@ -1,7 +1,7 @@
 ---
 title: Smlouva o partnerovi Microsoftu (MPA) pro CSP
-ms.topic: article
-ms.date: 04/27/2020
+ms.topic: how-to
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si informace o požadavcích partnerů Microsoftu na partnery pro podepsání a ověření této sjednocené a digitálně přijatelné smlouvy o partnerovi od Microsoftu (MPA).
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: d8dac9e5d8720a39d6bf585a1f6cd9bd5c70465a
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869329"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926674"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Další informace o smlouvě Microsoft Partner Agreement (MPA) pro partnery programu CSP
 
@@ -27,6 +27,9 @@ Partnerská smlouva Microsoftu poskytuje partnerům Microsoftu jednotnou, digit�
 Všichni partneři programu Cloud Solution Provider (včetně nepřímých zprostředkovatelů, nepřímých prodejců a přímých partnerů) můžou v partnerském centru podepsat aktivaci online. Poskytovatelé přímých faktur a nepřímých poskytovatelů, kteří pracují v cloudu pro státní správu, můžou také v rámci partnerského centra podepsat aktivaci.
 
 Abyste se mohli i nadále zúčastnit programu CSP, musíte si před 31. ledna 2020 podepsat smlouvu o partnerovi Microsoftu. Partnerské centrum vám připomene, že teď můžete jednoduše podepsat smlouvu v rámci partnerského centra.
+
+>[!NOTE]
+>Technologie MPA se musí v každé oblasti CSP, kde má vaše společnost CSP, podepsat jednou. Další informace o [oblastech CSP](regional-authorization-overview.md) 
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Ověřte, jestli je vaše ID MPN aktivní a migrujte do partnerského centra.
 
@@ -78,13 +81,13 @@ Pokud se chcete podívat, jestli jste si zaregistrovali aktivaci:
 >Pouze globální správce ve vaší společnosti může zobrazit a podepsat aktivaci. Pokud nejste globálním správcem, budete muset požádat svého globálního správce, aby ověřil aktivaci.
 
 
-## <a name="downloadable-step-by-step-guides"></a>Podrobné návody ke stažení
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Stáhněte si podrobného průvodce, který je správný pro to, kde jste v procesu.
 
-1. [Migrace z PMC na Partnerské centrum a přijetí Smlouvy s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. Pokud migrujete účet MPN z PMC do partnerského centra: [migrace z PMC do partnerského centra a přijetí smlouvy Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. [Onboarding pro členy MPN a Smlouva s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. Pokud se chcete zaregistrovat jako nepřímý prodejce CSP v partnerském centru: registrace [pro členy programu MPN a partnerskou smlouvu Microsoftu](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. [Ověření stavu přijetí Smlouvy s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+3. Pokud chcete ověřit stav aktivace v partnerském centru po dokončení kroku 1 nebo krok 2 výše, [Ověřte stav přijetí smlouvy s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx) .
  
 ## <a name="next-steps"></a>Další kroky
 

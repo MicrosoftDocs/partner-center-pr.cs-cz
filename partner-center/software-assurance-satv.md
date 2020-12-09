@@ -1,7 +1,7 @@
 ---
 title: Programový doklad o školení Software Assurance
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se, jak se zaregistrovat v programu doklad školení Software Assurance, abyste mohli doručovat školení a plánování pro podnikové zákazníky.
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92527133"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926617"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Program Software Assurance Training Voucher (SATV) v Partnerském centru
 
@@ -45,11 +45,11 @@ V partnerském centru můžete ověřit způsobilost vaší společnosti včetn�
 
 ## <a name="enroll-in-the-training-program"></a>Zaregistrujte se do školicího programu
 
-Jakmile vaše společnost splní podmínky zakládající nárok a vaši účastníci programu projdou školením k dodržování předpisů, můžete podepsat smlouvu o programu Software Assurance Training Voucher a zaregistrovat se. Nezapomeňte si projít všechny [zásady programu SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)a pak podle pokynů v [kroku 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) pracovního postupu dokončete proces registrace SATV v partnerském centru.
+Jakmile vaše společnost splní požadavky na nárok, budete připraveni podepsat smlouvu o programu Software Assurance Train doklad a zapsat. Nezapomeňte si projít všechny [zásady programu SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)a pak podle pokynů v [kroku 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) pracovního postupu dokončete proces registrace SATV v partnerském centru.
 
 
 ## <a name="confirm-course-eligibility"></a>Potvrdit nárok na kurz
-Po zaregistrování v programu SATV můžou partneři nabízet školicí cvičení pro kurzy, které jsou způsobilé pro SATV, u kterých zákazníci můžou používat své školicí doklady. Opravňující kurzy jsou uvedené v [katalogu nároků na kurz SATV](https://savl-catalog.microsoft.com/). Projděte si [Krok 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) pracovního postupu, který vám pomůže pochopit, které typy kurzů jsou SATV – způsobilé.
+Po zaregistrování v programu SATV můžou partneři nabízet školicí cvičení pro kurzy, které jsou způsobilé pro SATV, u kterých zákazníci můžou používat své školicí doklady. Opravňující kurzy jsou uvedené v katalogu nároků na kurz SATV. Projděte si [Krok 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) pracovního postupu, který vám pomůže pochopit, které typy kurzů jsou SATV – nebo získat odkaz na katalog nároků na kurz.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Vytvořit a přiřadit doklad pro zákazníka
 

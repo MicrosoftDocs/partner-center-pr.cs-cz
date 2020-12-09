@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527040"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926657"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Poskytovatel řešení cloudu a místní trhy a měny, kde můžete prodávat nabídky CSP
 
@@ -43,23 +43,23 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 
 | Země/oblast           | Měna |
 | ------------------------ |:--------:|
-| Angola                   |          |
+| Angola                   |   USD    |
 | Benin                    |   USD    |
-| Botswana                 |          |
+| Botswana                 |   USD    |
 | Burkina Faso             |   USD    |
 | Burundi                  |   USD    |
 | Kamerun                 |   USD    |
-| Kapverdy               |          |
+| Kapverdy               |   USD    |
 | Středoafrická republika |   USD    |
 | Čad                     |   USD    |
 | Komory                  |   USD    |
 | Kongo                    |   USD    |
 | Konžská demokratická republika              |   USD    |
-| Côte d’Ivoire (Pobřeží slonoviny)            |          |
+| Côte d’Ivoire (Pobřeží slonoviny)            |   USD    |
 | Džibutsko                 |   USD    |
 | Rovníková Guinea        |   USD    |
 | Eritrea                  |   USD    |
-| Etiopie                 |          |
+| Etiopie                 |   USD    |
 | Francouzská Polynésie         |   USD    |
 | Gabon                    |   USD    |
 | Gambie                   |   USD    |
@@ -80,7 +80,7 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 | Réunion                  |   USD    |
 | Rwanda                   |   USD    |
 | Svatý Tomáš a Princův ostrov    |   USD    |
-| Senegal                  |          |
+| Senegal                  |   USD    |
 | Seychely               |   USD    |
 | Sierra Leone             |   USD    |
 | Somálsko                  |   USD    |
@@ -88,8 +88,8 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 | Svatá Helena, Ascension a Tristan da Cunha|    USD   |
 | Tanzanie                 |   USD    |
 | Togo                     |   USD    |
-| Uganda                   |          |
-| Zambie                   |          |
+| Uganda                   |   USD    |
+| Zambie                   |   USD    |
 |
 
 ## <a name="asia-and-pacific-region-and-market"></a>Asie a Tichomoří v oblasti a na trhu
@@ -99,17 +99,17 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 | Země/oblast     | Měna |
 | --------------     |:--------:|
 |  Bangladéš        |   USD    |
-|  Bhútán            |          |
+|  Bhútán            |   USD    |
 |  Sultanát Brunej |   USD    |
-|  Kambodža          |          |
+|  Kambodža          |   USD    |
 |  Hongkong         |   USD    |
 |  Indonésie         |   USD    |
-|  Laos              |          |
+|  Laos              |   USD    |
 |  Macao             |   USD    |
 |  Malajsie          |   USD    |
-|  Maledivy          |          |
-|  Myanmar           |          |
-|  Nepál             |          |
+|  Maledivy          |   USD    |
+|  Myanmar           |   USD    |
+|  Nepál             |   USD    |
 |  Filipíny       |   USD    |
 |  Singapur         |   USD    |
 |  Srí Lanka         |   USD    |
@@ -179,9 +179,9 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Rakousko        |   EUR    |
 |  Belgie        |   EUR    |
 |  Bouvetův ostrov  |   EUR    |
-|  Bulharsko       |          |
+|  Bulharsko       |   EUR    |
 |  Chorvatsko        |   EUR    |
-|  Kypr         |          |
+|  Kypr         |   EUR    |
 |  Česká republika |   EUR    |
 |  Dánsko        |   DKK    |
 |  Estonsko        |   EUR    |
@@ -191,7 +191,7 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Německo        |   EUR    |
 |  Gibraltar      |   GBP    |
 |  Řecko         |   EUR    |
-|  Grónsko      |          |
+|  Grónsko      |   EUR    |
 |  Guernsey       |   GBP    |
 |  Maďarsko        |   EUR    |
 |  Island        |   EUR    |
@@ -203,8 +203,8 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Lichtenštejnsko  |   EUR    |
 |  Litva      |   EUR    |
 |  Lucembursko     |   EUR    |
-|  Malta          |          |
-|  Monako         |          |
+|  Malta          |   EUR    |
+|  Monako         |   EUR    |
 |  Nizozemsko    |   EUR    |
 |  Norsko         |   NOK    |
 |  Polsko         |   EUR    |
@@ -278,13 +278,13 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Falklandské ostrovy|  USD    |
 |  Francouzská Guyana  |   USD    |
 |  Grenada        |   USD    |
-|  Guadeloupe     |          |
+|  Guadeloupe     |   USD    |
 |  Guatemala      |   USD    |
 |  Guyana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
 |  Jamajka        |   USD    |
-|  Martinik     |          |
+|  Martinik     |   USD    |
 |  Mexiko         |   USD    |
 |  Montserrat     |   USD    |
 |  Nikaragua      |   USD    |
@@ -315,9 +315,9 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 
 |  Země/oblast | Měna |
 |  -------------- |:--------:|
-|  Afghánistán    |          |
+|  Afghánistán    |   USD    |
 |  Albánie        |   USD    |
-|  Alžírsko        |          |
+|  Alžírsko        |   USD    |
 |  Arménie        |   USD    |
 |  Ázerbájdžán     |   USD    |
 |  Bahrajn        |   USD    |
@@ -328,21 +328,21 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Gruzie        |   USD    |
 |  Irák           |   USD    |
 |  Izrael         |   USD    |
-|  Jordánsko         |          |
+|  Jordánsko         |   USD    |
 |  Kazachstán     |   USD    |
 |  Kosovo         |   USD    |
 |  Kuvajt         |   USD    |
 |  Kyrgyzstán     |   USD    |
 |  Libanon        |   USD    |
 |  Lesotho        |   USD    |
-|  Libye          |          |
+|  Libye          |   USD    |
 |  Makedonie – republika|   |
 |  Mauritánie     |   USD    |
-|  Moldavsko        |          |
-|  Mongolsko       |          |
-|  Černá Hora     |          |
+|  Moldavsko        |   USD    |
+|  Mongolsko       |   USD    |
+|  Černá Hora     |   USD    |
 |  Maroko        |   USD    |
-|  Mosambik     |          |
+|  Mosambik     |   USD    |
 |  Omán           |   USD    |
 |  Pákistán       |   USD    |
 |  Palestinská území, obsazená |        |
@@ -351,15 +351,15 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Srbsko         |   USD    |
 |  Jižní Afrika   |   USD    |
 |  Svazijsko      |   USD    |
-|  Tádžikistán     |          |
+|  Tádžikistán     |   USD    |
 |  Tunisko        |   USD    |
 |  Turecko         |   USD    |
-|  Turkmenistán   |          |
+|  Turkmenistán   |   USD    |
 |  Ukrajina        |   USD    |
 |  Spojené arabské emiráty| USD |
-|  Uzbekistán     |          |
+|  Uzbekistán     |   USD    |
 |  Jemen          |   USD    |
-|  Zimbabwe       |          |
+|  Zimbabwe       |   USD    |
 |
 
 ## <a name="new-zealand-region-and-market"></a>Oblast a trh Nového Zélandu

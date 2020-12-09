@@ -1,7 +1,7 @@
 ---
 title: Software Assurance Planning Services
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se registrovat a kvalifikovat v rámci zapojení služeb Microsoft Planning Services, abyste mohli poskytovat školení a další služby zákazníkům se Software Assurance.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "92527148"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926640"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance Planning Services v Partnerském centru
 
@@ -42,10 +42,9 @@ Tento článek vysvětluje, jak tento krok provést.
 
 ## <a name="verify-eligibility-new-partners"></a>Ověření způsobilosti (noví partneři)
 
-Předtím, než se můžou partnerské společnosti a konzultanti zaregistrovat v rámci nabídek služeb plánování, musí splnit požadavky na školení dodržování předpisů a požadavky na kompetenci:
+Předtím, než se můžou partnerské společnosti a konzultanti zaregistrovat v rámci nabídek služeb plánování, musí splňovat požadavky na kompetenci, a to takto:
 
-- **Požadavky školení na dodržování předpisů.** Požadavky na školení o dodržování předpisů pro program musí být splněné na úrovni společnosti.
-- **Požadavky na kompetenci.** Požadavky na kompetenci jsou specifické pro doručení zapojení. Například vaše společnost může být zaregistrovaná v nabídce služby plánování nasazení desktopu (DDPS). Budete ale mít nárok jenom na poskytování konkrétního zapojení v rámci nabídky DDPS, pokud vaše společnost má také opravňující kompetenci pro tuto konkrétní zapojení.
+**Požadavky na kompetenci.** Požadavky na kompetenci jsou specifické pro doručení zapojení. Například vaše společnost může být zaregistrovaná v nabídce služby plánování nasazení desktopu (DDPS). Budete ale mít nárok jenom na poskytování konkrétního zapojení v rámci nabídky DDPS, pokud vaše společnost má také opravňující kompetenci pro tuto konkrétní zapojení.
 
 >[!NOTE]
 > Další informace o požadavcích na způsobilost pro konkrétní zapojení najdete v [požadavcích na způsobilost pro zapojení služeb plánování](software-assurance-dps-requirements.md).
@@ -53,8 +52,8 @@ Předtím, než se můžou partnerské společnosti a konzultanti zaregistrovat 
 Abychom mohli ověřit, jestli má vaše společnost nárok na registraci konkrétního zapojení služeb pro plánování:
 
 1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard/home)partnerského centra.
-2. V nabídce vyberte **MPN** a pak vyberte **programy** .
-3. Vyberte **registrace Software Assurance** .
+2. V nabídce vyberte **MPN** a pak vyberte **programy**.
+3. Vyberte **registrace Software Assurance**.
 4. V horní části stránky vyberte kartu **Registrace programu plánovací služby** . Vedle všech požadavků nebo kompetencí, které jste již dokončili, se zobrazí zelená značka zaškrtnutí.
 
 ## <a name="enroll-new-partners"></a>Registrovat (noví partneři)
