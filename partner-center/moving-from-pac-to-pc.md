@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e06194bd83b5a2c9c2ed32ee32d4b4220a42dcf
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527050"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869278"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Přesun z centra pro správu partnera (PAC) do partnerského centra
 
@@ -31,14 +31,11 @@ Partnerské centrum se vyvíjí na jediné místo, kde budete spravovat partners
 |**Akce**   |**PAC**   |**Partnerské centrum**   |
 |--------------|:--------------|:---------------|
 |Přehled vaší aktivity účtu a zákazníků na nejvyšší úrovni|Domovská obrazovka|Partnerské centrum|
-|Získejte nové zákazníky a poskytněte nabídky pro placené a zkušební služby.|Sestavování firemních > odeslání uvozovek|Placené uvozovky nejsou k dispozici. Testy CSP jsou k dispozici, pokud se partner Advisor převede na nepřímý prodejce CSP a přidruží k nepřímému poskytovateli CSP, který podporuje zkušební verze. |
-|Relace žádosti|(Prodejci a poradci) Sestavte svou firmu > poslat požadavek DAP|(Prodejci a poradci) Zákazníci – > požádat o vztah prodejce (viz poznámka níže)|
+|Získejte nové zákazníky a poskytněte nabídky pro placené a zkušební služby.|Sestavování firemních > odeslání uvozovek|Partnerské centrum – > zkušební verze a nabídky nákupu |
+|Relace žádosti|(Prodejci a poradci) Sestavte svou firmu > poslat požadavek DAP|Zákazníci – > požádat o relaci (viz poznámka níže)|
 |Spravujte své zákazníky|Správa klientů – seznam klientů >|Partnerské centrum – > zákazníky|
-|Správa zákaznických předplatných|Správa klientů – > seznam klientů-> vybrat zákazníka|Partnerské centrum – > zákazníky – > vyberte zákazníka nebo přidejte zákazníka do seznamu **oblíbených položek** tak, že v seznamu zákazníků přepíšete hvězdičku a pak vyberete snímky na základě **Oblíbené položky** a přejdete přímo ke **správě předplatných** pro zákazníka.|
-|Správa jménem zákazníka|Správa klientů – > vybrat zákazníka – > vybrat tlačítko pro správu|Partner Center – > zákazníky – > vyberte Spravovat služby z rozevíracího seznamu – > vyberte službu nebo přidejte zákazníka do seznamu **oblíbených položek** tak, že v seznamu zákazníků přepnete hvězdičku a potom kliknete na **Oblíbené položky** a přejdete přímo na **správu služeb** pro požadovanou službu.|
+|Správa zákaznických předplatných|Správa klientů – > seznam klientů-> vybrat zákazníka|Partner Center – > zákazníky – > vybrat zákazníka nebo vyhledat zákazníka podle jména nebo názvu domény. Pak můžete přejít na **uživatele a licence** pro vašeho zákazníka.|
+|Správa jménem zákazníka|Správa klientů – > vybrat zákazníka – > vybrat tlačítko pro správu|Partner Center – > zákazníky – > vybrat zákazníka nebo vyhledat zákazníka podle jména nebo názvu domény. Pak vyberte Spravovat služby z rozevíracího seznamu-> vybrat službu.|
 |Vytváření žádostí o služby pro zákazníka|Žádosti o služby – > vybrat zákazníka – > tlačítko vybrat + | Partnerské centrum – žádosti o > služeb – > žádosti zákazníků – > vybrat zákazníka – > nový požadavek|
-|Správa žádostí o služby zákazníkům| Žádosti o služby – > vybrat zákazníka|Partnerská žádost – > žádosti o služby – > žádosti o zákazníky – > vybrat zákazníka nebo přidat žádost o službu do seznamu **oblíbených položek** tak **, že v** zobrazení žádosti o zákaznících pro zákazníka vybere hvězdičku, vyberete kartu žádosti o **podporu** a přejdete přímo na žádost o služby – nebo můžete zobrazit aktualizace přímo z **oblíbených položek** .|
+|Správa žádostí o služby zákazníkům| Žádosti o služby – > vybrat zákazníka|Partnerská žádost – > žádosti o služby – > žádosti o zákazníky – > vybrat zákazníka nebo přidat žádost o službu do seznamu **oblíbených položek** tak **, že v** zobrazení žádosti o zákaznících pro zákazníka vybere hvězdičku, vyberete kartu žádosti o **podporu** a přejdete přímo na žádost o služby – nebo můžete zobrazit aktualizace přímo z **oblíbených položek**.|
 |Zobrazit stav služeb Microsoft Online Services, které spravujete|Stav služby – agregovaný stav >|Partner – stav služby >|
-
->Důležité<br>
-Zákazníkům prostřednictvím partnerského centra nebudete moci odesílat placené a zkušební nabídky zákazníkům. Kromě toho, pokud chcete hledat zákazníky v partnerském centru, buď použijte jméno zákazníka nebo doménu zákazníka/s k dispozici, když jste navázali partnerský vztah se zákazníkem.

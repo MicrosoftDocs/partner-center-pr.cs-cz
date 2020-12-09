@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e706c85a31967c163c2b147b0f40bfc4c99f67e2
-ms.sourcegitcommit: 5cbea13b9f5b34e8588382caab9a08537b4ca36f
+ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2020
-ms.locfileid: "92527730"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869329"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Další informace o smlouvě Microsoft Partner Agreement (MPA) pro partnery programu CSP
 
@@ -30,22 +30,26 @@ Abyste se mohli i nadále zúčastnit programu CSP, musíte si před 31. ledna 2
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Ověřte, jestli je vaše ID MPN aktivní a migrujte do partnerského centra.
 
+1. Pokud jste nemigrovali svůj účet MPN z partnerského centra pro členství (PMC) do partnerského centra, budete muset [svůj účet MPN migrovat do partnerského centra](move-pmc-pc-map.md). Zbývající kroky dokončíte po dokončení migrace. 
+
 1. Přihlaste se k partnerskému centru pomocí přihlašovacích údajů účtu MPN.
  
 1. V **Nastavení** vyberte [partnerský profil](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
 
 1. Podívejte se na část **informace o programu** . Pokud je stav programu MPN **aktivní** , pak jste aktivní partner MPN v partnerském centru.
  
-1. Pokud je stav programu MPN **zamítnuto/zamítnuto** nebo **čeká na vyřízení** , ověření účtu se nezdařilo. Přečtěte si [proces ověření](verification-responses.md) a zjistěte, jak vyřešit problém s ověřením.
+1. Pokud je stav programu MPN **zamítnuto/zamítnuto** nebo **čeká na vyřízení**, ověření účtu se nezdařilo. Přečtěte si [proces ověření](verification-responses.md) a zjistěte, jak vyřešit problém s ověřením.
 
-1. Pokud nevidíte stav účtu MPN nebo jste nemigrovali svůj účet MPN z centra pro členství v partnerovi (PMC) do partnerského centra, budete muset [svůj účet MPN migrovat do partnerského centra](move-pmc-pc-map.md).
+
 
 >[!NOTE]
 >Přihlašovací údaje účtu MPN ID se nemusí shodovat s přihlašovacími údaji účtu CSP.
 
-## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Potvrďte, že jste se zaregistrovali jako nepřímý prodejce CSP.
+## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Ověřte, že jste zaregistrováni jako nepřímý prodejce CSP.
 
-1. Přihlaste se k partnerskému centru pomocí přihlašovacích údajů účtu CSP.
+1. Pokud jste v partnerském centru ještě nezaregistrovali jako [nepřímý prodejce CSP](enrolling-in-the-csp-program.md)  , musíte to udělat jako první. Dokončete zbývající kroky po registraci jako nepřímý prodejce CSP v partnerském centru.
+
+1. Přihlaste se do partnerského centra s přihlašovacími údaji účtu globálního správce CSP.
 
 1. V **Nastavení** vyberte [partnerský profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
@@ -53,11 +57,11 @@ Abyste se mohli i nadále zúčastnit programu CSP, musíte si před 31. ledna 2
 
 1. Pokud je stav  **nepřímý prodejce** **aktivní** , pak jste v partnerském centru aktivní nepřímý prodejce.
  
-4. Pokud je stav  **nepřímého prodejce** **kvalifikovaný** , pak v části [**Přehled řídicího panelu**](https://partner.microsoft.com/pcv/dashboard/overview) přijměte aktivaci svého účtu.
+4. Pokud je stav  **nepřímého prodejce** **kvalifikovaný**, pak v části [**Přehled řídicího panelu**](https://partner.microsoft.com/pcv/dashboard/overview) přijměte aktivaci svého účtu.
  
 1. Pokud je stav nepřímý prodejce **odmítnut** nebo **odmítnut** , ověření účtu se nezdařilo. Přečtěte si [proces ověření](verification-responses.md) a zjistěte, jak vyřešit problém s ověřením.
 
-1. Pokud jste již dříve připojili do partnerského centra jako nepřímý prodejce, přijměte na řídicím panelu partnerského centra pomocí přihlašovacích údajů globálního správce smlouvu s partnerem Microsoftu. Můžete potvrdit, jestli už je Partnerská smlouva Microsoftu podepsaná z **informací o programu** [partnerského profilu](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) nebo oznámení na stránce Přehled CSP.
+1. Pokud jste už dříve přesunuli do partnerského centra jako nepřímý prodejce, přijměte na řídicím panelu partnerského centra na stránce Přehled pomocí přihlašovacích údajů globálního správce smlouvu s partnerem Microsoftu. Můžete potvrdit, jestli už je Partnerská smlouva Microsoftu podepsaná z **informací o programu** [partnerského profilu](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) nebo oznámení na stránce Přehled CSP.
 
 Nezapomeňte přijmout žádost o vztah CSP k vašemu nepřímému poskytovateli.
 
@@ -65,23 +69,23 @@ Nezapomeňte přijmout žádost o vztah CSP k vašemu nepřímému poskytovateli
 
 Pokud se chcete podívat, jestli jste si zaregistrovali aktivaci:
 
-1. Jako globální správce vaší společnosti se přihlaste do [řídicího panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
+ Jako globální správce vaší společnosti přejděte na [Přehled CSP](https://partner.microsoft.com/pcv/dashboard/overview) a zkontrolujte, zda jste zobrazili zelený banner s oznámením, že jste přijali aktivaci.
 
-2. Přejděte na **Přehled CSP** a zkontrolujte, zda jste zobrazili zelený banner s oznámením, že jste přijali aktivaci.
  
 :::image type="content" source="images/mpagreen.png" alt-text="Zelená banner ukazující přijetí aktivace":::
 
 >[!NOTE]
 >Pouze globální správce ve vaší společnosti může zobrazit a podepsat aktivaci. Pokud nejste globálním správcem, budete muset požádat svého globálního správce, aby ověřil aktivaci.
 
-## <a name="microsoft-customer-agreement"></a>Smlouva se zákazníkem Microsoftu
 
-Pro nákupy služeb Azure prostřednictvím plánu Azure a pro všechny ostatní nabídky ve zprostředkovateli CSP zakoupené po 31. lednu 2020 se bude vyžadovat přijetí smlouvy Microsoft Customer Agreement (MCuA) pro zákazníky. Další informace najdete v tématu [potvrzení souhlasu zákazníka se smlouvou Microsoftu pro zákazníky](confirm-customer-agreement.md).
+## <a name="downloadable-step-by-step-guides"></a>Podrobné návody ke stažení
 
+1. [Migrace z PMC na Partnerské centrum a přijetí Smlouvy s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+
+2. [Onboarding pro členy MPN a Smlouva s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+
+3. [Ověření stavu přijetí Smlouvy s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+ 
 ## <a name="next-steps"></a>Další kroky
 
-- [Migrace z PMC do partnerského centra a přijetí smlouvy s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
-
-- [Připojování členů programu MPN a smlouvy o partnerovi Microsoftu](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
-
-- [Ověření stavu přijetí smlouvy o partnerovi Microsoftu](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+- [Registrace do programu Cloud Solution Provider](enrolling-in-the-csp-program.md)
