@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556442"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011518"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Správa účtu partnerského centra – profil společnosti, informace o bance, role, oprávnění a další
 
@@ -41,9 +41,19 @@ Tím se zobrazí stránka nastavení účtu.
 
 Bez ohledu na to, jestli jste partnerem nebo vývojářem, použijte své ID MPN pro tyto věci jako protokolování lístků podpory. ID MPN se nachází na stránce **právní informace** Thee. Můžete ji také najít v **profilu identity**.
 
+## <a name="account-settings---partners-resellers"></a>Nastavení účtu – partneři, prodejci
+
+Když vyberete ikonu **Nastavení** a otevřete nabídku **Nastavení účtu** , výchozí zobrazení, pokud je vaše společnost součástí programu Cloud Solution Provider, je **právní informace** , které se zobrazují na dvou kartách, **partnerech** a **prodejci**. Každá karta obsahuje aspekty vaší firmy.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Nabídka zobrazuje karty pro partnery a prodejce":::
+
+Karta partner bude obsahovat všechny právní informace o společnosti, jako jsou třeba registrované právní jméno a adresa pro vaši společnost, a také primární kontaktní a firemní umístění. Karta prodejce pro partnery, kteří provádějí CSP, zahrnuje **profil zákaznické podpory**.
+
+Pokud se vaše společnost nepodílí na CSP, výchozí zobrazení zobrazí jenom kartu **partner** , která bude obsahovat **profil zákaznické podpory**.
+
 ## <a name="organization-profile"></a>Profil organizace
 
-Tyto stránky můžete použít ke správě těchto oblastí jako právní profil firmy, profil partnera a umístění společnosti. Chcete-li upravit tuto oblast, vyberte karty, jako je například **právní** nebo **tenant** (podrobněji popsány níže). Vyberte kartu programu, který vás zajímá (MPN, CSP nebo komerční web Marketplace), abyste viděli vaše informace a dozvíte ČSFD stav.
+Tyto stránky můžete použít ke správě podrobných oblastí vaší firmy, včetně platného obchodního profilu, partnerského profilu a klientů. Spravujte jednotlivé oblasti samostatně. Jsou popsány níže. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Nabídka právní informace":::
 
