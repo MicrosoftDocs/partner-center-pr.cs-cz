@@ -1,5 +1,5 @@
 ---
-title: Nahlásit problémy jménem zákazníka
+title: Hlášení problémů jménem zákazníka
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527743"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153141"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Nahlášení problému služby jménem zákazníka – včetně toho, kdy a jak postupovat
 
 **Platí pro**
 
 - Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro Microsoft Cloud for US Government
 
 **Příslušné role**
 
@@ -31,11 +31,13 @@ Pokud má zákazník nějaký problém se službou, který nelze vyřešit a kte
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Odeslat žádost o služby pro zákazníka
 
-1. V nabídce **Partnerské centrum** vyberte **žádosti o služby** a pak **zákaznickou žádost** . 
+1. V nabídce partnerského centra v části CSP vyberte **zákazníci** .
 
-2. Na stránce žádosti o zákazníky vyhledejte požadovaného zákazníka.
+2. Na stránce zákazníci vyberte nebo vyhledejte požadovaného zákazníka.
+    
+3. V nabídce zákazník vyberte **žádosti o služby** .
 
-3. V rozevírací nabídce **nový požadavek** vyberte možnost **Azure** nebo **Office 365, Dynamics 365 a Enterprise Mobility Suite** . Budete přesměrováni do centra pro správu portál Microsoft Azure nebo Office 365.
+4. V rozevírací nabídce **nový požadavek** vyberte možnost **Azure** nebo **Office 365, Dynamics 365 a Enterprise Mobility Suite**. Budete přesměrováni do centra pro správu portál Microsoft Azure nebo Office 365.
 
 >[!NOTE]
 >Podpora partnerských partnerů pro provozování Dynamics 365 ve zprostředkovateli CSP je nutná k udržení smlouvy o podpoře pro plán ASfP (Advanced Support for partner) nebo vyšší. Tato smlouva o podpoře se vyžaduje k odeslání incidentů Dynamics 365 jménem zákazníka CSP. [Přečtěte si další informace](https://partner.microsoft.com/support/partnersupport) o možnostech smlouvy o podpoře.
@@ -49,15 +51,15 @@ Pokud má zákazník nějaký problém se službou, který nelze vyřešit a kte
 >
 >- I když správce helpdesku v partnerském centru nemůže vytvářet žádosti o služby na portálu Azure Service, co můžou udělat, je vytvořit skupinu podpory na portálu Azure Service a dát této skupině oprávnění protokolovat požadavky na podporu.
 
-1. Vyberte **Nová žádost o podporu** .
+1. Vyberte **Nová žádost o podporu**.
 
-2. Do žádosti o podporu zadejte příslušné informace a pak vyberte **vytvořit** :
+2. Do žádosti o podporu zadejte příslušné informace a pak vyberte **vytvořit**:
 
    - V části **základy** žádosti o podporu nezapomeňte vybrat **Cloud Solution Provider** v poli **plán podpory** .
 
    - V části **kontaktní** informace v žádosti o podporu zadejte svoje informace, ne informace o vašem zákazníkovi.
 
-3. Později zkontrolujte žádosti o služby zákazníka v rámci portál Microsoft Azure tím, že vyberete **Spravovat žádosti o podporu** .
+3. Později zkontrolujte žádosti o služby zákazníka v rámci portál Microsoft Azure tím, že vyberete **Spravovat žádosti o podporu**.
 
 Možná budete muset vytvořit žádost o podporu pro zákazníka, pokud nemáte oprávnění správce pro daného zákazníka. K tomu může dojít v jednom ze dvou scénářů:
 
@@ -79,12 +81,12 @@ V obou těchto případech můžete k vytvoření žádosti o podporu použít n
 
 1. V části **vytvořit žádost o službu** vyberte příslušnou kategorii podpory. Možná budete muset vybrat **více...** a zobrazit další články.
 
-2. Dokončete formulář žádosti o službu a vyberte **Odeslat** .
+2. Dokončete formulář žádosti o službu a vyberte **Odeslat**.
 
    > [!TIP]
    > Ujistěte se, že jste zahrnuli vaše kontaktní údaje, ne váš zákazník.
 
-3. Později zkontrolujte žádosti o služby zákazníka tak, že přejděte do centra pro správu Office 365 a vyberte **Zobrazit všechny lístky podpory** .
+3. Později zkontrolujte žádosti o služby zákazníka tak, že přejděte do centra pro správu Office 365 a vyberte **Zobrazit všechny lístky podpory**.
 
 ### <a name="support-for-commercial-marketplace-products"></a>Podpora produktů z komerčního tržiště
 
@@ -116,7 +118,7 @@ Tato výhoda se vztahuje na všechny partnery, kteří se účastní programu Cl
 
 Naše doby první odezvy závisí na závažnosti odeslaného incidentu. Závažnost problému je dána označením dopadu na firmu při odeslání žádosti o služby.
 
-Doby první odezvy pro **incidenty s technickým poškozením** :
+Doby první odezvy pro **incidenty s technickým poškozením**:
 
 - Kritický dopad (závažnost A): 2 hodiny (významná ztráta nebo snížení úrovně služeb. Provozní služby.)
 - Střední dopad (závažnost B): čtyři hodiny (mírné ztráty nebo snížení úrovně služeb. Provozní služby byly částečně ovlivněny.)
@@ -149,5 +151,5 @@ Přečíst [podporu pro Microsoft Dynamics](https://support.microsoft.com/help/4
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Poskytněte zákazníkům podporu](customer-support.md)
-- [Ověřit stav služby](check-service-health.md)
+- [Zajištění podpory pro zákazníky](customer-support.md)
+- [Kontrola stavu služeb](check-service-health.md)
