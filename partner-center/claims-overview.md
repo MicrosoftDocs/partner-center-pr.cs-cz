@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133078"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354504"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Získat obchodní prostředky pro spolupráci
-
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
@@ -52,7 +48,7 @@ Další informace o tempo plateb a procentech rozdělení najdete v příručce 
 - H1 je první polovina fiskálního roku od 1. prosince do 31.
 - H2 je druhá polovina fiskálního roku od 1. června.
 
-Šestiměsíční období, během kterého se vaše příjmy odúčtují, se bude jednat o **dobu trvání vašeho Vyzisku** . Tyto tržby musíte v určitém okamžiku využít v průběhu **období využití** po šesti měsících. Pokud nepoužijete své tržby na konci období používání, propadne vám. **Období deklarací identity** je šestiměsíční období, během kterého můžete uplatnit nárok na náhradu za vaše aktivity programu motivačních programů.
+Šestiměsíční období, během kterého se vaše příjmy odúčtují, se bude jednat o **dobu trvání vašeho Vyzisku**. Tyto tržby musíte v určitém okamžiku využít v průběhu **období využití** po šesti měsících. Pokud nepoužijete své tržby na konci období používání, propadne vám. **Období deklarací identity** je šestiměsíční období, během kterého můžete uplatnit nárok na náhradu za vaše aktivity programu motivačních programů.
 
 V tabulce níže vidíte různé doby využívání, využití a nároků na uplatnění. Pokud není uvedeno jinak, tečky se od prvního dne prvního měsíce k poslednímu dni posledního měsíce zvyšují.
 

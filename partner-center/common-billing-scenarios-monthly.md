@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 616f706ddb4613f927e0c2830dd794fa3db3944e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92527021"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354572"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Ukázky měsíčních scénářů fakturace pro nové předplatné, změna množství licencí nebo přerušení
 
@@ -39,7 +39,7 @@ Soubor odsouhlasení založený na licencích z února v únoru bude obsahovat n
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |2/13/2018         |3/12/2018    |Poplatek za cyklus   |4,00       |1        |4,00 |
 
-## <a name="change-license-quantity"></a>Změnit počet licencí
+## <a name="change-license-quantity"></a>Změnit množství licencí
 
 Datum fakturace je 15. den v měsíci. 13. ledna zakoupíte nové předplatné s jednou licencí pro $4 měsíčně a vyberete možnost měsíční fakturace. 15. ledna se souborem odsouhlasení na základě licencí bude obsahovat následující fakturační řádky:
 
@@ -107,3 +107,7 @@ Cena za jednotku = dny v období služby × denní cena × počet licencí.
 V období zrušení 3/1/2018 – 3/12/2018 je k dispozici 12 dní.
 
 Proto Jednotková cena =-1,716 (12 x 0,143 x (-1)).
+
+## <a name="next-steps"></a>Další kroky
+
+- [Scénáře fakturace v jednom čase a výběr opakujících se nákupu](common-billing-scenarios-onetime-recurring.md)

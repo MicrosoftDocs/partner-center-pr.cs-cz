@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527799"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354606"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Aktualizovaná metoda, která potvrdí přijetí zákaznických smluv od Microsoftu
 
-**Platí pro**
-
--  Partnerské centrum
 
 **Příslušné role**
 
@@ -30,8 +27,8 @@ ms.locfileid: "92527799"
 > [!NOTE]
 > Prostředek smlouvy je aktuálně podporovaný partnerským centrem jenom ve veřejném cloudu Microsoftu. Neplatí pro:
 > * Partnerské centrum provozovaný společností 21Vianet
-> * Partnerské centrum pro Microsoft Cloud Německo
-> * Partnerské centrum pro Microsoft Cloud pro státní správu USA
+> * Partnerské centrum pro Microsoft Cloud pro Německo
+> * Partnerské centrum pro Microsoft Cloud for US Government
 
 >[!NOTE]
 >Od 31. ledna 2020 musí všechny zákazníky, stávající a nové, podepsat nové smlouvy o zákaznících Microsoftu. Pokud se chcete dozvědět víc, přečtěte si téma potvrzení souhlasu zákazníka s zákaznickou [smlouvou Microsoftu](confirm-customer-agreement.md).
@@ -48,7 +45,7 @@ Jako partner musíte od zákazníka získat souhlas s zákaznickou smlouvou Micr
 
 - Datum přijetí
 
-Zákazníci s přímým přístupem a nepřímými poskytovateli musí potvrdit přijetí smlouvy o zákaznících Microsoftu při vyúčtování prostřednictvím partnerského centra nebo rozhraní API partnerského centra. Potvrzení je *povinné* .
+Zákazníci s přímým přístupem a nepřímými poskytovateli musí potvrdit přijetí smlouvy o zákaznících Microsoftu při vyúčtování prostřednictvím partnerského centra nebo rozhraní API partnerského centra. Potvrzení je *povinné*.
 
 Pokud pro daného zákazníka není zadáno potvrzení:
 
@@ -70,21 +67,21 @@ To platí pro produkční prostředí i pro prostředí izolovaného prostoru (s
 
 Pomocí následujícího postupu potvrďte přijetí zákazníkovi při vytváření nového tenanta zákazníka v partnerském centru. K tomu musíte být agentem správce nebo agentem pro prodej.
 
-1. Vyberte **zákazníci** a pak **Nový zákazník** a pak vyberte **informace o účtu** .
+1. Vyberte **zákazníci** a pak **Nový zákazník** a pak vyberte **informace o účtu**.
 
-2. Zadejte informace o **společnosti** a **primárním kontaktu** .
+2. Zadejte informace o **společnosti** a **primárním kontaktu**.
 
    :::image type="content" source="images/mca/mca1.png" alt-text="Informace o společnosti":::
 
-3. V části **Smlouva o zákaznících Microsoftu** vyberte zákazníka, který **přijal nejnovější zákaznickou smlouvu Microsoftu** .
+3. V části **Smlouva o zákaznících Microsoftu** vyberte zákazníka, který **přijal nejnovější zákaznickou smlouvu Microsoftu**.
 
 4. V části **Datum přijetí smlouvy** zadejte příslušné datum. Tuto hodnotu nelze nastavit na budoucí datum.
 
 5. Zadejte podrobnosti uživatele, který poskytl přijetí.
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="Informace o společnosti":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="Přidat datum přijetí":::
 
-   Ve výchozím nastavení se zobrazí informace o primárním uživateli kontaktu. Pokud to není správné, vyberte **aktualizovat** a zadejte **jméno,** **příjmení** , **e-mailovou adresu** a * *telefonní číslo* (nepovinné) osoby, která smlouvu přijala.
+   Ve výchozím nastavení se zobrazí informace o primárním uživateli kontaktu. Pokud to není správné, vyberte **aktualizovat** a zadejte **jméno,** **příjmení**, **e-mailovou adresu** a **telefonní číslo* (nepovinné) osoby, která smlouvu přijala.
 
 6. Kliknutím na tlačítko **Další** pokračujte podle zbývajících kroků a vytvořte tenanta zákazníka.
 
@@ -94,27 +91,27 @@ K tomu musíte být agentem správce nebo agentem pro prodej.
 
 1. Vyberte **zákazníci** a pak vyhledejte a vyberte zákazníka, kterého chcete zobrazit.
 
-2. Vyberte **informace o účtu** .
+2. Vyberte **informace o účtu**.
 
-3. V části **Zákaznická smlouva Microsoftu** vyberte **aktualizovat** .
+3. V části **Zákaznická smlouva Microsoftu** vyberte **aktualizovat**.
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="Informace o společnosti":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="Aktualizace":::
 
-4. Zadejte **jméno** , **příjmení** , **e-mailovou adresu** a **telefonní číslo** (nepovinné) uživatele, který smlouvu přijal.
+4. Zadejte **jméno**, **příjmení**, **e-mailovou adresu** a **telefonní číslo** (nepovinné) uživatele, který smlouvu přijal.
 
 5. V části **Datum přijetí smlouvy** zadejte příslušné datum. Tuto hodnotu nelze nastavit na budoucí datum.
 
-6. Vyberte **Uložit a pokračovat** .
+6. Vyberte **Uložit a pokračovat**.
 
 ## <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Potvrdit přijetí zákazníkovi při vytváření nové objednávky pro existujícího zákazníka
 
 Pokud se pokusíte vytvořit novou objednávku pro existujícího zákazníka, kterého jste ještě nepotvrzuji, zobrazí se výzva k dokončení potvrzení. K tomu použijte následující postup.
 
-1. Zadejte **jméno** , **příjmení** , **e-mailovou adresu** a **telefonní číslo** (nepovinné) uživatele, který smlouvu přijal.
+1. Zadejte **jméno**, **příjmení**, **e-mailovou adresu** a **telefonní číslo** (nepovinné) uživatele, který smlouvu přijal.
 
 2. V části **Datum přijetí smlouvy** zadejte příslušné datum. Tuto hodnotu nelze nastavit na budoucí datum.
 
-3. Vyberte **Uložit a pokračovat** .
+3. Vyberte **Uložit a pokračovat**.
 
 ## <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Načtení potvrzení přijetí zákazníkovi pro existujícího zákazníka
 
@@ -122,7 +119,7 @@ Potvrzení přijetí zákazníkovi můžete načíst pro existujícího zákazn�
 
 1. Vyberte **zákazníci** a pak vyhledejte a vyberte zákazníka, kterého chcete zobrazit.
 
-2. Vyberte **informace o účtu** .
+2. Vyberte **informace o účtu**.
 
 3. V části **Smlouva o zákaznících Microsoftu** se zobrazí informace o tom, jestli se pro tohoto zákazníka zadalo potvrzení.
 

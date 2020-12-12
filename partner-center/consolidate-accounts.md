@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92527111"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354521"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Konsolidace účtů společnosti při migraci z PMC do partnerského centra
 
@@ -62,3 +62,9 @@ V PMC bylo možné, že každé umístění má své vlastní kompetence, vlastn
 V partnerském centru se všechny účty umístění konsolidují do jednoho globálního účtu. To znamená, že se konsolidují i všechny nabídky, programy a kompetence pro uvedení na trh. Sady nástrojů pro další výhody (ABTKs) nebudou k dispozici. Můžete ale organizovat distribuci marketingových zdrojů, nabídek, programů a kompetencí podle požadavků vaší společnosti. Při konsolidaci je k dispozici rozšíření. Toto rozšíření umožňuje vaší společnosti využívat marketingové prostředky, nabídky a programy, které se v PMC používají po dobu dalších let.
 
 Pokud potřebujete další informace o rozdílech mezi PMC a Partnerským centrem, přečtěte si téma [Přesun z PMC do partnerského centra](guide-to-migration.md).
+
+## <a name="next-steps"></a>Další kroky
+
+- [Správa účtu v Partnerském centru](partner-center-account-setup.md)
+
+- [Správa umístění](manage-locations.md)

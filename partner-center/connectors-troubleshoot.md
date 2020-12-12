@@ -8,18 +8,17 @@ description: Přečtěte si odpovědi na běžné dotazy týkající se použív
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92527682"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354538"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Řešení potíží s konektory pro souběžné vyprodejní reference
 
 **Platí pro:**
 
-- Partnerské centrum
 - Dynamics 365 CRM
 - Salesforce CRM
 
@@ -80,7 +79,7 @@ Postupujte podle tohoto kroku pro řešení potíží:
 
 3. Co byste měli dělat, když při aktivaci partnerského centra do služby CRM na platformě Power Automate dojde k následující chybě?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Chybová zpráva vyžadující přihlášení":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Chybová zpráva vyžadující aktualizace":::
 
 Postupujte podle těchto kroků pro řešení potíží:
 
@@ -95,11 +94,11 @@ Do toku přidáte připojení, zatímco tok běží a přidáte do každého tok
 - Vyberte jednotlivé toky a upravte je jednotlivě.
 - Rozbalení všech kroků v toku 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Chybová zpráva vyžadující přihlášení":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Postup, který vyžaduje připojení":::
 
 - Vyberte postup, ve kterém se zobrazí výstražná ikona s výzvou k přidružení připojení a přidání připojení. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Chybová zpráva vyžadující přihlášení":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Upravit tok krok za krokem":::
 
 
 5. Co byste měli dělat v případě, že se nezapne toky řešení konektorů pro spoluprodejní odkazy?
@@ -114,9 +113,9 @@ A. V Power automatu budete muset toky upravit v následujícím pořadí a aktua
 - Možnost Salesforce v partnerském centru (Insider Preview)
 - Řešení Salesforce Microsoftu do partnerského centra (Insider Preview)
 
- B. U každého toku vyberte možnost **Spustit pouze uživatele** . Vyberte **použít připojení** místo **přidaných uživatelem pouze pro spuštění** .  
+ B. U každého toku vyberte možnost **Spustit pouze uživatele** . Vyberte **použít připojení** místo **přidaných uživatelem pouze pro spuštění**.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Chybová zpráva vyžadující přihlášení":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Postup aktivace toku":::
 
 
 C. Níže uvedené toky aktivujte:
@@ -128,7 +127,7 @@ C. Níže uvedené toky aktivujte:
     
 D. Aktivujte všechny zbývající toky.
 
-E. V registraci Webhooku partnerského centra toku vyberte **Spustit** . Zadejte **adresu URL protokolu HTTP** z první akce v **partnerském centru do služby Salesforce** Flow. Vyberte všechny čtyři možnosti v části **události k registraci** a pro přepsání vyberte **Ano** .
+E. V registraci Webhooku partnerského centra toku vyberte **Spustit**. Zadejte **adresu URL protokolu HTTP** z první akce v **partnerském centru do služby Salesforce** Flow. Vyberte všechny čtyři možnosti v části **události k registraci** a pro přepsání vyberte **Ano** .
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Otázky a odpovědi týkající se spuštění/údržby
 
@@ -138,9 +137,9 @@ Chcete-li zajistit, aby toky automatizovaného automatizace běžely, jak oček�
 
 2. Co byste měli dělat, když vidíte odkazy, které nejsou synchronizované správně v partnerském centru nebo prostředí CRM?
  
-Pokud chcete zjistit stav synchronizace referenčních odkazů, vyberte **audit** . 
+Pokud chcete zjistit stav synchronizace referenčních odkazů, vyberte **audit**. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Chybová zpráva vyžadující přihlášení":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Postup synchronizace odkazů":::
 
 Ujistěte se, že jsou splněné následující podmínky:
 
@@ -156,7 +155,53 @@ Proveďte následující kroky:
 
 - Prodejci partnerů musí zajistit, aby v části CRM povolili možnost **synchronizovat s partnerským centrem** .
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Chybová zpráva vyžadující přihlášení" v partnerském centru.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Ujistěte se, že jste povolili synchronizaci.":::
+
+- Prodejci musí zadat datum a čas uzavření při kvalifikaci potenciálního zákazníka.
+
+- Pokud je ID CRM k dispozici v fázi **Vytvoření** nebo **aktualizace** v rámci společného prodeje, ale v CRM se nenalezne příležitost s tímto ID, aktualizace nebo vytvoření se budou ignorovat.
+
+- Ujistěte se, že je v prostředí Salesforce nakonfigurované pole Měna reference. 
+
+4. Co byste měli dělat v případě, že se konektor odpojí a Vy jste nedostali synchronizaci referenčních informací. 
+
+Níže jsou uvedené některé z možností, které můžete vyzkoušet:
+
+- Ověřte, jestli vypršela platnost uživatelského jména nebo hesla pro uživatele partnerského centra s rolemi Správce odkazů.
+
+- Můžete přejít na nesynchronizovanou příležitost, udělat dílčí aktualizaci a sledovat, zda se odkaz synchronizoval.
+
+- Pokud jsou toky spuštěné a selhaly, vyberte tok a znovu odešlete spuštění, které selhalo.
+
+5. Co byste měli dělat, když získáte chyby při odepření přístupu?
+
+Ujistěte se, že existují vhodné role.
+
+- Role Správce odkazů pro prodejce partnerského centra 
+ 
+- Role správce systému nebo úpravce systému v instanci CRM
+
+- Zajistěte, aby se uživatel účtu toku Power Automate přihlásil https://flow.microsoft.com alespoň jednou předem.
+
+6. Pokud zjistíte, že při vytváření příležitosti společného prodeje chybí **kód země zákaznického účtu** , co byste měli dělat?
+
+Do účtu zákazníka v aplikaci CRM budete muset přidat kód země o dvou písmenech.
+
+7. Co byste měli dělat v případě, že se při vytváření příležitosti společného prodeje zobrazí chyba, že **se ID řešení vyžaduje** ?
+
+Aby bylo možné vytvořit odkaz pro spoluprodej, potřebujete řešení připravené pro spoluprodejní účely Microsoftu. 
+
+8. Co byste měli dělat v případě, že se zobrazí příležitosti pro spoluprodejy vytvořené v partnerském centru, které nejsou synchronizované s CRM, i když nedochází k chybám toků:
+
+Postupujte následovně:
+
+- Po vytvoření nového společného prodeje v partnerském centru ověřte, jestli se má vyvolávat tok partnerského centra na Dynamics 365 (může se vyvolávat víckrát).
+
+- Pokud se tok vyvolá, zaregistrujte všechny vyvolané toky a Identifikujte běh toku, který by aktualizoval CRM. Můžete postupovat podle těchto akcí a ověřit, jestli aktualizace CRM aktualizovala nebo nastala nějaký problém.
+
+- Zkontrolujte *novou rozdat** v partnerském centru, abyste viděli, jestli se naplní pomocí ID CRM.
+
+- Ujistěte se, že se nechtěně neuzavřelo jako "výhra" nebo "ztraceno" v partnerském centru.
 
 ## <a name="next-steps"></a>Další kroky
 

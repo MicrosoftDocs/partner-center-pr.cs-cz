@@ -1,5 +1,5 @@
 ---
-title: Způsobilost pro posouzení řešení
+title: Způsobilost pro Solution Assessment
 ms.topic: how-to
 ms.date: 11/09/2020
 description: Přečtěte si, jak ověřit požadavky na způsobilost pro účast do programu hodnocení řešení pobídek.
@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447278"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354469"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Požadavky na způsobilost pro program hodnocení řešení pobídek
+
+**Příslušné role**
+
+- Primární kontakt nebo správce programu
 
 Partneři s aktivním a registrovaným stavem v rámci programu pro posouzení řešení v FY20 budou mít nárok na pobídky v FY21, pokud mají aktivní členství v programu MPN a aktivnímu programu MPN nebo zlatému programu MPN. Kvalifikace partnerů se každoročně přezkoumávají na způsobilost. Pokud zavedení partneři neplní požadavky na způsobilost a účast v aktuálním roce, budou v další roční kontrole odebrána. Všichni noví partneři se připojili prostřednictvím místního řešení pro posouzení místních řešení (SAS) v oblasti. SAS identifikuje partnery, kteří se mají připojit, na základě zkušeností dovedností a odborných znalostí v partnerské firmě a obchodních potřeb místních poboček podporovaných SAS.
 
