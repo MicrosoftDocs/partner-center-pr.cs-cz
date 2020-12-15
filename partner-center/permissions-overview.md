@@ -8,13 +8,13 @@ description: Seznamte se s rolemi, které jsou nejvhodnější pro uživatele va
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
-ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
+ms.custom: SEOMAY.20, contperf-fy21q1
+ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94670146"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492700"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Přiřazení rolí uživatelů a oprávnění pro uživatele společnosti, kteří potřebují pracovat v partnerském centru
 
@@ -149,7 +149,7 @@ Tyto role nejsou Azure Active Directory rolí. Tyto role spravují firmu společ
 
 Společně s novou referenční rolí uživatele zavádíme také rozsah umístění pro obchody. V tabulce níže najdete informace o přístupu na základě umístění.
 
-|**Scope** | **Co můžete dělat** |
+|**Rozsah** | **Co můžete dělat** |
 |------------------------------|:-------------------------|
 |Celá společnost | Správci i uživatelé mají přístup k vytváření obchodů pro libovolné umístění ve své společnosti.|
 || Správce odkazů má přístup k zobrazení a úpravám všech obchodů. |

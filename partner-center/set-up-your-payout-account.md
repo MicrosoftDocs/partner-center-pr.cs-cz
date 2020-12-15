@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514754"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492683"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Nastavení platebního účtu a daňových formulářů
+
+**Příslušné role:**
+
+- Správce účtu
+- Globální správce
 
 Aby bylo možné získat peníze z nabídky prodejů na komerčním webu Marketplace, musíte nastavit svůj účet pro výběr a vyplnit nezbytné daňové formuláře v [partnerském centru](https://partner.microsoft.com/dashboard).
 
@@ -32,19 +37,16 @@ Po nastavení účtu je třeba provést dvě věci, abyste mohli prodávat nabí
 
 ## <a name="tax-forms"></a>Daňové formuláře
 
-### <a name="fill-out-your-tax-forms"></a>Vyplňte svoje daňové formuláře.
+Svůj daňový profil a daňové formuláře můžete spravovat na stránce **Výběr a daň** v partnerském centru. Oprávnění vaší organizace určí profily a informace, které se zobrazí.
 
-Nejdřív budete muset vytvořit daňový profil a přiřadit ho k programům, které se účastníte. Pro komerční tržiště můžete vytvořit svůj *daňový profil* , a to provedením následujících kroků:
+### <a name="create-or-update-your-tax-profile"></a>Vytvořte nebo aktualizujte svůj daňový profil.
 
-- Zadejte zemi nebo oblast pobytu a občanství.
-- Vyplňte příslušné daňové formuláře.
-
-Daňové formuláře můžete v partnerském centru doplňovat a odesílat elektronicky. ve většině případů nemusíte tisknout ani tisknout žádné formuláře.
+Nejdřív budete muset vytvořit daňový profil a přiřadit ho k programům, které se účastníte. Pomocí následujících kroků můžete vytvořit nebo aktualizovat svůj *daňový profil* v partnerském centru. Daňové formuláře můžete na řídicím panelu partnerského centra doplňovat a odesílat elektronickým způsobem. ve většině případů nemusíte tisknout ani tisknout žádné formuláře.
 
 > [!IMPORTANT]
 > Různé země a oblasti mají různé daňové požadavky. Přesná částka, kterou musíte zaplatit za daně, závisí na zemích a oblastech, kde prodáváte nabídku. Informace o tom, které země nebo oblasti společnost Microsoft zavazuje k prodeji a používání daní vaším jménem, najdete v článku o [smlouvě Microsoft Azure Marketplace Publisher](https://go.microsoft.com/fwlink/p/?LinkID=699560) . V jiných zemích nebo oblastech, v závislosti na tom, kde jste registrováni, může být nutné uhradit prodej a daň z prodeje za vaše nabídky přímo do místní autority zdanění. Kromě toho prodejní příjem aplikace může být zdanitelný jako příjem. Důrazně doporučujeme, abyste se obrátili na příslušné oprávnění pro vaši zemi nebo oblast, která vám nejlépe pomůže určit správné daňové informace pro vaše komerční aktivity na webu Marketplace.
 
-1. V [partnerském centru](https://partner.microsoft.com/dashboard)vyberte v pravém horním rohu ikonu ozubeného kolečka **Nastavení** a pak **Nastavení účtu**.
+1. Na [řídicím panelu partnerského centra](https://partner.microsoft.com/dashboard)vyberte ikonu ozubeného kolečka **Nastavení** v pravém horním rohu a pak klikněte na **Nastavení účtu**.
 
 2. V navigační nabídce vlevo vyberte výběr **a daň** a pak vyberte **Výběr a daňová přiřazení**.
 
@@ -146,9 +148,9 @@ Běžné dotazy týkající se používání služby PayPal jako způsobu platby
 
 - **Je moje země/oblast podporovaná?** V tématu [prahové hodnoty plateb, metody a časové rámce](payment-thresholds-methods-timeframes.md) zjistíte, kde je PayPal podporovaným způsobem platby.
 
-- **Musí se můj účet PayPal zaregistrovat ve stejné zemi nebo oblasti jako účet partnerského centra?** Ne. Při nastavování účtu PayPal můžete přijmout výchozí konfiguraci. Pokud jste v některých měnách neblokovali platbu, neměli byste mít žádné problémy s jinými zeměmi nebo oblastmi a měnami. Toto nastavení se spravuje na stránce předvolby pro příjem plateb v PayPal.
+- **Musí se můj účet PayPal zaregistrovat ve stejné zemi nebo oblasti jako účet partnerského centra?** No. Při nastavování účtu PayPal můžete přijmout výchozí konfiguraci. Pokud jste v některých měnách neblokovali platbu, neměli byste mít žádné problémy s jinými zeměmi nebo oblastmi a měnami. Toto nastavení se spravuje na stránce předvolby pro příjem plateb v PayPal.
 
-- **Musím platby přes PayPal akceptovat ručně?** Ne. Účty PayPal se ve výchozím nastavení nastavují tak, aby uživatelé mohli platby přijmout ručně. to znamená, že platbu nepřijmete do 30 dnů, která se vrátí. Toto nastavení můžete změnit vypnutím možnosti zeptat se na stránce další nastavení PayPal.
+- **Musím platby přes PayPal akceptovat ručně?** No. Účty PayPal se ve výchozím nastavení nastavují tak, aby uživatelé mohli platby přijmout ručně. to znamená, že platbu nepřijmete do 30 dnů, která se vrátí. Toto nastavení můžete změnit vypnutím možnosti zeptat se na stránce další nastavení PayPal.
 
 - **Jaké měny podporuje PayPal?** Aktuální seznam najdete na [stránce podpory pro PayPal](https://developer.paypal.com/docs/classic/api/currency-codes/#paypal) .
 

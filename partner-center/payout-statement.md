@@ -1,22 +1,30 @@
 ---
-title: Příkaz výběr pro komerční tržiště v partnerském centru
-description: Přečtěte si o příkazech výběr a souhrnech a o tom, jak zobrazit a exportovat vaše platební údaje pro komerční tržiště.
+title: Výpisy plateb
+description: Další informace o příkazech výběr a souhrnech a o tom, jak zobrazit a exportovat platební data z partnerského centra Microsoftu
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/23/2020
-ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 10/29/2020
+ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532051"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492632"
 ---
 # <a name="payout-statements"></a>Výpisy plateb
 
+**Příslušné role:**
+
+- Správce účtu
+- Globální správce
+
 **Příkaz Výběr** nabízí přehled o vašich výběrech z nabídek prodávaných prostřednictvím komerčního tržiště. Zobrazuje transakční historii příjmů, odhaduje vaši další platbu a znázorňuje trendy plateb. Můžete si také stáhnout historii transakcí a výpisy plateb. V tomto článku se dozvíte, jak získat přístup k příkazu pro výběr, a k různým stránkám výběr a ke stažení dostupným v partnerském centru.
+
+>[!NOTE]
+>Zobrazí se pouze data pro MPN ID a programy, ke kterým jste přidruženi. Pokud chcete zobrazit další data, spolupracujte se správcem účtu s oprávněním. 
 
 ## <a name="roles-and-permissions"></a>Role a oprávnění
 
@@ -50,6 +58,7 @@ Přihlaste se k [partnerskému centru](https://partner.microsoft.com/dashboard/h
 
 Na stránce **historie transakcí** se zobrazuje souhrn příjmů, odhad další platby a trend a podíl plateb za posledních 36 měsíců. Z této části si také můžete stáhnout podrobnosti transakcí.
 
+
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Přehled transakcí":::
 
 - **Příjmy zaslaly tento rok** – celkové tržby a rozpis výdělků, které byly placené a budou vypláceny v nadcházejícím měsíci.
@@ -57,9 +66,11 @@ Na stránce **historie transakcí** se zobrazuje souhrn příjmů, odhad další
 - **Trend a trend plateb** – měsíční výnosy a částky plateb za posledních 36 měsíců.
 - **Stáhnout** – podrobnosti o transakci si stáhněte ve formátu. csv nebo. TSV.
 
-Pomocí výběru rozsahu kalendářních dat v pravém horním rohu stránky můžete vyfiltrovat výstup stránky, aby se zobrazily poslední 3, 6, 12 nebo 36 měsíců. Případně vyberte vlastní rozsah kalendářních dat až do 36 měsíců. Výchozí rozsah kalendářních dat je 12 měsíců.
+Pomocí výběru rozsahu kalendářních dat v pravém horním rohu stránky můžete vyfiltrovat výstup stránky, aby se zobrazily poslední 3, 6, 12 nebo 36 měsíců. Případně vyberte vlastní rozsah kalendářních dat až do 36 měsíců. Výchozí rozsah kalendářních dat je 12 měsíců. Můžete také filtrovat podle ID registrace, programu, ID platby, typu odblokování, páky a stavu. Data jsou k dispozici pro aktuální fiskální rok (1. června 30) a předchozí dva fiskální roky.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Vyhledávací filtr v pravém horním rohu stránky.":::
+
+Chcete-li zobrazit další podrobnosti o objektu k dispozici, vyberte šipku dolů na pravé straně stránky. Tím se zobrazí páčka, objem výnosů, produkt a zákazník. Pokud z nějakého důvodu není k dispozici některá z těchto dat, ale potřebujete k ní přístup, obraťte se na podporu. Pokud je výsledkem vyrovnání výsledek úpravy, a ne transakce, pole produkt a zákazník se nezobrazí.
 
 ### <a name="transaction-history-summary"></a>Souhrn historie transakcí
 
@@ -74,13 +85,49 @@ Tím se zobrazí informace o převádění, včetně původu z produktů, které
     - **Nadcházející** – příjmy jsou v nevyřízeném období chlazení.
     - **Zpracované** – příjmy se připravují na další platbu.
     - **Odeslané** – příjmy byly placené.
-- **Odhadovaný měsíční měsíc** – měsíc, ve kterém se mají platby zaplatit.
+- **Odhadovaný měsíční měsíc** – měsíc, ve kterém se mají platby zaplatit. Další informace najdete v [Další části](#estimated-payment-month) .
 
 Transakce se zobrazí, jakmile transakce splňuje podmínky pro výběr. Informace o tom, proč možná nemáte nějaké nebo neočekávané tržby, najdete v tématu [běžné otázky o výběrech na komerčním webu Marketplace](payout-faq.md#why-are-my-earnings-missing).
+
+#### <a name="estimated-payment-month"></a>Odhadovaný měsíc platby
+
+Stránka historie transakcí nyní obsahuje tabulku zobrazující odhadované částky plateb za několik následujících měsíců. Tyto informace můžete také zobrazit a stáhnout v části Historie transakcí a export sestavy souhrnu. Tyto informace usnadňují sladění a platební projekce.
+
+Odhadovaný měsíc platby se vypočítá na základě pravidel konfigurace programu a časových os a zpracovává se v nejbližším nebo nadcházejícím platebním cyklu.
+
+Odhadovaný platební měsíc je aktuálně k dispozici pro všechny typy vyloučení s výjimkou souběžného op, který se zobrazí jako **nepoužitelné**. V případě zisků do 1. července 2020 se odhadované platební měsíc zobrazí jako **nedostupné**.
+
+Příklad očekávaného měsíčního měsíce je uveden v následující tabulce.
+
+| Month (Měsíc) | Částka |
+| ------ | :-----------: |
+|  SEP-2020 |  $7 273,99   |
+|  Říjen – 2020 | $8 692,30  |
+|  Listopadu – 2020 | $107,89  |
+
+Odhadovaná částka se může lišit od skutečné částky z nejrůznějších důvodů:
+
+- Přepočítání stavu: Pokud se přepočítá zisky, skutečná částka bude odlišná.
+- Úpravy: skutečná hodnota se liší v závislosti na úpravách, které nastaly nebo byly odeslány.
+- Změna pravidel: Změna pravidel může odrážet přepočítání v rámci skutečné placené částky
+- Splatné: Pokud dojde k selhání platby, skutečná částka se může lišit.
+
+Všimněte si, že vaše platba se vydává v předpokládaném měsíci, pokud jsou splněné prahové hodnoty a podmínky pro nárok na platbu v programu. Tato pravidla zahrnují, ale nejsou omezená na následující seznam:
+
+- Váš daňový profil musí být aktuální.
+- Vaše tržby musí splňovat nebo překročit prahovou hodnotu minimálního příjmu definovanou v Průvodci programem.
+- Výběr je zablokovaný: Pokud na stránce přiřazení profilů vyberete možnost podržet moji platbu.
+- Není k dispozici nástroj pro výběr: platba nebo daňový profil není dokončen.
 
 ### <a name="transaction-history-download"></a>Stažení Historie transakcí
 
 Pokud se chcete podívat na další podrobnosti o objektu, vyberte **Stáhnout** v horní části stránky. Následující tabulka vysvětluje jednotlivé sloupce v sestavě.
+
+>[!NOTE]
+>Export historie transakcí má dvě nová pole, která jsou od srpna 2020:
+>
+>- **lastPaymentCurrency**  Měna, ve které byla přijata poslední platba, ve všech MPNs, ke kterým má partner aktuálně přihlášený přístup. Pokud se nepřijme žádná platba, poslední platební měna bude US dolarů.
+>- **earningAmountInLastPaymentCurrency**  Částka využitá v poslední platební měně
 
 | Název sloupce | Popis | Použitelnost pro pobídkové programy/tržiště |
 | --- | --- | --- |
@@ -164,6 +211,21 @@ Pokud se chcete podívat na další podrobnosti o objektu, vyberte **Stáhnout**
 | workload | Úloha | Motivace – jenom některé programy |
 |
 
+### <a name="transaction-adjustment-codes"></a>Kódy úprav transakcí
+
+V následující tabulce jsou uvedeny kódy důvodů pro úpravy a jejich popisy.
+
+|**Kód důvodu**   |**Popis**   |
+|------------------|:-------------------------------------|
+| Dodržování předpisů AR | Úprava, která snižuje tržby, když partner nehradí faktury společnosti Microsoft na čase. |
+| Výměna souběžných op | Úprava, která přenáší zisky souběžnosti do jiné doby nebo převede zisky v rámci OP na rabat. |
+| Úprava OPS | Úprava, která opravuje chyby výpočtů systému Microsoft. |
+| Úprava OPS – nesprávný výpočet společnosti Microsoft | Úprava, která opravuje nepravdivé výpočty. |
+| Úprava OPS – Microsoft nesprávný zápis | Úprava pro neodpovídající výpočty související se zápisem. |
+| Mapování partnerů (předplatné) MCI/CSP | Úprava, která opravuje chybné zarovnání předplatného. |
+| Výjimka zásad | Úprava, která přepíše pravidlo programu.  |
+| Tržby za předchozí období | Úprava příjmů mimo aktuální období zisků. |
+
 ## <a name="payments"></a>Platby
 
 Stránka s **platbami** detailně popisuje peníze, které jste získali od Microsoftu. Zobrazuje také, kdy a kolik vám bude placeno.
@@ -214,7 +276,7 @@ Následující tabulka popisuje různé stavy vystavení.
 
 ### <a name="payments-download"></a>Stažení plateb
 
-Pokud chcete zobrazit další podrobnosti o platbách, vyberte **Stáhnout** v horní části stránky. Následující tabulka vysvětluje jednotlivé sloupce v sestavě.
+ Následující tabulka vysvětluje jednotlivé sloupce v sestavě. Pokud chcete zobrazit další podrobnosti o platbách, vyberte **Stáhnout** v horní části stránky s platbami.
 
 | Název sloupce | Popis |
 | --- | --- |
@@ -238,7 +300,7 @@ Pokud chcete zobrazit další podrobnosti o platbách, vyberte **Stáhnout** v h
 
 ## <a name="export-data"></a>Exportovat data
 
-Stránka **exportovat data** se neaktualizuje sama na sebe. Je možné, že budete muset stránku aktualizovat ručně, aby se zobrazila nejnovější data. Výběrem ze tří karet můžete exportovat **historii transakcí** , **platby** , **souhrn transakcí** nebo **historické příkazy**.
+Stránka **exportovat data** se neaktualizuje sama na sebe. Je možné, že budete muset stránku aktualizovat ručně, aby se zobrazila nejnovější data. Výběrem ze tří karet můžete exportovat **historii transakcí**, **platby**, **souhrn transakcí** nebo **historické příkazy**.
 
 Váš filtr může mít za následek **nedostupnou chybu dat** . K tomu může dojít, pokud jste opustili výchozí časové období, které jste vybrali po dobu tří měsíců, a pak jste si vybrali ID platby z vybírání, které je mimo tuto dobu. Pokud k tomu dojde, rozbalte své časové období a zkuste to znovu.
 

@@ -1,23 +1,28 @@
 ---
-title: Vyplácení na komerčním marketplace
-description: Přečtěte si o přijímání plateb za tržby na komerčním webu Marketplace – Azure Marketplace. Zahrnuje zásadu výběr, stav blokování a příkazy pro výběr.
+title: Získání placeného centra partnera
+description: Přečtěte si, jak přijímat platby za tržby jako partnera Microsoftu, jako je například prostřednictvím komerčních nabídek Marketplace, motivačních programů a programu Cloud Solution Provider. Zahrnuje zásadu výběr, stav blokování a příkazy pro výběr.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514720"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492445"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>Vyplácení na komerčním marketplace
+# <a name="getting-paid-in-partner-center"></a>Získání placeného centra partnera
+
+**Příslušné role:**
+
+- Správce účtu
+- Globální správce
 
 Tento článek obsahuje důležité informace o tom, jak přijímat platby za vaše nabídky, doplňky a příjmy z reklamy. Shrnuje seznam vypsaných zásad, kroky požadované před zaplacením a výpisem příkazu výběr.
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Zásady a smlouvy pro výběr komerčního tržiště
+## <a name="payout-policies-and-agreements"></a>Výběr zásad a smluv
 
 Při získání placeného vyžadování musíte dodržovat zásady smluv a výběr.
 
@@ -49,4 +54,4 @@ V příkazu výběr se zobrazí tržby z prodeje z nabídek a doplňků v histor
 ## <a name="next-steps"></a>Další kroky
 
 - [Rozhraní API pro výběry partnerů](https://apidocs.microsoft.com/services/partnerpayouts)
-- [Nejčastější dotazy k výběrům Marketplace](payout-faq.md)
+- [Nejčastější dotazy k platbám](payout-faq.md)

@@ -1,22 +1,27 @@
 ---
-title: Podrobnosti o plánech a zásadách pro výběr – Azure Marketplace
-description: Přečtěte si o podrobnostech týkajících se obchodních zásad na webu Marketplace, včetně plánů a recoupment.
+title: Plány a procesy výběrů
+description: Seznamte se s výběry a transakcemi, jako jsou platební plány a recoupment procesy pro komerční tržiště a další transakce.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513281"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492666"
 ---
-# <a name="payout-schedules-and-policy-details"></a>Podrobnosti o plánech a zásadách pro výběr
+# <a name="payout-schedules-and-processes"></a>Plány a procesy výběrů
 
-Tento článek popisuje proces výběrového plánu od společnosti Microsoft, plán výběrů, kde najít stav druhu a postup pro zákazníka, který není vyplácen.
+**Příslušné role:**
+
+- Správce účtu
+- Globální správce
+
+Tento článek popisuje platební plán společnosti Microsoft, kde zjistíte stav druhu a postup pro zákazníka, který není vyplácen.
 
 ## <a name="payment-schedules"></a>Platební plány
 
@@ -90,7 +95,7 @@ Následuje příklad plánu:
 Na 15. den tohoto měsíce obvykle posíláme jakékoli platby splatné v daném měsíci, ale čas potřebný k tomu, aby platba dosáhla svého účtu, trvá ještě déle. Počet dní závisí na způsobu platby, který používáme pro váš účet, jak je popsáno níže.
 
 > [!NOTE]
-> Níže uvedené dny jsou přibližné. jakákoli platba může trvat déle nebo kratší dobu, než se dostanou k vašemu účtu.
+> Níže uvedené dny jsou přibližné. Vaše platba může trvat déle nebo méně času, než se dostanou k vašemu účtu.
 
 | Způsob platby     | Počet dní, po které se má přejít k účtu typu výběr     |
 |--------------------|--------------------------------------------|

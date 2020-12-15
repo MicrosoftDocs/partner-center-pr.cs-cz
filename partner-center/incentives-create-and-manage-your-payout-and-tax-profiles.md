@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626027"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492462"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Vytváření a Správa pobídek pro výběr a daňové profily v partnerském centru
 
@@ -62,7 +62,7 @@ V následujících částech se dozvíte, jak vytvořit a spravovat platební a 
 
    - V jednom účtu Azure AD se dá zaregistrovat víc domén. Chcete-li zjistit, které domény jsou přidruženy, obraťte se na svého globálního správce.
    - Pokud se přihlašujete jenom k @onmicrosoft.com doméně, obraťte se na správce účtu a přidejte další domény k účtu Azure AD.
-   - Pokud budete vyzváni k výběru **pracovního nebo školního** účtu nebo **osobního účtu** , vyberte **pracovní nebo školní účet**.
+   - Pokud budete vyzváni k výběru **pracovního nebo školního** účtu nebo **osobního účtu**, vyberte **pracovní nebo školní účet**.
 
 2. Výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** a pak vyberte **nastavení partnera**.
 
@@ -72,7 +72,7 @@ V následujících částech se dozvíte, jak vytvořit a spravovat platební a 
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/)a výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** . 
 
-2. Vyberte **Nastavení partnerského serveru** , rozbalte **část výběr a daň** a pak vyberte **Výběr a přiřazení finančního profilu**. 
+2. Vyberte **Nastavení partnerského serveru**, rozbalte **část výběr a daň** a pak vyberte **Výběr a přiřazení finančního profilu**. 
    
    Zobrazí se seznam vašich programů. Výběrem šipky vedle programu zobrazíte podrobnosti o profilu. 
 
@@ -115,7 +115,7 @@ Profily banky se vytvářejí na úrovni organizace. Tím umožníte, aby jeden 
 
 6. Až budou pole Dokončená, vyberte **Dokončit** a pak kliknutím na **Potvrdit** vytvořte svůj bankovní profil.
 
-Budete přesměrováni na stránku **Výběr a daňové profily** . Stav nového profilu bude odpovídat **vyřízenému ověření společnosti Microsoft** až do dokončení ověření. Tento proces může trvat až 48 hodin. Po dokončení ověření bude stav vašeho profilu odpovídat buď **schválenému** , nebo **požadované akce**. Pokud je **vyžadována akce** , opakujte výše uvedené kroky, které poskytují nezbytné informace. 
+Budete přesměrováni na stránku **Výběr a daňové profily** . Stav nového profilu bude odpovídat **vyřízenému ověření společnosti Microsoft** až do dokončení ověření. Tento proces může trvat až 48 hodin. Po dokončení ověření bude stav vašeho profilu odpovídat buď **schválenému** , nebo **požadované akce**. Pokud je **vyžadována akce**, opakujte výše uvedené kroky, které poskytují nezbytné informace. 
 
 ## <a name="create-your-tax-profile"></a>Vytvořte si daňový profil
 
@@ -152,4 +152,4 @@ Pokud pro partnerské společnosti v Severní Americe potřebujete informace o d
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Pobídek – Nejčastější dotazy k vydaným a daňovému profilu](incentives-payout-tax-profile-faqs.md)
+- [Běžné otázky k vydaným výběrům a daním](payout-faq.md)

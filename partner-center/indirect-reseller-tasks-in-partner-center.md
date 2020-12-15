@@ -6,22 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si, jak můžou nepřímý prodejci spolupracovat s nepřímými poskytovateli Microsoftu (nebo distributory) a získat pomoc s zákaznickou podporou a fakturací.
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 082574f381186731cee023cfcdfa04b46d0ba1c5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795844"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492394"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Naučte se, jak v programu Cloud Solution Provider spolupracuje s nepřímými poskytovateli.
 
-**Platí pro**
 
-- Partnerské centrum
 
 **Příslušné role**
 
@@ -70,7 +68,7 @@ Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskyt
 
 1. Pokud chcete zahájit proces registrace, klikněte na [**uvítací stránku**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) , která se zaregistruje.
 
-2. Zkontrolujte **úvodní stránku** a ujistěte se, že máte informace, které potřebujete k registraci, a pak vyberte **Další** .
+2. Zkontrolujte **úvodní stránku** a ujistěte se, že máte informace, které potřebujete k registraci, a pak vyberte **Další**.
 
 3. Přihlaste se pomocí svého pracovního účtu. Vyberte **Přihlásit** se a potom zadejte uživatelské jméno a heslo, které používáte k přihlášení jako globální správce pro Office 365, Microsoft Azure nebo Microsoft Dynamics CRM.
 
@@ -78,18 +76,18 @@ Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskyt
 
 4. Přečtěte si informace o tom, jak přidružit ID Microsoft Partner Network (MPN ID) k novému účtu partnerského centra. Abychom mohli spravovat výhody a pobídky svého členství v partnerském centru, musíme vám propojit ID MPN vaší společnosti s vaším novým účtem partnera. Vyberte **Sign in** (Přihlásit se).
 
-5. Zadejte uživatelské jméno, které používáte pro přihlášení k webu PMC (partner Membership Center). Lokalita partnerského centra členství je tam, kde teď spravujete svůj účet Microsoft Partner. Přihlášení k centru členství v partnerovi umožňuje načíst ID MPN a přidružit ho k novému účtu partnerského centra. Vyberte **Další** .
+5. Zadejte uživatelské jméno, které používáte pro přihlášení k webu PMC (partner Membership Center). Lokalita partnerského centra členství je tam, kde teď spravujete svůj účet Microsoft Partner. Přihlášení k centru členství v partnerovi umožňuje načíst ID MPN a přidružit ho k novému účtu partnerského centra. Vyberte **Další**.
 
 6. Zadejte heslo pro účet partnera pro členství v partnerském centru a pak vyberte **Přihlásit** se.
 
-7. Vyberte profil společnosti s ID MPN připojeným k vašim podnětům, výhodám členství a kompetencím. Tyto informace můžeme následně přesunout na váš účet partnerského centra. Vyberte **Pokračovat** .
+7. Vyberte profil společnosti s ID MPN připojeným k vašim podnětům, výhodám členství a kompetencím. Tyto informace můžeme následně přesunout na váš účet partnerského centra. Vyberte **Pokračovat**.
 
    Pokud ID MPN, které chcete použít, není na této stránce uvedeno, vyberte **Zrušit** a znovu se přihlaste pomocí uživatelského jména a hesla pro profil společnosti, který chcete použít.
 
    > [!IMPORTANT]  
    > Vyberte ID MPN přidružené k aktivnímu profilu společnosti, který je umístěný ve stejné zemi nebo oblasti jako váš tenant Azure AD.
 
-8. Poskytněte nebo aktualizujte oficiální obchodní profil vaší společnosti, informace o primárních kontaktech a zákaznickou podporu. Vyberte možnost **zaregistrovat nyní** .
+8. Poskytněte nebo aktualizujte oficiální obchodní profil vaší společnosti, informace o primárních kontaktech a zákaznickou podporu. Vyberte možnost **zaregistrovat nyní**.
 
    Primární kontakt by měl být osoba ve vaší společnosti, kterou můžeme kontaktovat o vaší aplikaci. Primárním kontaktem může být vy nebo jiný uživatel ve vaší společnosti. Poznámka: nepřijímáme e-mailové adresy z webových e-mailových služeb, jako je Gmail, Yahoo! Pošta, iCloud pošta, AOL mail nebo Outlook Mail.
 
@@ -98,9 +96,9 @@ Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskyt
 
 9. Až bude váš účet partnerského centra připravený k použití, ověřte, že jste byli přidáni do skupiny agentů pro správu. Abyste mohli dokončit nastavování vašeho účtu, včetně přidávání dalších uživatelů, musíte mít oprávnění agenta správce. Pomocí těchto kroků můžete zobrazit nebo aktualizovat vaše oprávnění:
 
-   1. V **partnerském centru** vyberte ikonu **Nastavení** a potom vyberte **Správa uživatelů** .
+   1. V **partnerském centru** vyberte ikonu **Nastavení** a potom vyberte **Správa uživatelů**.
 
-   2. Ze seznamu uživatelů vyberte své jméno. Vyberte možnost **Agent správce** , pokud ještě není vybraný. Vyberte **Aktualizovat** .
+   2. Ze seznamu uživatelů vyberte své jméno. Vyberte možnost **Agent správce** , pokud ještě není vybraný. Vyberte **Aktualizovat**.
 
 ## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Všichni nepřímý prodejci musí podepsat smlouvu o partnerovi Microsoftu.
 
@@ -125,7 +123,7 @@ Pokud se chce nepřímý poskytovatel spojit s vámi v partnerském centru, zah�
 
 2. Pokud chcete pozvánku přijmout, použijte odkaz v e-mailu poskytovatele. Možná se budete muset znovu přihlásit k partnerskému centru.
 
-3. Pokud chcete potvrdit partnerství se zprostředkovatelem, zaškrtněte políčko a potom vyberte **autorizovat nepřímý poskytovatel** . Poskytovatel je teď uvedený na stránce **nepřímých zprostředkovatelů** a vaše společnost je teď uvedená na stránce **nepřímé prodejce** tohoto poskytovatele.
+3. Pokud chcete potvrdit partnerství se zprostředkovatelem, zaškrtněte políčko a potom vyberte **autorizovat nepřímý poskytovatel**. Poskytovatel je teď uvedený na stránce **nepřímých zprostředkovatelů** a vaše společnost je teď uvedená na stránce **nepřímé prodejce** tohoto poskytovatele.
 
    > [!NOTE]  
    > Když vytvoříte partnerství s nepřímým poskytovatelem, autorizujete jim odeslání objednávek a přidávání předplatných jménem vašich zákazníků a udělíte jim oprávnění správce k pracovnímu účtu vaší společnosti. Po vytvoření partnerství s poskytovatelem můžete odebrat přístup správce poskytovatele k vašemu pracovnímu účtu na portálu Office 365.
@@ -146,9 +144,9 @@ Pokud se chce nepřímý poskytovatel spojit s vámi v partnerském centru, zah�
 
 - [Správa účtu v Partnerském centru](partner-center-account-setup.md)
 
-- [Spojte se s vašimi zákazníky](connect-with-your-customers.md)
+- [Spojení se zákazníky](connect-with-your-customers.md)
 
-- [Vytvořit obchodní profil](create-a-marketing-profile.md)
+- [Vytvoření obchodního profilu](create-a-marketing-profile.md)
 
 - [Další informace o procesu ověřování](verification-responses.md)
  

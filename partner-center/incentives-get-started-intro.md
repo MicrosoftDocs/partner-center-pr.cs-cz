@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "92527150"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492598"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Tyto materiály vám pomůžou začít s motivací.
 
@@ -48,8 +48,8 @@ Předtím, než budete moci zaplatit za práci v programu pobídek, je třeba po
 | Zjistěte, jestli vaše pobídky v práci splňují požadavky na způsobilost pro určitý program pobídek. | [Určení způsobilosti pro program](incentives-determined-your-program-eligibility.md)  |
 | Vyhledejte a poskytněte data, která společnost Microsoft vyžaduje, aby bylo možné získat své pobídky k vašim výběrům. | [Vytvoření a Správa výběrových a daňových profilů v partnerském centru](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Potvrďte, že jste zadali všechny podrobnosti, které potřebujete mít nárok na příjem pobídek. | [Potvrzení nároku na příjmy](incentives-confirm-your-earnings-eligibility.md)  |
-| Zobrazit všechna data a sestavy pro program pobídek | [Zobrazení plateb v rámci pobídek a programů pobídek](understand-incentive-payouts.md)  |
-| Přístup k stránce s určitými výběry pro konkrétní program | [Přístup k stránce s výběry pobídek](incentives-unified-user-guide.md)  |
+| Zobrazit všechna data a sestavy pro program pobídek | [Zobrazit své motivační programy a platby](understand-incentive-payouts.md)  |
+| Přístup k stránce s určitými výběry pro konkrétní program | [Přístup k příkazu výběr](payout-statement.md)  |
 
 ## <a name="next-steps"></a>Další kroky
 
