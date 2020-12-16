@@ -279,18 +279,12 @@
         - name: Vysvětlení výplatních a daňových profilů
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
           displayName: incentives
-        - name: Nejčastější dotazy k výplatním a daňovým profilům
-          href: incentives-payout-tax-profile-faqs.md
-          displayName: incentives
         - name: Kontrola způsobilosti k výnosům
           href: incentives-confirm-your-earnings-eligibility.md
           displayName: incentives
-        - name: Zobrazení plateb a programů
+        - name: Zobrazení programů a plateb
           href: understand-incentive-payouts.md
           displayName: 'mpn, incentives'
-        - name: Přístup ke stránce s výplatami
-          href: incentives-unified-user-guide.md
-          displayName: incentives
     - name: Plány a doklady o provedení
       items:
         - name: Vysvětlení plánů a dokladů o provedení
@@ -433,23 +427,21 @@
       displayName: csp
 - name: Vyplacení
   items:
+    - name: Zajištění plateb
+      href: marketplace-get-paid.md
+    - name: Výpisy plateb
+      href: payout-statement.md
     - name: 'Správa neplacení, podvodů nebo zneužití'
       href: non-payment-fraud-misuse.md
     - name: Správa nepřidělených plateb
       href: unallocated-payment.md
-    - name: Výplaty na komerčním marketplace
-      items:
-        - name: Příjem plateb – Marketplace
-          href: marketplace-get-paid.md
-        - name: Podrobnosti zásad plateb
-          href: payout-policy-details.md
-        - name: 'Prahové hodnoty, způsoby a časové rámce plateb'
-          href: payment-thresholds-methods-timeframes.md
-        - name: Výpisy plateb
-          href: payout-statement.md
-          displayName: invoice
-        - name: Nejčastější dotazy k platbám
-          href: payout-faq.md
+    - name: Plány a procesy výplat
+      href: payout-policy-details.md
+    - name: 'Prahové hodnoty, způsoby a časové rámce plateb'
+      href: payment-thresholds-methods-timeframes.md
+      displayName: invoice
+    - name: Nejčastější dotazy k výplatám a daňovým profilům
+      href: payout-faq.md
 - name: Spojení se zákazníky
   items:
     - name: Spojení se zákazníky
@@ -663,10 +655,12 @@
               displayName: 'indirect, reseller'
             - name: Školení
               href: pci-training-dashboard.md
-        - name: Známé problémy
+        - name: Nejčastější dotazy k Insights
           href: pci-known-issues.md
         - name: Stažení analytických sestav
           href: pci-download-reports.md
+        - name: Definice dat Insights
+          href: pci-data-definitions.md
     - name: Indikátory podílu partnerů
       href: partner-contribution-indicators.md
       displayName: mpn
