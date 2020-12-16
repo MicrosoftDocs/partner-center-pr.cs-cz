@@ -1,7 +1,7 @@
 ---
 title: Nejčastější dotazy k výhodám
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Odpovědi na otázky týkající se vypršení platnosti, obnovení a Aktivace licencí pro Azure, Cloud, Visual Studio a technické výhody a výhody podpory
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570684"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514692"
 ---
 # <a name="benefits-faq"></a>Nejčastější dotazy k výhodám
 
@@ -75,7 +75,7 @@ Když obnovíte nebo rozšíříte odběry, počet licencí zůstane stejný, al
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>Otázka: Můžu aktivovat licenci na účtu mého zákazníka
 
-Ne. Licence k produktu se vydávají pro demonstrační účely. Zaměstnanci prodeje a marketingu můžou tento software využít k předvedení produktů zákazníkům, ale ukázkové produkty se nedají nainstalovat na hardware nebo infrastrukturu zákazníka a musí se používat s partnerským dohledem.
+No. Licence k produktu se vydávají pro demonstrační účely. Zaměstnanci prodeje a marketingu můžou tento software využít k předvedení produktů zákazníkům, ale ukázkové produkty se nedají nainstalovat na hardware nebo infrastrukturu zákazníka a musí se používat s partnerským dohledem.
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>Otázka: Mám potíže s přiřazením uživatelů do hromadného kreditu Azure. Co mám dělat
 
@@ -98,7 +98,7 @@ Můžete přiřadit odběry komukoli v seznamu správy uživatelů v partnerské
 Po přiřazení předplatného se uživatel musí přihlásit k aplikaci Visual Studio, aby ho mohl spravovat.
 
 >[!Note]
-> Předplatná sady Visual Studio se můžou znovu přiřadit od jednoho předplatitele k jinému 90 dne po původním přiřazení.
+> Předplatná sady Visual Studio může být přeřazena z jednoho předplatitele do druhé, pokud 90 dnů uplynulo od doby původního přiřazení.
 
 ## <a name="technical-benefits-and-support"></a>Technické výhody a podpora
 

@@ -1,7 +1,7 @@
 ---
 title: Koupit nebo prodloužit nabídky Microsoft Action Pack
-ms.topic: article
-ms.date: 11/23/2020
+ms.topic: how-to
+ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se koupit předplatné Microsoft Action Pack a začít používat výhody akčních sad. Naučíte se také, jak obnovit, zrušit, zobrazit vaše vyúčtování a další.
@@ -9,20 +9,15 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812853"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514722"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Nákup nebo prodloužení platnosti předplatného programu Microsoft Action Pack nebo kompetencí Silver a Gold Competency
 
-**Platí pro**
-
-- Partnerské centrum
-- Centrum členství v partnerovi
-- Partneři programu MPN
 
 **Příslušné role**
 
@@ -30,13 +25,13 @@ ms.locfileid: "95812853"
 - Správce uživatelů
 - Správce partnera MPN
 - Agent správce
-- Agent prodeje
 
-Z [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra teď můžou členové Microsoft Partner Network (MPN.MD) nakupovat nebo obnovovat nabídky s výhodami. Mezi takové nabídky patří předplatné Microsoft Action Pack a kompetence stříbrná a zlatá.
+
+Z [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra můžou členové Microsoft Partner Network (MPN) koupit nebo prodloužit nabídky s výhodami, včetně předplatného Microsoft Action Pack a stříbrné a zlaté kompetence.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Nakoupit Microsoft Action Pack poprvé
 
-Pokud s Microsoftem spolupracujete s partnerem, je prvním krokem připojení k Microsoft Partner Network. Pokud ještě nejste členem partnerské sítě, v lokalitě partnerské sítě otevřete [stránku členství](https://partner.microsoft.com/membership) a vyberte **připojit nyní** , až budete připraveni k registraci. 
+Pokud s Microsoftem spolupracujete s partnerem, je prvním krokem připojení k Microsoft Partner Network. Pokud se chcete zapojit do programu MPN, klikněte na stránce partnerské sítě na [stránku členství](https://partner.microsoft.com/membership) a vyberte **připojit nyní** , až budete připraveni k registraci.
 
 Po úspěšném připojení k partnerské síti postupujte podle [pokynů na webu partnerské sítě](https://partner.microsoft.com/membership/action-pack) (vyžaduje se přihlášení) a kupte si první předplatné Action Pack. 
 
@@ -62,7 +57,7 @@ Staňte se [partnerem kompetence](https://partner.microsoft.com/membership/compe
 2. Vyberte **obnovit předplatné** a pak vyberte svůj způsob platby. Můžete zaplatit za použití platební karty nebo elektronického převodu bank.
 
     >[!NOTE]
-    >Pokud se **obnovení předplatného** nezobrazuje nebo je šedé, nemáte ještě nárok na obnovení předplatného sady Action Pack. Změnili jsme naše zásady obnovy oken a předplatné můžete prodloužit až po vypršení platnosti. Pokud vaše předplatné skončí například 22. června, můžete ho prodloužit od 23. června a po dobu 30 dnů.  
+    >Pokud se **obnovení předplatného** nezobrazuje nebo je šedé, nemáte ještě nárok na obnovení předplatného sady Action Pack. Změnili jsme naše zásady obnovy oken, abyste mohli obnovit předplatné až **po** vypršení platnosti. Pokud vaše předplatné skončí například 22. června, můžete ho prodloužit od 23. června a po dobu 30 dnů.  
 
 3. Pokud platíte pomocí platební karty, postupujte podle pokynů pro přidání informací o kreditní kartě. Pokud platíte přenos elektronickými bankami, zadejte jméno kontaktu, telefonní číslo a e-mailovou adresu a pak vyberte **Odeslat**.
 
@@ -70,15 +65,13 @@ Staňte se [partnerem kompetence](https://partner.microsoft.com/membership/compe
 
 5. Vaše objednávka se potvrdí. Vyberte **Zavřít**.
 
-Vaše předplatné sady Action Pack se po tomto datu automaticky obnoví každý rok.
-
 ### <a name="update-your-bill-to-address"></a>Aktualizace adresy pro fakturaci
 
 V procesu obnovování nebo nákupu balíčku Action Pack máte možnost ověřit si adresu pro fakturaci.
 
  1. Po výběru možnosti **Odeslat** si můžete prohlédnout podrobnosti o nákupu. Pokud vidíte, že je potřeba aktualizovat vaši adresu, vyberte **aktualizovat** .
   
- 1. Na stránce **profil partnera** aktualizujte svou adresu.
+ 1. Na stránce **zákonný profil** aktualizujte svou adresu.
 
 ## <a name="cancel-your-action-pack-subscription"></a>Zrušení předplatného programu Action Pack
 
@@ -115,6 +108,3 @@ Pokud chcete zjistit stav žádosti o službu, vyberte **žádosti partnerského
 -   [Přidání uživatelů a přiřazení jejich oprávnění](create-user-accounts-and-set-permissions.md)
 
 -   [Vytvoření obchodního profilu a získání potenciálních zákazníků od Microsoftu](create-a-marketing-profile.md)
-
-
-

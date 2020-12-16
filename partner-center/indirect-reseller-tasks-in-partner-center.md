@@ -1,7 +1,7 @@
 ---
 title: Práce s nepřímými zprostředkovateli v programu CSP
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si, jak můžou nepřímý prodejci spolupracovat s nepřímými poskytovateli Microsoftu (nebo distributory) a získat pomoc s zákaznickou podporou a fakturací.
@@ -10,16 +10,14 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 082574f381186731cee023cfcdfa04b46d0ba1c5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492394"
+ms.locfileid: "97514739"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Naučte se, jak v programu Cloud Solution Provider spolupracuje s nepřímými poskytovateli.
-
-
 
 **Příslušné role**
 
@@ -70,33 +68,22 @@ Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskyt
 
 2. Zkontrolujte **úvodní stránku** a ujistěte se, že máte informace, které potřebujete k registraci, a pak vyberte **Další**.
 
-3. Přihlaste se pomocí svého pracovního účtu. Vyberte **Přihlásit** se a potom zadejte uživatelské jméno a heslo, které používáte k přihlášení jako globální správce pro Office 365, Microsoft Azure nebo Microsoft Dynamics CRM.
+3. Přihlaste se pomocí svého pracovního účtu – uživatelské jméno a heslo, které používáte k přihlášení jako globální správce pro Office 365, Microsoft Azure nebo Microsoft Dynamics CRM. Pokud nemáte pracovní účet, vyberte **vytvořit** a nastavte si ho hned teď. Po vytvoření pracovního účtu se přihlaste pomocí přihlašovacích údajů globálního správce nového účtu.
 
-   Pokud nemáte pracovní účet, vyberte **vytvořit** a nastavte si ho hned teď. Po vytvoření pracovního účtu se přihlaste pomocí přihlašovacích údajů globálního správce nového účtu.
-
-4. Přečtěte si informace o tom, jak přidružit ID Microsoft Partner Network (MPN ID) k novému účtu partnerského centra. Abychom mohli spravovat výhody a pobídky svého členství v partnerském centru, musíme vám propojit ID MPN vaší společnosti s vaším novým účtem partnera. Vyberte **Sign in** (Přihlásit se).
-
-5. Zadejte uživatelské jméno, které používáte pro přihlášení k webu PMC (partner Membership Center). Lokalita partnerského centra členství je tam, kde teď spravujete svůj účet Microsoft Partner. Přihlášení k centru členství v partnerovi umožňuje načíst ID MPN a přidružit ho k novému účtu partnerského centra. Vyberte **Další**.
-
-6. Zadejte heslo pro účet partnera pro členství v partnerském centru a pak vyberte **Přihlásit** se.
-
-7. Vyberte profil společnosti s ID MPN připojeným k vašim podnětům, výhodám členství a kompetencím. Tyto informace můžeme následně přesunout na váš účet partnerského centra. Vyberte **Pokračovat**.
-
-   Pokud ID MPN, které chcete použít, není na této stránce uvedeno, vyberte **Zrušit** a znovu se přihlaste pomocí uživatelského jména a hesla pro profil společnosti, který chcete použít.
 
    > [!IMPORTANT]  
    > Vyberte ID MPN přidružené k aktivnímu profilu společnosti, který je umístěný ve stejné zemi nebo oblasti jako váš tenant Azure AD.
 
-8. Poskytněte nebo aktualizujte oficiální obchodní profil vaší společnosti, informace o primárních kontaktech a zákaznickou podporu. Vyberte možnost **zaregistrovat nyní**.
+4. Poskytněte nebo aktualizujte oficiální obchodní profil vaší společnosti, informace o primárních kontaktech a zákaznickou podporu. (Pokud chcete zjistit své právní informace, vyberte **Profil organizace** a pak vyberte **právní informace**.) Vyberte možnost **zaregistrovat nyní**.
 
-   Primární kontakt by měl být osoba ve vaší společnosti, kterou můžeme kontaktovat o vaší aplikaci. Primárním kontaktem může být vy nebo jiný uživatel ve vaší společnosti. Poznámka: nepřijímáme e-mailové adresy z webových e-mailových služeb, jako je Gmail, Yahoo! Pošta, iCloud pošta, AOL mail nebo Outlook Mail.
+   Primární kontakt je osoba ve vaší společnosti, kterou můžeme kontaktovat o vaší aplikaci. Může to být vy nebo jiný uživatel ve vaší společnosti. Poznámka: nepřijímáme e-mailové adresy z webových e-mailových služeb, jako je Gmail, Yahoo! Pošta, iCloud pošta, AOL mail nebo Outlook Mail.
 
    > [!IMPORTANT]  
    > Abychom vám pomohli zajistit zabezpečení a ochranu osobních údajů vaší společnosti, pošleme primární kontakt e-mailem, abyste ověřili, že (1) nebo se zaregistroval účet partnerského centra, a (2) Tato e-mailová adresa patří vaší společnosti. Jakmile primární kontakt ověří svou e-mailovou adresu, budeme pokračovat v naší kontrole informací, které jste zadali. Pošleme e-mailem aktualizace stavu registrace primárnímu kontaktu.
 
-9. Až bude váš účet partnerského centra připravený k použití, ověřte, že jste byli přidáni do skupiny agentů pro správu. Abyste mohli dokončit nastavování vašeho účtu, včetně přidávání dalších uživatelů, musíte mít oprávnění agenta správce. Pomocí těchto kroků můžete zobrazit nebo aktualizovat vaše oprávnění:
+5. Až bude váš účet partnerského centra připravený k použití, ověřte, že jste byli přidáni do skupiny agentů pro správu. Abyste mohli dokončit nastavování vašeho účtu, včetně přidávání dalších uživatelů, musíte mít oprávnění agenta správce. Pomocí těchto kroků můžete zobrazit nebo aktualizovat vaše oprávnění:
 
-   1. V **partnerském centru** vyberte ikonu **Nastavení** a potom vyberte **Správa uživatelů**.
+   1. Na řídicím panelu partnerského centra vyberte ikonu **Nastavení** a potom v části **Nastavení účtu** vyberte **Správa uživatelů**.
 
    2. Ze seznamu uživatelů vyberte své jméno. Vyberte možnost **Agent správce** , pokud ještě není vybraný. Vyberte **Aktualizovat**.
 
@@ -136,6 +123,10 @@ Pokud se chce nepřímý poskytovatel spojit s vámi v partnerském centru, zah�
 
    > [!IMPORTANT]  
    > Váš nepřímý poskytovatel musí mít ve svých zákaznících svůj vztah prodejce, aby mohli odesílat objednávky jménem.
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>Vaše země CSP a oblasti CSP, kde obchodujete
+
+Vaše oficiální obchodní umístění jako nepřímý prodejce CSP určuje nepřímým poskytovatelům, se kterými můžete pracovat, a také oblasti, kde můžete provádět CSP v podnikání. Přečtěte si další informace o [programu poskytovatele Cloud Solution Provider na trzích a měnách, kde můžete prodávat nabídky CSP](regional-authorization-overview.md).
 
 
 ## <a name="next-steps"></a>Další kroky

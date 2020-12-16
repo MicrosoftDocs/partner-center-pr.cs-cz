@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d8dac9e5d8720a39d6bf585a1f6cd9bd5c70465a
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926674"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514749"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Další informace o smlouvě Microsoft Partner Agreement (MPA) pro partnery programu CSP
 
@@ -56,7 +56,7 @@ Abyste se mohli i nadále zúčastnit programu CSP, musíte si před 31. ledna 2
 
 1. V **Nastavení** vyberte [partnerský profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
-1. Podívejte se na část **informace o programu** . Pokud vaše informace nezobrazuje **nepřímý stav prodejce** , musíte se [zaregistrovat jako nepřímý prodejce](https://partner.microsoft.com/cloud-solution-provider/whats-required).
+1. Podívejte se na část **informace o programu** . Pokud vaše informace nezobrazuje **nepřímý stav prodejce** , musíte se [zaregistrovat jako nepřímý prodejce](indirect-reseller-tasks-in-partner-center.md).
 
 1. Pokud je stav  **nepřímý prodejce** **aktivní** , pak jste v partnerském centru aktivní nepřímý prodejce.
  
