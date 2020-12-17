@@ -1,7 +1,7 @@
 ---
 title: Práce s nepřímými zprostředkovateli v programu CSP
 ms.topic: how-to
-ms.date: 12/11/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si, jak můžou nepřímý prodejci spolupracovat s nepřímými poskytovateli Microsoftu (nebo distributory) a získat pomoc s zákaznickou podporou a fakturací.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514739"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636020"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Naučte se, jak v programu Cloud Solution Provider spolupracuje s nepřímými poskytovateli.
 
@@ -44,7 +44,7 @@ Další informace o tom, co je potřeba k prodeji v programu CSP jako nepřímý
 > [!NOTE]  
 > Pokud jste už zaregistrovali v CSP, možná budete muset zadat jenom kontaktní informace zákaznické podpory, abyste mohli vytvořit účet prodejce v partnerském centru.
 
-### <a name="before-you-begin"></a>Než začnete
+### <a name="before-you-begin"></a>Před zahájením
 
 Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskytovatele noví noví, zaregistrovaní v programu CSP jako nepřímý prodejce. Pak je potřeba vytvořit účet v partnerském centru. K tomu zadáte během procesu registrace následující informace. Než začnete, může trvat několik minut, než se shromáždí tyto položky:
 
@@ -69,10 +69,7 @@ Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskyt
 2. Zkontrolujte **úvodní stránku** a ujistěte se, že máte informace, které potřebujete k registraci, a pak vyberte **Další**.
 
 3. Přihlaste se pomocí svého pracovního účtu – uživatelské jméno a heslo, které používáte k přihlášení jako globální správce pro Office 365, Microsoft Azure nebo Microsoft Dynamics CRM. Pokud nemáte pracovní účet, vyberte **vytvořit** a nastavte si ho hned teď. Po vytvoření pracovního účtu se přihlaste pomocí přihlašovacích údajů globálního správce nového účtu.
-
-
-   > [!IMPORTANT]  
-   > Vyberte ID MPN přidružené k aktivnímu profilu společnosti, který je umístěný ve stejné zemi nebo oblasti jako váš tenant Azure AD.
+  
 
 4. Poskytněte nebo aktualizujte oficiální obchodní profil vaší společnosti, informace o primárních kontaktech a zákaznickou podporu. (Pokud chcete zjistit své právní informace, vyberte **Profil organizace** a pak vyberte **právní informace**.) Vyberte možnost **zaregistrovat nyní**.
 
@@ -81,7 +78,16 @@ Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskyt
    > [!IMPORTANT]  
    > Abychom vám pomohli zajistit zabezpečení a ochranu osobních údajů vaší společnosti, pošleme primární kontakt e-mailem, abyste ověřili, že (1) nebo se zaregistroval účet partnerského centra, a (2) Tato e-mailová adresa patří vaší společnosti. Jakmile primární kontakt ověří svou e-mailovou adresu, budeme pokračovat v naší kontrole informací, které jste zadali. Pošleme e-mailem aktualizace stavu registrace primárnímu kontaktu.
 
-5. Až bude váš účet partnerského centra připravený k použití, ověřte, že jste byli přidáni do skupiny agentů pro správu. Abyste mohli dokončit nastavování vašeho účtu, včetně přidávání dalších uživatelů, musíte mít oprávnění agenta správce. Pomocí těchto kroků můžete zobrazit nebo aktualizovat vaše oprávnění:
+5. Přidružte své ID MPN k tenantovi Azure ID.
+
+    1. V **Nastavení účtu** vyberte **identifikátory** .
+
+    1. V části **CSP** použijte odkaz **aktualizace** k aktualizaci ID MPN přidruženého k vašemu účtu CSP. 
+ 
+ > [!IMPORTANT]  
+   > Vyberte ID MPN přidružené k aktivnímu profilu společnosti, který je umístěný ve stejné zemi nebo oblasti jako váš tenant Azure AD.
+
+6. Až bude váš účet partnerského centra připravený k použití, ověřte, že jste byli přidáni do skupiny agentů pro správu. Abyste mohli dokončit nastavování vašeho účtu, včetně přidávání dalších uživatelů, musíte mít oprávnění agenta správce. Pomocí těchto kroků můžete zobrazit nebo aktualizovat vaše oprávnění:
 
    1. Na řídicím panelu partnerského centra vyberte ikonu **Nastavení** a potom v části **Nastavení účtu** vyberte **Správa uživatelů**.
 

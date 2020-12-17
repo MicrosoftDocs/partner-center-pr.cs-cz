@@ -7,14 +7,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 11/23/2020
+ms.date: 12/16/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 398e02e4d18df9e555a1576e845e1d0e0bdf1105
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514703"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636003"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Ověření informací o profilu organizace v partnerském centru
 
@@ -65,16 +65,12 @@ Pokud během migrace z partnerského centra pro členství v partnerském centru
 
 Aktualizace ID MPN přidruženého k vašemu účtu CSP:
 
-1. Přihlaste se k řídicímu panelu partnerského centra.
+1. Přihlaste se k řídicímu panelu partnerského centra a pak vyberte **Nastavení**.
  
-1. V **Nastavení účtu** vyberte **Profil organizace** .
+1. Z **Nastavení účtu** vyberte **identifikátory**.
 
-1. V poli **přidružená MPNID** vyberte **aktualizovat**.
+1. V části **CSP** použijte odkaz **aktualizace** k aktualizaci ID MPN přidruženého k vašemu účtu CSP.
  
-1. Vyberte **Pokračovat**.
- 
-1. Přidejte své ID MPN.
-
 
 ## <a name="update-your-billing-address"></a>Aktualizace fakturační adresy
 

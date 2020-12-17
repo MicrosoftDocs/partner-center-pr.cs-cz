@@ -1,7 +1,7 @@
 ---
 title: Ukazatele příspěvku partnerů
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si o sedmi ukazatelích partnerských příspěvků (PCI), které ukazují, jak provádíte se zákaznickou rezervací Dynamics 365 nebo s financemi a operacemi Dynamics 365.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344387"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636037"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Ukazatele příspěvku na partnery (PCI) ukazují dopad na partnery na sedm klíčových měr úspěšnosti zákazníků
 
@@ -42,23 +42,23 @@ PCI nabízí sofistikované zobrazení technických možností partnera, jejich 
 
 *Indikátory výkonu:*
 
-1. **Čisté nové tržby** : čisté nové tržby napříč všemi prodejními kanály pro produkty Microsoft Dynamics 365. (Podrobnosti o této metrikě najdete v tématu [definice pro NET New tržby](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
+1. **Čisté nové tržby**: čisté nové tržby napříč všemi prodejními kanály pro produkty Microsoft Dynamics 365. (Podrobnosti o této metrikě najdete v tématu [definice pro NET New tržby](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. **Čistý zákazník přidá** : NET zákazníci, kteří získali pro Dynamics 365 napříč všemi prodejními kanály. (Podrobnosti o této metrikě najdete v tématu [definice pro NET Customer přidat](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
+2. **Čistý zákazník přidá**: NET zákazníci, kteří získali pro Dynamics 365 napříč všemi prodejními kanály. (Podrobnosti o této metrikě najdete v tématu [definice pro NET Customer přidat](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
 
 *Indikátory schopností:*
 
-3. **Funkční konzultanti** : počet jednotlivců držících aktuálně aktivní funkční konzultanta přidružuje certifikaci pro Dynamics 365. (Podrobnosti o této metrikě najdete v tématu [definice pro funkční konzultanty](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
+3. **Funkční konzultanti**: počet jednotlivců držících aktuálně aktivní funkční konzultanta přidružuje certifikaci pro Dynamics 365. (Podrobnosti o této metrikě najdete v tématu [definice pro funkční konzultanty](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
 
-4. **Růst funkčního konzultanta** : růst počtu funkčních konzultantů přidružuje.  Snímek směrného plánu pro metriku růstu pro funkční konzultanta v PCI se teď bude nacházet od 1. října 2020. (Podrobnosti o této metrikě najdete v tématu [definice pro růst funkčního konzultanta](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
+4. **Růst funkčního konzultanta**: růst počtu funkčních konzultantů přidružuje. K dispozici je několik možností, jak získat body pro tento indikátor. Jedna z možností vyžaduje snímek směrného plánu pro metriku růstu funkčního konzultanta v PCI od 1. října 2020. (Podrobné informace o všech možnostech pro získání bodů pro tuto metriku najdete v tématu [definice pro růst funkčního konzultanta](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
 
-5. **Vývojáři** : počet jednotlivců držících aktuálně aktivní přidružit certifikaci pro vývojáře pro Dynamics 365. (Podrobnosti o této metrikě najdete v tématu [definice pro vývojáře](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
+5. **Vývojáři**: počet jednotlivců držících aktuálně aktivní přidružit certifikaci pro vývojáře pro Dynamics 365. (Podrobnosti o této metrikě najdete v tématu [definice pro vývojáře](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
 
 *Indikátory úspěšnosti zákazníka:*
 
-6. **Nová rozsáhlá nasazení** : počet produkčních klientů, které překračují prahovou hodnotu vysokého využití za posledních 12 měsíců. (Podrobnosti o této metrikě najdete v tématu [definice pro nová rozsáhlá nasazení](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
+6. **Nová rozsáhlá nasazení**: počet produkčních klientů, které překračují prahovou hodnotu vysokého využití za posledních 12 měsíců. (Podrobnosti o této metrikě najdete v tématu [definice pro nová rozsáhlá nasazení](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
 
-7. **Měsíční nárůst uživatelů** : růst měsíčně aktivních uživatelů napříč všemi vašimi zákazníky za posledních 12 měsíců. (Podrobnosti o této metrikě najdete v tématu [definice pro měsíční nárůst uživatele](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
+7. **Měsíční nárůst uživatelů**: růst měsíčně aktivních uživatelů napříč všemi vašimi zákazníky za posledních 12 měsíců. (Podrobnosti o této metrikě najdete v tématu [definice pro měsíční nárůst uživatele](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Jak skóre PCI ovlivňuje způsobilost kompetence
 Body se udělují pro každý ukazatel dosažený v důsledku jednoho čísla PCI. je možné použít maximálně 100 bodů. 
@@ -93,17 +93,17 @@ Následující obrázek nabízí rychlý a vizuální odkaz.
 
 ## <a name="thresholds-for-each-pci-metric"></a>Prahové hodnoty pro jednotlivé metriky PCI
 
-Každá metrika PCI má prahové hodnoty Microsoftu pro sadu, které mohou získat maximální body vaší společnosti. Tyto prahové hodnoty se liší pro zapojení zákazníků a finanční a provozní cesty pro dosažení Business Applications kompetence cloudu. Prahové hodnoty se taky liší pro partnery, kteří pracují na vyvíjených trzích a partneři provozované výlučně na vývoji trhů. **Vyvíjené** nebo **Developing** vyvíjené kategorizace na trhu v zemi jsou založené na [definicích Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
+Každá metrika PCI má prahové hodnoty Microsoftu pro sadu, které mohou získat maximální body vaší společnosti. Tyto prahové hodnoty se liší pro zapojení zákazníků a finanční a provozní cesty pro dosažení Business Applications kompetence cloudu. Prahové hodnoty se taky liší pro partnery, kteří pracují na vyvíjených trzích a partneři provozované výlučně na vývoji trhů. **Vyvíjené** nebo  vyvíjené kategorizace na trhu v zemi jsou založené na [definicích Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 Body napříč jednotlivými metrikami jsou sečteny s cílem získat odlišné skóre PCI pro zapojení a finance a operace zákazníků. Toto skóre bude aktualizováno měsíčně.
 
 Partneři mohou získat maximální body pro danou metriku, pokud splňují nebo překračují prahové hodnoty uvedené níže. Částečné body lze získat pro všechny metriky s výjimkou růstu funkčního konzultanta.
+
 Například vyvinutý obchodní partner s $150 000 v čistém novém výnosu bude mít poloviční ($ 150000/$ 300 000) z maximálního počtu 10 bodů.
 
 Podrobnosti najdete v následujících tabulkách:
 - [Tabulka 1. Prahové hodnoty zapojení zákazníka](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [Tabulka 2. Finanční a provozní prahové hodnoty](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [Tabulka 3. Růst funkčního konzultanta](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>Tabulka 1 – prahové hodnoty zapojení zákazníků
 
@@ -114,7 +114,7 @@ Podrobnosti najdete v následujících tabulkách:
 | **Prav** | $300 000 | 10 | 10 | *\* Viz Poznámka* | 5 | 5 | 25% |
 | **Rozvíjet** | $150 000 | 5  | 5  |*\* Viz Poznámka* | 2 | 1 | 25% |
 
-*\* Poznámka: cíle růstu se liší v závislosti na počtu základních konzultantů. Cíle růstu najdete v [tabulce 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
+*\* Poznámka: cíle růstu se liší v závislosti na počtu základních konzultantů a konkrétní možnosti, kterou partner používá k získání bodů. Další informace o možnostech získání bodů nebo specifických cílů růstu jednotlivých možností najdete v tématu [definice pro růst funkčního konzultanta](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>Tabulka 2 – prahové hodnoty pro finance a operace
 
@@ -125,19 +125,7 @@ Podrobnosti najdete v následujících tabulkách:
 | **Prav** | $300 000 | 3 | 15 | *\* Viz Poznámka* | 5  | 3 | 25% |
 | **Rozvíjet** | $150 000 | 1 | 5 |*\* Viz Poznámka* | 2 | 1 | 25% |
 
-*\* Poznámka: cíle růstu se liší v závislosti na počtu základních konzultantů. Cíle růstu najdete v [tabulce 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
-
-### <a name="table-3-functional-consultant-growth"></a>Tabulka 3 – růst funkčního konzultanta
-
->[!NOTE]
-> Následující tabulka ukazuje **rozvinutý** a **rozvojový** sloupec se směrným plánem funkčního konzultanta, který je potřeba mít nárok na získání bodů. Datum snímku směrného plánu bude přijato od 1. října 2020.
-
-
-| Prav | Rozvíjet | Růst potřebný k získání všech 15 bodů *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | 35 % |
-| 30–49 | 15-24 | 25% |
-| 50 a vyšší | 25 a vyšší | 15 % |
+*\* Poznámka: cíle růstu se liší v závislosti na počtu základních konzultantů a konkrétní možnosti, kterou partner používá k získání bodů. Další informace o možnostech získání bodů nebo specifických cílů růstu jednotlivých možností najdete v tématu [definice pro růst funkčního konzultanta](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Podrobné definice metrik PCI
 
@@ -208,13 +196,30 @@ Funkční konzultanty jsou indikátorem schopností a jedním ze sedmi ukazatel�
 
 - Funkční konzultanty jsou definovány jako počet jednotlivců držících aktuálně aktivní funkční konzultanta přidružit certifikaci, jako je například certifikace funkčního konzultanta zapojení zákazníka nebo finanční certifikace konzultanta a provozu.
 
-- Certifikace funkčního konzultanta pro zapojení zákazníka vyžaduje, aby uživatel předal: MB-200 **a** jednu z následujících: mb-210, mb-220, mb-230, mb-240 nebo MB6-898.
+- Certifikace funkčního konzultanta pro zapojení zákazníka vyžaduje splnění jednotlivce:
+  - MB-200 \* nebo pl-200<br/>
+  **a** jednu z následujících zkoušek:
+  - MB-210, MB-220, MB-230, MB-240 nebo MB6-898 \* \* .
 
-- Certifikace pro finance a provoz v rámci konzultantů vyžaduje, aby uživatel předával: MB-300 **a** jednu z následujících: mb-310, mb-320, mb-330, MB6-897 nebo MB6-898.
+- Certifikace pro finance a provozní konzultanty vyžaduje, aby uživatel předával tyto funkce:
+  - MB – 300<br/>
+  **a** jednu z následujících zkoušek:
+  - MB-310, MB-320, MB-330, MB-897 \* \* nebo MB6-898 \* \* .
+
+> [!NOTE]
+> Zkoušky označené hvězdičkou ( \* ) jsou v nadcházejících měsících vyřazeny nebo nahrazeny. Konkrétní podrobnosti najdete níže:
+>
+> - Zkoušky označené jednou hvězdičkou ( \* ) se vyřazením z 31. prosince 2020. Zkoušky vyřazením do 31. prosince 2020 budou mít nárok na dosažení kompetence a prodloužit platnost do 31. prosince 2021, pokud bylo provedeno před jejich vyřazením.
+> - Zkoušky označené dvěma hvězdičkami ( \* \* ) se vyřazením od 31. ledna 2021. Zkoušky, které vycházejí z 31. ledna 2021, budou mít nárok na dosažení kompetence a na obnovení do 31. ledna 2022, pokud jsou pořízeny před jejich vyřazením.
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definice pro #4 metriky PCI – růst funkčního konzultanta
 
-Růst funkčního konzultanta je indikátorem schopností a jedním z sedm klíčových ukazatelů příspěvků partnerských partnerů [popsaných výše v tomto článku](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Tady je více informací o definování indikátoru růstu funkčního konzultanta a způsobu, jakým se počítají body této kategorie:
+Růst funkčního konzultanta je indikátorem schopností a jedním z sedm klíčových ukazatelů příspěvků partnerských partnerů [popsaných výše v tomto článku](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Partner má jednu ze dvou možností, jak dosáhnout všech bodů (15 nebo 0 bodů) dostupných pro tuto metriku. Žádné částečné body nebudou uděleny. 
+
+Zde najdete další informace o tom, jak je definován indikátor růstu funkčního konzultanta a jak se počítají body této kategorie.
+
+**Pro získání bodů použijte jednu z možností:**
 
 - Růst funkčního konzultanta je definován jako nárůst počtu certifikovaného funkčního konzultanta, který je přidružuje od snímku směrného plánu. Datum snímku směrného plánu bude přijato od 1. října 2020.
 
@@ -224,7 +229,19 @@ Růst funkčního konzultanta je indikátorem schopností a jedním z sedm klí�
 
 - Abyste měli nárok na body, musíte mít minimálně **15** funkční konzultanta, která je přidružená k vyvinutým obchodním partnerům a **5** pro vývoj tržních partnerů při pořízení snímku směrného plánu.
 
-- **Žádné částečné body nebudou uděleny.** Nárůst nad snímkem směrného plánu musí splňovat nebo překročit prahové hodnoty uvedené v [tabulce 3. Růst funkčního konzultanta](partner-contribution-indicators.md#table-3-functional-consultant-growth).
+- **Žádné částečné body nebudou uděleny.** Nárůst nad snímkem směrného plánu musí splňovat nebo překročit prahové hodnoty uvedené v následující tabulce. Tabulka zobrazuje **vyvinutý** a **rozvojový** sloupec se směrným plánem funkčního konzultanta, který je potřeba mít nárok na získání bodů.
+
+  | Prav | Rozvíjet | Růst potřebný k získání všech 15 bodů *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | 35 % |
+  | 30–49 | 15-24 | 25% |
+  | 50 a vyšší | 25 a vyšší | 15 % |
+
+**Pro získání bodů použijte možnost 2:**
+
+- Vyvinutí partneři poskytující trh můžou v čase certifikovat 50 nebo více funkčních konzultantů pro svůj první den v CERTIFIKÁTŮu založeném na PCI. (Vývoj obchodních partnerů může v čase vycertifikovat 25 nebo více funkčních konzultantů pro první certifikátů výročí založené na PCI.)
+
+- Pokud dosáhnete této prahové hodnoty, obdržíte po dobu 24 měsíců od tohoto data celou dobu 15 bodů pro růst funkčního konzultanta. To znamená, že získáte maximální body pro růst funkčního konzultanta pro dvě CERTIFIKÁTŮá výročí.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>Definice pro #5 metriky PCI – vývojáři
 
@@ -234,9 +251,21 @@ Vývojáři jsou indikátory schopností a jeden ze sedmi ukazatelů na přísp�
 
 - Body pro vývojáře jsou založené na snímku aktuálního měsíce, který má maximálně 5 bodů k dispozici.
 
-- Vývojáři zákaznického zapojení získají kredit, když přejdou MB-200 **i** jednu z následujících možností: mb-400 nebo MB2-716.
+- Vývojáři Customer Engagement získají kredit při splnění:
+  - PL-400<br/>**nebo**
+  - MB-200 \* **a** jedna z následujících zkoušek:
+    - MB-400 \* nebo MB2-716\*\*
 
-- Vývojáři financování a provozu získají kredit, když přejdou MB-300 **i** jednu z následujících možností: mb-500 nebo MB6-894.
+- Finanční a provozní vývojáři získají kredit při splnění:
+  - MB – 300<br/>
+  **a** jednu z následujících zkoušek:
+  - MB-500 nebo MB-894\*\*
+
+> [!NOTE]
+> Zkoušky označené hvězdičkou ( \* ) jsou v nadcházejících měsících vyřazeny nebo nahrazeny. Konkrétní podrobnosti najdete níže:
+>
+> - Zkoušky označené jednou hvězdičkou ( \* ) se vyřazením z 31. prosince 2020. Zkoušky vyřazením do 31. prosince 2020 budou mít nárok na dosažení kompetence a prodloužit platnost do 31. prosince 2021, pokud bylo provedeno před jejich vyřazením.
+> - Zkoušky označené dvěma hvězdičkami ( \* \* ) se vyřazením od 31. ledna 2021. Zkoušky, které vycházejí z 31. ledna 2021, budou mít nárok na dosažení kompetence a na obnovení do 31. ledna 2022, pokud jsou pořízeny před jejich vyřazením.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Definice pro #6 metriky PCI – nová rozsáhlá nasazení
 
