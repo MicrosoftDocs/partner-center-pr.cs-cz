@@ -1,7 +1,7 @@
 ---
 title: Správa příležitostí ke spoluprodeji
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Jako kvalifikovaný partner Microsoftu můžete společně prodávat s Microsoftem. Naučte se definovat obchody, pozvat Microsoftu, aby spolupracovali nebo zobrazili odeslané obchody.
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417264"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622197"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Správa příležitostí společného prodeje v partnerském centru
 
@@ -44,13 +44,19 @@ Využijte výhod společného prodejního příležitosti.  Příležitosti spol
 
 ## <a name="navigating-the-co-sell-section"></a>Navigace v části společný prodej
 
-V části společný prodej jsou tři karty nejvyšší úrovně.
+Chcete-li získat přístup k části spoluprodej, postupujte takto:
 
-**Příchozí** – na této kartě jsou k dispozici všechny příležitosti, které se odesílají partnerovi od prodejců Microsoftu pro spolupráci.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra.
 
-**Odchozí** – všechny příležitosti, které jsou vytvořené partnerem, jsou na této kartě k dispozici. Partneři můžou vytvořit tři různé kategorie příležitostí – společný prodej, soukromý a partner pro partnery.
+2. V nabídce vlevo vyberte položku **odkazy** a potom **možnosti společného prodeje**.
 
-**Oblíbené** – na této kartě se zobrazí příležitosti označené jako oblíbené položky na kartách příchozího a odchozího prodeje. Kliknutím na ikonu srdce v příležitosti v zobrazení seznamu označte libovolnou příležitost jako oblíbenou položku. Příležitost můžete z oblíbených položek odebrat pouhým kliknutím na stejnou ikonu.
+   V této části se zobrazí tři karty nejvyšší úrovně:
+
+   - **Příchozí** – na této kartě jsou k dispozici všechny příležitosti, které se odesílají partnerovi od prodejců Microsoftu pro spolupráci.
+
+   - **Odchozí** – všechny příležitosti, které jsou vytvořené partnerem, jsou na této kartě k dispozici. Partneři můžou vytvořit tři různé kategorie příležitostí – společný prodej, soukromý a partner pro partnery.
+
+   - **Oblíbené** – na této kartě se zobrazí příležitosti označené jako oblíbené položky na kartách příchozího a odchozího prodeje. Kliknutím na ikonu srdce v příležitosti v zobrazení seznamu označte libovolnou příležitost jako oblíbenou položku. Příležitost můžete z oblíbených položek odebrat pouhým kliknutím na stejnou ikonu.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Vytvoření příležitosti společného prodeje
 

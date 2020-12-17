@@ -9,18 +9,72 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 1341e60fd9914f421fd59335a8f037f3d915b72f
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 841ef4701ef7c973cc7a4fffaa26bb24b8d6f7e9
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869295"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622146"
 ---
 # <a name="december-2020-announcements"></a>Oznámení z prosince 2020
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu za listopadu 2020.
 
-2020 oznámení: [duben](2020-april.md)v  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenci](2020-july.md),  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md)  |  [listopad](2020-november.md) – září Použitelnost
+2020 oznámení: [duben](2020-april.md)v  |  [](2020-may.md)  |  [](2020-june.md)  |  [červenci](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [listopad](2020-november.md) – září Použitelnost
+
+______________
+
+## <a name="power-apps-promo-offer-now-available"></a><a name="5"></a>Propagační nabídka Power Apps je teď k dispozici.
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-12-16
+- Nabídky/trhy
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Podrobnosti
+
+Propagační nabídka Power Apps, která byla původně naplánována na 1. prosince, byla mírně odložena. Nabídka by měla být k dispozici 16. prosince 2020. Tato nabídka je k dispozici za sníženou cenu a má za následek další významné rozdíly z typických nabídek v partnerském centru.
+ 
+**Podrobnosti nabídky**
+
+- Nabídka bude k dispozici k nákupu až do 30. června 2021.
+- Nabídka je 12 měsíců za sníženou cenu, jako jsou další nabídky CSP.
+- Tato nabídka se neobnoví a vyprší na konci 12 měsíců. Zpočátku bude vlastnost autorenew nastavená na **hodnotu true** , ale tato hodnota se změní, takže platnost nabídky skončí na konci dvanáctiměsíčního období nabídky.
+- Pokud chtějí dál používat služby poskytované počáteční propagační nabídkou, musí si partneři koupit nabídku nepropagačních cenových nabídek (ID nabídky: 5e1087b6-246b-4503-b88a-b60bdf0b3840).
+
+**Podrobnosti o cenách**
+
+Podrobnosti o cenách nabídky níže v této nabídce budou uvedené v seznamu ceníků z ledna 2021.
+
+- Zobrazované jméno nabídky: zvýšení úrovně pro Power Apps podle plánu aplikace (minimální pracovní stanice 200)
+- ID nabídky: 988b7b06-e034-4b3e-89ea-51198cb2723e
+- Typ licenční smlouvy: firemní
+- Jednotka nákupu: 1 měsíc (s)
+- Typ sekundární licence: Neurčeno
+- Seznam cen: ceny ze seznamu se dají stáhnout z [tohoto místa](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n). Poznámka: ke stažení cen budete muset být přihlášeni do partnerského centra. Pokud nejste přihlášeni k partnerskému centru, obdržíte chybovou zprávu o **neoprávněném stavu** .
+- ERP cena: zatím není k dispozici, vyhledejte tuto nabídku ERP v příští aktualizaci ceníku v lednu v 1/1/2021.
+- ID materiálu: SEQ-00016
+ 
+**Podrobnosti nabídky**
+
+Podrobnosti o nabídce níže pro tuto nabídku najdete v tabulce seznamu nabídek z ledna 2021.
+
+- ID zřizování: POWERAPPS_PER_APP
+- Doba trvání: 1 rok
+- Četnost fakturace: měsíčně; Ročně
+- Minimální počet sedadel: 200
+- Maximální počet pracovních míst: 10000000
+- Limit nabídky: žádné
+- Povolené země: odlehlé ostrovy USA; Angličtina (Francouzská jižní území); Bouvet; Britské území v Indickém oceánu; Jemen Heardův and Mc Donald ostrovy; Wallis a Futuna; Vanuatu Antarktida Tuvalu Somálsko Tokelau Sierra Leone; Svazijsko Svatá Helena, ascension, Tristan da Cunha; Svatý Tomáš a Princův ostrov; Pitcairnovy ostrovy; Palau Šalamounovy ostrovy; Nauru Niue Ostrov Norfolk; Mauritánie Severní Mariany; Lesotho Rybolovné Rovníková Guinea; Guinea-Bissau; Cookovy ostrovy; Eritrea Vánoční ostrov; Burkina Faso; Středoafrická republika; Kosovo Kokosové (Keelingovy) ostrovy; Svalbard a Jan Mayen; Ostrovy Aland; Jižní Súdán; Jižní Georgie a Jižní Sandwichovy ostrovy Samoa Svatý Bartoloměj; Britské Panenské ostrovy; Saint-Pierre a Miquelon; Čad Niger Montserrat Guyana Haiti Gambie Guam Perliček Gabon Grenada Gibraltar Guernsey Libérie Mikronésie Falklandské ostrovy; Dominika; Džibutsko; Svahilština Konžská demokratická republika; Zimbabwe Americká Samoa; Zambie Jihoafrická Afrika; Mayotte Vietnamu Svatý Vincenc a Grenadiny, Americké Panenské ostrovy; Venezuelsk Svatý stolec (Vatikán); Ukrajinou Uganda Uzbekistán USA; Uruguay Oblasti Hongkongské Trinidad a Tobago; Turecko Tunisko Tonga Timor Leste; Turkmenistán Tádžikistán Thajsku Togo Salvador; Svatý Martin; Ostrovy Turks a Caicos; Surinam Singapurský Slovinsku Síť San Marino; Senegal Slovensko Švédštin Seychel Saúdská Arábie; Republika Rwanda Rusko Rumunskem Réunion Katar Paraguay Portugalskem Filipíny Palestinská území, obsazená; Republikou Portoriko; Bere Venezuelsk Panama Papua – Nová Guinea; Francouzská Polynésie; Nový Zéland; Omán; Nepálu Nizozemska Norsko Niger Nikaragua Nová Kaledonie; Namibie Mosambik Malajsk Mexické Martinik Malawi Maledivy Mauricius Malta Le Macao – zvláštní správní oblast; Mongolsko Mali Madagaskaru Marshallovy ostrovy; Makedonie – BRJ; Hoře Svatý Martin; Schválit Monako Moldavsko Lotyšska Libye Lucembursko Libanonu Svatá Lucie; Litva Srí Lanka; Kajmanské ostrovy; Lichtenštejnsko Laoská Kazachstán Kuvajt North Komory Kambodža Svatý Kryštof a Nevis; Keňa Kyrgyzstán Japonsko Jordánsko Jamajka Jersey; Itálie; Island; Irák; Irsko; Indie; Indonésie; ostrov Man; Honduras; Izrael; Maďarsk Hongkong – zvláštní správní oblast; Chorvatská Guatemala Řeck Guadeloupe Francouzská Guyana; Grónsko Ghana Faerské ostrovy; Spojené království; Gruzie Francouzský Fidži Etiopie Finsko Španělskem Egyptsk Estonsko Ekvádor; Dominikánská republika; Alžírský Německo, Dánsko; Kypr Česká republika; Curaçao Kapverdské Verde; Kostarika; Chile Kamerun Kolumbie Pobřeží slonoviny; Kanada Švýcarskem Belize Bělorusko Botswana Bhútán Bahamy Bonaire, Sint Eustach a Saba; Brazilské Benin Sultanát Bermudy Bolívie Belgie Přípravu Bahrajn Burundi Bosna a Hercegovina; Bangladéš Barbados Ázerbájdžánu Aruba Austrálie Argentina Rakousko Pásm Poskytne Afghánistán Albánii Anguilla Andorra Spojené arabské emiráty; Antigua a Barbuda
+
+### <a name="next-steps"></a>Další kroky
+
+- Propagační nabídka bude k dispozici v 1. lednu 2021 oficiální licence pro partnerské Centrum CSP – základní Ceník a seznam nabídek. 
+- Dotazy nebo další informace o tomto povýšení se dají zveřejnit na [oznámení komunity Microsoftu](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
 
 ______________
 
@@ -29,7 +83,7 @@ ______________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-12-8
-- Možnosti
+- Schopnosti
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
@@ -37,7 +91,7 @@ Přímé partnery a nepřímá poskytovatelé, kteří se účastní programu CS
 
 ### <a name="details"></a>Podrobnosti
 
-Od prosince 08 2020 můžou partneři začít stahovat verzi [MicrosoftPartnerCenter. NETSDK (galerie NuGet | Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)spolu s aktualizovanými [ukázkami](https://github.com/Microsoft/Partner-Center-DotNet-Samples)služby Public partner Center SDK GitHub. Tato verze obsahuje aktualizace pro následující:
+Od prosince 08 2020 můžou partneři začít stahovat verzi [MicrosoftPartnerCenter. NETSDK (galerie NuGet | Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)spolu s aktualizovanými [ukázkami](https://github.com/Microsoft/Partner-Center-DotNet-Samples)služby Public partner Center SDK GitHub. Tato verze zahrnuje aktualizace následujících metod:
  
 **SelfServePolicies – přidala se nová funkce.**
 
@@ -83,7 +137,7 @@ Seznam ceníků pro licence a seznam nabídek v prosinci obsahuje několik anom�
 
 #### <a name="incorrect-offers-in-the-license-based-price-list"></a>Nesprávné nabídky v ceníku na základě licence
 
-Ceníky na základě licence v prosinci obsahují níže uvedené nabídky, které by neměly být v ceníkech. Tyto nabídky byly dříve zahrnuty do ceníku v chybě a neměly by být publikovány. Neexistuje žádný plán, který by měl být k dispozici. V budoucnu budou v případě, že jsou přidány zpět, uvedeny jako přidané v budoucích verzích Preview.
+Ceníky na základě licence v prosinci obsahují níže uvedené nabídky, které by neměly být v ceníkech. Tyto nabídky byly dříve zahrnuty do ceníku v chybě a neměly by být publikovány. Neexistuje žádný plán, podle kterého mohou být tyto nabídky k dispozici. V budoucnu budou v případě, že jsou přidány zpět, uvedeny jako přidané v budoucích verzích Preview.
 
    |**Název nabídky**|**ID nabídky**|
    |-------------------|:------|
@@ -96,7 +150,7 @@ Ceníky na základě licence v prosinci obsahují níže uvedené nabídky, kter
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Nesprávná nabídka v matici seznamu nabídek
    
-Níže uvedené nabídky byly v tabulce seznam nabídek chyba. Nejsou k dispozici, zatím neexistuje cílové datum pro dostupnost. Partneři by je měli ignorovat.
+Níže uvedené nabídky byly v tabulce seznam nabídek chyba. Nejsou k dispozici, zatím neexistuje cílové datum pro dostupnost. Partneři by měli tyto položky řádků ignorovat.
 
    |**Název nabídky**|**ID nabídky**|
    |-------------------|:------|
@@ -168,7 +222,7 @@ ______________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-12-3
-- Možnosti
+- Schopnosti
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina 
 
@@ -176,7 +230,7 @@ Partneři prodávající akademické nabídky prostřednictvím programu Cloud S
 
 ### <a name="summary"></a>Shrnutí 
 
-Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat kompatibilní, bezpečné a zabezpečené metody ověřování zákazníků pro účely transakcí akademických nabídek v programu Cloud Solution Provider. V rámci tohoto závazku zavádíme vylepšení rozhraní API partnerského centra a uživatelského rozhraní, které bude přizpůsobovat přehlednost a přehlednost procesu dozvíte ČSFD zákazníka, jakož i možnost zadat přesnější data a zvýšit tak úspěšnost zákazníků dozvíte ČSFD. 
+Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat kompatibilní, bezpečné a zabezpečené metody ověřování zákazníků pro účely transakcí akademických nabídek v programu Cloud Solution Provider. V rámci tohoto závazku zavádíme vylepšení rozhraní API partnerského centra a uživatelského rozhraní, které přináší lepší přehlednost a přehlednost procesu dozvíte ČSFD zákazníka, a také možnost zadat přesnější data, což bude zlepšit úspěšnost zákazníků dozvíte ČSFD. 
 
 **Vylepšení partnerského centra** 
 
@@ -196,7 +250,7 @@ K lepšímu porozumění rozhraním API a zadávání dat potřebných pro úsp�
 
 Kromě výše uvedených vylepšení jsme s radostí oznamujeme, že budeme umožňovat akademické nabídky pro zákazníky s knihovnou a Museum a rozšíříte si zákazníky s vzděláváním, se kterými můžete vyřizovat nabídky služby Transact CSP. 
 
-Společnost Microsoft si vyhrazuje právo zkontrolovat stav každého zákazníka nebo navrženého zákazníka jako kvalifikovaného vzdělávacího uživatele. Úplné podrobnosti najdete v [požadavcích školního uživatele pro vzdělávání](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) . 
+Společnost Microsoft si vyhrazuje právo zkontrolovat stav každého zákazníka nebo navrženého zákazníka jako kvalifikovaného vzdělávacího uživatele. Úplné podrobnosti najdete v článku [požadavky školního uživatele na vzdělávání](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) . 
 
 ### <a name="next-stepsadditional-resources"></a>Další kroky/další zdroje informací
 
