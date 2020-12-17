@@ -738,6 +738,8 @@
     - name: Vyžadování vícefaktorového ověřování u partnerského tenanta
       href: partner-security-requirements-mandating-mfa.md
       displayName: csp
+    - name: Nastavení uživatelů s využitím MFA
+      href: mfa-for-users.md
     - name: Stav požadavků
       href: partner-security-compliance.md
       displayName: csp
