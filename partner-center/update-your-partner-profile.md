@@ -6,15 +6,15 @@ description: Zjistěte, jak ověřit podrobnosti společnosti, například prim�
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 12/16/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 398e02e4d18df9e555a1576e845e1d0e0bdf1105
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636003"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666787"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Ověření informací o profilu organizace v partnerském centru
 
@@ -27,13 +27,13 @@ Při prvním přihlášení do partnerského centra jako globální správce bys
 
 Váš partnerský profil se skládá z vašich obchodních informací, primárního kontaktního jména a e-mailu, programů, ve kterých se vaše společnost účastní, a v případě potřeby i dalších společností, které jsou teď sloučené do vaší právní firmy. Ujistěte se, že název a adresa společnosti ve vašem oficiálním obchodním profilu neobsahují pravopisné chyby a zkratky a přesně odpovídají vašim formálním záznamům o registraci firmy. Pokud pracujete jako jediný vlastník, musíte jako svůj právní název použít název vaší společnosti.
 
-1. Přejít na **Nastavení** a vyberte **Nastavení účtu**.
+1. Přejít na ikonu **Nastavení** a vyberte **Nastavení účtu**.
  
 1. Vyberte možnost **Profil organizace**. 
 
 2. Zkontrolujte svůj **oficiální obchodní profil**, **primární kontaktní údaje** a **informace o programu**.
 
-Pokud jste své jiné společnosti sloučili v rámci svého právního podnikání, můžete si prohlédnout i příslušné informace. 
+Pokud jste své jiné společnosti sloučili v rámci svého právního podnikání, můžete si také projít tyto informace. 
 
 ## <a name="update-your-legal-business-profile"></a>Aktualizujte svůj oficiální obchodní profil.
 
@@ -67,10 +67,10 @@ Aktualizace ID MPN přidruženého k vašemu účtu CSP:
 
 1. Přihlaste se k řídicímu panelu partnerského centra a pak vyberte **Nastavení**.
  
-1. Z **Nastavení účtu** vyberte **identifikátory**.
+1. V **Nastavení účtu** vyberte **identifikátory** .
 
-1. V části **CSP** použijte odkaz **aktualizace** k aktualizaci ID MPN přidruženého k vašemu účtu CSP.
- 
+1. V části **CSP** použijte odkaz **aktualizace** k aktualizaci ID MPN přidruženého k vašemu účtu CSP. 
+
 
 ## <a name="update-your-billing-address"></a>Aktualizace fakturační adresy
 

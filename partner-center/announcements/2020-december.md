@@ -8,19 +8,110 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/02/2020
-ms.openlocfilehash: c546885d74f5959dd02c0c7ce0fdbc22f9ff5313
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.date: 12/17/2020
+ms.openlocfilehash: 0712c2b8aa3a22dd4a6f327759c383257cb6605a
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97635986"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666770"
 ---
 # <a name="december-2020-announcements"></a>Oznámení z prosince 2020
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu za listopadu 2020.
 
 2020 oznámení: [duben](2020-april.md)v  |  [](2020-may.md)  |  [](2020-june.md)  |  [červenci](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [listopad](2020-november.md) – září Použitelnost
+
+______________
+
+## <a name="perpetual-software-in-csp--new-products-and-geographies"></a><a name="10"></a>Trvalá softwarová technologie CSP: nové produkty a geografické oblasti
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-12-17
+- Nabídky
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Poskytovatelé přímého vyúčtování CSP, nepřímá poskytovatelé a nepřímo prodejci
+
+### <a name="details"></a>Podrobnosti
+
+Vzhledem k tomu, že jsme vylepšili naše možnosti obchodování a poskytovali zákazníkům a partnerům lepší možnosti nákupu, rozšíříme portfolio nabídek, aby zahrnovalo dostupnost trvalých softwarových licencí v rámci programu Cloud Solution Provider (CSP). Přidání licencí softwaru v rámci CSP umožňuje zúčastněným partnerům soustředit se na poskytování různých řešení a spravovaných služeb zákazníkům. Umožňuje také převod zákazníků do cloudu a poskytuje partnerům flexibilitu, kterou potřebují pro hybridní cloudová prostředí.
+
+Od 19. ledna 2021 společnost Microsoft umožní všem partnerům s přímým účtováním CSP, nepřímým poskytovatelům a nepřímým prodejcům prodávat licence na software v rámci programu CSP a přidáme také další produkty a geografické oblasti. 
+
+Úplné podrobnosti o trvalém softwaru ve zprostředkovateli CSP najdete v článku kolekce připravenosti:  [trvalého softwaru v programu Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/).
+
+### <a name="products"></a>Produkty
+
+Tyto další produkty se zobrazí v seznamu cen CSP 2021, který se bude publikovat 19. ledna 2020.  Toto bude opětovná publikace počátečního ceníku CSP 2021 od 1. ledna 2021.
+
+- Exchange Server Enterprise 2019
+- Licence CAL zařízení Exchange Server Enterprise 2019
+- Licence User CAL pro Exchange Server Enterprise 2019
+- Exchange Server Standard 2019
+- Licence CAL zařízení Standard 2019 Exchange Server Standard
+- Exchange Server Standard 2019 User CAL
+
+### <a name="geographies"></a>Zeměpisné oblasti
+
+Další geografické oblasti dostupné od 19. ledna 2021 k trvalému softwaru v CSP zahrnují:
+
+|**Dostupná geografická oblast**|| | |
+|-----------------------------|-------------------------------|------------|----------------------|
+|Ázerbájdžán|Bělorusko|Benin|Bhútán|
+|Bonaire, Sint Eustach a Saba|Bouvetův ostrov|Brazílie|
+|Britské indickooceánské území|Burkina Faso|Burundi|Kambodža|
+|Středoafrická republika|Čad|Vánoční ostrov|Kokosové ostrovy|
+|Komory|Kongo|Konžská demokratická republika|Cookovy ostrovy|
+|Džibutsko|Rovníková Guinea|Eritrea|Falklandské ostrovy|
+|Francouzská Guyana|Francouzská Polynésie|Francouzská jižní území|Gabon|
+|Gambie|Gruzie|Gibraltar|Grónsko|
+|Grenada|Guadeloupe|Guam|Guernsey|
+|Guinea|Guinea-Bissau|Haiti|Heardův ostrov a McDonaldovy ostrovy|
+Svatý stolec|Maďarsko|Indie|Irák|
+|Ostrov Man|Jersey|Kazachstán|Kiribati|
+|Korejská republika|Kyrgyzstán|Libérie|Madagaskar|
+|Malawi|Maledivy|Mali|Marshallovy ostrovy|
+|Martinik|Mauritánie|Mayotte|Mikronésie (federované státy)|
+|Moldavsko|Mongolsko|Montserrat|Mosambik|
+|Myanmar|Nauru|Nizozemské Antily|Nová Kaledonie|
+|Niger|Niue|Norfolk|Severní Mariany|
+|Palau|Papua-Nová Guinea|Pitcairn|Polsko|
+|Katar|Réunion|Rusko|Svatý Bartoloměj|
+|Svatá Helena, Ascension a Tristan da Cunha|Svatá Lucie|Svatý Martin (Francouzská část)|Saint Pierre a Miquelon|
+|Svatý Vincenc a Grenadiny|Samoa|San Marino|Svatý Tomáš a Princův ostrov|
+|Saúdská Arábie|Seychely|Sierra Leone|Svatý Martin (dánská část)|Šalamounovy ostrovy|
+|Somálsko|Jižní Afrika|Jižní Georgie a Jižní Sandwichovy ostrovy|Jižní Súdán|
+|Surinam|Špicberky a Jan Mayen|Svazijsko|Tchaj-wan|
+|Tádžikistán|Thajsko|Timor Leste|Togo|
+|Tokelau|Tonga|Turecko|Turkmenistán|
+|Ostrovy Turks a Caicos|Tuvalu|Ukrajina|USA menší odlehlé ostrovy|
+|Uzbekistán|Vanuatu|Venezuela|Vietnam|
+|Britské Panenské ostrovy|Wallis a Futuna
+
+
+____________
+
+## <a name="government-academic-and-non-profit-continuing-the-open-license-program-changes-and-evolution-of-csp"></a><a name="9"></a>Státní správa, akademická a nezisková: pokračující změny Open License programu a vývoj CSP
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-12-17
+- Rozšiřte svou firmu
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všichni partneři CSP
+
+### <a name="details"></a>Podrobnosti
+
+Až v dnešní době i nadále [prioritou cloudu](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/), poskytujeme oznámení o budoucích změnách pro zákazníky veřejného sektoru (státní, vzdělávací a neziskové), které se kupují prostřednictvím Open License programu, a také související změny v programu Cloud Solution Provider.
+
+### <a name="next-steps"></a>Další kroky
+
+Úplné oznámení je dostupné jenom pro partnery Microsoftu. [Přihlaste se, abyste měli přístup k celému oznámení](https://partner.microsoft.com/resources/detail/public-sector-open-license-csp-evolution-to-a-better-experience-pc-announcement-pdf).
 
 ______________
 
