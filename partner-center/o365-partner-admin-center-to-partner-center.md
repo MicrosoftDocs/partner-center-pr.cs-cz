@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527047"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720811"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Partnerská centra pro správu Office 365 – Příprava na přesun obchodních operací do partnerského centra
 
@@ -36,9 +36,7 @@ Do partnerského centra přinášíme funkce centra pro správu Office 365, kter
 - Posílání pozvánek vztahů zákazníkům jménem sebe a poskytovatele
 - Snadnější správa jednotlivých uživatelů a snazší přiřazování licencí
 
-Pro spoustu úloh, které aktuálně používáte v centru pro správu partnerů Office 365, můžete hned začít používat partnerské Centrum pro. 
-
-V současné době jsou podporovány obě lokality, takže když provádíte přechod na novou lokalitu, budete moct dál používat centrum pro správu Office 365. Všechny změny, které provedete v jednom umístění, se zobrazí v obou.
+Pro všechny úlohy, které aktuálně využijete v centru pro správu partnerů pro Office 365, budete přesměrováni přímo do partnerského centra.
 
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Vyhledání funkcí centra pro správu partnerů Office 365 v partnerském centru
 
@@ -46,9 +44,9 @@ Dokončení úloh v partnerském centru se provádí odlišně v tom, co jste po
 
 | Funkce centra pro správu partnerů Office 365                       | Kde se nachází v partnerském centru? | 
 |   -----------------------------------------------  | -------------- |
-| Sestavte svou firmu: vytvořit nabídku nákupu | Spolupracovat se svým poskytovatelem a prodávat nabídky vašim zákazníkům |
+| Sestavte svou firmu: vytvořit nabídku nákupu | Partnerské centrum: zkušební a nákupní nabídky > vytvořit nabídku nákupu |
 | Sestavujte své podnikání: Vyžádejte si oprávnění delegovaného správce. | Partnerské centrum: zákazníci, kteří > požádat o vztah prodejce |
-| Sestavování firmy: vytváření zkušebních pozvánek | Není k dispozici. K tomu můžete i nadále používat centrum pro správu pro Office 365. |
+| Sestavování firmy: vytváření zkušebních pozvánek | Partnerské centrum: zkušební a nákupní nabídky > vytvořit pozvánku k vyzkoušení |
 | Žádosti o služby: seznam klientů: centrum pro správu Office 365 | Partnerské centrum: zákazníci > spravovat služby |
 | Žádosti o služby: seznam klientů: žádosti o služby | Partnerské centrum: žádosti o službu > žádosti zákazníků |
 | Žádosti o služby: označeno příznakem | Řídicí panel: zákazníci: vyberte hvězdičku vedle názvu společnosti. |

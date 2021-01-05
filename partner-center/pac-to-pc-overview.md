@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527733"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720828"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Centrum pro správu partnera se přesouvá do partnerského centra
 
@@ -41,13 +41,10 @@ Během dubna 2018 se odstraní PAC a partneři CSP se začnou automaticky přesm
 
 - Partneři poskytovatele cloudových řešení: Pokud jste partner CSP, automaticky vás přesměrujeme na partnerské Centrum od dubna 2018.
 
-- Partneři služby Advisor (Pokud nepoužíváte Nástroj pro zápis přes CSP a k poskytování zkušebních verzí/nabídek pro vaše zákazníky): Jakmile se rozhodnete na časové ose pro automatické přesměrování do partnerského centra, pošleme vám oznámení.
+- Partneři služby Advisor (Pokud nepoužíváte Nástroj pro zápis přes CSP a k poskytování zkušebních verzí/nabídek pro vaše zákazníky): Pokud jste partnerem služby Advisor, budeme vás automaticky přesměrovat na partnerské Centrum od června 2020.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Začněte používat partnerské Centrum Microsoftu hned teď!
 
 Začněte používat [Partnerské centrum Microsoftu](https://partnercenter.microsoft.com/) a připravte se na přechod z PAC.  Pro partnerské Centrum, které používáte pro PAC, použijete stejné přihlašovací údaje.
 
-> [!IMPORTANT]  
-> Některé funkce a funkce, které byly k dispozici v PAC, nebudou k dispozici v partnerském centru.
-
- Přečtěte si [Souběžné porovnání](moving-from-pac-to-pc.md) a seznámení s těmito změnami a jejich pochopení. 
+Přečtěte si [Souběžné porovnání](moving-from-pac-to-pc.md) a seznámení s těmito změnami a jejich pochopení.

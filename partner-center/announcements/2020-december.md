@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: 0712c2b8aa3a22dd4a6f327759c383257cb6605a
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666770"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736532"
 ---
 # <a name="december-2020-announcements"></a>Oznámení z prosince 2020
 
@@ -22,75 +22,148 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 
 2020 oznámení: [duben](2020-april.md)v  |  [](2020-may.md)  |  [](2020-june.md)  |  [červenci](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [listopad](2020-november.md) – září Použitelnost
 
-______________
+________________
 
-## <a name="perpetual-software-in-csp--new-products-and-geographies"></a><a name="10"></a>Trvalá softwarová technologie CSP: nové produkty a geografické oblasti
+## <a name="unused-channel-incentive-co-operative-marketing-fund-co-op-funds-from-the-fy21-h1-usage-period-to-be-rolled-over-to-the-h2-usage-period"></a><a name="13"></a>Nevyužité prostředky marketingového fondu s motivací, které jsou v období využití FY21 H1, se převádějí do období použití H2.
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2020-12-17
+- Datum: 2020-12-22
 - Nabídky
+
+### <a name="summary"></a>Shrnutí
+
+Nepoužívané souběžné fondy pro dobu využití FY21 H1 (od 1 do 31. prosince 2020) se nasadí do doby použití FY21 H2 (1. června 2021).
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Poskytovatelé přímého vyúčtování CSP, nepřímá poskytovatelé a nepřímo prodejci
+Partneři účastnící se poskytovatele Cloud Solution Provider (CSP), nepřímý poskytovatel a INDIRECT prodejci pro motivaci
 
 ### <a name="details"></a>Podrobnosti
 
-Vzhledem k tomu, že jsme vylepšili naše možnosti obchodování a poskytovali zákazníkům a partnerům lepší možnosti nákupu, rozšíříme portfolio nabídek, aby zahrnovalo dostupnost trvalých softwarových licencí v rámci programu Cloud Solution Provider (CSP). Přidání licencí softwaru v rámci CSP umožňuje zúčastněným partnerům soustředit se na poskytování různých řešení a spravovaných služeb zákazníkům. Umožňuje také převod zákazníků do cloudu a poskytuje partnerům flexibilitu, kterou potřebují pro hybridní cloudová prostředí.
+Na našich partnerech a jejich zákaznících uznáváme pokračující dopad těchto náročných časů. Pokud chcete partnerům poskytnout větší flexibilitu, udělujeme jednorázovou výměnu nepoužívaných prostředků souběžného plnění z aktuální doby využití FY21 H1, která běží od 1. července do 31. prosince 2021. Prostředky pro souběžné plnění se neúčtují jako součást výnosů v rámci svého podnětu a dají se uplatnit na vhodné aktivity marketingu, generování poptávky a připravenosti.
 
-Od 19. ledna 2021 společnost Microsoft umožní všem partnerům s přímým účtováním CSP, nepřímým poskytovatelům a nepřímým prodejcům prodávat licence na software v rámci programu CSP a přidáme také další produkty a geografické oblasti. 
+Díky této výměně nevyužitých prostředků, které jsou ve vašem účtu, zbývá po uzavření období s deklarací H1 H1 použít k oprávněným aktivitám v rámci FY21 H2, který se spouští od 1. ledna do 30. června 2021.  
 
-Úplné podrobnosti o trvalém softwaru ve zprostředkovateli CSP najdete v článku kolekce připravenosti:  [trvalého softwaru v programu Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/).
+Deklarace identity musí být odeslané prostřednictvím nástroje partner Center [deklarací identity](https://partner.microsoft.com/dashboard/incentives/claims/web/) do 45 dnů od dokončení aktivity a budou přijaté až do 15. srpna 2021.
 
-### <a name="products"></a>Produkty
+Zůstatek souběžnosti můžete na [řídicím panelu příjmů](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)v partnerském centru kontrolovat. Další informace o způsobilých aktivitách, jejich odesílání a dalších najdete v tématu [shromažďování prostředků pro souběžnou](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) podporu na webu partnera Microsoftu.
 
-Tyto další produkty se zobrazí v seznamu cen CSP 2021, který se bude publikovat 19. ledna 2020.  Toto bude opětovná publikace počátečního ceníku CSP 2021 od 1. ledna 2021.
+### <a name="next-steps"></a>Další kroky
 
-- Exchange Server Enterprise 2019
-- Licence CAL zařízení Exchange Server Enterprise 2019
-- Licence User CAL pro Exchange Server Enterprise 2019
-- Exchange Server Standard 2019
-- Licence CAL zařízení Standard 2019 Exchange Server Standard
-- Exchange Server Standard 2019 User CAL
+- Pokračujte v řízení marketingu, generování poptávky a úsilí o připravenost a odešlete deklarace identity pro oprávněné aktivity do 45 dnů od dokončení.
+- Pravidelně kontrolujte svůj zůstatek účtu souběžného nastavování, abyste měli jistotu, že použijete celou částku na konci období použití H2 dne 30. června 2021.
 
-### <a name="geographies"></a>Zeměpisné oblasti
+### <a name="questions"></a>Máte otázky?
 
-Další geografické oblasti dostupné od 19. ledna 2021 k trvalému softwaru v CSP zahrnují:
+Doporučené kroky a články věnované samoobslužným nápovědu pro otázky týkající se pobídky najdete na domovské stránce centra hledání na domovské stránce partnerského centra. Pokud potřebujete další pomoc, můžete vytvořit [žádost o podporu](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) přímo v partnerském centru. Další informace najdete na adrese [aka.MS/IncentivesSupport](https://aka.ms/IncentivesSupport).
 
-|**Dostupná geografická oblast**|| | |
-|-----------------------------|-------------------------------|------------|----------------------|
-|Ázerbájdžán|Bělorusko|Benin|Bhútán|
-|Bonaire, Sint Eustach a Saba|Bouvetův ostrov|Brazílie|
-|Britské indickooceánské území|Burkina Faso|Burundi|Kambodža|
-|Středoafrická republika|Čad|Vánoční ostrov|Kokosové ostrovy|
-|Komory|Kongo|Konžská demokratická republika|Cookovy ostrovy|
-|Džibutsko|Rovníková Guinea|Eritrea|Falklandské ostrovy|
-|Francouzská Guyana|Francouzská Polynésie|Francouzská jižní území|Gabon|
-|Gambie|Gruzie|Gibraltar|Grónsko|
-|Grenada|Guadeloupe|Guam|Guernsey|
-|Guinea|Guinea-Bissau|Haiti|Heardův ostrov a McDonaldovy ostrovy|
-Svatý stolec|Maďarsko|Indie|Irák|
-|Ostrov Man|Jersey|Kazachstán|Kiribati|
-|Korejská republika|Kyrgyzstán|Libérie|Madagaskar|
-|Malawi|Maledivy|Mali|Marshallovy ostrovy|
-|Martinik|Mauritánie|Mayotte|Mikronésie (federované státy)|
-|Moldavsko|Mongolsko|Montserrat|Mosambik|
-|Myanmar|Nauru|Nizozemské Antily|Nová Kaledonie|
-|Niger|Niue|Norfolk|Severní Mariany|
-|Palau|Papua-Nová Guinea|Pitcairn|Polsko|
-|Katar|Réunion|Rusko|Svatý Bartoloměj|
-|Svatá Helena, Ascension a Tristan da Cunha|Svatá Lucie|Svatý Martin (Francouzská část)|Saint Pierre a Miquelon|
-|Svatý Vincenc a Grenadiny|Samoa|San Marino|Svatý Tomáš a Princův ostrov|
-|Saúdská Arábie|Seychely|Sierra Leone|Svatý Martin (dánská část)|Šalamounovy ostrovy|
-|Somálsko|Jižní Afrika|Jižní Georgie a Jižní Sandwichovy ostrovy|Jižní Súdán|
-|Surinam|Špicberky a Jan Mayen|Svazijsko|Tchaj-wan|
-|Tádžikistán|Thajsko|Timor Leste|Togo|
-|Tokelau|Tonga|Turecko|Turkmenistán|
-|Ostrovy Turks a Caicos|Tuvalu|Ukrajina|USA menší odlehlé ostrovy|
-|Uzbekistán|Vanuatu|Venezuela|Vietnam|
-|Britské Panenské ostrovy|Wallis a Futuna
+________________
 
+## <a name="docusign-migration-to-adobe-sign-in-2021-for-partners-who-have-microsoft-partner-agreements-mpas"></a><a name="12"></a>DocuSign migrace do Adobe Signing 2021 pro partnery, kteří mají partnerské smlouvy Microsoftu (MPAs)
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-12-22
+- Možnosti – vylepšuje zabezpečení & dodržování předpisů
+
+### <a name="summary"></a>Shrnutí
+
+Microsoft převede všechny e-mailové zpracování podpisů z DocuSign na symbol Adobe.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři poskytovatele Cloud Solution Provider (CSP) s smlouvami o partnerech Microsoftu (MPAs)
+
+### <a name="details"></a>Podrobnosti
+
+Adobe signed je preferované řešení elektronické signatury Microsoftu (ESS) od Microsoftu. V lednu 2021 začne Microsoft přecházet všemi elektronickými zpracováními podpisů z DocuSign na symbol Adobe počínaje MPAs. Měli byste očekávat hladký přechod. Po migraci obdržíte e-maily z [adobesign@adobesign.com](mailto:adobesign@adobesign.com) účtu, který vám poskytne odkaz na nové podpisové prostředí. Pro dosažení co nejlepších výsledků přidejte [adobesign@adobesign.com](mailto:adobesign@adobesign.com) do seznamu Bezpeční odesílatelé.
+
+Přechod na symbol Adobe zajišťuje zabezpečené a efektivní prostředí elektronického podpisu, které našim zákazníkům a partnerům poskytne větší hodnotu. Další informace týkající se plánů migrace účtů získáte v lednu 2021. ledna.  
+
+### <a name="next-steps"></a>Další kroky
+
+Tyto informace sdílejte s příslušnými zúčastněnými stranami ve vaší organizaci. Do ledna 2021 budeme posílat další informace týkající se migrace.
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud máte nějaké dotazy, obraťte se na centrum pro místní provoz pomocí nástroje pro protokolování volání (CLT) na [https://clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) nebo prostřednictvím [Explore.MS](https://www.explore.ms/publichome.aspx). Sledujte standardní proces CLT, abyste mohli co nejrychleji vyřešit váš dotaz.
+
+______________
+
+## <a name="january-2021-pricing-and-catalog-schedules"></a><a name="11"></a>Ceny a plány katalogu z ledna 2021
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-12-22
+- Možnosti
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Přímé faktury a nepřímo poskytovatelé účastnící se v programu Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Podrobnosti
+
+Aktualizace cen a katalogu partnerského centra obvykle naplánované k tomu, aby probíhaly v prvním měsíci, budou mít mírné změny v plánu od ledna 2021. Všechny cenové soubory budou k dispozici obvyklým způsobem, který je k dispozici 31. prosince 2020, a to přibližně v 18:00 tichomořského standardního času (PST). Níže uvedené aktualizace, které obvykle probíhají v prvním měsíci, budou mírně zpožděny. 
+
+- Ceníky na základě využití Azure se budou zpozdit až do konce pracovního dne 4. ledna 2021. Cenové soubory založené na využití Azure od 1. ledna 2021 budou mít jenom ceny až do prosince 21 2020. 4. ledna se soubory aktualizují.
+- Soubory s cenami na základě licence budou aktuální od 1. ledna 2021, ale mírně se zpoždění, dokud nebudou v katalogu k dispozici žádné nové nabídky k nákupu. Aktualizace katalogu na základě licencí se plánuje 5. ledna 2021 17:00 PST. 
+
+Mějte na paměti, že všechny ostatní soubory ceníku jsou naplánované tak, aby byly dostupné v obvyklém plánu, a to stačí, když výše uvedené dvě dodávky budou mírně zpožděné.
+
+### <a name="next-steps"></a>Další kroky
+
+V souhrnu budou následující soubory s cenami k dispozici obvyklým způsobem od 31. prosince 2020 na přibližně 18:00 PST:
+
+- Soubory ceníku založené na licencích a matice seznamu nabídek
+- Cenové soubory založené na využití, ale jenom s aktualizacemi až do 21. prosince 2020
+- Ceníky rezervací na základě využití
+- Ceníky předplatných softwaru
+- Seznamy ceníků trvalého softwaru
+- Ceníky pro spotřebu plánu Azure
+- Ceníky rezervací plánu Azure
+- Tarify pro cizí Exchange s využitím plánu Azure
+
+Následující soubor cen bude aktualizován souborem 18:00 PST 4. ledna 2021:
+
+- Cenové soubory na základě využití
+
+Katalog partnerského centra se aktualizuje s aktualizacemi z ledna 2021 od 5. ledna 2021 v 18:00 PST.
+ 
+______________
+
+## <a name="microsoft-365-apps-and-services-support-of-internet-explorer-11-and-microsoft-edge-legacy-announcement"></a><a name="10"></a>Podpora aplikací Microsoft 365 Apps a služeb pro Internet Explorer 11 a Microsoft Edge – oznámení starší verze
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2020-12-21
+- Možnosti
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Správci IT, IT pracovníci IT, ředitelé informačních pracovníků a koncoví uživatelé
+
+### <a name="details"></a>Podrobnosti
+
+Microsoft 365 předplatitelé v obou spotřebitelských i obchodních kontextech budou dobře obsluhováni s touto změnou prostřednictvím rychlejšího a většího reakce na webový přístup k více sadám funkcí v každodenních sadách nástrojů, jako je Outlook, týmy, SharePoint a další.
+
+Nový Microsoft Edge je náš nejlepší výraz pro moderní prohlížeč a myslíme se na to, že se na něj zákazníci setkávají. Teď, když jsme poslali nové Microsoft Edge a upgradovali jsme většinu našich zákazníků s Windows 10 do nového prohlížeče, končíme podporu pro desktopovou aplikaci Microsoft Edge starší verze.
+
+**Dopad změny**
+
+- Od **listopadu 30 2020** se zákazníci už nebudou moci připojit k webové aplikaci Microsoft Teams v Internet Exploreru 11. Microsoft se domnívá, že zákazníci budou mít na maximum Microsoft 365 a nejlepší výraz pro moderní prohlížeč při použití [nového Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+- Od **března 9 2021** budou aplikace a weby vytvořené pro starší verze Microsoft Edge nadále fungovat v novém Microsoft Edge, ale pokud dojde k potížím s kompatibilitou, bude mít aplikace k dispozici [příslib](https://aka.ms/appassure) k zajištění podpory.
+- Od **srpna 17 2021** budou mít zákazníci zhoršené prostředí nebo se nebudou moci připojit k Microsoft 365 aplikacím a službám v Internet Exploreru 11. Microsoft se domnívá, že zákazníci budou mít na maximum Microsoft 365 a nejlepší výraz pro moderní prohlížeč při použití [nového Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+
+### <a name="next-steps"></a>Další kroky
+
+- Přečtěte si Blogový příspěvek, který vám pomůže porozumět podrobnostem o oznámení.
+- Tuto příležitost můžete využít k tomu, abyste se mohli obrátit na své partnery, abyste mohli nasadit nové Microsoft Edge.
+- Další zdroje informací a další informace: hraniční nasazení na [YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) nebo [Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+
+### <a name="questions"></a>Dotazy
+
+Kontaktujte [tým komerčního hledání GTM](mailto:CommercialSearchGTM@microsoft.com?subject=Internet%20Explorer%2011%20and%20Microsoft%20Edge%20legacy%20announcement) a vyhledejte případné dotazy.
 
 ____________
 
@@ -99,7 +172,7 @@ ____________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-12-17
-- Rozšiřte svou firmu
+- Podpora růstu vaší firmy
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
@@ -189,7 +262,7 @@ ______________
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2020-12-17
-- Rozšiřte svou firmu
+- Podpora růstu vaší firmy
  
 ### <a name="summary"></a>Shrnutí
 
@@ -295,16 +368,16 @@ Podrobnosti o nabídce níže pro tuto nabídku najdete v tabulce seznamu nabíd
 
 - ID zřizování: POWERAPPS_PER_APP
 - Doba trvání: 1 rok
-- Četnost fakturace: měsíčně; Ročně
+- Četnost fakturace: měsíčně nebo ročně
 - Minimální počet sedadel: 200
 - Maximální počet pracovních míst: 10000000
 - Limit nabídky: žádné
-- Povolené země: odlehlé ostrovy USA; Angličtina (Francouzská jižní území); Bouvet; Britské území v Indickém oceánu; Jemen Heardův and Mc Donald ostrovy; Wallis a Futuna; Vanuatu Antarktida Tuvalu Somálsko Tokelau Sierra Leone; Svazijsko Svatá Helena, ascension, Tristan da Cunha; Svatý Tomáš a Princův ostrov; Pitcairnovy ostrovy; Palau Šalamounovy ostrovy; Nauru Niue Ostrov Norfolk; Mauritánie Severní Mariany; Lesotho Rybolovné Rovníková Guinea; Guinea-Bissau; Cookovy ostrovy; Eritrea Vánoční ostrov; Burkina Faso; Středoafrická republika; Kosovo Kokosové (Keelingovy) ostrovy; Svalbard a Jan Mayen; Ostrovy Aland; Jižní Súdán; Jižní Georgie a Jižní Sandwichovy ostrovy Samoa Svatý Bartoloměj; Britské Panenské ostrovy; Saint-Pierre a Miquelon; Čad Niger Montserrat Guyana Haiti Gambie Guam Perliček Gabon Grenada Gibraltar Guernsey Libérie Mikronésie Falklandské ostrovy; Dominika; Džibutsko; Svahilština Konžská demokratická republika; Zimbabwe Americká Samoa; Zambie Jihoafrická Afrika; Mayotte Vietnamu Svatý Vincenc a Grenadiny, Americké Panenské ostrovy; Venezuelsk Svatý stolec (Vatikán); Ukrajinou Uganda Uzbekistán USA; Uruguay Oblasti Hongkongské Trinidad a Tobago; Turecko Tunisko Tonga Timor Leste; Turkmenistán Tádžikistán Thajsku Togo Salvador; Svatý Martin; Ostrovy Turks a Caicos; Surinam Singapurský Slovinsku Síť San Marino; Senegal Slovensko Švédštin Seychel Saúdská Arábie; Republika Rwanda Rusko Rumunskem Réunion Katar Paraguay Portugalskem Filipíny Palestinská území, obsazená; Republikou Portoriko; Bere Venezuelsk Panama Papua – Nová Guinea; Francouzská Polynésie; Nový Zéland; Omán; Nepálu Nizozemska Norsko Niger Nikaragua Nová Kaledonie; Namibie Mosambik Malajsk Mexické Martinik Malawi Maledivy Mauricius Malta Le Macao – zvláštní správní oblast; Mongolsko Mali Madagaskaru Marshallovy ostrovy; Makedonie – BRJ; Hoře Svatý Martin; Schválit Monako Moldavsko Lotyšska Libye Lucembursko Libanonu Svatá Lucie; Litva Srí Lanka; Kajmanské ostrovy; Lichtenštejnsko Laoská Kazachstán Kuvajt North Komory Kambodža Svatý Kryštof a Nevis; Keňa Kyrgyzstán Japonsko Jordánsko Jamajka Jersey; Itálie; Island; Irák; Irsko; Indie; Indonésie; ostrov Man; Honduras; Izrael; Maďarsk Hongkong – zvláštní správní oblast; Chorvatská Guatemala Řeck Guadeloupe Francouzská Guyana; Grónsko Ghana Faerské ostrovy; Spojené království; Gruzie Francouzský Fidži Etiopie Finsko Španělskem Egyptsk Estonsko Ekvádor; Dominikánská republika; Alžírský Německo, Dánsko; Kypr Česká republika; Curaçao Kapverdské Verde; Kostarika; Chile Kamerun Kolumbie Pobřeží slonoviny; Kanada Švýcarskem Belize Bělorusko Botswana Bhútán Bahamy Bonaire, Sint Eustach a Saba; Brazilské Benin Sultanát Bermudy Bolívie Belgie Přípravu Bahrajn Burundi Bosna a Hercegovina; Bangladéš Barbados Ázerbájdžánu Aruba Austrálie Argentina Rakousko Pásm Poskytne Afghánistán Albánii Anguilla Andorra Spojené arabské emiráty; Antigua a Barbuda
+- Povolené země: odlehlé ostrovy USA, angličtina (Francouzská jižní teritoria), Bouvet – ostrov, Britské území v Indickém oceánu, Jemen, Heardův and Mc Donald ostrovy, Wallis a Futuna, Vanuatu, Antarktida, Tuvalu, Somálsko, Tokelau, Sierra Leone, Svazijsko, Svatá Helena, ascension, Tristan da Cunha, SÃ ł o TomÃ © a PrÃncipe, Pitcairnovy ostrovy, Palau, Šalamounovy ostrovy, Nauru, Niue, ostrov Guiney, Guinea-Bissau , Cookovy ostrovy, Eritrea, Vánoční ostrov, Burkina Faso, Středoafrická republika, Kosova, Kokosové ostrovy (Keeling), Svalbard a Jan Mayen, Ã... pozemní ostrovy, Jižní Súdán, Jižní Georgie a Jižní Sandwichovy ostrovy, Samoa, Svatý BarthÃ © lemy, Britské Panenské ostrovy, Saint Pierre a Miquelon, Čad, Niger, Montserrat, Guyana, Haiti, Gambie, Guam, Guinea, Gabon, Grenada, Gibraltar, Guernsey, Libérie, Mikronésie, Falklandské ostrovy, Dominika, Džibutsko, Konžská demokratická republika, Zimbabwe, Americká Samoa, Zambie, Jižní Afrika, Mayotte, Svatý Vincent a Grenadiny, USA (Vatikán) , Ukrajina, Uganda, Uzbekistán, USA, Uruguay, Tanzanie, Tchaj-wan, Trinidad a Tobago, Turecko, Tunisko, Tonga, Východní Timor, Turkmenistán, Tádžikistán, Thajsko, Togo, Salvador, Sint Martin, Turks a Caicos, Surinam, Singapur, Slovinsko, San Marino, Senegal, Slovensko, Švédsko, Seychely, Saúdská Arábie, Srbsko, Rwanda, Srbsko, Rumunsko, RÃ © unie, Katar, Paraguay, Portugalsko, palestinská Nová Guinea, Francouzská Polynésie , Nový Zéland, Omán, Nepál, Nizozemsko, Norsko, Nigérie, Mexiko, Nikaragua, Nová Kaledonie, Namibie, Mosambik, Malajsie, Mexiko, Martinik, Malawi, Maledivy, Mauricius Malta, Myanmar, Macao – zvláštní administrativní oblast, Mongolsko, Mali, Madagaskar, Marshallovy ostrovy, Makedonie, BRJ, Jižní hory, Svatý Martin, Maroko, Malta, Moldavsko, Lotyšsko, Lucembursko, Lucembursko, Maďarsko, Lichtenštejnsko, Malta, Lotyšsko, Lotyšsko, Lotyšsko, Lotyšsko, Lotyšsko, Kuvajt, Jugoslávie , Jamajka, Jersey, Itálie, Island, Irák, Irsko, Indie, Indonésie, ostrov Man, Honduras, Izrael, Maďarsko, Hongkong – zvláštní správní oblast, Chorvatsko Guatemala, Řecko, francouzština, francouzština, Grónsko, Kypr, Faerské ostrovy, Spojené království, Gruzie, Francie, ostrovy, Etiopie, Finsko, Španělsko, Egypt, Estonsko, Dominikánská republika, Rakousko, Německo, Švýcarsko, Kolumbie, Kolumbie, CuraÃ § Ao, mysu Verde, Kostarika, Chile, Kamerun, Kolumbie, CÃ ́te dâ €™ Ivoire, Kanada, Švýcarsko , Belize, Bělorusko, Botswana, Bhútán, Bahamy, Bonaire, Sint Eustach a Saba, Brazílie, Benin, Bělorusko, Bermudy, Bolívie, Belgie, Bulharsko, Bahrajn, Burundi, Bosna, Rakousko, Egypt, Barbados, Ázerbájdžán, Aruba, Austrálie, albánsk, Spojené arabské emiráty, Antigua a Barbuda
 
 ### <a name="next-steps"></a>Další kroky
 
 - Propagační nabídka bude k dispozici v 1. lednu 2021 oficiální licence pro partnerské Centrum CSP – základní Ceník a seznam nabídek. 
-- Dotazy nebo další informace o tomto povýšení se dají zveřejnit na [oznámení komunity Microsoftu](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
+- Dotazy týkající se tohoto povýšení se dají zveřejnit na [oznámení komunity Microsoftu](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
 
 ______________
 
@@ -355,7 +428,7 @@ ______________
 
 ### <a name="summary"></a>Shrnutí 
 
-Ceník založený na licencích a seznam nabídek v prosinci 2020 obsahuje několik problémů.
+V tabulce ceníku na základě licence a seznamu nabídek v prosinci 2020 se nachází několik problémů.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina 
 
@@ -375,7 +448,7 @@ Ceníky na základě licence v prosinci obsahují níže uvedené nabídky, kter
    |Dynamics 365 lidské zdroje připojit k opravňující nabídce Dynamics 365 Base (ceny za neziskové ceny)|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
    |Dynamics 365 lidské zdroje připojit k opravňujícímu Dynamics 365 Base nabídky (nabídka neziskových cen) (kvalifikovaná nabídka)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
    |Dynamics 365 lidské zdroje – Sandbox (ceny nezisků)|079ec5ba-d726-4384-95af-62d135c210d2|
-   |Samoobslužné služby pro lidské zdroje v Dynamics 365 (ceny nezisků)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
+   |Self-Service lidských zdrojů v Dynamics 365 (ceny nezisků)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
    |Operace Dynamics 365 – řádky objednávky (ceny nezisků)|7dd6b78a-3d53-47f8-8a64-bd84609a9a70|
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Nesprávná nabídka v matici seznamu nabídek

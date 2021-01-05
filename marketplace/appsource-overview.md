@@ -6,18 +6,18 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5769326965955762d2c262fd42a099cf745417e6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
+ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007484"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "97771688"
 ---
 # <a name="what-is-microsoft-appsource"></a>Co je Microsoft AppSource?
 
 Microsoft AppSource je online obchod s tisíci obchodními aplikacemi a službami sestavenými špičkovými poskytovateli softwaru. AppSource můžete použít k vyhledání, zkoušení, nákupu a nasazení podnikového softwaru a služeb, které vám pomůžou provozovat vaše podnikání.
 
-Katalog AppSource zahrnuje aplikace typu software jako služba (SaaS), řešení vytvořená pro Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps a konzultační služby od partnerů Microsoftu. K katalogu produktů AppSource můžete přistupovat na i [https://appsource.microsoft.com](https://appsource.microsoft.com) prostřednictvím prostředí v produktu Microsoft 365, Dynamics 365 a Microsoft Power Platform. Řešení z AppSource můžou být od prodejců Microsoftu k dispozici také v programu Cloud Solution Provider.
+Katalog AppSource zahrnuje aplikace typu software jako služba (SaaS), řešení vytvořená pro Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps a konzultační služby od partnerů Microsoftu. Přístup k katalogu produktů AppSource na [https://appsource.microsoft.com](https://appsource.microsoft.com) nebo prostřednictvím prostředí v produktu Microsoft 365, Dynamics 365 a Microsoft Power Platform. Řešení z AppSource můžou být od prodejců Microsoftu k dispozici také v programu Cloud Solution Provider.
 
 ## <a name="find-what-you-need-on-appsource"></a>Hledání, co potřebujete na AppSource
 
@@ -44,11 +44,15 @@ Každý produkt dostupný v AppSource byl certifikován podle konkrétních krit
 
 ## <a name="terms-and-conditions"></a>podmínky a ujednání
 
-Dodavatel softwaru definuje cenu, licenční smlouvu s koncovým uživatelem a zásady ochrany osobních údajů. Každá nabídka na AppSource obsahuje odkazy na licenční smlouvu vydavatele a zásady ochrany osobních údajů. Potvrzení těchto smluv a možnost jejich zobrazení je součástí toku nákupu. Další informace najdete v části [platné smlouvy](legal-contracts.md) .
+Dodavatel softwaru definuje cenu, licenční smlouvu s koncovým uživatelem a zásady ochrany osobních údajů. Každá nabídka na AppSource obsahuje odkazy na licenční smlouvu vydavatele a zásady ochrany osobních údajů. Zobrazení a potvrzení těchto smluv je součástí toku nákupu. Podrobnosti najdete v tématu [platné smlouvy](legal-contracts.md).
+
+## <a name="discover-saas-and-m365-integrated-apps"></a>Zjišťování integrovaných aplikací SaaS a M365
+
+Naši partneři se můžou propojit mezi SaaS a M365 integrovanými aplikacemi. Díky tomu můžete při získání propojené aplikace SaaS stáhnout a používat integrované aplikace. V takovém případě by výsledek hledání mohl vracet pouze aplikaci SaaS, která zobrazuje ikony integrovaných aplikací, které jsou s ní dodávány. Mezi SaaS a integrovanou aplikací můžete přecházet na stránce s podrobnostmi o produktu. Pokud aplikace SaaS vyžaduje nákup, přečtěte si téma [Jak zakoupit nabídky SaaS na Microsoft AppSource](purchase-software-appsource.md).
 
 ## <a name="find-ratings-and-reviews"></a>Hledání hodnocení a recenzí
 
-Na každé stránce se seznamem najdete hodnocení a recenze od jiných zákazníků. Hodnocení používá škálu 5 hvězdiček a na každé kartě nabídky se zobrazí průměrné hodnocení. K dispozici jsou také doslovné recenze, které vám pomohou získat informace o prostředích jiných zákazníků. Po zakoupení řešení můžete také opustit hodnocení a kontrolu a pomáhat ostatním zákazníkům v rozhodování.
+Na každé stránce se seznamem najdete hodnocení a recenze od jiných zákazníků. Hodnocení používají škálu 5 hvězdiček a na každé kartě nabídky se zobrazí průměrné hodnocení. K dispozici jsou také doslovné recenze, které vám pomohou získat informace o prostředích jiných zákazníků. Po zakoupení řešení můžete také opustit hodnocení a kontrolu a pomáhat ostatním zákazníkům v rozhodování.
 
 ## <a name="next-steps"></a>Další kroky
 

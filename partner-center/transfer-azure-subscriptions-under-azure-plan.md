@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
+ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433341"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "97893202"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Přenos předplatných plánu Azure pro zákazníka na jiného partnera
 
@@ -49,7 +49,7 @@ Před využitím tohoto nástroje se zákazník musí nacházet v konverzaci s o
 
 - Zákazník v rámci svého záměru zahájí převod na stávajícího partnera CSP
 - Budoucí partner CSP spolupracuje se zákazníkem, aby se zajistilo splnění zákaznických potřeb.
-- Budoucí partner CSP vytvoří vztah se zákazníkem před zahájením přechodu.  
+- Budoucí partner CSP naváže vztah se zákazníkem a koupí plán Azure před zahájením přechodu.  
 - Zákazník musí podepsat zákaznickou smlouvu Microsoftu s budoucím partnerem CSP.
 - Budoucí partner CSP musí mít podepsané smlouvy Microsoftu pro použití tohoto nástroje.
 
@@ -75,7 +75,7 @@ Budoucí partner předplatného musí vyplnit formulář žádosti o přenos z p
 
 5.  Vyplňte formulář **nové žádosti o přenos** .
 
-6.  Vyberte odeslat **žádost o odeslání žádosti o přenos**  >  **Send**.
+6.  Vyberte odeslat **žádost o odeslání žádosti o přenos**  >  .
 
     :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formulář žádosti o dokončení přenosu":::
 

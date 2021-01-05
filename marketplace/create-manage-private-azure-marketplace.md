@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
-ms.date: 09/18/2020
-ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.date: 12/22/2020
+ms.openlocfilehash: 09f7bcb29dc619e4e31c0aa3d5c73fade5218819
+ms.sourcegitcommit: 30d154cdf40aa75400be7805cd9b2685b66a1382
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439247"
+ms.lasthandoff: 12/24/2020
+ms.locfileid: "97760802"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Vytvoření a Správa privátních Azure Marketplace (Preview) v Azure Portal
 
@@ -31,14 +31,32 @@ Globální správce tenanta musí přiřadit roli **správce Marketplace** sprá
 >[!IMPORTANT]
 > Přístup ke správě privátních Azure Marketplace je k dispozici jenom správcům IT, kteří mají přiřazenou roli správce Marketplace.
 
-### <a name="prerequisites"></a>Požadavky
+### <a name="prerequisites"></a>Předpoklady
 
 Abyste mohli přiřadit roli správce Marketplace uživateli v oboru tenanta, musíte splnit tyto požadavky:
 
 - Máte přístup k uživateli **globálního správce** .
 - Tenant má minimálně jedno předplatné (může to být libovolný typ).
 - Pro globálního správce se uživateli přiřadí role **Přispěvatel** nebo vyšší pro vybrané předplatné.
-- Uživatel globálního správce má zvýšenou úroveň přístupu nastavenou na **Ano** (viz [přístup ke správě všech předplatných Azure a skupin pro správu](/azure/role-based-access-control/elevate-access-global-admin)).
+
+### <a name="assign-the-marketplace-admin-role-with-iam"></a>Přiřazení role správce Marketplace k IAM
+
+1. Přihlaste se na web [Azure Portal](https://portal.azure.com/).
+1. Vyberte **všechny služby** a potom **Marketplace**.
+
+   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal hlavní okno.":::
+
+3. Z možností na levé straně vyberte **soukromé tržiště** .
+1. Vyberte **řízení přístupu (IAM)** a přiřaďte roli správce webu Marketplace.
+
+    :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="Obrazovka řízení přístupu IAM.":::
+
+1. Vyberte **+ Přidat** > **Přidat přiřazení role**.
+1. V části **role** vyberte **správce Marketplace**.
+
+    :::image type="content" source="media/private-azure/iam-role-assignment.png" alt-text="Nabídka přiřazení role":::
+
+1. V rozevíracím seznamu vyberte požadovaného uživatele a potom vyberte **Hotovo**.
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>Přiřazení role správce Marketplace k PowerShellu
 
@@ -53,81 +71,90 @@ K přiřazení role správce Marketplace použijte následující skript prostř
 > Pro uživatele typu Host, kteří jsou pozváni do tenanta, může trvat až 48 hodin, než bude k dispozici jejich účet pro přiřazení role správce Marketplace. Další informace najdete v tématu [vlastnosti Azure Active Directory uživatele spolupráce B2B](/azure/active-directory/b2b/user-properties).
 
 ```PowerShell
-function Assign-MarketplaceAdminRole {
-[CmdletBinding()]
-param(
-[Parameter(Mandatory)]
-[string]$TenantId,
+function Assign-MarketplaceAdminRole { 
+[CmdletBinding()] 
+param( 
+[Parameter(Mandatory)] 
+[string]$TenantId, 
+ 
+[Parameter(Mandatory)] 
+[string]$SubscriptionId, 
 
-[Parameter(Mandatory)]
-[string]$SubscriptionId,
+ 
 
-[Parameter(Mandatory)]
-[string]$GlobalAdminUsername,
+[Parameter(Mandatory)] 
+[string]$GlobalAdminUsername, 
 
-[Parameter(Mandatory)]
-[string]$UsernameToAssignRoleFor
-)
+ 
 
-$MarketplaceAdminRoleDefinitionName = "Marketplace Admin"
+[Parameter(Mandatory)] 
+[string]$UsernameToAssignRoleFor 
+) 
 
-Write-Output "TenantId = $TenantId"
-Write-Output "SubscriptionId = $SubscriptionId"
-Write-Output "GlobalAdminUsername = $GlobalAdminUsername"
-Write-Output "UsernameToAssignRoleFor = $UsernameToAssignRoleFor"
+$MarketplaceAdminRoleDefinitionName = "Marketplace Admin" 
 
-Write-Output "$($GlobalAdminUsername) is about to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)"
+ 
+
+Write-Output "TenantId = $TenantId" 
+Write-Output "SubscriptionId = $SubscriptionId" 
+Write-Output "GlobalAdminUsername = $GlobalAdminUsername" 
+Write-Output "UsernameToAssignRoleFor = $UsernameToAssignRoleFor" 
+
+ 
+
+Write-Output "$($GlobalAdminUsername) is about to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)" 
+
+ 
 
 $profile = Connect-AzAccount -Tenant $TenantId -SubscriptionId $SubscriptionId
 
-if($profile -eq $null)
-{
-Write-Error -Message "Failed to connect to tenant and/or subscription" -ErrorAction Stop
-}
-elseif($profile.Context.Account.Id -ne $GlobalAdminUsername)
-{
-Write-Error "Connected with $($profile.Context.Account.Id) instead of with the global admin that was specified in the script parameters, which is $($GlobalAdminUsername)"
-}
-else
-{
-Write-Output "$($GlobalAdminUsername) was connected successfully to Tenant=$($profile.Context.Tenant), Subscription=$($profile.Context.Subscription), AccountId=$($profile.Context.Account.Id), Environment=$($profile.Context.Environment)"
-}
+ 
 
-$MarketPlaceAdminRole = Get-AzRoleDefinition $MarketplaceAdminRoleDefinitionName
+ 
+if($profile -eq $null) 
+{ 
+Write-Error -Message "Failed to connect to tenant and/or subscription" -ErrorAction Stop 
+} 
+elseif($profile.Context.Account.Id -ne $GlobalAdminUsername) 
+{ 
+Write-Error "Connected with $($profile.Context.Account.Id) instead of with the global admin that was specified in the script parameters, which is $($GlobalAdminUsername)" 
+} 
+else 
+{ 
+Write-Output "$($GlobalAdminUsername) was connected successfully to Tenant=$($profile.Context.Tenant), Subscription=$($profile.Context.Subscription), AccountId=$($profile.Context.Account.Id), Environment=$($profile.Context.Environment)" 
+} 
 
-if($MarketPlaceAdminRole -eq $null)
-{
-Write-Error -Message "'$($MarketplaceAdminRoleDefinitionName)' role is not available" -ErrorAction Stop
-}
-else
-{
-Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is available"
-}
+ 
 
-Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-$elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
+$MarketPlaceAdminRole = Get-AzRoleDefinition $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace"
 
-if($elevatedAccessOnRoot.Count -eq 0)
-{
-Write-Error -Message "$($GlobalAdminUsername) doesn't have permissions to assign '$($MarketplaceAdminRoleDefinitionName)'. Please verify it has elevated access 'On' in portal, https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin" -ErrorAction Stop
-}
-else
-{
-Write-Output "$GlobalAdminUsername has elevated access on root"
-}
+ 
 
-New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace"
+if($MarketPlaceAdminRole -eq $null) 
+{ 
+Write-Error -Message "'$($MarketplaceAdminRoleDefinitionName)' role is not available" -ErrorAction Stop 
+} 
+else 
+{ 
+Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is available" 
+} 
 
-}
+ 
 
-Assign-MarketplaceAdminRole
+Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..." 
+
+New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace" 
+
+} 
+
+Assign-MarketplaceAdminRole 
 ```
 
 Další informace o rutinách obsažených v modulu příkazového portálu AZ. Portal PowerShell najdete v tématu [Microsoft Azure PowerShell: rutiny řídicího panelu portálu](/powershell/module/az.portal/).
 
 ## <a name="create-private-azure-marketplace"></a>Vytvořit soukromé Azure Marketplace
 
-1. Přihlaste se k [portálu Azure Portal](https://portal.azure.com/).
+1. Přihlaste se na web [Azure Portal](https://portal.azure.com/).
 2. Vyberte **všechny služby** a potom **Marketplace**.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal hlavní okno.":::
@@ -191,8 +218,8 @@ Na stránce Spravovat Marketplace se zobrazí jedna z těchto proužkových prou
 
 V případě potřeby můžete povolit nebo zakázat privátní Azure Marketplace.
 
-1. Pokud je tato možnost zakázaná, vyberte **Povolit privátní tržiště** .
-2. Pokud je povoleno, vyberte **Zakázat privátní tržiště** , které chcete zakázat.
+- Pokud je tato možnost zakázaná, vyberte **Povolit privátní tržiště** .
+- Pokud je povoleno, vyberte **Zakázat privátní tržiště** , které chcete zakázat.
 
 ## <a name="browsing-private-azure-marketplace"></a>Procházení soukromých Azure Marketplace
 
@@ -219,7 +246,7 @@ I když je prostředí stránky s podrobnostmi o produktu podobné veřejnému A
 
 - Pokud se výběr plánu produktu nezobrazuje na stránce s podrobnostmi o produktu, ale správce schválil jeden nebo více plánů, poznamenejte si, které plány jsou povolené a že je povolené tlačítko **vytvořit** :
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Banner nabídky, který označuje plán, se dá vytvořit a Zobrazit dostupné plány.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Banner s informacemi o tom, že je možné vytvořit plán a Zobrazit dostupné plány.":::
 
 ## <a name="contact-support"></a>Kontaktování podpory
 
