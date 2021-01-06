@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776899"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916843"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Průvodce spoluprodejem v partnerském centru (PC) pro partnery, kteří se migrují z partnerského prodejního připojení (PSC)
 
@@ -320,6 +320,20 @@ Partnerskému centru nemůže mít váš PDM přímý pøístup na rozdíl od PS
 - OCP Insights – Pokud PDM jenom zobrazují obchody a průběh, které s nimi souvisejí, můžou pomocí portálu OCP Insights získat zobrazení vaší organizace. Toto je interní nástroj, který je dostupný jenom pro PDM. Upozorňujeme, že pro uživatele vaší společnosti nejsou k dispozici informace OCP Insights.
 - Uživatel typu Host v partnerském centru – účet PDM můžete přidat @microsoft.com jako uživatele typu Host v partnerském centru a přiřadit jim roli správce odkazů, aby mohli zobrazit a pracovat s referenčními seznamy.
 - Vytváří se [Nový uživatel](./create-user-accounts-and-set-permissions.md#add-a-new-user) ve vašem tenantovi – můžete vytvořit nového uživatele ve vlastním tenantovi a sdílet tyto podrobnosti s PDM, aby mohli zobrazit a pracovat s odkazy podobnými ostatním uživatelům s odkazem ve vašem účtu.
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Hledání správného ID MPN, pokud váš účet ve službě PSC není přidružený k neplatnému MPN
+
+Pokud jste tady, vzhledem k tomu, že jste si všimli banneru s názvem PSC neplatný problém přidružení ID MPN, jste na správném místě.
+
+Nejdřív vyhledejte správné ID MPN pomocí následujících kroků.
+
+- Přihlaste se k účtu partnerského centra
+- Pomocí pokynů uvedených v [dokumentaci nastavení účtu](./partner-center-account-setup.md#locate-your-mpn-id) vyhledejte ID MPN.
+
+Další, 
+
+- Pokud máte PDM, požádejte je, aby se opravilo ID programu MPN se správným ID MPN z účtu partnerského centra.
+- Pokud nemáte PDM, pošlete e-mail na adresu uvedenou v proužku PSC s použitím informací účtu PSC zobrazených v hlavičce PSC a správného ID MPN z účtu partnerského centra.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Materiály, které vám pomůžou vytvářet a spravovat vaše obchody v partnerském centru
 

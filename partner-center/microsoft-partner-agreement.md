@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514749"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916826"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Další informace o smlouvě Microsoft Partner Agreement (MPA) pro partnery programu CSP
 
@@ -50,7 +50,7 @@ Abyste se mohli i nadále zúčastnit programu CSP, musíte si před 31. ledna 2
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Ověřte, že jste zaregistrováni jako nepřímý prodejce CSP.
 
-1. Pokud jste v partnerském centru ještě nezaregistrovali jako [nepřímý prodejce CSP](enrolling-in-the-csp-program.md)  , musíte to udělat jako první. Dokončete zbývající kroky po registraci jako nepřímý prodejce CSP v partnerském centru.
+1. Pokud jste v partnerském centru ještě nezaregistrovali jako [nepřímý prodejce CSP](indirect-reseller-tasks-in-partner-center.md) , musíte to udělat jako první. Dokončete zbývající kroky po registraci jako nepřímý prodejce CSP v partnerském centru.
 
 1. Přihlaste se do partnerského centra s přihlašovacími údaji účtu globálního správce CSP.
 
@@ -83,11 +83,11 @@ Pokud se chcete podívat, jestli jste si zaregistrovali aktivaci:
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Stáhněte si podrobného průvodce, který je správný pro to, kde jste v procesu.
 
-1. Pokud migrujete účet MPN z PMC do partnerského centra: [migrace z PMC do partnerského centra a přijetí smlouvy Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. Pokud migrujete účet MPN z PMC na Partnerské centrum: [Migrace z PMC na Partnerské centrum a přijetí Smlouvy s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. Pokud se chcete zaregistrovat jako nepřímý prodejce CSP v partnerském centru: registrace [pro členy programu MPN a partnerskou smlouvu Microsoftu](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. Pokud se chcete v Partnerském centru zaregistrovat jako nepřímý prodejce CSP: [Onboarding pro členy MPN a Smlouva s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. Pokud chcete ověřit stav aktivace v partnerském centru po dokončení kroku 1 nebo krok 2 výše, [Ověřte stav přijetí smlouvy s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx) .
+3. Pokud po dokončení kroku 1 nebo 2 výše chcete v Partnerském centru ověřit stav vaší smlouvy MPA: [Ověření stavu přijetí Smlouvy s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Další kroky
 

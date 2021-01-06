@@ -9,20 +9,39 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 7a499c8c0fc64d00dcc8efe56f4bd5830d5e23bd
-ms.sourcegitcommit: 87677b45535a7b9d9ebd9afcbe4ea2491b4a1f52
+ms.openlocfilehash: 827d4d732e8aa5ff7e343ef3732ff0036eb8d628
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97902664"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916792"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu za leden 2021.
 
+oznámení 2021: [leden](2021-january.md)
+
 2020 oznámení: [květen](2020-may.md)  |  [](2020-june.md)  |  [od 1](2020-july.md). června z  |  [](2020-august.md)  |  prosince do[září](2020-september.md).  |  [](2020-October.md)  |  [listopadu](2020-november.md)  |  [](2020-december.md) Spadá
 
 ________________
+## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Vyřazení a vyřazení stávajících rozhraní API pro získání a vložení kvalifikace pro vzdělávací proces zákazníka na konci února 2021
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři prodávají akademické nabídky prostřednictvím programu Cloud Solution Provider pomocí rozhraní API partnerského centra
+
+### <a name="details"></a>Podrobnosti 
+
+Jedná se o následná vylepšení rozhraní API vydaná v prosinci 2020. V 2020 prosinci byly vydány nové rozhraní API GET a POST kvalifikací a v důsledku toho se stará rozhraní API pro získání a vložení dokončí na konci února 2021. V tuto chvíli budete muset použít nová rozhraní API pro získání a odeslání partnerského centra, aby bylo možné zakoupit nabídky vzdělávání. 
+
+## <a name="next-steps"></a>Další kroky
+
+- Pokud jste to ještě neudělali, aktualizujte nové rozhraní API, abyste mohli úspěšně a včas přejít.
+- Projděte si nové změny rozhraní API partnerského centra a [Průvodce v prostředcích připravenosti na operace: vylepšení procesu ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci a s prodejci, aby se mohli připravit na tyto změny.
+
+_____________
 
 ## <a name="dynamics-365-offers-for-february-2021"></a><a name="1"></a>Dynamics 365 – nabídky pro únor 2021
 
