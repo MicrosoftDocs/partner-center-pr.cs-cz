@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
+ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916843"
+ms.locfileid: "97950582"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Průvodce spoluprodejem v partnerském centru (PC) pro partnery, kteří se migrují z partnerského prodejního připojení (PSC)
 
@@ -321,7 +321,7 @@ Partnerskému centru nemůže mít váš PDM přímý pøístup na rozdíl od PS
 - Uživatel typu Host v partnerském centru – účet PDM můžete přidat @microsoft.com jako uživatele typu Host v partnerském centru a přiřadit jim roli správce odkazů, aby mohli zobrazit a pracovat s referenčními seznamy.
 - Vytváří se [Nový uživatel](./create-user-accounts-and-set-permissions.md#add-a-new-user) ve vašem tenantovi – můžete vytvořit nového uživatele ve vlastním tenantovi a sdílet tyto podrobnosti s PDM, aby mohli zobrazit a pracovat s odkazy podobnými ostatním uživatelům s odkazem ve vašem účtu.
 
-## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Hledání správného ID MPN, pokud váš účet ve službě PSC není přidružený k neplatnému MPN
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Hledání správného ID MPN, pokud váš účet v PBV není přidružený k platnému programu MPN
 
 Pokud jste tady, vzhledem k tomu, že jste si všimli banneru s názvem PSC neplatný problém přidružení ID MPN, jste na správném místě.
 
