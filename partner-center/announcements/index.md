@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736527"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916809"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
 Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace často aktualizujeme, proto vám doporučujeme je pravidelně sledovat.
 
-| **Kategorie** | **Oznámení z prosince 2020** | **Datum oznámení** |
+| **Kategorie** | **Oznámení z ledna 2021** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Možnosti|[Vyřazení stávajících kvalifikačních rozhraní API GET a PUT pro proces ověřování zákazníků z oblasti vzdělávání do konce února 2021](2021-january.md#2)|5\. ledna|
+|Nabídky/trhy|[Nabídky Dynamics 365 pro únor 2021](2021-january.md#1)|4\. ledna|
+| **Kategorie** | **Oznámení z prosince 2020** | **Datum oznámení** |
 |Nabídky|[Nevyužité fondy marketingové spolupráce v rámci pobídek z období FY21 H1 se přesunou do období H2](2020-december.md#13)|22. prosince|
 |Možnosti|[Migrace DocuSignu na Adobe Sign v roce 2021 pro partnery, kteří mají uzavřené Smlouvy s partnerem Microsoftu (MPA)](2020-december.md#12)|22. prosince|
 |Nabídky/trhy|[Plány katalogů a cen pro leden 2021](2020-december.md#11)|22. prosince|
