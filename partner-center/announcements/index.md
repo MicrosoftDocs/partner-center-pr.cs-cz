@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666736"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736527"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,7 +22,10 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z prosince 2020** | **Datum oznámení** |
 |---------|:---------|:---------|
-|Nabídky/trhy|[Časově neomezený software v programu CSP:  Nové produkty a geografické oblasti](2020-december.md#10)|17. prosince|
+|Nabídky|[Nevyužité fondy marketingové spolupráce v rámci pobídek z období FY21 H1 se přesunou do období H2](2020-december.md#13)|22. prosince|
+|Možnosti|[Migrace DocuSignu na Adobe Sign v roce 2021 pro partnery, kteří mají uzavřené Smlouvy s partnerem Microsoftu (MPA)](2020-december.md#12)|22. prosince|
+|Nabídky/trhy|[Plány katalogů a cen pro leden 2021](2020-december.md#11)|22. prosince|
+|Možnosti|[Podpora služeb a aplikací Microsoftu 365 pro Internet Explorer 11 a starší verze Microsoft Edge](2020-december.md#10)|21. prosince|
 |Podpora růstu vaší firmy|[Vládní, vzdělávací a neziskové organizace: Další změny programu Open License a vývoj CSP](2020-december.md#9)|17. prosince|
 |Nabídky/trhy|[Změny požadavků na onboarding zákazníků do programu Cloud Solution Provider (CSP)](2020-december.md#8)|17. prosince|
 |Podpora růstu vaší firmy|[Připomenutí: Časově neomezený software v programu Cloud Solution Provider (CSP) široce dostupný od ledna 2021](2020-december.md#7)|17. prosince|
