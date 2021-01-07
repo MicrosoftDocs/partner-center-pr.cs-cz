@@ -301,6 +301,9 @@
         - name: Žádosti o spolupráci v rámci pobídek
           href: claims-overview.md
           displayName: incentives
+        - name: Zobrazení dostupných fondů pro spolupráci
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: Správa žádostí o spolupráci
           href: create-incentives-claims.md
           displayName: incentives
