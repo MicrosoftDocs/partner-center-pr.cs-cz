@@ -1,19 +1,19 @@
 ---
 title: Konektor pro spoluprodejní účast v partnerském centru pro Salesforce CRM
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchronizujte své odkazy v partnerském centru se službou Salesforce CRM. Prodejci pak můžou v rámci svých systémů CRM prodávat společně s Microsoftem.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947847"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960947"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Konektor pro společný prodej pro Salesforce CRM – přehled
 
@@ -51,7 +51,7 @@ Aby bylo možné synchronizovat odkazy v rámci partnerského centra a Salesforc
 
 3. V Salesforce nainstalujte vlastní pole a objekty pomocí instalačního programu balíčků níže.
   
-Pokud chcete balíček nainstalovat do libovolné společnosti, navštivte [Toto](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) :
+Chcete-li nainstalovat balíček do libovolné společnosti, pokračujte [zde](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) .
 
 
 Poznámka: Pokud instalujete do izolovaného prostoru (sandbox), musíte nahradit počáteční část adresy URL. http://test.salesforce.com
