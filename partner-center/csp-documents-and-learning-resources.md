@@ -9,19 +9,19 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afb3fad6f0345ef8a602c78b891634a64a2adf84
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527060"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979688"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Průvodce, smlouvy, ceníky a nabídky pro program Cloud Solution Provider
 
 **Platí pro**
 
 - Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro Microsoft Cloud for US Government
 
 
 Přečtěte si informace v tomto článku, abyste pochopili požadavky na účast v programu Cloud Solution Provider (CSP) společnosti Microsoft.
@@ -77,3 +77,8 @@ Jako partner v CSP můžete prodávat řadu produktů, služeb a řešení od Mi
 Pro partnery CSP, kteří používají rozhraní API záznamu využití Crest, společnost Microsoft také zveřejňuje seznam služeb Azure ve zprostředkovateli CSP na stránce **ceny a nabídky** .
 
 Další informace o Azure Marketplace nabídkách publikovaných nezávislými dodavateli softwaru (ISV) najdete na stránce **Marketplace** v levém navigačním panelu. V současné době lze v partnerském centru zakoupit pouze typy produktů SaaS (software as a Service). Pokud chcete získat další typy Azure Marketplace nabídek, musíte navštívit Azure Portal.
+
+## <a name="next-steps"></a>Další kroky
+
+- [Seznamte se s dohodou o partnerovi Microsoftu.](microsoft-partner-agreement.md)
+- [Registrace do programu Cloud Solution Provider](enrolling-in-the-csp-program.md)

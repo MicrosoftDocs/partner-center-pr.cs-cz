@@ -1,5 +1,5 @@
 ---
-title: Prodej služby Office 365 státní RSZ pro CSP
+title: Prodej Office 365 Government GCC pro program CSP
 ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
@@ -9,25 +9,20 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3086ada5238fac6ec993bffa8c852517281c98a3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1c6456b1fb1061f9b2f0a2b67a8d2285ea25474e
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527354"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979426"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Prodej předplatných služeb Microsoft Office 365 pro státní správu v RSZ pro kvalifikované zákazníky
-
-**Platí pro**
-
-- Partnerské centrum
-- Partneři CSP
 
 **Příslušné role**
 
 - Globální správce
 - Agent správce
-- Agent prodeje
+
 
 ## <a name="overview"></a>Přehled
 
@@ -41,10 +36,10 @@ Partneři Microsoftu v programu Cloud Solution Provider (CSP) můžou prodávat 
 
 Po schválení vaší společnosti k prodeji služby Office 365 státní RSZ pro nabídky CSP můžete začít prodávat zákazníkům pomocí partnerského centra. Informace o tom, jak používat Partnerské centrum k prodeji předplatných, najdete v těchto materiálech: 
 
--   Podrobný návod k prodeji služby Office 365 státní RSZ pro předplatné CSP najdete [zde](https://go.microsoft.com/fwlink/?linkid=2007323).  
+- Podrobný průvodce najdete v [příručce k prodeji služby Office 365 státní RSZ pro odběry CSP](https://go.microsoft.com/fwlink/?linkid=2007323).  
 
 
-## <a name="additional-resources"></a>Další materiály
+## <a name="next-steps"></a>Další kroky
 
 Získejte přístup k informacím o [partnerskou příležitost ve vládě USA](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) na webu Microsoft 365 for Partners.
 

@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527371"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979672"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Správa produktů a nabídek komerčního tržiště pro vaše zákazníky
 
-**Platí pro**
-
-- Partnerské centrum
-- Partneři v programu CSP
 
 **Příslušné role**
 
@@ -36,7 +32,7 @@ Po zakoupení předplatného od jiného vydavatele ISV jiného výrobce ho můž
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra a v levé navigační nabídce vyberte **zákazníky** .
 
-2. Vyberte příslušného zákazníka a pak vyberte **předplatná** . Obsahuje seznam všech předplatných založených na licencích, které jste zakoupili pro zákazníka.
+2. Vyberte příslušného zákazníka a pak vyberte **předplatná**. Obsahuje seznam všech předplatných založených na licencích, které jste zakoupili pro zákazníka.
 
 3. Ve sloupci **předplatné** vyberte předplatné, které chcete zobrazit nebo upravit. Získáte tak další informace o nastavení nebo zřízení nabídky. (Pokud se v nabídce vyžaduje více akcí, může se ve sloupci Stav zobrazit také stav "potřeba akce". Může se taky doprovázet odkaz na web vydavatele ISV.)
 
@@ -63,7 +59,7 @@ Vydavatel by vám měl poskytnout přizpůsobený odkaz a autorizační kód, kt
 
 1. Tento přizpůsobený odkaz od vydavatele ISV můžete najít několika způsoby:
 
-   - Odkaz můžete zobrazit na stránce s potvrzením, která se zobrazí po nákupu nabídky ISV SaaS. Chcete-li najít tento odkaz na stránce, vyhledejte a vyberte možnost **Přejít na web vydavatele** .
+   - Odkaz můžete zobrazit na stránce s potvrzením, která se zobrazí po nákupu nabídky ISV SaaS. Chcete-li najít tento odkaz na stránce, vyhledejte a vyberte možnost **Přejít na web vydavatele**.
 
    - Odkaz můžete zobrazit na stránce Předplatná konkrétního zákazníka. Tento odkaz na vydavatele se zobrazí na řádku přidruženém k nabídce ISV nebo k zakoupení předplatného pro zákazníka.
 
@@ -102,13 +98,13 @@ V případě nabídek SaaS Commercial Marketplace můžete přidat nebo odebrat 
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra a v levé navigační nabídce vyberte **zákazníky** .
 
-2. Vyberte příslušného zákazníka a pak vyberte **předplatná** . Obsahuje seznam všech předplatných založených na licencích, které jste zakoupili pro zákazníka.
+2. Vyberte příslušného zákazníka a pak vyberte **předplatná**. Obsahuje seznam všech předplatných založených na licencích, které jste zakoupili pro zákazníka.
 
 3. Ve sloupci **předplatné** vyberte předplatné, které chcete upravit.
 
 4. Na stránce Podrobnosti předplatného vyhledejte pole **množství** . Tady můžete zvýšit nebo snížit počet licencí.
 
-5. Změňte množství a pak vyberte **Odeslat** .
+5. Změňte množství a pak vyberte **Odeslat**.
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Správa předplatných pomocí rozhraní API partnerského centra
 

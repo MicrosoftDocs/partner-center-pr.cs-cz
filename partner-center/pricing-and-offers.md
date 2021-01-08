@@ -1,7 +1,7 @@
 ---
 title: Ceny a nabídky
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Podívejte se na aktuální ceníky pro služby založené na licencích, jako jsou Office 365, Microsoft Dynamics CRM a Enterprise Mobility Suite a služby založené na využití, jako je Azure.
@@ -9,18 +9,15 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92527074"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979817"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Ceny a nabídky pro Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure a další
 
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
@@ -31,7 +28,7 @@ ms.locfileid: "92527074"
 - Agent prodeje
 - Správce fakturace
 
-Nejnovější programy a nabídky poskytovatele Cloud Solution Provider najdete na portálu pro partnery, přejděte na **prodej > ceny a nabídky** . Pro různé typy produktů, které jsou k dispozici, najdete samostatné ceníky. Následující ceníky jsou k dispozici na stránce **ceny a nabídky** :
+Nejnovější programy a nabídky poskytovatele Cloud Solution Provider najdete na portálu pro partnery, přejděte na **prodej > ceny a nabídky**. Pro různé typy produktů, které jsou k dispozici, najdete samostatné ceníky. Následující ceníky jsou k dispozici na stránce **ceny a nabídky** :
 
 - **Služby založené na licencích** zahrnují informace o cenách pro Office 365, Enterprise mobility a Security E3 a také Dynamics 365. V části s cenami na základě licencí patří aktuální ceny a verze Preview i matice seznamu nabídek. Ceníky zahrnují Ceník a odhadované maloobchodní ceny (ERP) pro nabídky ve všech podporovaných měnách. Matice seznamu nabídek zahrnuje dostupnost trhu a další důležité informace o nabídkách. Tyto soubory se aktualizují poprvé dne v každém měsíci.
 - **Služby založené na využití** zahrnují cenové informace pro Microsoft Azure a Visual Studio. Můžete také použít [službu Azure v cenové kalkulačkě CSP](https://azure.microsoft.com/pricing/calculator/). Stažení založené na využívání zahrnuje jak ceníky CSP pro všechny podporované měny, tak i cenové soubory sdílených služeb v ERP. Tyto soubory se aktualizují poprvé dne v každém měsíci.
@@ -46,7 +43,7 @@ Nejnovější programy a nabídky poskytovatele Cloud Solution Provider najdete 
 
 ## <a name="price-list-preview-and-change-frequency"></a>Náhled ceníku a četnost změn 
 
-Služby založené na licencích zahrnují ceník v ceníku, který je poskytnutý za 30 dní předem při jakýchkoli změnách. Pokud chcete zobrazit náhled ceníku, přejděte na **prodej > ceny a nabídky** . Neexistují žádné cenové verze Preview pro služby založené na využívání, protože tyto služby jsou dynamické. Následující tabulka vysvětluje, jak si přečíst tabulku ceníku.
+Služby založené na licencích zahrnují ceník v ceníku, který je poskytnutý za 30 dní předem při jakýchkoli změnách. Pokud chcete zobrazit náhled ceníku, přejděte na **prodej > ceny a nabídky**. Neexistují žádné cenové verze Preview pro služby založené na využívání, protože tyto služby jsou dynamické. Následující tabulka vysvětluje, jak si přečíst tabulku ceníku.
 
 |**Položka**        |**Definice**      |
 |:-----------   |:-----------   |
@@ -105,7 +102,7 @@ Služby založené na licencích můžete získat buď jako základní nabídky,
 3. Přejděte k zákazníkovi ze seznamu zákazníků. Klikněte na předplatné pro základní nabídku, kterou jste právě koupili. Na stránce Spravovat předplatné uvidíte dostupné doplňky, které se dají použít pro základní nabídku.
 
 > [!Note] 
-> Některé základní nabídky mají hodnoty **typu jednotky** **licencí doplňku** . U základní nabídky to jednoduše znamená, že po nákupu nepřiřazujete uživatelské licence. Pokud nabídku lze zakoupit v katalogu, jedná se o **základní nabídku** bez ohledu na typ jednotky v uživatelském rozhraní.
+> Některé základní nabídky mají hodnoty **typu jednotky** **licencí doplňku**. U základní nabídky to jednoduše znamená, že po nákupu nepřiřazujete uživatelské licence. Pokud nabídku lze zakoupit v katalogu, jedná se o **základní nabídku** bez ohledu na typ jednotky v uživatelském rozhraní.
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Ceny v Azure a mimo Azure
 
@@ -169,7 +166,7 @@ Níže je uveden přehled toho, jak tyto nabídky fungují:
 - Předplatné se neobnovilo a platnost vyprší po 6 letech.
 - Četnost fakturace na této nabídce se zobrazí jako roční, ale po získání předplatného se partner účtuje na první faktuře předem.
 - Předplatná nabídek a1 72-month jsou po nákupu uzamčena a nelze je zrušit a počty licencí nelze do předplatného přidat po počátečním nákupu.
-- Partneři, kteří potřebují zrušit nutnost vytvořit lístek podpory s odůvodněním zrušení a ID předplatného, k němuž potřebují pomoc.
+- Toto předplatné je nezrušité a nevratné.
 
 ## <a name="estimated-retail-price-erp"></a>Odhad maloobchodní ceny (ERP)
 

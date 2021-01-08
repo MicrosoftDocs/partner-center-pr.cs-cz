@@ -9,26 +9,22 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92527019"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979650"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Smlouvy pro partnery CSP, kteří provádějí podnikání na komerčním webu Marketplace
 
-**Platí pro**
-
-- Partnerské centrum
-- Partneři v programu CSP
 
 **Příslušné role**
 
 - Globální správce
 - Agent správce
 
-V této části se vztahují smlouvy pro partnery v programu CSP, kteří se rozhodli koupit si nabídky nebo produkty pro zákazníky z partnerského centra z komerčního tržiště nebo z Azure Portal.
+Tento článek se týká kontraktů pro partnery v programu CSP, kteří se rozhodli koupit si nabídky nebo produkty pro zákazníky z partnerského centra z komerčního tržiště nebo z Azure Portal.
 
 [Průvodce programem CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100) obsahuje podmínky a ujednání, které se týkají komerčních nabídek pro web Marketplace mezi společností Microsoft a partnery v programu CSP. Partneři CSP by si měli projít tyto podmínky a ujednání, aby zajistili dodržování předpisů v rámci programu.  
 

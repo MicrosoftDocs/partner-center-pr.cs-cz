@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: fc5a34bbb8326b38c13cc73ca9fff099f9b1c0db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916826"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979752"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Další informace o smlouvě Microsoft Partner Agreement (MPA) pro partnery programu CSP
 
@@ -54,7 +54,7 @@ Abyste se mohli i nadále zúčastnit programu CSP, musíte si před 31. ledna 2
 
 1. Přihlaste se do partnerského centra s přihlašovacími údaji účtu globálního správce CSP.
 
-1. V **Nastavení** vyberte [partnerský profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+1. V **Nastavení** vyberte **Nastavení účtu** a potom vyberte [profil partnera](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 1. Podívejte se na část **informace o programu** . Pokud vaše informace nezobrazuje **nepřímý stav prodejce** , musíte se [zaregistrovat jako nepřímý prodejce](indirect-reseller-tasks-in-partner-center.md).
 
@@ -79,6 +79,10 @@ Pokud se chcete podívat, jestli jste si zaregistrovali aktivaci:
 
 >[!NOTE]
 >Pouze globální správce ve vaší společnosti může zobrazit a podepsat aktivaci. Pokud nejste globálním správcem, budete muset požádat svého globálního správce, aby ověřil aktivaci.
+
+Můžete se také podívat, jestli jste podepsali smlouvu, a to výběrem možnosti **smlouvy** z **Nastavení účtu**.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="Označení, že technologie MPA je podepsaná":::
 
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Stáhněte si podrobného průvodce, který je správný pro to, kde jste v procesu.

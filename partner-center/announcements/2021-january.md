@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 827d4d732e8aa5ff7e343ef3732ff0036eb8d628
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.date: 01/07/2021
+ms.openlocfilehash: 17c4e19216218d070515b34d326dcca6596e94a8
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916792"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979800"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -23,6 +23,64 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 oznámení 2021: [leden](2021-january.md)
 
 2020 oznámení: [květen](2020-may.md)  |  [](2020-june.md)  |  [od 1](2020-july.md). června z  |  [](2020-august.md)  |  prosince do[září](2020-september.md).  |  [](2020-October.md)  |  [listopadu](2020-november.md)  |  [](2020-december.md) Spadá
+
+________________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> Změna fakturační měny partnerů v EU/ESVO pro nové nabídky obchodu
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-07
+- Moderní pracoviště
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+- Přímý poskytovatel, nepřímý poskytovatel, nepřímý prodejce
+- Všichni partneři s podporou programu Cloud Solution Provider v oblasti EU/ESVO 
+
+### <a name="details"></a>Podrobnosti
+
+V oblasti Evropské unie (EU)/European volného obchodu (ESVO) se všechny nové nabídky obchodování v programu Cloud Solution Provider použijí místo fakturačního umístění zákazníka. To znamená, že se partneři účtují společností Microsoft na základě jejich měny umístění, nikoli podle měny jejich zákazníků. To se provádí ve dvou fázích:
+
+**Fáze 1:**
+
+- Nový zákazník, který si koupí novou nabídku obchodování v CSP
+
+- Stávající zákazníci poprvé kupují nové nabídky obchodu – tenant vytvořený před 11. května 2020
+
+Od 1. ledna 2021 partneři, kteří mají čisté nové zákazníky, nakupují novou nabídku obchodu, nebo stávající zákazníci s klienty vytvořenými dřív, než 11. května 2020, aby si zakoupili své první nákupy nových nabídek obchodu, budou se účtovat za tyto nákupy v měně partnera umístění.  
+
+Partneři se stávajícími zákazníky, kteří si už zakoupili nové nabídky pro obchod v CSP, se v této fázi budou dál účtovat v měně fakturačního umístění zákazníka. Kromě toho partneři se stávajícími zákazníky, kteří si chtějí koupit novou nabídku obchodu, jejíž klienti byli vytvořeni v nebo po 11. května 2020, se budou nadále účtovat v měně zákazníka.
+
+**Fáze 2:**
+
+- Stávající zákazníci, kteří si už koupili novou nabídku pro obchodování ve zprostředkovateli CSP před fází 1
+- Stávající zákazníci poprvé kupují nové nabídky pro obchod – tenant byl vytvořen v nebo po 11. května 2020
+
+Po fázi 1 a v rámci kalendářního roku 2021 Microsoft převede faktura nových nabídek pro obchod s existujícími zákazníky, kteří si zakoupili novou nabídku pro obchodování ve zprostředkovateli CSP před fází 1, a také zákazníky, kteří jejich klienti vytvořili v nebo po 11. května 2020, od měny zákazníka až po měnu umístění partnera. Před implementací této změny budou partneři předem upozorněni.
+
+Po fázi 2 se partneři v oblasti EU/ESVO budou fakturovat podle měny partnerského umístění pro všechny zákazníky a všechny nákupy CSP.
+
+>[!NOTE]
+>Tato změna bude mít vliv jenom na účtovací měnu partnerů a ne na ceny za nové nabídky obchodování v CSP.
+
+Mezi nové nabídky pro obchod v oboru pro tuto změnu patří: předplatná Azure, která jsou součástí plánu Azure, rezervacích Azure, předplatných softwaru, trvalého softwaru a nákupů z komerčního obchodu na webu Microsoft Azure v programu Cloud Solution Provider.
+
+### <a name="partner-benefits"></a>Výhody pro partnery
+
+Tato aktualizace sníží složitost a režii při fakturaci na více měn v oblasti EU/ESVO pro nové prostředí pro obchod.
+
+- Partneři obdrží konsolidovanou fakturu v rámci jedné měny a nebude už dostávat fakturu pro každou měnu zákazníka na místo.
+- Výběry k pobídkám budou ve stejné měně jako fakturační měna partnera.
+- Partneři budou upozorněni na složitost fakturace způsobené fakturací na více měn, která uvolní čas a prostředky aktuálně přidružené k sjednocování účtů.
+- Pro partnery, kteří ještě nepřijali nové nabídky pro obchod, se tato změna zarovnává s předchozím modelem fakturace partnerů, takže partneři můžou snadněji přejít na nové prostředí pro obchod v rámci CSP.
+
+### <a name="next-steps"></a>Další kroky
+
+Projděte si informace o tomto tématu v [galerii operací](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (požadováno přihlášení) na webu Microsoft Partner.  
+
+### <a name="questions"></a>Máte otázky?
+
+Všechny otázky související s tímto oznámením kontaktují [podporu partnerského centra](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (vyžaduje se přihlášení).
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Vyřazení a vyřazení stávajících rozhraní API pro získání a vložení kvalifikace pro vzdělávací proces zákazníka na konci února 2021

@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527359"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979528"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Faktura za produkty a předplatné z komerčního tržiště v partnerském centru
 
-**Platí pro**
-
-- Partnerské centrum
-- Partneři v programu CSP
 
 **Příslušné role**
 
@@ -35,7 +31,7 @@ K fakturám máte přístup z [řídicího panelu](https://partner.microsoft.com
 Partneři v programu CSP se účtují podle řešení ISV Commercial Marketplace zakoupeného pro zákazníka, když si tyto produkty koupí z partnerského centra nebo z Azure Portal (pomocí předchozího poskytovatele Azure koupeného v rámci CSP).
 
 >[!NOTE]
->Pokud zákazníci používají svůj tenant Azure AD (nekoupený od partnera v programu CSP), můžou si taky koupit své vlastní řešení ISV SaaS přímo z ([Microsoft AppSource](https://appsource.microsoft.com/) nebo [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Pokud tomu tak je, obdrží svou vlastní faktura přímo od společnosti Microsoft. Podobně platí, že pokud partner v programu CSP prodává předplatné Azure nebo nový plán Azure pro zákazníka a udělí zákazníkovi (nebo nepřímému prodejci) [přístup na základě role](/azure/role-based-access-control/built-in-roles) k tomuto tenantovi (přiřazení jakékoli role k zákazníkovi kromě **čtecího zařízení** ), může si zákazník (nebo nepřímý prodejce) zakoupit také nabídky komerčního tržiště bez předchozího schválení nebo oznámení partnerovi CSP. V těchto případech Microsoft neoznamuje partnerům v programu CSP informace o nákupech provedených svými zákazníky. Microsoft ale nabízí volitelný [Azure monitor](/azure/azure-monitor/platform/alerts-activity-log) mechanismus, který můžete použít k nastavení výstrah nebo oznámení o aktivitě v rámci předplatného Azure.
+>Pokud zákazníci používají svůj tenant Azure AD (nekoupený od partnera v programu CSP), můžou si taky koupit své vlastní řešení ISV SaaS přímo z ([Microsoft AppSource](https://appsource.microsoft.com/) nebo [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Pokud tomu tak je, obdrží svou vlastní faktura přímo od společnosti Microsoft. Podobně platí, že pokud partner v programu CSP prodává předplatné Azure nebo nový plán Azure pro zákazníka a udělí zákazníkovi (nebo nepřímému prodejci) [přístup na základě role](/azure/role-based-access-control/built-in-roles) k tomuto tenantovi (přiřazení jakékoli role k zákazníkovi kromě **čtecího zařízení**), může si zákazník (nebo nepřímý prodejce) zakoupit také nabídky komerčního tržiště bez předchozího schválení nebo oznámení partnerovi CSP. V těchto případech Microsoft neoznamuje partnerům v programu CSP informace o nákupech provedených svými zákazníky. Microsoft ale nabízí volitelný [Azure monitor](/azure/azure-monitor/platform/alerts-activity-log) mechanismus, který můžete použít k nastavení výstrah nebo oznámení o aktivitě v rámci předplatného Azure.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Přístup k informacím o fakturaci pro produkty z komerčního tržiště
 
@@ -43,9 +39,9 @@ Správce globálního správce nebo fakturace vaší společnosti obdrží e-mai
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/)partnerského centra.
 
-2. V nabídce partnerského centra vyberte **fakturace** . 
+2. V nabídce partnerského centra vyberte **fakturace**. 
 
-    V horní části stránky fakturace se zobrazí dvě karty: **opakované** a **opakované a jednorázové nákupy** . Každá karta umožňuje přístup k souborům faktury a odsouhlasení (rekognoskaci) pro různé produkty na webu Marketplace:
+    V horní části stránky fakturace se zobrazí dvě karty: **opakované** a **opakované a jednorázové nákupy**. Každá karta umožňuje přístup k souborům faktury a odsouhlasení (rekognoskaci) pro různé produkty na webu Marketplace:
 
     - Karta **perioda** : zobrazuje soubory faktury a odsouhlasení pro předplatné související s Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro a Microsoft Azure.
 
@@ -53,7 +49,7 @@ Správce globálního správce nebo fakturace vaší společnosti obdrží e-mai
   
 3. Vyberte kartu **opakované a jednorázové nákupy** . Pokud jste si zakoupili předplatné pro zákazníka v jiné měně, zobrazí se vám karta pro každou měnu. Můžete provést několik věcí fr: objekt OM této stránky:
 
-    - Chcete-li zobrazit nejnovější soubor faktury a odsouhlasení, vyberte možnost soubor **faktury** nebo **odsouhlasení** . (Pokud jste chtěli, můžete také přistupovat k nejnovější faktuře a datům souborů rekognoskaci pomocí [rozhraní API partnerského centra](/partner-center/develop/).
+    - Chcete-li zobrazit nejnovější soubor faktury a odsouhlasení, vyberte možnost soubor **faktury** nebo **odsouhlasení**. (Pokud jste chtěli, můžete také přistupovat k nejnovější faktuře a datům souborů rekognoskaci pomocí [rozhraní API partnerského centra](/partner-center/develop/).
 
     - Pokud chcete zobrazit dřívější faktury a soubory rekognoskaci, rozbalte níže uvedený řádek **historie fakturace** .
 

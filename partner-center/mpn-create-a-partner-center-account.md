@@ -1,7 +1,7 @@
 ---
 title: Vytvoření účtu v Partnerském centru
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Přečtěte si, jak Microsoft Partner Network členové mohou vytvořit účet partnerského centra za účelem správy svých síťových výhod a kompetencí.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570786"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979732"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Vytvoření účtu partnerského centra pro správu výhod a kompetencí sítě
 
@@ -55,16 +55,20 @@ Tyto informace Ověřujeme během procesu vytváření účtu. Informace o proce
 
     Pokud vaše společnost nemá pracovní účet, vyberte **vytvořit** a nastavte si ho hned teď. Po vytvoření pracovního účtu se přihlaste pomocí přihlašovacích údajů globálního správce pro pracovní účet, který jste právě vytvořili.
 
-3.  Zadejte nebo aktualizujte obchodní profil vaší společnosti a primární kontaktní informace a pak vyberte **zaregistrovat**. 
+3.  Poskytněte nebo aktualizujte právní obchodní profil vaší společnosti.
+
+    Můžete buď vyhledat svůj profil společnosti, nebo zadat informace společnosti ručně. Pokud je vaše společnost zaregistrovaná v rámci [telefonického připojení & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), použijte Duns ID a vyhledejte informace o vaší společnosti. Pokud chcete zadat podrobnosti o vaší společnosti sami, vyberte **ručně**.
+
+4. Jakmile zadáte informace o společnosti, zadejte primární kontaktní informace a pak vyberte **zaregistrovat nyní**.
 
     Primární kontakt by měl být osoba ve vaší společnosti, kterou můžeme kontaktovat o vaší aplikaci (může to být vy nebo jiný uživatel ve vaší společnosti). Tyto informace také použijeme k ověření, že tato osoba funguje ve vaší společnosti a zaregistrovala se k účtu partnerského centra.
 
     > [!IMPORTANT]  
     > Abychom vám pomohli zajistit zabezpečení a ochranu osobních údajů vaší společnosti, pošleme primární kontakt e-mailem, abyste ověřili, že (1) nebo se zaregistroval účet partnerského centra, a (2) Tato e-mailová adresa patří vaší společnosti. Jakmile primární kontakt ověří svou e-mailovou adresu, budeme pokračovat v naší kontrole informací, které jste zadali.
 
-4.  Přečtěte si a přijměte podmínky a ujednání v Microsoft Partner Network smlouvě. 
+5.  Přečtěte si a přijměte podmínky a ujednání v Microsoft Partner Network smlouvě. 
 
-5.  Ověřte, že jste byli přidáni do skupiny agentů pro správu. Abyste mohli dokončit nastavování vašeho účtu, včetně přidávání dalších uživatelů, musíte mít oprávnění agenta správce. Pomocí těchto kroků můžete zobrazit nebo aktualizovat vaše oprávnění:
+6.  Ověřte, že jste byli přidáni do skupiny agentů pro správu. Abyste mohli dokončit nastavování vašeho účtu, včetně přidávání dalších uživatelů, musíte mít oprávnění agenta správce. Pomocí těchto kroků můžete zobrazit nebo aktualizovat vaše oprávnění:
 
     a. Na [řídicím panelu](https://partner.microsoft.com/dashboard/home**)partnerského centra vyberte ikonu **Nastavení** a potom vyberte **Správa uživatelů**.  
 
