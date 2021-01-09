@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 17c4e19216218d070515b34d326dcca6596e94a8
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 0f03ae17b9dd4b7a9097c7531dc6b519de70acef
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979800"
+ms.locfileid: "98041003"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -25,21 +25,59 @@ oznámení 2021: [leden](2021-january.md)
 2020 oznámení: [květen](2020-may.md)  |  [](2020-june.md)  |  [od 1](2020-july.md). června z  |  [](2020-august.md)  |  prosince do[září](2020-september.md).  |  [](2020-October.md)  |  [listopadu](2020-november.md)  |  [](2020-december.md) Spadá
 
 ________________
+
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Licence – základní aktualizace ceníku pro leden 2021 
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-08
+- Nabídky/trhy
+
+### <a name="summary"></a>Shrnutí
+
+Ceníky leden a únor pro nabídky založené na licencích byly aktualizovány tak, aby opravily určité nesprávné ceny seznamu.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všichni partneři procházejí prostřednictvím programu Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Podrobnosti 
+
+Ceníky založené na licencích pro leden 2021 a únor 2021 zahrnovaly několik nesprávných ceníků. Ovlivněné nabídky a měny jsou uvedené níže. Správné ceny byly aktualizovány a k dispozici k 7. lednu 2021 2PM PST (Tichomoří (běžný čas)). 
+
+   |**Název nabídky**|**ID nabídky**|**ID materiálu**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E3|2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091|AAA-35638| 
+   |Microsoft 365 Business Basic|bd938f12-058F-4927-bba3-ae36b1d2501c|AAA-10624|
+
+Ovlivněné měny: 
+
+- Problémy s cenami Microsoft 365 E3 byly omezeny pouze na tyto měny: JPY (japonština), GBP (Velká Británie libra), EUR (Evropské unie), AUD (Australský dolar). 
+- Microsoft 365 Business základní problémy se omezily jenom na USD (USA dolarů). 
+
+Partneři by měli pro správné ceny odkazovat na aktuálně dostupné ceníky leden a únor Preview. 
+
+### <a name="next-steps"></a>Další kroky
+
+- Partneři by si měli stáhnout nejnovější soubory ceníku z partnerského centra, aby získali opravené ceny za leden a únor. 
+- Globální správci pro ovlivněné klienty, kteří si koupili předplatné od 1. ledna do 6. ledna, se budou informovat prostřednictvím e-mailu partnerského centra před koncem ledna s dalšími podrobnostmi. 
+
+_____________ 
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> Změna fakturační měny partnerů v EU/ESVO pro nové nabídky obchodu
 
 ### <a name="categories"></a>Kategorie
 
 - Datum: 2021-01-07
-- Moderní pracoviště
+- Možnosti
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-- Přímý poskytovatel, nepřímý poskytovatel, nepřímý prodejce
 - Všichni partneři s podporou programu Cloud Solution Provider v oblasti EU/ESVO 
 
 ### <a name="details"></a>Podrobnosti
 
-V oblasti Evropské unie (EU)/European volného obchodu (ESVO) se všechny nové nabídky obchodování v programu Cloud Solution Provider použijí místo fakturačního umístění zákazníka. To znamená, že se partneři účtují společností Microsoft na základě jejich měny umístění, nikoli podle měny jejich zákazníků. To se provádí ve dvou fázích:
+V oblasti Evropské unie (EU)/European volného obchodu (ESVO) se všechny nové nabídky obchodování v programu Cloud Solution Provider použijí místo fakturačního umístění zákazníka. V takovém případě se partneři účtují společností Microsoft na základě jejich měny umístění, nikoli podle měny jejich zákazníků. To se provádí ve dvou fázích:
 
 **Fáze 1:**
 
@@ -47,7 +85,7 @@ V oblasti Evropské unie (EU)/European volného obchodu (ESVO) se všechny nové
 
 - Stávající zákazníci poprvé kupují nové nabídky obchodu – tenant vytvořený před 11. května 2020
 
-Od 1. ledna 2021 partneři, kteří mají čisté nové zákazníky, nakupují novou nabídku obchodu, nebo stávající zákazníci s klienty vytvořenými dřív, než 11. května 2020, aby si zakoupili své první nákupy nových nabídek obchodu, budou se účtovat za tyto nákupy v měně partnera umístění.  
+Od 1. ledna 2021 partneři, kteří mají čisté nové zákazníky, nakupují novou nabídku obchodu, nebo stávající zákazníci s klienty vytvořenými před 11. května 2020, aby si zakoupili své první nákupy nových nabídek obchodu, budou se účtovat za tyto nákupy v měně partnera Location.  
 
 Partneři se stávajícími zákazníky, kteří si už zakoupili nové nabídky pro obchod v CSP, se v této fázi budou dál účtovat v měně fakturačního umístění zákazníka. Kromě toho partneři se stávajícími zákazníky, kteří si chtějí koupit novou nabídku obchodu, jejíž klienti byli vytvořeni v nebo po 11. května 2020, se budou nadále účtovat v měně zákazníka.
 
@@ -61,9 +99,8 @@ Po fázi 1 a v rámci kalendářního roku 2021 Microsoft převede faktura nový
 Po fázi 2 se partneři v oblasti EU/ESVO budou fakturovat podle měny partnerského umístění pro všechny zákazníky a všechny nákupy CSP.
 
 >[!NOTE]
->Tato změna bude mít vliv jenom na účtovací měnu partnerů a ne na ceny za nové nabídky obchodování v CSP.
+>Tato změna bude mít vliv jenom na účtovací měnu partnerů a ne na ceny za nové nabídky obchodování v CSP. Mezi nové nabídky pro obchod v oboru pro tuto změnu patří: předplatná Azure, která jsou součástí plánu Azure, rezervacích Azure, předplatných softwaru, trvalého softwaru a nákupů z komerčního obchodu na webu Microsoft Azure v programu Cloud Solution Provider.
 
-Mezi nové nabídky pro obchod v oboru pro tuto změnu patří: předplatná Azure, která jsou součástí plánu Azure, rezervacích Azure, předplatných softwaru, trvalého softwaru a nákupů z komerčního obchodu na webu Microsoft Azure v programu Cloud Solution Provider.
 
 ### <a name="partner-benefits"></a>Výhody pro partnery
 
@@ -82,6 +119,13 @@ Projděte si informace o tomto tématu v [galerii operací](https://partner.micr
 
 Všechny otázky související s tímto oznámením kontaktují [podporu partnerského centra](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (vyžaduje se přihlášení).
 
+### <a name="change-log"></a>Protokol změn
+
+- 17. listopadu 2020: původní publikace
+ 
+- 7. ledna 2021: další scénář zahrnutý ve fázi 1 a fázi 2
+
+
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Vyřazení a vyřazení stávajících rozhraní API pro získání a vložení kvalifikace pro vzdělávací proces zákazníka na konci února 2021
 
@@ -91,9 +135,9 @@ Partneři prodávají akademické nabídky prostřednictvím programu Cloud Solu
 
 ### <a name="details"></a>Podrobnosti 
 
-Jedná se o následná vylepšení rozhraní API vydaná v prosinci 2020. V 2020 prosinci byly vydány nové rozhraní API GET a POST kvalifikací a v důsledku toho se stará rozhraní API pro získání a vložení dokončí na konci února 2021. V tuto chvíli budete muset použít nová rozhraní API pro získání a odeslání partnerského centra, aby bylo možné zakoupit nabídky vzdělávání. 
+Jedná se o následná vylepšení rozhraní API vydaná v prosinci 2020. V prosinci 2020 byly vydány nové rozhraní API GET a POST kvalifikace a v důsledku toho se stará rozhraní API pro získání a vložení dokončí na konci února 2021. V tuto chvíli budete muset použít nová rozhraní API pro získání a odeslání partnerského centra, aby bylo možné zakoupit nabídky vzdělávání. 
 
-## <a name="next-steps"></a>Další kroky
+### <a name="next-steps"></a>Další kroky
 
 - Pokud jste to ještě neudělali, aktualizujte nové rozhraní API, abyste mohli úspěšně a včas přejít.
 - Projděte si nové změny rozhraní API partnerského centra a [Průvodce v prostředcích připravenosti na operace: vylepšení procesu ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
@@ -157,7 +201,7 @@ Tyto SKU se odebraly od 1. ledna 2021 konečného ceníku a v tuto chvíli nebud
    |Operace Dynamics 365 – zařízení pro migraci v programu AX|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
    |Členové týmu Dynamics 365 pro program Migrace AX|1eb3ad0b-9de3-419d-8bfe-0d61bdd945b2|
 
-## <a name="next-steps"></a>Další kroky
+### <a name="next-steps"></a>Další kroky
 
 Projděte si materiály k tomuto tématu a sdílejte je s příslušnými zúčastněnými stranami ve vaší organizaci. 
 
