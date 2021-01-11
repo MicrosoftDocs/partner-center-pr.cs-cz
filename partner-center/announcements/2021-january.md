@@ -9,22 +9,81 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 0f03ae17b9dd4b7a9097c7531dc6b519de70acef
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98041003"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062446"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu za leden 2021.
 
-oznámení 2021: [leden](2021-january.md)
+oznámení 2021: leden
 
-2020 oznámení: [květen](2020-may.md)  |  [](2020-june.md)  |  [od 1](2020-july.md). června z  |  [](2020-august.md)  |  prosince do[září](2020-september.md).  |  [](2020-October.md)  |  [listopadu](2020-november.md)  |  [](2020-december.md) Spadá
+2020 oznámení: [květen](2020-may.md)  |  [](2020-june.md)  |  [od 1](2020-july.md). června do  |  [](2020-august.md)  |  [září](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [prosinec](2020-december.md)  
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>Aktualizace komerčních cen pro indickou Rupie 
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-08
+- Nabídky/trhy
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři CSP pro transakce v Indii
+
+### <a name="details"></a>Podrobnosti 
+
+Microsoft provádí změny v ceníku indických Rupie za účelem zarovnání cen za komerční software a online služby v Indii a v asijské oblasti.
+
+Úplné oznámení je dostupné jenom pro partnery Microsoftu. [Přihlaste se, abyste měli přístup k celému oznámení](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).
 
 ________________
+
+## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>Volání plánu a aktualizace pro telefonní systém od 1. února 20201
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-08
+- Nabídky/trhy
+
+### <a name="summary"></a>Shrnutí
+
+Připravujeme doplňkovou nabídku pro Microsoft 365, která bude zahrnovat telefonní systém a domácí plán volání a samostatné předplatné pro domácí volání, se brzy vybere země.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všichni partneři procházejí prostřednictvím programu Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Podrobnosti 
+
+Nabídka doplňku, která nabízí Microsoft 365 E1, E3 a E5, bude zahrnovat telefonní systém a místní volající plán. Kromě toho bude k dispozici nová nabídka samostatného domácího plánu volání pouze pro E5. Nové nabídky budou dostupné jenom pro zákazníky v USA, Portoriko a Kanadě. u všech ostatních zemí a oblastí zůstanou existující globální samostatné SKU a ceny stejné. 
+
+Tyto nabídky budou k dispozici komerčním, studentům, učitelům, státnímu komunitnímu cloudu (RSZ) a neziskovým zákazníkům v USA, Portoriko a Kanadě. Volání plánů nejsou k dispozici na žádném z ostatních oblastí USA.
+
+   |**Název nabídky**|**ID nabídky**|**ID materiálu**|
+   |-------------------|:------|:------|
+   |Týmy Microsoftu, které volají základy pro USA a Kanadu|1ee81de6-4d8b-4cf1-b926-2fd2a774a4ca|8N2-00010|
+   |Týmy Microsoftu, které volají základy pro USA a Kanadu (ceny za neziskové zaměstnance)|0c2ece0d-39b7-40ec-8c08-87c2b6c75d62|8N2-00011|
+   |Týmy Microsoftu, které volají základy pro nás a Kanadu pro vyučující|b8baa3b8-8cc2-4f26-a212-7fbeb28e7895|8N3-00003|
+   |Microsoft teams, který volá základy pro USA a Kanadu pro studenty|26956da8-eeb5-44e3-aa79-d36e0e42b930|8N3-00004|
+   |Týmy Microsoftu, které volají základy pro USA a Kanadu pro RSZ|7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1|8N4-00002|
+   |Microsoft 365 vnitrostátního volání plánu pro USA a Kanadu|60d2919e-427a-46c9-bd03-89cbad27d53f|TK2-00050|
+   |Microsoft 365 vnitrostátního volání plánu pro vyučujícího a Kanadu|602e7548-375b-4e01-bf79-a9a8b8ff16d4|LM7-00006|
+   |Microsoft 365 vnitrostátního volání plánu pro studenty a Kanadu|1f4b4375-3185-40cf-b044-117fe3b102c6|LM7-00007|
+   |Microsoft 365 domácím voláním pro RSZ pro USA a Kanadu|594ed84e-ddf8-4e40-9726-76c04bd29e3b|LM9-00023|
+
+### <a name="next-steps"></a>Další kroky
+
+- Tyto informace se dají sdílet s příslušnými kontakty ve vaší organizaci a porozumět příležitostem přeprodat a vzájemným prodejcům. 
+- Projděte si část prostředky v [příručce Teams partner](https://aka.ms/teamscallingmeetingsguide).
+
+_____________ 
 
 ## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Licence – základní aktualizace ceníku pro leden 2021 
 
@@ -77,24 +136,24 @@ _____________
 
 ### <a name="details"></a>Podrobnosti
 
-V oblasti Evropské unie (EU)/European volného obchodu (ESVO) se všechny nové nabídky obchodování v programu Cloud Solution Provider použijí místo fakturačního umístění zákazníka. V takovém případě se partneři účtují společností Microsoft na základě jejich měny umístění, nikoli podle měny jejich zákazníků. To se provádí ve dvou fázích:
+V oblasti Evropské unie (EU)/European volného obchodu (ESVO) se všechny nové nabídky obchodování v programu Cloud Solution Provider použijí místo fakturačního umístění zákazníka. V takovém případě se partneři účtují společností Microsoft na základě jejich měny umístění, nikoli podle měny jejich zákazníků. Tyto změny budou provedeny ve dvou fázích:
 
 **Fáze 1:**
 
 - Nový zákazník, který si koupí novou nabídku obchodování v CSP
 
-- Stávající zákazníci poprvé kupují nové nabídky obchodu – tenant vytvořený před 11. května 2020
+- Stávající zákazníci, kteří poprvé kupují nové nabídky obchodu – tenant vytvořený před 11. května 2020
 
-Od 1. ledna 2021 partneři, kteří mají čisté nové zákazníky, nakupují novou nabídku obchodu, nebo stávající zákazníci s klienty vytvořenými před 11. května 2020, aby si zakoupili své první nákupy nových nabídek obchodu, budou se účtovat za tyto nákupy v měně partnera Location.  
+Od 28. ledna 2021 partneři, kteří mají čisté nové zákazníky, nakupují novou nabídku obchodu, nebo stávající zákazníci s klienty vytvořenými před 11. května 2020 a jejich první nákup nových nabídek obchodu se bude účtovat za tyto nákupy v měně partnera umístění.  
 
 Partneři se stávajícími zákazníky, kteří si už zakoupili nové nabídky pro obchod v CSP, se v této fázi budou dál účtovat v měně fakturačního umístění zákazníka. Kromě toho partneři se stávajícími zákazníky, kteří si chtějí koupit novou nabídku obchodu, jejíž klienti byli vytvořeni v nebo po 11. května 2020, se budou nadále účtovat v měně zákazníka.
 
 **Fáze 2:**
 
 - Stávající zákazníci, kteří si už koupili novou nabídku pro obchodování ve zprostředkovateli CSP před fází 1
-- Stávající zákazníci poprvé kupují nové nabídky pro obchod – tenant byl vytvořen v nebo po 11. května 2020
+- Stávající zákazníci, kteří poprvé kupují nové nabídky obchodu – tenant se vytvořil nebo později než 11. května 2020
 
-Po fázi 1 a v rámci kalendářního roku 2021 Microsoft převede faktura nových nabídek pro obchod s existujícími zákazníky, kteří si zakoupili novou nabídku pro obchodování ve zprostředkovateli CSP před fází 1, a také zákazníky, kteří jejich klienti vytvořili v nebo po 11. května 2020, od měny zákazníka až po měnu umístění partnera. Před implementací této změny budou partneři předem upozorněni.
+Po fázi 1 a v kalendářním roce 2021 bude Microsoft převádět účtování nových nabídek obchodu pro partnery se stávajícími zákazníky, kteří si zakoupili novou nabídku pro obchodování ve zprostředkovateli CSP před fází 1, a také zákazníky, kteří mají své klienty vytvořenou v nebo později než 11. května 2020 z měny zákazníka na měnu umístění partnera. Před implementací této změny budou partneři předem upozorněni.
 
 Po fázi 2 se partneři v oblasti EU/ESVO budou fakturovat podle měny partnerského umístění pro všechny zákazníky a všechny nákupy CSP.
 
@@ -122,7 +181,6 @@ Všechny otázky související s tímto oznámením kontaktují [podporu partner
 ### <a name="change-log"></a>Protokol změn
 
 - 17. listopadu 2020: původní publikace
- 
 - 7. ledna 2021: další scénář zahrnutý ve fázi 1 a fázi 2
 
 
@@ -170,7 +228,7 @@ Microsoft oznamuje nadcházející nové změny nabídky Dynamics 365, které se
 
 **Další odpověď zákaznického hlasu pro Dynamics 365**
 
-Od 1. února 2021 vytvoří Microsoft novou nabídku "Další odpověď" s nárokem na odezvu s 1 K, aby nahradila stávající nabídku pomocí 2 K odpovědí na průzkum, což skončí 1. února 2021.
+Od 1. února 2021 vytvoří Microsoft novou nabídku "Další odpověď" s nárokem na odezvu 1 – k nahrazení stávající nabídky odpověďmi na otázky průzkumu 2-K, konec prodeje, který bude od 1. února 2021.
 
 Podrobnosti o SKU najdete v dokumentu karta "Customer Voice Další ODP" v [dokumentu Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) . Další informace najdete na [domovské stránce hlasu pro zákazníky Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/customer-voice/overview/) .
 
