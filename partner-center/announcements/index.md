@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979783"
+ms.locfileid: "98040986"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z ledna 2021** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Nabídky/trhy|[Aktualizace ceníku na základě licencí pro leden 2021](2021-january.md#4)|8\. ledna|
 |Moderní pracoviště|[EU/ESVO: Změna měny fakturace partnerských služeb pro nové komerční nabídky](2021-january.md#3)|7\. ledna|
 |Možnosti|[Vyřazení stávajících kvalifikačních rozhraní API GET a PUT pro proces ověřování zákazníků z oblasti vzdělávání do konce února 2021](2021-january.md#2)|5\. ledna|
 |Nabídky/trhy|[Nabídky Dynamics 365 pro únor 2021](2021-january.md#1)|4\. ledna|
