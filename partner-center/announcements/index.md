@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98040986"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062429"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,8 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z ledna 2021** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Nabídky/trhy|[Aktualizace komerčních cen pro INR](2021-january.md#6)|8\. ledna|
+|Nabídky/trhy|[Aktualizace pro telefonní systém a volací plán pro 1. února 2021](2021-january.md#5)|8\. ledna|
 |Nabídky/trhy|[Aktualizace ceníku na základě licencí pro leden 2021](2021-january.md#4)|8\. ledna|
 |Moderní pracoviště|[EU/ESVO: Změna měny fakturace partnerských služeb pro nové komerční nabídky](2021-january.md#3)|7\. ledna|
 |Možnosti|[Vyřazení stávajících kvalifikačních rozhraní API GET a PUT pro proces ověřování zákazníků z oblasti vzdělávání do konce února 2021](2021-january.md#2)|5\. ledna|
