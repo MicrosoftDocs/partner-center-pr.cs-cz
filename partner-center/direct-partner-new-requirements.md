@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514710"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105524"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Požadavky na registraci jako partner CSP s přímým vyúčtováním
 
-**Platí pro**
+**Příslušné role**
 
-- Partneři pro přímé vyúčtování v programu Cloud Solution Provider
+- Globální správce
 
 ## <a name="enroll-as-a-direct-partner"></a>Zaregistrovat jako přímý partner
 
-Jako partner s přímým přístupem jste vlastníkem ucelený vztah se zákazníkem a Microsoftem. Jako partner s přímým přístupem jste vlastníkem ucelený vztah se zákazníkem a Microsoftem. Pro partnery s přímým účtováním jsme aktualizovali požadavky na registraci k 27. října 2020. Tyto požadavky vám pomůžou zrychlit obchodní růst pomocí správného modelu poskytovatele Cloud Solution Provider a posílit vztahy se zákazníky díky službám a podpoře přidaných hodnot.  
+Jako partner s přímým přístupem jste vlastníkem ucelený vztah se zákazníkem a Microsoftem. Pro partnery s přímým účtováním jsme aktualizovali požadavky na registraci k 27. října 2020. Tyto požadavky vám pomůžou zrychlit obchodní růst pomocí správného modelu poskytovatele Cloud Solution Provider a posílit vztahy se zákazníky díky službám a podpoře přidaných hodnot.  
 
 ### <a name="minimum-requirements"></a>Minimální požadavky
 

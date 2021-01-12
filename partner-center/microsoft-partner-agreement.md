@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fc5a34bbb8326b38c13cc73ca9fff099f9b1c0db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979752"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105507"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Další informace o smlouvě Microsoft Partner Agreement (MPA) pro partnery programu CSP
 
@@ -95,4 +95,4 @@ Můžete se také podívat, jestli jste podepsali smlouvu, a to výběrem možno
  
 ## <a name="next-steps"></a>Další kroky
 
-- [Registrace do programu Cloud Solution Provider](enrolling-in-the-csp-program.md)
+- [Registrace do programu Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)
