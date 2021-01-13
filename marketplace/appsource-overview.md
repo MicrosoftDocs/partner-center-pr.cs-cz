@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
-ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
+ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "97771688"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146383"
 ---
 # <a name="what-is-microsoft-appsource"></a>Co je Microsoft AppSource?
 
@@ -48,7 +48,18 @@ Dodavatel softwaru definuje cenu, licenční smlouvu s koncovým uživatelem a z
 
 ## <a name="discover-saas-and-m365-integrated-apps"></a>Zjišťování integrovaných aplikací SaaS a M365
 
-Naši partneři se můžou propojit mezi SaaS a M365 integrovanými aplikacemi. Díky tomu můžete při získání propojené aplikace SaaS stáhnout a používat integrované aplikace. V takovém případě by výsledek hledání mohl vracet pouze aplikaci SaaS, která zobrazuje ikony integrovaných aplikací, které jsou s ní dodávány. Mezi SaaS a integrovanou aplikací můžete přecházet na stránce s podrobnostmi o produktu. Pokud aplikace SaaS vyžaduje nákup, přečtěte si téma [Jak zakoupit nabídky SaaS na Microsoft AppSource](purchase-software-appsource.md).
+Naši partneři můžou propojit mezi aplikací SaaS a jejími odpovídajícími doplňky pro Microsoft 365. Díky tomu můžete stahovat a používat doplňky z konkrétních Microsoft 365 služeb nebo produktů, když dostanete aplikaci SaaS propojenou s doplňky.
+
+V takovém případě může výsledek hledání vracet pouze aplikaci SaaS s odpovídajícími ikonami produktu SaaS na kartě produktu. Můžete přecházet mezi stránkami s podrobnostmi o produktu aplikace SaaS a integrovanou aplikací.
+
+Pokud hledáte samostatné doplňky, můžete je najít jedním z následujících způsobů:
+
+- Přihlaste se ke [katalogu produktů AppSource](https://appsource.microsoft.com/marketplace/apps/)a v levém navigačním panelu vyberte v části **produkty** možnost **Microsoft 365**. V seznamu produktů, které se zobrazí v části **Microsoft 365** vyberte pole pro požadované produkty.
+- Případně můžete vybrat ikonu produktu doplňku v rámci karty produktového produktu SaaS a přejít tak na konkrétní doplněk, který byl skrytý ze zobrazení vyhledávání.
+
+Pokud aplikace SaaS vyžaduje nákup, přečtěte si téma [Jak zakoupit nabídky SaaS na Microsoft AppSource](purchase-software-appsource.md).
+
+Uživatelé s rolí správce Microsoft 365 můžou SaaS i doplňky nasadit na jednom místě. Další informace najdete v tématu [test a nasazení aplikací Microsoft 365 – Microsoft 365 správce](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md).
 
 ## <a name="find-ratings-and-reviews"></a>Hledání hodnocení a recenzí
 
