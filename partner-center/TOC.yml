@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: Analytické sestavy
           items:
+            - name: Přehled
+              href: pci-overview-report.md
+            - name: Zákazník
+              href: pci-customer-report.md
+            - name: Výkon prodejce
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: Předplatná produktů
+              href: pci-product-subscriptions-report.md
             - name: Využití Azure
               href: pci-azure-usage-report.md
+            - name: Využití Teams
+              href: pci-teams-usage-report.md
+            - name: Využití Office 365
+              href: pci-office-365-usage-report.md
+            - name: Využití Dynamics
+              href: pci-dynamics-usage-report.md
+            - name: Využití Enterprise Mobility + Security
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: Využití Power BI
+              href: pci-power-bi-usage-report.md
+            - name: Školení
+              href: pci-training-dashboard.md
+            - name: Analýzy Microsoft Learn
+              href: ms-learn-analytics.md
+            - name: Kompetence
+              href: pci-competencies-report.md
             - name: Výhody
               href: pci-benefits-report.md
             - name: Sklon z programu CloudAscent
               href: pci-customer-opportunities.md
-            - name: Kompetence
-              href: pci-competencies-report.md
-            - name: Zákazník
-              href: pci-customer-report.md
-            - name: Analýzy Microsoft Learn
-              href: ms-learn-analytics.md
-            - name: Přehled
-              href: pci-overview-report.md
             - name: Licence na produkty
               href: pci-product-licenses-report.md
-            - name: Předplatná produktů
-              href: pci-product-subscriptions-report.md
-            - name: Výkon prodejce
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: Školení
-              href: pci-training-dashboard.md
         - name: Nejčastější dotazy k Insights
           href: pci-known-issues.md
         - name: Stažení analytických sestav
