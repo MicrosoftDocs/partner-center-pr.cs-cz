@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
+ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146383"
+ms.locfileid: "98166694"
 ---
 # <a name="what-is-microsoft-appsource"></a>Co je Microsoft AppSource?
 
@@ -59,7 +59,7 @@ Pokud hledáte samostatné doplňky, můžete je najít jedním z následující
 
 Pokud aplikace SaaS vyžaduje nákup, přečtěte si téma [Jak zakoupit nabídky SaaS na Microsoft AppSource](purchase-software-appsource.md).
 
-Uživatelé s rolí správce Microsoft 365 můžou SaaS i doplňky nasadit na jednom místě. Další informace najdete v tématu [test a nasazení aplikací Microsoft 365 – Microsoft 365 správce](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md).
+Uživatelé s rolí správce Microsoft 365 můžou SaaS i doplňky nasadit na jednom místě. Další informace najdete v tématu [test a nasazení aplikací Microsoft 365 – Microsoft 365 správce](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps).
 
 ## <a name="find-ratings-and-reviews"></a>Hledání hodnocení a recenzí
 
