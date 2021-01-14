@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 71ffee8426244c211338e97becab516c07251e45
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94499127"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182575"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pole souboru pro odsouhlasení s jedním časovým nákupem CSP
 
@@ -28,9 +28,9 @@ Další informace o souborech pro odsouhlasení najdete v tématu [použití sou
 | CustomerId | Jedinečný identifikátor Microsoft pro zákazníka ve formátu GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Název organizace zákazníka, jak je uveden v partnerském centru. Tento sloupec je důležitý pro sjednocení faktury se systémovými informacemi. | *Moderní DE2 zák Johnny* |
 | CustomerDomainName | Název domény zákazníka. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Země, kde se zákazník nachází. Podívejte se na úplný [seznam zemí](/partner-center/regional-authorization-overview) pro vaši oblast.  | *DE* |
+| CustomerCountry | Země, kde se zákazník nachází. Podívejte se na úplný [seznam zemí](./regional-authorization-overview.md) pro vaši oblast.  | *DE* |
 | InvoiceNumber | Číslo faktury přidružené k souboru odsouhlasení.  | *G002297372* |
-| MpnId | Identifikátor MPN partnera CSP. Další informace najdete v tématu [How to itemize by partner](/partner-center/use-the-reconciliation-files#itemize-reconciliation-files-by-partner). | *6034453* |
+| MpnId | Identifikátor MPN partnera CSP. Další informace najdete v tématu [How to itemize by partner](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identifikátor MPN prodejce záznamu pro předplatné. | *6048879* |
 | OrderId | Jedinečný identifikátor pro objednávku na platformě fakturace Microsoftu. Může být užitečné k identifikaci objednávky při kontaktování podpory. Nepoužívá se pro odsouhlasení. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
 | OrderDate | Datum, kdy byla objednávka umístěna. | *10/3/2020* |
@@ -39,8 +39,8 @@ Další informace o souborech pro odsouhlasení najdete v tématu [použití sou
 | AvailabilityId | Jedinečný identifikátor dostupnosti. | *DZH318Z08B80* |
 | SkuName | Název SKU. | *Tabulky – LRS* |
 | ProductName | Název produktu | *Tabulky* |
-| ChargeType | [Typ poplatků](/partner-center/recon-file-charge-types) nebo úprav. | *Nový* |
-| Jednotková cena | Cena za licenci, jak je publikována v ceníku v době nákupu. Ujistěte se, že se shoduje s informacemi uloženými v systému fakturace během odsouhlasení. | *0,045* |
+| ChargeType | [Typ poplatků](./recon-file-charge-types.md) nebo úprav. | *Nový* |
+| UnitPrice | Cena za licenci, jak je publikována v ceníku v době nákupu. Ujistěte se, že se shoduje s informacemi uloženými v systému fakturace během odsouhlasení. | *0,045* |
 | Množství | Počet licencí. Ujistěte se, že se shoduje s informacemi uloženými v systému fakturace během odsouhlasení. | *1* |
 | Mezisoučet | Celkem před zdaněním Mezisoučet by měl být roven Fakturovatelné množství vynásobenému platnou jednotkovou cenou. | *0* |
 | TaxTotal | Poplatek za daň V závislosti na daňových pravidlech na trhu a konkrétních okolnostech. | *0* |
@@ -54,7 +54,7 @@ Další informace o souborech pro odsouhlasení najdete v tématu [použití sou
 | ChargeStartDate | Datum, kdy se účtuje poplatky za poplatek za předplatné služby. Pokud je předplatné zakoupené s ročním fakturačním obdobím a měsíčním fakturačním plánem, pak v prvním souboru pro odsouhlasení se jedná o den zakoupení předplatného. Počínaje dalším souborem pro odsouhlasení se zvýší o 30 dní. | *9/1/2020* |
 | ChargeEndDate | Koncový den poplatků za fakturační cyklus předplatného. Pokud je předplatné zakoupené s ročním fakturačním obdobím a měsíčním fakturačním plánem, pak v prvním souboru pro odsouhlasení se jedná o 30. den po zakoupení předplatného. Počínaje dalším souborem pro odsouhlasení se zvýší o 30 dní. | *30. září 2020* |
 | TermAndBillingCycle | Doba trvání závazku v době nákupu pokračovat v předplatném. | *Uložená data (GB/měsíc)* |
-| EffectiveUnitPrice | Poměrná cena za jednotku pro výpočet nákladů na fakturační cyklus. Slevy, úpravy ve fakturačních dnech a další faktory určují efektivní jednotkovou cenu. Další informace najdete v tématu [efektivní kalkulace jednotkové ceny](/partner-center/effective-unit-price-calculation).  | *0,03825* |
+| EffectiveUnitPrice | Poměrná cena za jednotku pro výpočet nákladů na fakturační cyklus. Slevy, úpravy ve fakturačních dnech a další faktory určují efektivní jednotkovou cenu. Další informace najdete v tématu [efektivní kalkulace jednotkové ceny](./effective-unit-price-calculation.md).  | *0,03825* |
 | Jednotkách UnitType | Typ jednotky, ve které se měřič účtuje. | *1 GB/měsíc* |
 | AlternateId | Alternativní ID položky odkazovaného řádku objednávky | *6dc5c039750a* |
 | BillableQuantity | Celkové fakturované množství.  | *0,005001* |

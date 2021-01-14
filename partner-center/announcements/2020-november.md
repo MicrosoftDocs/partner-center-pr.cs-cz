@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439078"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182541"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu za listopadu 2020.
 
-2020 oznámení: [duben](2020-april.md)v  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [červenci, červenec](2020-july.md),  |  [August](2020-august.md)  |  [září](2020-september.md)  |  [October](2020-October.md) | Listopadu
+2020 oznámení: [duben](2020-april.md)v  |  [](2020-may.md)  |  [](2020-june.md)  |  [červenci, červenec](2020-july.md),  |  [](2020-august.md)  |  [září](2020-september.md)  |  [](2020-October.md) | Listopadu
 
 ______________
 ## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Představujeme možnost zakoupit si nabídky SaaS s využitím účtovaných faktur v partnerském centru 
@@ -40,7 +40,7 @@ Všichni partneři
 
 ### <a name="details"></a>Podrobnosti
 
-Společnost Microsoft zavádí možnost pro partnery v programu Cloud Solution Provider, včetně nepřímých poskytovatelů a přímých partnerů, k nákupu nabídek SaaS s využitím [účtovaných faktur](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)   v partnerském centru. V dnešní době můžou partneři v programu Cloud Solution Provider zobrazit a [koupit nabídky SaaS s využitím účtované fakturace prostřednictvím Azure Portal](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase).Toto nové prostředí umožní partnerům zakoupit si tyto nabídky prostřednictvím tržiště CSP v partnerském centru a rozhraní API jako pro další typy SaaS nabídek. 
+Společnost Microsoft zavádí možnost pro partnery v programu Cloud Solution Provider, včetně nepřímých poskytovatelů a přímých partnerů, k nákupu nabídek SaaS s využitím [účtovaných faktur](/azure/marketplace/partner-center-portal/saas-metered-billing)   v partnerském centru. V dnešní době můžou partneři v programu Cloud Solution Provider zobrazit a [koupit nabídky SaaS s využitím účtované fakturace prostřednictvím Azure Portal](../csp-commercial-marketplace-purchase.md).Toto nové prostředí umožní partnerům zakoupit si tyto nabídky prostřednictvím tržiště CSP v partnerském centru a rozhraní API jako pro další typy SaaS nabídek. 
 
 ### <a name="next-steps"></a>Další kroky
 
@@ -273,7 +273,7 @@ Mezi nové nabídky pro obchod v oboru pro tuto změnu patří: předplatná Azu
 
 - Pro partnery, kteří ještě nepřijali nové nabídky obchodu, se tato změna zarovnává s předchozím modelem fakturace partnerů, takže partneři můžou snadněji přejít na nové prostředí pro obchod v rámci CSP. 
 
-### <a name="resources"></a>Zdroje a prostředky 
+### <a name="resources"></a>Zdroje 
 
 Projděte si informace o tomto tématu v [galerii operací] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ na webu Microsoft Partner.  
 
@@ -308,24 +308,24 @@ Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků,
 |**Operace**|**Dokumentace k Partnerskému centru**|
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions|[Získání všech předplatných zákazníka](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Získat předplatné podle ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/Orders||[Získat všechny objednávky zákazníka](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Získat objednávku podle ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Získat stav zřizování předplatného](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Správa objednávek a Správa předplatného](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Získat seznam doplňků pro předplatné](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Získat seznam nároků na Azure pro předplatné](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Získat stav registrace předplatného](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/Customers/{Customer-tenant-ID}/Transfers|[Získat všechny přenosy zákazníka](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Získat stav upgradu produktu](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/Customers/{Customer-ID}/Subscriptions/{Subscription-ID}/Conversions|[Získat seznam nabídek zkušebního převodu](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Získání předplatného podle ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/Customers/{customer_id}/Orders||[Získání všech objednávek zákazníka](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Získání objednávky podle ID](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Získání stavu zřizování předplatných](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Správa objednávek a Správa předplatného](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Získání seznamu doplňků pro předplatné](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Získání seznamu nároků Azure pro předplatné](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Získání stavu registrace předplatných](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/Customers/{Customer-tenant-ID}/Transfers|[Získat všechny přenosy zákazníka](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Získání stavu upgradu produktů](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/Customers/{Customer-ID}/Subscriptions/{Subscription-ID}/Conversions|[Získání seznamu nabídek převod zkušebních verzí](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-Toto oznámení se zaměřuje na poskytování partnerů s včasnou informovaností o nadcházejících změnách, což jim umožní připravit se. Důrazně doporučujeme, aby se partneři seznámili s těmito rozhraními API, a zvažte použití rozhraní API protokolu aktivit pro zajištění vyšší efektivity a zabránění omezování. Další informace o této funkci najdete v tématu podrobnosti o [omezeních rozhraní API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+Toto oznámení se zaměřuje na poskytování partnerů s včasnou informovaností o nadcházejících změnách, což jim umožní připravit se. Důrazně doporučujeme, aby se partneři seznámili s těmito rozhraními API, a zvažte použití rozhraní API protokolu aktivit pro zajištění vyšší efektivity a zabránění omezování. Další informace o této funkci najdete v tématu podrobnosti o [omezeních rozhraní API](/partner-center/develop/api-throttling-guidance). 
 
 ### <a name="next-steps"></a>Další kroky
 
-Projděte si [pokyny k omezování rozhraní API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)a proveďte potřebné kroky. 
+Projděte si [pokyny k omezování rozhraní API](/partner-center/develop/api-throttling-guidance)a proveďte potřebné kroky. 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Kontext
 
 - V únoru požádali partnery o podepsání smlouvy o zákaznících Microsoftu (MCuA). To bylo migrace z předchozí smlouvy Microsoft Cloud (MCA). 
-- Jako součást tohoto partnera pro změny požadovali, aby partneři byli požádáni o zahrnutí parametru typu smlouvy, jak je popsáno [zde](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement).
+- Jako součást tohoto partnera pro změny požadovali, aby partneři byli požádáni o zahrnutí parametru typu smlouvy, jak je popsáno [zde](/partner-center/develop/get-confirmation-of-customer-agreement).
 
 ### <a name="what-happened-next"></a>Co se stalo s následujícím:
 
@@ -673,7 +673,7 @@ Tyto propagační akce mají vliv na tyto zákazníky:
 - Klienti s čistým novým zákazníkem
 - Stávající vzdálení klienti, kteří nemají aktivní nebo nedávno zrušené předplatné (během posledních 30 dnů), mají licenci na podnikovou nebo bezplatnou licenci na CSP, web Direct nebo jiný komerční kanál Microsoftu.
 
-#### <a name="additional-resources"></a>Další zdroje informací
+#### <a name="additional-resources"></a>Další zdroje
 
 - Další informace o obchodním hlasu najdete na [stránce Microsoft 365 Business hlasového partnera](https://www.microsoft.com/microsoft-365/partners/businessvoice) . 
 - Přečtěte si další informace o této propagačních DOTAZech v souvisejícím [partnerovi](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).

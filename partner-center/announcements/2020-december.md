@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736532"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182558"
 ---
 # <a name="december-2020-announcements"></a>Oznámení z prosince 2020
 
@@ -152,7 +152,7 @@ Nový Microsoft Edge je náš nejlepší výraz pro moderní prohlížeč a mysl
 **Dopad změny**
 
 - Od **listopadu 30 2020** se zákazníci už nebudou moci připojit k webové aplikaci Microsoft Teams v Internet Exploreru 11. Microsoft se domnívá, že zákazníci budou mít na maximum Microsoft 365 a nejlepší výraz pro moderní prohlížeč při použití [nového Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
-- Od **března 9 2021** budou aplikace a weby vytvořené pro starší verze Microsoft Edge nadále fungovat v novém Microsoft Edge, ale pokud dojde k potížím s kompatibilitou, bude mít aplikace k dispozici [příslib](https://aka.ms/appassure) k zajištění podpory.
+- Od **března 9 2021** budou aplikace a weby vytvořené pro starší verze Microsoft Edge nadále fungovat v novém Microsoft Edge, ale pokud dojde k potížím s kompatibilitou, bude mít aplikace k dispozici [příslib](/fasttrack/products-and-capabilities#app-assure) k zajištění podpory.
 - Od **srpna 17 2021** budou mít zákazníci zhoršené prostředí nebo se nebudou moci připojit k Microsoft 365 aplikacím a službám v Internet Exploreru 11. Microsoft se domnívá, že zákazníci budou mít na maximum Microsoft 365 a nejlepší výraz pro moderní prohlížeč při použití [nového Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
 
 ### <a name="next-steps"></a>Další kroky
@@ -280,7 +280,7 @@ K následujícímu datu dojde také:
 
 - V partnerském centru se znovu zveřejní seznam ceníků trvalého softwaru CSP. Najdete ho v části **software** [nabídky & ceny > prodeje](https://partnercenter.microsoft.com/pcv/sales) na webu, která obsahuje další produkty a geografické oblasti. Všechny podrobnosti najdete [tady](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- Funkce plnění softwaru partnerského centra a licenčního klíče se vyřadí – viz [oznámení](https://docs.microsoft.com/partner-center/announcements/2020-september#17) a partneři budou používat centrum pro správu Microsoft 365 výhradně pro tento účel. Tím zajistíte nejbezpečnější a efektivní prostředí pro zákazníky. Další informace o softwaru centra pro správu Microsoft 365 najdete v článku [Přehled](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [běžné úlohy](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)a [Možnosti plnění licenčního klíče](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Funkce plnění softwaru partnerského centra a licenčního klíče se vyřadí – viz [oznámení](./2020-september.md#17) a partneři budou používat centrum pro správu Microsoft 365 výhradně pro tento účel. Tím zajistíte nejbezpečnější a efektivní prostředí pro zákazníky. Další informace o softwaru centra pro správu Microsoft 365 najdete v článku [Přehled](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [běžné úlohy](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)a [Možnosti plnění licenčního klíče](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Trvalé software v CSP
 
@@ -292,7 +292,7 @@ Zkontrolujte následující zdroje a sdílejte je s příslušnými kontakty ve 
 
 - [Poskytovatel CSP – trvalé softwarové produkty a](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) geografické oblasti, které se přidávají k 19. lednu 2021
 
-- Microsoft 365 [Přehled](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)centra pro správu, [běžných úloh](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)a [možností plnění licenčních klíčů](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- Microsoft 365 [Přehled](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)centra pro správu, [běžných úloh](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)a [možností plnění licenčních klíčů](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 - [Rozšiřování příležitostí pro partnery v programu Cloud Solution Provider](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (oznámení partnerů)
 
@@ -573,4 +573,4 @@ Společnost Microsoft si vyhrazuje právo zkontrolovat stav každého zákazník
 
 - 10. listopadu 2020: připomenutí pro registraci k testování 
 
-- 3. prosince 2020: Dynamická aktualizace rozhraní API 
+- 3. prosince 2020: Dynamická aktualizace rozhraní API

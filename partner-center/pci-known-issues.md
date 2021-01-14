@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389301"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182320"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Insights – Nejčastější dotazy
 
@@ -26,15 +26,15 @@ Souvisí se všemi známými problémy při zobrazení nebo vykreslování sesta
 
 Otázka) **nevidím centrum Insights v účtu partnerského centra. Co mám dělat?**
 
-A) Zkontrolujte, že jste přihlášeni k účtu MPN vaší organizace. Z vašeho účtu CSP nemáte přístup k řídicímu panelu Insights. Také se ujistěte, že máte k dispozici správce sestav nebo role manažera sestavy pro správu vašeho globálního správce.  Další informace o rolích najdete v [tomto článku](https://docs.microsoft.com/partner-center/pci-roles).
+A) Zkontrolujte, že jste přihlášeni k účtu MPN vaší organizace. Z vašeho účtu CSP nemáte přístup k řídicímu panelu Insights. Také se ujistěte, že máte k dispozici správce sestav nebo role manažera sestavy pro správu vašeho globálního správce.  Další informace o rolích najdete v [tomto článku](./pci-roles.md).
 
 Dotaz) **v sestavách nemůžeme zobrazit data o účtovaných výnosech a spotřebovaných výnosech z Azure (ACR). Proč je to?**
 
-A) fakturované tržby a ACR data jsou k dispozici pouze uživatelům, kteří jsou správci sestav od manažera.  Další informace o rolích najdete v [tomto článku](https://docs.microsoft.com/partner-center/pci-roles).
+A) fakturované tržby a ACR data jsou k dispozici pouze uživatelům, kteří jsou správci sestav od manažera.  Další informace o rolích najdete v [tomto článku](./pci-roles.md).
 
 Dotaz) **v sestavách nemůžeme zobrazit data o účtovaných výnosech a spotřebovaných výnosech z Azure (ACR). Proč je to?**
 
-A) fakturované tržby a ACR data jsou k dispozici pouze uživatelům, kteří jsou správci sestav od manažera. Další informace o rolích najdete v [tomto článku](https://docs.microsoft.com/partner-center/pci-roles).
+A) fakturované tržby a ACR data jsou k dispozici pouze uživatelům, kteří jsou správci sestav od manažera. Další informace o rolích najdete v [tomto článku](./pci-roles.md).
 
 Otázka) **země uvedená pro zákazníka pravděpodobně není správná. Proč je to?**
 

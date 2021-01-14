@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622163"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182405"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Principy výpočtu a vyplácení kreditu získaného partnerem
 
@@ -36,7 +36,7 @@ Pro získání partnerského kreditu pro partnery (PEC) platí následující po
 
 - Pro získání realizovaného kreditu za prostředky Azure, které spravujete, musíte mít aktivní smlouvu MPN a platnou roli řízení přístupu na základě role (RBAC).
 
-- Musíte mít nepřetržitou provozní kontrolu a správu prostředků Azure zákazníka v CSP. To znamená, že musíte mít oprávnění správce v předplatném Azure zákazníka, skupině prostředků Azure a prostředku Azure. V případě nepřímých zprostředkovatelů a jejich nepřímých prodejců budou mít nepřímý poskytovatel nárok na PEC, pokud je tento operační řízení buď nepřímým poskytovatelem, nebo nepřímým prodejcem. Další informace najdete v tématu obnovení [oprávnění správce pro odběry CSP Azure](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
+- Musíte mít nepřetržitou provozní kontrolu a správu prostředků Azure zákazníka v CSP. To znamená, že musíte mít oprávnění správce v předplatném Azure zákazníka, skupině prostředků Azure a prostředku Azure. V případě nepřímých zprostředkovatelů a jejich nepřímých prodejců budou mít nepřímý poskytovatel nárok na PEC, pokud je tento operační řízení buď nepřímým poskytovatelem, nebo nepřímým prodejcem. Další informace najdete v tématu obnovení [oprávnění správce pro odběry CSP Azure](./revoke-reinstate-csp.md).
 
 - Kromě výše uvedených požadavků platí, že PEC se dá použít jenom pro služby uvedené v cenách Azure Plan spotřebování, které můžete exportovat na stránce s [cenami plánu Azure](https://partner.microsoft.com/commerce/sales) .
 
@@ -48,13 +48,13 @@ Pro získání partnerského kreditu pro partnery (PEC) platí následující po
 
 - Řadič PEC se získal na úrovni prostředků Azure. Pokud máte platný přístup buď na úrovni předplatného nebo skupiny prostředků, bude každý prostředek, který se zahrne do vyšší entity, získat PEC.
 
-- Podrobnosti o řadičích PEC jsou k dispozici také na stránce [Azure cost management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners) .
+- Podrobnosti o řadičích PEC jsou k dispozici také na stránce [Azure cost management](/azure/cost-management-billing/costs/get-started-partners) .
 
 ### <a name="calculation"></a>Výpočet
 
 PEC se počítá denně a je možné ji zobrazit v souboru denního využití a v souboru rekognoskaci pro měsíční fakturu. Partner (nepřímý poskytovatel nebo nepřímý prodejce) musí mít přístup k celému dni (nepřetržitě), aby mohl získat PEC. Na spravovaných prostředcích Azure se každý den počítá PEC. Maximální počet řadičů PEC pro dané fakturační období (měsíc) je 15%. Partneři uchovávají trvalý privilegovaný přístup v průběhu měsíce (rozsah přístupu) a u všech oprávněných prostředků (rozsah přístupu) získají úplné PEC o 15%. Snížení rozsahu a rozpětí rozpětí bude mít za měsíc nižší sazbu PEC. Denní hodnocený soubor využití se denně zobrazuje na základě prostředku Azure, ať už se používá nebo ne. Partneři taky můžou zaregistrovat výstrahy a monitorovat změny trvalého privilegovaného přístupu.
 
-## <a name="azure-cost-management"></a>Správa nákladů v Azure
+## <a name="azure-cost-management"></a>Azure Cost Management
 
 Azure Cost Management (ACM) s využitím analýzy nákladů umožňuje jako partnera zobrazit náklady, které dostaly výhody PEC.  
 

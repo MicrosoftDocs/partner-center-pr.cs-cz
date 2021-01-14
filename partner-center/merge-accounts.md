@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189743"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182592"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Sloučení partnerského účtu s jiným partnerským účtem
 
@@ -77,6 +77,8 @@ Pokud se rozhodnete přijmout pozvánku ke sloučení účtů: · Vaše ID MPN a
 
 - Všechny doklady Software Assurance se uchovávají v obou účtech. 
 
+- Neexistuje žádný vliv na přidružení partnera DPOR nebo PAL. Všechny přidružené příjmové příspěvky začnou přesměrovat do nového globálního účtu partnera.
+
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Pozvání společnosti pro sloučení účtu partnerského centra s účtem partnerského centra
 
 >[!Note]
@@ -84,11 +86,11 @@ Pokud se rozhodnete přijmout pozvánku ke sloučení účtů: · Vaše ID MPN a
 
 1. Na řídicím panelu partnerského centra vyberte **Nastavení** . 
 
-2. Vyberte **Sloučení účtů** .
+2. Vyberte **Sloučení účtů**.
 
 3. Přidejte ID MPN nacházející se v **partnerském profilu** účtu, který chcete s vámi vyzvat ke sloučení. Musíte použít jeho globální ID MPN partnera. Nemůžete použít umístění MPN ID.
 
-4. Když vyberete **Sloučit** , pošle se Partnerská společnost Pozvánka. Po přijetí žádosti můžete sloučení účtů zahájit v partnerském centru. Pokud společnost vaši žádost o sloučení účtů odmítne, může vysvětlit, proč žádost zamítla. Seznam všech sloučení vašich účtů najdete v části **Historie sloučení** .
+4. Když vyberete **Sloučit**, pošle se Partnerská společnost Pozvánka. Po přijetí žádosti můžete sloučení účtů zahájit v partnerském centru. Pokud společnost vaši žádost o sloučení účtů odmítne, může vysvětlit, proč žádost zamítla. Seznam všech sloučení vašich účtů najdete v části **Historie sloučení**.
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Příklad dvou společností, které slučují účty
 

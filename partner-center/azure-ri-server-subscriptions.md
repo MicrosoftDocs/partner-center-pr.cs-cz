@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691346"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182490"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Získání, zřízení, & Správa předplatných virtuálních počítačů Azure (rezervované instance) a předplatných serverů pro zákazníky
 
@@ -47,7 +47,7 @@ Azure Reservations zákazníkům poskytuje flexibilitu virtualizace pro nejrůzn
 
 Díky nespárované kombinaci působivých cen a nespárované flexibilitě nasazení uvidí zákazníci nejlepší celkovou hodnotu, když zvolí Azure Reservations.
 
-- Viz [Nákupní rezervace](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) na webu Azure Portal.
+- Viz [Nákupní rezervace](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) na webu Azure Portal.
 
 - V kategorii **Microsoft Azure rezervované instance** na stránce [ceny a nabídky](https://partner.microsoft.com/dashboard/sell/pricingandoffers) v partnerském centru pro předplatné softwaru a roční PŘEDplatná pro Linux ISV se podívejte na **seznam komerčních cen CSP Azure** .
 
@@ -69,24 +69,24 @@ K tomu, abyste se seznámili s tím, jak můžete Azure Reservations umístit z�
 
 1. Přečtěte si a pochopte si službu [partner Center – příručka pro nové obchodní operace](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
-2. Vysvětlení aktualizací Azure Reservations a předplatných serveru v [rozhraní API partnerského centra (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances).
+2. Vysvětlení aktualizací Azure Reservations a předplatných serveru v [rozhraní API partnerského centra (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances).
 
 
 ### <a name="sales-readiness"></a>Připravenost prodeje
 
 - [Licence pro klientský přístup k vzdálené ploše (VP CAL) (oznámení)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
-- [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure Reserved VM Instances (Azure Portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [Předplatná serveru](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [Předplatná serveru](./csp-software-subscriptions.md)
 
-- [Rezervace databáze SQL (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [Rezervace databáze SQL (Azure Portal)](/azure/sql-database/sql-database-reserved-capacity)
 
-- [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Azure Cosmos DB (Azure Portal)](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [Spravovaná instance SQL (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [Spravovaná instance SQL (Azure Portal)](/azure/sql-database/sql-database-managed-instance)
 
-- [SUSE a Red Hat Enterprise Linux (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SUSE a Red Hat Enterprise Linux (Azure Portal)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
 - [Red Hat Linux v Azure](https://azure.com/redhat)
 
@@ -98,7 +98,7 @@ K tomu, abyste se seznámili s tím, jak můžete Azure Reservations umístit z�
 
 - [Cenová Kalkulačka Azure](https://azure.microsoft.com/pricing/calculator)
 
-- [Rezervace jednotek Azure Databricks](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Rezervace jednotek Azure Databricks](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>Školení

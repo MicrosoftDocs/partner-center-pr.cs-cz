@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97579974"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182371"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Nastavení vícefaktorového ověřování pro uživatele
 
@@ -39,11 +39,10 @@ Tato akce povolí MFA pro tohoto uživatele. Povoleno znamená, že uživatel bu
 :::image type="content" source="images/MFA/securityverification.png" alt-text="Určete, jak se má ověřit":::
 
 >[!NOTE]
->Uživatelům můžete **vyhovět** , aby používali vícefaktorové ověřování pomocí stejných kroků jako výše a **vynutili** výběr. Pokud se chcete dozvědět víc, přečtěte si téma [povolení Multi-Factor Authentication Azure pro jednotlivé uživatele k zabezpečení přihlašovacích událostí](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates). 
+>Uživatelům můžete **vyhovět** , aby používali vícefaktorové ověřování pomocí stejných kroků jako výše a **vynutili** výběr. Pokud se chcete dozvědět víc, přečtěte si téma [povolení Multi-Factor Authentication Azure pro jednotlivé uživatele k zabezpečení přihlašovacích událostí](/azure/active-directory/authentication/howto-mfa-userstates). 
 
 Všichni uživatelé začínají **zakázáni**. Když zaregistrujete uživatele v Multi-Factor Authentication Azure pro jednotlivé uživatele, jejich stav se změní na **povoleno**. Když se uživatelé s povoleným přihlášením a dokončí proces registrace, jejich stav se změní na **vynutilo**. 
 
 ## <a name="next-steps"></a>Další kroky
 
 - [Přiřazování rolí a oprávnění uživatelům](permissions-overview.md)
-

@@ -8,12 +8,12 @@ ms.prod: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: c5b8b9fcc247818315887109e2163c0722bfbd97
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: d0021be17ab12b6e549b0e5263772a4a1e42f8a3
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96536259"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182337"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Rychlý Start: Správa privátních Azure Marketplace pomocí prostředí PowerShell
 
@@ -30,10 +30,10 @@ Tento článek popisuje, jak můžete spravovat nabídky v privátních Azure Ma
   * [Nainstalujte modul AZ PowerShell](/powershell/azure/install-az-ps).
   * Připojte se k účtu Azure pomocí rutiny [Connect-AzAccount](/powershell/module/az.accounts/connect-azaccount) .
 * Pokud se rozhodnete použít Azure Cloud Shell:
-  * Další informace najdete v tématu [přehled Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview) .
+  * Další informace najdete v tématu [přehled Azure Cloud Shell](/azure/cloud-shell/overview) .
 
   > [!IMPORTANT]
-  > I když je modul PowerShellu **AZ. Marketplace** ve verzi Preview, musíte ho nainstalovat samostatně pomocí `Install-Module` rutiny. Až bude tento modul PowerShellu všeobecně dostupný, bude součástí budoucna ve výchozím nastavení AZ PowerShell Module releases a Available v rámci Azure Cloud Shell.
+  > I když je modul PowerShellu **AZ. Marketplace** ve verzi Preview, musíte ho nainstalovat samostatně pomocí `Install-Module` rutiny. Jakmile bude tento powershellový modul obecně dostupný, stane se součástí budoucích verzí modulu Az PowerShellu a bude ve výchozím nastavení dostupný v rámci Azure Cloud Shellu.
 
   ```azurepowershell-interactive
   Install-Module -Name Az.Marketplace

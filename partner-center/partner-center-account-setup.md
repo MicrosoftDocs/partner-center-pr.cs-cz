@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 3c5541323d691799d3f89b94ed9556c2458c737d
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011518"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182456"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Správa účtu partnerského centra – profil společnosti, informace o bance, role, oprávnění a další
 
@@ -122,9 +122,9 @@ K dispozici je mnoho programů partnerského centra. Každý program má různé
 
 Další informace o registraci v určitých programech partnerského centra najdete v následujícím částečném seznamu:
 
-- [Program pro komerční tržiště](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Program pro komerční tržiště](/azure/marketplace/partner-center-portal/create-account)
 - [Výhody Microsoft Partner Networkho členství](mpn-overview.md)
-- [Program CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Program CSP](./enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Další informace o registraci v aplikacích partnerského centra najdete v tématu také o [síťových prostředcích partnerů](https://partner.microsoft.com/).

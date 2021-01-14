@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007475"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182473"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace nákupu
 
@@ -25,7 +25,7 @@ Při nákupu prostřednictvím Azure Marketplace Eliminujte složitost správy v
 
 ## <a name="permission-to-purchase"></a>Oprávnění k nákupu
 
-Po nalezení správné softwarové aplikace je dokončení nákupu jednoduché. V rámci předplatného Azure ale budete potřebovat vhodná oprávnění. Vzhledem k tomu, že Azure pracuje na modelu správy [Access Control na základě rolí](https://docs.microsoft.com/azure/role-based-access-control/overview) (RBAC), váš účet potřebuje k nákupu nákup oprávnění vlastníka nebo **přispěvatele** **předplatného** .
+Po nalezení správné softwarové aplikace je dokončení nákupu jednoduché. V rámci předplatného Azure ale budete potřebovat vhodná oprávnění. Vzhledem k tomu, že Azure pracuje na modelu správy [Access Control na základě rolí](/azure/role-based-access-control/overview) (RBAC), váš účet potřebuje k nákupu nákup oprávnění vlastníka nebo **přispěvatele** **předplatného** .
 
 Před dokončením nákupu se ujistěte, že uživatel má v tenantovi Azure správnou konfiguraci. To vám pomůže zabránit chybám při nákupu.
 
@@ -55,7 +55,7 @@ Tato nastavení platí pro všechny uživatele, kteří mají přístup k vašem
 
 ## <a name="cost-management"></a>Správa nákladů
 
-Při nákupu produktů od Azure Marketplace chcete získat přehledy, které vám pomůžou se správou nákladů. Azure Cost Management je bezplatný nástroj pro zobrazení informací o produktech, které jste zakoupili. Pomocí Cost Management můžete zobrazit podrobné informace o tom, jaké služby strávíte v průběhu času a jak se tyto náklady budou sledovat s rozpočty, které jste nastavili. Kromě nastavení rozpočtů můžete plánovat sestavy a analyzovat náklady na předplatné. Přečtěte si další informace o Azure Cost Management tím, že Microsoft Learn modul [vyplníte o analýzu nákladů a vytvoříte rozpočty s Azure cost management](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
+Při nákupu produktů od Azure Marketplace chcete získat přehledy, které vám pomůžou se správou nákladů. Azure Cost Management je bezplatný nástroj pro zobrazení informací o produktech, které jste zakoupili. Pomocí Cost Management můžete zobrazit podrobné informace o tom, jaké služby strávíte v průběhu času a jak se tyto náklady budou sledovat s rozpočty, které jste nastavili. Kromě nastavení rozpočtů můžete plánovat sestavy a analyzovat náklady na předplatné. Přečtěte si další informace o Azure Cost Management tím, že Microsoft Learn modul [vyplníte o analýzu nákladů a vytvoříte rozpočty s Azure cost management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 V nástroji pro analýzu nákladů v rámci služby Azure Cost Management si můžete zobrazit poplatky a faktury z Azure Marketplace.
 
@@ -63,4 +63,4 @@ V nástroji pro analýzu nákladů v rámci služby Azure Cost Management si mů
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Fakturace a fakturace](billing-invoicing.md)
+- [Vyúčtování a fakturace](billing-invoicing.md)

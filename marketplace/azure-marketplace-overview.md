@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 89ed8850d92861ea7da2d83a9945980f0ca71daa
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007483"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182524"
 ---
 # <a name="what-is-azure-marketplace"></a>Co je Azure Marketplace?
 
@@ -59,11 +59,11 @@ Pro platbu je k dispozici několik možností:
 - Platební karta
 - Faktura (s existující nákupní smlouvou Microsoft)
 
-Nákupy Azure Marketplace se automaticky přidají do faktury Azure a účtují se podle způsobu platby přidruženého k účtu. Nápovědu k přidružení různých platebních účtů najdete v tématu o [kontrole typu fakturačního účtu](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) v tématu **externí poplatky za Azure** .
+Nákupy Azure Marketplace se automaticky přidají do faktury Azure a účtují se podle způsobu platby přidruženého k účtu. Nápovědu k přidružení různých platebních účtů najdete v tématu o [kontrole typu fakturačního účtu](/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) v tématu **externí poplatky za Azure** .
 
 ## <a name="certification-and-security"></a>Certifikace a zabezpečení
 
-Každý produkt dostupný v Azure Marketplace byl certifikován podle konkrétních kritérií. Pořád vám doporučujeme pečlivě zkontrolovat každý produkt a zajistit, aby splňoval jedinečné požadavky vaší organizace. Další informace o zásadách certifikace, které u každého typu nabídky prozkoumáte, najdete v tématu [zásady certifikace](https://docs.microsoft.com/legal/marketplace/certification-policies)komerčního tržiště.
+Každý produkt dostupný v Azure Marketplace byl certifikován podle konkrétních kritérií. Pořád vám doporučujeme pečlivě zkontrolovat každý produkt a zajistit, aby splňoval jedinečné požadavky vaší organizace. Další informace o zásadách certifikace, které u každého typu nabídky prozkoumáte, najdete v tématu [zásady certifikace](/legal/marketplace/certification-policies)komerčního tržiště.
 
 ## <a name="terms-and-conditions"></a>podmínky a ujednání
 

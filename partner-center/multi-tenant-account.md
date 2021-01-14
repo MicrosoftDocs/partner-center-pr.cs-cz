@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105544"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182425"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Přidání a správa několika tenantů v účtu partnerského centra
 
@@ -22,8 +22,9 @@ ms.locfileid: "98105544"
 **Příslušné role**
 
 - Globální správce
+- Správce účtu
 
-Tato funkce umožňuje spravovat více tenantů vaší společnosti a konsolidovat je do vašeho účtu v Partnerském centru. Existuje mnoho důvodů, proč možná budete muset ve svém účtu partnerského centra spravovat více tenantů Azure AD. Například:
+Tato funkce umožňuje spravovat více tenantů vaší společnosti a konsolidovat je do vašeho účtu v Partnerském centru. Existuje mnoho důvodů, proč možná budete muset ve svém účtu partnerského centra spravovat více tenantů Azure AD. Příklad:
 
 - Vaše společnost si může koupit jinou společnost a vy chcete, aby zaměstnanci v nové firmě mohli používat Partnerské centrum. Chcete však, aby tyto dvě společnosti byly oddělené. V takovém případě přiřadíte tenanta Azure AD nové společnosti k vašemu globálnímu účtu vašeho partnera (PGA). Toto přidružení umožní uživatelům v obou společnostech pracovat v partnerském centru.
 
