@@ -1,7 +1,7 @@
 ---
 title: Správa účtu v partnerském centru
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se používat partnerské Centrum ke správě profilu vaší společnosti, informací o bankách a daních, rolích, oprávněních a dalších.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c5541323d691799d3f89b94ed9556c2458c737d
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182456"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235966"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Správa účtu partnerského centra – profil společnosti, informace o bance, role, oprávnění a další
 
-**Příslušné role** – globální správce, správce MPN
+**Příslušné role** – globální správce
+- Správce účtu MPN
 
 Účet, který vytvoříte v partnerském centru při registraci, je váš pracovní e-mail a vaše firemní informace. Po vytvoření účtu se dokončí nastavení úplného profilu vaší společnosti, včetně podrobností o podpoře, případného případného osvobození od daně ze souboru a primárních kontaktních informací. Účet vaší společnosti bude také obsahovat uživatelské účty pro kohokoli, kdo bude používat partnerské Centrum pro přidávání a správu zákazníků, prodej předplatných, práci s fakturací a fakturaci, vytváření obchodních profilů, správu odkazů, práci s pobídkami a poskytování podpory.
 
@@ -60,6 +61,10 @@ Tyto stránky můžete použít ke správě podrobných oblastí vaší firmy, v
 ### <a name="legal-info"></a>Právní informace
 
 Když se poprvé připojíte k partnerskému centru, vaše společnost projde procesem ověřování s Microsoftem. Stav ověřování můžete sledovat na stránce **právní informace** . Zobrazuje primární kontakt (který bude kontaktovat společnost Microsoft ohledně partnerských otázek), jakož i hlavní zákonný kontakt (osoba, která spravuje vaše právní informace a stav). Tady jsou uvedená všechna firemní umístění vaší společnosti a dají se sem přidat.
+
+### <a name="primary-contact-email"></a>Primární kontaktní e-mail
+
+Primární kontaktní e-mail vám budeme informovat o ověření vašeho účtu. Je velmi důležité, aby byl e-mailem, který zadáte pro primární kontakt, ten, který je pravidelně spravován a sledován.  
 
 Přečtěte si další informace o [ověřování a informacích o vašem účtu](verification-responses.md).
 

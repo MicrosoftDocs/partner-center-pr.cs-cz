@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.openlocfilehash: f92b801d5e3294e461d07f9089b545a41efc4d6a
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062446"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235932"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -23,6 +23,24 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 oznámení 2021: leden
 
 2020 oznámení: [květen](2020-may.md)  |  [](2020-june.md)  |  [od 1](2020-july.md). června do  |  [](2020-august.md)  |  [září](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [prosinec](2020-december.md)  
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Komerční aktualizace cen pro norské koruna 
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-14
+- Nabídky/trhy
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Poskytovatelé cloudových řešení, kteří používají norské koruna.
+
+### <a name="details"></a>Podrobnosti
+
+Od 1. března 2021 se norské ceny koruna pro komerční software v místním softwaru a online služby se změní, aby se v oblasti znovu zarovnaly s převládajícími cenovými úrovněmi.
+Úplné oznámení je dostupné jenom pro partnery Microsoftu. [Přihlaste se, abyste měli přístup k celému oznámení](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).
 
 _____________ 
 
@@ -52,7 +70,7 @@ ________________
 - Datum: 2021-01-08
 - Nabídky/trhy
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Připravujeme doplňkovou nabídku pro Microsoft 365, která bude zahrnovat telefonní systém a domácí plán volání a samostatné předplatné pro domácí volání, se brzy vybere země.
 
@@ -92,7 +110,7 @@ _____________
 - Datum: 2021-01-08
 - Nabídky/trhy
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Ceníky leden a únor pro nabídky založené na licencích byly aktualizovány tak, aby opravily určité nesprávné ceny seznamu.
 
@@ -210,7 +228,7 @@ _____________
 - Datum: 2021-01-04
 - Nabídky
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Nové změny nabídky Dynamics 365 se spustí v únoru 2021.
 

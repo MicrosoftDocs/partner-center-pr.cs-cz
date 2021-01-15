@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b0c9611927d644cc7a5beecc89e0a8cc6f066b7
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215879"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235915"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Ověření informací o profilu organizace v partnerském centru
 
@@ -27,8 +27,9 @@ Při prvním přihlášení do partnerského centra jako globální správce bys
 
 Váš partnerský profil se skládá z vašich obchodních informací, primárního kontaktního jména a e-mailu, programů, ve kterých se vaše společnost účastní, a v případě potřeby i dalších společností, které jsou teď sloučené do vaší právní firmy. Ujistěte se, že název a adresa společnosti ve vašem oficiálním obchodním profilu neobsahují pravopisné chyby a zkratky a přesně odpovídají vašim formálním záznamům o registraci firmy. Pokud pracujete jako jediný vlastník, musíte jako svůj právní název použít název vaší společnosti.
 
-- U účtů MPN může účet globálního správce i správce účtu aktualizovat platný název společnosti.
-- U nepřímých účtů prodejců CSP může globální správce aktualizovat platný název společnosti. 
+>[!Important]
+>- U účtů MPN může účet globálního správce i správce účtu aktualizovat platný název společnosti.
+>- U nepřímých účtů prodejců CSP může globální správce aktualizovat platný název společnosti. 
 
 ## <a name="locate-the-legal-business-profile"></a>Vyhledat obchodní profil s právními předpisy
 
@@ -83,12 +84,7 @@ Pokud jste globálním správcem, správcem fakturace nebo agentem pro správu, 
 
 ## <a name="next-steps"></a>Další kroky
 
-
 - [Kontrola stavu ověření](verification-responses.md)
  
 - [Spravovat umístění MPN](manage-locations.md)
 
-
-
-Pro program MPN může správce globálních správců a účtů aktualizovat platný název společnosti.
-Pro nepřímý prodejce CSP může globální správce aktualizovat platný název společnosti.
