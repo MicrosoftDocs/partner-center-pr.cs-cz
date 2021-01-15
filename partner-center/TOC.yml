@@ -675,8 +675,12 @@
         - name: Definice dat Insights
           href: pci-data-definitions.md
     - name: Indikátory podílu partnerů
-      href: partner-contribution-indicators.md
-      displayName: mpn
+      items:
+        - name: Pro kompetenci Cloudové obchodní aplikace
+          href: partner-contribution-indicators.md
+        - name: Pro kompetenci Cloudová řešení pro malé a střední firmy
+          href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
+      displayName: 'mpn, cloud business applications competency, small and midmarket cloud solutions competency, CBA SMB option'
     - name: Analýzy dalších dat
       items:
         - name: Využití Azure ze strany zákazníků
