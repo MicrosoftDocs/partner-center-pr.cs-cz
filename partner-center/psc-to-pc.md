@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950582"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215947"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Průvodce spoluprodejem v partnerském centru (PC) pro partnery, kteří se migrují z partnerského prodejního připojení (PSC)
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950582"
 - Správce PSC (partner Sales Connect)
 - Manažer koupě partnera Sales Connect (PSC)
 
-Tento článek vás provede partnery, kteří se migrují z partnerského prodejního připojení do partnerského centra, aby mohli i nadále vytvářet a spravovat společné obchody v partnerském centru.
+Tento článek poskytuje pokyny pro partnery, kteří se migrují z partnerských obchodních připojení k partnerskému centru, aby mohli dál vytvářet a spravovat obchody v partnerském centru.
 
 Jak víte, vaše společnost ztratí přístup k řadiči PSC po 31. březnu 2021. Pořád ale najdete všechno, co chcete dělat v partnerském centru, jako je například vytváření spolupracujících obchodů, Správa vašich obchodů a jednání s obchody, které vám poslali prodejci Microsoftu.
 
@@ -353,7 +353,6 @@ Pokud jste si ještě neučinili témata nápovědy pro spoluprodeji, pomůžou 
 
 ## <a name="next-steps"></a>Další kroky
 
-Postupujte podle těchto dalších prostředků:
 
 - [Partner Sales Connect to](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) Workbook – sešit – sešit pro zarovnávání prodejních procesů a rolí partnerů pomocí nových prodejních procesů prostřednictvím partnerského centra vs. partner Sales Connect.
 - [Provozní příručka pro partnery v partnerském centru](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) – pokyny k identifikaci operačního modelu prostřednictvím partnerského centra za účelem správy zájemců nebo příležitostí společného prodeje a evidence obchodů.

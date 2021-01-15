@@ -10,18 +10,16 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e58c8ed68e40e9ffb4f2ed5555dc780e21570a7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0d1cd25558cd7c0421398fc2cc9b93a1bcc57bbc
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527328"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215913"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Přehled a nejčastější dotazy k aplikaci partner Center Analytics pro Power BI (přímé partnery v CSP)
 
-**Platí pro**
 
-- Partnerské centrum
 
 **Příslušné role**
 
@@ -55,7 +53,7 @@ Doporučujeme, abyste si před instalací aplikace proložili odpovědi na nejč
 | --- | ---------- |
 | Jak aplikace stojí? | Aplikace je zadarmo. Pokud si chcete zobrazit náhled aplikace, můžete si [zaregistrovat bezplatnou služba Power BI](https://go.microsoft.com/fwlink/p/?linkid=845347) a použít ji k přizpůsobení řídicích panelů a sestav. Pokud chcete ostatním ve vaší společnosti umožnit používání aplikace, musíte mít aktivní předplatné Microsoft Power BI Professional nebo Microsoft Power BI Premium. |
 | Kdo se může připojit k aplikaci pro analýzu v partnerském centru? | Tato verze aplikace je určená pro přímé partnery (vrstva 1) v programu Cloud Solution Provider. Jste přímým partnerem, pokud obchodujete přímo s Microsoftem a se zákazníky. Pokud chcete aplikaci nainstalovat, musíte být globálním správcem, agentem správce nebo správcem fakturace pro účet vaší společnosti. |
-| Jsem nepřímým poskytovatelem; Můžu aplikaci použít? | Yes. Váš globální správce, agent pro správu nebo správce fakturace může nainstalovat aplikaci a zobrazit data o vašich přímých zákaznících. K budoucím vydáním můžou patřit i funkce, které vám umožní zobrazit data o nepřímých prodejci. |
+| Jsem nepřímým poskytovatelem; Můžu aplikaci použít? | Ano. Váš globální správce, agent pro správu nebo správce fakturace může nainstalovat aplikaci a zobrazit data o vašich přímých zákaznících. K budoucím vydáním můžou patřit i funkce, které vám umožní zobrazit data o nepřímých prodejci. |
 | Jak můžu získat informace o budoucích verzích? | Oznámení a verze Preview jsou k dispozici prostřednictvím programu Microsoft Partner Center pro včasnou žádost. Svůj názor můžete také sdílet prostřednictvím programu předčasného osvojení. Pokud jste se ještě neúčastnili programu, přečtěte si, jak se připojit. Podívejte [se na téma zapojení rozhraní API partnerského centra a programu SDK pro dřívějšího přijímají](/partner-center/develop/early-adopter-program).  |
 | Kdo může v aplikaci přizpůsobit řídicí panely a sestavy? | Pouze globální správce, Agent správce nebo správce fakturace, kteří si nainstalují aplikaci, mohou upravit řídicí panel nebo vytvořit nové sestavy ve webovém rozhraní Power BI. |
 | Kdo může v aplikaci zobrazit řídicí panely a sestavy? | Globální správce, Agent správce nebo správce fakturace, kteří si aplikaci nainstalovali, můžou sdílet data aplikace s kýmkoli, kdo má aktivní předplatné Microsoft Power BI Professional nebo Microsoft Power BI Premium. |

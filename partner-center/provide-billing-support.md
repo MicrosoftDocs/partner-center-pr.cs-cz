@@ -9,30 +9,27 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92526993"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215930"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Poskytněte zákazníkům podporu pro fakturaci a pomůžou odpovědět na dotazy související s fakturací.
 
-**Platí pro**
-
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
 
 **Příslušné role**
+
 - Globální správce
 - Správce uživatelů
 - Agent helpdesku
 - Správce fakturace
 - Agent prodeje
 
-Fakturační vztah se svými zákazníky je váš a zodpovídáte za zodpovězení otázek souvisejících s fakturací od vašich zákazníků.
+Fakturační vztah se svými zákazníky je váš a zodpovídáte za zodpovězení otázek souvisejících s fakturací, které vaše zákazníci mohou mít.
 
-- Zodpovídáte za platbu v čase do Microsoftu.
+- Zodpovídáte za jednorázové platby Microsoftu.
 
 - Doporučujeme vytvořit zásadu jasného inkasa se zákazníky, kteří si budou pořídit proces vašich kolekcí a kdy bude mít vliv na přístup k předplatným, službám nebo softwaru zákazníka.
 
@@ -59,11 +56,14 @@ Partneři se vyžadují, aby mohli přijímat příchozí žádosti o podporu od
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Poskytování fakturace, správy předplatných a technické podpory 
 
-Každá online služba má konkrétní a podrobné požadavky na poskytování fakturace, správy předplatných a technické podpory zákazníkům. Další informace naleznete v tématech:
+Každá online služba má konkrétní a podrobné požadavky na poskytování fakturace, správy předplatných a technické podpory zákazníkům. Další informace najdete tady:
 
 - [Předplatná Dynamics 365 prodávaná prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
 - [Předplatná Azure prodávaná prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Předplatná Office 365 prodávaná prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>Další kroky
+
+- [Zajištění technické podpory](provide-technical-support.md)

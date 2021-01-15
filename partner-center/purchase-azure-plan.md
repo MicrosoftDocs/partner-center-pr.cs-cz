@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f9908be183983c590c52b38465041c908c91d7c
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92527125"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215896"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Zakupte si plán Azure pro zákazníky, kteří & získat přístup k nejnovějším službám Azure podle tarifů průběžných plateb.
 
@@ -26,6 +26,7 @@ ms.locfileid: "92527125"
 Když si koupíte plán Azure pro zákazníky v rámci smlouvy o zákaznících Microsoftu, máte přístup k úplnému katalogu nejnovějších služeb Azure podle tarifů průběžných plateb. Partneři CSP teď budou mít přístup k jakékoli službě Azure, když budou všeobecně k dispozici. Partner může mít několik předplatných Azure v rámci plánu Azure. 
 
 ## <a name="countryregion-availability"></a>Dostupnost země nebo oblasti
+
 Nové prostředí pro obchod v CSP pro Azure je v současné době naplánováno k dispozici v 139 zemích. Podívejte se na úplný seznam těchto [zemí nebo oblastí](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x). 
 
 ## <a name="how-to-purchase-azure-plan"></a>Jak koupit plán Azure
@@ -55,7 +56,7 @@ Partner musí potvrdit, že zákazník zkontroloval a přijal smluvní smlouvy p
 
 ## <a name="review-and-buy"></a>Kontrola a nákup
 
-Vrátíte se na stránku **Přidat produkt** , kde vidíte, že byl přidán plán Azure. Vyberte **zkontrolovat** a zkontrolujte svůj nákup a pak vyberte **koupit** . 
+Vrátíte se na stránku **Přidat produkt** , kde vidíte, že byl přidán plán Azure. Vyberte **zkontrolovat** a zkontrolujte svůj nákup a pak vyberte **koupit**. 
 
 >[!Note]
 >Po zakoupení plánu Azure pro zákazníka už nemůžete pro tohoto zákazníky koupit Microsoft Azure (0145p). V rámci plánu Azure budete muset vytvořit budoucí předplatná.
@@ -64,9 +65,9 @@ Vrátíte se na stránku **Přidat produkt** , kde vidíte, že byl přidán pl�
   
 V rámci plánu Azure si taky můžete koupit Microsoft Azure rezervace jménem svých zákazníků v partnerském centru. (Nebo, pokud chcete, můžete [svým zákazníkům udělit oprávnění k nákupu svých vlastních rezervací Azure](give-customers-permission.md) z předchozího předplatného, které pro ně jste si zakoupili.)
 
-1. V nabídce partnerského centra na [řídicím panelu](https://partner.microsoft.com/dashboard/)vyberte **zákazníci** . Najděte zákazníka, který chce koupit rezervace Azure, a potom výběrem šipky dolů rozbalte řádek zákazníka.
+1. V nabídce partnerského centra na [řídicím panelu](https://partner.microsoft.com/dashboard/)vyberte **zákazníci**. Najděte zákazníka, který chce koupit rezervace Azure, a potom výběrem šipky dolů rozbalte řádek zákazníka.
 
-2. Vyberte **Přidat produkty** a potom vyberte **Azure** . 
+2. Vyberte **Přidat produkty** a potom vyberte **Azure**. 
 
    - Vyberte segment trhu zákazníka ze seznamu **segmentů** .
    - V seznamu **typ produktu** vyberte možnost **rezervace** .
@@ -78,21 +79,21 @@ Rezervace Azure musí být přidružené k aktivnímu plánu Azure. V seznamu p�
 >Pokud zákazník ještě nemá aktivní plán Azure, vyberte Azure a přidejte ho hned teď. Další pokyny najdete v tématu [Nákup rezervací Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
 >[!Note]
->Obor rezervace se dá nastavit jenom na **Shared** , aktuálně v partnerském centru. Pokud chcete vybrat rozsah jednoho předplatného nebo aktualizovat ze sdíleného do jednoho oboru předplatné, na **portálu pro správu Microsoft Azure** použijte následující pokyny. 
+>Obor rezervace se dá nastavit jenom na **Shared**, aktuálně v partnerském centru. Pokud chcete vybrat rozsah jednoho předplatného nebo aktualizovat ze sdíleného do jednoho oboru předplatné, na **portálu pro správu Microsoft Azure** použijte následující pokyny. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Koupit":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Nastavení rezervací sdíleného rozsahu":::
 
 Postup při správě rezervace zákazníka v Azure Portal: 
 
 1. Od **zákazníků** vyberte zákazníka, kterého chcete spravovat. 
 
-2. Pomocí šipky dolů rozbalte řádek zákazníka a vyberte **Microsoft Azure portálu pro správu** .  
+2. Pomocí šipky dolů rozbalte řádek zákazníka a vyberte **Microsoft Azure portálu pro správu**.  
  
 ## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Zobrazení předplatných Azure v rámci plánu Azure
 
 Na stránce **předplatná** v části na základě využití rozbalte **plán Azure** , abyste viděli přidružená předplatná Azure v rámci plánu Azure.
 
-:::image type="content" source="images/azure/addprods2.png" alt-text="Koupit"::: 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Zobrazit seznam předplatných Azure"::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Přidání předplatných a konfigurace prostředků

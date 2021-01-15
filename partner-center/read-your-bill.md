@@ -9,19 +9,15 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92527080"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215811"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Seznamte se s fakturací a souborem pro odsouhlasení – Zjistěte, jak je najít v partnerském centru.
 
-**Platí pro**
-
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
 
 **Příslušné role**
 
@@ -36,19 +32,19 @@ Vaše **Faktura** je **souhrnem všech poplatků za partnerské Centrum** (v rá
 
 Microsoft bude vydávat jednu fakturu za všechny poplatky založené na licencích (například na Office 365) a poplatky za využití (například Azure) a samostatnou fakturu pro jednorázové poplatky (například Azure CAL, Marketplace nebo plán Azure).
 
-Příklad:  
+Třeba  
 
-**Scénář 1 [jediná měna]** : partner má nákupy pro nabídku 145P a licence O365,  
+**Scénář 1 [jediná měna]**: partner má nákupy pro nabídku 145P a licence O365,  
 
 - Partner získá jednu fakturu soubory PDF a 2 odsouhlasení pokrývající poplatky za O365 i Azure (145p).  
 
-**Scénář 2 [jediná měna]** : partner nabízí nákupy pro plán Azure rezervovaných, Marketplace a/nebo Azure společně s nákupy v 145p.
+**Scénář 2 [jediná měna]**: partner nabízí nákupy pro plán Azure rezervovaných, Marketplace a/nebo Azure společně s nákupy v 145p.
 
 - Partner dostane pro Azure (145p) jednu fakturu a soubor pro odsouhlasení. 
 
 - Partner dostane další fakturační soubory PDF a soubor s odsouhlaskou, který pokrývá poplatky za Azure rezervovaných, Marketplace a plán Azure. 
 
-**Scénář 3 [více měn]** : partner má nákupy pro Azure Ri v DKK a v plánu Azure v eurech společně s 145p nákupy v EUR.
+**Scénář 3 [více měn]**: partner má nákupy pro Azure Ri v DKK a v plánu Azure v eurech společně s 145p nákupy v EUR.
 
 - Partner dostane jeden soubor PDF s fakturací a soubor pro odsouhlasení, který pokrývá poplatky za Azure RI v DKK. 
 
@@ -60,9 +56,9 @@ Příklad:
 
 Fakturu můžete najít na stránce fakturace řídicího panelu v partnerském centru. Na této stránce můžete také najít historii fakturace, trendy útraty a soubory pro odsouhlasení. 
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra. 
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum. 
 
-2. V nabídce na levé straně vyberte **fakturace** . 
+2. V nabídce na levé straně vyberte **fakturace**. 
 
 3. Na stránce fakturace vyberte fakturu, kterou chcete stáhnout. 
 
@@ -72,28 +68,32 @@ Předchozí faktury najdete v části Historie fakturace. Zvolte příslušný r
 
 ## <a name="understanding-invoice-pdf"></a>Porozumění formátu PDF faktury 
 
-**Faktury za využití a poplatky na základě licencí** : faktury za poplatky za služby, jako je Office 365 a Azure, budou dostupné do dvou (2) dnů od vybraného fakturačního data [UTC].  
+**Faktury za využití a poplatky na základě licencí**: faktury za poplatky za služby, jako je Office 365 a Azure, budou dostupné do dvou (2) dnů od vybraného fakturačního data [UTC].  
 
-**Faktury za jednorázová a periodické poplatky** : faktury za poplatky za služby, jako je Azure ri, plán Azure, Marketplace budou dostupné až do 8. roku v každém měsíci.  
+**Faktury za jednorázová a periodické poplatky**: faktury za poplatky za služby, jako je Azure ri, plán Azure, Marketplace budou dostupné až do 8. roku v každém měsíci.  
 
 Níže jsou uvedená některá klíčová pole v dokumentu PDF faktury –
 
-**Číslo faktury** : jedinečný identifikátor dokumentu faktury vygenerovaný pro příslušné fakturační období. 
+**Číslo faktury**: jedinečný identifikátor dokumentu faktury vygenerovaný pro příslušné fakturační období. 
 
-**Fakturační období** : Toto je období, během kterého máte využití a služby založené na licencích. 
+**Fakturační období**: Toto je období, během kterého máte využití a služby založené na licencích. 
 
-**Datum faktury** : datum fakturace nebo datum výročí, na které se fakturuje každý měsíc. 
+**Datum faktury**: datum fakturace nebo datum výročí, na které se fakturuje každý měsíc. 
 
-**Datum splatnosti platby** : datum, kdy se platba musí přijmout. 
+**Datum splatnosti platby**: datum, kdy se platba musí přijmout. 
 
-**Poplatky** : částka splatná v fakturační měně pro příslušné fakturační období. 
+**Poplatky**: částka splatná v fakturační měně pro příslušné fakturační období. 
 
-**Kredity** : kredity (například SLA) nebo úpravy provedené u předplatných (například zvýšení nebo snížení licence). 
+**Kredity**: kredity (například SLA) nebo úpravy provedené u předplatných (například zvýšení nebo snížení licence). 
 
-**Pokyny pro platbu** : Popis způsobu platby faktury na základě vaší oblasti. Při platbě vždycky nezapomeňte zahrnout číslo vaší faktury. 
+**Pokyny pro platbu**: Popis způsobu platby faktury na základě vaší oblasti. Při platbě vždycky nezapomeňte zahrnout číslo vaší faktury. 
 
 Podrobný popis všech polí v souboru faktury (včetně polí pro jednorázové poplatky) naleznete v tématu [pole souboru faktury](invoice-file.md). 
 
 ## <a name="understand-reconciliation-files"></a>Pochopení souborů pro odsouhlasení
 
  Soubory pro odsouhlasení, které poskytují podrobné informace o vašich nákladech a jejich podrobnostech, jsou k dispozici ke stažení spolu s PDF faktury. Soubory pro odsouhlasení zahrnují identifikátory zákazníků a identifikátory předplatných, které můžete použít k vytvoření faktur zákazníků. Další informace o souborech rekognoskaci najdete v článku  [Jak používat soubory pro odsouhlasení](use-the-reconciliation-files.md) . 
+
+## <a name="next-steps"></a>Další kroky
+
+- [Jak používat soubory pro odsouhlasení](use-the-reconciliation-files.md)

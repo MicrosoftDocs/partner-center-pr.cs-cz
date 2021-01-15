@@ -10,18 +10,15 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64467ec608c2ca87dbc2b7d5dfb02adb08f13c18
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "92526999"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215845"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalace a vyzkoušení aplikace Analýzy v Partnerském centru pro Microsoft Power BI
 
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 -   Globální správce
@@ -54,11 +51,11 @@ Než nainstalujete verzi Preview partnerského centra pro analýzu, ujistěte se
 
 1. V předchozí části klikněte na příslušný odkaz na zdroj aplikace (přímý poskytovatel/nepřímý poskytovatel/nepřímý prodejce).
 
-2. Klikněte na **získat hned** . 
+2. Klikněte na **získat hned**. 
 
 3. Kliknutím na **pokračovat** souhlasíte s podmínkami a ujednáními.
 
-4. V části už máte účet? Vyberte **Přihlásit se** .
+4. V části už máte účet? Vyberte **Přihlásit se**.
 
 5. Na další stránce zadejte své uživatelské jméno a heslo Power BI a pak vyberte přihlásit se.
 
@@ -70,7 +67,7 @@ Než nainstalujete verzi Preview partnerského centra pro analýzu, ujistěte se
 
 9. Začněte tím, že otevřete obrazovku nové aplikace.
 
-10. Pokud se chcete připojit k datům, klikněte na **připojit** .
+10. Pokud se chcete připojit k datům, klikněte na **připojit**.
 
 11. V místním okně **připojit k partnerskému centru Analytics** ověřte, že je **metoda ověřování** nastavená na **oAuth2** , nebo vyberte **oAuth2** ze seznamu, pokud není. 
 
@@ -79,7 +76,7 @@ Než nainstalujete verzi Preview partnerského centra pro analýzu, ujistěte se
 
 12. Na stránce **konektor Datacenter Center Analytics** se přihlaste pomocí účtu globálního správce, agenta správce nebo přihlašovacích údajů správce fakturace pro TENANTA Azure AD vaší společnosti a pak vyberte **Přihlásit** se.
  
-13. Po zobrazení výzvy k zadání přístupu vyberte **přijmout** . 
+13. Po zobrazení výzvy k zadání přístupu vyberte **přijmout**. 
 
 Jakmile je služba pro analýzu partnerského centra připojená k Power BI, začnou se data načíst. V závislosti na množství dat může to trvat až 10 minut. 
 

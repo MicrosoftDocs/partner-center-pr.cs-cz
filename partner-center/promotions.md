@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11d31ba8fc33c965be7d5a6eeb4b5a32e5a4fa77
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "92527006"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215862"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Pomocí propagačních akcí můžete přilákat nové zákazníky a ušetřit jim úspory.
 
-**Platí pro**
 
-- Partnerské centrum
-- Partneři v programu Cloud Solution Provider (CSP)
 
 **Příslušné role**
 
@@ -47,7 +44,7 @@ Věnujte prosím chvíli kontrole těchto důležitých faktů o propagačních 
 
 ## <a name="see-available-promotions"></a>Zobrazení dostupných propagačních akcí
 
-Případné propagační akce, na které máte nárok, můžete zobrazit na stránce **Propagační akce** . Vyberte **propagační materiály** z nabídky **partnerského centra** , abyste viděli seznam aktuálních propagačních akcí, a to společně s slevou, typem povýšení a počátečním a koncovým datem pro předplatné. Pokud nejsou k dispozici žádné propagační akce, zobrazí se odpovídající zpráva. 
+Případné propagační akce, na které máte nárok, můžete zobrazit na stránce **Propagační akce**. Vyberte **propagační materiály** z nabídky **partnerského centra** , abyste viděli seznam aktuálních propagačních akcí, a to společně s slevou, typem povýšení a počátečním a koncovým datem pro předplatné. Pokud nejsou k dispozici žádné propagační akce, zobrazí se odpovídající zpráva. 
 
 > [!NOTE]  
 > Propagační akce se zobrazí také při nákupu. Po výběru předplatného se na stránce **Kontrola** zobrazí propagační ceny.
@@ -56,7 +53,7 @@ Případné propagační akce, na které máte nárok, můžete zobrazit na str�
 
 1. V nabídce **partnerského centra** vyberte **zákazníci** a pak vyberte zákazníka, který předplatné kupuje. 
 
-2. Vyberte **přidat odběr** .
+2. Vyberte **přidat odběr**.
 
 3. Na stránce **Nový odběr** vyberte předplatné, na které se povýšení vztahuje.
 
@@ -67,3 +64,6 @@ Případné propagační akce, na které máte nárok, můžete zobrazit na str�
 6. Vyberte **Odeslat** pro nákup. Zákazníkovi se vám na další faktuře uvidí cena za zvýšení.  
 
 
+## <a name="next-steps"></a>Další kroky
+
+- [Prodej specializovaným cílovým skupinám](sell-to-education-customers.md)
