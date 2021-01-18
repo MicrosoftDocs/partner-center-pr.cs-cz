@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: f92b801d5e3294e461d07f9089b545a41efc4d6a
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.date: 01/15/2021
+ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235932"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560472"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -23,6 +23,112 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 oznámení 2021: leden
 
 2020 oznámení: [květen](2020-may.md)  |  [](2020-june.md)  |  [od 1](2020-july.md). června do  |  [](2020-august.md)  |  [září](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [prosinec](2020-december.md)  
+
+_____________ 
+
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Od 1. února 2021 se spustí zabezpečení, dodržování předpisů a identita (SCI). 
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-15
+- Nabídky/trhy
+
+### <a name="summary"></a>Souhrn
+
+Několik spuštění Microsoft 365 bude zahrnuto v ceníku Preview v lednu a bude k dispozici od 1. února 2021.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Podrobnosti
+
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[SKU součásti dodržování předpisů pro státní správu v Microsoft 365 G5](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+
+Budeme spouštět tři nové nabídky součástí pro komunitní služby pro státní správu a finanční cloudy (RSZ) a RSZ, které budou k dispozici od 1. února 2021. Tyto SKU budou ekvivalentem Microsoft 365 E5 Information Protection a zásad správného řízení, M365 E5 pro řízení rizik v programu Insider a Microsoft 365 E5 eDiscovery & audit, který je v současné době dostupný v komerčním oddělení. 
+
+   |**Název nabídky**|**ID nabídky**|**ID materiálu**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E5 Information Protection a zásady správného řízení pro RSZ|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |Microsoft 365 E5 eDiscovery a audit pro RSZ|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |Microsoft 365 E5 Insider pro RSZ|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |Microsoft 365 E5 Information Protection a DLP (doplněk) pro RSZ|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+
+#### <a name="10-year-audit-log-retention-add-on"></a>[doplněk pro uchování protokolu auditu na 10 let](https://docs.microsoft.com/microsoft-365/compliance/)
+
+K dispozici je doplněk s předpokladem Microsoft 365 E5, aby si zákazníci mohli uchovávat data po dobu 10 let. 
+
+   |**Název nabídky**|**ID nabídky**|**ID materiálu**|
+   |-------------------|:------|:------|
+   |přičtení protokolu auditu na základě 10 let pro pro EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |Doplněk pro uchování protokolu auditu na základě 10 let|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   
+#### <a name="frontline-worker-add-ons"></a>Doplňky prvotní Worker
+
+Od 1. února 2021 můžou zákazníci koupit tři nové programové nabídky zabezpečení a dodržování předpisů pro prvotní pracovní procesy jako doplňky do [sku Microsoft 365 F1 a F3](https://www.microsoft.com/microsoft-365/firstline-workers).
+
+Tyto programové nabídky nahradí aktuální zvýšení [zabezpečení a dodržování předpisů](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) , které vyprší 28. **února 2021**. Na rozdíl od aktuální propagace poskytují doplňky F5 zákazníkům větší předvídatelnost předpovědi, protože jejich prvotní pracovní síly roste.
+
+   
+   |**Název nabídky**|**ID nabídky**|**ID materiálu**|
+   |-------------------|:------|:------|
+   |Microsoft 365 F5 zabezpečení|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Dodržování předpisů Microsoft 365 F5|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
+   |Dodržování předpisů & Microsoft 365 F5 zabezpečení|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   
+### <a name="next-steps"></a>Další kroky
+
+Podívejte se na náhled ceníku a sdílejte ho s příslušnými zúčastněnými stranami ve vaší organizaci. Další informace najdete na webu [Microsoft Security a dodržování předpisů – technická komunita Microsoftu](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
+
+### <a name="questions"></a>Máte otázky?
+
+Další otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru. 
+
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>DocuSign migrace do Adobe Signing pro partnery v rámci smluv o partnerech Microsoftu (MPAs) 
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-15
+- Možnosti
+
+### <a name="summary"></a>Souhrn
+
+Microsoft převede všechny e-mailové zpracování podpisů z DocuSign na symbol Adobe.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Stávající poskytovatelé přímých a nepřímých cloudových řešení (CSP) v rámci technologie aktivace. Partneři na Ukrajině, Rusku a Kazachstánu budou muset každý rok fyzicky nebo e-mailem znovu podepsat.
+
+### <a name="details"></a>Podrobnosti
+
+V únoru 2021 začne Microsoft přecházet všemi elektronickými zpracováními podpisů od DocuSign do Adobe signers pro partnery CSP. 
+
+Měli byste očekávat hladký přechod. Po migraci obdržíte od společnosti DocuSign e-mail, a adobesign@adobesign.com to vždy, když je vyžadován elektronický podpis. Tento e-mail vám poskytne odkaz na přihlašovací webovou stránku Adobe, kde se budete muset podepsat. Partneři Microsoftu nebudou muset znovu podepisovat stávající smlouvy, jenom dohody o budoucích kanálech. 
+
+Příklad e-mailu s požadavkem na podpis Adobe můžete najít v [galerii prostředků](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf). 
+
+**Pro dosažení co nejlepších výsledků se ujistěte, že jste provedli následující akce:**
+
+1. Přidejte adobesign@adobesign.com do seznamu bezpečných odesílatelů, abyste zabránili e-mailům z tohoto účtu přejít přímo do složky Nevyžádaná pošta.
+2. Spolupracovat s vaším IT oddělením na:
+   - Přidejte adobesign@adobesign.com e-mailovou adresu do seznamu bezpečných odesílatelů, abyste se ujistili, že nejsou zahrnutá v žádném předem zavedeném pravidlu phishing.
+   - Aktualizujte stávající zásady zabezpečení a zajistěte, aby všichni povinní příjemci mohli podepsat dokumentaci v rámci licence společnosti Adobe pro podpis Enterprise.
+
+Adobe signed je preferované řešení elektronické signatury Microsoftu (ESS) od Microsoftu. Přechod na symbol Adobe zajišťuje zabezpečené a efektivní prostředí elektronického podpisu, které našim zákazníkům a partnerům poskytne větší hodnotu.
+
+Další informace o tom, jak elektronicky podepisovat dokumenty a delegovat elektronický podpis, najdete v následujících **kurzech**: 
+- [Elektronický podpis dokumentu | Adobe – posílané kurzy](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Pro podepsání dokumentu delegovat někoho jiného Adobe – posílané kurzy](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Další kroky
+
+Tyto informace sdílejte s příslušnými zúčastněnými stranami ve vaší organizaci.
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud máte nějaké dotazy, obraťte se na centrum pro místní provoz pomocí [Nástroje pro protokolování volání (CLT)](https://clt.partners.extranet.microsoft.com/CLT) nebo v části [prozkoumat MS](https://www.explore.ms/). Sledujte standardní proces CLT, abyste mohli co nejrychleji vyřešit váš dotaz.
 
 _____________ 
 
