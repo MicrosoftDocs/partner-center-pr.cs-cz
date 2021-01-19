@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235949"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560489"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,8 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z ledna 2021** | **Datum oznámení** |
 |---------|:---------|:---------|
+|Nabídky/trhy|[Vydání SCI (Security, Compliance, and Identity) chystaná na 1. února 2021](2021-january.md#9)|15. ledna|
+|Možnosti|[Migrace DocuSignu na Adobe Sign pro partnery, kteří mají uzavřené Smlouvy s partnerem Microsoftu (MPA)](2021-january.md#8)|15. ledna|
 |Nabídky/trhy|[Aktualizace komerčních cen pro NOK](2021-january.md#7)|14. ledna|
 |Nabídky/trhy|[Aktualizace komerčních cen pro INR](2021-january.md#6)|8\. ledna|
 |Nabídky/trhy|[Aktualizace pro telefonní systém a volací plán pro 1. února 2021](2021-january.md#5)|8\. ledna|
