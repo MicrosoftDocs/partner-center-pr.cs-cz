@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182473"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584199"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace nákupu
 
@@ -60,6 +60,20 @@ Při nákupu produktů od Azure Marketplace chcete získat přehledy, které vá
 V nástroji pro analýzu nákladů v rámci služby Azure Cost Management si můžete zobrazit poplatky a faktury z Azure Marketplace.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Pomocí Azure Cost Management můžete získat přehled o zakoupených produktech.":::
+
+## <a name="purchase-validation-checks"></a>Kontrola ověření nákupu
+
+Nákup nabídky prostřednictvím Azure Marketplace může selhat z různých důvodů. Použití rozhraní příkazového řádku (CLI) pro nákup je pravděpodobnější, že může dojít k chybám, protože se pokoušíte koupit nabídku, která není k dispozici nebo je zobrazená v Azure Marketplace. Níže jsou uvedené kontroly, které mohou způsobit selhání nákupu:
+
+1. Předplatné patří k smlouva Enterprise (EA) a správce EA zakázal Azure Marketplace nákupy.
+1. Správce EA povolil nákupy jenom pro bezplatné nabídky a nabídka je placená nabídka.
+1. Nabídka se na webu Marketplace nenašla.
+1. Nezávislý výrobce softwaru (ISV) zastavil prodej nabídky alespoň ve vaší oblasti.
+1. Předplatné, které používáte, patří k fakturačnímu účtu v oblasti, kde nabídka není k dispozici.
+1. Účet pro předplatné nebo fakturační účet není přidružený k platnému platebnímu nástroji (jako je platná platební karta).
+1. Předplatné patří poskytovateli Cloud Solution Provider (CSP) a ISV odmítlo prodávat prostřednictvím CSP.
+1. U předplatného je povolené privátní tržiště a nabídka není v seznamu povolených nabídek.
+1. Tato nabídka je pro konkrétní zákazníky soukromá nebo ve verzi Preview a předplatné není v seznamu povolených zákazníků.
 
 ## <a name="next-steps"></a>Další kroky
 

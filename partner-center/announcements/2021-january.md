@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/15/2021
-ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560472"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571665"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -24,7 +24,84 @@ oznámení 2021: leden
 
 2020 oznámení: [květen](2020-may.md)  |  [](2020-june.md)  |  [od 1](2020-july.md). června do  |  [](2020-august.md)  |  [září](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [prosinec](2020-december.md)  
 
-_____________ 
+________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Software pro Cloud Solution Provider je teď všeobecně dostupný pro program.
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-19
+- Podpora růstu vaší firmy
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všichni partneři CSP
+
+### <a name="details"></a>Podrobnosti
+
+Informování [o tom, že dnes](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) oznamujeme, že komerční trvalé licence k softwaru jsou teď obecně dostupné všem PARTNERům CSP, aby je mohli prodávat. Seznam ceníků pro partnerský software partnerského centra CSP byl publikován a teď obsahuje další produkty a geografické oblasti.
+
+Všimněte si také, že v dnešní době bylo vyřazení softwaru partnerského centra a způsobu plnění licenčního klíče vyřazeno a že budou mít partneři a zákazníci k tomuto účelu k dispozici centrum pro správu Microsoft 365.
+Další podrobnosti a další kroky najdete níže.
+
+### <a name="next-steps"></a>Další kroky
+
+- Stáhněte si seznam ceníků **trvalého softwaru CSP** v části **software** stránky [ceny &](https://partnercenter.microsoft.com/en-us/pcv/sales) služby partner Center. Seznam nově přidaných produktů a geografických oblastí najdete [tady](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+- Přečtěte si [článek Microsoft 365 centra pro správu s trvalou licencí software a produkt, Stáhněte si článek s postupem](https://go.microsoft.com/fwlink/p/?linkid=2152525) a sdílejte je s vašimi zákazníky, když jsou připraveni ke stažení softwaru a licenčních klíčů.
+- Projděte si [trvalá softwaru v materiálech připravenosti programu poskytovatele Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Pomocí této [mapy připravenosti](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) můžete rychle najít správné informace pro vaši roli.
+
+### <a name="questions"></a>Máte otázky?
+
+Jakékoli další otázky vám poskytne příslušné komunity zprostředkovatele CSP pro Yammer.
+
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Připomenutí: Představujeme omezování rozhraní API pro partnery, kteří volají rozhraní API partnerského centra 
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-19
+- Podpora růstu vaší firmy
+
+### <a name="summary"></a>Souhrn
+
+Microsoft bude implementovat omezování rozhraní API, aby umožňoval jednotnější výkon v časovém intervalu pro partnery, kteří volají rozhraní API partnerského centra.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)  
+
+### <a name="details"></a>Podrobnosti
+
+Od února 2021 bude společnost Microsoft implementovat omezování rozhraní API, aby umožňovala jednotnější výkon v časovém intervalu pro partnery, kteří volají rozhraní API partnerského centra.Omezování omezuje počet požadavků na službu v časovém intervalu, aby nedocházelo k nadměrnému využití prostředků.Po překročení prahové hodnoty omezuje Partnerská centra všechny další požadavky od tohoto klienta po určitou dobu.
+  
+**Výhody pro partnery:** Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků, ale pokud je zahlceno více požadavků několika partnery, omezování vám pomůže udržet optimální výkon a spolehlivost pro všechny partnery.  
+
+- Omezování zajišťuje minimální výpadky.
+- Omezování omezuje počet požadavků na vysoké objemy, což pomáhá zajistit konzistentní výkon pro všechny partnery.
+
+**Rozhraní API, která se mají omezit:**
+
+| Operace | Dokumentace k Partnerskému centru |
+| ------ | ------- |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions  | [Get-All-of-Customer](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Získání předplatného podle ID](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders  | [Získat všechny zákaznické objednávky](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}  | [Získání objednávky podle ID](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus  | [Získání stavu zřizování předplatných](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Správa objednávek a Správa předplatného](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons  | [Získání seznamu doplňků pro předplatné](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements | [Získat seznam nároků na Azure pro předplatné](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus  | [Získání stavu registrace předplatných](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/Customers/{Customer-tenant-ID}/Transfers  | [Získat všechny přenosy zákazníka](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Získání stavu upgradu produktů](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/Customers/{Customer-ID}/Subscriptions/{Subscription-ID}/Conversions   | [Získání seznamu nabídek převod zkušebních verzí](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+Důrazně doporučujeme, aby partneři zvážili použití rozhraní API protokolu aktivit pro vyšší efektivitu a zabránili omezování.Další informace o této funkci najdete [v podrobnostech](/partner-center/develop/api-throttling-guidance).  
+
+### <a name="next-steps"></a>Další kroky
+
+Projděte si [materiály](/partner-center/develop/api-throttling-guidance)   k tomuto tématu a proveďte potřebné kroky.  
+
+_____________
 
 ## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Od 1. února 2021 se spustí zabezpečení, dodržování předpisů a identita (SCI). 
 
@@ -43,7 +120,7 @@ Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solut
 
 ### <a name="details"></a>Podrobnosti
 
-#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[SKU součásti dodržování předpisů pro státní správu v Microsoft 365 G5](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[SKU součásti dodržování předpisů pro státní správu v Microsoft 365 G5](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
 Budeme spouštět tři nové nabídky součástí pro komunitní služby pro státní správu a finanční cloudy (RSZ) a RSZ, které budou k dispozici od 1. února 2021. Tyto SKU budou ekvivalentem Microsoft 365 E5 Information Protection a zásad správného řízení, M365 E5 pro řízení rizik v programu Insider a Microsoft 365 E5 eDiscovery & audit, který je v současné době dostupný v komerčním oddělení. 
 
@@ -54,7 +131,7 @@ Budeme spouštět tři nové nabídky součástí pro komunitní služby pro st�
    |Microsoft 365 E5 Insider pro RSZ|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
    |Microsoft 365 E5 Information Protection a DLP (doplněk) pro RSZ|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
 
-#### <a name="10-year-audit-log-retention-add-on"></a>[doplněk pro uchování protokolu auditu na 10 let](https://docs.microsoft.com/microsoft-365/compliance/)
+#### <a name="10-year-audit-log-retention-add-on"></a>[doplněk pro uchování protokolu auditu na 10 let](/microsoft-365/compliance/)
 
 K dispozici je doplněk s předpokladem Microsoft 365 E5, aby si zákazníci mohli uchovávat data po dobu 10 let. 
 

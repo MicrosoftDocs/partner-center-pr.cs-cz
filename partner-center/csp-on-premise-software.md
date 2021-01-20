@@ -1,7 +1,7 @@
 ---
 title: Prodej místního softwaru prostřednictvím CSP
 ms.topic: how-to
-ms.date: 05/05/2020
+ms.date: 01/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si, jak můžou partneři v programu CSP koupit, spravovat, prodávat a zrušit místní předplatné softwaru jménem zákazníků v partnerském centru.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 179527f2edc710420be0b7119b758389dddf6947
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92527115"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584165"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Prodej místního softwaru prostřednictvím programu Cloud Solution Provider (CSP)
 
@@ -40,17 +40,12 @@ Pokud chcete koupit předplatné softwaru jménem zákazníka, přejděte na str
 Po zakoupení softwaru je budete vy a vaši zákazníci muset stáhnout. K tomu použijte následující postup. 
 
 >[!NOTE]
->K získání klíčů a souborů ke stažení musíte být agentem správce. 
+>K získání klíčů a souborů ke stažení musíte být agentem správce.
 
-1. Přejít na stránku podrobností zákazníka a pak vybrat **software** . Zobrazí se seznam veškerého softwaru, který jste si koupili jménem zákazníka. 
-2.  Rozbalte produkt, který chcete stáhnout. V poli **Vybrat produkt** vyberte požadovanou **verzi** , **jazyk** a **typ souboru/operační systém** . 
-3.  Vyberte **Odeslat** pro zobrazení konkrétních produktů. 
-4.  Vyberte **získat klíče a soubory ke stažení** . 
-5.  Vyberte **Stáhnout** a začněte stahovat, nebo vyberte **Kopírovat odkaz** a zkopírujte odkaz a odešlete ho zákazníkovi. 
+1. Přejít na stránku podrobností zákazníka a pak vybrat **software**. Zobrazí se seznam veškerého softwaru, který jste si koupili jménem zákazníka.
+2. Zkopírujte odkaz z **odkazu na kódy softwarového produktu a** Stáhněte si odkaz a sdílejte ho s vaším zákazníkem. Když tento odkaz vyberou, budou přesměrováni na portál pro správu Microsoft, který stáhne a získá kódy Product Key.
 
->[!NOTE]
->Platnost tohoto odkazu vyprší po dvou týdnech nebo 50 souborech ke stažení, podle toho, co nastane dřív. Až vyprší platnost odkazu, vraťte se na tuto stránku a znovu vyberte **získat klíče a soubory ke stažení** , aby bylo možné povolit další dva týdny nebo 50 souborů ke stažení. To můžete provést tolikrát, kolikrát potřebujete. 
-
+Pokud vás nebo vaši zákazníci chtějí získat další informace o stahování licenčních klíčů, přečtěte si téma [Stažení softwaru a licenčních kódů produktů](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="cancel-a-purchase"></a>Zrušení nákupu
 
@@ -65,11 +60,11 @@ K zrušení nákupu použijte následující postup. Po dokončení zrušení se
     - Důvod k refundaci
     - Požadovaná částka
 
-2.  Na stránce Podrobnosti o zákazníkovi vyberte **software** . Zobrazí se seznam veškerého softwaru, který jste zakoupili. 
+2.  Na stránce Podrobnosti o zákazníkovi vyberte **software**. Zobrazí se seznam veškerého softwaru, který jste zakoupili. 
 
-3.  Vyhledejte software, který chcete zrušit, a vyberte možnost **Zrušit** . Otevře se stránka **ohlásit problém s partnerským centrem** . 
+3.  Vyhledejte software, který chcete zrušit, a vyberte možnost **Zrušit**. Otevře se stránka **ohlásit problém s partnerským centrem** . 
 
-4.  V části **Podrobnosti** v seznamu **typ problému** vyberte možnost **Nákup a refundace CSP jménem zákazníků** .
+4.  V části **Podrobnosti** v seznamu **typ problému** vyberte možnost **Nákup a refundace CSP jménem zákazníků**.
 
 5.  Vyplňte pole **dopad** a **název** . 
 
@@ -81,6 +76,6 @@ K zrušení nákupu použijte následující postup. Po dokončení zrušení se
 
 7.  Do pole **kontakt** zadejte své jméno, e-mailovou adresu a telefonní číslo. 
 
-8.  Pokud z nějakého důvodu potřebujete soubor připojit, vyberte **Přidat soubory** . Tento krok je volitelný. 
+8.  Pokud z nějakého důvodu potřebujete soubor připojit, vyberte **Přidat soubory**. Tento krok je volitelný. 
 
-9.  Až budete hotovi, vyberte **Odeslat** .
+9.  Až budete hotovi, vyberte **Odeslat**.
