@@ -33,19 +33,19 @@ V programu komerčního obchodu v partnerském centru teď můžete do svého ú
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Přidat aplikaci Azure AD (instanční objekt)
 
-1. Z řídicího panelu partnerského centra vyberte **Nastavení** a potom vyberte **Nastavení vývojáře** .
+1. Z řídicího panelu partnerského centra vyberte **Nastavení** a potom vyberte **Nastavení vývojáře**.
 
-2. Vyberte **Uživatelé** a pak vyberte **Přidat aplikace Azure AD** .
+2. Vyberte **Uživatelé** a pak vyberte **Přidat aplikace Azure AD**.
 
 3. Vyberte existující aplikaci Azure AD nebo vytvořte novou.
 
 4. Pokud vytvoříte novou aplikaci Azure AD, zahrňte tyto informace:  
 
-   - **Adresa URL odpovědi** : adresa URL, kde se uživatelé můžou přihlásit k používání vaší aplikace Azure AD.
+   - **Adresa URL odpovědi**: adresa URL, kde se uživatelé můžou přihlásit k používání vaší aplikace Azure AD.
 
-   - **Identifikátor URI ID aplikace** : logický identifikátor pro aplikaci Azure AD, který se zobrazí, když pošle žádost o jednotné přihlašování do Azure AD.
+   - **Identifikátor URI ID aplikace**: logický identifikátor pro aplikaci Azure AD, který se zobrazí, když pošle žádost o jednotné přihlašování do Azure AD.
 
-   - **Role zabezpečení** : **správce** rolí (stejné jako role Owner v CPP) a **Developer** (stejné jako role Přispěvatel v CPP) platí pro program komerčního tržiště v partnerském centru a je možné ho přidružit k této aplikaci Azure AD.  
+   - **Role zabezpečení**: **správce** rolí (stejné jako role Owner v CPP) a **Developer** (stejné jako role Přispěvatel v CPP) platí pro program komerčního tržiště v partnerském centru a je možné ho přidružit k této aplikaci Azure AD.  
 
 ## <a name="next-steps"></a>Další kroky
 

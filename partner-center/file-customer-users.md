@@ -35,7 +35,7 @@ Chcete-li přidat více uživatelů k účtu zákazníka pomocí procesu hromadn
 - Musíte mít oprávnění globálního správce k účtu zákazníka;
 - Každý uživatel musí mít jedinečnou e-mailovou adresu, která se připojí k e-mailovým doménám zákazníka;
 - Můžete nahrávat až 100 záznamů najednou. Pokud potřebujete přidat více než 100 uživatelů, vytvořte a nahrajte další datové soubory.
-- Všichni uživatelé musí být ve stejném geografickém **umístění** .
+- Všichni uživatelé musí být ve stejném geografickém **umístění**.
 - Zadejte pouze data popsaná níže. Nadbytečné údaje způsobí selhání nahrávání.
 
 V datovém souboru zadejte následující data:

@@ -32,7 +32,7 @@ Než se dostanete k práci v programu pobídek, musíte nejdřív dokončit vše
 
 1. Přihlaste se k [pobídkám partnerů](https://partner.microsoft.com/membership/partner-incentives).
 2. Přejděte dolů a získejte přístup k dokumentům pro váš zúčastněný program a klikněte na odkaz na dokument pro příslušný program.
-3. V dokumentu se podívejte na oddíly **nárok na partnery** a na **pravidla pro příslušné výnosy** .
+3. V dokumentu se podívejte na oddíly **nárok na partnery** a na **pravidla pro příslušné výnosy**.
 
 ## <a name="next-steps"></a>Další kroky
 

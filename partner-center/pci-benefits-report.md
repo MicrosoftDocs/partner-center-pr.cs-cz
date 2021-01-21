@@ -47,20 +47,20 @@ V části Souhrn se zobrazují výhody poskytované licencovaným softwarem, Clo
 
 Příklad: partneři členství v Microsoft Partner Network (MPN) mají nárok na technickou podporu místních produktů a cloudových produktů. Partnerům, kteří dosahují stříbrné kompetence, se uděluje technická podpora pro 15 incidentů místních produktů. Tato podpora může podle potřeby využívat. 
 
-:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Přehled stránky výhod":::
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Souhrn výhod":::
 
 ## <a name="cloud-services-granted"></a>Udělené cloudové služby
 
 Tento graf znázorňuje měsíční trend licencí udělených v rámci vybraného rozsahu kalendářních dat pro odběry na základě licencí vybrané cloudové služby.
 Vyberte cloudovou službu na kartě **služby** pro zobrazení grafu pro konkrétní cloudovou službu. Spojnicový graf představuje celkové licence udělené vaší společnosti.
 
-:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="Přehled stránky výhod":::
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="udělené cloudové služby":::
 
 ## <a name="software-products"></a>Softwarové produkty
 
 Tento graf znázorňuje měsíční trend licencí udělených během vybraného časového rozsahu pro určitý softwarový produkt. Vyberte softwarový produkt z rozevíracího seznamu v horní části grafu, abyste mohli zobrazit trend konkrétního softwarového produktu, který jste udělili jako výhody. Spojnicový graf představuje celkové licence udělené vaší společnosti.
 
-:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="Přehled stránky výhod":::
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="softwarové produkty uděleny":::
 
 ## <a name="visual-studio-subscriptions"></a>Předplatná sady Visual Studio
 
@@ -68,7 +68,7 @@ Tento graf znázorňuje měsíční trend předplatných sady Visual Studio akti
 
 Výběrem karty v grafu zobrazíte trend konkrétního předplatného sady Visual Studio, které jste vám udělili jako výhody. Sloupce v grafu reprezentují licence spotřebované v rámci předplatného. Spojnicový graf představuje celkové licence přiřazené k předplatnému.
 
-:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Přehled stránky výhod":::
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Předplatná sady Visual Studio":::
 
 ## <a name="technical-benefits"></a>Technické výhody
 
@@ -76,7 +76,7 @@ Tento graf znázorňuje měsíční trend výhod podpory, které se udělují b�
 
 Výběrem karty v grafu zobrazíte trend konkrétního výhody podpory, kterou jste udělili. Spojnicový graf představuje celkový počet hodin podpory přidělených pro vybrané výhody podpory.
 
-:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="Přehled stránky výhod":::
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="technické výhody":::
 
 ## <a name="go-to-market-offers-or-services"></a>Nabídky nebo služby pro uvedení na trh
 
@@ -84,7 +84,7 @@ Tento graf znázorňuje měsíční trend nabídek a služeb nabízených k uved
 
 Výběrem nabídky přejít na trh nebo kategorie služby v rozevíracím seznamu v horní části grafu zobrazíte trend vybraných služeb pro uvedení na trh udělených vaší společnosti. Sloupce v grafu představují nabídky přejít na trh nebo aktivované služby. Spojnicový graf představuje celkové nabídky pro uvedení na trh nebo služby udělené vaší společnosti.
 
-:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Přehled stránky výhod":::
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Nabídky pro uvedení na trh":::
 
 ## <a name="next-steps"></a>Další kroky
 

@@ -68,57 +68,57 @@ Mikrograf prezentuje trend tržeb v měsíci v průběhu vybraného období.
 
 ## <a name="geographical-spread-of-resellers"></a>Geografické rozšiřování prodejců
 
-* * Prodejci podle geografického zobrazení poskytují geografickou distribuci prodejců. Pomocí této pomůcky můžou partneři zobrazit celkové **prodejce** , **nové prodejce** a **Fakturované výnosy (USD)** a rozdělit je podle různých zeměpisných oblastí.
+* * Prodejci podle geografického zobrazení poskytují geografickou distribuci prodejců. Pomocí této pomůcky můžou partneři zobrazit celkové **prodejce**, **nové prodejce** a **Fakturované výnosy (USD)** a rozdělit je podle různých zeměpisných oblastí.
 
 Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Stisknutím možnosti **Domů** na mapě se vraťte k původnímu zobrazení. Po najetí myší na mapu se zobrazí **Fakturované výnosy (USD)** podle země. Pole účtované tržby (USD) v mřížce je seřaditelné.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Souhrn výkonu prodejců":::
+:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Prodejci podle geografického ":::
 
 ## <a name="resellers-addchurns"></a>Prodejci přidávají/změn
 
-Toto zobrazení poskytuje měsíční rozdělení počtu **nových prodejců** , změněných **prodejců** a **stávajících prodejců** na měsíc. 
+Toto zobrazení poskytuje měsíční rozdělení počtu **nových prodejců**, změněných **prodejců** a **stávajících prodejců** na měsíc. 
 
 - Noví prodejci: počet prodejců, kteří byli nově zaregistrovaní v nepřímém poskytovateli během vybraného rozsahu kalendářních dat.
 - Změněný prodejci: počet prodejců, kteří za posledních šest měsíců neprošli transakcí s výjimkou aktuálního měsíce.
 - Stávající prodejci: počet prodejců, kteří v předchozím měsíci používali transakce.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="Souhrn výkonu prodejců":::
+:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="Prodejci přidávají/změn":::
 
 ## <a name="resellers-revenue-trend"></a>Trend příjmů prodejců 
 
 Toto zobrazení poskytuje měsíční trend fakturovaných výnosů (USD) rozdělených podle produktů, konkrétně O365, D365, EMS, Power BI a Azure. Celkové metriky jsou shrnuté napříč různými produkty pro každý měsíc. Partner může vyhledat konkrétního prodejce podle názvu a vyhledat data tohoto konkrétního prodejce. Pole účtované tržby (USD) v mřížce je seřaditelné.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Souhrn výkonu prodejců":::
+:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Trend příjmů prodejců":::
 
 ## <a name="reseller-performance-by-products"></a>Výkon prodejců podle produktů
 
 Toto zobrazení poskytuje rozdělení klíčových metrik, jako jsou účtované tržby, počet předplatných a počet licencí podle různých produktů v měsíci měsíčně. Výsečový graf na pravé straně označuje celkové rozdělení těchto metrik podle různých produktů, takže partner získá rychlou nakouknětei rozložení podle různých produktů, které prodejce prodává.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Souhrn výkonu prodejců":::
+:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Výkon prodejců podle produktů":::
 
 ## <a name="active-resellers-by-partner-locations"></a>Aktivní prodejci podle umístění partnerů
 
 Toto zobrazení poskytuje rozdělení aktivních prodejců podle geografických oblastí partnerů. V legendě vidíte horních pět geografických oblastí a zbývající je zařazená do kategorie jiné.
 
-:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="Souhrn výkonu prodejců":::
+:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="Aktivní prodejci podle umístění partnerů":::
 
 ## <a name="revenue-geo-distribution-trend"></a>Trend geografické distribuce výnosů
 
 Toto zobrazení poskytuje trend měsíčního obratu fakturovaných výnosů (USD), které je rozdělené do pěti hlavních geografických oblastí.  Zbytek výnosů je zařazený do kategorie jiné.
 
-:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="Souhrn výkonu prodejců":::
+:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="Trend geografické distribuce výnosů":::
 
 ## <a name="reseller-performance-by-customer-segment"></a>Výkon prodejce podle zákaznického segmentu
 
 Toto zobrazení umožňuje partnerovi pochopit měsíční trend příjmů, počet předplatných a licencí a rozdělených podle různých zákaznických segmentů. V grafu se zobrazí pět hlavních segmentů zákazníků a zbývající jsou zařazené do kategorií jiné.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="Souhrn výkonu prodejců":::
+:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="Výkon prodejce podle zákaznického segmentu":::
 
 ## <a name="reseller-mpa-signing-status"></a>Stav podepisování aktivace prodejce
 
 Toto zobrazení poskytuje stav podepisování aktivace pro prodejce spolu s dalšími metadaty, jako je například stav programu MPN dozvíte ČSFD, stav migrace PMC na počítač a stav migrace počítačů atd.
 
-:::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="Souhrn výkonu prodejců":::
+:::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="Stav podepisování aktivace prodejce":::
 
 ## <a name="next-steps"></a>Další kroky
 

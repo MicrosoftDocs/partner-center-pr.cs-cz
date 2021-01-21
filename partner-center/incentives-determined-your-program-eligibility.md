@@ -17,11 +17,11 @@ ms.locfileid: "92527763"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Určení nároku na program pobídek
 
-**Platí pro** :
+**Platí pro**:
 
 - Partnerské centrum
 
-**Příslušné role** :
+**Příslušné role**:
 
 - Globální správce
 - Motivace správce
@@ -36,11 +36,11 @@ Konkrétní podmínky zakládající nárok na váš program najdete v průvodci
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. V levém navigačním panelu v části **Pobídky** vyberte **Přehled** . Tím se otevře stránka **Přehled programu** .
+2. V levém navigačním panelu v části **Pobídky** vyberte **Přehled**. Tím se otevře stránka **Přehled programu**.
 
 3. Vyberte program, který chcete.
 
-4. V poli **Podrobnosti o programu** vyberte **Průvodce programem** .
+4. V poli **Podrobnosti o programu** vyberte **Průvodce programem**.
 
 ## <a name="next-steps"></a>Další kroky
 

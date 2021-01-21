@@ -82,19 +82,19 @@ Oblast **nasazených licencí** zahrnuje tyto informace:
 
 Toto zobrazení je geografickou distribucí celkových zákazníků, předplatných a licencí podle země zákazníka. Kliknutím na různé karty zobrazíte všechny tyto přehledy na mapě. Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Kliknutím na tlačítko domů na mapě se vraťte k původnímu zobrazení. Kliknutí na jednotlivé karty (například zákazníci, předplatná) zobrazuje hodnotu metriky pro každou zemi a také% celku pro danou zemi.  
 
-:::image type="content" source="images/pci/geosummary.png" alt-text="Souhrnné licence":::
+:::image type="content" source="images/pci/geosummary.png" alt-text="Zeměpisný souhrn":::
 
 ## <a name="customers-growth-trend"></a>Trend růstu pro zákazníky
 
 Pro vybraný rozsah dat se počítá měsíční trend z celkového počtu zákazníků. Osa X představuje měsíce vybraného rozsahu kalendářních dat a osa Y představuje celkový počet zákazníků pro daný měsíc. 
 
-:::image type="content" source="images/pci/customergrowth.png" alt-text="Souhrnné licence":::
+:::image type="content" source="images/pci/customergrowth.png" alt-text="trend růstu pro zákazníky":::
 
 ## <a name="subscriptions-growth-trend"></a>Geometrický trend předplatných
 
 To indikuje trend počtu předplatných zákazníků pro vybraný rozsah kalendářních dat. Osa X představuje měsíce vybraného rozsahu kalendářních dat a osa Y představuje počet předplatných vybraných pro daný produkt. Posuňte se přes posuvník nad grafem, aby se graf zvětšil na konkrétní časové období. 
 
-:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Souhrnné licence":::
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Trend růstu předplatného":::
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Trend růstu spotřebovaných výnosů v Azure
 
@@ -103,13 +103,13 @@ Měsíční trend využívání Azure s využitím výnosů, který je na vás z
 > [!NOTE]
 > Výnosy za Azure (ACR) budou viditelné jenom uživatelům, kterým byla přiřazena role vedoucího prohlížeče sestav. 
 
-:::image type="content" source="images/pci/azureconsumed.png" alt-text="Souhrnné licence":::
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Využití Azure":::
 
 ## <a name="licenses-growth-trend"></a>Trend růstu licencí
  
 Trend licencí přidaných všemi zákazníky během vybraného rozsahu kalendářních dat. Osa X představuje měsíce vybraného rozsahu kalendářních dat a osu Y představuje počet licencí vybraného produktu. Posuňte se přes posuvník nad grafem, aby se graf zvětšil na konkrétní časové období.  
 
-:::image type="content" source="images/pci/licensesgrowth.png" alt-text="Souhrnné licence":::
+:::image type="content" source="images/pci/licensesgrowth.png" alt-text="licence":::
 
 ## <a name="next-steps"></a>Další kroky
 

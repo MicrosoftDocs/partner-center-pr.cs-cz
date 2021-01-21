@@ -28,7 +28,7 @@ Občas se vám na fakturační stránce může zobrazit nepřidělená platba. N
 
 1. [Přihlaste se k řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/home).
 
-2. V nabídce na levé straně vyberte **fakturace** .
+2. V nabídce na levé straně vyberte **fakturace**.
 
 3. Na stránce fakturace vyhledejte část **nepřidělená platba** . 
 

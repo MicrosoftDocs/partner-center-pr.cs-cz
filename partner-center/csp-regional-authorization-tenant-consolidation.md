@@ -46,9 +46,9 @@ Můžete konsolidovat klienty pro vaši firmu. Tyto pokyny slouží ke konsolida
 
 1. Přihlaste se k **partnerskému centru**  pomocí účtu **přechodu** (nového) (ten, na který přecházíte zákazníky).
 
-2. Vyberte **Zákazníci** .
+2. Vyberte **Zákazníci**.
 
-3. Klikněte na **požádat o vztah prodejce** . Zobrazí se výchozí e-mailová zpráva, která se odešle vašim zákazníkům. Tato zpráva obsahuje adresu URL s ID organizace, které je pro nový účet partnerského centra jedinečné.
+3. Klikněte na **požádat o vztah prodejce**. Zobrazí se výchozí e-mailová zpráva, která se odešle vašim zákazníkům. Tato zpráva obsahuje adresu URL s ID organizace, které je pro nový účet partnerského centra jedinečné.
 
 4. **Akce zákazníka:** Ujistěte se, že každý z aktivních zákazníků, které chcete migrovat, navštíví tuto adresu URL. Při otevření adresy URL se zobrazí výzva, abyste se přihlásili na portál Office 365. Zákazník se přihlásí pomocí stejného ID organizace, které používají pro přístup k portálům pro správu Azure a Office 365.
 
@@ -60,11 +60,11 @@ Zákazníci se zobrazí v seznamu zákazníků partnera po odeslání smlouvy, j
 
 1. Jakmile zákazník smlouvu podepíše, můžete znovu vytvořit své odběry v rámci centralizovaného partnerského tenanta.
 
-2. Z **partnerského centra** vyberte možnost **zákazníci** .
+2. Z **partnerského centra** vyberte možnost **zákazníci**.
 
 3. Otevřete název společnosti pro zákazníka, kterého chcete migrovat.
 
-4. Vyberte **přidat odběr** .
+4. Vyberte **přidat odběr**.
 
 5. Přidejte správné předplatné a počty licencí z katalogu. Ověřte s informacemi, které jsou k dispozici v **přechodu z** partnerských účtů.
 
@@ -89,7 +89,7 @@ Zakázáním předplatného CSP v rámci **přechodu z** partnerských účtů z
 
 2. Otevřete zákazníka s předplatnými, které chcete zakázat, a pak vyberte první nabídku, kterou chcete zakázat.
 
-3. Nastavte předplatné na **pozastaveno** a pak klikněte na **Odeslat** .
+3. Nastavte předplatné na **pozastaveno** a pak klikněte na **Odeslat**.
 
    >[!Note]
    >Pozastavení předplatného zajistí, že nedojde k dvojímu vyúčtování.

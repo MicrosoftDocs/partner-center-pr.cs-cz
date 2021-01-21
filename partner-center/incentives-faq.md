@@ -51,9 +51,9 @@ Další informace najdete v tématu [Přehled oprávnění](permissions-overview
 
 Pokud chcete najít správce globálního správce nebo účtu, který může provádět změny rolí nebo přiřazovat role novému uživateli:
 
-1. V ikoně nastavení účtu v pravém horním rohu partnerského centra vyberte **Správa uživatelů** .
-2. Filtrujte buď na správce **globálního správce** , nebo na **správce účtu** .
-3. Můžete také přejít na **můj profil** , vybrat **role a oprávnění** a zobrazit seznam různých správců, kteří vám pomůžou zvýšit oprávnění.
+1. V ikoně nastavení účtu v pravém horním rohu partnerského centra vyberte **Správa uživatelů**.
+2. Filtrujte buď na správce **globálního správce** , nebo na **správce účtu**.
+3. Můžete také přejít na **můj profil**, vybrat **role a oprávnění** a zobrazit seznam různých správců, kteří vám pomůžou zvýšit oprávnění.
  
 Další informace najdete v tématu [vyhledání vaší role](find-your-role.md).  
 
@@ -63,9 +63,9 @@ Pravděpodobným důvodem, proč nemůžete zobrazit pobídky, je, že nemáte s
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/) pomocí svých přihlašovacích údajů TENANTA Azure AD (vaše pracovní přihlašovací údaje). Pokud se nemůžete přihlásit, obraťte se na globálního správce vaší společnosti.
 
-2. Pokud se přihlašujete, zobrazí se výzva k výběru z **pracovního účtu** nebo **osobního účtu** , vyberte **pracovní účet** .
+2. Pokud se přihlašujete, zobrazí se výzva k výběru z **pracovního účtu** nebo **osobního účtu**, vyberte **pracovní účet**.
 
-3. V nabídce partnerské Centrum vyberte možnost **motivace** a pak vyberte **Přehled** . Pokud nemáte k dispozici oprávnění správce nebo motivovat uživatele, zobrazí se kontaktní informace pro všechny globální správce účtu a správce účtů vaší společnosti. Obraťte se na jednoho z těchto správců, aby získal roli motivace pro požadovaná ID MPN a motivační program.
+3. V nabídce partnerské Centrum vyberte možnost **motivace** a pak vyberte **Přehled**. Pokud nemáte k dispozici oprávnění správce nebo motivovat uživatele, zobrazí se kontaktní informace pro všechny globální správce účtu a správce účtů vaší společnosti. Obraťte se na jednoho z těchto správců, aby získal roli motivace pro požadovaná ID MPN a motivační program.
 
 4. Pokud již máte roli správce pobídky, zobrazí se registrace pro vaši společnost pro ID MPN a k motivačním programům, ke kterým máte přístup.
 

@@ -56,10 +56,10 @@ Pokud chcete vytvořit účet partnerského centra a zaregistrovat se do CSP pro
 
 1. Do formuláře pro zápis zadejte všechny chybějící informace, včetně ID Microsoft Partner Network a podrobností o podpoře zákazníků vaší organizace.
 
-2. Vyberte **přijmout a pokračovat** . Kontrola vaší aplikace může trvat několik dní. Až tuto kontrolu dokončíte, pošleme vám e-mail.
+2. Vyberte **přijmout a pokračovat**. Kontrola vaší aplikace může trvat několik dní. Až tuto kontrolu dokončíte, pošleme vám e-mail.
 
    > [!IMPORTANT]
-   > Když vyberete **přijmout a pokračovat** , potvrzujete, že jste oprávněni jednat jménem vaší organizace, a souhlasíte s tím, že umožníte, aby Microsoft spouštěl kontrolu kreditů na pozadí před kontrolou aplikace poskytovatele Cloud Solution Provider vaší organizace.
+   > Když vyberete **přijmout a pokračovat**, potvrzujete, že jste oprávněni jednat jménem vaší organizace, a souhlasíte s tím, že umožníte, aby Microsoft spouštěl kontrolu kreditů na pozadí před kontrolou aplikace poskytovatele Cloud Solution Provider vaší organizace.
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>Krok 3 – podepsání smlouvy o prodejci pro Microsoft Cloud pro státní správu USA
 

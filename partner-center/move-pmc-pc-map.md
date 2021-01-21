@@ -68,7 +68,7 @@ V této tabulce jsou uvedeny některé rozdíly mezi PMC a Partnerským centrem.
 
 |**PMC**   |**Partnerské centrum**   |
 |-------------------------|:-------------------|
-|Stejné ID MCP můžete přidružit k několika společnostem.| K jednomu účtu partnerského centra může být přidruženo pouze jedno ID MCP. Musíte ručně provést přidružení. Z řídicího panelu partnerského centra vyberte v pravém horním rohu řídicího panelu ikonu **účtu** a pak vyberte **můj profil** . V rámci **vašeho učení** budete moct přidružit svůj účet Microsoft Learning a připojit účet Microsoft k Partnerská Univerzita.
+|Stejné ID MCP můžete přidružit k několika společnostem.| K jednomu účtu partnerského centra může být přidruženo pouze jedno ID MCP. Musíte ručně provést přidružení. Z řídicího panelu partnerského centra vyberte v pravém horním rohu řídicího panelu ikonu **účtu** a pak vyberte **můj profil**. V rámci **vašeho učení** budete moct přidružit svůj účet Microsoft Learning a připojit účet Microsoft k Partnerská Univerzita.
 
 ## <a name="visual-studio-benefits-and-msa"></a>Výhody a MSA sady Visual Studio
 

@@ -47,11 +47,11 @@ Pokud po migraci zjistíte, že byl jako právní firmu označený špatný úč
 
 Zobrazí se váš stávající účet a Poznámka s oznámením, že podrobnosti o vaší společnosti (účet, ke kterému se aktuálně přihlašujete), budou do tohoto účtu konsolidovány.
 
-:::image type="content" source="images/migration/existingaccount2.png" alt-text="Stávající účet":::
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Účet v partnerském centru":::
 
 Na této obrazovce se zobrazí podrobnosti o existujícím účtu (jméno a adresa), který už byl vytvořen v partnerském centru, spolu s podrobnostmi o primárním kontaktu.
 
-Vyberte **Pokračovat** .
+Vyberte **Pokračovat**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Co se stane během konsolidace účtů
 
@@ -76,7 +76,7 @@ Ověřte informace o vaší společnosti a v případě potřeby je upravte.  Ty
 Podrobnosti jsou založené na informacích v PMC a budou ověřeny, aby se zajistilo, že společnost bude oprávněná.
 
 
-:::image type="content" source="images/migration/review.png" alt-text="Stávající účet":::
+:::image type="content" source="images/migration/review.png" alt-text="Podrobnosti o kontrole":::
 
 Pokud je účet, který přesouváte, ve stejné zemi nebo oblasti jako existující účet, můžete se rozhodnout, jestli chcete tuto adresu použít, nebo přidat jinou. Pokud se rozhodnete použít jinou adresu, tato adresa se ověří. Pokud chcete použít stejnou adresu, použije se existující adresa a primární kontakt.
 

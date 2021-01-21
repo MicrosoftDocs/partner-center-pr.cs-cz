@@ -53,7 +53,7 @@ Tento článek vysvětluje, jak číst každodenní soubory pro odsouhlasení s 
 | ProductName | Název produktu. |
 | Název vydavatele | Název vydavatele |
 | PublisherId | Identifikátor vydavatele ve formátu identifikátoru GUID |
-| SubscriptionDescription | Název nabídky služby zakoupené zákazníkem, jak je definováno v ceníku. (Tento sloupec je identickým polem pro **offername** ). |
+| SubscriptionDescription | Název nabídky služby zakoupené zákazníkem, jak je definováno v ceníku. (Tento sloupec je identickým polem pro **offername**). |
 | SubscriptionId | Jedinečný identifikátor předplatného na platformě fakturace Microsoftu Nepoužívá se pro odsouhlasení. *Tento identifikátor není stejný jako **ID předplatného** v konzole pro správu partnerů.* |
 | ChargeStartDate | Počáteční datum fakturačního cyklu (kromě případů, kdy se prezentují data dříve nenabitých latentních dat z předchozího fakturačního cyklu). Čas je vždy začátek dne, tj. 0:00. |
 | ChargeEndDate | Koncové datum fakturačního cyklu (kromě případů, kdy se prezentují data dříve nenabitých dat o latentních používaní z předchozího fakturačního cyklu). Čas je vždy koncem dne, 23:59. |
@@ -73,7 +73,7 @@ Tento článek vysvětluje, jak číst každodenní soubory pro odsouhlasení s 
 | Jednotková cena | Cena za licenci, jak je publikována v ceníku v době nákupu. Ujistěte se, že tato cena odpovídá informacím uloženým v systému fakturace během odsouhlasení. |
 | Množství | Počet licencí. Ujistěte se, že tato cena odpovídá informacím uloženým v systému fakturace během odsouhlasení. |
 | Jednotkách UnitType | Typ jednotky, na kterou se měřič účtuje.  |
-| BillingPreTaxTotal | Celková fakturovaná částka před zdaněním<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ] *[ @Quantity ]* [ @PCToBCExchangeRate ]); 2)_ |
+| BillingPreTaxTotal | Celková fakturovaná částka před zdaněním<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]); 2)_ |
 | BillingCurrency | Měna v geografické oblasti zákazníka. |
 | PricingPreTaxTotal | Ceny před přidáním daní. |
 | PricingCurrency | Měna v ceníku. |

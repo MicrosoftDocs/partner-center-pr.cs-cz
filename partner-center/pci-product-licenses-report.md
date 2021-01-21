@@ -65,7 +65,7 @@ Zobrazení **geografická dvojstránka licencí** ukazuje geografickou distribuc
 
 Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Stisknutím možnosti **Domů** na mapě se vraťte k výchozímu zobrazení. Pokud chcete zobrazit aktuální licence a aktivní licence podle zákaznických zemí, najeďte myší na mapu. Obě pole v mřížce lze seřadit.
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="Souhrn sestavy licencí":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="Geografická rozprostřená licence":::
 
 ## <a name="license-adds"></a>Licence přidávají
 
@@ -75,13 +75,13 @@ Pokud chcete trend podle produktu a služby nebo úlohy prezentovat, vyberte pro
 
 Osa X představuje měsíce vybraného rozsahu kalendářních dat. Osa Y představuje počet přidaných licencí. Chcete-li zvětšit určité období, použijte posuvník v horní části grafu.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Souhrn sestavy licencí":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="licence přidávají":::
 
 ## <a name="license-distribution"></a>Distribuce licencí
 
 Toto zobrazení ukazuje rozpis zákaznických licencí podle produktů a zemí zákazníka nebo oblastí. Když vyberete produkt v hierarchickém grafu **licence podle produktu** , zobrazí se u sousedního grafu rozpis licencí podle oblasti zákazníka.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="Souhrn sestavy licencí":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribuce licencí":::
 
 ## <a name="next-steps"></a>Další kroky
 

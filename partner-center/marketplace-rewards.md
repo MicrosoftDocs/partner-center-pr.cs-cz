@@ -34,7 +34,7 @@ Nárok na tržiště na webu Marketplace se počítá na základě všech profil
 
 2. Pokud chcete aktivovat nějakou prodejní nebo marketingovou výhodu, musíte nejprve přiřadit kontaktní osobu společnosti pro marketing. Tato kontaktní osoba následně bude dostávat zprávy ohledně programu Marketplace Rewards.
 
-3. Pokud chcete přidat nebo aktualizovat svoje marketingové kontaktní údaje, přejděte na stránku s výhodami prodeje a marketingu na stránce výhody Marketplace a pak vyberte **Přidat, aktualizovat nebo změnit** . 
+3. Pokud chcete přidat nebo aktualizovat svoje marketingové kontaktní údaje, přejděte na stránku s výhodami prodeje a marketingu na stránce výhody Marketplace a pak vyberte **Přidat, aktualizovat nebo změnit**. 
 
    Dále postupujte následovně:
 
@@ -42,13 +42,13 @@ Nárok na tržiště na webu Marketplace se počítá na základě všech profil
 
    - Zadejte e-mailovou adresu uživatele, která se liší od e-mailové adresy přidružené k účtu partnerského centra vaší společnosti. Na e-mailovou adresu určené kontaktní osoby pro marketing odešleme e-mail s pokyny k využívání výhody programu Marketplace Rewards.
 
-   - Zadejte kontaktní telefon a upřednostňovaný jazyk této kontaktní osoby pro marketing. Po zadání těchto informací vyberte **Přiřadit uživatele** .
+   - Zadejte kontaktní telefon a upřednostňovaný jazyk této kontaktní osoby pro marketing. Po zadání těchto informací vyberte **Přiřadit uživatele**.
 
-4. Po aktualizaci kontaktní osoby pro marketing u výhody, kterou chcete začít využívat, vyberte **Aktivovat** . Po aktivaci výhody bude vaši kontaktní osobu pro marketing do týdne kontaktovat člen týmu programu Rewards.
+4. Po aktualizaci kontaktní osoby pro marketing u výhody, kterou chcete začít využívat, vyberte **Aktivovat**. Po aktivaci výhody bude vaši kontaktní osobu pro marketing do týdne kontaktovat člen týmu programu Rewards.
 
 ## <a name="technical-benefits"></a>Technické výhody
 
-1. Můžete využít svůj technický přínos k vyžádání technické pomoci během fází předprodejní, návrhu, nasazení a vývoje aplikací v cloudových a hybridních řešeních. Pokud chcete požádat o pomoc, vyplňte formulář žádosti a pak vyberte **Odeslat žádost** .
+1. Můžete využít svůj technický přínos k vyžádání technické pomoci během fází předprodejní, návrhu, nasazení a vývoje aplikací v cloudových a hybridních řešeních. Pokud chcete požádat o pomoc, vyplňte formulář žádosti a pak vyberte **Odeslat žádost**.
 
 2. Používání výhod sponzorství Azure bude při odemčení těchto výhod sdíleno prostřednictvím e-mailu.
 
@@ -60,11 +60,11 @@ Informace o vydaných Marketplace jsou k dispozici prostřednictvím tenanta Azu
 
 1. Jako správce globálního správce nebo účtu se přihlaste k PGA v partnerském centru.
 
-2. Vyberte **Nastavení** (vpravo nahoře), **Nastavení partnerů** , **klienti** . 
+2. Vyberte **Nastavení** (vpravo nahoře), **Nastavení partnerů**, **klienti**. 
 
 3. Vyberte **přidružit jiného tenanta Azure AD** a vyberte TENANTA Azure AD, kterého chcete přidružit k PGA.
 
-4. Přidejte uživatelské jméno a heslo libovolného uživatele v tenantovi Azure AD, kterého chcete přidružit, a vyberte **Odeslat** .
+4. Přidejte uživatelské jméno a heslo libovolného uživatele v tenantovi Azure AD, kterého chcete přidružit, a vyberte **Odeslat**.
 
 5. Odhlaste se z partnerského centra a pak se přihlaste pomocí uživatelského jména a hesla pro tenanta, kterého jste právě přidružili k PGA.
 

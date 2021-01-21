@@ -101,13 +101,13 @@ Po zakoupení odběru softwaru použijte následující postup a Stáhněte si h
 
 2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
 
-3. Přejít na stránku podrobností zákazníka a pak vybrat **software** . Zobrazí se seznam veškerého softwaru, který jste si koupili jménem zákazníka. 
+3. Přejít na stránku podrobností zákazníka a pak vybrat **software**. Zobrazí se seznam veškerého softwaru, který jste si koupili jménem zákazníka. 
 
-4. Rozbalte produkt, který chcete stáhnout. V poli **Vybrat produkt** vyberte požadovanou **verzi** , **jazyk** a **typ souboru/operační systém** . 
+4. Rozbalte produkt, který chcete stáhnout. V poli **Vybrat produkt** vyberte požadovanou **verzi**, **jazyk** a **typ souboru/operační systém** . 
 
 5. Vyberte **Odeslat** pro zobrazení konkrétních produktů. 
 
-6. Vyberte **získat klíče a soubory ke stažení** . 
+6. Vyberte **získat klíče a soubory ke stažení**. 
 
 7. Vyberte **Stáhnout** a začněte stahovat, nebo vyberte **Kopírovat odkaz** a zkopírujte odkaz a odešlete ho zákazníkovi. 
 
@@ -116,7 +116,7 @@ Po zakoupení odběru softwaru použijte následující postup a Stáhněte si h
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Stažení předplatného serveru a licenční klíče dostupné prostřednictvím centra pro správu Microsoft 365 pro zákazníky 
 
-Vaši zákazníci budou moci získat licenční klíče předplatného CSP serveru a stahovat je z centra pro správu Microsoft 365. Aby bylo možné zobrazit licenční klíče a soubory pro odběr CSP serveru, musí zákazník přejít do centra pro správu Microsoft 365 > **fakturace > vaše produkty > kartě software** . Další podrobnosti najdete na [kartě software v části fakturace](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Vaši zákazníci budou moci získat licenční klíče předplatného CSP serveru a stahovat je z centra pro správu Microsoft 365. Aby bylo možné zobrazit licenční klíče a soubory pro odběr CSP serveru, musí zákazník přejít do centra pro správu Microsoft 365 > **fakturace > vaše produkty > kartě software**. Další podrobnosti najdete na [kartě software v části fakturace](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Zobrazit aktivitu pro přístup k softwarovému klíči a stažení softwaru
 
@@ -129,7 +129,7 @@ Pro účely auditování nebo dodržování předpisů možná budete muset ově
 
 2. Vyberte ikonu ozubeného kolečka v pravém horním rohu.
 
-3. V nabídce vyberte **Protokol aktivit** .
+3. V nabídce vyberte **Protokol aktivit**.
 
 4. Zadejte rozsah dat aktivity, kterou chcete zobrazit. V protokolu aktivit se zobrazí seznam uživatelů, kteří během zadaného času získali buď softwarové klíče, nebo stáhli software. 
 
@@ -159,7 +159,7 @@ Pokud chcete zrušit nákup, postupujte podle následujících kroků:
 
 4. Na stránce s podrobnostmi zákazníka vyberte **software** a zobrazí se seznam softwaru zakoupeného pro zákazníka. 
 
-5. Vyhledejte zakoupený software, který chcete zrušit, a pak vyberte **Zrušit** . Zobrazí se dialogové okno.
+5. Vyhledejte zakoupený software, který chcete zrušit, a pak vyberte **Zrušit**. Zobrazí se dialogové okno.
 
 6. V rozevíracím seznamu pořadové číslo objednávky vyberte správné číslo ID objednávky, které chcete zrušit. (Další informace o čísle ID objednávky nebo objednávky najdete na stránce **Historie objednávek** zákazníka.)
 
@@ -194,7 +194,7 @@ Pokud jste se pokusili zrušit nákup softwaru prostřednictvím partnerského c
 
 1. Když v okně zrušit nákup vyberete odkaz **žádost o podporu zákazníka** , otevře se stránka **ohlásit problém se službou partner Center** .
 
-2. V části **Podrobnosti** v seznamu typ problému vyberte možnost **Nákup a refundace CSP jménem zákazníků** .
+2. V části **Podrobnosti** v seznamu typ problému vyberte možnost **Nákup a refundace CSP jménem zákazníků**.
 
 3. Vyplňte pole dopad a název.
 
@@ -210,9 +210,9 @@ Pokud jste se pokusili zrušit nákup softwaru prostřednictvím partnerského c
 
 5. Do pole Kontakt zadejte své jméno, e-mailovou adresu a telefonní číslo.
 
-6. Pokud z nějakého důvodu potřebujete soubor připojit, vyberte **Přidat soubory** . Tento krok je volitelný.
+6. Pokud z nějakého důvodu potřebujete soubor připojit, vyberte **Přidat soubory**. Tento krok je volitelný.
 
-7. Až budete hotovi, vyberte **Odeslat** .
+7. Až budete hotovi, vyberte **Odeslat**.
 
 ## <a name="next-steps"></a>Další kroky
 

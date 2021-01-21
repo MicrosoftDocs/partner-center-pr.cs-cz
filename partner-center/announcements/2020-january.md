@@ -131,7 +131,7 @@ Později ve verzi Q3 FY20 provádíme nákup samoobslužných služeb pro Power 
 
 Projděte si všechny prostředky v galerii prostředků (další podrobnosti o nákupu samoobslužné služby najdete v části Další materiály), včetně pokynů pro implementaci PowerShellu, pokud si zákazníci chtějí odhlásit z nákupu samoobslužné služby.
 
-**Powershellový** skript, který správcům IT umožňuje řídit (zapnout nebo vypnout) funkce samoobslužného nákupu na jednotlivých produktech, je **teď k dispozici** . Technickou dokumentaci najdete v části Další zdroje informací.
+**Powershellový** skript, který správcům IT umožňuje řídit (zapnout nebo vypnout) funkce samoobslužného nákupu na jednotlivých produktech, je **teď k dispozici**. Technickou dokumentaci najdete v části Další zdroje informací.
 
 AKTUALIZACE: za minulý týden nasloucháme vašemu názoru ohledně zavedení našich možností nákupu na samoobslužné služby pro produkty Power Platform. Do těch, které vám poskytli vaše zadání, Děkujeme! Na základě vaší zpětné vazby jsme upravili náš přístup, aby lépe vyhovoval potřebám správců IT i koncovým uživatelům v rámci organizací. V našem plánu provádíme následující změny:
 
@@ -144,7 +144,7 @@ Vzhledem k tomu, že svět zálohuje cestu k digitální transformaci, koncovým
 
 Budeme postupovat podle postupného zavedení produktů Microsoft Power Platform (Power BI, Power Apps, Power Automate):
 
-- Dostupnost prostřednictvím samoobslužné služby začíná **na Power BI 14. ledna** .
+- Dostupnost prostřednictvím samoobslužné služby začíná **na Power BI 14. ledna**.
 - Uvedení se zahájí se zákazníky v USA pak rozbalíte do dalších geografických oblastí.
 - Tato možnost nebude v tuto chvíli k dispozici pro zákazníky v oblasti státní správy, nezisků ani vzdělávání.
 - Brzy se přiblíží podrobnosti o Power Apps a Power automatu.

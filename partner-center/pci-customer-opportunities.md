@@ -26,9 +26,9 @@ ms.locfileid: "92527773"
 ## <a name="summary-definitions"></a>Souhrnné definice
 
 - **Zákazníci** se systémem SMC – Toto je celkový počet zákazníků při stahování proper.  Zákazníci jsou identifikováni partnerem záznamu.
-- **Smlouvy s vypršenou platností** – v rámci aktuálního fiskálního roku poskytujeme počet smluv o vypršení platnosti.
-- **Vypršení výnosů** – tržby spojené s smlouvami o vypršení platnosti.
-- **Otevřené výnosy po vypršení platnosti** – tržby spojené s otevřenými smlouvami o vypršení platnosti.
+- **Smlouvy s vypršenou platností**– v rámci aktuálního fiskálního roku poskytujeme počet smluv o vypršení platnosti.
+- **Vypršení výnosů**– tržby spojené s smlouvami o vypršení platnosti.
+- **Otevřené výnosy po vypršení platnosti**– tržby spojené s otevřenými smlouvami o vypršení platnosti.
 
 :::image type="content" source="images/pci/cust-oppor-1.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem příležitostí pro zákazníky":::
 
@@ -40,14 +40,14 @@ Segment malý až střední firmy (SMB) je dále rozdělen do tří samostatnýc
 
    Definujeme hlavní nespravované dva způsoby:
 
-   - **Hlavní nespravovaný uživatel** – obsahuje účty s 300 nebo více zaměstnanci. Účty User-Based jsou skvělé cíle pro první nákup nebo rozšíření produktů pro odběr uživatelů, jako je M365, D365 nebo Surface.
+   - **Hlavní nespravovaný uživatel**– obsahuje účty s 300 nebo více zaměstnanci. Účty User-Based jsou skvělé cíle pro první nákup nebo rozšíření produktů pro odběr uživatelů, jako je M365, D365 nebo Surface.
    - **Založené na hlavních nespravovaných výpočetních** operacích – obsahuje účty s potenciálem Azure větším než $10 000. Účty založené na COMPUTE zahrnují existující Azure. účty s významným potenciálem budoucích let a účty, které ještě ještě kupují Azure, ale mají možnost Azure větší než $10 000.
 
 2. **Středně velké firmy** zahrnují stávající zákazníky a účty nadějných zákazníků s 25 až 300 zaměstnanci.
 
 3. **Malé firmy** zahrnují všechny zbývající firmy s méně než 25 zaměstnanci.
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem příležitostí pro zákazníky":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Zákazník podle typu SMC.":::
 
 **Hlavní nespravované** a **střední části podniku** reprezentují vysoké LTV zákazníky pro Microsoft a partnery Microsoftu. Proto jsou v tomto segmentu oblasti olova zaměřeny na zvýšení růstu. V těchto dvou segmentech jsme lépe umístili k získání soketu pomocí M365, monetizovat s D365/Azure obchodními aplikacemi (LOB) a zajistili jsme vysoké LTV pro společnost Microsoft.
 
@@ -55,19 +55,19 @@ Dnes máme dvě klíčové oblasti příležitosti – 1. Náš zákazník přin
 
 Následující snímek obrazovky představuje tři segmenty SMB a optimalizované trasy k uvedení na trh. CloudAscent stanovit prioritu profilace, bodování a modelování všech hlavních nespravovaných a středně velkých obchodních účtů.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem příležitostí pro zákazníky":::
+:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Snímek obrazovky s podsegmenty SMB.":::
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
 Protokol SMB používá technologii strojového učení k řízení prodeje a marketingu zákaznických předpovědi v hlavních nespravovaných a středních obchodních segmentech. Jak jsou signály shromažďovány a přeměněny na doporučení týkající se Proper?
 
-- **Shromažďování dat** : webové prohledávací moduly hledají a shromažďují miliardy zákaznických signálů pomocí příkazů k otestování domén společnosti a monitorují: blogové příspěvky, tiskové příspěvky, sociální toky a technická fóra.  Kromě shromážděných signálů se informace o firmographics shromažďují z interních i externích zdrojů, jako je například D&B, interní předplatné Microsoftu a transakční data.
+- **Shromažďování dat**: webové prohledávací moduly hledají a shromažďují miliardy zákaznických signálů pomocí příkazů k otestování domén společnosti a monitorují: blogové příspěvky, tiskové příspěvky, sociální toky a technická fóra.  Kromě shromážděných signálů se informace o firmographics shromažďují z interních i externích zdrojů, jako je například D&B, interní předplatné Microsoftu a transakční data.
 
-- **Machine Learning** : signály se dopravují do modelu machine learningu, který pro každého zákazníka cloudového produktu a clusteru vytvoří strukturu strukturované datové sady předpovědi pro prodej a marketing.  Každý zákazník se vyhodnotí pomocí podobného modelu jako v horním protokolu SMB od Microsoftu, který určuje přizpůsobení a algoritmy strojového učení, které integrují online chování zákazníka, se definuje jako záměr. Bodování se sloučí do clusterů, které znázorňují prohlédnutí zákazníka k nákupu Microsoft Cloudch produktů.
+- **Machine Learning**: signály se dopravují do modelu machine learningu, který pro každého zákazníka cloudového produktu a clusteru vytvoří strukturu strukturované datové sady předpovědi pro prodej a marketing.  Každý zákazník se vyhodnotí pomocí podobného modelu jako v horním protokolu SMB od Microsoftu, který určuje přizpůsobení a algoritmy strojového učení, které integrují online chování zákazníka, se definuje jako záměr. Bodování se sloučí do clusterů, které znázorňují prohlédnutí zákazníka k nákupu Microsoft Cloudch produktů.
 
-- **Optimalizace** : systém Machine Learning optimalizuje modely tím, že spotřebovává data transakcí měsíčně a čtvrtletní data předplatného.  Pomocí dat o výher a ztrátách Machine Learning upravuje algoritmy a ověřuje, že modely pracují podle očekávání, tím, že porovnává doporučení clusteru s možnostmi, které se v hlavní části vycházejí.
+- **Optimalizace**: systém Machine Learning optimalizuje modely tím, že spotřebovává data transakcí měsíčně a čtvrtletní data předplatného.  Pomocí dat o výher a ztrátách Machine Learning upravuje algoritmy a ověřuje, že modely pracují podle očekávání, tím, že porovnává doporučení clusteru s možnostmi, které se v hlavní části vycházejí.
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem příležitostí pro zákazníky":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Snímek obrazovky s protokolem SMB Machine Learning.":::
 
 ## <a name="cloudascent-propensity"></a>CloudAscent Proper
 
@@ -91,7 +91,7 @@ Pomocí signálů shromážděných prostřednictvím webových procházecích a
 
    - Bodování záměru se aktualizuje měsíčně.
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem příležitostí pro zákazníky":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="CloudAscenté prediktivní modely protokolu SMB.":::
 
 3. Clustering
 
@@ -121,7 +121,7 @@ Pomocí signálů shromážděných prostřednictvím webových procházecích a
 
       4. Nakonec tyto segmenty seskupují clustery.  Například, a1, a2, a3, A4 tvoří cluster Act Now.
 
-         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem příležitostí pro zákazníky":::
+         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="CloudAscent modely.":::
 
    Pro tyto zákazníky doporučujeme cílit na Act nyní a vyhodnocovat zákazníky.
 
@@ -129,7 +129,7 @@ Pomocí signálů shromážděných prostřednictvím webových procházecích a
 
 Následující obrázek poskytuje zobrazení jednotlivých modelů PROPER v rámci CloudAscent:
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem příležitostí pro zákazníky":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="CloudAscent model proper.":::
 
 Prázdné modely se skládají z předpovědi pro stávající zákazníky Microsoftu, kde nemají produkt a/nebo jsou noví zákazníci, kteří používají zákazníky v rámci zákazníků.
 

@@ -23,8 +23,8 @@ V tomto článku se dozvíte víc o těchto formulářích, včetně toho, kdo j
 
 | Daňový formulář finančního úřadu | Popis | Dostupnost |
 |--------------|-------------|--------------|
-|1099 – RŮZNÉ, 1099 AŽ K | Související s aktivitou prodeje a/nebo platbami, které jste provedli při účasti na tržištích společnosti Microsoft. | Tištěné formuláře budou postmarked do **31. ledna** a budou k dispozici v [partnerském centru](https://partner.microsoft.com/dashboard) (v **Nastavení účtu partnerského centra** pod položkou **Výběr a daňové > výběr a daňové profily** ) ve stejnou dobu. |
-|1042-S | V souvislosti s platbami, které jste provedli, se vztahují na USA srážková daň. | Tištěné formuláře budou postmarked do **15. března** nebo do 15. kopie. PDF budou k dispozici v partnerském centru (v **nastavení pro vývojáře partnerského centra** v části **Výběr a daňové > výběr a daňové profily** ) ve stejnou dobu.  |
+|1099 – RŮZNÉ, 1099 AŽ K | Související s aktivitou prodeje a/nebo platbami, které jste provedli při účasti na tržištích společnosti Microsoft. | Tištěné formuláře budou postmarked do **31. ledna** a budou k dispozici v [partnerském centru](https://partner.microsoft.com/dashboard) (v **Nastavení účtu partnerského centra** pod položkou **Výběr a daňové > výběr a daňové profily**) ve stejnou dobu. |
+|1042-S | V souvislosti s platbami, které jste provedli, se vztahují na USA srážková daň. | Tištěné formuláře budou postmarked do **15. března** nebo do 15. kopie. PDF budou k dispozici v partnerském centru (v **nastavení pro vývojáře partnerského centra** v části **Výběr a daňové > výběr a daňové profily**) ve stejnou dobu.  |
 
 > [!NOTE]
 > Adresa, kterou používáme u daňových formulářů finančního úřadu, přichází z adresy v daňovém profilu při [nastavování účtu výběr a daňového formuláře](set-up-your-payout-account.md). Pokud se vaše adresa změnila, ujistěte se, že jste adresu aktualizovali v **daňovém profilu**.
@@ -74,7 +74,7 @@ Daňové formuláře vám budou odesílány z následujících adres:
 | **Proč se mi v jedné obálce dostaly tři kopie stejné formy 1042-S?** | Nařízení finančního úřadu vyžadují, aby byly k dispozici tři kopie formuláře:<br/><br/>– Jeden pro záznamy příjemců<br/>– One pro podání u USA federální daňové vratky (Pokud je k dispozici)<br/>– Jeden pro podání s návratovou daní stavu USA (Pokud je k dispozici) |
 
 > [!NOTE]
-> Pokud máte další otázky nebo obavy související s **daňovými formuláři finančního úřadu** , najdete [informace v části pomoc a podpora](https://partner.microsoft.com/dashboard/support/) na řídicím panelu partnerského centra. Společnost Microsoft nemůže odpovídat na otázky související s vašimi konkrétními daňovými okolnostmi. v případě těchto otázek prosím vyžádejte svůj daňový specialista na radu.
+> Pokud máte další otázky nebo obavy související s **daňovými formuláři finančního úřadu**, najdete [informace v části pomoc a podpora](https://partner.microsoft.com/dashboard/support/) na řídicím panelu partnerského centra. Společnost Microsoft nemůže odpovídat na otázky související s vašimi konkrétními daňovými okolnostmi. v případě těchto otázek prosím vyžádejte svůj daňový specialista na radu.
 
 ## <a name="next-steps"></a>Další kroky
 

@@ -76,7 +76,7 @@ V tabulce **počet zemí/oblastí** je uvedena celková země/oblasti, ve který
 
 Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Stisknutím možnosti **Domů** na mapě se vraťte k původnímu zobrazení. Pokud chcete zobrazit všechna předplatná a aktivní předplatná podle země, najeďte myší na mapu. Obě pole v mřížce lze seřadit.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="Souhrn sestavy předplatných":::
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="předplatná podle geografického":::
 
 ## <a name="subscription-addschurns"></a>Přidání a změny předplatného
 
@@ -84,19 +84,19 @@ Toto zobrazení představuje trend předplatných. Ty jsou rozdělené do různ�
 
 Skládaný sloupcový graf prezentuje rozpis nových, stávajících a změněných předplatných v daném měsíci. Můžete znovu sestavit sloupcový graf, rozdělený dolů s konkrétními položkami zásobníku. Provedete to tak, že vyberete tyto konkrétní položky v legendě. Můžete také použít posuvník v horní části grafu k přiblížení konkrétního období.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="Souhrn sestavy předplatných":::
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="Přidání a změny předplatného":::
 
 ## <a name="subscription-distribution"></a>Distribuce předplatného
 
 Toto zobrazení představuje rozpis vašich aktuálních předplatných podle umístění MPN, zákaznických segmentů, prodejních kanálů/Azure cen a typu přidělení (např. partnera DPOR, DAP atd.). Chcete-li zobrazit rozpis podle těchto kategorií, klikněte na příslušné karty. Chcete-li vytvořit výsečový graf s rozpisem konkrétních kategorií položek, vyberte tyto kategorie položek v legendě.
 
-:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="Souhrn sestavy předplatných":::
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribuce předplatného":::
 
 ## <a name="subscription-state-distribution"></a>Distribuce stavu předplatného
 
-Toto zobrazení ukazuje distribuci aktuálních zákaznických předplatných podle stavu nebo stavu předplatného. To zahrnuje následující stavy předplatného: **aktivní** , **zakázané** , **zrušení zřízení** , **otevřené** , **v období odkladu** , **uzavřené** a **jiné** .
+Toto zobrazení ukazuje distribuci aktuálních zákaznických předplatných podle stavu nebo stavu předplatného. To zahrnuje následující stavy předplatného: **aktivní**, **zakázané**, **zrušení zřízení**, **otevřené**, **v období odkladu**, **uzavřené** a **jiné**.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="Souhrn sestavy předplatných":::
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribuce stavu předplatného":::
 
 ## <a name="products-trend"></a>Trend produktů
 
@@ -104,7 +104,7 @@ Toto zobrazení ukazuje sloupcový graf a dva výsečové grafy. Pruhový graf p
 
 V těchto dvou výsečových grafech se zobrazuje rozpis aktuálních zákaznických předplatných. První výsečový graf rozdělí odběry podle produktů. Druhý výsečový graf rozdělí předplatná podle skladů nebo plánů. Když vyberete produkt v výsečovém grafu rozpis **podle produktů** , zobrazí se v sousedním výsečovém grafu rozpis předplatných těchto produktů pomocí SKU.
 
-:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="Souhrn sestavy předplatných":::
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="trend produktů":::
 
 > [!NOTE]
  > Počet předplatných rozepsaný podle SKU nemusí vždy odpovídat celkovému počtu předplatných pro daný produkt. Tato situace může nastat, pokud zákazník zakoupil více SKU v rámci stejného předplatného produktu.

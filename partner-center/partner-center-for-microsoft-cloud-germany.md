@@ -49,11 +49,11 @@ Než budete moct migrovat předplatné zákazníka z Microsoft Cloud Německo do
 
 1. V nabídce vlevo přejděte na stránku Přehled CSP.
  
-1. Po zobrazení výzvy vyberte **už tenanta v evropské oblasti** a pak vyberte **Další** . Zobrazí se výzva, abyste se přihlásili k novému tenantovi. 
+1. Po zobrazení výzvy vyberte **už tenanta v evropské oblasti** a pak vyberte **Další**. Zobrazí se výzva, abyste se přihlásili k novému tenantovi. 
 
 1. Přihlaste se ke klientovi jako globální správce.
  
-1. Přečtěte si informace na stránce s potvrzením a pak vyberte **Potvrdit** .
+1. Přečtěte si informace na stránce s potvrzením a pak vyberte **Potvrdit**.
  
 6.  V případě úspěchu se zobrazí výzva k výběru **zobrazení Podrobnosti** nebo **řídicího panelu** pro další informace. 
 
@@ -73,7 +73,7 @@ Než budete moct migrovat předplatné zákazníka z Microsoft Cloud Německo do
 
 1. V nabídce vlevo přejděte na stránku Přehled CSP.
 . 
-1. Po zobrazení výzvy vyberte možnost **nemám tenanta v evropské oblasti** a pak vyberte **vytvořit nový účet** . 
+1. Po zobrazení výzvy vyberte možnost **nemám tenanta v evropské oblasti** a pak vyberte **vytvořit nový účet**. 
  
 1. Přejdete na stránku pro registraci partnerského centra, kde můžete v evropské oblasti vytvořit nový účet tenanta a CSP.
   

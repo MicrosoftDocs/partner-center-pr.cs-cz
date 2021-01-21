@@ -32,19 +32,19 @@ V rámci partnerského centra můžete iniciovat deklaraci identity.
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. Vyberte kartu **pobídky** a potom vyberte možnost **Správa souběžných** .
+2. Vyberte kartu **pobídky** a potom vyberte možnost **Správa souběžných**.
 
 3. Pokud už máte deklaraci identity v procesu, na stránce Přehled deklarací identity se zobrazí informace o stavu existujících deklarací identity a schválených, deklarovaných a celkových finančních prostředků.
 
-4. Pokud chcete vytvořit novou deklaraci identity, vyberte **vytvořit deklaraci identity** .
+4. Pokud chcete vytvořit novou deklaraci identity, vyberte **vytvořit deklaraci identity**.
 
-5. Když jste vyplnili počáteční formulář a vybrali možnost **vytvořit deklaraci identity** , přejdete na stránku s podrobnostmi o deklaraci, na kterou budete moct přidávat faktury, dokumenty CSR, dokumenty ověření a metriky. V případě potřeby můžete přidat také další informace.
+5. Když jste vyplnili počáteční formulář a vybrali možnost **vytvořit deklaraci identity**, přejdete na stránku s podrobnostmi o deklaraci, na kterou budete moct přidávat faktury, dokumenty CSR, dokumenty ověření a metriky. V případě potřeby můžete přidat také další informace.
 
 Na stránce Podrobnosti o žádosti můžete požádat ostatní uživatele ve vaší organizaci o nahrání dokumentace do formuláře. Ke každému nahranému doprovodnému dokumentu můžete zadat podrobné vysvětlivky. 
 
 ### <a name="manage-your-claims"></a>Správa deklarací identity
 
-Můžete zobrazit všechny aktivity, které se docházejí do sestavení vaší deklarace v **historii** . Pokaždé, když kolega přidá do nějakého podpůrného dokumentu nebo komentářů, bude akce uložená v **historii** . Dokud neodešlete deklaraci identity, stav se **upraví** . Stav vaší deklarace se během procesu schvalování mění. V průběhu kontroly deklarace identity se někdy může zobrazit zpětná vazba ke konkrétní položce v dokumentaci k ověření spuštění (PoE). Zpětná vazba a žádosti o další informace se zobrazí také v historii deklarací identity.
+Můžete zobrazit všechny aktivity, které se docházejí do sestavení vaší deklarace v **historii**. Pokaždé, když kolega přidá do nějakého podpůrného dokumentu nebo komentářů, bude akce uložená v **historii**. Dokud neodešlete deklaraci identity, stav se **upraví**. Stav vaší deklarace se během procesu schvalování mění. V průběhu kontroly deklarace identity se někdy může zobrazit zpětná vazba ke konkrétní položce v dokumentaci k ověření spuštění (PoE). Zpětná vazba a žádosti o další informace se zobrazí také v historii deklarací identity.
 
 Po odeslání deklarace identity nemůžete upravit, Pokud recenzent nepožaduje Další informace.
 

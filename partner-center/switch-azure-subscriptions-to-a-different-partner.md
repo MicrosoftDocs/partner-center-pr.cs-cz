@@ -43,11 +43,11 @@ Pokud chcete přepnout služby Azure nebo předplatné Azure na jiného partnera
 
    Vytvoření lístku služby Azure z partnerského centra pro vyžádání přenosu předplatného:
 
-   1. V nabídce partnerské Centrum vyberte **zákazníky** , ze seznamu vyberte zákazníka a potom vyberte **Správa služeb** . 
+   1. V nabídce partnerské Centrum vyberte **zákazníky**, ze seznamu vyberte zákazníka a potom vyberte **Správa služeb**. 
 
-   2. V části **lístky podpory** vyberte rozevírací seznam **nový lístek** a zvolte možnost **Microsoft Azure** .
+   2. V části **lístky podpory** vyberte rozevírací seznam **nový lístek** a zvolte možnost **Microsoft Azure**.
    
-   3. V [Azure Portal](https://portal.azure.com)vyberte **nový požadavek na podporu** .
+   3. V [Azure Portal](https://portal.azure.com)vyberte **nový požadavek na podporu**.
    
    4. V kroku 1 Zvolte jako typ problému možnost **Správa předplatného** , zadejte ID předplatného, které chcete přenést, a jako plán podpory zvolte **Cloud Solution Provider** .
    
@@ -59,20 +59,20 @@ Pokud chcete přepnout služby Azure nebo předplatné Azure na jiného partnera
 
    K vyplnění formuláře budete potřebovat následující informace:
 
-   - Kontaktní údaje aktuálního partnera a ID Microsoftu. V nabídce partnerské Centrum vyberte **Nastavení účtu** &gt; **Profil organizace** a použijte **ID společnosti Microsoft** , **název organizace** a uvedenou **adresu** .
+   - Kontaktní údaje aktuálního partnera a ID Microsoftu. V nabídce partnerské Centrum vyberte **Nastavení účtu** &gt; **Profil organizace** a použijte **ID společnosti Microsoft**, **název organizace** a uvedenou **adresu** .
 
-   - ID Microsoftu zákazníka. V nabídce partnerské Centrum vyberte **zákazníci** a potom rozbalte seznam zákazníka, abyste viděli jeho **ID Microsoftu** .
+   - ID Microsoftu zákazníka. V nabídce partnerské Centrum vyberte **zákazníci** a potom rozbalte seznam zákazníka, abyste viděli jeho **ID Microsoftu**.
 
-   - ID předplatného, které se má přenést V rozbaleném seznamu zákazníků vyberte **Zobrazit předplatná** a potom rozbalte zvolené předplatné, abyste viděli **ID předplatného** .
+   - ID předplatného, které se má přenést V rozbaleném seznamu zákazníků vyberte **Zobrazit předplatná** a potom rozbalte zvolené předplatné, abyste viděli **ID předplatného**.
 
    >[!Note]
-   >Výsledkem převodu předplatného jsou dvě ID předplatného, které se zobrazí na stránce **Upravit odběr** přenesených předplatného: **1** -ID předplatného partnerského centra se používá pro účely fakturace. **2** – původní ID předplatného Azure se zachová a zobrazí se v partnerském centru i na portálu pro správu Azure. Toto ID se zobrazí v souboru rekognoskaci.  **Když protokolování podporuje lístky, je nutné použít obě ID.**
+   >Výsledkem převodu předplatného jsou dvě ID předplatného, které se zobrazí na stránce **Upravit odběr** přenesených předplatného: **1**-ID předplatného partnerského centra se používá pro účely fakturace. **2**– původní ID předplatného Azure se zachová a zobrazí se v partnerském centru i na portálu pro správu Azure. Toto ID se zobrazí v souboru rekognoskaci.  **Když protokolování podporuje lístky, je nutné použít obě ID.**
 
 4. Zákazník a nový partner pro předplatné:
 
    Zkontrolujte formulář, vyplňte informace o novém partnerovi a přihlaste se. Potvrďte, že nový zákazník má smlouvu smlouvy. Odešle formulář zpátky aktuálnímu partnerovi záznamu.
 
-   *Důležité* : Pokud nový partner CSP nemá vztah prodejce se zákazníkem, musí si ho před přenosem předplatného vytvořit. [Informace o tom, jak to udělat, najdete tady](request-a-relationship-with-a-customer.md).
+   *Důležité*: Pokud nový partner CSP nemá vztah prodejce se zákazníkem, musí si ho před přenosem předplatného vytvořit. [Informace o tom, jak to udělat, najdete tady](request-a-relationship-with-a-customer.md).
 
    >[!Note]
    >Nový partner CSP a tenant zákazníka musí být ve stejné zemi. 
@@ -102,10 +102,10 @@ Pokud chcete přepnout služby Azure nebo předplatné Azure na jiného partnera
 
 7. Odebrat zastaralá oprávnění k přístupu
 
-   - V nabídce partnerské Centrum vyberte **zákazníci** .
+   - V nabídce partnerské Centrum vyberte **zákazníci**.
    - Vyhledejte zákazníka na seznamu. Vyberte (dvakrát klikněte) jejich název společnosti. Tím se otevře stránka **předplatné** zákazníka.
-   - V nabídce podrobnosti o zákazníkovi vyberte **Správa služeb** .
-   - V části **Microsoft Azure** klikněte na odkaz pro přechod na **portál pro správu Microsoft Azure** .
+   - V nabídce podrobnosti o zákazníkovi vyberte **Správa služeb**.
+   - V části **Microsoft Azure** klikněte na odkaz pro přechod na **portál pro správu Microsoft Azure**.
 
 ## <a name="next-steps"></a>Další kroky
 

@@ -37,7 +37,7 @@ Pokud uživatelé zapomene hesla, přiřaďte jim dočasné heslo. Můžou ho po
 
 2. Vyberte uživatele ze seznamu.
 
-3. V dolní části stránky vyberte možnost **resetovat heslo** .
+3. V dolní části stránky vyberte možnost **resetovat heslo**.
 
 4. Pro nové přihlášení se zobrazí potvrzovací obrazovka s dočasným heslem. Musíte zkopírovat a odeslat ho novému uživateli – po opuštění obrazovky to není přístupné. Při prvním přihlášení se zobrazí výzva k aktualizaci hesla.
 

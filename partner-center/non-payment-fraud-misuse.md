@@ -29,7 +29,7 @@ Platí pro:
 - Agent správce
 - Správce fakturace
 
-Máte finančně odpovědnost za podvodné nákupy zákazníků a/nebo zákazníky, kteří si zakoupili koupené služby. Proto *důrazně doporučujeme, abyste provedli řízení prevence podvodů a detekci rizik* .
+Máte finančně odpovědnost za podvodné nákupy zákazníků a/nebo zákazníky, kteří si zakoupili koupené služby. Proto *důrazně doporučujeme, abyste provedli řízení prevence podvodů a detekci rizik*.
 
 Aby nedocházelo k podvodné aktivitě nebo zneužití adres, je důležité pochopit potenciální rizika a vyvíjet zásady a postupy, které mohou snížit vaši expozici.
 

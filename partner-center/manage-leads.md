@@ -62,9 +62,9 @@ V této fázi jste získali nového zájemce buď přímo od zákazníka, nebo o
 
 V této fázi můžete v této fázi provést dvě akce – přijměte nebo odmítněte odkaz:
 
-- **Přijmout:** Zadejte název obchodu, odhadovanou hodnotu koupě a odhadovaný časový rámec nákupu. V poli **poznámky** byste také měli zadat informace, které vám pomůžou vysvětlit, co zákazník hledá. Volitelně můžete zadat ID vaší aplikace CRM (jenom pro referenci), ID marketingové kampaně, které vedlo k příslušnému vedoucímu, a přidat další kontakty z vaší společnosti. Až budete hotovi, vyberte **Další** . Budeme přemístit odkaz na **další fázi** , což znamená, že se budete chtít aktivně zapojit zákazníka, aby si vyřeší jejich potřebu. Tyto informace také použijeme, abychom vám pomohli najít podobné obchody v budoucnosti. 
+- **Přijmout:** Zadejte název obchodu, odhadovanou hodnotu koupě a odhadovaný časový rámec nákupu. V poli **poznámky** byste také měli zadat informace, které vám pomůžou vysvětlit, co zákazník hledá. Volitelně můžete zadat ID vaší aplikace CRM (jenom pro referenci), ID marketingové kampaně, které vedlo k příslušnému vedoucímu, a přidat další kontakty z vaší společnosti. Až budete hotovi, vyberte **Další**. Budeme přemístit odkaz na **další fázi**, což znamená, že se budete chtít aktivně zapojit zákazníka, aby si vyřeší jejich potřebu. Tyto informace také použijeme, abychom vám pomohli najít podobné obchody v budoucnosti. 
 
-- **Odmítnout** : Vyberte důvod odmítnutí obchodu a přidejte všechny poznámky, které chcete zahrnout, a pak vyberte **uzavřít** obchod. Bude archivována jako **odmítnutá** a upozorní zákazníka, aby zvolil jiného partnera.
+- **Odmítnout**: Vyberte důvod odmítnutí obchodu a přidejte všechny poznámky, které chcete zahrnout, a pak vyberte **uzavřít** obchod. Bude archivována jako **odmítnutá** a upozorní zákazníka, aby zvolil jiného partnera.
 
 - Pokud během přiděleného času (v současnosti 14 dnů) neodpovíte, archivujte ho jako **konec platnosti** a upozorněte buď společnost Microsoft, nebo partnera, který vám tuto příležitost poslal.
 
@@ -73,7 +73,7 @@ V této fázi můžete v této fázi provést dvě akce – přijměte nebo odm�
 
 ### <a name="accepted-stage"></a>Přijatá fáze
 
-Když pracujete na uzavření obchodu, pokud chcete změnit některou z informací, které jste zadali pro přijatý odkaz, vyberte **Upravit** . Potom můžete aktualizovat název obchodu, odhadované datum nákupu, odhadované hodnoty, poznámky, CRM ID a/nebo ID marketingové kampaně.  Můžete také vybrat možnost **Přidat zaměstnance** a zadat jméno, telefonní číslo a e-mailové adresy všech dalších osob, které na obchod pracují.
+Když pracujete na uzavření obchodu, pokud chcete změnit některou z informací, které jste zadali pro přijatý odkaz, vyberte **Upravit**. Potom můžete aktualizovat název obchodu, odhadované datum nákupu, odhadované hodnoty, poznámky, CRM ID a/nebo ID marketingové kampaně.  Můžete také vybrat možnost **Přidat zaměstnance** a zadat jméno, telefonní číslo a e-mailové adresy všech dalších osob, které na obchod pracují.
 
 Až budete hotovi, můžete provést jednu ze dvou akcí, která označuje, že se jednalo o **získanou** nebo **ztracenou** práci k nahlášení výsledku, abychom ho mohli archivovat odpovídajícím způsobem.
 

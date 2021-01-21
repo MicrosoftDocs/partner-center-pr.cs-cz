@@ -43,7 +43,7 @@ Další informace o konkrétních licenčních programech najdete v následujíc
 
 |Akce  | Přečtěte si:  |
 |:------------------|:--------------- |
-|Porovnání licencí programu CSP s jinými modely licencování *(přehled vysoké úrovně)* | Přejít na [stránku pro zápis CSP](https://partner.microsoft.com/licensing/). Posuňte se dolů, dokud se nezobrazí část a *Porovnejte zprostředkovatele CSP s ostatními modely licencování* .  |
+|Porovnání licencí programu CSP s jinými modely licencování *(přehled vysoké úrovně)* | Přejít na [stránku pro zápis CSP](https://partner.microsoft.com/licensing/). Posuňte se dolů, dokud se nezobrazí část a *Porovnejte zprostředkovatele CSP s ostatními modely licencování*.  |
 |Porovnání různých partnerských licenčních smluv pro cloudové služby Microsoftu a místní software *(podrobné zobrazení)*  | [Licenční smlouvy s Microsoftem](https://partner.microsoft.com/licensing/licensing-agreements)  |
 |Další informace o multilicenčním programu a licencování pro konkrétní řešení  | [Licencování Microsoft – produkty a řešení](https://www.microsoft.com/licensing/default) |
 |Přečtěte si o multilicenčních školeních a prostředcích, které vám pomůžou s cenami VL, nabídkami, smlouvami, aktivací produktů a dalšími nástroji.  | [Microsoft Partner Network školení a zdroje informací](https://partner.microsoft.com/licensing/training-and-resources) |

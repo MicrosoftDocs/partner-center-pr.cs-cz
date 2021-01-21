@@ -37,7 +37,7 @@ Pomocí těchto kroků můžete odeslat nové daňové odmítnutí:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
 
-2. V nabídce na levé straně vyberte **fakturace** a přejděte na **historie fakturace** .
+2. V nabídce na levé straně vyberte **fakturace** a přejděte na **historie fakturace**.
 
 3. Klikněte na **Odeslat novou** vedle faktury, pro kterou chcete odeslat volný prostor. Odkaz Odeslat nový přejde na stránku **žádosti o novou daň za daňové odmítnutí** .
 
@@ -45,7 +45,9 @@ Pomocí těchto kroků můžete odeslat nové daňové odmítnutí:
 
 4. Přečtěte si podrobnosti o faktuře a ujistěte se, že posíláte žádost o správnou fakturu.
 
-   :::image type="content" source="images/wht2.png" alt-text="Odeslat nové daňové srážky u faktury" je množství, které očekáváte k kreditu.
+   :::image type="content" source="images/wht2.png" alt-text="Úplné podrobnosti o odmítnutí daně pro fakturu":::
+
+5. V části **Podrobnosti o odmítnutí daně** zadejte "srážka celkem". Hodnota "srážka celkem" je množství, které očekáváte k kreditu.
 
 6. **Připojte** daňový certifikát. Do žádosti o srážku daně budete muset zahrnout **digitální kopii** **certifikátu srážkové daně** . Tento certifikát jste dostali od své místní daňové agentury, když platíte poplatky vašemu místnímu finančnímu úřadu. Částka daně faktury v certifikátu srážkové daně musí odpovídat celkovému množství žádosti o srážku daně.
 
@@ -60,7 +62,7 @@ Pomocí těchto kroků můžete odeslat nové daňové odmítnutí:
 
 ## <a name="update-request-and-resubmit"></a>Aktualizovat žádost a znovu odeslat
 
-Tým recenze může vyžadovat, abyste provedli opravy a znovu odeslali žádost, aby ji bylo možné schválit. Změní stav na **Nedokončená Partnerská akce** . Opravte a znovu odešlete požadavek:
+Tým recenze může vyžadovat, abyste provedli opravy a znovu odeslali žádost, aby ji bylo možné schválit. Změní stav na **Nedokončená Partnerská akce**. Opravte a znovu odešlete požadavek:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
 
@@ -84,7 +86,7 @@ Odesláním žádosti se pošle zpátky týmu, kde schválíte nebo požádáte 
 
 Schválené požadavky na srážku daně se spustí na vaší další faktuře a zapisují dlužnou částku. Žádosti, které jsou označené jako **dokončené** , by se měly použít do 10 pracovních dnů. 
 
-Vymazané hodnoty se projeví v **části Historie fakturace fakturační stránky** . Vymazané částky se zobrazí ve sloupci **poslední platby** vedle faktury, ke které byl požadavek odeslán.
+Vymazané hodnoty se projeví v **části Historie fakturace fakturační stránky**. Vymazané částky se zobrazí ve sloupci **poslední platby** vedle faktury, ke které byl požadavek odeslán.
 
    > [!IMPORTANT]
    > Předchozí faktury nejsou znovu vygenerovány nebo znovu vydány. Množství clearace se jednoduše použije u plateb z předchozích měsíců.
@@ -108,4 +110,4 @@ Partneři, kteří odesílají žádosti o odmítnutí daně z němčiny, by mě
 Partneři by měli pomocí nového procesu popsaného výše odesílat nové žádosti a už nepoužívají vytváření žádostí o podporu pro nové žádosti o srážku daně. [Žádosti o podporu mohou odesílat](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed)partneři s dalšími dotazy týkajícími se žádostí o odmítnutí daně. Žádosti o podporu jsou určené k tomu, aby pomohly partnerům pro existující požadavky, aby mohli odeslat novou lístek s **ID žádosti** . Pokud partneři nemůžou odeslat žádost pomocí nového procesu, musí do formuláře žádosti o podporu zadat nějaké číslo (vše 1). 
 
    > [!IMPORTANT]
-   > Pokud je stav žádosti **dokončený** , partneři nepotřebují kontaktovat podporu. Tento stav se zobrazí v **historii fakturace** vedle faktury pro odeslání. Částky za **Poslední platbu** u faktury by měly odrážet částku srážku daně v rámci 10 dní od označení, že je žádost označena jako **Dokončená** .
+   > Pokud je stav žádosti **dokončený**, partneři nepotřebují kontaktovat podporu. Tento stav se zobrazí v **historii fakturace** vedle faktury pro odeslání. Částky za **Poslední platbu** u faktury by měly odrážet částku srážku daně v rámci 10 dní od označení, že je žádost označena jako **Dokončená**.

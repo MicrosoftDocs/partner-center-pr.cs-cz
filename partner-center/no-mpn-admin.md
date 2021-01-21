@@ -55,7 +55,7 @@ Postupujte podle kroků [převzetí správce](/azure/active-directory/users-grou
 Pokud si nejste jistí, jestli má vaše společnost pracovní účet, proveďte kontrolu pomocí těchto kroků.
 
 1. Přihlaste se k [portálu pro správu Azure](https://ms.portal.azure.com).
-2. V nabídce vlevo vyberte **Azure Active Directory** a pak vyberte **názvy domén** .
+2. V nabídce vlevo vyberte **Azure Active Directory** a pak vyberte **názvy domén**.
 Pokud již máte pracovní účet, bude uveden název vaší domény.
 
 >[!Note]

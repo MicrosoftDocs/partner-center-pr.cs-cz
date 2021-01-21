@@ -34,11 +34,11 @@ Pokud si nepamatujete heslo partnerského centra, můžete ho resetovat.
 
 Váš globální správce musí mít nastavenou možnost resetovat heslo sami. (Pokud Váš globální správce zatím nastavený není, budete muset požádat, aby vám [heslo resetoval](reset-a-user-password.md).)
 
-1. Na **přihlašovací** obrazovce vyberte **Nepoužívat k vašemu účtu** a pak vyberte **Další** .
+1. Na **přihlašovací** obrazovce vyberte **Nepoužívat k vašemu účtu** a pak vyberte **Další**.
 
-2. Vyberte **pracovní nebo školní účet** .
+2. Vyberte **pracovní nebo školní účet**.
 
-3. Zobrazí se další výzva k zadání ID uživatele a znaků na obrázku nebo ve zvukovém formátu. Pak vyberte **Další** .
+3. Zobrazí se další výzva k zadání ID uživatele a znaků na obrázku nebo ve zvukovém formátu. Pak vyberte **Další**.
 
 4. Nastavte nové heslo.
 

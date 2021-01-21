@@ -32,9 +32,9 @@ Pokud chcete zřídit vztah prodejce se zákazníkem a spravovat jenom předplat
 
 Můžete požádat o vztah prodejce se zákazníkem ve vaší zemi nebo ve stejné oblasti.
 
-1. V nabídce **partnerského centra** vyberte **zákazníci** a pak vyberte **požádat o vztah prodejce** .
+1. V nabídce **partnerského centra** vyberte **zákazníci** a pak vyberte **požádat o vztah prodejce**.
 
-2. Pokud chcete požádat o oprávnění správce od tohoto zákazníka, vyberte **zahrnout oprávnění delegované správy pro Azure Active Directory a Office 365** . Pokud chcete navázat vztah bez vyžadování oprávnění správce, zrušte výběr této možnosti.
+2. Pokud chcete požádat o oprávnění správce od tohoto zákazníka, vyberte **zahrnout oprávnění delegované správy pro Azure Active Directory a Office 365**. Pokud chcete navázat vztah bez vyžadování oprávnění správce, zrušte výběr této možnosti.
 
 3. Na další stránce zkontrolujte koncept e-mailové zprávy. Koncept zprávy můžete otevřít ve výchozí e-mailové aplikaci nebo můžete zprávu zkopírovat do schránky a vložit do e-mailu.
 

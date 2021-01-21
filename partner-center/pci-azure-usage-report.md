@@ -64,7 +64,7 @@ V tabulce **počet zemí/oblastí** je uvedena celková země/oblasti, ve který
 
 Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Výběrem možnosti **Domů** na mapě se vraťte k původnímu zobrazení.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Souhrn využití Azure":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Využití Azure podle geografie":::
 
 ## <a name="azure-utilization"></a>Využití Azure
 
@@ -72,7 +72,7 @@ Toto zobrazení ukazuje tržby za měsíc v měsíci využití Azure nebo trendy
 
 Pruhový graf prezentuje trend měsíčních příjmů/využití hodiny. Spojnicový graf prezentuje nárůst trendu v porovnání s předchozím měsícem pro vybranou kategorii Azure úrovně služeb/měřiče.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Souhrn využití Azure":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Využití využití Azure":::
 
 ## <a name="next-steps"></a>Další kroky
 

@@ -26,11 +26,11 @@ ms.locfileid: "92527215"
 - Správce fakturace
 - Agent správce
 
-Při nákupu produktů nebo online služby v partnerském centru, které vyžaduje **licence** , se vám bude účtovat každá zakoupená *licence* . Používání těchto licencí *se vám neúčtuje* . (Informace o fakturaci na základě využití a dalších typech fakturace najdete [v tématu typy fakturace v partnerském centru](billing-different-types.md).)
+Při nákupu produktů nebo online služby v partnerském centru, které vyžaduje **licence**, se vám bude účtovat každá zakoupená *licence* . Používání těchto licencí *se vám neúčtuje* . (Informace o fakturaci na základě využití a dalších typech fakturace najdete [v tématu typy fakturace v partnerském centru](billing-different-types.md).)
 
 ## <a name="license-billing-frequency"></a>Četnost fakturace licencí
 
-Můžete si zvolit, že se mají licence fakturovat za měsíc ( **měsíční fakturace** ) nebo jednou za rok ( **roční fakturace** ). 
+Můžete si zvolit, že se mají licence fakturovat za měsíc (**měsíční fakturace**) nebo jednou za rok (**roční fakturace**). 
 
 ## <a name="billing-date-for-licenses"></a>Datum fakturace pro licence
 

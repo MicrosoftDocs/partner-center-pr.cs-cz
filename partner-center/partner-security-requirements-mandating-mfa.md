@@ -194,7 +194,7 @@ Pokud se během ověřování MFA ještě nezaregistroval Partnerský účet pro
 
 Po kliknutí na tlačítko **Další** se uživateli zobrazí výzva k výběru ze seznamu metod ověřování.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="Registrace MFA – krok 1":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="Registrace MFA – krok 2":::
 
 Po úspěšné registraci se uživateli pak vyžaduje dokončení ověřování MFA na základě ověření, které uživatel zvolil.
  
@@ -205,7 +205,7 @@ Před použitím pro [technickou výjimku](#how-to-submit-a-request-for-technica
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problém 1: partner potřebuje víc času na implementaci MFA pro své partnerské agenty.
 Partner se nespustil nebo stále ještě v procesu implementace vícefaktorového ověřování pro své partnerské agenty, kteří vyžadují přístup k portálům služeb Microsoft Online Services pomocí oprávnění delegovaná Správa pro správu zákaznických prostředků. Partner potřebuje víc času na dokončení implementace MFA. Je to problém platným důvodem pro technickou výjimku?
 
-**Odpověď** : ne. Partner potřebuje k tomu, aby se svým uživatelům naimplementoval MFA, aby se předešlo přerušení.
+**Odpověď**: ne. Partner potřebuje k tomu, aby se svým uživatelům naimplementoval MFA, aby se předešlo přerušení.
 
 > [!NOTE]
 > I když partner pro své partnerské agenty neimplementoval MFA, Partnerská agenti budou mít stále přístup k portálům Microsoft Online Services pomocí delegovaných oprávnění pro správu, za předpokladu, že se k zobrazení výzvy během přihlašování do tenanta zákazníka můžou dokončit registrace MFA a ověřování MFA. Dokončení registrace MFA automaticky nepovolí uživatele pro MFA.
@@ -213,23 +213,23 @@ Partner se nespustil nebo stále ještě v procesu implementace vícefaktorovéh
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Problém 2: partner neimplementoval MFA pro uživatelské účty, kteří nepoužívají delegovaná oprávnění správce.
 Partner má některé uživatele v jejich partnerských klientech, kteří nepotřebují přístup k portálům Microsoft Online Services pro správu zákaznických prostředků pomocí delegovaných oprávnění pro správu. Partner v procesu implementuje MFA pro tyto uživatele a potřebuje víc času na dokončení. Je to problém platným důvodem pro technickou výjimku?
 
-**Odpověď** : ne. Vzhledem k tomu, že tyto uživatelské účty nepoužívají pro správu zákaznických prostředků oprávnění k delegované správě, nebudou se muset přihlašovat k tenantovi zákazníka. Nebudou ovlivněny službou Azure AD vyžadovat ověřování MFA během přihlašování k tenantovi zákazníka.
+**Odpověď**: ne. Vzhledem k tomu, že tyto uživatelské účty nepoužívají pro správu zákaznických prostředků oprávnění k delegované správě, nebudou se muset přihlašovat k tenantovi zákazníka. Nebudou ovlivněny službou Azure AD vyžadovat ověřování MFA během přihlašování k tenantovi zákazníka.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problém 3: partner neimplementoval MFA pro účty uživatelských služeb
 Partner má některé uživatelské účty ve svých partnerských klientech, které zařízení používají jako účty služeb. Jedná se o účty s nízkými oprávněními, které nevyžadují přístup k partnerským centrům ani portálům Microsoft Online Services pro správu zákaznických prostředků pomocí delegovaných oprávnění pro správu. Je to problém platným důvodem pro technickou výjimku?
 
-**Odpověď** : ne. Vzhledem k tomu, že tyto uživatelské účty nepoužívají pro správu zákaznických prostředků oprávnění k delegované správě, nebudou se muset přihlašovat k tenantovi zákazníka. Nebudou ovlivněny službou Azure AD vyžadovat ověřování MFA během přihlašování k tenantovi zákazníka.
+**Odpověď**: ne. Vzhledem k tomu, že tyto uživatelské účty nepoužívají pro správu zákaznických prostředků oprávnění k delegované správě, nebudou se muset přihlašovat k tenantovi zákazníka. Nebudou ovlivněny službou Azure AD vyžadovat ověřování MFA během přihlašování k tenantovi zákazníka.
 
 ##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problém 4: partner nemůže implementovat MFA pomocí aplikace MS Authenticator.
 Partner má "uklizenou" zásadu, která neumožňuje zaměstnancům, aby do své pracovní oblasti nastavili svá osobní mobilní zařízení. Bez přístupu k osobním mobilním zařízením nemohou zaměstnanci nainstalovat aplikaci MS Authenticator, což je jediné ověřování MFA podporované výchozími nastaveními zabezpečení Azure AD. Je to problém platným důvodem pro technickou výjimku?
 
-**Odpověď** : Ne, nejedná se o platný důvod pro technickou výjimku. Partner by měl zvážit následující alternativy, aby jejich zaměstnanci mohli při přístupu k partnerskému centru i nadále provádět ověřování MFA:
+**Odpověď**: Ne, nejedná se o platný důvod pro technickou výjimku. Partner by měl zvážit následující alternativy, aby jejich zaměstnanci mohli při přístupu k partnerskému centru i nadále provádět ověřování MFA:
 - Partner se taky může zaregistrovat Azure AD Premium nebo řešení VÍCEFAKTOROVÉHO ověřování třetích stran (kompatibilní s Azure AD), které může poskytovat další metody ověřování.
 
 ##### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>Problém 5: partner nemůže implementovat MFA z důvodu použití starších protokolů ověřování.
 Partner má některé agenty, kteří stále používají starší protokoly ověřování, což není kompatibilní s MFA. Uživatelé například pořád používají Outlook 2010, který je založený na starších protokolech ověřování. Povolení MFA pro tyto agenty budou rušit používání starších protokolů ověřování.
 
-**Odpověď** : Ne, nejedná se o platný důvod pro technickou výjimku. Partnerům se důrazně doporučuje přesunout se z používání starších protokolů ověřování z důvodu potenciálních důsledků zabezpečení, protože tyto protokoly nelze chránit pomocí ověřování MFA a jsou mnohem náchylnější k ohrožení bezpečnosti přihlašovacích údajů. Pokud už nepoužíváte starší verze ověřovacích protokolů, partneři by si měli zvážit, že se zaregistrují Azure AD Premium, což podporuje používání hesel aplikací. Hesla aplikací jsou jednorázová systémem generovaná hesla a jsou obvykle silnější než hesla generovaná uživatelem. Díky použití hesel aplikací můžou partneři implementovat MFA pro svoje uživatele a přitom vracet hesla aplikací jenom pro starší protokoly ověřování.
+**Odpověď**: Ne, nejedná se o platný důvod pro technickou výjimku. Partnerům se důrazně doporučuje přesunout se z používání starších protokolů ověřování z důvodu potenciálních důsledků zabezpečení, protože tyto protokoly nelze chránit pomocí ověřování MFA a jsou mnohem náchylnější k ohrožení bezpečnosti přihlašovacích údajů. Pokud už nepoužíváte starší verze ověřovacích protokolů, partneři by si měli zvážit, že se zaregistrují Azure AD Premium, což podporuje používání hesel aplikací. Hesla aplikací jsou jednorázová systémem generovaná hesla a jsou obvykle silnější než hesla generovaná uživatelem. Díky použití hesel aplikací můžou partneři implementovat MFA pro svoje uživatele a přitom vracet hesla aplikací jenom pro starší protokoly ověřování.
 
 Přečtěte si informace o [základním ověřování a Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) , abyste porozuměli nejnovějšímu plánu, který podporuje starší verze ověřování pro Outlook, a Projděte si [Blog týmu Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) , kde získáte nadcházející novinky. 
 
@@ -239,7 +239,7 @@ Přečtěte si informace o [základním ověřování a Exchange Online](https:/
 ##### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>Problém 6: partner implementoval vícefaktorové ověřování třetí strany, které nerozpoznala služba Azure AD.
 Partner implementoval MFA pro svoje uživatele pomocí řešení MFA od jiného výrobce. Partner ale nemůže správně nakonfigurovat řešení MFA třetí strany pro předávání do služby Azure AD, které bylo během ověřování uživatelů dokončeno ověřování MFA. Je to platný důvod pro technickou výjimku?
 
-**Odpověď** : Ano, tento problém může být považován za platný důvod pro technickou výjimku. Před odesláním žádosti o technickou výjimku ověřte u poskytovatele řešení MFA třetí strany, že řešení MFA nejde nakonfigurovat tak, aby Flow *authenticationmethodsreferences* deklarací identity (s hodnotou *multipleauthn* ) do služby Azure AD, aby označovalo, že ověření MFA bylo během ověřování uživatele dokončeno. Při odesílání žádosti o technickou výjimku musíte poskytnout podrobnosti o použitém řešení MFA třetí strany a označit způsob integrace (například prostřednictvím federace identit nebo použití vlastního ovládacího prvku Azure AD) a zadat následující informace v žádosti o technickou výjimku jako podpůrné dokumenty:
+**Odpověď**: Ano, tento problém může být považován za platný důvod pro technickou výjimku. Před odesláním žádosti o technickou výjimku ověřte u poskytovatele řešení MFA třetí strany, že řešení MFA nejde nakonfigurovat tak, aby Flow *authenticationmethodsreferences* deklarací identity (s hodnotou *multipleauthn*) do služby Azure AD, aby označovalo, že ověření MFA bylo během ověřování uživatele dokončeno. Při odesílání žádosti o technickou výjimku musíte poskytnout podrobnosti o použitém řešení MFA třetí strany a označit způsob integrace (například prostřednictvím federace identit nebo použití vlastního ovládacího prvku Azure AD) a zadat následující informace v žádosti o technickou výjimku jako podpůrné dokumenty:
 
 - Konfigurace vícefaktorového ověřování třetích stran.
 
@@ -255,11 +255,11 @@ Odeslání žádosti o technickou výjimku:
 
 1. Přihlaste se do partnerského centra jako globální správce nebo jako agent pro správu.
 
-2. Vytvořte novou žádost o partnerskou službu tak, že přejdete na **podporu**  >  **žádostí o podporu partnerů** a kliknete na **nový požadavek** .
+2. Vytvořte novou žádost o partnerskou službu tak, že přejdete na **podporu**  >  **žádostí o podporu partnerů** a kliknete na **nový požadavek**.
 
-3. Ve vyhledávacím poli vyhledejte **MFA – požadavek na výjimku** ; nebo vyberte **CSP** z kategorie, vyberte **účty, registrace, přístup** z tématu a potom v dílčím tématu vyberte **MFA-Request pro výjimku** a pak vyberte **Další krok** .
+3. Ve vyhledávacím poli vyhledejte **MFA – požadavek na výjimku** ; nebo vyberte **CSP** z kategorie, vyberte **účty, registrace, přístup** z tématu a potom v dílčím tématu vyberte **MFA-Request pro výjimku** a pak vyberte **Další krok**.
 
-4. Zadejte podrobnosti požadované k odeslání žádosti o technickou výjimku a klikněte na **Odeslat** .
+4. Zadejte podrobnosti požadované k odeslání žádosti o technickou výjimku a klikněte na **Odeslat**.
 
 Společnost Microsoft může trvat až tři pracovní dny a poskytnou odpověď na požadavek na technickou výjimku.
 

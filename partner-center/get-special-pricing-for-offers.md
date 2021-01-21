@@ -42,19 +42,19 @@ Microsoft poskytuje speciální a omezené ceny pro vybrané skupiny zákazník�
 
 Následující kroky platí pouze pro nepřímých zprostředkovatelů a přímé partnery pro fakturaci. Nepřímí prodejci se potřebují připojit pomocí nepřímého poskytovatele, aby mohli doručovat nabídky s akademickou cenou na kvalifikované uživatele vzdělávání.
 
-1. Na [řídicím panelu](https://partner.microsoft.com/dashboard)partnerského centra vyberte ikonu ozubeného kolečka v pravém horním rohu okna a otevřete **Nastavení účtu** .
+1. Na [řídicím panelu](https://partner.microsoft.com/dashboard)partnerského centra vyberte ikonu ozubeného kolečka v pravém horním rohu okna a otevřete **Nastavení účtu**.
 
-2. V **profilu partnera** v části informace o **programu** vyhledejte **kvalifikace prodejce** .
+2. V **profilu partnera** v části informace o **programu** vyhledejte **kvalifikace prodejce**.
 
-3. Pokud se vám nezobrazuje **kvalifikace prodejce** , ještě nemáte oprávnění k nákupu jakýchkoli speciálních nabídek.
+3. Pokud se vám nezobrazuje **kvalifikace prodejce**, ještě nemáte oprávnění k nákupu jakýchkoli speciálních nabídek.
 
 ## <a name="check-the-customer-qualifications"></a>Kontrolovat způsobilost zákazníka
 
-1. V nabídce **Partnerské centrum** vyberte **zákazníci** . Vyberte zákazníka ze seznamu.
+1. V nabídce **Partnerské centrum** vyberte **zákazníci**. Vyberte zákazníka ze seznamu.
 
-2. V nabídce zákazník vyberte možnost **účet** . V části **informace o společnosti** vyhledejte **speciální kvalifikace** .
+2. V nabídce zákazník vyberte možnost **účet**. V části **informace o společnosti** vyhledejte **speciální kvalifikace**.
 
-3. Pokud je u **speciálních kvalifikací** nastavená **možnost žádné** , ale zákazník skutečně splňuje tyto údaje, můžete **aktualizovat** jejich podrobnosti a zahrnout je do nich.
+3. Pokud je u **speciálních kvalifikací** nastavená **možnost žádné**, ale zákazník skutečně splňuje tyto údaje, můžete **aktualizovat** jejich podrobnosti a zahrnout je do nich.
 
 ## <a name="where-to-find-special-offers"></a>Kde najít speciální nabídky
 

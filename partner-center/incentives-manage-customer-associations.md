@@ -79,9 +79,9 @@ Pokud jste prošli 30 dnů a přesto chcete sporné odmítnutou deklaraci identi
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 2. Otevřete deklaraci identity, pro kterou chcete vytvořit spor.
-3. Na stránce deklarace vyberte možnost **spor** .
+3. Na stránce deklarace vyberte možnost **spor**.
 4. Zadejte obchodní odůvodnění a/nebo aktualizovaný PoE s vysvětlením, proč by se mělo odmítnutí převažovat.
-5. Jakmile budete hotovi s přidáváním informací, vyberte **Rozporovat** . Naši Kontroloři by vás měli kontaktovat s výsledky během pěti pracovních dnů.
+5. Jakmile budete hotovi s přidáváním informací, vyberte **Rozporovat**. Naši Kontroloři by vás měli kontaktovat s výsledky během pěti pracovních dnů.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Důvody odmítnutí deklarace identity přidružení CPOR
 

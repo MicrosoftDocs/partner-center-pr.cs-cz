@@ -264,8 +264,8 @@ Následující platí pouze pro Azure Marketplace vydavatelů bez ohledu na coko
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 | Austrálie (pro nákupy provedené prostřednictvím všech scénářů nákupu zákazníků kromě smlouva Enterprise) | Vybraná cena představuje konečnou prodejní cenu a zahrnuje všechny příslušné daně. | Partnerský vztah Microsoftu |
 | Austrálie (jenom pro nákupy provedené prostřednictvím smlouva Enterprise scénáři nákupu zákazníka) | Vybraná cena představuje konečnou prodejní cenu a zahrnuje všechny příslušné daně. | Publisher |
-| Brazílie | Vybraná cena představuje konečnou prodejní cenu a zahrnuje všechny příslušné daně. | Vydavatel ( **Viz země/oblasti prodejce** ) |
-| Mexiko | Vybraná cena představuje konečnou prodejní cenu a zahrnuje všechny příslušné daně. | Vydavatel ( **Viz země/oblasti prodejce** ) |
+| Brazílie | Vybraná cena představuje konečnou prodejní cenu a zahrnuje všechny příslušné daně. | Vydavatel (**Viz země/oblasti prodejce**) |
+| Mexiko | Vybraná cena představuje konečnou prodejní cenu a zahrnuje všechny příslušné daně. | Vydavatel (**Viz země/oblasti prodejce**) |
 
 ## <a name="mixed-remittance-countriesregions-for-publishers"></a>Smíšené země nebo oblasti pro převod pro vydavatele
 

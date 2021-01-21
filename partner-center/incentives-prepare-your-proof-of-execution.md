@@ -37,7 +37,7 @@ Než se pustíte do práce s vašimi pobídkami, musíte odeslat detailní důka
 
 4. V části **kampaně** najděte požadovanou aktivitu.
 
-5. Ve sloupci **ověření spuštění** vyberte **Přidat PoE** .
+5. Ve sloupci **ověření spuštění** vyberte **Přidat PoE**.
 
 6. Na **stránce Nová kontrola spuštění** zadejte požadovaná pole.
 
@@ -45,7 +45,7 @@ Než se pustíte do práce s vašimi pobídkami, musíte odeslat detailní důka
    - **Datum**  Datum provedení. Toto datum musí být mezi počátečním a koncovým datem kampaně.
    - **Množství**  Velikost deklarace identity souběžného plnění.
 
-7. Vyberte **Uložit** .
+7. Vyberte **Uložit**.
 
 8. Na stránce **Nová žádost o ověření spuštění** zadejte požadovaná pole.
 
@@ -54,15 +54,15 @@ Než se pustíte do práce s vašimi pobídkami, musíte odeslat detailní důka
    - **Odhadované nestisknutí**   Odhadované dosahování této aktivity; počet lidí
    - **ID předběžného schválení**   Toto je ID, které vám Microsoft pošle po schválení vašich marketingových materiálů.
 
-9. Jakmile budete hotovi, vyberte **Vytvořit žádost** .
+9. Jakmile budete hotovi, vyberte **Vytvořit žádost**.
 
 10. Na stránce **Informace o faktuře a výdajích** nahrajte jeden z následujících dvou dokumentů:
-    - **Faktura třetí strany**  V poli **Faktura třetí strany** vyberte možnost **přetažením souborů k nahrání** . Přidejte podrobnosti fakturace a požadované faktury a pak vyberte **Uložit** .
-    - **Sestava certifikační služby**  Vyberte **Přidat sestavu certifikační služby** . Na stránce **Generovat sestavu certifikační služby** vyplňte požadovaná pole a pak vyberte **Uložit** .
+    - **Faktura třetí strany**  V poli **Faktura třetí strany** vyberte možnost **přetažením souborů k nahrání**. Přidejte podrobnosti fakturace a požadované faktury a pak vyberte **Uložit**.
+    - **Sestava certifikační služby**  Vyberte **Přidat sestavu certifikační služby**. Na stránce **Generovat sestavu certifikační služby** vyplňte požadovaná pole a pak vyberte **Uložit**.
 
-11. Pokud chcete, můžete také odeslat **dokumenty s potvrzením** . V poli **dokumenty kontrolního dokumentu** vyberte možnost **přetažením souborů k nahrání** . Pokud vyberete dokumenty kontroly pravopisu, je nutné přidat vysvětlující poznámky. Jakmile přidáte vysvětlivky, vyberte **Uložit** .
+11. Pokud chcete, můžete také odeslat **dokumenty s potvrzením** . V poli **dokumenty kontrolního dokumentu** vyberte možnost **přetažením souborů k nahrání**. Pokud vyberete dokumenty kontroly pravopisu, je nutné přidat vysvětlující poznámky. Jakmile přidáte vysvětlivky, vyberte **Uložit**.
 
-12. Před odesláním PoE zadejte všechny závěrečné komentáře a pak vyberte **Odeslat deklaraci identity** .
+12. Před odesláním PoE zadejte všechny závěrečné komentáře a pak vyberte **Odeslat deklaraci identity**.
 
 ## <a name="view-the-status-of-a-poe"></a>Zobrazit stav PoE
 

@@ -27,8 +27,8 @@ V partnerském centru můžete aktualizovat fakturační informace zákazníka a
 
 ## <a name="update-customer-details"></a>Aktualizovat podrobnosti o zákazníkovi
 
-1. V nabídce **Partnerské centrum** vyberte **zákazníci** . Pak ze seznamu vyberte zákazníka.
+1. V nabídce **Partnerské centrum** vyberte **zákazníci**. Pak ze seznamu vyberte zákazníka.
 
-2. V nabídce zákazník vyberte **účet** a potom **aktualizovat** .
+2. V nabídce zákazník vyberte **účet** a potom **aktualizovat**.
 
-3. Po provedení změn vyberte **Odeslat** .
+3. Po provedení změn vyberte **Odeslat**.

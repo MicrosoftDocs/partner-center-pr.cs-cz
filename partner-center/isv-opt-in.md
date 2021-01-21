@@ -27,7 +27,7 @@ ms.locfileid: "92527333"
 
 Nezávislý dodavatel softwaru (ISV) má možnost vytvářet exkluzivní nabídky, které jsou k dispozici pouze určitým partnerům CSP.
 
-Partneři CSP můžou zobrazit všechny nabídky ISV na portálu Datacenter Center pro komerční tržišti. Nabídky označené jako **exkluzivní** může ale koupit jenom konkrétní partneři vybrané nezávislým dodavatelem softwaru. Pokud nabídka není označená jako **exkluzivní** , můžou si ji koupit všichni partneři.
+Partneři CSP můžou zobrazit všechny nabídky ISV na portálu Datacenter Center pro komerční tržišti. Nabídky označené jako **exkluzivní** může ale koupit jenom konkrétní partneři vybrané nezávislým dodavatelem softwaru. Pokud nabídka není označená jako **exkluzivní**, můžou si ji koupit všichni partneři.
 
 Konkrétní partneři CSP identifikovaný výrobci softwaru můžou:
 

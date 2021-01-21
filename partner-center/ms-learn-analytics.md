@@ -31,19 +31,19 @@ Sestava Microsoft Learn poskytuje informace o prodaných modulech ve vaší spol
 Tyto grafy shrnují počet a měsíční kumulativní trendy pro vyškolené jednotlivce, dokončování modulů a studijní cesty.
 
 
-**Počet vyškolených uživatelů** : počet všech jedinečných uživatelů, kteří během vybraného rozsahu dat dokončili aspoň jeden modul. 
+**Počet vyškolených uživatelů**: počet všech jedinečných uživatelů, kteří během vybraného rozsahu dat dokončili aspoň jeden modul. 
 
-**Minipanel trendu výukových jednotlivců** : Kumulativní počet měsíčně za měsíc v aktivních seznámcích 
+**Minipanel trendu výukových jednotlivců**: Kumulativní počet měsíčně za měsíc v aktivních seznámcích 
 
-**Počet dokončování modulu** : počet dokončování modulů v rámci společnosti partnera v podniku v průběhu vybraného období.
+**Počet dokončování modulu**: počet dokončování modulů v rámci společnosti partnera v podniku v průběhu vybraného období.
 Pokud například "modul 1" dokončí 15 jednotlivců a "modul 2" byl dokončen stejnými 15 jednotlivci, bude počet dokončení modulu 30. Datum dokončení modulu by mělo být v rozsahu data vybrané.
 
-**Zkrácený graf dokončování modulu trendu** : Kumulativní počet měsíců za měsíc dokončení modulu 
+**Zkrácený graf dokončování modulu trendu**: Kumulativní počet měsíců za měsíc dokončení modulu 
 
-**Počet dokončení studijních cest** : počet doplňování studijních cest od těch, které se seznámíte se sestavami v podniku partnera v rámci vybraného rozsahu kalendářních dat.
+**Počet dokončení studijních cest**: počet doplňování studijních cest od těch, které se seznámíte se sestavami v podniku partnera v rámci vybraného rozsahu kalendářních dat.
 Například pokud je Studijní cesta "cesta 1" dokončena o 20 jednotlivců a studijní cesta "cesta 2" byla dokončena stejnými 20 osobami, bude počet dokončení studijních kurzů 40. Datum dokončení cesty výuky by mělo spadat do vybraného rozsahu dat.
 
-**Poučení o doplňováních výukových cest** : Kumulativní počet měsíců za měsíc pro dokončení studijních cest 
+**Poučení o doplňováních výukových cest**: Kumulativní počet měsíců za měsíc pro dokončení studijních cest 
 
 ### <a name="trained-individuals-monthly-trend"></a>Měsíční trend školených jednotlivců
 
@@ -125,7 +125,7 @@ Sestavu může zobrazit globální správce a správce programu MPN.
 
 Po přidání nového uživatele globálním správcem musí uživatel přejít do svého **profilu** a přidružit svůj účet Microsoft Learn.
 
-- V pravém rohu řídicího panelu vyberte ikonu **účtu** a pak vyberte **můj profil** . 
+- V pravém rohu řídicího panelu vyberte ikonu **účtu** a pak vyberte **můj profil**. 
 
 -  V rámci **učení** bude moci uživatel přidružit svůj účet Microsoft Learning a připojit své účet Microsoft k Partnerská Univerzita.
 

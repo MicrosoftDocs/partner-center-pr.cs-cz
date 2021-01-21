@@ -207,13 +207,13 @@ Druhý, zpátky v srpnu 2018, Aktualizovali jsme požadavky na přímé partnery
 
 Přečtěte si aktualizované požadavky a doporučení pro [přímé partnery](../direct-partner-new-requirements.md#minimum-requirements) a vyhodnoťte, jak můžete pomocí správného modelu v programu Cloud Solution Provider sestavovat a rozšiřovat větší ziskové podnikání:
 
-1. **nový požadavek na výkon výnosů**
+1.**nový požadavek na výkon výnosů**
 
 **Stávající partneři** , kteří jsou aktuálně zaregistrovaní v programu Cloud Solution Provider jako partneři s přímým účtováním, budou muset splnit nový standard pro zvýšení výkonu od ledna 2021. Bude to mít čas, až do příštího data obnovení plánu podpory partnera, aby splňovalo požadavky. Podle [tohoto průvodce](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)si můžete projít svůj časový 12měsíční výnos v partnerském centru.
 
 Noví partneři, kteří se registrují v programu Cloud Solution Provider, začnou platit jako nepřímý prodejci platné od **října 2020**. Musí mít minimálně USD300K v tržbách CSP během posledních 12 měsíců. Podle [tohoto průvodce](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)si můžete projít svůj koncový 12měsíční výnos na partnerském centru. 
 
-2. **požadavek na Smlouvu o podpoře** 
+2.**požadavek na Smlouvu o podpoře** 
 
 Možnosti podpory rozšíříte tak, že si koupíte jednu ze dvou možností smlouvy o podpoře:  
 

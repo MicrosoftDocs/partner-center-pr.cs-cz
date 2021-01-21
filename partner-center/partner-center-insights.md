@@ -30,7 +30,7 @@ Insights je jednotný řídicí panel pro vytváření sestav v partnerském cen
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Řízení přístupu na základě role na řídicí panel Insights
 
-V partnerském centru jsou dvě nové role navržené speciálně pro přístup k přehledům: **Prohlížeč sestav** a **manažer sestav v nástroji Executive** . Uživatelé v roli manažer sestav vedoucí mají přístup ke všem datovým sadám sestav, zatímco uživatelé v roli prohlížeče sestav nebudou mít přístup k citlivým datovým sadám, jako jsou výnosy a osobní údaje zákazníka/zaměstnance. 
+V partnerském centru jsou dvě nové role navržené speciálně pro přístup k přehledům: **Prohlížeč sestav** a **manažer sestav v nástroji Executive**. Uživatelé v roli manažer sestav vedoucí mají přístup ke všem datovým sadám sestav, zatímco uživatelé v roli prohlížeče sestav nebudou mít přístup k citlivým datovým sadám, jako jsou výnosy a osobní údaje zákazníka/zaměstnance. 
 
 Globální správce nebo správce účtu může přiřadit uživatele k těmto rolím a přiřadí se buď pro celou firmu, nebo pro konkrétní umístění MPN.  
 
@@ -41,38 +41,38 @@ Globální správce nebo správce účtu může přiřadit uživatele k těmto r
 
 V rámci řídicího panelu Insights jsou k dispozici následující sestavy.
 
-**Přehled** : Sestava přehledu představuje zobrazení snímku různých klíčových ukazatelů výkonu, které vás zajímají, jako je počet zákazníků, počet aktivních předplatných, výnosy za využití Azure, aktivní licence atd.
+**Přehled**: Sestava přehledu představuje zobrazení snímku různých klíčových ukazatelů výkonu, které vás zajímají, jako je počet zákazníků, počet aktivních předplatných, výnosy za využití Azure, aktivní licence atd.
 
-**Zákazník** : sestava zákazníka prezentuje analýzy zákazníků, jako jsou zákaznická data o pořízení, aktivní zákazníci atd.
+**Zákazník**: sestava zákazníka prezentuje analýzy zákazníků, jako jsou zákaznická data o pořízení, aktivní zákazníci atd.
 
-**Předplatné produktu** : sestava předplatných představuje analýzy získání a využití vašich cloudových předplatných (například O365, Azure, Dynamics atd.).
+**Předplatné produktu**: sestava předplatných představuje analýzy získání a využití vašich cloudových předplatných (například O365, Azure, Dynamics atd.).
 
-**Licence k produktu** : řídicí panel licence představuje licenční analýzu pro cloudové produkty založené na licencích, jako je O365, Dynamics, Power BI atd.
+**Licence k produktu**: řídicí panel licence představuje licenční analýzu pro cloudové produkty založené na licencích, jako je O365, Dynamics, Power BI atd.
 
-**Produkt – využití Azure** : Sestava využití Azure prezentuje metriky týkající se předplatných Azure vašich zákazníků, včetně výnosů a využití spotřeby Azure podle kategorií měřičů.
+**Produkt – využití Azure**: Sestava využití Azure prezentuje metriky týkající se předplatných Azure vašich zákazníků, včetně výnosů a využití spotřeby Azure podle kategorií měřičů.
 
-**Kompetence** : sestava kompetence prezentuje metriky aktivních, kvalifikovaných a rizikových kompetencí.
+**Kompetence**: sestava kompetence prezentuje metriky aktivních, kvalifikovaných a rizikových kompetencí.
 
-**Výhody** : sestava výhod představuje analytické výhody, které jste získali a využili.
+**Výhody**: sestava výhod představuje analytické výhody, které jste získali a využili.
 
 ## <a name="navigating-the-insights-reports"></a>Navigace v sestavách Insights
 
-**Filtry rozsahu dat** : Výběr rozsahu dat můžete najít v pravém horním rohu každé stránky. Výstup grafů na stránce přehledu se dá přizpůsobit tak, že se vybere rozsah kalendářních dat na základě posledních 3, 6 nebo 12 měsíců nebo když vyberete vlastní rozsah kalendářních dat. Výchozí výběr rozsahu kalendářních dat je 12 měsíců. 
+**Filtry rozsahu dat**: Výběr rozsahu dat můžete najít v pravém horním rohu každé stránky. Výstup grafů na stránce přehledu se dá přizpůsobit tak, že se vybere rozsah kalendářních dat na základě posledních 3, 6 nebo 12 měsíců nebo když vyberete vlastní rozsah kalendářních dat. Výchozí výběr rozsahu kalendářních dat je 12 měsíců. 
 
 :::image type="content" source="images/pci/intro1.png" alt-text="Úvodní mapa":::
 
-**Tlačítko pro zpětnou vazbu** : Každý graf nebo ovládací prvek ve všech sestavách Insights je obsažený na tlačítku pro odeslání zpětné vazby, které vám umožní zadat zpětnou vazbu instance pro funkci sestavy. 
+**Tlačítko pro zpětnou vazbu**: Každý graf nebo ovládací prvek ve všech sestavách Insights je obsažený na tlačítku pro odeslání zpětné vazby, které vám umožní zadat zpětnou vazbu instance pro funkci sestavy. 
 
  
-**Filtry na úrovni stránky** : Kromě sestav přehled, výhody a kompetence vám všechny sestavy Insights umožňují použít filtry na úrovni stránek. 
+**Filtry na úrovni stránky**: Kromě sestav přehled, výhody a kompetence vám všechny sestavy Insights umožňují použít filtry na úrovni stránek. 
 
 - Vybrané filtry se použijí pro všechny grafy a metriky na stránce, včetně části Souhrn. Položka filtru bude k dispozici, pokud máte nějaká data v rámci těchto kritérií filtru. 
 
-- Výchozí výběr každého seznamu filtru je **vše** . Pokud jste například nevybrali určitý produkt v filtr Products, výchozí výběr bude mít všechny produkty.
+- Výchozí výběr každého seznamu filtru je **vše**. Pokud jste například nevybrali určitý produkt v filtr Products, výchozí výběr bude mít všechny produkty.
 
 - Vybrané filtry se zobrazí v horní části stránky. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="Úvodní mapa":::
+:::image type="content" source="images/pci/filters.png" alt-text="Částečný snímek obrazovky s použitým panelem filtry s výběry filtru pro produkty, trhy zákazníků, přidaných partnerů a prodejní kanály.":::
 
 ### <a name="filters-definitions"></a>Definice filtrů:
 

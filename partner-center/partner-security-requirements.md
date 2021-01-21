@@ -36,9 +36,9 @@ Partneři, kteří neimplementují povinné požadavky na zabezpečení, nebudou
 
 Abychom vám a vašim zákazníkům chránili, je potřeba, aby partneři okamžitě provedli následující akce:  
 
-1. **Povolte službu Multi-Factor Authentication (MFA) pro všechny uživatelské účty ve vašem partnerském tenantovi** . U všech uživatelských účtů ve vašich partnerských klientech musíte vymáhat MFA. Pokud se uživatelé přihlásí k komerčním cloudovým službám Microsoftu nebo když budou v programu Cloud Solution Provider prostřednictvím partnerského centra nebo přes rozhraní API, musí je vyvolávat ověřování MFA.
+1. **Povolte službu Multi-Factor Authentication (MFA) pro všechny uživatelské účty ve vašem partnerském tenantovi**. U všech uživatelských účtů ve vašich partnerských klientech musíte vymáhat MFA. Pokud se uživatelé přihlásí k komerčním cloudovým službám Microsoftu nebo když budou v programu Cloud Solution Provider prostřednictvím partnerského centra nebo přes rozhraní API, musí je vyvolávat ověřování MFA.
 
-2. **Přijímají rozhraní zabezpečeného modelu aplikace** . Všichni partneři integrující s rozhraními API partnerského centra musí pro všechny aplikace a modely ověřování uživatelů přijmout rozhraní [Secure Application model](/partner-center/develop/enable-secure-app-model) .
+2. **Přijímají rozhraní zabezpečeného modelu aplikace**. Všichni partneři integrující s rozhraními API partnerského centra musí pro všechny aplikace a modely ověřování uživatelů přijmout rozhraní [Secure Application model](/partner-center/develop/enable-secure-app-model) .
 
     > [!IMPORTANT]
     > Důrazně doporučujeme, aby partneři implementovali zabezpečený aplikační model pro integraci s rozhraním Microsoft API, jako je Azure Resource Manager nebo Microsoft Graph, nebo když využíváte automatizaci, jako je například PowerShell s použitím přihlašovacích údajů uživatele, abyste se vyhnuli jakémukoli narušení při vymáhání MFA.

@@ -36,7 +36,7 @@ Před [odesláním žádosti o kredit smlouvy SLA](#submit-sla-credit-request) s
 
 - Identifikátor GUID tenanta zákazníka
 - [Identifikátor incidentu výpadku](#outage-incident-identifier)?
-- Byly ovlivněná předplatná zakoupená prostřednictvím poskytovatele CSP? ( *Ano* nebo *ne* )
+- Byly ovlivněná předplatná zakoupená prostřednictvím poskytovatele CSP? (*Ano* nebo *ne*)
 
 #### <a name="outage-incident-identifier"></a>Identifikátor incidentu výpadku
 
@@ -58,9 +58,9 @@ Identifikátor incidentu výpadku najdete na stránce **Service Health** v centr
 Odeslání žádosti o kredit SLA společnosti Microsoft prostřednictvím řídicího panelu partnerského centra:
 
 1. Přihlaste se k řídicímu panelu partnerského centra.
-2. V nabídce vlevo zvolte **žádosti o služby** a pak vyberte **žádosti o podporu partnerů** .
-3. Na stránce **žádost o partnera** klikněte na **nový požadavek** .
-4. Na stránce **Zahájit žádost** vyhledejte část **CSP – zákazníci, objednávky a odběry** . V této části vyberte **typ problému** a pak vyberte **zákaznické služby žádosti o kredit** .
-5. Na stránce **doporučená řešení** v části **potřebujete další podrobnější informace?** vyberte **Ano** .
+2. V nabídce vlevo zvolte **žádosti o služby** a pak vyberte **žádosti o podporu partnerů**.
+3. Na stránce **žádost o partnera** klikněte na **nový požadavek**.
+4. Na stránce **Zahájit žádost** vyhledejte část **CSP – zákazníci, objednávky a odběry**. V této části vyberte **typ problému** a pak vyberte **zákaznické služby žádosti o kredit**.
+5. Na stránce **doporučená řešení** v části **potřebujete další podrobnější informace?** vyberte **Ano**.
 6. Na stránce **Podrobnosti** vyplňte část **Podrobnosti o problému** . V textovém poli **Podrobnosti** Nezapomeňte zadat [požadované informace](#required-information) , které jste shromáždili dříve.
 7. Kliknutím **na Odeslat** odešlete žádost o kredit smlouvy SLA.

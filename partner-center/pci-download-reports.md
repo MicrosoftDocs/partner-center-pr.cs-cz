@@ -30,11 +30,11 @@ Po vygenerování bude sestava k dispozici v části **vygenerované sestavy** ,
 
 **Vytvořit novou sestavu**
 
-Pokud chcete vygenerovat sestavu, nejdřív ji vyberte v rozevíracím seznamu **Vybrat sestavu** . Pak v rozevíracím seznamu **Vybrat rozsah dat** vyberte rozsah kalendářních dat. Vyberte **Generovat** . Sestava bude vygenerována ve formátu hodnot oddělených tabulátory (TSV) a bude k dispozici ke stažení v části **generované sestavy** během několika minut. Sestavy vygenerované během předchozích 14 dnů budou k dispozici ke stažení.
+Pokud chcete vygenerovat sestavu, nejdřív ji vyberte v rozevíracím seznamu **Vybrat sestavu** . Pak v rozevíracím seznamu **Vybrat rozsah dat** vyberte rozsah kalendářních dat. Vyberte **Generovat**. Sestava bude vygenerována ve formátu hodnot oddělených tabulátory (TSV) a bude k dispozici ke stažení v části **generované sestavy** během několika minut. Sestavy vygenerované během předchozích 14 dnů budou k dispozici ke stažení.
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Vytvořit novou sestavu":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Vytvořit novou sestavu":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Vygenerované sestavy":::
 
 >[!NOTE] 
 >Sestavy mohou stahovat pouze uživatelé, kteří jsou správci sestav od vedoucího. Další informace o přístupu na základě rolí k sestavám řídicího panelu Insights najdete v tématu [role PCI](pci-roles.md). 

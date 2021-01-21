@@ -86,7 +86,7 @@ Každý krok se zobrazí níže.
 
 Předtím, než zákazníkům udělíte oprávnění k nákupu vlastních rezervací Azure, musíte ověřit, jestli má zákazník existující předplatné Azure nebo globální předplatné Azure. Pokud zákazník v partnerském centru nezobrazuje žádné aktuální předplatné Azure, musíte si pro ně koupit předplatné, než zapnete jeho oprávnění zákazníka.
 
-- Pokud chcete zjistit, jestli už zákazník má předplatné Azure, přihlaste se k řídicímu panelu partnerského centra a pak vyberte **CSP** následovaný **zákazníky** . Vyberte ze seznamu konkrétního zákazníka. Pak vyberte **předplatná** a vyhledejte všechny odběry založené na používání pro plán Azure nebo globální Azure.
+- Pokud chcete zjistit, jestli už zákazník má předplatné Azure, přihlaste se k řídicímu panelu partnerského centra a pak vyberte **CSP** následovaný **zákazníky**. Vyberte ze seznamu konkrétního zákazníka. Pak vyberte **předplatná** a vyhledejte všechny odběry založené na používání pro plán Azure nebo globální Azure.
 
 - Pokud zákazník nemá stávající předplatné Azure, můžete si pro ně koupit předplatné. Viz [Nákup plánu Azure](purchase-azure-plan.md).
 
@@ -119,7 +119,7 @@ Zapnutí (nebo vypnutí) oprávnění zákazníka v partnerském centru:
 
 1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
 
-2. V levém navigačním panelu vyberte **CSP** a pak na **zákazníci** . Zobrazí se seznam zákazníků.
+2. V levém navigačním panelu vyberte **CSP** a pak na **zákazníci**. Zobrazí se seznam zákazníků.
 
 3. Vyberte konkrétní jméno zákazníka.
 

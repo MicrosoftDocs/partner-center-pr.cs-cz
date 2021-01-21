@@ -38,24 +38,24 @@ V části Souhrn se zobrazuje číselná zobrazení snímků různých ukazatel�
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Souhrn":::
 
-- **Jednotlivci s certifikací** : představuje počet různých jednotlivců s certifikací ve vaší společnosti.
-- **Počet certifikace** : představuje celkový počet certifikace, které jednotliví uživatelé ve vaší společnosti mají.
-- **Jednotlivci s posouzením** : představuje počet různých jednotlivců s pověřením pro vyhodnocení ve vaší společnosti. 
-- **Počet posouzení** : představuje celkový počet hodnocení provedených jednotlivci ve vaší společnosti.
-- **Jednotlivci s testy** : představuje počet různých jednotlivců s pověřením pro kontrolu ve vaší společnosti. 
-- **Počet testů** : představuje celkový počet testů pořízených jednotlivci ve vaší společnosti.
+- **Jednotlivci s certifikací**: představuje počet různých jednotlivců s certifikací ve vaší společnosti.
+- **Počet certifikace**: představuje celkový počet certifikace, které jednotliví uživatelé ve vaší společnosti mají.
+- **Jednotlivci s posouzením**: představuje počet různých jednotlivců s pověřením pro vyhodnocení ve vaší společnosti. 
+- **Počet posouzení**: představuje celkový počet hodnocení provedených jednotlivci ve vaší společnosti.
+- **Jednotlivci s testy**: představuje počet různých jednotlivců s pověřením pro kontrolu ve vaší společnosti. 
+- **Počet testů**: představuje celkový počet testů pořízených jednotlivci ve vaší společnosti.
 
 ## <a name="training-performance"></a>Školení výkonu
 
 Školení přináší měsíční počet jednotlivců a školení, která splnili jednotlivci ve vaší společnosti. Je rozdělen podle certifikace, posouzení a zkoušek ve formě grafu pro vybraný rozsah dat. Osa X představuje měsíce pro vybraný rozsah dat. Osa Y představuje jedinečný počet jednotlivců a počet pořízených školení pro vybraný typ školení. Kliknutím na příslušné karty nad graf zobrazíte rozpis podle typu školení. Data grafu lze stáhnout pomocí ikony pro stažení ve formátu. TSV pro vybraný rozsah dat.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Souhrn":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Školení výkonu":::
 
 ## <a name="individuals-performance"></a>Výkon jednotlivců
 
 V části výkon jednotlivců jsou uvedeny podrobnosti o školení jednotlivých jednotlivců ve vaší společnosti, a to pro vybraný rozsah kalendářních dat. Vyhledejte a vyberte jméno jednotlivce na levém panelu oddílu. Podrobnosti o školení pro vybranou osobu se zobrazí na pravém panelu oddílu.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Souhrn":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Indiviual výkon":::
 
 >[!NOTE] 
 > Část výkon jednotlivců je k dispozici pouze uživatelům, kteří jsou správci sestav nástroje Executive. 

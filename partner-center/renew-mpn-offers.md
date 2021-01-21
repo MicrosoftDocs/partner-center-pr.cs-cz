@@ -42,21 +42,21 @@ Po obnovení během intervalu obnovování bude vaše nové datum výročí 365 
 
 Abyste se mohli zaměřit na podporu zákazníků: 
 
-- **Pokud datum výročí kompetence uplyne mezi 1. a 31. prosince 2020** , rozšiřujeme vaše stávající kompetenci nebo kompetenci prostřednictvím vašeho dalšího dne výročí v 2021. Vaše připomenutí obnovení vaší kompetence se aktualizují, aby odrážela tuto novou nabídku. 
+- **Pokud datum výročí kompetence uplyne mezi 1. a 31. prosince 2020**, rozšiřujeme vaše stávající kompetenci nebo kompetenci prostřednictvím vašeho dalšího dne výročí v 2021. Vaše připomenutí obnovení vaší kompetence se aktualizují, aby odrážela tuto novou nabídku. 
 
-- **Pokud se vaše kompetence blíží k obnovení** , uvidíte v partnerském centru, že vaše požadavky byly splněné. Pokud ho chcete prodloužit, budete muset uhradit poplatek za kompetenci v rámci vašeho intervalu obnovení na stránce nabídky členství. 
+- **Pokud se vaše kompetence blíží k obnovení**, uvidíte v partnerském centru, že vaše požadavky byly splněné. Pokud ho chcete prodloužit, budete muset uhradit poplatek za kompetenci v rámci vašeho intervalu obnovení na stránce nabídky členství. 
 
-- **Pokud jste už okno obnovení nezmeškali** , můžete znovu aktivovat svoji kompetenci a znovu získat přístup k prostředkům a výhodám, a to tak, že poplatek platíte na stránku nabídky členství. Toto rozšíření je k dispozici do 31. prosince 2020.
+- **Pokud jste už okno obnovení nezmeškali**, můžete znovu aktivovat svoji kompetenci a znovu získat přístup k prostředkům a výhodám, a to tak, že poplatek platíte na stránku nabídky členství. Toto rozšíření je k dispozici do 31. prosince 2020.
 
 ### <a name="how-to-view-competency-renewal-information"></a>Jak zobrazit informace o obnovení kompetence
 
-1. V nabídce partnerského centra na řídicím panelu vyberte **kompetence** .  
+1. V nabídce partnerského centra na řídicím panelu vyberte **kompetence**.  
 
 2. V seznamu kompetencí, které jsou k dispozici, by vaše kompetence měla být označena jako dokončená.  
 
 3. Vyberte jednu z vašich kompetencí. Zobrazí se upozornění, že jste obdrželi výjimku před splněním požadavků do dalšího data obnovení.
 
-4. Pokud chcete tuto nabídku využít, Projděte si **nabídky členství** . Pro dokončení tohoto procesu možná budete muset zaplatit poplatek za kompetenci v závislosti na stavu nákupu nebo obnovení kompetence. 
+4. Pokud chcete tuto nabídku využít, Projděte si **nabídky členství**. Pro dokončení tohoto procesu možná budete muset zaplatit poplatek za kompetenci v závislosti na stavu nákupu nebo obnovení kompetence. 
 
 Pokud chcete využít výhod tohoto rozšíření, musíte přesunout své členství z centra pro členství v partnerovi (PMC) do partnerského centra, aby se obnovila vaše kompetence a platil poplatek. Pokud jste nepřesunuli vaše členství, [Přečtěte si další informace](prepare-pmc-pc-migration.md)   a [proveďte přechod](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   ještě dnes.  
 

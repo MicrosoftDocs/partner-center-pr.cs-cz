@@ -44,21 +44,21 @@ Další informace o plánech pro konkrétní program pobídek najdete v příru�
 
 2. V levém navigačním panelu v části **Pobídky** vyberte **Program** a pak vyberte váš program. 
 
-3. Na stránce **program** Najděte příslušný trh pro váš plán a pak vyberte **vytvořit plán** . 
+3. Na stránce **program** Najděte příslušný trh pro váš plán a pak vyberte **vytvořit plán**. 
 
-4. Na stránce **Nový plán** vyplňte požadovaná pole. **Měna** je hodnota, kterou má plán odpovídat. **E-mail kontrolora** musí být e-mailová adresa Microsoftu vašeho správce účtů. Mějte na paměti, že pro každé ID MPN, finanční prostředky, program a období je možné vytvořit pouze jeden plán. Vyberte **Uložit** .
+4. Na stránce **Nový plán** vyplňte požadovaná pole. **Měna** je hodnota, kterou má plán odpovídat. **E-mail kontrolora** musí být e-mailová adresa Microsoftu vašeho správce účtů. Mějte na paměti, že pro každé ID MPN, finanční prostředky, program a období je možné vytvořit pouze jeden plán. Vyberte **Uložit**.
 
-5. Na stránce stavu plánu zkontrolujte zobrazené informace. Pokud chcete některé informace upravit, vyberte **Upravit** .
+5. Na stránce stavu plánu zkontrolujte zobrazené informace. Pokud chcete některé informace upravit, vyberte **Upravit**.
 
-6. Jakmile jsou informace na této stránce správné, vyberte možnost **Nová kampaň** .
+6. Jakmile jsou informace na této stránce správné, vyberte možnost **Nová kampaň**.
 
-7. Vyplňte požadovaná pole na stránce **Nová kampaň** a pak vyberte **Uložit** .
+7. Vyplňte požadovaná pole na stránce **Nová kampaň** a pak vyberte **Uložit**.
 
-8. Na stránce stavu vyberte **Nová aktivita** . 
+8. Na stránce stavu vyberte **Nová aktivita**. 
 
-9. Na stránce **Nová aktivita** vyplňte požadovaná pole. Můžete vybrat více zemí. Jakmile budete hotovi, vyberte **Uložit** . 
+9. Na stránce **Nová aktivita** vyplňte požadovaná pole. Můžete vybrat více zemí. Jakmile budete hotovi, vyberte **Uložit**. 
 
-10. Na stránce stavu znovu zkontrolujte uvedené informace. Po odeslání není možné plán upravovat. Jakmile budete hotovi, vyberte **Odeslat** a pak **Potvrdit** .
+10. Na stránce stavu znovu zkontrolujte uvedené informace. Po odeslání není možné plán upravovat. Jakmile budete hotovi, vyberte **Odeslat** a pak **Potvrdit**.
 
 Váš plán se právě odeslal. Jakmile se plán schválí nebo pokud budeme potřebovat další informace, Microsoft bude informovat vašeho správce pobídek. Průběh plánu můžete zobrazit v okně Stav na stránce stavu.
 

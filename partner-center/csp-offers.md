@@ -53,13 +53,13 @@ V současné době můžete zákazníkům CSP prodávat následující typy prod
 
 ### <a name="online-services"></a>Online služby
 
-   *Online Services* je nový název pro to, co se v současnosti označují jako *předplatná* . Abychom vám usnadnili seřazení více typů produktů na jednom místě, Integrujte do toku úlohy přidat předplatné úkol přidat odběr.
+   *Online Services* je nový název pro to, co se v současnosti označují jako *předplatná*. Abychom vám usnadnili seřazení více typů produktů na jednom místě, Integrujte do toku úlohy přidat předplatné úkol přidat odběr.
 
    Další informace najdete v tématu [předplatné zákazníka](customer-subscriptions.md).
 
 ### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Software jako služba (SaaS) a další produkty [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)
 
-   Předplatná můžete prodávat SaaS produktům od nezávislých dodavatelů softwaru (ISV). Pokud chcete zobrazit jenom SaaS nabídky v **online službách** , použijte filtry k nastavení **vydavatele** na **partnera** . Zobrazí se všechny nabídky SaaS, které se dají koupit pro daného zákazníka.
+   Předplatná můžete prodávat SaaS produktům od nezávislých dodavatelů softwaru (ISV). Pokud chcete zobrazit jenom SaaS nabídky v **online službách**, použijte filtry k nastavení **vydavatele** na **partnera**. Zobrazí se všechny nabídky SaaS, které se dají koupit pro daného zákazníka.
 
    Informace o těchto produktech můžete najít také na stránce **Marketplace** .
 
@@ -95,13 +95,13 @@ Pokud chcete koupit produkty a služby jménem svých zákazníků CSP, vyberte 
 
 1. V nabídce partnerského centra vyberte **zákazníci** a vyhledejte zákazníka, který si od vás přeje koupit. 
 
-2. Výběrem šipky dolů na konci řádku zákazníka rozbalte záznam zákazníka a pak vyberte **Přidat produkty** . Odteď vytváříte objednávku. Objednávka může obsahovat několik položek různých typů, ale všechny musí být pro stejného zákazníka.
+2. Výběrem šipky dolů na konci řádku zákazníka rozbalte záznam zákazníka a pak vyberte **Přidat produkty**. Odteď vytváříte objednávku. Objednávka může obsahovat několik položek různých typů, ale všechny musí být pro stejného zákazníka.
 
-3. Na stránce **Přidat produkty** vyberte možnost z **Azure** , **služeb online** nebo **softwaru** .
+3. Na stránce **Přidat produkty** vyberte možnost z **Azure**, **služeb online** nebo **softwaru**.
 
 4. Doladit dostupné filtry pro snazší hledání produktů, které hledáte. Pokud chcete zobrazit úplný seznam dostupných, nastavte pro ně použitelné **filtry.**
 
-5. Vyberte produkt, který zákazník požaduje, zadejte požadované množství a pak vyberte **Přidat do košíku** .
+5. Vyberte produkt, který zákazník požaduje, zadejte požadované množství a pak vyberte **Přidat do košíku**.
 
 6. Opakujte kroky 4 a 5, dokud nepřidáte všechny potřebné položky do košíku. Vyberte **zkontrolovat** a ověřte, jestli je vaše objednávka správná.  
 
@@ -120,7 +120,7 @@ Pokud nemůžete v katalogu najít požadovanou nabídku, může to mít různé
 - **Ověřte, jestli zákazník splňuje podmínky:** Prodej mnoha nabídek vyžaduje, aby zákazníci měli speciální kvalifikaci. Mezi tyto speciální segmenty patří oblast vzdělávání, neziskový sektor a Government Community Cloud (GCC). Před nahlášením problému nejdřív ověřte, jestli je kvalifikace zákazníka nastavená odpovídajícím způsobem. Můžete to ověřit kliknutím na zákazníka v seznamu a kontrolou jeho účtu. Pokud se to vyžaduje, měla by být u účtu speciální kvalifikace nastavená. Pokud byste chtěli pro zákazníka bez příslušné kvalifikace koupit produkt určený pro vzdělávací instituce, pak se příslušné nabídky v katalogu vůbec nezobrazí. Další informace o tom, jak tyto zákazníky kvalifikovat, najdete ve [zvláštních segmentech documenation](get-special-pricing-for-offers.md) .
 - **Rozhodněte, jestli se pokoušíte koupit doplněk, nebo základní nabídku:** Řada služeb na bázi licencí, jako je například Microsoft 365 a Dynamics 365, umožňuje z katalogu nakupovat základní nabídky, ale nabízí i doplňky. V katalogu je možné nakupovat jen základní nabídky. Pokud chcete pořídit doplňky, musíte si nejdřív v katalogu koupit základní nabídku, následně vybrat zákazníka ze seznamu, a nakonec pro základní nabídku vybrat předplatné. Na této stránce pro správu předplatných můžete k základní nabídce přiřadit doplňky. 
 - **Ověřte, jestli jsou produkty dostupné na vašem trhu:** Řada produktů a služeb je nakonfigurovaná tak, aby je bylo možné prodávat jen zákazníkům v konkrétních zemích. Seznam podporovaných zemí najdete v různých ceníkových souborech. V tabulce nabídek na stránce cen a nabídek najdete podporované země, pokud jde o služby na bázi licencí.
-- **Ověřte, jestli jsou nabídky dostupné v ceníku:** Seznam dostupných nabídek se může měnit z měsíce na měsíc. Pokud v katalogu nemůžete určitou nabídku najít, ujistěte se, že je k dispozici v aktuálních cenících, a to na stránce **Prodej > Ceny a nabídky** .
+- **Ověřte, jestli jsou nabídky dostupné v ceníku:** Seznam dostupných nabídek se může měnit z měsíce na měsíc. Pokud v katalogu nemůžete určitou nabídku najít, ujistěte se, že je k dispozici v aktuálních cenících, a to na stránce **Prodej > Ceny a nabídky**.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Doporučené dokumenty související s nákupem položek v partnerském centru
 

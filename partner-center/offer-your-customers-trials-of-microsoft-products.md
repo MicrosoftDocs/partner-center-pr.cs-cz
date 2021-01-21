@@ -53,9 +53,9 @@ Zkušební licence by se měly přiřazovat uživatelům stejným způsobem, jak
 
 Získejte zkušební verzi pro zákazníka v partnerském centru:
 
-1. V části **prodej** v partnerském centru můžete přejít na **katalog** . 
-2. V katalogu, z **četnosti fakturace** , klikněte na **nabídku zkušební verze** . Tato možnost umožňuje zobrazit pouze bezplatné zkušební verze a zakáže jiné nabídky, které nejsou bezplatné. Zkušební verze se zobrazí na kartě **zkušební** verze v katalogu.
-3. Vyberte bezplatnou zkušební verzi, kterou chcete nabídnout, a pak vyberte **Odeslat** . Všechny zkušební verze jsou po dobu třiceti dnů, během kterých se vám neúčtují poplatky. Můžete ho také převést na placené předplatné kdykoli během zkušebního období.
+1. V části **prodej** v partnerském centru můžete přejít na **katalog**. 
+2. V katalogu, z **četnosti fakturace**, klikněte na **nabídku zkušební verze**. Tato možnost umožňuje zobrazit pouze bezplatné zkušební verze a zakáže jiné nabídky, které nejsou bezplatné. Zkušební verze se zobrazí na kartě **zkušební** verze v katalogu.
+3. Vyberte bezplatnou zkušební verzi, kterou chcete nabídnout, a pak vyberte **Odeslat**. Všechny zkušební verze jsou po dobu třiceti dnů, během kterých se vám neúčtují poplatky. Můžete ho také převést na placené předplatné kdykoli během zkušebního období.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Převádění zkušebních verzí na placené odběry
 
@@ -71,8 +71,8 @@ Tuto zkušební verzi budete muset převést na placené předplatné sami. Mů�
 Zkušební verze můžete převést na placená předplatná pomocí partnerského centra:
 
 1. Přejít na stránku předplatné zákazníka a vyberte bezplatnou zkušební verzi.
-2. Vyberte **převést zkušební verzi na placené předplatné** .
-3. Zadejte požadovaný počet licencí a četnost fakturace a pak vyberte **použít** .
+2. Vyberte **převést zkušební verzi na placené předplatné**.
+3. Zadejte požadovaný počet licencí a četnost fakturace a pak vyberte **použít**.
 4. Vyúčtování placeného předplatného začíná na datu převodu a předplatné se na základě data konverze obnoví dvanáct měsíců. 
 
 ### <a name="convert-trials-using-apis"></a>Převod zkušebních verzí pomocí rozhraní API

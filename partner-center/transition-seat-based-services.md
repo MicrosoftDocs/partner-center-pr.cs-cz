@@ -26,7 +26,7 @@ Pokud chce zákazník najmout více partnerů, převést jejich předplatné na 
 
 ## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Přesunutí předplatných na základě licence na zákazníka do programu Cloud Solution Provider (CSP)
 
-1. V nabídce partnerského centra vyberte **zákazníci** a pak vyberte **požádat o vztah prodejce** . Aby bylo možné poskytovat podporu pro účty s více kanály, proveďte stejnou věc.
+1. V nabídce partnerského centra vyberte **zákazníci** a pak vyberte **požádat o vztah prodejce**. Aby bylo možné poskytovat podporu pro účty s více kanály, proveďte stejnou věc.
 
 2. Jakmile zákazník vaši pozvánku přijme, budete moct zřídit požadovaná předplatná a licence pro zákazníka (například stejná nabídka Office 365, kterou si zákazník koupili dříve).
 
@@ -34,7 +34,7 @@ Pokud chce zákazník najmout více partnerů, převést jejich předplatné na 
 
 
    >[!NOTE]
-   >Zákazník může mít nárok na kredit, pokud je zakoupil prostřednictvím portálu pro správu Microsoft 365 (M365) (například prostřednictvím měsíčního nebo ročního fakturace přímo od Microsoftu). Kredity pro předplatná zakoupené přímo od Microsoftu jsou zpracovávány prostřednictvím **podpory fakturace M365** . Postup [zrušení předplatného M365](/microsoft-365/commerce/subscriptions/cancel-your-subscription)najdete v tématu M365 – pokyny. Pokud máte pro zákazníka delegovaná oprávnění pro správu, můžete požádat o podporu M65 jménem svého zákazníka. Pokud ne, požádejte zákazníka, aby kontaktoval podporu služby M365, aby vám zjistili, kolik kreditů mají nárok na, a jak se k tomuto kreditu dostane. Přečtěte si informace o [oprávněních delegovaného správce](customers-revoke-admin-privileges.md).
+   >Zákazník může mít nárok na kredit, pokud je zakoupil prostřednictvím portálu pro správu Microsoft 365 (M365) (například prostřednictvím měsíčního nebo ročního fakturace přímo od Microsoftu). Kredity pro předplatná zakoupené přímo od Microsoftu jsou zpracovávány prostřednictvím **podpory fakturace M365**. Postup [zrušení předplatného M365](/microsoft-365/commerce/subscriptions/cancel-your-subscription)najdete v tématu M365 – pokyny. Pokud máte pro zákazníka delegovaná oprávnění pro správu, můžete požádat o podporu M65 jménem svého zákazníka. Pokud ne, požádejte zákazníka, aby kontaktoval podporu služby M365, aby vám zjistili, kolik kreditů mají nárok na, a jak se k tomuto kreditu dostane. Přečtěte si informace o [oprávněních delegovaného správce](customers-revoke-admin-privileges.md).
 
 
 4. Zákazník pak bude pokračovat s předplatnými, která jste zřídili bez přerušení.

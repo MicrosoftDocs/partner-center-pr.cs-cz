@@ -171,7 +171,7 @@ _________________
 
 Tato důležitá aktualizace týkající se [povinných požadavků na zabezpečení partnera](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). Od **29. února 2020** se zásady standardních hodnot Azure Active Directory (Azure AD) [odeberou](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) a nahradí se "výchozími nastaveními", což je komplexnější sada zásad ochrany pro vás a vaše zákazníky. Výchozí nastavení zabezpečení ve službě Azure AD může přispět k ochraně vaší organizace před nakonfigurovaným nastavením zabezpečení pro běžné útoky.
 
-Náš systém indikuje, že vaše organizace aktuálně používá základní zásady, ale ještě nepřešla na výchozí hodnoty zabezpečení. Pokud nepřejdete **na výchozí hodnoty zabezpečení před 29. února, ztratíte službu Multi-Factor Authentication (MFA) s povolenými základními zásadami v partnerských klientech. Povolte výchozí nastavení zabezpečení, abyste se vyhnuli jakýmkoli výpadkům v podniku** .
+Náš systém indikuje, že vaše organizace aktuálně používá základní zásady, ale ještě nepřešla na výchozí hodnoty zabezpečení. Pokud nepřejdete **na výchozí hodnoty zabezpečení před 29. února, ztratíte službu Multi-Factor Authentication (MFA) s povolenými základními zásadami v partnerských klientech. Povolte výchozí nastavení zabezpečení, abyste se vyhnuli jakýmkoli výpadkům v podniku**.
 
 ### <a name="key-considerations"></a>Klíčové aspekty
 
@@ -349,7 +349,7 @@ _________________
 
 Nová [Smlouva o zákaznících Microsoftu](https://www.microsoft.com/licensing/docs/customeragreement) v programu Cloud Solution Provider (CSP) se stala platným říjen 2019 a nahrazuje stávající smlouvu Microsoft Cloud. Nová zjednodušená smlouva o zákaznících nabízí konzistentní nákupní smlouvy pro zákazníky – bez ohledu na to, jak se zákazníci rozhodnou koupit.
 
-**Od 1. února 2020 se vyžaduje přímá fakturace a nepřímá poskytovatelé ve zprostředkovateli CSP k potvrzení přijetí smlouvy o zákaznících Microsoftu pro všechny nabídky CSP v rámci veřejného cloudu Microsoftu** . Bez potvrzení přijetí souhlasu zákazníka s novou smlouvou nebudou partneři moci vytvořit nového nákupu pro zákazníka, včetně měnících se míst a prodloužení stávajících nákupů od tohoto data (automatické obnovení nebude ovlivněno).
+**Od 1. února 2020 se vyžaduje přímá fakturace a nepřímá poskytovatelé ve zprostředkovateli CSP k potvrzení přijetí smlouvy o zákaznících Microsoftu pro všechny nabídky CSP v rámci veřejného cloudu Microsoftu**. Bez potvrzení přijetí souhlasu zákazníka s novou smlouvou nebudou partneři moci vytvořit nového nákupu pro zákazníka, včetně měnících se míst a prodloužení stávajících nákupů od tohoto data (automatické obnovení nebude ovlivněno).
 
 Partneři můžou novou smlouvu prezentovat zákazníkům stejným způsobem jako u stávající smlouvy Microsoft Cloud. Po revizi zákazníka a přijetí smlouvy musí partneři potvrdit přijetí zákazníka na partnerském centru. Aktualizovali jsme webové uživatelské rozhraní, rozhraní API a sadu .NET SDK partnerského centra pro podporu nové smlouvy.
 

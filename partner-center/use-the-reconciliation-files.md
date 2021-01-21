@@ -81,15 +81,15 @@ Partneři v **nepřímém modelu** můžou použít tato další pole v souborec
 
 Pokud partner CSP prodal předplatné přímo zákazníkovi, jejich **ID MPN** se uvádí dvakrát, jak **ID MPN** , tak **ID programu MPN prodejce**.
 
-Pokud má partner CSP prodejce bez **ID MPN** , tato hodnota se místo toho nastaví na **ID MPN** partnera.
+Pokud má partner CSP prodejce bez **ID MPN**, tato hodnota se místo toho nastaví na **ID MPN** partnera.
 
-Pokud partner CSP odebere ID programu **MPN pro prodejce** , tato hodnota se nastaví na hodnotu *-1*.
+Pokud partner CSP odebere ID programu **MPN pro prodejce**, tato hodnota se nastaví na hodnotu *-1*.
 
-Zobrazení nebo aktualizace **ID MPN prodejce** :
+Zobrazení nebo aktualizace **ID MPN prodejce**:
 
 1. Přihlaste se do Partnerského centra.
 2. V nabídce partnerské Centrum vyberte **zákazníci**.
 3. Vyberte zákazníka ze seznamu.
 4. V nabídce zákazník vyberte **odběry**.
 5. Vyberte předplatné ze seznamu.
-6. Pokud chcete změnit **prodejce (MPN ID)** , vyberte **aktualizovat** .
+6. Pokud chcete změnit **prodejce (MPN ID)**, vyberte **aktualizovat** .

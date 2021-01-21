@@ -44,9 +44,9 @@ Všichni partneři poskytovatele Cloud Solution Provider (CSP).
 
 21. dubna 2020 se změní názvy našich nabídek protokolu SMB pro Office 365:
 
-- Office 365 Business Essentials se stane **Microsoft 365 Business Basic** . Toto je naše nabídka na úrovni vstupu pro zákazníky, kteří hledají základní cloudové služby.
-- Office 365 Business Premium se stane **Microsoft 365 Business standardem** . Toto je naše základní nabídka pro SMB, včetně cloudových služeb a desktopových aplikací propojených s cloudem.
-- Microsoft 365 Business se stanou **Microsoft 365 Business Premium** . Zůstane to naše Hero SKU pro špičkové SMB, které hledají další hodnoty zabezpečení, zařízení a identity.
+- Office 365 Business Essentials se stane **Microsoft 365 Business Basic**. Toto je naše nabídka na úrovni vstupu pro zákazníky, kteří hledají základní cloudové služby.
+- Office 365 Business Premium se stane **Microsoft 365 Business standardem**. Toto je naše základní nabídka pro SMB, včetně cloudových služeb a desktopových aplikací propojených s cloudem.
+- Microsoft 365 Business se stanou **Microsoft 365 Business Premium**. Zůstane to naše Hero SKU pro špičkové SMB, které hledají další hodnoty zabezpečení, zařízení a identity.
 
 Jako nový název našich dvou předplatných klienta Office také budeme přijímají **Microsoft 365 aplikace** :
 

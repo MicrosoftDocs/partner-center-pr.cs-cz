@@ -53,9 +53,9 @@ Pokud vaše společnost nemá pracovní e-maily a tenanta AAD, můžeme vám v r
 >[!NOTE]
 >Pokud jste partner v Číně a zaregistrovali jste v programu Microsoft Partner Network i Cloud Solution Provider (CSP), budete mít pro každý účet samostatného tenanta. Váš účet pomocí programu Cloud Solution Provider se spravuje v národním cloudu a váš Microsoft Partner Network účet se spravuje v globálním cloudu. Tyto dva účty nelze propojit.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="Začínáme":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Řekněte nám o své společnosti":::
 
-Jakmile ověříte nebo aktualizujete informace, vyberte **přijmout a pokračovat** .
+Jakmile ověříte nebo aktualizujete informace, vyberte **přijmout a pokračovat**.
 Podmínky a ujednání na této stránce jsou **přesně stejné** jako smlouva, kterou vaše společnost už přihlásila v PMC.  
 Tento krok iniciuje vytvoření vašeho tenanta Azure AD a poskytne vám pracovní účet.
 
@@ -71,7 +71,7 @@ Výběr možnosti **přijmout a pokračovat** provede také následující akce:
 
 Když se vytvoří nový tenant Azure AD, můžete svým zaměstnancům pozvat, aby se přihlásili k partnerskému centru.
 
-:::image type="content" source="images/migration/invite.png" alt-text="Začínáme":::
+:::image type="content" source="images/migration/invite.png" alt-text="Pozvat zaměstnance":::
 
 Pokud jste se přihlásili pomocí stávajícího tenanta AAD, vaši zaměstnanci se vám přesunuli. V takovém případě přiřaďte své role zaměstnanců, které určují, co můžou dělat v partnerském centru. 
 
@@ -84,19 +84,19 @@ Pokud je váš tenant AAD nový, nebude mít nikdo přiřazenu roli globálního
 
 I když můžete použít nabídky, které jste už zakoupili, nebudete moct koupit žádné nové nabídky, dokud nedokončíte krok přiřazení globálního správce.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="Začínáme":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Převzít kontrolu":::
 
 Když vyberete Začínáme, zobrazí se následující obrazovka:
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Začínáme":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Ověřit vlastnictví domény":::
 
 Váš doménový registrátor už pro vás bude vyplněný. Jenom vlastník domény může aktualizovat soubor DNS, takže tak, že zkopírujete a přidáte textový soubor do záznamu DNS, můžeme ověřit, že jste vlastníkem. Může to trvat několik minut, než se aktualizace dokončí. Budete se muset odhlásit z partnerského centra a pak se znovu přihlásit. Vaše role bude změněna na globální správce.
 
 ## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Seznámení s řídicím panelem a Partnerským centrem
 
-Projděte si řídicí panel. Tady je místo, kde můžete spravovat svoje členství, přidat obchodní profil pro referenční seznamy, zaregistrovat se v programu Cloud Solution Provider a kdykoli zobrazit oznámení a nabídky, které jsou pro vaši firmu relevantní. stačí vybrat **řídicí panel** . Můžete také spravovat pobídky, nakupovat na webu Marketplace, registrovat se ke službám pro uvedení na trh a další.  
+Projděte si řídicí panel. Tady je místo, kde můžete spravovat svoje členství, přidat obchodní profil pro referenční seznamy, zaregistrovat se v programu Cloud Solution Provider a kdykoli zobrazit oznámení a nabídky, které jsou pro vaši firmu relevantní. stačí vybrat **řídicí panel**. Můžete také spravovat pobídky, nakupovat na webu Marketplace, registrovat se ke službám pro uvedení na trh a další.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="Začínáme":::
+:::image type="content" source="images/migration/fre.png" alt-text="Absolvovat prohlídku":::
 
 ## <a name="sign-the-microsoft-partner-agreement"></a>Podepsat smlouvu o partnerovi Microsoftu
 

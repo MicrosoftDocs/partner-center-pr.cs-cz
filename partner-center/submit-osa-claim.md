@@ -39,11 +39,11 @@ K dokončení deklarace identity budete potřebovat následující informace:
 
 - [Toto zjištění](find-ids-and-domain-names.md) **ID adresáře** nebo **ID tenanta** zákazníka
 
-- **Oblast řešení** , například Business Applications nebo Microsoft 365
+- **Oblast řešení**, například Business Applications nebo Microsoft 365
 
 - **Aktivita** , kterou jste provedli, a typ deklarace identity, kterou chcete provést, například přidružení před prodejem, využití nebo výnosy
 
-- **Kontaktní jméno** , název a e-mailové adresy vašeho zákazníka
+- **Kontaktní jméno**, název a e-mailové adresy vašeho zákazníka
 
 - Pro Dynamics 365 musíte taky **zadat jméno, název a** e-mailovou adresu zákazníka.
 
@@ -53,9 +53,9 @@ K dokončení deklarace identity budete potřebovat následující informace:
 
 - **Produkt (y)** nebo úlohy, na které přidáváte nárok
 
-- **Důkaz provedení (PoE)** , jako je například prohlášení o práci podepsané zákazníkem. Můžete si také stáhnout šablonu PoE, která se má použít.
+- **Důkaz provedení (PoE)**, jako je například prohlášení o práci podepsané zákazníkem. Můžete si také stáhnout šablonu PoE, která se má použít.
 
-- Jenom pro partnery, kteří mají nárok na přiřazení výnosů: **název prodávajícího řešení** , jméno **zákazníka** a **název produktu/řešení ISV** . 
+- Jenom pro partnery, kteří mají nárok na přiřazení výnosů: **název prodávajícího řešení**, jméno **zákazníka** a **název produktu/řešení ISV**. 
 
 Měli byste taky pochopit následující body:
 
@@ -69,24 +69,24 @@ Měli byste taky pochopit následující body:
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. Vyberte kartu **pobídky** , vyberte **Přehled** a pak vyberte **přidružení zákazníků** .
+2. Vyberte kartu **pobídky** , vyberte **Přehled** a pak vyberte **přidružení zákazníků**.
 
-3. V horní části stránky přidružení zákazníka vyberte **+ přidružení zákazníka** .
+3. V horní části stránky přidružení zákazníka vyberte **+ přidružení zákazníka**.
 
 4. Vyberte **ID MPN** umístění partnera, které se má k zákazníkovi přidružit, a pak přidejte název domény zákazníka a ID adresáře. [Najít](find-ids-and-domain-names.md)
 
-5. Vyberte **Pokračovat** .
+5. Vyberte **Pokračovat**.
 
-6. Vyberte **oblast řešení** a **aktivitu** . 
+6. Vyberte **oblast řešení** a **aktivitu**. 
 
    >[!Note]
    >
-   >Pokud vyberete Business Applications, vyberte buď možnost **použití nebo přidružení před prodejem** nebo **výnosy** , a pak vyberte **pokračovat** . 
+   >Pokud vyberete Business Applications, vyberte buď možnost **použití nebo přidružení před prodejem** nebo **výnosy**, a pak vyberte **pokračovat**. 
    <br><br>Pokud vyberete Přidružení výnosů, zobrazí se výzva k zadání mírně odlišných informací, než jsou uvedené níže.
 
-7. Zadejte příslušné informace na stránce **přidružit zákazníka** a potom vyberte **vytvořit deklaraci identity** .
+7. Zadejte příslušné informace na stránce **přidružit zákazníka** a potom vyberte **vytvořit deklaraci identity**.
 
-8. Vyberte produkty přidružené k tomuto přidružení zákazníka a pak vyberte **pokračovat** .
+8. Vyberte produkty přidružené k tomuto přidružení zákazníka a pak vyberte **pokračovat**.
 
 9. Vyplňte kontaktní údaje zákazníka a vaší společnosti. Všechna pole jsou povinná. 
 
@@ -95,12 +95,12 @@ Měli byste taky pochopit následující body:
 
 10. Poskytněte důkaz o provedení (PoE). Můžete ho přetáhnout do pole, vyhledat ve vaší doprovodné dokumentaci nebo vybrat **Stáhnout šablonu** a použít šablonu. 
 
-11. Pokud chcete, přidejte a uložte komentáře, a pak vyberte **Odeslat žádost** . Zákazníkovi pošleme e-mail s žádostí o schválení vašeho přidružení zákazníka.
+11. Pokud chcete, přidejte a uložte komentáře, a pak vyberte **Odeslat žádost**. Zákazníkovi pošleme e-mail s žádostí o schválení vašeho přidružení zákazníka.
 
    >[!NOTE]
    >Po odeslání přidružení zákazníka ho nemůžete upravovat.
 
-Stav vašeho přidružení zákazníka se zobrazí v poli **Stav** .
+Stav vašeho přidružení zákazníka se zobrazí v poli **Stav**.
 
 Výběrem **Historie** můžete zobrazit historii přidružení zákazníka.
 

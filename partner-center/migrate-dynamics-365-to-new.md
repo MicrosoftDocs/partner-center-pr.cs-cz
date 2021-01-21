@@ -55,20 +55,20 @@ Zákazníci Dynamics 365 Business Edition mají nárok na zlevněné přechody n
 ## <a name="purchase-the-new-plan-for-your-customer"></a>Zakupte si nový plán pro zákazníka.
 
 1. V levém navigačním panelu vyberte **zákazníky** a pak vyberte zákazníka, kterého chcete přesunout do nového předplatného.
-2. Vyberte **přidat odběr** .
-3. Vyberte předplatné, které chcete z katalogu koupit (v tomto případě jednu z výše uvedených možností), zadejte počet licencí a pak vyberte **Odeslat** . 
+2. Vyberte **přidat odběr**.
+3. Vyberte předplatné, které chcete z katalogu koupit (v tomto případě jednu z výše uvedených možností), zadejte počet licencí a pak vyberte **Odeslat**. 
 
 Zákazník teď bude mít původní předplatné i nový. Vaším dalším krokem je změna přiřazení licencí uživatelům zákazníka.
 
 1. V levém navigačním panelu vyberte **zákazníky** a pak vyberte zákazníka, kterého přesouváte.
-2. Vyberte **Uživatelé a licence** .
-3. Pokud chcete uživateli přiřadit licenci, vyberte uživatele a pak vyberte **spravovat licence** . 
+2. Vyberte **Uživatelé a licence**.
+3. Pokud chcete uživateli přiřadit licenci, vyberte uživatele a pak vyberte **spravovat licence**. 
 4. Na stránce **spravovat licence** zrušte zaškrtnutí políčka Dynamics 365 pro možnost plán služby Sales/zákazník Engagement z licence Basic (kvalifikovaná nabídka) a vyberte nový plán služby pro předplatné, na které se bude zákazník pohybovat. 
-5. Vyberte **Odeslat** . To provedete pro každého uživatele, který bude tuto novou licenci potřebovat. 
+5. Vyberte **Odeslat**. To provedete pro každého uživatele, který bude tuto novou licenci potřebovat. 
 
 Po přesunutí licencí do nového předplatného můžete zrušit původní předplatné. 
 
 1. V levém navigačním panelu vyberte **zákazníky** a pak vyberte zákazníka, kterého přesouváte.
-2. Na stránce s podrobnostmi předplatného nastavte původní předplatné na **pozastaveno** a vyberte **Odeslat** .
+2. Na stránce s podrobnostmi předplatného nastavte původní předplatné na **pozastaveno** a vyberte **Odeslat**.
 
 Staré předplatné je teď pozastavené a nové předplatné je aktivní. Pozastavený odběr bude po 120 dnech automaticky zřízen. Pro staré předplatné nepřijde váš zákazník žádné další poplatky.

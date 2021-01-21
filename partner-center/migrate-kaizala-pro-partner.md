@@ -61,30 +61,30 @@ C. Zrušit staré předplatné
 
 ### <a name="a-purchase-the-new-subscription"></a>A. Koupit nové předplatné
 
-1. Pokud chcete nové předplatné koupit, vyberte v nabídce **Partnerské centrum** možnost **zákazníci** , vyberte zákazníka, kterého chcete přesunout, a pak vyberte **Přidat předplatná** .
+1. Pokud chcete nové předplatné koupit, vyberte v nabídce **Partnerské centrum** možnost **zákazníci**, vyberte zákazníka, kterého chcete přesunout, a pak vyberte **Přidat předplatná**.
 
-2. Vyberte předplatné, které chcete z katalogu koupit (v tomto případě jednu z výše uvedených možností), zadejte počet licencí a pak vyberte **Odeslat** .
+2. Vyberte předplatné, které chcete z katalogu koupit (v tomto případě jednu z výše uvedených možností), zadejte počet licencí a pak vyberte **Odeslat**.
 
 Váš zákazník by teď měl mít staré i nové předplatné, staré předplatné Kaizala pro a nové předplatné Target, třeba možnost 1 – Office 365 Enterprise F1.
 
 ### <a name="b-reassign-current-user-licenses"></a>B. Změna přiřazení licencí k aktuálním uživatelům
 
-1. Pokud chcete znovu přiřadit licence uživatelů zákazníka, vyberte v nabídce **Partnerské centrum** možnost **zákazníci** , vyberte zákazníka, kterého přesouváte, a pak vyberte **Uživatelé a licence** . Otevře se stránka uživatelé a licence zákazníka.
+1. Pokud chcete znovu přiřadit licence uživatelů zákazníka, vyberte v nabídce **Partnerské centrum** možnost **zákazníci**, vyberte zákazníka, kterého přesouváte, a pak vyberte **Uživatelé a licence**. Otevře se stránka uživatelé a licence zákazníka.
 
-2. Pokud chcete znovu přiřadit uživatelskou licenci, vyberte uživatele, kterého chcete znovu přiřadit, a pak vyberte **spravovat licence** .
+2. Pokud chcete znovu přiřadit uživatelskou licenci, vyberte uživatele, kterého chcete znovu přiřadit, a pak vyberte **spravovat licence**.
 
 3. Na stránce **spravovat licence** zrušte zaškrtnutí políčka Kaizala pro samostatnou licenci a vyberte nový plán služby pro předplatné, na které se bude zákazník pohybovat.
 
-4.  Vyberte **Odeslat** . Stránka s potvrzením obsahuje seznam nových přiřazení licencí. Pokračujte stejným postupem pro ostatní uživatele, kteří potřebují přiřazení licencí.
+4.  Vyberte **Odeslat**. Stránka s potvrzením obsahuje seznam nových přiřazení licencí. Pokračujte stejným postupem pro ostatní uživatele, kteří potřebují přiřazení licencí.
 
 ### <a name="c-cancel-old-subscription"></a>C. Zrušit staré předplatné
 
 Po přesunutí uživatelské licence na novou službu můžete zrušit vyřazené předplatné na úrovni zákazníka.
 
-1.  V nabídce **Partnerské centrum** vyberte **zákazníci** . Vyberte zákazníka, jehož předplatné rušíte.
+1.  V nabídce **Partnerské centrum** vyberte **zákazníci**. Vyberte zákazníka, jehož předplatné rušíte.
 
-2.  Na stránce s podrobnostmi předplatného nastavte předplatné na **pozastaveno** .
+2.  Na stránce s podrobnostmi předplatného nastavte předplatné na **pozastaveno**.
 
-3.  Vyberte **Odeslat** .
+3.  Vyberte **Odeslat**.
 
 Staré předplatné je pozastavené a nové předplatné je aktivní. Pozastavený odběr bude po 120 dnech automaticky zřízen. Zákazník nevzniká žádné další poplatky za původní předplatné.

@@ -24,7 +24,7 @@ ms.locfileid: "92527181"
 - Prohlížeč sestav
 - Prohlížeč sestav Executive
 
-Kompetence umožňují vaší společnosti předvést technickou schopnost doručovat řešení Microsoftu. Kompetence Microsoftu jsou navržené tak, aby splňovaly potřeby vašich zákazníků a předvedli své znalosti potenciálním zákazníkům. Přináší spoustu výhod od Microsoftu, jako je zahrnuté množství využití Azure, nároky na cloudové produkty, jako je O365, technická podpora, nabídky pro uvedení na trh atd. V současné době je k dispozici celkem 19 kompetencí v následujících kategoriích: **aplikace a infrastruktura** , **obchodní aplikace** , **data a AI** a **moderní pracoviště** . Kompetence jsou vrstveny na úrovni stříbrného nebo zlata, např. K dispozici je vyšší úroveň pro zlaté kompetence a přidruženou vyšší úroveň marketingových prostředků, nabídek a dostupných programů.  
+Kompetence umožňují vaší společnosti předvést technickou schopnost doručovat řešení Microsoftu. Kompetence Microsoftu jsou navržené tak, aby splňovaly potřeby vašich zákazníků a předvedli své znalosti potenciálním zákazníkům. Přináší spoustu výhod od Microsoftu, jako je zahrnuté množství využití Azure, nároky na cloudové produkty, jako je O365, technická podpora, nabídky pro uvedení na trh atd. V současné době je k dispozici celkem 19 kompetencí v následujících kategoriích: **aplikace a infrastruktura**, **obchodní aplikace**, **data a AI** a **moderní pracoviště**. Kompetence jsou vrstveny na úrovni stříbrného nebo zlata, např. K dispozici je vyšší úroveň pro zlaté kompetence a přidruženou vyšší úroveň marketingových prostředků, nabídek a dostupných programů.  
 
 Pokud se chcete dozvědět víc o životním cyklu kompetence, dosažené kompetenci a dalších podrobnostech sestavy o kompetencích, získáte více použití ze sestavy kompetence.
 
@@ -53,7 +53,7 @@ V sestavě kompetence můžete vidět následující části:
 
 ### <a name="summary"></a>Souhrn
 
-Souhrnné zobrazení prezentuje počet kompetencí s jejich názvy na úrovni kompetence (Gold/stříbrné) ve všech fázích životního cyklu kompetence. Mezi fáze životního cyklu kompetence patří: **spuštěno** , **kvalifikované** , **aktivní** a **v ohrožení** . Příklad: požadavky na kompetenci cloudu spadají do dvou kategorií: dovednosti a výkon.
+Souhrnné zobrazení prezentuje počet kompetencí s jejich názvy na úrovni kompetence (Gold/stříbrné) ve všech fázích životního cyklu kompetence. Mezi fáze životního cyklu kompetence patří: **spuštěno**, **kvalifikované**, **aktivní** a **v ohrožení**. Příklad: požadavky na kompetenci cloudu spadají do dvou kategorií: dovednosti a výkon.
 
 - Zahájeno: počet kompetencí, pro které máte jednu nebo více základních požadavků.
 Rozpis počátečních kompetencí podle úrovně kompetence (stříbrná/zlatá) s názvy kompetence.
@@ -76,7 +76,7 @@ Sestavu můžete překlopit následujícími dvěma rozsahy dat:
 1. TTM zobrazení: vyčíslení partnerského výkonu za posledních dvanáct měsíců (TTM).
 2. Zobrazení ročního roku: vyčíslení partnerského výkonu od předchozího data výročí k následujícímu datu výročí.
 
-:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="Souhrn kompetencí":::
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="Analýza metrik kompetence":::
 
 > [!NOTE]
  > V analýze nejsou zahrnuté všechny metriky. Metriky přidružené k učení a certifikaci v současné době nejsou v sestavě kompetence podporovány. V analýze metriky pro stav **aktivní** kompetence se v současnosti nepodporují kompetence cloudových Business Applications (certifikátů).
@@ -85,7 +85,7 @@ Sestavu můžete překlopit následujícími dvěma rozsahy dat:
 
 Toto zobrazení ukazuje podrobnou tabulku všech kompetencí, které jste doposud dosáhli, s úrovní kompetence a kompetencí.
 
-:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="Souhrn kompetencí":::
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="Historie kompetence":::
 
 ## <a name="next-steps"></a>Další kroky
 

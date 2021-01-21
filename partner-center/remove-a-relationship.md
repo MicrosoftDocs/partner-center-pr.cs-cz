@@ -51,9 +51,9 @@ Pokud chcete relaci odebrat, budete muset zrušit rezervace rezervovaných insta
 
    a. V partnerském centru klikněte na **zákazníci** a vyberte zákazníka.
 
-   b. Vyberte **účet** .
+   b. Vyberte **účet**.
 
-   c. Vyberte možnost **odebrat vztah prodejce** .
+   c. Vyberte možnost **odebrat vztah prodejce**.
 
    > [!NOTE]
    > Pokud jsou nějaké odběry stále aktivní, odkaz **odebrat vztah prodejce** bude neaktivní.

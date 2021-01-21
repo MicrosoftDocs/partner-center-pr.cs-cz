@@ -50,13 +50,13 @@ Existuje však několik kategorií problémů, které je třeba předat společn
 
 2. V nabídce partnerské Centrum vyberte **zákazníci** a pak vyberte zákazníka, který potřebuje podporu.
 
-3. Vyberte možnost **Správa služeb** a vyberte **žádosti o služby** .
+3. Vyberte možnost **Správa služeb** a vyberte **žádosti o služby**.
 
-4. Vyberte **nový požadavek** a pak vyberte **systém Microsoft Office 365** .
+4. Vyberte **nový požadavek** a pak vyberte **systém Microsoft Office 365**.
 
 5. Přejdete na portál Office 365, kde se potřebujete přihlásit pomocí přihlašovacích údajů partnerského centra.
 
-6. V nabídce na levé straně vyberte **Podpora** , **nový požadavek služby** .
+6. V nabídce na levé straně vyberte **Podpora**, **nový požadavek služby** .
 
 7. Vyberte téma podpory.
 

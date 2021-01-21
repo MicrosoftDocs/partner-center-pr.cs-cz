@@ -66,13 +66,13 @@ Pokud si chcete zobrazit nabídky pro uvedení na trh:
 
 1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
 
-2. V nabídce na levé straně vyberte **MPN** . Pak proveďte jeden z následujících kroků:
+2. V nabídce na levé straně vyberte **MPN**. Pak proveďte jeden z následujících kroků:
 
-   - Vyberte **Přehled** . Přejděte do oddílu **Rychlé odkazy** a pak vyberte kartu **Přejít na trh** .
+   - Vyberte **Přehled**. Přejděte do oddílu **Rychlé odkazy** a pak vyberte kartu **Přejít na trh** .
 
      nebo
 
-   - Vyberte **výhody** , které následují po **uvedení na trh** .
+   - Vyberte **výhody** , které následují po **uvedení na trh**.
 
 Zobrazí se seznam nabídek pro uvedení na trh, které jsou už aktivní nebo které je možné aktivovat.
 

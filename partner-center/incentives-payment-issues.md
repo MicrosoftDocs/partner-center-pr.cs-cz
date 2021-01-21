@@ -17,11 +17,11 @@ ms.locfileid: "93189760"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Řešení potíží s chybějícími platbami, nesprávnými tržbami a dalšími problémy
 
-**Platí pro** :
+**Platí pro**:
 
 - Partnerské centrum
 
-**Příslušné role** :
+**Příslušné role**:
 
 - Motivace správce
 
@@ -37,7 +37,7 @@ Ověřování může trvat až 48 hodin. Během této doby bude váš profil na 
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Jak zjistím, jestli mám správně vyplněný platební a daňový profil?
 
-Stav vaší registrace se zobrazí na stránce Přehled. Po dokončení vytváření profilů bude váš stav **ověřovat registraci** . Po ověření vašich informací se váš stav změní na **zaregistrované** . Tento stav indikuje, že váš výběr a daňový profil a váš zápis byly úspěšně dokončeny.
+Stav vaší registrace se zobrazí na stránce Přehled. Po dokončení vytváření profilů bude váš stav **ověřovat registraci**. Po ověření vašich informací se váš stav změní na **zaregistrované**. Tento stav indikuje, že váš výběr a daňový profil a váš zápis byly úspěšně dokončeny.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Proč musím aktualizovat svůj daňový profil, aby se dal použít s novým programem pobídek?
 
@@ -62,15 +62,15 @@ Příčinou chybějících nebo nesprávných plateb je často jeden z následuj
   
   3. Vyberte odkaz na dokument, který chcete, a pak si přečtěte oddíly. 
 
-**Nárok na partnery** a **pravidla pro příjem** .
+**Nárok na partnery** a **pravidla pro příjem**.
 
 - **Váš platební profil může být neúplný.** Počáteční datum pro vaše příjmy v rámci pobídky bude první den měsíce, ve kterém jste splnili všechny podmínky zakládající nárok včetně onboardingu se zadáním podrobností o platbách a daních. Za měsíce před tím, než zadáte podrobnosti o platbách a daních, nebudou příjmy k dispozici. Pokud například splníte všechny požadavky během dubna 2020, počáteční datum pro vaše příjmy bude 1. dubna 2020.
-- **Můžete mít neplacenou akci** .  Je možné, že se vaše pobídky nezpracovávají kvůli nějaké akci, která čeká na vyřízení z vaší strany.
+- **Můžete mít neplacenou akci**.  Je možné, že se vaše pobídky nezpracovávají kvůli nějaké akci, která čeká na vyřízení z vaší strany.
 
   **Zobrazení nedokončených akcí**
 
   1. Přihlaste se k [pobídkám partnerů](https://partner.microsoft.com/membership/partner-incentives).
-  2. Otevřete stránku **historie transakcí** . Projděte si pole na této stránce, kde najdete všechny nedokončené akce, jako je například **čekající daňový profil** , **čekající platební profil** nebo **čekající na odeslání daně z daňových faktur** .
+  2. Otevřete stránku **historie transakcí** . Projděte si pole na této stránce, kde najdete všechny nedokončené akce, jako je například **čekající daňový profil**, **čekající platební profil** nebo **čekající na odeslání daně z daňových faktur**.
 
 Pokud tyto akce nejsou užitečné a vaše platby pořád chybí nebo jsou nesprávné, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
@@ -123,7 +123,7 @@ Toto zobrazení umožňuje zobrazit platby pro všechny programy a ID programu M
 | Zobrazit platební údaje podle řádku, včetně peněžních a platebních částek v místní měně  | Zobrazit pole se **seznamem plateb**   |
 | Stažení dopisu pro úhradu   |  Vybrat **úhradu plateb**  |
 | Zobrazit podrobnosti o úrovni transakce pro konkrétní platbu |  Vybrat **zobrazení**  |
-| Exportovat podrobnosti transakce do aplikace Excel  |  Vyberte **Spustit stahování** a pak klikněte na **exportovat data** . Všimněte si, že všechny vybrané filtry budou aplikovány na exportovaná data. Jakmile se stav změní na dokončeno, vyberte **Stáhnout** a podle pokynů exportujte sestavu podrobná transakce. Aktualizuje stránku, pokud se stav neaktualizuje během pěti minut.  |
+| Exportovat podrobnosti transakce do aplikace Excel  |  Vyberte **Spustit stahování** a pak klikněte na **exportovat data**. Všimněte si, že všechny vybrané filtry budou aplikovány na exportovaná data. Jakmile se stav změní na dokončeno, vyberte **Stáhnout** a podle pokynů exportujte sestavu podrobná transakce. Aktualizuje stránku, pokud se stav neaktualizuje během pěti minut.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Chybějící nebo nesprávné tržby a platby
 
@@ -151,7 +151,7 @@ Pokud tyto akce nejsou užitečné a vaše tržby ještě nejsou odsouhlasené, 
 
 3. Vyberte odkaz na dokument pro příslušný program.
 
-4. V dokumentu, přečtěte si část **Struktura a sazby programu** .
+4. V dokumentu, přečtěte si část **Struktura a sazby programu**.
 
 ## <a name="next-steps"></a>Další kroky
 

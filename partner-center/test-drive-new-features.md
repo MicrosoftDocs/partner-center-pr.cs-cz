@@ -30,11 +30,11 @@ Před vydáním do celosvětového komunitního centra partnera vás vyzveme k v
 
 ### <a name="test-drive-a-feature"></a>Testování funkce
 
-1. Z **Nastavení účtu** vyberte **Test Drive nové funkce** .
+1. Z **Nastavení účtu** vyberte **Test Drive nové funkce**.
 
-2. Vyberte **verze funkcí** . Uvidíte, které funkce se uvolňují pro test, a pokud vás zajímáte o účast.
+2. Vyberte **verze funkcí**. Uvidíte, které funkce se uvolňují pro test, a pokud vás zajímáte o účast.
 
-3. Pokud vás zajímá testování konkrétní funkce, prosuňte tlačítko na **zapnuto** .
+3. Pokud vás zajímá testování konkrétní funkce, prosuňte tlačítko na **zapnuto**.
 
 > [!NOTE]  
 > Jenom globální správci a agenti správce můžou zapnout verze Preview funkcí. Všichni uživatelé partnerského centra ale můžou zobrazit a používat funkce verze Preview, pokud mají příslušná oprávnění.

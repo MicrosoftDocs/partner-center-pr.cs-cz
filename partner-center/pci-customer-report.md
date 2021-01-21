@@ -67,13 +67,13 @@ V části Souhrn se zobrazuje snímek různých klíčových ukazatelů výkonu,
 
 Počet aktuálních zákazníků, aktuálních aktivních zákazníků a nově přidaných zákazníků v průběhu vybraného období jsou geograficky mapovány pomocí země zákazníka. Procentní podíly zobrazené pod metrikou označují procento podílu dané země součtu této metriky. Po najetí myší na mapu můžete zobrazit celkový počet aktivních nových zákazníků pro danou zemi. Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Kliknutím na tlačítko **Domů** na mapě se vraťte k původnímu zobrazení. Všechny sloupce v mřížce jsou seřaditelné.  
 
-:::image type="content" source="images/pci/customersgeo.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem Customers zobrazuje pruhové grafy a počty aktivních, nedávno přidaných, ztracených/neúspěšných nebo podle konkrétního produktu.":::
+:::image type="content" source="images/pci/customersgeo.png" alt-text="Snímek sestavy o zákaznících služby partner Center Insights podle geografického zobrazení zobrazuje mapu světa a seznam celkových, přidaných a nových zákazníků podle oblastí.":::
 
 ## <a name="customer-adds-and-churns"></a>Přidání a změny zákazníka
 
 Trend zákazníků s rozpisem nových, stávajících a nezměněných pro vybraný rozsah kalendářních dat. Osa X představuje měsíce vybraného rozsahu kalendářních dat a osa Y představuje počet zákazníků. Ovlivnění zákazníci jsou reprezentovány na záporné škále osy Y. Skládaný sloupcový graf prezentuje rozložení nových, stávajících a nezměněných zákazníků na daný měsíc. Můžete znovu sestavit sloupcový graf s konkrétními položkami zásobníku, a to tak, že je vyberete v legendě. Pomocí posuvníku nad grafem můžete přiblížit určité období. 
 
-:::image type="content" source="images/pci/customerslost.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem Customers zobrazuje pruhové grafy a počty aktivních, nedávno přidaných, ztracených/neúspěšných nebo podle konkrétního produktu.":::
+:::image type="content" source="images/pci/customerslost.png" alt-text="Snímek sestavy o zákaznících služby partner Center Insights pomocí pruhového grafu zobrazuje počet zákazníků přidaných a ztracených v určitém časovém období.":::
 
 ## <a name="customer-distribution"></a>Distribuce zákazníků
 
@@ -83,19 +83,19 @@ Rozpis aktuálních zákazníků podle umístění MPN, zákaznických segmentů
 
 Rozpis aktuálních zákazníků se počítá podle produktů a skladů nebo plánů. Vyberte produkt v výsečovém grafu rozložení produktu, abyste zobrazili rozložení podle položek SKU nebo plánů v grafu vedle něho.
 
-:::image type="content" source="images/pci/customerbyprod.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem Customers zobrazuje pruhové grafy a počty aktivních, nedávno přidaných, ztracených/neúspěšných nebo podle konkrétního produktu.":::
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="Snímek obrazovky zákazníci podle produktu zobrazuje dva paprskové grafy – jeden s rozpisem zákazníků podle produktu, druhý s rozpisem zákazníků podle SKU.":::
 
 ## <a name="customer-distribution-trend"></a>Trend distribuce zákazníků 
 
 Měsíční trend distribuce vašich zákazníků v průběhu vybraného období podle trhů, segmentů, vašich umístění MPN a produktů, které získali. Kliknutím na příslušné karty v grafu zobrazíte trend podle těchto kategorií. Osa X představuje měsíce pro rozsah kalendářních dat, které jste vybrali, a osa Y má počet zákazníků pro vybranou kategorii (výběr karty). Po najetí myší na sloupce grafu můžete zobrazit hodnoty rozložení jednotlivých zásobníků. Pomocí posuvníku nad grafem můžete přiblížit určité období.   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem Customers zobrazuje pruhové grafy a počty aktivních, nedávno přidaných, ztracených/neúspěšných nebo podle konkrétního produktu.":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="Snímek sestavy trendů distribuce zákazníka znázorňující pruhové grafy, které můžete zobrazit podle trhu, segmentu, umístění partnera nebo produktů.":::
 
 ## <a name="active-customers"></a>Aktivní zákazníci
 
 Graf měsíčního trendu, který porovnává aktivní a celkové zákazníky pro vybraný rozsah kalendářních dat. Sloupce představují každý měsíc aktivní počty zákazníků a řádek představuje celkový počet zákazníků každý měsíc. 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="Snímek obrazovky se souhrnným řídicím panelem Customers zobrazuje pruhové grafy a počty aktivních, nedávno přidaných, ztracených/neúspěšných nebo podle konkrétního produktu.":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="Snímek obrazovky s aktivními zákazníky služby partner Center Insights znázorňující pruhové grafy v čase aktivních zákazníků.":::
 
 ## <a name="next-steps"></a>Další kroky
 

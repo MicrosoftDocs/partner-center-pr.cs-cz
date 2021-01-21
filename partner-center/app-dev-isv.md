@@ -35,18 +35,18 @@ Partneři s kompetencí ISV:
 
 Partneři s kompetencí vývoje aplikací, kterým se dosáhlo prostřednictvím cesty IP adresy certifikátu:
 
-- **Pokud máte výpis z komerčního tržiště Microsoftu** , bude v době obnovování kompetence k dispozici vaše jednorázová výjimka požadavků na zkoušky. V tuto chvíli budete mít k dispozici 30 dnů, než budete tuto nabídku moci využít.
+- **Pokud máte výpis z komerčního tržiště Microsoftu**, bude v době obnovování kompetence k dispozici vaše jednorázová výjimka požadavků na zkoušky. V tuto chvíli budete mít k dispozici 30 dnů, než budete tuto nabídku moci využít.
 
-- **Pokud nemáte seznam [komerčních webů Microsoftu](https://azure.microsoft.com/overview/commercial-marketplace/)** , publikujte řešení v únoru 2020, které bude mít nárok na výjimku pro požadavky na jednorázovou zkoušku.
+- **Pokud nemáte seznam [komerčních webů Microsoftu](https://azure.microsoft.com/overview/commercial-marketplace/)**, publikujte řešení v únoru 2020, které bude mít nárok na výjimku pro požadavky na jednorázovou zkoušku.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Jak využít vaši nabídku
 
-1. V nabídce partnerského centra na řídicím panelu vyberte **kompetence** .
-2. V seznamu kompetencí, které jsou k dispozici, je vývoj aplikací označen jako **dokončený** .
+1. V nabídce partnerského centra na řídicím panelu vyberte **kompetence**.
+2. V seznamu kompetencí, které jsou k dispozici, je vývoj aplikací označen jako **dokončený**.
 
-3. Vyberte **vývoj aplikací** . Zobrazí se oznámení, že jste přepsali, že vaše společnost nesplňuje požadavky na zkoušky. 
+3. Vyberte **vývoj aplikací**. Zobrazí se oznámení, že jste přepsali, že vaše společnost nesplňuje požadavky na zkoušky. 
 
-4. Pokud chcete tuto nabídku využít, Projděte si **nabídky členství** . Pro dokončení procesu může být nutné uhradit poplatek za kompetenci v závislosti na stavu nákupu nebo obnovení kompetence. 
+4. Pokud chcete tuto nabídku využít, Projděte si **nabídky členství**. Pro dokončení procesu může být nutné uhradit poplatek za kompetenci v závislosti na stavu nákupu nebo obnovení kompetence. 
 
 Tato nabídka je dostupná prostřednictvím partnerského centra.
 

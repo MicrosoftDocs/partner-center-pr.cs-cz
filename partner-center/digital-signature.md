@@ -32,21 +32,21 @@ Partneři v Indii nyní uvidí, že společnost Microsoft má digitálně podeps
 1. Pokud jste vytvořili objednávku v partnerském centru, obdržíte digitální kopii faktury v e-mailu. Vyberte fakturu, která se otevře v rámci řadiče domény aplikace Adobe Acrobat Reader.
 
 
-2. V horní části faktury byste měli vidět **podepsané a všechny signatury jsou platné** .
+2. V horní části faktury byste měli vidět **podepsané a všechny signatury jsou platné**.
  
  :::image type="content" source="images/digitalsig/digital1.png" alt-text="Ukázka faktury s platnou hlavičkou oznámení signatury, která zobrazuje zelený podpis zaškrtnutí a fráze, podepsané a všechny signatury jsou platné.":::
 
 3. Klikněte na podpis. Zobrazí se zpráva o platnosti certifikátu.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Ukázka faktury s platnou hlavičkou oznámení signatury, která zobrazuje zelený podpis zaškrtnutí a fráze, podepsané a všechny signatury jsou platné."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Podepsaná faktura s polem oprávněného podepisujícího a stav ověření podpisu s podrobnostmi, vlastnostmi podpisu a možností zrušit."::: 
 
 4. Výběrem **vlastnosti podpisu** zobrazíte další podrobnosti o platnosti podpisu.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Ukázka faktury s platnou hlavičkou oznámení signatury, která zobrazuje zelený podpis zaškrtnutí a fráze, podepsané a všechny signatury jsou platné."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Podrobné zobrazení vlastností podpisu zobrazuje informace o tom, kdo, kde, kdy byl dokument podepsán, jeho proces ověření a certifikát podepsaného."::: 
 
 4. Můžete také zkontrolovat, zda jsou cesty k certifikaci správné a zda je certifikát důvěryhodný.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="Ukázka faktury s platnou hlavičkou oznámení signatury, která zobrazuje zelený podpis zaškrtnutí a fráze, podepsané a všechny signatury jsou platné.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="V dialogovém okně Prohlížeč certifikátů se zobrazí několik karet s dalšími podrobnostmi o certifikátu a jeho celým řetězem pro vystavení.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Další informace o fakturách a digitálních podpisech
 

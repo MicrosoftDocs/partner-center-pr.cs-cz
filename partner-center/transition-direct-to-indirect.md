@@ -41,7 +41,7 @@ V programu nepřímý prodejce se budete moci zaregistrovat pomocí stávající
 
 3. Projděte si podrobnosti o partnerovi ve formuláři Registrace.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Přehled":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Zaregistrovat hned":::
 
 4. Vyberte možnost zaregistrovat nyní. Váš nepřímý prodejce používá stejný tenant služby AAD, kterého používáte pro svůj přímý podnik.
 
@@ -53,11 +53,11 @@ V programu nepřímý prodejce se budete moci zaregistrovat pomocí stávající
     > [!NOTE]
     > I když je schválení obvykle okamžité, může trvat až pět pracovních dnů. Po schválení obdržíte oznámení na e-mailovou adresu, kterou jste zadali v části primární kontakt v registračním formuláři. Stav registrace můžete také ověřit v části **Nastavení**  >  **partnera nastavení**  >  **partner Profile** > informace o programu.
 
-6. Na stránce s **přehledem** se zobrazí smlouva nepřímý prodejce. Vyberte **přijmout a pokračovat** . Tato akce povoluje možnosti nepřímých prodejců.
+6. Na stránce s **přehledem** se zobrazí smlouva nepřímý prodejce. Vyberte **přijmout a pokračovat**. Tato akce povoluje možnosti nepřímých prodejců.
 
 Když přijmete nepřímý prodejce, Všimněte si, že váš partnerský profil vás **identifikuje jako přímý a** nepřímý prodejce.
 
-:::image type="content" source="images/direct/direct3.png" alt-text="Přehled":::
+:::image type="content" source="images/direct/direct3.png" alt-text="Smlouva o nepřímý prodejce":::
 
 > [!IMPORTANT]
 > Po registraci jako nepřímý prodejce pomocí nové funkce není k dispozici možnost vrátit se zpět k přímému klientovi pouze s fakturací. Před registrací jako nepřímý prodejce prosím ověřte, že jste plně vyhodnotili své obchodní potřeby.
@@ -66,7 +66,7 @@ Když přijmete nepřímý prodejce, Všimněte si, že váš partnerský profil
 
 V průběhu této fáze budete nadále spravovat požadavky vašich přímých zákazníků do předplatného, včetně fakturačního procesu. Můžete také začít přijímat zákazníky od svého nepřímého poskytovatele a provozovat jako nepřímý prodejce.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Přehled":::
+:::image type="content" source="images/direct/direct4.png" alt-text="Máte přímý účet i nepřímý prodejce.":::
 
 ## <a name="find-an-indirect-provider"></a>Vyhledání nepřímého poskytovatele
 
@@ -172,21 +172,21 @@ Pomocí funkce rozšíření vztahů mezi prodejci můžete vytvořit vztah prod
 
 Pokud chcete tuto funkci použít u stávajícího tenanta zákazníka:
 
-1. Přihlaste se do partnerského centra jako **Agent pro správu** .
+1. Přihlaste se do partnerského centra jako **Agent pro správu**.
 
 2. Na **stránce zákazníci** vyberte existujícího zákazníka a kliknutím na ikonu **rychlých odkazů** rozbalte souhrnné zobrazení zákazníka.
 
-3. V části **nepřímé zprostředkovatele** klikněte na **přenést zákazníka u nepřímého poskytovatele** .
+3. V části **nepřímé zprostředkovatele** klikněte na **přenést zákazníka u nepřímého poskytovatele**.
 
-    :::image type="content" source="images/direct/direct5-1.png" alt-text="Přehled":::
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Přenést zákazníka na nepřímý poskytovatel":::
 
 4. V místním dialogovém okně vyberte **nepřímý zprostředkovatel** , který chcete, aby se zákazníkem zobrazoval vztah prodejce.
 
-5. Klikněte na **Uložit a pokračujte** .
+5. Klikněte na **Uložit a pokračujte**.
 
-6. Ověřte, zda se vybraný nepřímý zprostředkovatel zobrazuje v části **nepřímá zprostředkovatelé** .
+6. Ověřte, zda se vybraný nepřímý zprostředkovatel zobrazuje v části **nepřímá zprostředkovatelé**.
 
-    :::image type="content" source="images/direct/direct5-2.png" alt-text="Přehled":::
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Seznam nepřímých poskytovatelů":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Odeslání pozvánky k nepřímému prodejci zákazníkovi
 
@@ -196,7 +196,7 @@ Váš nepřímý poskytovatel nemůže odesílat objednávky pro vaše stávají
 
 2. Vyberte **pozvat nové zákazníky** a pozvat zákazníka k navázání vztahu prodejce s vámi i nepřímým poskytovatelem ve stejnou dobu. Poskytovatel musí mít k vašemu zákazníkovi vztah prodejce, aby mohl odeslat objednávky jménem zákazníka, pokud chce zákazník koupit nové předplatné nebo přidat nové licence k existujícím předplatným.
 
-    :::image type="content" source="images/direct/direct6.png" alt-text="Přehled":::
+    :::image type="content" source="images/direct/direct6.png" alt-text="Pozvat nové zákazníky":::
 
 3. Na další stránce zkontrolujte koncept e-mailové zprávy. Koncept zprávy můžete otevřít v e-mailu, nebo můžete zprávu zkopírovat do schránky a vložit ji do e-mailu.
 
@@ -263,29 +263,29 @@ Tato funkce je 4 kroky procesu, kde:
 
 Postup při vytváření žádosti o převod jako převádění partnera:
 
-1. Přihlaste se do partnerského centra jako **Agent pro správu** .
+1. Přihlaste se do partnerského centra jako **Agent pro správu**.
 
 2. Na stránce **zákazníci** vyberte zamýšleného zákazníka a kliknutím na ikonu Rychlé odkazy rozbalte souhrnné zobrazení zákazníka.
 
 3. V části **nepřímé zprostředkovatele** ověřte, zda je uveden zamýšlený nepřímý poskytovatel.
 
-4. Klikněte na **Zobrazit předplatná** .
+4. Klikněte na **Zobrazit předplatná**.
 
-5. Na stránce **předplatná** vyhledejte **přenos předplatného** .
+5. Na stránce **předplatná** vyhledejte **přenos předplatného**.
 
-6. V části **přenos předplatného** klikněte na **žádost přenos předplatného** .
+6. V části **přenos předplatného** klikněte na **žádost přenos předplatného**.
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Přehled":::
+    :::image type="content" source="images/direct/direct8.png" alt-text="Požádat o přenos předplatného":::
 
 7. V dialogovém okně žádost o přenos vyberte jedno nebo víc předplatných, která se mají přenést.
 
-    :::image type="content" source="images/direct/direct9.png" alt-text="Přehled":::
+    :::image type="content" source="images/direct/direct9.png" alt-text="Vytvořit žádost o přenos":::
 
-8. Klikněte na **Vytvořit** .
+8. Klikněte na **Vytvořit**.
 
 9. V části **přenos předplatného** se zobrazí aktivní žádost o převedení předplatného.
 
-    :::image type="content" source="images/direct/direct10.png" alt-text="Přehled":::
+    :::image type="content" source="images/direct/direct10.png" alt-text="Seznam požadavků na přenos":::
 
 10. Informujte svého nepřímého poskytovatele, že k nim jste vytvořili žádost o přesun předplatného.
 
@@ -293,29 +293,29 @@ Postup při vytváření žádosti o převod jako převádění partnera:
 
 Postup revize a přijetí žádosti o přenos jako nepřímý poskytovatel:
 
-1. Přihlaste se do partnerského centra jako agent pro **správu** nebo **agenta prodeje** .
+1. Přihlaste se do partnerského centra jako agent pro **správu** nebo **agenta prodeje**.
 
 2. Na stránce **zákazníci** vyberte zamýšleného zákazníka a kliknutím na ikonu rychlých odkazů rozbalte souhrnné zobrazení zákazníka.
 
 3. V části **nepřímý prodejci** potvrďte, že je uveden přechod partner.
 
-4. Klikněte na **Zobrazit předplatná** .
+4. Klikněte na **Zobrazit předplatná**.
 
-5. Na stránce **předplatná** vyhledejte **přenos předplatného** .
+5. Na stránce **předplatná** vyhledejte **přenos předplatného**.
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Přehled":::
+    :::image type="content" source="images/direct/direct11.png" alt-text="Zobrazit žádost o přenos":::
 
 6. V části **přenos předplatného** klikněte na žádost o přenos, kterou chcete zkontrolovat.
 
-7. V případě potřeby klikněte na **přijmout** (nebo **odmítnout** ).
+7. V případě potřeby klikněte na **přijmout** (nebo **odmítnout**).
 
-    :::image type="content" source="images/direct/direct12.png" alt-text="Přehled":::
+    :::image type="content" source="images/direct/direct12.png" alt-text="Přijmout žádost o přenos":::
 
 8. Počkejte, až se žádost o přenos dokončí.
 
 ### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Nepřímý Zprostředkovatel – ověření žádosti o přenos je dokončeno
 
-1. Po úspěšném dokončení žádosti o přenos ověřte, že se předplatná zobrazí v části **předplatná** .
+1. Po úspěšném dokončení žádosti o přenos ověřte, že se předplatná zobrazí v části **předplatná**.
 
 2. Informujte tohoto přecházejícího partnera.
 
@@ -323,23 +323,23 @@ Postup revize a přijetí žádosti o přenos jako nepřímý poskytovatel:
 
 Převedený partner by měl provádět tyto akce:
 
-1. Přihlaste se k partnerskému centru jako **Agent pro správu** nebo **agenta prodeje** .
+1. Přihlaste se k partnerskému centru jako **Agent pro správu** nebo **agenta prodeje**.
 
 2. Na stránce **zákazníci** vyberte zamýšleného zákazníka a kliknutím na ikonu **Rychlé odkazy** rozbalte souhrnné zobrazení zákazníka.
 
-3. Klikněte na **Zobrazit předplatná** .
+3. Klikněte na **Zobrazit předplatná**.
 
-4. Na stránce **předplatná** vyhledejte **přenos předplatného** .
+4. Na stránce **předplatná** vyhledejte **přenos předplatného**.
 
-5. Ověřte, zda je žádost o přenos označena jako **Úplná** .
+5. Ověřte, zda je žádost o přenos označena jako **Úplná**.
 
 6. Ověřte, že odběry se na stránce **předplatná** již nezobrazuje jako aktivní:
 
    1. Pokud se jedná o předplatné Azure (MS-AZR-0145P), nebude se už v seznamu zobrazovat.
 
-   2. Pokud se jedná o předplatné založené na licencích (Office 365, Dynamics, Intune), zobrazí se v seznamu stav **pozastaveno** .
+   2. Pokud se jedná o předplatné založené na licencích (Office 365, Dynamics, Intune), zobrazí se v seznamu stav **pozastaveno**.
 
-   :::image type="content" source="images/direct/direct13.png" alt-text="Přehled":::
+   :::image type="content" source="images/direct/direct13.png" alt-text="Předplatné pozastaveno":::
 
 ### <a name="considerations"></a>Co je potřeba vzít v úvahu
 

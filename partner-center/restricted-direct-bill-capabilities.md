@@ -31,11 +31,11 @@ Chcete-li potvrdit, zda byl omezen přístup z partnerského klienta přímé fa
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard).
 
-2. Přejít na partnerský profil **nastavení partnera**  ->  **Partner Profile** .
+2. Přejít na partnerský profil **nastavení partnera**  ->  **Partner Profile**.
 
-3. V části **informace o programu** vyhledejte **Microsoft Cloud stav poskytovatele řešení** .
+3. V části **informace o programu** vyhledejte **Microsoft Cloud stav poskytovatele řešení**.
 
-4. Pokud má stav programu hodnotu **omezeno** , znamená to, že váš partner s přímým poštovním partnerem má přístup k přímým možnostem fakturace.
+4. Pokud má stav programu hodnotu **omezeno**, znamená to, že váš partner s přímým poštovním partnerem má přístup k přímým možnostem fakturace.
 
 ## <a name="affected-direct-bill-capabilities"></a>Ovlivněné možnosti přímého vyúčtování
 

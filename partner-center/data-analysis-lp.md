@@ -51,14 +51,14 @@ Pokud se chcete podívat na rozpis výnosů na úrovni účtu partnerského umí
 
 V dolní polovině obrazovky se zobrazí souhrn předplatných. K zobrazení potřebných podrobností předplatného použijte následující filtry:  
 
-1. **Doba trvání** : můžete se rozhodnout pro zobrazení souhrnu předplatného 
+1. **Doba trvání**: můžete se rozhodnout pro zobrazení souhrnu předplatného 
 
 - 30D – posledních 30 dní
 - 3M – poslední 3 měsíce
 - 6 min – posledních 6 měsíců
 - 12M – posledních 12 měsíců
 
-2. **Typ produktu** :
+2. **Typ produktu**:
  
 - Office 365
 - Microsoft 365

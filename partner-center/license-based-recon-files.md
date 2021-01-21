@@ -45,7 +45,7 @@ Pokud chcete sloučit změny s objednávkami zákazníka, porovnejte **Syndicati
 | DurableOfferId | Jedinečný identifikátor odolné nabídky, jak je definován v ceníku. *Tato hodnota odpovídá **ID nabídky** ze ceníku.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | Název nabídky služby zakoupené zákazníkem, jak je definováno v ceníku. | *Systém Microsoft Office 365 (plán E3)* |
 | SubscriptionStartDate | Počáteční datum odběru Čas je vždy začátek dne, tj. 0:00. Toto pole je nastaveno na den po odeslání objednávky. Používá se ve spojení s **SubscriptionEndDate** k určení: Pokud je zákazník stále v prvním roce předplatného nebo pokud se předplatné obnovilo po dobu následujícího roku. | *2/1/2019 0:00* |
-| SubscriptionEndDate | Datum ukončení předplatného Čas je vždy začátek dne, tj. 0:00. Buď *12 měsíců plus **x** dní od počátečního data* v souladu s datem fakturace partnera nebo *12 měsíců od data obnovení* . Při obnovení se ceny aktualizují na aktuální ceník. V případě automatizovaného obnovení může být nutné provést zákaznickou komunikaci. | *2/1/2019 0:00* |
+| SubscriptionEndDate | Datum ukončení předplatného Čas je vždy začátek dne, tj. 0:00. Buď *12 měsíců plus **x** dní od počátečního data* v souladu s datem fakturace partnera nebo *12 měsíců od data obnovení*. Při obnovení se ceny aktualizují na aktuální ceník. V případě automatizovaného obnovení může být nutné provést zákaznickou komunikaci. | *2/1/2019 0:00* |
 | ChargeStartDate | Počáteční den poplatků. Čas je vždy začátek dne, tj. 0:00. Slouží k výpočtu denních poplatků (pro poplatky za *uplynulé* náklady), když zákazník změní číslo licence. | *2/1/2019 0:00* |
 | ChargeEndDate | Koncový den poplatků Čas je vždy koncem dne, 23:59. Slouží k výpočtu denních poplatků (pro poplatky za *uplynulé* náklady), když zákazník změní číslo licence. | *2/28/2019 23:59* |
 | ChargeType | [Typ poplatků](recon-file-charge-types.md) nebo úprav. | Viz [typy poplatků](recon-file-charge-types.md). |
@@ -58,6 +58,6 @@ Pokud chcete sloučit změny s objednávkami zákazníka, porovnejte **Syndicati
 | TotalForCustomer | Celkem po dani Kontroluje, jestli se na faktuře účtují daň. | *11* |
 | Měna | Typ měny. Každá fakturační entita má pouze jednu měnu. Ověřte, jestli se shoduje s vaší první fakturou. Znovu se vraťte po všech hlavních aktualizacích fakturačních platforem. | *EUR* |
 | DomainName | Název domény zákazníka. Toto pole může být prázdné až do druhého fakturačního cyklu. *Nepoužívejte toto pole jako jedinečný identifikátor pro zákazníka. Zákazník nebo partner může aktualizovat individuální nebo výchozí doménu prostřednictvím portálu Office 365.* | *example.onmicrosoft.com* |
-| SubscriptionName | Přezdívka předplatného Pokud není zadaná Přezdívka, Partnerské centrum použije **nabídku offername** . | *PROJEKT ONLINE* |
-| SubscriptionDescription | Název nabídky služby zakoupené zákazníkem, jak je definováno v ceníku. (Toto je stejné pole jako **Nabídka** .) | *PROJECT ONLINE PREMIUM BEZ PROJEKTOVÉHO KLIENTA* |
+| SubscriptionName | Přezdívka předplatného Pokud není zadaná Přezdívka, Partnerské centrum použije **nabídku offername**. | *PROJEKT ONLINE* |
+| SubscriptionDescription | Název nabídky služby zakoupené zákazníkem, jak je definováno v ceníku. (Toto je stejné pole jako **Nabídka**.) | *PROJECT ONLINE PREMIUM BEZ PROJEKTOVÉHO KLIENTA* |
 | BillingCycleType | Četnost jednorázových faktur.| *Měsíčně* |

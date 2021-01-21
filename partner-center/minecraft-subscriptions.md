@@ -40,16 +40,16 @@ Podle následujících kroků Kupte Minecraftu: předplatná pro **vzdělávací
 
   1.  V nabídce partnerské Centrum vyberte **zákazníky** .
   
-  2.  Vyberte zákazníka pro vzdělávání ze seznamu zákazníků a pak vyberte **Přidat předplatná** .
+  2.  Vyberte zákazníka pro vzdělávání ze seznamu zákazníků a pak vyberte **Přidat předplatná**.
   
   3.  Zvolte četnost fakturace, která nejlépe vyhovuje vašim potřebám, a pak v části **katalog** vyberte **vzdělávání** .
 
-  4.  Vyberte předplatné Minecraftu, které chcete koupit jménem zákazníka, a zadejte počet licencí. Vyberte **Další: Kontrola** .
+  4.  Vyberte předplatné Minecraftu, které chcete koupit jménem zákazníka, a zadejte počet licencí. Vyberte **Další: Kontrola**.
 
       >[!NOTE]
       >Tyto licence budete moct zobrazit a spravovat v partnerském centru. Vaše cucstomer uvidí a spravuje tyto licence ze svého inventáře na [stránce s podrobnostmi Minecraftu: vzdělávací edice](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) (musíte být přihlášení do obchodu pro vzdělávání, aby se zobrazila stránka s podrobnostmi). 
 
-  5.  Pokud je pořadí správné, vyberte **Odeslat** . Pokud potřebujete provést změny v objednávce, vyberte **Zrušit** a proveďte požadované změny.   
+  5.  Pokud je pořadí správné, vyberte **Odeslat**. Pokud potřebujete provést změny v objednávce, vyberte **Zrušit** a proveďte požadované změny.   
 
   6.  Po úspěšném zakoupení předplatného nasměrujte zákazníka vzdělávání na jejich inventář na [Microsoft Store pro vzdělávání](https://educationstore.microsoft.com) , aby si software stáhl a rozšíří licence.
 

@@ -26,7 +26,7 @@ Aby vaše společnost mohla zobrazit školení a výukové postupy, které jste 
 
 ## <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Jak přidružit ID MCP k vašemu účtu partnerského centra
 
-1. Z řídicího panelu partnerského centra vyberte v pravém horním rohu řídicího panelu ikonu **účtu** a pak vyberte **můj profil** .
+1. Z řídicího panelu partnerského centra vyberte v pravém horním rohu řídicího panelu ikonu **účtu** a pak vyberte **můj profil**.
 
 2. V rámci **učení** můžete přidružit svůj účet Microsoft Learning. Svůj účet Microsoft taky můžete připojit k partnerské univerzitě.
 

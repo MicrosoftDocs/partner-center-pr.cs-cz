@@ -48,7 +48,7 @@ Pokud jste uživatelem PMC, přečtěte si v této tabulce nápovědu s aktivac�
 
 \***Pro partnery v Evropě, Střední východ a Afrika:** Při posílání e-mailů RegForm uveďte: ID partnera, e-mailová adresa přidružené k programu MPN, název, název společnosti, telefon, město a země. Pro pomoc s vytvářením a aktivací smluv o podpoře použijte RegForm. Pokud máte další problémy související se službou MPN, obraťte se na [podporu partnera prvotní](https://partner.microsoft.com/support?issueid=300-0042).
 
-Jakmile je vaše zvýhodnění aktivované, kontakt programu, který je přidružený k základním výhodám vaší společnosti, bude dostávat ID podpory produktu pro tuto výhodu. Tato ID budou zahrnovat **ID přístupu** a **ID smlouvy** . 
+Jakmile je vaše zvýhodnění aktivované, kontakt programu, který je přidružený k základním výhodám vaší společnosti, bude dostávat ID podpory produktu pro tuto výhodu. Tato ID budou zahrnovat **ID přístupu** a **ID smlouvy**. 
 
 Při prvním odeslání žádosti o podporu pro určité typy produktů nebo služeb může být nutné, abyste vy nebo vaši uživatelé společnosti nasdíleli tyto ID podpory produktu.
 

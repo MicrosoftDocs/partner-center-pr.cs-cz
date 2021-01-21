@@ -30,29 +30,29 @@ Můžete také zaregistrovat nové obchody, které jste vyhráli, a to i v pří
 
 ## <a name="register-a-new-deal"></a>Registrace nové koupě
 
-Pokud chcete zaregistrovat novou práci, přečtěte si **odkazy > registrace koupí > je vyžadována akce** a vyberte **+ nový obchod** .
+Pokud chcete zaregistrovat novou práci, přečtěte si **odkazy > registrace koupí > je vyžadována akce** a vyberte **+ nový obchod**.
 
 Na stránce **nový obchod** zadejte následující informace.
 
-- **Podrobnosti o zákazníkovi** : zadejte **název společnosti** pro zákazníka a vyberte svou **zemi/oblast** . Pak zadejte své **město** a **kraj** .
-- **Řešení** : vyberte řešení, které se bude používat pro obchod. Pokud nevidíte správné řešení v seznamu, obraťte se na podporu.
-- **Typ kontraktu** : Určete, jestli se jedná o **Nový** kontrakt nebo **obnovení** předchozí smlouvy.
-- **Celková hodnota kontraktu** : celková očekávaná hodnota pro zapojení. To by mělo zahrnovat všechny poplatky za software a služby, ale ne hardwarové náklady. Nezapomeňte vybrat příslušnou měnu.
-- **Hodnota řešení** : celková hodnota cloudového řešení, které se bude používat pro obchod. Nezapomeňte zahrnout všechny náklady spojené s poplatky za software a údržbu, ale Nezahrnovat nenávratové položky, poplatky za vlastní nastavení nebo přímo přidružené licenční poplatky za CSP placené Microsoftem.
-- **Nasazeno** : vyberte **Azure** nebo **jiný** .
-- **Kde bude řešení nasazeno?** : vyberte **tenanta zákazníka** nebo **partnerský tenant** .
-- **Počáteční datum smlouvy** : datum zahájení smlouvy.
-- **Datum ukončení smlouvy** : Pokud bude smlouva ukončena na konkrétní datum, vyberte **má datum ukončení** a zadejte datum. Pokud ne, vyberte možnost **trvalá** .
-- **Datum podpisu smlouvy** : datum, kdy byl poslední kontrakt podepsán vaší organizací a zákazníkem.
-- **Kontakt na registraci** : **křestní jméno** , **příjmení** , **telefonní číslo** a **e-mail** pro osobu ve vaší organizaci, které můžeme kontaktovat, pokud potřebujeme další podrobnosti o jakékoli z informací, které tady poskytneme.
+- **Podrobnosti o zákazníkovi**: zadejte **název společnosti** pro zákazníka a vyberte svou **zemi/oblast**. Pak zadejte své **město** a **kraj**.
+- **Řešení**: vyberte řešení, které se bude používat pro obchod. Pokud nevidíte správné řešení v seznamu, obraťte se na podporu.
+- **Typ kontraktu**: Určete, jestli se jedná o **Nový** kontrakt nebo **obnovení** předchozí smlouvy.
+- **Celková hodnota kontraktu**: celková očekávaná hodnota pro zapojení. To by mělo zahrnovat všechny poplatky za software a služby, ale ne hardwarové náklady. Nezapomeňte vybrat příslušnou měnu.
+- **Hodnota řešení**: celková hodnota cloudového řešení, které se bude používat pro obchod. Nezapomeňte zahrnout všechny náklady spojené s poplatky za software a údržbu, ale Nezahrnovat nenávratové položky, poplatky za vlastní nastavení nebo přímo přidružené licenční poplatky za CSP placené Microsoftem.
+- **Nasazeno**: vyberte **Azure** nebo **jiný**.
+- **Kde bude řešení nasazeno?**: vyberte **tenanta zákazníka** nebo **partnerský tenant**.
+- **Počáteční datum smlouvy**: datum zahájení smlouvy.
+- **Datum ukončení smlouvy**: Pokud bude smlouva ukončena na konkrétní datum, vyberte **má datum ukončení** a zadejte datum. Pokud ne, vyberte možnost **trvalá**.
+- **Datum podpisu smlouvy**: datum, kdy byl poslední kontrakt podepsán vaší organizací a zákazníkem.
+- **Kontakt na registraci**: **křestní jméno**, **příjmení**, **telefonní číslo** a **e-mail** pro osobu ve vaší organizaci, které můžeme kontaktovat, pokud potřebujeme další podrobnosti o jakékoli z informací, které tady poskytneme.
 
-Po dokončení všech sekcí stránky vyberte možnost **Registrovat** . Registrace do obchodu se pak přesune **na stránku probíhá** . Společnost Microsoft pak zkontroluje informace, které jste zadali.
+Po dokončení všech sekcí stránky vyberte možnost **Registrovat**. Registrace do obchodu se pak přesune **na stránku probíhá** . Společnost Microsoft pak zkontroluje informace, které jste zadali.
 
 Pokud obchod vznikl z odkazu a ještě jste ho ještě nezaregistrovali, uvidíte, že je uvedený na stránce **požadována akce** . Tady se zobrazují i registrace, které se vytvořily a zaregistrovaly, ale vyžadují další aktualizace. Pomocí filtrů můžete zobrazit jenom **neúplné** nebo **Aktualizovat požadované** registrace obchodu.
 
 ## <a name="viewing-active-and-closed-deal-registrations"></a>Zobrazení aktivních a uzavřených registrací zakázek
 
-Nové, aktivní a uzavřené registrace koupě můžete zkontrolovat na různých stránkách v části **referenčních > registraci koupek** .
+Nové, aktivní a uzavřené registrace koupě můžete zkontrolovat na různých stránkách v části **referenčních > registraci koupek**.
 
 ### <a name="action-required"></a>Požadovaná akce
 

@@ -65,13 +65,13 @@ Pokud se materiály, které jste přiložili k vaší žádosti o pobídku spolu
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. V části **pobídky** vyberte **Správa souběžného řízení** .
+2. V části **pobídky** vyberte **Správa souběžného řízení**.
 
 3. Vyberte žádost o pobídku spolupráce, kterou chcete rozporovat. Otevře se stránka deklarace identity na co-op.
 
-4. V dolní části stránky vyberte **Rozporovat** .
+4. V dolní části stránky vyberte **Rozporovat**.
 
-Tým pro ověřování žádostí o pobídky spolupráce vaši žádost během pěti pracovních dnů zkontroluje. Během této doby se bude zobrazovat stav **Rozporováno** . Můžeme vás kontaktovat s žádostí o další informace. Po dokončení kontroly tým pro ověřování aktualizuje stav na **Schváleno** , **Zamítnuto** nebo **Vyžaduje se akce partnera** .
+Tým pro ověřování žádostí o pobídky spolupráce vaši žádost během pěti pracovních dnů zkontroluje. Během této doby se bude zobrazovat stav **Rozporováno**. Můžeme vás kontaktovat s žádostí o další informace. Po dokončení kontroly tým pro ověřování aktualizuje stav na **Schváleno**, **Zamítnuto** nebo **Vyžaduje se akce partnera**.
 
 ## <a name="next-steps"></a>Další kroky
 
