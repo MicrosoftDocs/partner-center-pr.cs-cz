@@ -1,7 +1,7 @@
 ---
 title: Fakturace plánu Azure – & soubory rekognoskaci na faktuře
 ms.topic: article
-ms.date: 07/02/2020
+ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Naučte se, jak získat přístup ke strukturám souborů faktur a odsouhlasení souvisejících s fakturací za plán Azure.
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534688"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658429"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nové obchodní prostředí v CSP – Fakturace Azure 
 
@@ -46,7 +46,7 @@ Správce globálního správce nebo fakturace vaší společnosti obdrží e-mai
 
 Přístup k souboru faktury a odsouhlasení:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/) pro Partnerské centrum.
 
 2. V nabídce partnerského centra vyberte **fakturace**.
 
@@ -140,9 +140,7 @@ Přístup k souboru faktury a odsouhlasení:
 
 Ceny služeb Azure v rámci plánu Azure budou platit v USD a budou se fakturovat v přiřazené měně země zákazníka. Pokud fakturační měna není USD, zobrazí se na poslední stránce faktury použitá sazba za cizí Exchange (FX). Sazby za FX se určují měsíčně a platí pro následující fakturu. Úplný seznam měn za země najdete v části [Nová obchodní oddělení nabídky dostupnost země a měna zákazníka](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft použije Thomson Reuters k určení sazeb za FX, které se používají k určení cenové měny pro převod zúčtovací měny. Sazby za FX budou aktualizovány a k dispozici v den před prvním dnem v měsíci, pro které se vztahují.
-
-**Příklad**: poplatky za využití pro období služby od 1. srpna 31 se budou fakturovat pomocí sazby FX publikované dne 31. července. Tyto poplatky se zobrazí na faktuře z září a na poslední stránce faktury se zaznamená sazba na FX.
+Microsoft dodržuje při konverzi burzovní sklad s Londýn. Používáme směnný kurz, který se rovná směnnému kurzu zaznamenanému za poslední sekundu posledního pracovního dne v měsíci na burze cenných papírů v Londýně. Sazby za FX budou aktualizovány a k dispozici v den před prvním dnem v měsíci, pro které se vztahují.
 
 ## <a name="azure-reservations"></a>Rezervace Azure
 

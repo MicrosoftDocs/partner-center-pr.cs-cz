@@ -1,7 +1,7 @@
 ---
 title: Další informace o pokročilých specializacích
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Posílit obchodní profil v adresáři partnerů Microsoftu. Seznamte se s pokročilými specializacemi, které můžete dosáhnout spolu se stávajícími zlatými a Stříbrnémi kompetencemi.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204015"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658395"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Získejte pokročilou specializaci, která prezentuje vaše ověřené možnosti.
 
@@ -45,6 +45,7 @@ Každá Pokročilá specializace odpovídá oblasti řešení:
 
 Rozšířené specializace **Azure** zahrnují:
 
+- Analýza na Microsoft Azure
 - Migrace datových skladů do Microsoft Azure
 - Kubernetes v Microsoft Azure
 - Migrace pro Linux a open source databáze na Microsoft Azure
