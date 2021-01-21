@@ -11,7 +11,7 @@ ms.localizationpriority: high
 ms.date: 01/04/2021
 ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
 ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 01/19/2021
 ms.locfileid: "98571648"

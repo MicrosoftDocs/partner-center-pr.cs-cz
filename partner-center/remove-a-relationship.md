@@ -16,48 +16,48 @@ ms.contentlocale: cs-CZ
 ms.lasthandoff: 08/19/2020
 ms.locfileid: "92527152"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a><span data-ttu-id="3992d-103">Odebrání vztahu se zákazníkem na úrovni prodejce v Partnerském centru</span><span class="sxs-lookup"><span data-stu-id="3992d-103">How to remove a reseller relationship with a customer in Partner Center</span></span>
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a><span data-ttu-id="78ba8-103">Odebrání vztahu se zákazníkem na úrovni prodejce v Partnerském centru</span><span class="sxs-lookup"><span data-stu-id="78ba8-103">How to remove a reseller relationship with a customer in Partner Center</span></span>
 
-<span data-ttu-id="3992d-104">**Platí pro**</span><span class="sxs-lookup"><span data-stu-id="3992d-104">**Applies to**</span></span>
+<span data-ttu-id="78ba8-104">**Platí pro**</span><span class="sxs-lookup"><span data-stu-id="78ba8-104">**Applies to**</span></span>
 
-- <span data-ttu-id="3992d-105">Partnerské centrum</span><span class="sxs-lookup"><span data-stu-id="3992d-105">Partner Center</span></span>
+- <span data-ttu-id="78ba8-105">Partnerské centrum</span><span class="sxs-lookup"><span data-stu-id="78ba8-105">Partner Center</span></span>
 
-<span data-ttu-id="3992d-106">Tento článek popisuje, jak odebrat vztah prodejce k zákazníkovi v partnerském centru.</span><span class="sxs-lookup"><span data-stu-id="3992d-106">This article describes how to remove a reseller relationship with a customer in Partner Center.</span></span>
+<span data-ttu-id="78ba8-106">Tento článek popisuje, jak odebrat vztah prodejce k zákazníkovi v partnerském centru.</span><span class="sxs-lookup"><span data-stu-id="78ba8-106">This article describes how to remove a reseller relationship with a customer in Partner Center.</span></span>
 
-<span data-ttu-id="3992d-107">Přímé partnery nebo nepřímá zprostředkovatelé: Pokud už se zákazníkem nepracujete, můžete relaci odebrat v partnerském centru.</span><span class="sxs-lookup"><span data-stu-id="3992d-107">Direct partners or Indirect providers: if you're no longer transacting with a customer, you can remove the relationship in Partner Center.</span></span>
+<span data-ttu-id="78ba8-107">Přímé partnery nebo nepřímá zprostředkovatelé: Pokud už se zákazníkem nepracujete, můžete relaci odebrat v partnerském centru.</span><span class="sxs-lookup"><span data-stu-id="78ba8-107">Direct partners or Indirect providers: if you're no longer transacting with a customer, you can remove the relationship in Partner Center.</span></span>
 
-<span data-ttu-id="3992d-108">Odebrání vztahu má následující důsledky:</span><span class="sxs-lookup"><span data-stu-id="3992d-108">Removing a relationship has the following consequences:</span></span>
+<span data-ttu-id="78ba8-108">Odebrání vztahu má následující důsledky:</span><span class="sxs-lookup"><span data-stu-id="78ba8-108">Removing a relationship has the following consequences:</span></span>
 
-- <span data-ttu-id="3992d-109">Zákazník se odebere z vašeho seznamu zákazníků v Partnerském centru.</span><span class="sxs-lookup"><span data-stu-id="3992d-109">Removes the customer from your list of customers in Partner Center</span></span>
-- <span data-ttu-id="3992d-110">Odebere vás ze [seznamu dostupných kontaktů podpory](assign-support-contacts.md) pro vašeho zákazníka.</span><span class="sxs-lookup"><span data-stu-id="3992d-110">Removes you from the [list of available support contacts](assign-support-contacts.md) for your customer</span></span>
-- <span data-ttu-id="3992d-111">Zákazníkovi se odeberou delegovaná oprávnění správce.</span><span class="sxs-lookup"><span data-stu-id="3992d-111">Removes your delegation admin privileges for the customer</span></span>
-- <span data-ttu-id="3992d-112">Nebudete pro zákazníka moct provádět další nákupy.</span><span class="sxs-lookup"><span data-stu-id="3992d-112">Prevents you from making future purchases for the customer</span></span>
+- <span data-ttu-id="78ba8-109">Zákazník se odebere z vašeho seznamu zákazníků v Partnerském centru.</span><span class="sxs-lookup"><span data-stu-id="78ba8-109">Removes the customer from your list of customers in Partner Center</span></span>
+- <span data-ttu-id="78ba8-110">Odebere vás ze [seznamu dostupných kontaktů podpory](assign-support-contacts.md) pro vašeho zákazníka.</span><span class="sxs-lookup"><span data-stu-id="78ba8-110">Removes you from the [list of available support contacts](assign-support-contacts.md) for your customer</span></span>
+- <span data-ttu-id="78ba8-111">Zákazníkovi se odeberou delegovaná oprávnění správce.</span><span class="sxs-lookup"><span data-stu-id="78ba8-111">Removes your delegation admin privileges for the customer</span></span>
+- <span data-ttu-id="78ba8-112">Nebudete pro zákazníka moct provádět další nákupy.</span><span class="sxs-lookup"><span data-stu-id="78ba8-112">Prevents you from making future purchases for the customer</span></span>
 
-## <a name="how-to-remove-a-relationship"></a><span data-ttu-id="3992d-113">Jak odebrat relaci</span><span class="sxs-lookup"><span data-stu-id="3992d-113">How to remove a relationship</span></span>
+## <a name="how-to-remove-a-relationship"></a><span data-ttu-id="78ba8-113">Jak odebrat relaci</span><span class="sxs-lookup"><span data-stu-id="78ba8-113">How to remove a relationship</span></span>
 
-<span data-ttu-id="3992d-114">Pokud chcete relaci odebrat, budete muset zrušit rezervace rezervovaných instancí Azure, zrušit nákupy softwaru a všechny zbývající aktivní odběry pozastavit jako první.</span><span class="sxs-lookup"><span data-stu-id="3992d-114">To remove the relationship, you'll need to cancel Azure RI reservations, cancel software purchases, and suspend any remaining active subscriptions first.</span></span>
+<span data-ttu-id="78ba8-114">Pokud chcete relaci odebrat, budete muset zrušit rezervace rezervovaných instancí Azure, zrušit nákupy softwaru a všechny zbývající aktivní odběry pozastavit jako první.</span><span class="sxs-lookup"><span data-stu-id="78ba8-114">To remove the relationship, you'll need to cancel Azure RI reservations, cancel software purchases, and suspend any remaining active subscriptions first.</span></span>
 
-1. <span data-ttu-id="3992d-115">**Pozastaví všechna aktivní předplatná.**</span><span class="sxs-lookup"><span data-stu-id="3992d-115">**Suspend any active subscriptions.**</span></span>
+1. <span data-ttu-id="78ba8-115">**Pozastaví všechna aktivní předplatná.**</span><span class="sxs-lookup"><span data-stu-id="78ba8-115">**Suspend any active subscriptions.**</span></span>
 
-   1. <span data-ttu-id="3992d-116">V partnerském centru navštivte **zákazníky** a vyberte zákazníka.</span><span class="sxs-lookup"><span data-stu-id="3992d-116">From the Partner Center, go to **Customers** and select a customer</span></span>
+   1. <span data-ttu-id="78ba8-116">V partnerském centru navštivte **zákazníky** a vyberte zákazníka.</span><span class="sxs-lookup"><span data-stu-id="78ba8-116">From the Partner Center, go to **Customers** and select a customer</span></span>
 
-   2. <span data-ttu-id="3992d-117">V části **předplatná** vyberte předplatné.</span><span class="sxs-lookup"><span data-stu-id="3992d-117">Under **Subscriptions** , select a subscription.</span></span>
+   2. <span data-ttu-id="78ba8-117">V části **předplatná** vyberte předplatné.</span><span class="sxs-lookup"><span data-stu-id="78ba8-117">Under **Subscriptions**, select a subscription.</span></span>
 
-   3. <span data-ttu-id="3992d-118">Vybrat **pozastaveno**</span><span class="sxs-lookup"><span data-stu-id="3992d-118">Select **Suspended**</span></span>
+   3. <span data-ttu-id="78ba8-118">Vybrat **pozastaveno**</span><span class="sxs-lookup"><span data-stu-id="78ba8-118">Select **Suspended**</span></span>
 
-   4. <span data-ttu-id="3992d-119">Opakujte tyto kroky pro každé aktivní předplatné.</span><span class="sxs-lookup"><span data-stu-id="3992d-119">Repeat these steps for each active subscription.</span></span>
+   4. <span data-ttu-id="78ba8-119">Opakujte tyto kroky pro každé aktivní předplatné.</span><span class="sxs-lookup"><span data-stu-id="78ba8-119">Repeat these steps for each active subscription.</span></span>
 
-2. <span data-ttu-id="3992d-120">**Odeberte vztah v partnerském centru:**</span><span class="sxs-lookup"><span data-stu-id="3992d-120">**Remove the relationship in Partner Center:**</span></span>
+2. <span data-ttu-id="78ba8-120">**Odeberte vztah v partnerském centru:**</span><span class="sxs-lookup"><span data-stu-id="78ba8-120">**Remove the relationship in Partner Center:**</span></span>
 
-   <span data-ttu-id="3992d-121">a.</span><span class="sxs-lookup"><span data-stu-id="3992d-121">a.</span></span> <span data-ttu-id="3992d-122">V partnerském centru klikněte na **zákazníci** a vyberte zákazníka.</span><span class="sxs-lookup"><span data-stu-id="3992d-122">From the Partner Center, go to **Customers** and select a customer.</span></span>
+   <span data-ttu-id="78ba8-121">a.</span><span class="sxs-lookup"><span data-stu-id="78ba8-121">a.</span></span> <span data-ttu-id="78ba8-122">V partnerském centru klikněte na **zákazníci** a vyberte zákazníka.</span><span class="sxs-lookup"><span data-stu-id="78ba8-122">From the Partner Center, go to **Customers** and select a customer.</span></span>
 
-   <span data-ttu-id="3992d-123">b.</span><span class="sxs-lookup"><span data-stu-id="3992d-123">b.</span></span> <span data-ttu-id="3992d-124">Vyberte **účet** .</span><span class="sxs-lookup"><span data-stu-id="3992d-124">Select the **Account** .</span></span>
+   <span data-ttu-id="78ba8-123">b.</span><span class="sxs-lookup"><span data-stu-id="78ba8-123">b.</span></span> <span data-ttu-id="78ba8-124">Vyberte **účet**.</span><span class="sxs-lookup"><span data-stu-id="78ba8-124">Select the **Account**.</span></span>
 
-   <span data-ttu-id="3992d-125">c.</span><span class="sxs-lookup"><span data-stu-id="3992d-125">c.</span></span> <span data-ttu-id="3992d-126">Vyberte možnost **odebrat vztah prodejce** .</span><span class="sxs-lookup"><span data-stu-id="3992d-126">Select **Remove reseller relationship** .</span></span>
+   <span data-ttu-id="78ba8-125">c.</span><span class="sxs-lookup"><span data-stu-id="78ba8-125">c.</span></span> <span data-ttu-id="78ba8-126">Vyberte možnost **odebrat vztah prodejce**.</span><span class="sxs-lookup"><span data-stu-id="78ba8-126">Select **Remove reseller relationship**.</span></span>
 
    > [!NOTE]
-   > <span data-ttu-id="3992d-127">Pokud jsou nějaké odběry stále aktivní, odkaz **odebrat vztah prodejce** bude neaktivní.</span><span class="sxs-lookup"><span data-stu-id="3992d-127">If any subscriptions are still active, the **Remove reseller relationship** link will be inactive.</span></span>
+   > <span data-ttu-id="78ba8-127">Pokud jsou nějaké odběry stále aktivní, odkaz **odebrat vztah prodejce** bude neaktivní.</span><span class="sxs-lookup"><span data-stu-id="78ba8-127">If any subscriptions are still active, the **Remove reseller relationship** link will be inactive.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="3992d-128">Další kroky</span><span class="sxs-lookup"><span data-stu-id="3992d-128">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="78ba8-128">Další kroky</span><span class="sxs-lookup"><span data-stu-id="78ba8-128">Next steps</span></span>
 
-- [<span data-ttu-id="3992d-129">Vyžádat nebo znovu vytvořit relaci se zákazníkem</span><span class="sxs-lookup"><span data-stu-id="3992d-129">Request or re-establish a relationship with a customer</span></span>](request-a-relationship-with-a-customer.md)
+- [<span data-ttu-id="78ba8-129">Vyžádat nebo znovu vytvořit relaci se zákazníkem</span><span class="sxs-lookup"><span data-stu-id="78ba8-129">Request or re-establish a relationship with a customer</span></span>](request-a-relationship-with-a-customer.md)
