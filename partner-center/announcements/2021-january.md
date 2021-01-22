@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571665"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685918"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -23,6 +23,92 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 oznámení 2021: leden
 
 2020 oznámení: [květen](2020-may.md)  |  [](2020-june.md)  |  [od 1](2020-july.md). června do  |  [](2020-august.md)  |  [září](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [prosinec](2020-december.md)  
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Změny nabídky Azure v cloudu, které souvisejí s novým prostředím Commerce pro Azure
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-21
+- Možnosti
+ 
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všichni partneři procházejí prostřednictvím programu Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Podrobnosti:
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>Nové prostředí pro obchod Azure v CSP
+
+Nové prostředí pro obchod Microsoft Commerce vytvoří pro zákazníky konzistentní a jednodušší možnosti nákupu a umožní jim digitální transformaci s větší flexibilitou při nákupu. Partneři hrají důležitou roli v cloudové cestě zákazníka bez ohledu na to, na jakých kanálech se zákazníci rozhodnou pracovat s Microsoftem. Po úplném spuštění bude aktualizovaná platforma a model pro Commerce, aby se partneři účastnili prodejních pohybů pro větší podnikové zákazníky i malým a středním firmám a aby partneři mohli rozšířit svoji účast na úspěšnosti zákazníků.
+
+Nové prostředí pro obchod Azure v programu Cloud Solution Provider rozšiřuje možnosti partnerů o sestavování a poskytování spravovaných služeb, dále rozšiřují zákaznickou základnu a zákazníkům při jejich digitální transformaci pomůžou.
+
+Nové prostředí pro obchod přináší následující výhody:
+
+- Zjednodušuje proces nákupu Azure pomocí plánu Azure.
+- Vytvoří lepší cenové zarovnání napříč kanály. Na základě zpětné vazby od zákazníků a partnerů budou nové prostředí Azure v rámci programu Cloud Solution Provider používat jeden ceník v USD a poskytuje zákazníkům a partnerům konzistentní ceny v globálním měřítku.
+- Snižuje počet překážek v akvizici zákazníků tím, že poskytuje nástroje, které zahrnují příslušné zásady správného řízení, prostředí pro zákazníky a zásady, aby je přesunuly do nového prostředí Azure v programu Cloud Solution Provider.
+- Umožňuje partnerům efektivněji spravovat své zákazníky díky využití funkcí, jako je Azure Lighthouse a Azure Cost Management. 
+- Rozbalí přístup k Azure Marketplace.
+
+Díky rozšiřování nového prostředí pro obchod s Azure jsme povolili nástroje pro přechod a vylepšili flexibilitu při správě Azure způsobem, který se přizpůsobí vyvíjejí se obchodním potřebám zákazníků, a pomáhat uživatelům při získávání nových nabídek Azure v programu Cloud Solution Provider. Podívejte se na Přehled nástrojů, které existují pro podporu přechodu k předplatným Azure pro zákazníky v programu Cloud Solution Provider.
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Nabídka programu poskytovatel Cloud Solution Provider v Azure (plán Azure)
+
+S novým prostředím pro obchod získají partneři přístup ke službám Azure podle tarifu průběžných plateb pro zákazníky podle smlouvy o zákaznících Microsoftu, a to prostřednictvím plánu Azure. Tento plán zjednodušuje možnosti nákupu tím, že umožňuje vytvořit několik předplatných Azure v rámci plánu Azure. V partnerském centru již není nutné odesílat samostatné objednávky na jedno předplatné Azure.
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Změny předchozí dostupnosti nabídky Azure v programu Cloud Solution Provider
+
+Jakmile jsme oznámili novou nabídku Azure v programu Cloud Solution Provider (plán Azure), oznamujeme partnerům, že předchozí nabídka a platforma Azure budou dál dostupné, společně s novým prostředím Azure, a že by před provedením jakýchkoli změn v předchozí nabídce Azure informovali partnery o šest měsíců předem.
+
+I když nová nabídka Azure v programu Cloud Solution Provider (plán Azure) poskytuje partnerům vylepšené prostředí, chceme dát partnerům čas na začlenění nových funkcí Azure se svými službami a jejich zákazníky na nové prostředí.
+
+Předchozí nabídka Azure bude mít tři fáze změny. V dnešní době sdílíme Další informace o těchto třech fázích.
+
+#### <a name="three-phases"></a>Tři fáze
+
+**Fáze 1 – od 21. července 2021**
+
+Ve fázi 1 budou všechny nové Azure Cloud Solution Provider program Business na nové nabídce plánu Azure. Použijí se následující pokyny:
+
+- U všech stávajících vztahů prodejců mezi partnery a zákazníky v programu Cloud Solution Provider se může stát, že si zákazník už koupil předchozí nabídku Azure, a zákazník může dál zakoupit předchozí nabídku Azure od tohoto partnera.
+- Předchozí nabídka Azure už nebude k dispozici pro nové partnery, kteří se v cloudu nepoužívají pro transakce.
+- Předchozí nabídka Azure už nebude k dispozici pro nové zákazníky, kteří se kupují prostřednictvím partnera v CSP.
+- U všech nových vztahů prodejců nebo nových zákaznických nákupů můžou partneři jenom v rámci nové nabídky Azure (plán Azure).
+- U všech stávajících vztahů prodejců mezi partnery a zákazníky se může stát, že zákazník ještě nezakoupil Azure dřív, a zákazník může zakoupit jenom novou nabídku Azure od tohoto partnera.
+
+**Fáze 2 – během kalendářního roku 2022**
+
+Ve fázi 2, která začínat během kalendářního roku 2022, se z předchozí nabídky Azure odebere motiv a příležitost pro partnerský marže. Počáteční datum fáze 2 budeme předem informovat partnerům o 6 měsíců.
+
+**Fáze 3 – datum TBD**
+
+Ve fázi 3 se všechny zbývající zákazníky předchozí nabídky Azure migrují na novou nabídku Azure v programu Cloud Solution Provider (plán Azure). Stejně jako v předchozích fázích budeme předem informovat o počátečním datu fáze 3 k partnerům 6 měsíců.
+
+#### <a name="partner-earned-credit-pec"></a>Získaný kredit partnera (PEC)
+
+S novým prostředím pro obchod se partneři uznávají za průběžně přidávané služby prostřednictvím modelu realizovaného kreditu partnerů. Partneři, kteří získali kredity, se zaměřuje na řízení úspěchů zákazníků prostřednictvím služeb přidaných hodnot, které generují udržitelnou ziskovost.
+
+### <a name="next-steps"></a>Další kroky:
+
+Partneři se velmi doporučuje seznámit s následujícími zdroji:
+
+#### <a name="partner-earned-credit-pec"></a>Získaný kredit partnera (PEC)
+
+- [Principy získaného kreditu pro partnery (Průvodce) (Microsoft. com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [Získaný kredit partnerů – přehled – Partnerská centra | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [Získaný kredit partnerů pro spravované služby – partnerské Centrum | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [Role, oprávnění pro partnery, kteří získali kredit – partnerské Centrum | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Školicí modul na vyžádání na kredit získaný partnerem v Azure v modulech CSP (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>Nové prostředí pro obchod
+
+- [Galerie prostředků partnerů: nové prostředí pro obchod v CSP pro Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>Máte otázky?
+
+Všechny otázky související s tímto oznámením vám poskytne [Podpora partnerského centra](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Software pro Cloud Solution Provider je teď všeobecně dostupný pro program.
