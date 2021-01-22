@@ -1,7 +1,7 @@
 ---
 title: Použít pro pokročilé specializace
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Posílit obchodní profil v adresáři partnerů Microsoftu. Naučte se používat Partnerské centrum k aplikování a získání pokročilých specializací.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440056"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658412"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Použití partnerského centra k použití pro pokročilou specializaci a kontrolu jejich stavu
 
@@ -37,7 +37,7 @@ Pro přístup k této oblasti musíte mít udělenou roli **správce účtu MPN*
 
 ### <a name="follow-these-steps-to-access-this-area"></a>Pro přístup k této oblasti použijte tento postup:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 
 2. V nabídce partnerského centra klikněte na část **MPN** a potom na **adv. specializace**. Nabídka se rozbalí a zobrazí se všechny rozšířené specializace, které máte k dispozici.
 
@@ -60,16 +60,17 @@ Obě úlohy se dají provádět v partnerském centru.
 
 Mezi pokročilé specializace, které vyžadují audit s auditorem jiného výrobce, patří:
 
-- Migrace datového skladu na Microsoft Azure
-- Kubernetes na Microsoft Azure
-- Migrace pro Linux a open source Database na Microsoft Azure
-- Virtuální počítač Microsoft Windows
-- Modernizace webových aplikací na Microsoft Azure
-- Migrace Windows serveru a SQL Server do Microsoft Azure
+- Analýza na Microsoft Azure
+- Migrace datových skladů do Microsoft Azure
+- Kubernetes v Microsoft Azure
+- Migrace linuxových a open source databází do Microsoft Azure
+- Microsoft Windows Virtual Desktop
+- Modernizace webových aplikací s využitím Microsoft Azure
+- Migrace Windows Serveru a SQL Serveru do Microsoft Azure
 
 Mezi pokročilé specializace, které vyžadují odkazy na zákazníky, patří:
 
-- Správa přijetí a změny
+- Přechod a správa změn
 - Volání pro Microsoft Teams
 - Schůzky a místnosti pro schůzky Microsoft Teams
 - SAP v Azure
@@ -85,7 +86,7 @@ Kromě jejich vlastních požadavků musí některé pokročilé specializace ta
 
 Pak postupujte podle těchto kroků a naplánujte audit v partnerském centru:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 
 2. V nabídce partnerského centra klikněte na část **MPN** a potom na **adv. specializace**. Nabídka se rozbalí a zobrazí se všechny rozšířené specializace, které máte k dispozici.
 
@@ -104,7 +105,7 @@ Kromě jejich vlastních požadavků musí některé pokročilé specializace ta
 
 Pak postupujte podle těchto kroků a poskytněte odkazy na zákazníky v partnerském centru:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 
 2. V nabídce partnerského centra klikněte na část **MPN** a potom na **adv. specializace**. Nabídka se rozbalí a zobrazí se všechny rozšířené specializace, které máte k dispozici.
 
