@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705024"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717824"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -23,6 +23,38 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu z
 oznámení 2021: leden
 
 2020 oznámení: [květen](2020-may.md)  |  [](2020-june.md)  |  [od 1](2020-july.md). června do  |  [](2020-august.md)  |  [září](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [prosinec](2020-december.md)  
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> Změny protokolu auditu partnerského centra pro zahrnutí dvou nových typů operací pro DAP
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-25
+- Možnosti
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všichni partneři CSP
+
+### <a name="details"></a>Podrobnosti
+
+Informování dnešního dne oznamujeme, že jsme v protokolech aktivit partnerského centra nastavili dva nové typy operací, které těmto partnerům poskytují přehled o partnerech, když zákazník schválí nebo odebere vztahy delegovaného správce.
+
+Níže jsou uvedené nové typy operací:
+
+"typem operace OperationType": "dap_admin_relationship_terminated"
+
+"typem operace OperationType": "dap_admin_relationship_approved",
+
+### <a name="next-steps"></a>Další kroky
+
+- Využijte nové typy operací ke sledování událostí, když ho zákazník schválil a ukončil.  
+- [Získání záznamu aktivity partnerského centra – vývojář aplikace pro partnery | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Prostředky auditování – vývojář aplikací pro partnerských Center | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+
+### <a name="questions"></a>Máte otázky?
+
+Jakékoli další otázky vám poskytne příslušné komunity zprostředkovatele CSP pro Yammer.
 
 ________________
 ## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Změny nabídky Azure v cloudu, které souvisejí s novým prostředím Commerce pro Azure
@@ -130,7 +162,7 @@ Všimněte si také, že v dnešní době bylo vyřazení softwaru partnerského
 
 ### <a name="next-steps"></a>Další kroky
 
-- Stáhněte si seznam ceníků **trvalého softwaru CSP** v části **software** stránky [ceny &](https://partnercenter.microsoft.com/en-us/pcv/sales) služby partner Center. Seznam nově přidaných produktů a geografických oblastí najdete [tady](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+- Stáhněte si seznam ceníků **trvalého softwaru CSP** v části **software** stránky [ceny &](https://partnercenter.microsoft.com/pcv/sales) služby partner Center. Seznam nově přidaných produktů a geografických oblastí najdete [tady](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 - Přečtěte si [článek Microsoft 365 centra pro správu s trvalou licencí software a produkt, Stáhněte si článek s postupem](https://go.microsoft.com/fwlink/p/?linkid=2152525) a sdílejte je s vašimi zákazníky, když jsou připraveni ke stažení softwaru a licenčních klíčů.
 - Projděte si [trvalá softwaru v materiálech připravenosti programu poskytovatele Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Pomocí této [mapy připravenosti](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) můžete rychle najít správné informace pro vaši roli.
 
@@ -516,7 +548,7 @@ Microsoft oznamuje nadcházející nové změny nabídky Dynamics 365, které se
 
 Od 1. února 2021 vytvoří Microsoft novou nabídku "Další odpověď" s nárokem na odezvu 1 – k nahrazení stávající nabídky odpověďmi na otázky průzkumu 2-K, konec prodeje, který bude od 1. února 2021.
 
-Podrobnosti o SKU najdete v dokumentu karta "Customer Voice Další ODP" v [dokumentu Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) . Další informace najdete na [domovské stránce hlasu pro zákazníky Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/customer-voice/overview/) .
+Podrobnosti o SKU najdete v dokumentu karta "Customer Voice Další ODP" v [dokumentu Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) . Další informace najdete na [domovské stránce hlasu pro zákazníky Microsoft Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/) .
 
 **Přehled služeb zákazníkům Dynamics 365 – konec životního cyklu**
 
