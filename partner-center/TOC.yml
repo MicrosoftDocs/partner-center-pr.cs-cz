@@ -110,6 +110,9 @@
     - name: Smlouva s partnerem Microsoftu – Poskytovatelé CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Jak nepřímá poskytovatelé můžou svým prodejcům přispět.
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: Požadavky na přímé partnery CSP
       href: direct-partner-new-requirements.md
       displayName: 'indirect, reseller, csp'
