@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878796"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705007"
 ---
 # <a name="september-2020-announcements"></a>Oznámení ze září 2020
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu za září 2020.
 
-oznámení 2020: [Únorová](2020-february.md)  |  [March](2020-march.md)  |  červenec v[dubnu](2020-april.md).  |  [May](2020-may.md)  |  [června](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md) Dnem
+oznámení 2020: [Únorová](2020-february.md)  |  [](2020-march.md)  |  červenec v[dubnu](2020-april.md).  |  [](2020-may.md)  |  [června](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md) Dnem
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>Licenční kód pro software partnerského centra a stažení oznámení o splnění
@@ -36,7 +36,7 @@ Všichni partneři Cloud Solution partner (CSP) – pro transakce v nabídce sof
 
 ### <a name="details"></a>Podrobnosti
 
-Partneři v dnešní době můžou použít buď Partnerské centrum, nebo centrum pro správu Microsoft 365 ke stažení softwaru a splnění licenčního klíče pro objednávky softwaru CSP. Od **19. ledna 2021** se funkce plnění softwaru partnerského centra a licenčního klíče vyřadí a partneři budou k tomuto účelu používat výhradně **centrum pro správu Microsoft 365** . Stránka software pro zákazníky v partnerském centru bude obsahovat "přímý odkaz" na centrum pro správu Microsoft 365, kde můžete získat licence zákazníků a stažení softwaru. Díky tomu je zajištěno nejbezpečnější a efektivní prostředí pro zákazníky.
+Partneři v dnešní době můžou použít buď Partnerské centrum, nebo centrum pro správu Microsoft 365 ke stažení softwaru a splnění licenčního klíče pro objednávky softwaru CSP. Od **19. ledna 2021** se funkce plnění softwaru partnerského centra a licenčního klíče vyřadí a partneři budou zákazníkům nasměrovat používání **centra pro správu Microsoft 365** výhradně pro tento účel. Stránka software pro zákazníky v partnerském centru bude obsahovat "přímý odkaz" na centrum pro správu Microsoft 365, kde můžete zákazníky nasměrovat tak, aby získali licence zákazníků a stažení softwaru. Díky tomu je zajištěno nejbezpečnější a efektivní prostředí pro zákazníky.
 
 Licenční klíče softwaru a odkazy ke stažení jsou cenné a vysoce vyhledané – po prostředcích duševního vlastnictví. Pokud dojde k úniku, můžou se rychle vyčerpat z jejich aktivačních limitů a způsobit negativní činnost zákazníků a partnerů. Proto je důležité, aby partneři používali nejbezpečnější technologii a osvědčené postupy, které vám pomohou ochránit tyto cenné prostředky a chránit jejich zákazníky.
 
@@ -94,7 +94,7 @@ ________________
 - K nástroji pro přechod budou mít přístup partneři s přímým přístupem CSP a nepřímá zprostředkovatelé.  
 - Prodejci mohou spolupracovat s jejich nepřímým zprostředkovatelem. Další informace o poskytovatelích jsou k dispozici v rámci [těchto prostředků.](https://partner.microsoft.com/resources/collection/transition-tool-azure-subscriptions-new-commerce-experience-csp#/) 
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Od 30. září 2020 se vytvoří nový nástroj pro přechod, který automatizuje přenos předplatných Azure zákazníka mezi partnery účastnícími se programu CSP pro nové prostředí pro obchod s Azure (Azure Plan).
 
@@ -177,7 +177,7 @@ Pokud máte dotazy k tomuto oznámení, obraťte se na [podporu partnerského ce
 
 Všichni partneři procházejí prostřednictvím programu Cloud Solution Provider (CSP) v partnerském centru. 
 
-### <a name="summary"></a>Shrnutí 
+### <a name="summary"></a>Souhrn 
 
 Aktualizace se provedou v definicích metrik zveřejněných v rozhraních API použití CSP pro O365, které partnerům pomůžou změřit využití O365. 
 
@@ -220,13 +220,13 @@ ________________
 
 Cloudové partnery pro Rusko (multilicencí), Microsoft Business Solutions (MBS) a poskytovatelé kanálů Cloud Solution Provider (CSP)
 
-### <a name="summary"></a>Shrnutí 
+### <a name="summary"></a>Souhrn 
 
 Změny DPH zavedené ruským federálním zákonem #265 – FZ budou implementovány s účinností od 1. ledna 2021.
 
 ### <a name="details"></a>Podrobnosti
 
-Ruské federální zákony #265 – FZ od 31. července 2020 upraveno subsec. 26 z. 2 z umění. 149 daňového kódu Ruské federace. V souladu se změnami od ledna 01, 2021 v Rusku, udělování exkluzivních oprávnění IP pro software a elektronické databáze, které nejsou **zahrnuté** do jednotného registru **ruských** softwarových a elektronických databází, a také udělení oprávnění k použití pro takový software a databáze (včetně aktualizací a upgradů) **will no longer be VAT-exempt** 
+Ruské federální zákony #265 – FZ od 31. července 2020 upraveno subsec. 26 z. 2 z umění. 149 daňového kódu Ruské federace. V souladu se změnami od ledna 01, 2021 v Rusku, udělování exkluzivních oprávnění IP pro software a elektronické databáze, které nejsou **zahrnuté** do jednotného registru **ruských** softwarových a elektronických databází, a také udělení oprávnění k použití pro takový software a databáze (včetně aktualizací a upgradů)  
 
 **Informujte se prosím o tom, že po výše uvedených změnách se DPH podle sazby definované platnými zákony přidá do MIOL do všech nehmotných produktů Microsoftu v Rusku.**
 
@@ -252,7 +252,7 @@ ________________
 
 Všechny partnerské organizace v Microsoft Partner Network. 
 
-### <a name="summary"></a>Shrnutí 
+### <a name="summary"></a>Souhrn 
 
 Přehledy partnerského centra budou brzy nahrazovat vyřazením nástroje pro vytváření sestav **MyInsights** . Služby partner Center Insights nabízí bohatší vizuály, další možnosti vytváření sestav přehledné a klíčové ukazatele výkonu, které pokrývají zákazníky, odběry, využití licencí, výkon prodejců, školení, kompetence a výhody. Pomocí těchto inteligentních přehledů můžete jasně pochopit podnikání s Microsoftem a zajistit rozhodování na základě dat. Začněte tím, že v navigační nabídce v partnerském centru vyberete **přehledy** .
 
@@ -289,7 +289,7 @@ ________________
 
 Přímé partnery a nepřímá poskytovatelé, kteří se účastní programu CSP, kteří používají sadu SDK pro partnerských Center.
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Od září 22 2020 mohou partneři začít stahovat verzi sady .NET Standard SDK Microsoft Partner Center .NET SDK v 1.16.2 spolu s aktualizovanými ukázkami služby Public **partner Center SDK GitHub**.
 
@@ -330,7 +330,7 @@ ________________
 
 Pole a partneři Microsoftu 
 
-### <a name="summary"></a>Shrnutí 
+### <a name="summary"></a>Souhrn 
 
 Azure SQL Edge, který přináší nejbezpečnější nejbezpečnější datový stroj Microsoft SQL, aby Internet věcí (IoT) brány a hraniční zařízení, je teď k dispozici.
 
@@ -361,7 +361,7 @@ ________________
 
 Všichni partneři procházejí prostřednictvím programu Cloud Solution Provider (CSP) v partnerském centru. 
 
-### <a name="summary"></a>Shrnutí 
+### <a name="summary"></a>Souhrn 
 
 Aktualizace budou provedená v rozhraních API pro použití poskytovatele CSP ve službě O365, aby mohli partneři změřit využití O365.
 
@@ -484,7 +484,7 @@ ________________
 
 Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Nové skladové jednotky, které zákazníkům pomohou využít sílu [projektu Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) a [projekt Turing](https://msturing.org/) , budou k dispozici pro Transact od 1. října 2020.
 
@@ -534,7 +534,7 @@ ________________
 
 Všichni partneři
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Prostředí podpory pro partnery je vylepšené a vylepšili jsme tak vylepšení obsahu samoobslužné pomoci a zjednodušeného procesu odesílání online lístků.
 
@@ -569,7 +569,7 @@ ________________
 
 Partneři s podporou řešení Microsoft Dynamics 365
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Nadcházející nabídky pro zákazníky s Microsoft Dynamics 365 zahrnují vydání operací Microsoft Projectu a další prostředí pro firmy Business Central.
 
@@ -623,7 +623,7 @@ ________________
 
 Partneři poskytovatele Cloud Solution Provider (CSP), včetně přímých zprostředkovatelů, nepřímých poskytovatelů a nepřímých prodejců
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Společnost Microsoft se zajímá, že volající plán bude k dispozici na následujících nových trzích od 1. října 2020: Rakouska, Dánska, Itálie, Portugalska, Švédska a Švýcarska. 
 

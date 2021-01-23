@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182558"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705041"
 ---
 # <a name="december-2020-announcements"></a>Oznámení z prosince 2020
 
@@ -31,7 +31,7 @@ ________________
 - Datum: 2020-12-22
 - Nabídky
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Nepoužívané souběžné fondy pro dobu využití FY21 H1 (od 1 do 31. prosince 2020) se nasadí do doby použití FY21 H2 (1. června 2021).
 
@@ -67,7 +67,7 @@ ________________
 - Datum: 2020-12-22
 - Možnosti – vylepšuje zabezpečení & dodržování předpisů
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Microsoft převede všechny e-mailové zpracování podpisů z DocuSign na symbol Adobe.
 
@@ -195,7 +195,7 @@ ______________
 - Datum: 2020-12-17
 - Nabídky/trhy
  
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 V rámci našeho závazku pomáhat partnerům a zákazníkům, kteří provozují své podnikání na základě vztahu důvěryhodnosti, si vyžádáme další informace o zákaznících, které platí na konci března 2021.
 
@@ -224,7 +224,7 @@ Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující
     - Spojené arabské emiráty
     - Venezuela
 
-Partneři, kteří splňují kritéria, budou muset odeslat **platný identifikátor** zákazníka (označovaný také jako **DIČ organizace** zákazníka) a **telefonní číslo** při příští aktualizaci nebo vytvoření předplatného pro daného zákazníka. Tito partneři můžou také zadat volitelné **prostřední jméno** pro zákazníka.
+Partneři, kteří splňují kritéria, budou muset odeslat **platný identifikátor** zákazníka (označovaný také jako **DIČ organizace** zákazníka) a **telefonní číslo** při příští aktualizaci nebo vytvoření předplatného pro daného zákazníka. Tito partneři můžou volitelně zadat také **druhé jméno** zákazníka.
 
 Partneři, kteří pracují s novými nebo stávajícími zákazníky v následujících zemích, už jsou připojení k předchozí verzi v listopadu 2020.
 
@@ -264,7 +264,7 @@ ______________
 - Datum: 2020-12-17
 - Podpora růstu vaší firmy
  
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Toto připomenutí vychází z 19. ledna 2021 všichni partneři CSP budou moci prodávat komerční trvalé licence na software. Zavádíme také nové produkty a geografické oblasti.
 
@@ -280,7 +280,7 @@ K následujícímu datu dojde také:
 
 - V partnerském centru se znovu zveřejní seznam ceníků trvalého softwaru CSP. Najdete ho v části **software** [nabídky & ceny > prodeje](https://partnercenter.microsoft.com/pcv/sales) na webu, která obsahuje další produkty a geografické oblasti. Všechny podrobnosti najdete [tady](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- Funkce plnění softwaru partnerského centra a licenčního klíče se vyřadí – viz [oznámení](./2020-september.md#17) a partneři budou používat centrum pro správu Microsoft 365 výhradně pro tento účel. Tím zajistíte nejbezpečnější a efektivní prostředí pro zákazníky. Další informace o softwaru centra pro správu Microsoft 365 najdete v článku [Přehled](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [běžné úlohy](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)a [Možnosti plnění licenčního klíče](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Funkce plnění softwaru partnerského centra a licenčního klíče se vyřadí – viz [oznámení](./2020-september.md#17) a partneři budou zákazníkům nasměrovat používání centra pro správu Microsoft 365 výhradně pro tento účel. Tím zajistíte nejbezpečnější a efektivní prostředí pro zákazníky. Další informace o softwaru centra pro správu Microsoft 365 najdete v článku [Přehled](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [běžné úlohy](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)a [Možnosti plnění licenčního klíče](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Trvalé software v CSP
 
@@ -426,7 +426,7 @@ ______________
 - Datum: 2020-12-8
 - Nabídky/trhy
 
-### <a name="summary"></a>Shrnutí 
+### <a name="summary"></a>Souhrn 
 
 V tabulce ceníku na základě licence a seznamu nabídek v prosinci 2020 se nachází několik problémů.
 
@@ -485,7 +485,7 @@ ______________
 - Datum: 2020-12-3
 - Nabídky/trhy
 
-### <a name="summary"></a>Shrnutí 
+### <a name="summary"></a>Souhrn 
 
 Od 1. ledna 2021 začne Microsoft přecházet mezi partnery a zákazníky v USA na nový Microsoft 365 Business hlas pomocí nabídky plánu volání. Není vyžadována žádná akce partnera.
 
@@ -531,7 +531,7 @@ ______________
 
 Partneři prodávající akademické nabídky prostřednictvím programu Cloud Solution Provider
 
-### <a name="summary"></a>Shrnutí 
+### <a name="summary"></a>Souhrn 
 
 Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat kompatibilní, bezpečné a zabezpečené metody ověřování zákazníků pro účely transakcí akademických nabídek v programu Cloud Solution Provider. V rámci tohoto závazku zavádíme vylepšení rozhraní API partnerského centra a uživatelského rozhraní, které přináší lepší přehlednost a přehlednost procesu dozvíte ČSFD zákazníka, a také možnost zadat přesnější data, což bude zlepšit úspěšnost zákazníků dozvíte ČSFD. 
 

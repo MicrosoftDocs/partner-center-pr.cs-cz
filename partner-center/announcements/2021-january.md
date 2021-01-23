@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685918"
+ms.locfileid: "98705024"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -126,8 +126,7 @@ Všichni partneři CSP
 
 Informování [o tom, že dnes](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) oznamujeme, že komerční trvalé licence k softwaru jsou teď obecně dostupné všem PARTNERům CSP, aby je mohli prodávat. Seznam ceníků pro partnerský software partnerského centra CSP byl publikován a teď obsahuje další produkty a geografické oblasti.
 
-Všimněte si také, že v dnešní době bylo vyřazení softwaru partnerského centra a způsobu plnění licenčního klíče vyřazeno a že budou mít partneři a zákazníci k tomuto účelu k dispozici centrum pro správu Microsoft 365.
-Další podrobnosti a další kroky najdete níže.
+Všimněte si také, že v dnešní době bylo vyřazení softwaru partnerského centra a funkce plnění licenčního klíče vyřazeno a že partneři předávají zákazníkům odkaz na centrum pro správu Microsoft 365 pro tento účel. Další podrobnosti a další kroky najdete níže.
 
 ### <a name="next-steps"></a>Další kroky
 
