@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
-ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
+ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
+ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98166694"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "98759868"
 ---
 # <a name="what-is-microsoft-appsource"></a>Co je Microsoft AppSource?
 
@@ -46,7 +46,7 @@ Každý produkt dostupný v AppSource byl certifikován podle konkrétních krit
 
 Dodavatel softwaru definuje cenu, licenční smlouvu s koncovým uživatelem a zásady ochrany osobních údajů. Každá nabídka na AppSource obsahuje odkazy na licenční smlouvu vydavatele a zásady ochrany osobních údajů. Zobrazení a potvrzení těchto smluv je součástí toku nákupu. Podrobnosti najdete v tématu [platné smlouvy](legal-contracts.md).
 
-## <a name="discover-saas-and-m365-integrated-apps"></a>Zjišťování integrovaných aplikací SaaS a M365
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>Zjišťování SaaS a Microsoft 365 integrovaných aplikací
 
 Naši partneři můžou propojit mezi aplikací SaaS a jejími odpovídajícími doplňky pro Microsoft 365. Díky tomu můžete stahovat a používat doplňky z konkrétních Microsoft 365 služeb nebo produktů, když dostanete aplikaci SaaS propojenou s doplňky.
 
