@@ -1,29 +1,27 @@
 ---
 title: Práce s nepřímými zprostředkovateli v programu CSP
 ms.topic: how-to
-ms.date: 12/16/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si, jak můžou nepřímý prodejci spolupracovat s nepřímými poskytovateli Microsoftu (nebo distributory) a získat pomoc s zákaznickou podporou a fakturací.
 ms.prod: ''
 ms.custom: contperf-fy21q2
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636020"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773455"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Naučte se, jak v programu Cloud Solution Provider spolupracuje s nepřímými poskytovateli.
 
 **Příslušné role**
 
-
-- Všichni partneři Microsoftu, kteří mají zájem o registraci v programu Cloud Solution Provider
-
+- Globální správce
 
 Rychle rostoucí poptávka pro cloudová řešení a služby nabízí spoustu příležitostí pro partnery Microsoftu všech velikostí, aby mohli sestavovat ziskové cloudy obchodních řešení. Partneři, kteří jsou připravení na uvedení na trh, ale kteří nechtějí spravovat více dodavatelů nebo kteří nemají na začátku koncovou infrastrukturu pro správu vztahů se zákazníky, mohou registrovat v programu Microsoft Cloud Solution Provider (CSP) jako nepřímý prodejce.
 
@@ -44,7 +42,7 @@ Další informace o tom, co je potřeba k prodeji v programu CSP jako nepřímý
 > [!NOTE]  
 > Pokud jste už zaregistrovali v CSP, možná budete muset zadat jenom kontaktní informace zákaznické podpory, abyste mohli vytvořit účet prodejce v partnerském centru.
 
-### <a name="before-you-begin"></a>Před zahájením
+### <a name="before-you-begin"></a>Než začnete
 
 Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskytovatele noví noví, zaregistrovaní v programu CSP jako nepřímý prodejce. Pak je potřeba vytvořit účet v partnerském centru. K tomu zadáte během procesu registrace následující informace. Než začnete, může trvat několik minut, než se shromáždí tyto položky:
 
@@ -80,12 +78,11 @@ Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskyt
 
 5. Přidružte své ID MPN k tenantovi Azure ID.
 
-    1. V **Nastavení účtu** vyberte **identifikátory** .
-
-    1. V části **CSP** použijte odkaz **aktualizace** k aktualizaci ID MPN přidruženého k vašemu účtu CSP. 
- 
+    1. Přihlaste se pomocí svého účtu MPN. Přejít na **Nastavení**  ->  **účtu nastavení**  ->  **identifikátory organizačních profilů**  ->  . Zobrazte si ID programu MPN a vyberte tu, jejíž země je stejná jako země vašeho účtu CSP. Jinými slovy, váš účet CSP a přidružené ID MPN se musí nacházet ve stejné zemi nebo oblasti.
+    
+     
  > [!IMPORTANT]  
-   > Vyberte ID MPN přidružené k aktivnímu profilu společnosti, který je umístěný ve stejné zemi nebo oblasti jako váš tenant Azure AD.
+   > Vyberte ID MPN, které se nachází ve stejné zemi nebo oblasti jako váš účet CSP.
 
 6. Až bude váš účet partnerského centra připravený k použití, ověřte, že jste byli přidáni do skupiny agentů pro správu. Abyste mohli dokončit nastavování vašeho účtu, včetně přidávání dalších uživatelů, musíte mít oprávnění agenta správce. Pomocí těchto kroků můžete zobrazit nebo aktualizovat vaše oprávnění:
 
@@ -146,5 +143,5 @@ Vaše oficiální obchodní umístění jako nepřímý prodejce CSP určuje nep
 - [Vytvoření obchodního profilu](create-a-marketing-profile.md)
 
 - [Další informace o procesu ověřování](verification-responses.md)
- 
+
 - [Viz požadavky na partnery přímého vyúčtování](direct-partner-new-requirements.md)

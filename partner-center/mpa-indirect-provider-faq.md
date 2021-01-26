@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ca7dd4239821fedfdb017c7a475b31b9e91cf68
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: a6cf5bc3d1e0f28a9c4e0a11d8a603297fa57bf9
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717686"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773490"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-adopt-the-microsoft-partner-agreement-mpa"></a>Způsob, jakým mohou nepřímí prodejci pomáhat svým nepřímým prodejcům, přijímá smlouvu s partnerem Microsoftu (MPA)
 
@@ -126,13 +126,13 @@ V případě problémů vyvolejte [lístek podpory](https://partner.microsoft.co
 ### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Chci migrovat svůj účet MPN z partnerského centra pro členství do partnerského centra. Jak to můžu udělat? Nevím, kdo jsem v PMC správcem MPN, jak můžu provést migraci? 
 
 **Odpověď** Projděte si podrobného průvodce, jak [migrovat program MPN z PMC do počítače](guide-to-migration.md). Obsahuje různé odkazy na HEP, které migrujete.
--   [Smlouva o partnerovi Microsoftu (MPA) pro CSP](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process)
+-   [Smlouva o partnerovi Microsoftu (MPA) pro CSP](microsoft-partner-agreement.md)
 
 V případě problémů vyvolejte [lístek podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) v rámci partnerského centra. 
 
 ### <a name="are-there-any-localized-step-by-step-instructions-available"></a>Jsou k dispozici nějaké lokalizované podrobné pokyny pro krokování?
 
-**Odpověď** Ano, máme k dispozici lokalizované doprovodné materiály: [nepřímý prodejce pro smlouvu Microsoft Partner Agreement v programu CSP](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  (dostupné jazyky: Španělština, korejština, čínština, japonština)
+**Odpověď** Ano, máme k dispozici lokalizované doprovodné materiály v: [nepřímý prodejce pro smlouvu Microsoft Partner Agreement v programu CSP](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  (dostupné jazyky: Španělština, korejština, čínština, japonština)
 
 ### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-sign-mpa-"></a>Nevím, kdo je správce partnerského centra, který může podepsat aktivaci?
 
@@ -159,8 +159,8 @@ Na stránce **Nastavení účtu** vyberte na kartě **partner** stránku **práv
 
 Pokud nemůžete problém vyřešit sami, vyvolejte lístek podpory v rámci partnerského centra tím, že se přihlásíte pomocí účtu CSP a:
 
-- Problémy s ověřováním firmy získáte kliknutím [sem](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54) .  
-- Problémy s ověřením zaměstnanosti získáte kliknutím [sem](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b) .
+- V případě problémů s ověřováním firmy vytvořte [žádost o podporu](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54).  
+- V případě problémů s ověřováním zaměstnanosti vytvořte [žádost o podporu](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).
 
 :::image type="content" source="images/rejected-faq-mpa.png" alt-text="odmítnutí":::
 

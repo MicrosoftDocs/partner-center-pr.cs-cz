@@ -1,20 +1,20 @@
 ---
 title: Smlouva o partnerovi Microsoftu (MPA) pro CSP
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si informace o požadavcích partnerů Microsoftu na partnery pro podepsání a ověření této sjednocené a digitálně přijatelné smlouvy o partnerovi od Microsoftu (MPA).
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105507"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773470"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Další informace o smlouvě Microsoft Partner Agreement (MPA) pro partnery programu CSP
 
@@ -68,6 +68,20 @@ Abyste se mohli i nadále zúčastnit programu CSP, musíte si před 31. ledna 2
 
 Nezapomeňte přijmout žádost o vztah CSP k vašemu nepřímému poskytovateli.
 
+## <a name="sign-the-mpa"></a>Podepsat MPA
+
+1. Přihlaste se k partnerskému centru pomocí účtu nepřímých prodejců CSP. Musíte být globálním správcem.
+1. Přejít na stránku **[Přehled CSP](https://partner.microsoft.com/pcv/dashboard/overview)** .  Pokud se vám nezobrazí možnost **přijmout a pokračovat** nebo zelená banner oznamuje, že technologie aktivace je podepsaná, nemáte správnou roli pro podepsání aktivace. Obraťte se na svého globálního správce, který vám umožní podepsat aktivaci.
+
+1. Pokud chcete před podepsáním zobrazit a stáhnout **smlouvu partnera Microsoftu** , klikněte na odkaz Microsoft Partner Agreement, jak je uvedeno níže.
+
+:::image type="content" source="images/agreement-three.png" alt-text="Nové umístění smlouvy o aktivaci":::
+
+>[!NOTE]
+>Pokud nevidíte odkaz na **dohodu o partnerovi Microsoftu** , zkontrolujte svoji roli v partnerském centru. Pouze globální správci v tenantovi CSP můžou zobrazit a podepsat aktivaci v partnerském centru. Chcete-li zjistit svoji roli, klikněte na **Správa uživatelů** a ověřte, že účet přihlášený jako **globální správce**. V takovém případě se tento účet nedá použít k podepsání aktivace. Na stránce Správa uživatelů můžete vyhledat globální správce ve vaší společnosti.
+
+:::image type="content" source="images/user-management-clean.png" alt-text="Jak najít vaši roli":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Ověřte, že jste si zaregistrovali aktivaci.
 
 Pokud se chcete podívat, jestli jste si zaregistrovali aktivaci:
@@ -75,17 +89,17 @@ Pokud se chcete podívat, jestli jste si zaregistrovali aktivaci:
  Jako globální správce vaší společnosti přejděte na [Přehled CSP](https://partner.microsoft.com/pcv/dashboard/overview) a zkontrolujte, zda jste zobrazili zelený banner s oznámením, že jste přijali aktivaci.
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="Zelená banner ukazující přijetí aktivace":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Zelená banner ukazující přijetí aktivace":::
 
 >[!NOTE]
 >Pouze globální správce ve vaší společnosti může zobrazit a podepsat aktivaci. Pokud nejste globálním správcem, budete muset požádat svého globálního správce, aby ověřil aktivaci.
 
 Můžete se také podívat, jestli jste podepsali smlouvu, a to výběrem možnosti **smlouvy** z **Nastavení účtu**.
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="Označení, že technologie MPA je podepsaná":::
+:::image type="content" source="images/agreement-new.png" alt-text="Označení, že technologie MPA je podepsaná":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Stáhněte si podrobného průvodce, který je správný pro to, kde jste v procesu.
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Stáhněte si podrobného průvodce, který je nejvhodnější pro místo, kde se nacházíte v procesu podepisování technologie MPA.
 
 1. Pokud migrujete účet MPN z PMC na Partnerské centrum: [Migrace z PMC na Partnerské centrum a přijetí Smlouvy s partnerem Microsoftu](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
