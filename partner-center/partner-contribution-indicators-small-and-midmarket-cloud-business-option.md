@@ -1,7 +1,7 @@
 ---
 title: Ukazatele příspěvku partnera – SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si informace o tom, že partneři pro partnery z partnerských příspěvků (PCI) musí splnit, než budou moct dosáhnout Midmarket cloudových řešení a jejich kompetenci.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204136"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861423"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Použití indikátorů příspěvků partnerů k dosažení nízké a Midmarket cloudových řešení kompetence
 
@@ -157,11 +157,10 @@ NET New tržby je [ukazatel výkonu](partner-contribution-indicators-small-and-m
 - Čisté nové tržby se definují jako čisté nové fakturované tržby napříč všemi prodejními kanály pro opravňující produkty Dynamics 365.
 - Čisté nové tržby se sčítají na konci 12 měsíců s maximálním možným počtem 10 bodů.
 - Body pro čisté nové tržby se počítají jako faktury minus kredity a agreguje se za 12 měsíců.
-- Čisté nové tržby se vypočítávají na základě následujících nároků na produkty, které následují buď na cestě zákazníka, nebo na cestě pro finance a operace:
+- Čisté nové tržby se vypočítávají na základě libovolné kombinace následujících opravňujících produktů:
   - Dynamics 365 Customer Engagement – opravňující produkty zahrnují: Sales, marketing, Customer Service, Field Service, Project Server, plán 1, automatizace, marketing, prodejní vztahy Microsoft.
-  - Mezi finance a provozní operace patří: obchodní oddělení, kapacita a úložiště, finance a operace (včetně ochrany před podvody, provozu, maloobchodu, HR, Plan 2), smíšené reality, člen týmu
-  - Dynamics 365 Business Central
-
+  - Mezi finance a provozní operace patří: Dynamics 365 Business Central, kapacita a úložiště, finance a operace (včetně ochrany proti podvodům, provozu, maloobchodu, HR, Plan 2), smíšené reality, člen týmu
+  
 - Prodejní kanály zahrnují smlouva Enterprise (EA), Cloud Solution Provider (CSP) a web Direct.
 - Pro smlouva Enterprise jenom pro tržby: Toto tržby zahrnuje tržby z prvního roku smlouvy. Nezahrnují se periodické výnosy z druhého a třetího roku.
 
