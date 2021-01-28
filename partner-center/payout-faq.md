@@ -1,5 +1,5 @@
 ---
-title: Výběry a finanční Profily – Nejčastější dotazy
+title: Nejčastější dotazy k výplatám a daňovým profilům
 description: Získejte odpovědi na běžné otázky týkající se vydaných a daňových údajů v partnerském centru. Obsahuje odpovědi na důvody, proč se vaše tržby liší od očekávání.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492581"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924904"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Běžné otázky k vydaným výběrům a daním
 
@@ -128,10 +128,6 @@ Ve stažené historii transakcí vyhledejte sloupec Tax model (Daňový model). 
 
 Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Pro platby, na které se vztahuje daň z poplatků za služby, se zobrazí odkaz na formulář pro daň z poplatků za služby.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Jak si můžu stáhnout formulář pro srážkovou daň ve formátu PDF?
-
-Přejděte na stránku *Výplata plateb* a pak do části **Seznam plateb**. Vedle plateb se zobrazí odkaz na formulář pro srážkovou daň.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Kde najdu daňové formuláře ke konci roku?
 
 Daňové formuláře ke konci roku můžete zobrazit na [profilové stránce](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage).
@@ -170,7 +166,7 @@ Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. P
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Návody stáhnout formulář pro srážkovou daň ve formátu PDF?
 
-Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Vedle plateb se zobrazí odkaz na formulář pro srážkovou daň.
+Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Vedle plateb se zobrazí odkaz na formulář pro srážkovou daň. Formulář srážkové daně se vztahuje jenom na vybrané pobídkové programy, nikoli na výběr komerčního tržiště.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Kde najdu daňové formuláře ke konci roku?
 

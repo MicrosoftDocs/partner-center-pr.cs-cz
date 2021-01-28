@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658429"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924996"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nové obchodní prostředí v CSP – Fakturace Azure 
 
@@ -36,7 +36,7 @@ Tento článek vysvětluje, jak získat přístup ke struktuře souborů faktura
 
 - **Platební podmínka faktury**: NET 60 dní.
 
-- **Měna faktury**: partneři se budou dál účtovat v přiřazené měně zákazníka v country's. Pokud je například účtovaný partner v Irsku se zákazníky ve Spojeném království, Norsku a Německu, bude se fakturovaná Partnerská adresa GBP, NOK a EUR a rekognoskaci.
+- **Měna faktury**: od 1. ledna 28 2021 partneři v oblasti EU/ESVO a UK, kteří noví zákazníci a stávající zákazníci s poskytovatelem CSP nakupují nové nabídky pro Commerce, jejichž klienti byli vytvořeni ještě dřív, než 11. května 2020, budou se fakturovat za tyto nákupy v měně partnera Location. Partneři, kteří se nacházejí mimo oblast EU/ESVO a UK, se budou dál účtovat v měně partnera umístění.
 
 - **Pobídky pro partnery**: placené 45 dny od konce měsíce faktury.
 

@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534722"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924966"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Ceník nového obchodního prostředí v CSP pro Azure
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534722"
 - Agent prodeje
 - Správce správy uživatelů
 
-Ceník pro nové prostředí Azure Commerce v CSP je zveřejněný v partnerském centru. Ceník se dynamicky doručuje do správného souboru v reálném čase a ceny se zobrazují jenom v USD. Fakturace se ale provádí v podporované měně, která se vztahuje na umístění měny zákazníka. Další informace o fakturaci v umístění měny zákazníka najdete v tématu [plán Azure – fakturace](azure-plan-billing.md).
+Ceník pro nové prostředí Azure Commerce v CSP je zveřejněný v partnerském centru. Ceník se dynamicky doručuje do správného souboru v reálném čase a ceny se zobrazují jenom v USD. Od 1. ledna 28 2021 partneři v oblasti EU/ESVO a UK, kteří noví zákazníci a stávající zákazníci s poskytovatelem CSP nakupují nové nabídky pro Commerce, jejichž klienti byli vytvořeni ještě dřív, než 11. května 2020, budou se fakturovat za tyto nákupy v měně partnera umístění.  Partneři, kteří se nacházejí mimo oblast EU/ESVO a UK, se budou dál účtovat v rámci měny partnera umístění, přečtěte si článek [plán Azure – fakturace](azure-plan-billing.md).
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Podívejte se na ceny předplatných podle plánu Azure
 
@@ -79,7 +79,7 @@ Ceník pro nové prostředí Azure Commerce v CSP je zveřejněný v partnerské
 |TermDuration|U produktů založených na termínech se délka podmínky vztahuje na rezervace.|
 |Uvádět|Uvedení ceny na trh|
 |Měna|Měna cen|
-|Jednotková cena|Cena za jednotku|
+|UnitPrice|Cena za jednotku|
 |PricingTierRangeMin|Pro vrstvené ceny platí minimální cena.|
 |PricingTierRangeMax|Pro vrstvené ceny platí maximální cena.|
 |EffectiveStartDate|Počáteční datum cen|
@@ -94,7 +94,7 @@ Ceníky pro plán Azure můžete exportovat ze [stránky ceny a nabídky](https:
 
 Některé služby spotřeby plánu Azure podporují vrstvené ceny. Partneři můžou tyto produkty a SKU najít v ceníku plánu Azure. Položky, které mají hodnoty ve sloupcích rozsah cenové úrovně, umožňují partnerům pochopit cenu na základě využití. V níže uvedeném příkladu máte k dispozici jednu skladovou položku produktu se třemi cenovými úrovněmi.
 
-|**ProductId**   |**SkuId**   |**Jednotková cena**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
+|**ProductId**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
 |DDD123456ABC|01AB|.50|100001|9223372036854780000|
 |DDD123456ABC|01AB|.80|101|100000|

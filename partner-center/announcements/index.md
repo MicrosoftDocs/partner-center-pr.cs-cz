@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/27/2021
+ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717841"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924935"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,17 +22,18 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z ledna 2021** | **Datum oznámení** |
 |---------|:---------|:---------|
-|Možnosti|[Změny protokolu auditu partnerského centra pro zahrnutí dvou nových typů operací pro DAP](2021-january.md#13)|25. ledna|
-|Možnosti|[Změny nabídky Azure v cloudu, které souvisejí s novým prostředím Commerce pro Azure](2021-january.md#12)|21. ledna|
-|Podpora růstu vaší firmy|[Časově neomezený software nově obecně dostupný v programu Cloud Solution Provider](2021-january.md#11)|19. ledna|
-|Podpora růstu vaší firmy|[Připomenutí: Představujeme omezování rozhraní API pro partnery, kteří volají rozhraní API Partnerského centra](2021-january.md#10)|19. ledna|
-|Nabídky/trhy|[Vydání SCI (Security, Compliance, and Identity) chystaná na 1. února 2021](2021-january.md#9)|15. ledna|
-|Možnosti|[Migrace DocuSignu na Adobe Sign pro partnery, kteří mají uzavřené Smlouvy s partnerem Microsoftu (MPA)](2021-january.md#8)|15. ledna|
-|Nabídky/trhy|[Aktualizace komerčních cen pro NOK](2021-january.md#7)|14. ledna|
-|Nabídky/trhy|[Aktualizace komerčních cen pro INR](2021-january.md#6)|8\. ledna|
-|Nabídky/trhy|[Aktualizace pro telefonní systém a volací plán pro 1. února 2021](2021-january.md#5)|8\. ledna|
-|Nabídky/trhy|[Aktualizace ceníku na základě licencí pro leden 2021](2021-january.md#4)|8\. ledna|
-|Moderní pracoviště|[EU/ESVO: Změna měny fakturace partnerských služeb pro nové komerční nabídky](2021-january.md#3)|7\. ledna|
+|Moderní pracoviště|[EU/ESVO: Změna měny fakturace partnerských služeb pro nové komerční nabídky](2021-january.md#14)|27. ledna|
+|Možnosti|[Partnerská smlouva Microsoft (MPA) – aktualizace nepřímých prodejců & nových nejčastějších dotazech](2021-january.md#13)|27. ledna|
+|Možnosti|[Změny protokolu auditu partnerského centra pro zahrnutí dvou nových typů operací pro DAP](2021-january.md#12)|25. ledna|
+|Možnosti|[Změny nabídky Azure v cloudu, které souvisejí s novým prostředím Commerce pro Azure](2021-january.md#11)|21. ledna|
+|Podpora růstu vaší firmy|[Časově neomezený software nově obecně dostupný v programu Cloud Solution Provider](2021-january.md#10)|19. ledna|
+|Podpora růstu vaší firmy|[Připomenutí: Představujeme omezování rozhraní API pro partnery, kteří volají rozhraní API Partnerského centra](2021-january.md#9)|19. ledna|
+|Nabídky/trhy|[Vydání SCI (Security, Compliance, and Identity) chystaná na 1. února 2021](2021-january.md#8)|15. ledna|
+|Možnosti|[Migrace DocuSignu na Adobe Sign pro partnery, kteří mají uzavřené Smlouvy s partnerem Microsoftu (MPA)](2021-january.md#7)|15. ledna|
+|Nabídky/trhy|[Aktualizace komerčních cen pro NOK](2021-january.md#6)|14. ledna|
+|Nabídky/trhy|[Aktualizace komerčních cen pro INR](2021-january.md#5)|8\. ledna|
+|Nabídky/trhy|[Aktualizace pro telefonní systém a volací plán pro 1. února 2021](2021-january.md#4)|8\. ledna|
+|Nabídky/trhy|[Aktualizace ceníku na základě licencí pro leden 2021](2021-january.md#3)|8\. ledna|
 |Možnosti|[Vyřazení stávajících kvalifikačních rozhraní API GET a PUT pro proces ověřování zákazníků z oblasti vzdělávání do konce února 2021](2021-january.md#2)|5\. ledna|
 |Nabídky/trhy|[Nabídky Dynamics 365 pro únor 2021](2021-january.md#1)|4\. ledna|
 | **Kategorie** | **Oznámení z prosince 2020** | **Datum oznámení** |

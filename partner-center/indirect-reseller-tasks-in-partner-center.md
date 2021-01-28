@@ -1,7 +1,7 @@
 ---
 title: Práce s nepřímými zprostředkovateli v programu CSP
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si, jak můžou nepřímý prodejci spolupracovat s nepřímými poskytovateli Microsoftu (nebo distributory) a získat pomoc s zákaznickou podporou a fakturací.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773455"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924975"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Naučte se, jak v programu Cloud Solution Provider spolupracuje s nepřímými poskytovateli.
 
@@ -76,30 +76,39 @@ Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskyt
    > [!IMPORTANT]  
    > Abychom vám pomohli zajistit zabezpečení a ochranu osobních údajů vaší společnosti, pošleme primární kontakt e-mailem, abyste ověřili, že (1) nebo se zaregistroval účet partnerského centra, a (2) Tato e-mailová adresa patří vaší společnosti. Jakmile primární kontakt ověří svou e-mailovou adresu, budeme pokračovat v naší kontrole informací, které jste zadali. Pošleme e-mailem aktualizace stavu registrace primárnímu kontaktu.
 
-5. Přidružte své ID MPN k tenantovi Azure ID.
+5. Přidružte své ID MPN k vašemu účtu CSP. 
+  Váš účet CSP a přidružené ID MPN se musí nacházet ve stejné zemi.
 
-    1. Přihlaste se pomocí svého účtu MPN. Přejít na **Nastavení**  ->  **účtu nastavení**  ->  **identifikátory organizačních profilů**  ->  . Zobrazte si ID programu MPN a vyberte tu, jejíž země je stejná jako země vašeho účtu CSP. Jinými slovy, váš účet CSP a přidružené ID MPN se musí nacházet ve stejné zemi nebo oblasti.
+   a. Přihlaste se do partnerského centra s přihlašovacími údaji účtu MPN (vaše přihlašovací údaje programu MPN se můžou lišit od vašich přihlašovacích údajů CSP).
+   
+   b. Přejít na **Nastavení**  ->  **účtu nastavení**  ->  **identifikátory organizačních profilů**  ->  .
+ 
+    c. Vyhledejte ID MPN s typem "umístění", které odpovídá zemi tohoto účtu CSP. 
+
+    d. Pokud nemůžete najít umístění MPN ID, které odpovídá účtu CSP, který chcete použít, můžete přidat nové umístění, ve kterém se vytvoří nové ID MPN. Další informace a [Správa umístění](manage-locations.md).
+
+    e. Tento krok prozatím můžete odložit, ale nebudete moct podepsat smlouvu o partnerovi Microsoftu (MPA) nebo transakční program v CSP, dokud nedokončíte přidružení ID MPN k vašemu účtu CSP.
     
      
  > [!IMPORTANT]  
-   > Vyberte ID MPN, které se nachází ve stejné zemi nebo oblasti jako váš účet CSP.
+   > Vyberte ID MPN, které se nachází ve stejné zemi jako váš účet CSP.
 
-6. Až bude váš účet partnerského centra připravený k použití, ověřte, že jste byli přidáni do skupiny agentů pro správu. Abyste mohli dokončit nastavování vašeho účtu, včetně přidávání dalších uživatelů, musíte mít oprávnění agenta správce. Pomocí těchto kroků můžete zobrazit nebo aktualizovat vaše oprávnění:
+6. Jakmile Microsoft dokončí ověření registrace, které trvá 3-5 pracovních dnů, podepište na [řídicím panelu partnerského centra](https://partner.microsoft.com/pcv/dashboard/overview) na stránce s použitím přihlašovacích údajů globálního správce smlouvu s partnerem Microsoftu. Pokud chcete před podepsáním zobrazit a stáhnout **smlouvu partnera Microsoftu** , klikněte na odkaz Microsoft Partner Agreement, jak je uvedeno níže.  Pokud je váš účet zablokovaný v ověřování po dobu 5 pracovních dnů, přečtěte si [proces ověření účtu](verification-responses.md).
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="Nové umístění smlouvy o aktivaci":::
+
+ 
+7. Potvrďte, že jste si zaregistrovali smlouvu s partnerem Microsoftu v části **informace o programu** v profilu partnera. Na stránce Přehled CSP se zobrazí také oznámení potvrzující hlavičku. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Hlavička zeleného přijetí":::
+
+
+8. Až bude váš účet partnerského centra připravený k použití, ověřte, že jste byli přidáni do skupiny agentů pro správu. Abyste mohli dokončit nastavování vašeho účtu, včetně přidávání dalších uživatelů, musíte mít oprávnění agenta správce. Pomocí těchto kroků můžete zobrazit nebo aktualizovat vaše oprávnění:
 
    1. Na řídicím panelu partnerského centra vyberte ikonu **Nastavení** a potom v části **Nastavení účtu** vyberte **Správa uživatelů**.
 
    2. Ze seznamu uživatelů vyberte své jméno. Vyberte možnost **Agent správce** , pokud ještě není vybraný. Vyberte **Aktualizovat**.
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Všichni nepřímý prodejci musí podepsat smlouvu o partnerovi Microsoftu.
-
-1.  Pokud jste se ještě nepřesunuli do partnerského centra z partnerského centra pro členství, udělejte to teď. Chcete-li získat nápovědu k přesunu do partnerského centra, přečtěte si [příručku pro migraci z PMC do partnerského centra](guide-to-migration.md). 
-
-2.  Pokud máte účet pro členství v partnerském centru (MPN ID), musíte si ho i nadále úředně zaregistrovat v programu Cloud Solution Provider. Pokud chcete zkontrolovat stav členství, vyhledejte svůj [**partnerský profil**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) a potvrďte typ účtu. Pak se [jako nepřímý prodejce zaregistrujete do zprostředkovatele CSP](enrolling-in-the-csp-program.md). Jakmile se zaregistrujete jako nepřímý prodejce, [přijměte žádost o vztah CSP od svého nepřímého poskytovatele](indirect-reseller-tasks-in-partner-center.md).
-
-3.  Pokud jste už zaregistrovali v partnerském centru jako nepřímý prodejce, přijměte na [řídicím panelu partnerského centra](https://partner.microsoft.com/pcv/dashboard/overview) pomocí přihlašovacích údajů globálního správce smlouvu s partnerem Microsoftu. Potvrďte, že jste si zaregistrovali smlouvu s partnerem Microsoftu v části **informace o programu** v profilu partnera. Na stránce Přehled CSP se zobrazí také oznámení potvrzující hlavičku. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Hlavička zeleného přijetí":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>Spojení s nepřímým poskytovatelem
 
@@ -145,3 +154,4 @@ Vaše oficiální obchodní umístění jako nepřímý prodejce CSP určuje nep
 - [Další informace o procesu ověřování](verification-responses.md)
 
 - [Viz požadavky na partnery přímého vyúčtování](direct-partner-new-requirements.md)
+- [Smlouva s partnerem Microsoftu](microsoft-partner-agreement.md)

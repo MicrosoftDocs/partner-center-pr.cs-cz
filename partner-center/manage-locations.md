@@ -1,7 +1,7 @@
 ---
 title: Správa umístění v partnerském účtu
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se, jak přidat nové umístění a jak se v programu motivačních programů, v obchodních předplatných, předplatných a dalších transakcích používá umístění MPN ID.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773431"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925009"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Správa umístění účtu MPN a přidání nového umístění
 
@@ -35,45 +35,51 @@ Společnost Contoso má svůj partnerský globální účet (PGA) ve Spojeném k
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Struktura míst MPN":::
 
-## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>Požadavky, aby bylo možné přidat nové umístění účtu pro firmu CSP
+## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Požadavky, aby bylo možné přidat nový účet pro firmu CSP
 
-Chcete-li přidat nové obchodní umístění CSP, je k dispozici několik požadavků:
+Pokud chcete přidat nový obchodní účet CSP, začněte tím, že ověříte, že jste splnili požadavky.
 
-1. V zemi, kde chcete provádět podnikání, musíte mít umístění MPN ID.
-
-1. Budete potřebovat nového tenanta Azure AD v [oblasti podnikání](regional-authorization-overview.md) , která ještě není zaregistrovaná ve zprostředkovateli CSP. Tuto vytvořit, když se zaregistrujete v CSP.
- 
-3. Použijte nového tenanta AAD k registraci do programu CSP v oblasti.
-Poskytování právních informací o společnosti, včetně právního jména společnosti, adresy, primárního kontaktního údaje. Tento účet se bude podrobit ověření, takže nezapomeňte přidat platné informace.
+1. Musíte mít umístění MPN ID v zemi, kde chcete, aby se zprostředkovatel CSP vystavil. Pokud chcete vytvořit nové umístění MPN, přečtěte si níže téma "Přidání umístění MPN".
+  
+1. Chcete-li vytvořit nového poskytovatele nepřímých prodejců CSP, přečtěte si téma [práce s nepřímými poskytovateli](indirect-reseller-tasks-in-partner-center.md#get-started) 
 
 >[!NOTE] 
- >Nezapomeňte se přihlásit pomocí **nových** přihlašovacích údajů pro **nového** tenanta Azure AD. Nepoužívejte svoje stávající přihlašovací údaje, protože Partnerské centrum vám rozpozná, jak už účet máte.
+ >Nezapomeňte se přihlásit pomocí **nových** přihlašovacích údajů **nového** účtu CSP. Nepoužívejte svoje stávající přihlašovací údaje, protože Partnerské centrum vám rozpozná, jak už účet máte.
 
-4. Přijměte smlouvu s partnerem Microsoftu a aktivujte účet.
+2. Přijměte smlouvu s partnerem Microsoftu a aktivujte účet.
 
 ## <a name="add-an-mpn-location"></a>Přidat umístění MPN
 
-1. Přihlaste se pomocí účtu MPN v partnerském centru. Účet MPN by měl mít oprávnění globálního správce nebo správce účtů. 
+1. Přihlaste se pomocí účtu MPN v partnerském centru. (Vaše přihlašovací údaje programu MPN se můžou lišit od vašich přihlašovacích údajů CSP). Účet MPN by měl mít oprávnění globálního správce nebo správce účtů. 
 
-1. V **ikoně nastavení** vyberte **Nastavení organizace**.
+1. V **ikoně nastavení** vyberte **Nastavení účtu** a pak vyberte **Profil organizace**.
 
-2. Vyberte **právní** a potom vyberte **umístění.**
+2. Vyberte možnost **právní** a pak na kartě **partner** vyberte **obchodní umístění** a klikněte na **Přidat umístění.**
 
-3. Vyberte **Přidat umístění** a vložte podrobnosti o umístění, které chcete přidat do své společnosti, i k primárnímu kontaktu pro dané umístění.
+3. Zadejte požadované podrobnosti, včetně názvu firmy, adresy a kontaktu pro umístění, které chcete přidat do své společnosti.
+ 
+1. Klikněte na **Přidat umístění**. Tím se vytvoří nové ID MPN pro nové umístění, které můžete použít pro transakce a pobídky CSP.
+
+:::image type="content" source="images/legal-biz.png" alt-text="Přidat novou právní firmu":::
 
 > [!NOTE]
 > Po přidání umístění do partnerského centra ho nejde odebrat. Pokud jste pro přihlášení použili správné ID **MPN, zobrazí se v levé** nabídce centra pro partnery v nabídce vlevo.
 
-## <a name="change-global-partner-account-location"></a>Změnit umístění globálního účtu partnera
+## <a name="change-country-of-partner-global-account"></a>Změnit zemi globálního účtu partnera 
 
-1. V části **[obchodní umístění](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** zkontrolujte seznam umístění a ujistěte se, že je v seznamu uvedeno umístění, které chcete jako právní entita. Pokud není, přidejte ho.
+1. Přihlaste se pomocí účtu MPN v partnerském centru. (Vaše přihlašovací údaje programu MPN se můžou lišit od vašich přihlašovacích údajů CSP). Účet MPN by měl mít oprávnění globálního správce nebo správce účtů. 
 
-   :::image type="content" source="images/accountsettings/location1.png" alt-text="Snímek obrazovky se stránkou pro umístění účtů partnerského centra se seznamem všech aktuálních umístění":::
+2. Na kartě **partner** klikněte na **obchodní umístění** a zkontrolujte seznam umístění a ujistěte se, že je v seznamu uvedeno umístění, které chcete použít jako právní entitu. 
+ 
+1. Chcete-li přidat umístění, klikněte na tlačítko **Přidat umístění** a za předpokladu zadejte požadované podrobnosti, včetně názvu firmy, adresy a primárního kontaktu pro umístění, které chcete přidat do své společnosti. 
+ 
+1. Vyberte možnost **změnit zemi** vedle rozevíracího seznamu **země/oblast** a postupujte podle pokynů. 
 
-2. Vyberte **právní** a pak vyberte **aktualizovat platný obchodní profil** .
-  
-3. Vyberte oblast a právní entitu a **odešlete** ji.
+:::image type="content" source="images/lbp.png" alt-text="Oficiální informace o obchodním profilu":::
 
+5. Klikněte na **Uložit**.
+
+6. Země globálního účtu MPN se změní na novou právní zemi.
   
 ## <a name="next-steps"></a>Další kroky
 

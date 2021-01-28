@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570701"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924939"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Přehled fakturace pro partnery v programu CSP pracující v Partnerském centru 
 
@@ -33,7 +33,7 @@ Tento článek obsahuje základní informace o fakturaci a faktuře pro partnery
 
 Postup při hledání faktury:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 
 2. V nabídce partnerského centra vyberte **fakturace**.
 
@@ -53,7 +53,7 @@ Typy fakturace v partnerském centru zahrnují fakturaci na **základě licencí
 
 **Fakturace založená na licencích a na základě využití**: za produkt se vám bude účtovat v měně země nebo oblasti, ve které jste umístění. Účtují se stejně bez ohledu na umístění zákazníka, kterému jste prodali produkt (y).
 
-**Jednorázové účtování**: vaše vyúčtování se vygeneruje v souvislosti s měnou zákazníka. To znamená, že pokud jste partnerem s podporou transakcí z různých fakturovatelných měn, obdržíte fakturu za každý typ měny zákazníka. Přečtěte si další informace o [jednorázová a opakující se](azure-plan-billing.md). 
+**Jednorázové účtování**: od 1. ledna 2021, partnerů v oblasti EU/ESVO a UK, kteří noví zákazníci a stávající zákazníci s poskytovateli CSP nakupují nové nabídky pro Commerce, jejichž klienti byli vytvořeni před 11. května 2020, se budou fakturovat za tyto nákupy v měně partnera Location.  Partneři, kteří se nacházejí mimo oblast EU/ESVO a UK, se budou dál účtovat v měně partnera umístění. Přečtěte si další informace o [jednorázová a opakující se](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Faktury
 
@@ -150,15 +150,15 @@ Sazby za měřené služby se můžou v rámci cyklu fakturace změnit.
 
 Chcete-li zobrazit aktuální stav fakturace, faktury a soubory pro odsouhlasení:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 2. V nabídce na levé straně zvolte **fakturace** a pak vyberte **opakované a jednorázové nákupy**.
-3. Chcete-li zobrazit podrobnější informace, vyberte na stránce stav fakturace možnost soubor faktury nebo odsouhlasení.
+3. Na stránce stavu fakturace vyberte fakturu nebo soubor vyúčtování, o kterých chcete zobrazit podrobnější informace.
 
 ### <a name="customer-order-history"></a>Historie objednávek zákazníků
 
 Zobrazení historie objednávek zákazníka:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 2. V nabídce na levé straně vyberte **zákazníci**.
 3. Na stránce **zákazníci** vyhledejte zákazníka, jehož historii objednávek chcete zobrazit. Výběrem šipky dolů rozbalte záznam zákazníka.
 4. Zvolením možnosti **Zobrazit objednávky** zobrazíte historii objednávek zákazníka.
