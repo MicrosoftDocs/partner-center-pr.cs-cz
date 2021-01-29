@@ -84,7 +84,10 @@
           displayName: mpn
         - name: Nejčastější dotazy k výhodám
           href: benefits-faq.md
-          displayName: 'renew, license, mpn'
+          displayName: 'renew, license,'
+        - name: Výhody Azure a cloudu
+          href: mpn-benefits-azure-cloud.md
+          displayname: 'activate, azure license, mpn, renew'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Software Assurance

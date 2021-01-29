@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 555ccc81fcce924b44d6e4da5db3e3ff4aeb87d7
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 2879a129879f894da89f57dc79366d2122a4a160
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924901"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042731"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -26,7 +26,7 @@ oznámení 2021: leden
 
 _____________ 
 
-## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="14"></a> Fáze 1: Dnes: v rámci EU/ESVO & Velká Británie v měně pro nové nabídky obchodu
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Fáze 1: Dnes: v rámci EU/ESVO & Velká Británie v měně pro nové nabídky obchodu
 
 ### <a name="categories"></a>Kategorie
 
@@ -87,6 +87,74 @@ Všechny otázky související s tímto oznámením kontaktují [podporu partner
 - 28. ledna 2021: 
     -    Fáze 1 je v provozu. 
     -    Objasnění, že Velká Británie není zahrnutá v EU/ESVO, je součástí [evropské oblasti a trhu Microsoftu](https://docs.microsoft.com/partner-center/regional-authorization-overview) a bude ovlivněná.
+
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Změny požadavků na registraci zákazníků poskytovatele Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-01-28
+- Zvýšené zabezpečení a dodržování předpisů
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři poskytovatele CSP a nepřímá poskytovatelé, kteří mají nové nebo existující zákazníky v zemích uvedených v další části.
+
+### <a name="summary"></a>Souhrn
+
+V rámci našeho závazku pomáhat partnerům a zákazníkům, kteří provozují firmy na základě důvěry, budeme vyžadovat další informace o zákaznících od března 2021.
+
+### <a name="details"></a>Podrobnosti
+
+Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečné a zabezpečené metody ověřování zákazníků pro transakce předplatných zákazníka v programu CSP. Na konci března 2021 budeme zavádět vylepšení rozhraní API partnerského centra a uživatelského rozhraní, které bude mít vliv na partnery, kteří splňují obě následující kritéria:
+
+1. Partner má přímý fakturační vztah s Microsoftem (to znamená, že partner je buď přímým partnerem, nebo nepřímým poskytovatelem).
+2. Partner pracuje s novými nebo stávajícími zákazníky v těchto zemích:
+    - Thajsko
+    - Vietnam
+    - Turecko
+    - Polsko
+    - Jižní Afrika
+    - Indie
+    - Brazílie
+    - Irák
+    - Myanmar
+    - Jižní Súdán
+    - Saúdská Arábie
+    - Spojené arabské emiráty
+    - Venezuela
+
+Partneři, kteří splňují kritéria, budou muset odeslat **platný identifikátor** zákazníka (označovaný také jako **DIČ organizace** zákazníka) a **telefonní číslo** při připojování nových zákazníků nebo změny stávajících informací o zákaznících. Tito partneři můžou volitelně zadat také **druhé jméno** zákazníka.
+
+Partneři, kteří pracují s novými nebo stávajícími zákazníky v následujících zemích, už jsou připojení k předchozí verzi v listopadu 2020.
+
+- Arménie
+- Ázerbájdžán
+- Bělorusko
+- Maďarsko
+- Kazachstán
+- Kyrgyzstán
+- Moldavsko
+- Rusko
+- Tádžikistán
+- Ukrajina
+- Uzbekistán
+
+Partneři se zákazníky ve zbývající části světa budou mít na konci března 2021 možnost zadat **právní identifikátor**, **telefonní číslo** a **prostřední jméno** pro zákazníky jako volitelné podrobnosti.
+
+### <a name="next-steps"></a>Další kroky
+
+- Podrobnější informace najdete v technické dokumentaci a nejčastějších dotazech ve vyhrazené [kolekci partnerů](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (vyžaduje se přihlášení).
+- Připravte se na začlenění změn pomocí rozhraní API partnerského centra a uživatelského prostředí pro web. Pro testování bude k dispozici rozhraní API/sady SDK.
+- Nezapomeňte odeslat další data při připojování nových zákazníků nebo úpravách stávajících informací o zákaznících.
+- Pokud používáte řešení v rámci ovládacího panelu (CPV), obraťte se na CPV.
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud máte dotazy související s platným identifikátorem (označovaným také jako DIČ nebo DIČ), kontaktujte daňového poradce nebo místní finanční kancelář. Microsoft nemůže poskytnout pokyny k daňovým aspektům.
+
+Pokud potřebujete podporu s vašimi operacemi s Microsoftem, [otevřete žádost o služby](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (vyžaduje se přihlášení).
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Partnerská smlouva Microsoft (MPA) – aktualizace nepřímých prodejců & nových nejčastějších dotazech 
@@ -453,7 +521,7 @@ Microsoft provádí změny v ceníku indických Rupie za účelem zarovnání ce
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="4"></a>Volání plánu a aktualizace pro telefonní systém od 1. února 20201
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>Volání plánu a aktualizace pro telefonní systém od 1. února 2021
 
 ### <a name="categories"></a>Kategorie
 

@@ -1,7 +1,7 @@
 ---
 title: Přehled fakturace partnerského centra
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: Přečtěte si základní informace o fakturaci a faktuře pro partnery CSP v partnerském centru. Obsahuje informace o tom, jak fakturovat zákazníky a jak hledat a číst vaši fakturu.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924939"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042714"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Přehled fakturace pro partnery v programu CSP pracující v Partnerském centru 
 
@@ -86,6 +86,8 @@ Po použití kreditu nebo úpravy uvidíte v provedených **úpravách** a **kre
 Platební výrazy jsou dny netto 60. Faktury musí být placené datem splatnosti faktury (60 dní od data fakturace) nebo bude váš účet problematické, což může mít vliv na vaši registraci ve zprostředkovateli CSP. 
 
 Po zaplacení částky po splatnosti můžete znovu získat všechny funkce pozastavených účtů.
+
+Po zadání opravených fakturačních údajů se vaše platba zobrazí na stránce fakturace partnerského centra během 5 pracovních dnů.
 
 ### <a name="taxes-and-vat"></a>Daně a DPH
 

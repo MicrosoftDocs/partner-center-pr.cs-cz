@@ -1,19 +1,19 @@
 ---
 title: Platit poplatek za kompetenci MPN
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: Přečtěte si, jak platíte poplatky nebo aktualizovat údaje o platbách spojených s naplněním nebo obnovením jedné nebo více stříbrných nebo zlatých kompetencí.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921164"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042680"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Jak platit poplatek spojený s stříbrnou nebo Gold Competency
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921164"
 Tento článek popisuje, jak a kdy platíte poplatky spojené s dosahací stříbrné nebo zlaté Microsoft Partner Network kompetence. Tento článek také popisuje, jak změnit upřednostňovanou metodu platby, jak zrušit objednávku a jak při přechodu z stříbra na Gold Competency získat slevu za 25 procent.
 
 > [!NOTE]
-> Další informace o výhodách získání stříbrné nebo Gold Competency, konkrétních kompetencích a jejich jedinečných požadavcích najdete v tématu [Microsoft Partner Network kompetence](https://partner.microsoft.com/membership/competencies). Další informace o výhodách pro jednotlivé dostupné kompetence najdete taky v Microsoft Partner Network [licenčních tabulkách pro kompetence].
+> Další informace o výhodách získání stříbrné nebo Gold Competency, konkrétních kompetencích a jejich jedinečných požadavcích najdete v tématu [Microsoft Partner Network kompetence](https://partner.microsoft.com/membership/competencies). Můžete si také prohlédnout [licenční tabulky Microsoft Partner Network pro kompetenci](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) a získat další informace o výhodách pro jednotlivé dostupné kompetence.
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Splnění požadavků na kompetenci a placení poplatků
 
@@ -43,7 +43,7 @@ Jinak pomocí těchto kroků platíte poplatek za stříbrné nebo Gold Competen
 
 2. Z navigační nabídky vyberte [nabídky členství](https://partner.microsoft.com/dashboard/mpn/offers) . 
 
-3. V části **nabídky k dispozici k nákupu** vyhledejte dlaždici členství v stříbru * * nebo **zlatého členství** , která je přidružená k vaší konkrétní kompetenci. 
+3. V části **nabídky k dispozici k nákupu** Najděte dlaždici **členství ve** spojených vzčlenech nebo dlaždici **zlata** , která je přidružená k vaší konkrétní kompetenci. 
 
 4. Vyberte možnost **přihlášení k odběru** , která se nachází v pravém dolním rohu dlaždice konkrétního stříbra nebo zlatého členství.
 
@@ -54,7 +54,7 @@ Jinak pomocí těchto kroků platíte poplatek za stříbrné nebo Gold Competen
 
 4. Na stránce **Podrobnosti o nákupu** zkontrolujte a potvrďte své údaje.
 
-   (Další informace o aktualizaci [informací o **daňovém ID** vaší společnosti nebo o](https://docs.microsoft.com/partner-center/organization-tax-info) [ **fakturaci** vaší společnosti na adresu společnosti](https://docs.microsoft.com/partner-center/mpn-get-action-pack).
+   (Další informace o aktualizaci [informací o **daňovém ID** vaší společnosti nebo o](https://docs.microsoft.com/partner-center/organization-tax-info) [ **fakturaci** vaší společnosti na podnikovou adresu](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Členství nabízí stránku s podrobnostmi o nákupu s platebními preferencemi." border="false":::
 
@@ -130,7 +130,7 @@ Pokud platíte za svůj poplatek za váš stříbro nebo zlato prostřednictvím
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Stránka s podrobnostmi s poli pro nahrání důkazu pro zobrazení možnosti s možností výběru, odeslání potvrzení platby pro každou zakoupenou nabídku" border="false":::
 
-1. Dokončete informace pro další pole související s vašimi posledními transakcemi převodu elektronických prostředků, jako je **Datum platby**, * placené číslo účtu * * a **transakce/ref No.**
+1. Dokončete informace pro další pole související s vašimi posledními transakcemi převodu elektronických prostředků, jako je **Datum platby**, **placené číslo účtu** a **transakce nebo ref No**.
 
   Může se zobrazit zelená zpráva s oznámením, že vaše žádost byla úspěšně dokončena.
 

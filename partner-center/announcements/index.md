@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/27/2021
-ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924935"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042697"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,7 +22,8 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 | **Kategorie** | **Oznámení z ledna 2021** | **Datum oznámení** |
 |---------|:---------|:---------|
-|Moderní pracoviště|[EU/ESVO: Změna měny fakturace partnerských služeb pro nové komerční nabídky](2021-january.md#14)|27. ledna|
+|Moderní pracoviště|[Fáze 1: Dnes: v rámci EU/ESVO & Velká Británie v měně pro nové nabídky obchodu](2021-january.md#15)|28. ledna|
+|Moderní pracoviště|[Změny požadavků na onboarding zákazníků do programu Cloud Solution Provider (CSP)](2021-january.md#14)|28. ledna|
 |Možnosti|[Partnerská smlouva Microsoft (MPA) – aktualizace nepřímých prodejců & nových nejčastějších dotazech](2021-january.md#13)|27. ledna|
 |Možnosti|[Změny protokolu auditu partnerského centra pro zahrnutí dvou nových typů operací pro DAP](2021-january.md#12)|25. ledna|
 |Možnosti|[Změny nabídky Azure v cloudu, které souvisejí s novým prostředím Commerce pro Azure](2021-january.md#11)|21. ledna|
