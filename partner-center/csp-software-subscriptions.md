@@ -1,7 +1,7 @@
 ---
 title: Prodej softwarových předplatných prostřednictvím CSP
 ms.topic: how-to
-ms.date: 06/18/2020
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si, jak můžou partneři v programu CSP používat Partnerské centrum k nákupu, správě, prodeji a rušení rezervovaných instancí Azure a předplatných serverů pro zákazníky.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527370"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098835"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Prodej předplatných softwaru prostřednictvím programu Cloud Solution Provider (CSP)
 
@@ -49,9 +49,9 @@ Zvýhodněné hybridní využití Azure vám pomůže získat větší hodnotu z
 > | Antarktida     | Guernsey     | Svatý Bartoloměj   |
 > | Antigua a Barbuda       | Guinea     | Svatá Lucie   |
 > | Aruba       | Guinea-Bissau     | Svatý Martin (Francie)   |
-> | Ázerbájdžán       | Guyana     | Saint-Pierre a Miquelon   |
+> | Ázerbájdžán       | Guyana     | Saint Pierre a Miquelon   |
 > | Benin     | Haiti       | Svatý Vincenc a Grenadiny     |
-> | Bhútán     | Heardův ostrov a MacDonaldovy ostrovy       | Samoa     |
+> | Bhútán     | Heardův ostrov a McDonaldovy ostrovy       | Samoa     |
 > | Bonaire     | Ostrov Man     | San Marino     |
 > | Bouvetův ostrov     | Jan Mayen     | Svatý Tomáš a Princův ostrov   |
 > | Britské indickooceánské území       | Jersey     | Seychely   |
@@ -64,7 +64,7 @@ Zvýhodněné hybridní využití Azure vám pomůže získat větší hodnotu z
 > | Čína     | Malawi     | Jižní Súdán     |
 > | Vánoční ostrov     | Maledivy     | Svatá Helena, Ascension a Tristan da Cunha     |
 > | Kokosové ostrovy     | Mali     | Surinam     |
-> | Komory     | Marshallovy ostrovy     | Svalbard     |
+> | Komory     | Marshallovy ostrovy     | Špicberky     |
 > | Kongo     | Martinik     | Svazijsko     |
 > | Konžská demokratická republika     | Mauritánie     | Timor Leste   |
 > | Cookovy ostrovy     | Mayotte     | Togo   |
@@ -72,7 +72,7 @@ Zvýhodněné hybridní využití Azure vám pomůže získat větší hodnotu z
 > | Dominika     | Montserrat     | Tonga   |
 > | Rovníková Guinea     | Mosambik     | Ostrovy Turks a Caicos   |
 > | Eritrea     | Myanmar     | Tuvalu   |
-> | Falklandské ostrovy     | Nauru     | Menší odlehlé ostrovy USA   |
+> | Falklandské ostrovy     | Nauru     | Odlehlé ostrovy USA   |
 > | Francouzská Guyana     | Nová Kaledonie     | Vanuatu   |
 > | Francouzská Polynésie     | Niger     | Vatikán   |
 > | Francouzská jižní území     | Niue     | Wallis a Futuna   |
@@ -92,27 +92,18 @@ Zakoupení předplatných softwaru jménem zákazníka:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivace a správa softwarových předplatných
 
-Po zakoupení odběru softwaru použijte následující postup a Stáhněte si ho.
+Po zakoupení softwaru si ho zákazníci potřebují stáhnout. K tomu použijte následující postup.
 
 >[!NOTE]
->Abyste mohli stahovat software a získávat aktivační klíče, musíte být agentem správce.
+>K získání klíčů a souborů ke stažení musíte být agentem správce.
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
-
-2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
-
-3. Přejít na stránku podrobností zákazníka a pak vybrat **software**. Zobrazí se seznam veškerého softwaru, který jste si koupili jménem zákazníka. 
-
-4. Rozbalte produkt, který chcete stáhnout. V poli **Vybrat produkt** vyberte požadovanou **verzi**, **jazyk** a **typ souboru/operační systém** . 
-
-5. Vyberte **Odeslat** pro zobrazení konkrétních produktů. 
-
-6. Vyberte **získat klíče a soubory ke stažení**. 
-
-7. Vyberte **Stáhnout** a začněte stahovat, nebo vyberte **Kopírovat odkaz** a zkopírujte odkaz a odešlete ho zákazníkovi. 
+1. Přejít na stránku podrobností zákazníka a pak vybrat **software**. Zobrazí se seznam veškerého softwaru, který jste si koupili jménem zákazníka.
+2. Zkopírujte odkaz s přímým odkazem **na kódy Product Key a** Stáhněte a sdílejte odkaz s vaším zákazníkem. Když tento odkaz vyberou, budou přesměrováni do centra pro správu Microsoftu, kde si můžete stáhnout a získat kódy Product Key.
 
 >[!NOTE]
->Platnost tohoto odkazu vyprší po dvou týdnech nebo 50 souborech ke stažení, podle toho, co nastane dřív. Až vyprší platnost odkazu, vraťte se na tuto stránku a znovu vyberte **získat klíče a soubory ke stažení** , aby bylo možné povolit další dva týdny nebo 50 souborů ke stažení. To můžete provést tolikrát, kolikrát potřebujete. 
+>Kódy Product Key a informace ke stažení můžou zobrazit jenom zákazníci v centru pro správu Microsoftu. Partneři nevidí tyto informace.
+
+Pokud vás nebo vaši zákazníci chtějí získat další informace o stahování licenčních klíčů, přečtěte si téma [Stažení softwaru a licenčních kódů produktů](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Stažení předplatného serveru a licenční klíče dostupné prostřednictvím centra pro správu Microsoft 365 pro zákazníky 
 

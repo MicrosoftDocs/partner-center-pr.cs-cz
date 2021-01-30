@@ -1,7 +1,7 @@
 ---
 title: Prodej místního softwaru prostřednictvím CSP
 ms.topic: how-to
-ms.date: 01/15/2021
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si, jak můžou partneři v programu CSP koupit, spravovat, prodávat a zrušit místní předplatné softwaru jménem zákazníků v partnerském centru.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584165"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098852"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Prodej místního softwaru prostřednictvím programu Cloud Solution Provider (CSP)
 
@@ -37,13 +37,16 @@ Pokud chcete koupit předplatné softwaru jménem zákazníka, přejděte na str
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivace a správa softwarových předplatných
 
-Po zakoupení softwaru je budete vy a vaši zákazníci muset stáhnout. K tomu použijte následující postup. 
+Po zakoupení softwaru si ho zákazníci potřebují stáhnout. K tomu použijte následující postup.
 
 >[!NOTE]
 >K získání klíčů a souborů ke stažení musíte být agentem správce.
 
 1. Přejít na stránku podrobností zákazníka a pak vybrat **software**. Zobrazí se seznam veškerého softwaru, který jste si koupili jménem zákazníka.
-2. Zkopírujte odkaz z **odkazu na kódy softwarového produktu a** Stáhněte si odkaz a sdílejte ho s vaším zákazníkem. Když tento odkaz vyberou, budou přesměrováni na portál pro správu Microsoft, který stáhne a získá kódy Product Key.
+2. Zkopírujte odkaz s přímým odkazem **na kódy Product Key a** Stáhněte a sdílejte odkaz s vaším zákazníkem. Když tento odkaz vyberou, budou přesměrováni do centra pro správu Microsoftu, kde si můžete stáhnout a získat kódy Product Key.
+
+>[!NOTE]
+>Kódy Product Key a informace ke stažení můžou zobrazit jenom zákazníci v centru pro správu Microsoftu. Partneři nevidí tyto informace.
 
 Pokud vás nebo vaši zákazníci chtějí získat další informace o stahování licenčních klíčů, přečtěte si téma [Stažení softwaru a licenčních kódů produktů](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 

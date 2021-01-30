@@ -1,19 +1,19 @@
 ---
 title: Pole souboru rekognoskaci pro jednorázové nákupy CSP
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: Přečtěte si o všech položkách v souboru pro odsouhlasení s jednorázovým nákupem CSP v partnerském centru, včetně ukázkových hodnot.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182575"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098801"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pole souboru pro odsouhlasení s jedním časovým nákupem CSP
 
@@ -48,7 +48,7 @@ Další informace o souborech pro odsouhlasení najdete v tématu [použití sou
 | Měna | Vaše vyúčtování se vygeneruje v souvislosti s měnou zákazníka. To znamená, že pokud jste partnerem s podporou transakcí z různých fakturovatelných měn, obdržíte fakturu za každý typ měny zákazníka.  | *EUR* |
 | PriceAdjustmentDescription | Důvody pro úpravy v ceně jednotky. Jedná se o hlavní důvody, ale ne omezené na určení efektivní jednotkové ceny. | *["15,0% kredit získaný pro partnery pro spravované služby"]* |
 | Název vydavatele | Vydavatel produktu.  | *Microsoft* |
-| PublisherId | Jedinečný identifikátor, který Partnerské centrum používá k identifikaci vydavatele. | *NÁ* |
+| PublisherId | Jedinečný identifikátor, který Partnerské centrum používá k identifikaci vydavatele. | *NA* |
 | SubscriptionDescription | Název nabídky služby zakoupené zákazníkem, jak je definováno v ceníku. Tento sloupec je identickým polem, které nabízí. | *Plán Azure* |
 | SubscriptionId | Jedinečný identifikátor předplatného na platformě fakturace Microsoftu Nepoužívá se pro odsouhlasení. Všimněte si, že tento identifikátor není stejný jako ID předplatného v konzole pro správu partnerů. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Datum, kdy se účtuje poplatky za poplatek za předplatné služby. Pokud je předplatné zakoupené s ročním fakturačním obdobím a měsíčním fakturačním plánem, pak v prvním souboru pro odsouhlasení se jedná o den zakoupení předplatného. Počínaje dalším souborem pro odsouhlasení se zvýší o 30 dní. | *9/1/2020* |
@@ -58,12 +58,15 @@ Další informace o souborech pro odsouhlasení najdete v tématu [použití sou
 | Jednotkách UnitType | Typ jednotky, ve které se měřič účtuje. | *1 GB/měsíc* |
 | AlternateId | Alternativní ID položky odkazovaného řádku objednávky | *6dc5c039750a* |
 | BillableQuantity | Celkové fakturované množství.  | *0,005001* |
-| BillingFrequency | Plán fakturace vybraný v době nákupu. | *NÁ*  |
+| BillingFrequency | Plán fakturace vybraný v době nákupu. | *NA*  |
 | PricingCurrency | Měna v ceníku. | *USD* |
 | PCToBCExchangeRate | Směnný kurz, který se použije pro cenovou měnu a fakturační měnu. | *0,846202666* |
 | PCToBCExchangeRateDate | Datum, kdy se stanoví cenová měna pro fakturační měnu | *30. září 2020* |
 | MeterDescription | Popis měřiče  | *Tabulky – uložená data LRS (GB/měsíc)* |
 | ReservationOrderId | ID objednávky rezervace | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>Můžete sjednotit využití Azure v jednorázovém souboru rekognoskaci nákupu. Provedete to tak, že přejdete na denní hodnocený soubor rekognoskaci využití a vyhledáte ID předplatného. Zobrazí se všechny náklady spojené s vaším ID plánu Azure. Vaše ID předplatného Azure se zobrazuje jako EntitlementID.
 
 ## <a name="next-steps"></a>Další kroky
 

@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
+ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924975"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99065467"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Naučte se, jak v programu Cloud Solution Provider spolupracuje s nepřímými poskytovateli.
 
@@ -76,8 +76,8 @@ Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskyt
    > [!IMPORTANT]  
    > Abychom vám pomohli zajistit zabezpečení a ochranu osobních údajů vaší společnosti, pošleme primární kontakt e-mailem, abyste ověřili, že (1) nebo se zaregistroval účet partnerského centra, a (2) Tato e-mailová adresa patří vaší společnosti. Jakmile primární kontakt ověří svou e-mailovou adresu, budeme pokračovat v naší kontrole informací, které jste zadali. Pošleme e-mailem aktualizace stavu registrace primárnímu kontaktu.
 
-5. Přidružte své ID MPN k vašemu účtu CSP. 
-  Váš účet CSP a přidružené ID MPN se musí nacházet ve stejné zemi.
+5. Přidružte své ID MPN k vašemu účtu CSP. Váš účet CSP a přidružené ID MPN se musí nacházet ve stejné zemi a ID MPN musí být v partnerském centru.
+  
 
    a. Přihlaste se do partnerského centra s přihlašovacími údaji účtu MPN (vaše přihlašovací údaje programu MPN se můžou lišit od vašich přihlašovacích údajů CSP).
    
@@ -88,10 +88,9 @@ Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskyt
     d. Pokud nemůžete najít umístění MPN ID, které odpovídá účtu CSP, který chcete použít, můžete přidat nové umístění, ve kterém se vytvoří nové ID MPN. Další informace a [Správa umístění](manage-locations.md).
 
     e. Tento krok prozatím můžete odložit, ale nebudete moct podepsat smlouvu o partnerovi Microsoftu (MPA) nebo transakční program v CSP, dokud nedokončíte přidružení ID MPN k vašemu účtu CSP.
-    
-     
+
  > [!IMPORTANT]  
-   > Vyberte ID MPN, které se nachází ve stejné zemi jako váš účet CSP.
+ > Vyberte ID MPN, které je dostupné v partnerském centru, ve stejné zemi jako váš účet CSP a ujistěte se, že je vaše ID MPN v partnerském centru.
 
 6. Jakmile Microsoft dokončí ověření registrace, které trvá 3-5 pracovních dnů, podepište na [řídicím panelu partnerského centra](https://partner.microsoft.com/pcv/dashboard/overview) na stránce s použitím přihlašovacích údajů globálního správce smlouvu s partnerem Microsoftu. Pokud chcete před podepsáním zobrazit a stáhnout **smlouvu partnera Microsoftu** , klikněte na odkaz Microsoft Partner Agreement, jak je uvedeno níže.  Pokud je váš účet zablokovaný v ověřování po dobu 5 pracovních dnů, přečtěte si [proces ověření účtu](verification-responses.md).
 
