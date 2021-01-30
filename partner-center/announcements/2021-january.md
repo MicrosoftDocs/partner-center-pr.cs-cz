@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 2879a129879f894da89f57dc79366d2122a4a160
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042731"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098869"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -180,7 +180,7 @@ Právě probíhá implementace partnerské smlouvy Microsoftu pro nepřímé pro
 
 ### <a name="questions"></a>Máte otázky?
 
-Všechny otázky související s tímto oznámením vám poskytne [Podpora partnerského centra](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+Všechny otázky související s tímto oznámením kontaktuje [partnerská podpora partnerského centra](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) .
 
 ________________
 ## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> Změny protokolu auditu partnerského centra pro zahrnutí dvou nových typů operací pro DAP
