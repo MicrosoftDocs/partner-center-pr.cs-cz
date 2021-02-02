@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: Výjimka z kompetence Application Development
           href: app-dev-isv.md
+        - name: Použití sestavy dovedností
+          href: mpn-skills-report.md
     - name: Rozšířené specializace
       items:
         - name: Předvedení vaší odbornosti
