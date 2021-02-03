@@ -9,44 +9,43 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
+ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622197"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "99480064"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Správa příležitostí společného prodeje v partnerském centru
 
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
 - Správce partnera MPN
 - Správce odkazů
 
-Využijte výhod společného prodejního příležitosti.  Příležitosti společného prodeje představují spolupráci více stran při prodeji produktů, které splňují požadavky zákazníků. Tento článek vám pomůže pochopit, jak můžete využít sílu společného prodeje v partnerském centru, abyste mohli efektivně prodávat a získávat nové zákazníky.
+Využijte výhod společného prodejního příležitosti.  Vzájemná prodejní příležitost je spolupráce více stran při prodeji produktů, které splňují požadavky zákazníků. Tento článek vám pomůže pochopit, jak můžete využít sílu společného prodeje v partnerském centru, abyste mohli efektivně prodávat a získávat nové zákazníky.
 
 ## <a name="types-of-co-sell-opportunities"></a>Typy příležitostí společného prodeje
 
-**Společný prodej** – tady je jeden nebo více prodejců Microsoftu, kteří se aktivně podílejí na řešení problémů zákazníků. Příležitosti můžou pocházet z účtu zákazníka, kde obchodní zástupce Microsoftu pozve partnera k účasti na aktivitě spoluprodejní nebo od partnera, kde od Microsoftu potřebuje další technickou podporu k uzavření obchodu.
+Vzájemně se **prodávají příležitosti** – jedná se o to, že jeden nebo více prodejců Microsoftu se aktivně zapojí do řešení problémů zákazníků. Příležitosti můžou pocházet z účtu zákazníka, kde obchodní zástupce Microsoftu pozve partnera k účasti na aktivitě spoluprodejní nebo od partnera, kde potřebují další informace od Microsoftu, aby mohli obchod uzavřít.
 
 **Partner pro partnery (P2P)** – v takovém případě může jeden partner pozvat další partnery z ekosystému společného prodeje Microsoftu, aby spolupracovali. Partneři mohou volitelně pozvat prodejního zástupce Microsoftu na obchod, aby mohli obchod uzavřít. Oba partneři i Microsoft můžou být pozvaní i po vytvoření obchodu, pokud je ještě před dokončením. (Poznámka: dokončení zahrnuje výhry, ztráty, odmítnutí a vypršení platnosti).
 
-**Soukromá koupě** – jedná se o případ, kdy se partner rozhodne pracovat nezávisle na koupi, která byla vytvořena v partnerském centru. Partneři mají možnost pozvat prodejce Microsoftu po vytvoření obchodu a učinit tak spolupráci v rámci spolupráce. Podrobnosti o obchodování se nesdílí s prodejním týmem Microsoftu až do doby, kdy partner výslovně požádá o prodejní podporu Microsoftu.
+**Soukromá koupě** – jedná se o případ, kdy se partner rozhodne pracovat nezávisle na koupi, která byla vytvořena v partnerském centru. Partneři můžou poskytnout lepší prodejní tým Microsoftu nebo pozvat prodejcům Microsoftu, kteří hledají aktivní pomoc po vytvoření obchodu. Podrobnosti o obchodování se nesdílí s prodejním týmem Microsoftu, dokud partneři nevýslovně pro otázku nevybrali možnost Ano, pokud chcete, aby si tuto práci mohli zobrazit i prodejci Microsoftu? " nebo požádejte o nápovědu k prodejnímu týmu Microsoftu tak, že vyberete jednu z možností pro otázku. "určete druh vaší aplikace, které potřebujete od Microsoftu?".
+
+**Obchod s podporou partnera** – tyto obchody se rozhodnou, že se partner rozhodne pracovat nezávisle na koupi, ale je v pořádku s poskytnutím přehledu o podrobnostech o obchodu pro členy prodejního týmu Microsoftu. Po vytvoření obchodu můžou partneři pozvat prodejce Microsoftu. Tyto obchody mají nárok na registraci koupě, pokud je k dispartii opravňující řešení součástí obchodu. K registraci koupě se nevyžaduje pozvání od Microsoftu, pokud je splněná vhodná kritéria řešení. Můžete vytvořit obchod s vyvolaným obchodním partnerem tím, že odpovíte na otázku ano, pokud chcete, aby si tento obchod mohli zobrazit i prodejci Microsoftu? "
 
 **Posouzení řešení (SA)** – tyto typy obchodů je možné vytvořit pouze pomocí sady partnerů, kteří jsou prověřené obchodním týmem řešení řešení pro vyhodnocování technologií pro zákazníky, kteří používají nebo plánují používání technologií Microsoftu.
 
 > [!NOTE]
-> Sem patří soukromé obchody, i když nejsou skutečně týmová spolupráce, a poskytují tak snadnou cestu k upgradu libovolného kanálu v jakékoli neterminálové fázi (**výhra, ztráta, zamítnutí a platnost**).
+> Soukromé obchody, i když nejsou skutečně týmová spolupráce, jsou součástí karty příležitosti pro společné prodeje, které poskytují snadnou cestu k upgradu libovolného kanálu v rámci neterminálové fáze (**výhra, ztráta, zamítnutí a platnost**).
 
 ## <a name="navigating-the-co-sell-section"></a>Navigace v části společný prodej
 
 Chcete-li získat přístup k části spoluprodej, postupujte takto:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra.
+1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
 
 2. V nabídce vlevo vyberte položku **odkazy** a potom **možnosti společného prodeje**.
 
@@ -67,7 +66,7 @@ Můžete vytvořit tři typy příležitostí.
 
 ### <a name="select-your-customer"></a>Vybrat zákazníka
 
-Vyberte zákazníka pro tuto konkrétní obchod. Zadejte jejich umístění a začněte psát název. Automatický návrh začne zobrazovat doporučení na základě kritérií hledání. Vzhledem k tomu, že mnoho společností má více než jednu obchodní entitu ve stejném umístění, může se zobrazit více výsledků. Pokud si nejste jistí, která z nich si zvolíte, můžete si ověřit, které číslo D-U-N-S vašemu zákazníkovi patří. Ujistěte se, že jste vybrali přesnou shodu pro zákazníka, se kterým pracujete.
+Vyberte zákazníka pro konkrétní obchod. Zadejte jejich umístění a začněte psát název. V poli návrh se začnou zobrazovat doporučení na základě kritérií hledání. Vzhledem k tomu, že mnoho společností má více než jednu obchodní entitu ve stejném umístění, může se zobrazit více výsledků. Pokud si nejste jistí, která z nich si zvolíte, můžete si ověřit, které číslo D-U-N-S vašemu zákazníkovi patří. Ujistěte se, že jste vybrali přesnou shodu pro zákazníka, se kterým pracujete.
 
 Po kliknutí na **vybrat zákazníka** se zobrazí výzva, abyste zadali jméno, telefonní číslo a e-mailovou adresu osoby, která je vaším hlavním kontaktním bodem tohoto obchodu. Tyto podrobnosti jsou volitelné a jsou vyžadovány pouze v případě, že plánujete pozvat prodej na Microsoft, abyste vám mohli při zapojení. Vyberte **Další**.
 
@@ -104,18 +103,20 @@ V této části je potřeba poskytnout informace související s řešeními, kt
 > [!Important]
 > Pro posouzení řešení lze vybrat pouze jeden typ posouzení a nelze přidat žádná další řešení. Jakmile vyberete hodnocení řešení, musí partner zvolit umístění, pro které se hodnocení vytváří. To je potřeba pro správné výběry s pobídkou.
 
-Jakmile budete mít k dispozici informace o řešení, vyberte další a přejděte k části, kde můžete rozhodnout o typu prodeje. Máte tři možnosti, pokud jste zvolili řešení z prvních tří možností, nikoli vyhodnocení řešení:
+Jakmile budete mít k dispozici informace o řešení, vyberte další a přejděte k části, kde můžete rozhodnout o typu prodeje. Máte čtyři možnosti, pokud jste vybrali řešení z prvních tří možností v typu řešení a nikoli vyhodnocení řešení:
 
-**Soukromá koupě**: Pokud nechcete, aby se v tomto kroku vytvořila žádná akce, bude se jednat o typ privátního kanálu. Prodejci Microsoftu nebudou mít přehled o této koupi.
+**Soukromá koupě**: Pokud nechcete, aby se v tomto kroku vytvořila žádná akce, bude se jednat o typ privátního kanálu. Prodejci Microsoftu nebudou mít přehled o této koupi. Soukromou práci můžete vytvořit tak, že v této chvíli vyberete pro otázku **nepotřebnou nápovědu** . **"určete druh požadované Nápověda od společnosti Microsoft?"** a **ne** pro otázku **"Přejete si, že chcete tuto práci zobrazit jako prodejci Microsoftu?"**. Soukromou práci můžete kdykoli upgradovat na partnerský nebo aktivní společný obchod, ještě než se obchod dostane do stavu terminálu (výhra, ztraceno).
 
 > [!Important]
 > Registrace koupě se nevztahuje na soukromé obchody. Vyzkoušejte si opatrnost při vytváření privátních obchodních operací s motivací opravňujícími řešeními, protože nebudou mít nárok na registraci koupě v partnerském centru.
 
-**Společný prodej:** Pokud vyberete jinou možnost, než je výchozí výběr otázky, **Určete typ vaší aplikace, které byste chtěli od společnosti Microsoft, a zařadí** se do společného obchodování, kde vám může prodejce Microsoftu pomáhat s uzavřením obchodu. Žádost o technickou podporu od Microsoftu není nijak zaručena, že se prodejce Microsoftu účastní obchodu. Microsoft Sales zástupci mají 14 dnů na rozhodnutí, jestli se chtějí zúčastnit. V části poznámky Nezapomeňte určit typ požadované aplikace.
+Způsob **obchodování s partnery**: Pokud si přejete, aby nedošlo k žádné aktivní nápovědě od prodejního týmu Microsoftu, ale chcete jim umožnit, aby se do vašeho kanálu připustili, můžete vytvořit obchod s tímto partnerem. Můžete vytvořit práci, která se zavedla k partnerským partnerům, a **to** tak, že pro otázku **určíte druh vaší aplikace, kterou od Microsoftu potřebujete** . a **Ano** pro otázku **"Přejete si, aby si je mohli prodejci Microsoftu zobrazit?"**. Tyto obchody mají nárok na registraci koupě, i když se společnost Microsoft prodávající aktivně nezabývá tím, že pomáhá partnerovi. Požadavky na registraci koupě mají v rámci obchodu a získaného stavu obchodu k disměněelné řešení.
+
+**Společný prodej:** Pokud vyberete jinou možnost, než je výchozí výběr otázky, **Určete typ vaší aplikace, které byste chtěli od společnosti Microsoft**, a zamění se společný prodej, kde vám může prodejce Microsoftu pomáhat s uzavřením obchodu. Žádost o technickou podporu od Microsoftu nezaručuje, že se bude zúčastněný prodejce Microsoftu zúčastnit obchodu. Microsoft Sales zástupci mají 14 dnů na rozhodnutí, jestli se chtějí zúčastnit. V části poznámky Nezapomeňte určit typ požadované aplikace.
 
 **Obchod s partnery pro partnery (P2P)**: můžete pozvat další partnery do obchodu kliknutím na odkaz pozvat partnera. Níže je uvedený postup pro vytvoření koupě P2P.
 
-- **Vyberte partnera:** Po kliknutí na pozvat partnera budete moct začít psát název partnera a získat tak navrhovaný seznam partnerů, kteří odpovídají názvu, který zadáváte. Vyberte partnera, který vás zajímá, aby pro tohoto partnera vyplnil další podrobnosti. Můžete hledat jenom partnery, kteří jsou v ekosystému pro spoluprodejní společnosti Microsoft a používají se v partnerském centru k vytváření transakcí.
+- **Vyberte partnera:** Po kliknutí na pozvat partnera budete moct začít psát název partnera a získat tak navrhovaný seznam partnerů, kteří odpovídají názvu, který zadáváte. Vyberte partnera, který vás zajímá, abyste pro tohoto partnera vyplnili další podrobnosti. Můžete hledat jenom partnery, kteří jsou v ekosystému pro spoluprodejní společnosti Microsoft a používají se v partnerském centru k vytváření transakcí.
 
 - **Odhadované datum ukončení:** Toto je datum, kdy očekáváte, že pozvaní partneři dokončí svou součást obchodu. Datum je předem vyplněné, takže se můžete rozhodnout, že budete upravovat datum pouze v případě potřeby. Je to povinné pole, které může upravit partner, kterého zvete po vytvoření obchodu. Po vytvoření obchodu nelze toto pole změnit.
 
@@ -129,7 +130,7 @@ Jakmile budete mít k dispozici informace o řešení, vyberte další a přejd�
 
 - **Určete typ nápovědě:** Identifikujte typ pomocníka: nakonec Určete konkrétní potřebnou podporu od pozvaného partnera.
 
-Tuto akci opakujte pro všechny partnery, které chcete pozvat, aby byly součástí této práce. Partnerský obchod se může také dodílet na partnerovi Microsoftu, kde zvete Microsoftu i partneři do obchodu. Po vytvoření obchodu můžete také požádat o Microsoft i partnery později.
+Tento postup opakujte pro všechny partnery, kterým chcete pozvat k této koupi. Partnerský obchod se může také dodílet na partnerovi Microsoftu, kde zvete Microsoftu i partneři do obchodu. Po vytvoření obchodu můžete také požádat o Microsoft i partnery později.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Reakce na příležitost společného prodeje
 
@@ -149,7 +150,7 @@ Pokud jste v této fázi obdrželi novou příležitost k prodeji buď od prodej
 
 ### <a name="accepted-stage"></a>Přijatá fáze
 
-Pracujte na uzavření obchodu se zákazníkem. Pokud chcete změnit některou z informací, které jste zadali pro přijatý odkaz, vyberte **Upravit**. Potom můžete aktualizovat název obchodu, odhadované datum nákupu, odhadované hodnoty, poznámky, CRM ID a/nebo ID marketingové kampaně.  Můžete také vybrat možnost **Přidat tým** a zadat jméno, telefonní číslo a e-mailové adresy všech dalších osob, které na obchod pracují. Řešení je také možné upravovat v závislosti na potřebě zákazníka.
+Pracujte na uzavření obchodu se zákazníkem. Pokud chcete změnit některou z informací, které jste zadali pro přijatý odkaz, vyberte **Upravit**. Potom můžete aktualizovat název obchodu, odhadované datum nákupu, odhadované hodnoty, poznámky, CRM ID a/nebo ID marketingové kampaně.  Můžete také vybrat možnost **Přidat tým** a zadat jméno, telefonní číslo a e-mailové adresy všech dalších lidí, kteří na obchod pracují. Řešení je také možné upravovat v závislosti na potřebě zákazníka.
 
 Všechny obchody, které jste vytvořili, jsou ve výchozím nastavení v přijaté fázi.
 
@@ -182,14 +183,15 @@ Až budete hotovi, můžete provést jednu ze dvou akcí, což označuje, že se
 
 Obchod bude způsobilý k registraci koupě pouze v případě, že splňuje všechna níže uvedená kritéria.
 
-1. Společnost Microsoft se vyzývá k obchodování.
-2. Společnost Microsoft buď přijala pozvánku, nebo ji označila jako získanou. Stav společnosti Microsoft si můžete porozumět na kartě společnosti Microsoft pod podrobnostmi o vaší koupi.
-3. V rámci obchodu je vhodné řešení s motivací.
+- Typ kouposti je buď společný prodej, nebo partner.
+- V rámci obchodu je vhodné řešení s motivací.
+- Stav obchodu se vyhrál.
+- Pokud je typ obchodu spoluprodeji, společnost Microsoft tuto pozvánku přijala nebo ji označila jako získanou. Stav společnosti Microsoft si můžete porozumět na kartě společnosti Microsoft pod podrobnostmi o vaší koupi.
 
 > [!Important]
 > Zaregistrujte se do obchodu jenom v případě, že je název vaší společnosti a opravňující řešení v rámci obchodu jasně zmíněn v kontraktu se zákazníkem.
 
-Pokud máte nárok na registraci koupek, bude do životního cyklu obchodu s názvem "registrace Koupek" přidán další milník, jak je vidět níže.
+Pokud máte nárok na registraci koupek, bude do životního cyklu obchodu s názvem "registrace Koupek" přidán další milník, jak je znázorněno níže.
 
 :::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Obrázek znázorňující životní cyklus obchodu, umístění, ze kterého lze zahájit registraci koupě.":::
 
@@ -206,8 +208,10 @@ V následující tabulce jsou uvedeny kombinace, které mohou být v této fázi
 |**Původní typ kouposti**|**Kdo může být přizván**|**Poznámky**|
 |-----|:-----|:-----|
 |Privátní|Microsoft a/nebo jiní partneři|Obchod se bude upgradovat na společný prodej, pokud se Microsoftu pozve.|
+|Privátní|Prodejní tým Microsoftu pro zobrazení obchodů|Obchod se bude upgradovat na partnera, který vede, když má prodejní tým Microsoftu přehled o tom, jaké jsou obchody.|
+|Vedla k partnerům|Microsoft a/nebo jiní partneři|Obchod se bude upgradovat na společný prodej, pokud se Microsoftu pozve.|
 |Společný prodej|Jiní partneři|Ostatní partneři mohou být pozváni pouze v případě, že vaše společnost zahájila obchod. Na kartě příchozí se nedají pozvat partneři na obchody.|
-|Partner k partnerovi bez Microsoftu|Partnerský vztah Microsoftu|Obchod se upgraduje na obchod v rámci společného prodeje.|
+|Partner k partnerovi bez Microsoftu|Microsoft|Obchod se upgraduje na obchod v rámci společného prodeje.|
 |Partner k partnerovi bez Microsoftu|Jiní partneři||
 
 ### <a name="closed-stage"></a>Uzavřená fáze
@@ -216,17 +220,25 @@ Toto je finální fáze pro všechny příležitosti. Můžete zobrazit všechny
 
 ## <a name="frequently-asked-questions"></a>Nejčastější dotazy
 
-**Dotazu. Je možné úpravu obchodu po označení výhry nebo ztráty?**
+**Č. Je možné úpravu obchodu po označení výhry nebo ztráty?**
 
 Ne, obchody se po přesunu do stavu terminálu nedají změnit. Vypršení platnosti, zamítnutí, výhry a ztráty jsou stavy terminálů, ve kterých nejsou k dispozici žádné další aktualizace k obchodování. Pokud přesouváte práci do libovolného z těchto stavů terminálu, vyzkoušejte opatrnost.
 
-**F2. Kdo dostane e-mailové oznámení z partnerského centra?**
+**Č. Kdo dostane e-mailové oznámení z partnerského centra?**
 
 Následující pracovní postup vysvětluje, jak se e-maily odesílají partnerům ze systému odkazů z partnerského centra pro nové příchozí odkazy na partnery.
 
 :::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Obrázek znázorňující logiku posílání e-mailů partnerům pro nové příchozí odkazy.":::
 
-## <a name="getting-more-co-sell-opportunities"></a>Získání více příležitostí společného prodeje
+**Č. Jaký typ pobídek má nárok na registraci koupí?**
+
+Pro registraci koupě jsou způsobilé pouze pobídky IP. Mezi ně patří
+
+- Azure IP – společný prodej
+- Aplikace pro přidanou aplikaci
+- Aplikace pro aplikaci pro aplikace
+
+## <a name="get-more-co-sell-opportunities"></a>Získat další příležitosti pro společný prodej
 
 Tady je několik tipů, které vám pomůžou získat více příležitostí, které jsou vhodné pro vaši firmu:
 
