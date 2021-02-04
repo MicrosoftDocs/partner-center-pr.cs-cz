@@ -1,52 +1,44 @@
 ---
 title: Prodloužení platnosti nabídek MPN
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/02/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Nabídky pro obnovení Microsoft Partner Network (MPN) pro Microsoft Action Pack & kompetence – okno obnovení začíná výročí zakoupeného data plus jeden den.
+description: Nabídky pro obnovení Microsoft Partner Network (MPN) pro kompetence a rozšířené specializace – okno obnovení začíná výročí zakoupeného data a navíc jeden den.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: be1590d83f6349e9caeb85ed9303e7a10d0cca6b
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "92527156"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552430"
 ---
-# <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Obnovte své nabídky MPN pro Microsoft Action Pack a kompetence během intervalu obnovování.
+# <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Obnovte své nabídky MPN pro kompetence a rozšířené specializace během intervalu obnovování.
 
 ### <a name="applies-to"></a>Platí pro
 
 - Partnerské centrum
 
-Microsoft Action Pack a technologie stříbrného a zlatého kompetence jsou nabídky pro členy Microsoft Partner Network, které vyžadují roční obnovení. Vaše okno pro obnovení začíná na výročním datu nákupu a navíc za jeden den. Pokud jste například zakoupili sadu Microsoft Action Pack od 1. září 2018, vaše okno pro prodloužení začíná 2. září 2019. Můžete obnovit Microsoft Action Pack a kompetence v partnerském centru. V části nabídky členství najdete vaše zakoupené nabídky a v rámci sloupce Datum zahájení obnovení můžete najít datum výročí pro vaše nabídky. Členství v Microsoft Partner Network samotné nevyžaduje roční obnovení. 
+## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Reakce na COVID-19: Microsoft Partner Network Update
 
-Pokud se chcete dozvědět víc, vyberte odpovídající odkaz níže: 
+Aktualizace 27. ledna 2021:  
 
-- [Kompetence](learn-about-competencies.md)
+Společnost Microsoft odchýlí požadavky na kompetenci a pokročilou specializaci pro všechny partnery, kteří mají datum výročí (AD) mezi 1. ledna 2021 a 30. června 2021. Výjimkou je Business Applications kompetence v cloudu (certifikátů), pro které partneři, kteří mají AD na nebo později od 2021 1. dubna 2021, budou platit 15 bodů na požadavky na metriky růstu funkce Function konzultanta v rámci konstrukce PCI.  
 
-- [Microsoft Action Pack](mpn-get-action-pack.md)
+**Partneři s kompetencemi (s výjimkou kompetence Cloud Business Applications kompetence), které mají datum výročí od 1. ledna 2021 do 30. června 2021,** mají nárok na rozšíření kompetence na jednoleté úrovni. Vaše stávající kompetence nebo kompetence rozšiřujeme prostřednictvím vašeho dalšího výročního dne v 2022.Informace, které jsou specifické pro vaši organizaci, budou k dispozici v partnerském centru od února a budou zarovnané do časového rámce pro obnovení.V partnerském centru budete muset provést akci, abyste zaplatili poplatek za kompetenci a dokončili obnovení.Pokud se blížíte ke konci 30denní časového období pro obnovení kompetence a nemůžete ho obnovit v partnerském centru, požádejte o pomoc [partnerskou podporu](https://partner.microsoft.com/support) .  
 
-- [Jak spravovat vaše výhody](manage-your-partner-network-benefits.md)
+**Pro partnery s Business Applications kompetencí cloudu:** Jak už bylo sděleno, hodnocení ukazatelů na partnery (PCI) se projeví od 1. dubna 2021. Pokud je vaše výročí cloudu Business Applications kompetence v rozmezí od 1. ledna 2021 do 31. března 2021, bude nutné splnit požadavky zveřejněné v partnerském centru a uhradit poplatek za kompetenci k dokončení obnovení. Pokud je vaše datum výročí pro Cloud Business Applications kompetence v rozmezí od 1. dubna 2021 do 30. června 2021, bude vám uděleno 15 bodů pro metriku růstu funkčního konzultanta. Je potřeba splnit zbývající požadavky zveřejněné v partnerském centru a uhradit poplatek za kompetenci k dokončení obnovení.  
 
-## <a name="renewal-reminders"></a>Připomenutí obnovení 
+**Pro partnery, kteří obnovují pokročilou specializaci v 2021:** Partneři s pokročilým datem výročí specializace od 1. června 2021 do 30. června 2021 mají nárok na prodloužení platnosti na 2022, pokud si zachováte požadované Gold Competency, které se budou zarovnávat s pokročilou specializací, což může zahrnovat platbu za kompetenci. Informace, které jsou specifické pro vaši organizaci, budou k dispozici v partnerském centru od února a budou zarovnané do časového rámce pro obnovení.  
+
+## <a name="renewal-reminders"></a>Připomenutí obnovení
 
 Máte 30 dní od data výročí obnovení. Vaše výhody v této době trvají. Po patnácti dnech od data výročí vás Microsoft upozorní na nadcházející výročí. Po datu výročí se zobrazí další připomenutí 23 dní. Vaše výhody zůstanou beze změny i po prodloužení platnosti během tohoto okna výročí plus 30denní. Pokud v okně Obnovení neobnovíte, ztratíte své výhody a kompetence.
 
 Po obnovení během intervalu obnovování bude vaše nové datum výročí 365 dní od aktuálního výročí.
-
-## <a name="responding-to-covid-19"></a>Reakce na COVID-19:
-
-Abyste se mohli zaměřit na podporu zákazníků: 
-
-- **Pokud datum výročí kompetence uplyne mezi 1. a 31. prosince 2020**, rozšiřujeme vaše stávající kompetenci nebo kompetenci prostřednictvím vašeho dalšího dne výročí v 2021. Vaše připomenutí obnovení vaší kompetence se aktualizují, aby odrážela tuto novou nabídku. 
-
-- **Pokud se vaše kompetence blíží k obnovení**, uvidíte v partnerském centru, že vaše požadavky byly splněné. Pokud ho chcete prodloužit, budete muset uhradit poplatek za kompetenci v rámci vašeho intervalu obnovení na stránce nabídky členství. 
-
-- **Pokud jste už okno obnovení nezmeškali**, můžete znovu aktivovat svoji kompetenci a znovu získat přístup k prostředkům a výhodám, a to tak, že poplatek platíte na stránku nabídky členství. Toto rozšíření je k dispozici do 31. prosince 2020.
 
 ### <a name="how-to-view-competency-renewal-information"></a>Jak zobrazit informace o obnovení kompetence
 
@@ -56,7 +48,13 @@ Abyste se mohli zaměřit na podporu zákazníků:
 
 3. Vyberte jednu z vašich kompetencí. Zobrazí se upozornění, že jste obdrželi výjimku před splněním požadavků do dalšího data obnovení.
 
-4. Pokud chcete tuto nabídku využít, Projděte si **nabídky členství**. Pro dokončení tohoto procesu možná budete muset zaplatit poplatek za kompetenci v závislosti na stavu nákupu nebo obnovení kompetence. 
+4. Pokud chcete tuto nabídku využít, Projděte si **nabídky členství**. Pro dokončení tohoto procesu možná budete muset zaplatit poplatek za kompetenci v závislosti na stavu nákupu nebo obnovení kompetence.
 
 Pokud chcete využít výhod tohoto rozšíření, musíte přesunout své členství z centra pro členství v partnerovi (PMC) do partnerského centra, aby se obnovila vaše kompetence a platil poplatek. Pokud jste nepřesunuli vaše členství, [Přečtěte si další informace](prepare-pmc-pc-migration.md)   a [proveďte přechod](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   ještě dnes.  
+
+## <a name="next-steps"></a>Další kroky
+
+- [Kompetence](learn-about-competencies.md)
+
+- [Jak spravovat vaše výhody](manage-your-partner-network-benefits.md)
 

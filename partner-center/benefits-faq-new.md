@@ -1,7 +1,7 @@
 ---
 title: Nejčastější dotazy k Microsoft Partner Network výhodám
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: Otázky, které jsou zodpovězené o zásadách týkající se Microsoft Partner Network výhod
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349543"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552393"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Nejčastější dotazy k Microsoft Partner Network výhodám
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349543"
 
 - Správce partnera MPN
 
-
 Následující článek obsahuje odpovědi na některé hlavní partnery Microsoft Partner Network (MPN), kteří mají své výhody pro členství v programu MPN, kompetence a licence k produktu.
+
+## <a name="responding-to-covid-19"></a>Reakce na COVID – 19
+
+**Q.** **naše datum výročí kompetence se připravuje a nemůžeme splnit požadavky na kompetenci kvůli dopadům souvisejícím s COVID-19. Co bychom měli udělat?**
+
+A. Pokud je vaše kompetence dne v rozsahu od 1 do 30. června 2021, rozšiřujeme vaše stávající kompetenci nebo kompetence (s výjimkou Business Applications kompetence cloudu) prostřednictvím vašeho dalšího dne výročí v 2022. Nebudete muset splňovat požadavky na zkoušky a výkon, ale budete platit poplatek za kompetenci.Další informace najdete v našem [blogovém příspěvku](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="membership"></a>Členství
 
@@ -140,18 +145,7 @@ A. Nákup kompetence a aktualizace sady Action Pack se dokončí v partnerském 
 
 A. V případě potřeby můžete přejít do [části Podpora partnerského centra](https://partner.microsoft.com/support) , kde najdete odkazy na prostředky, které vám mohou pomoci, nebo otevřít lístek s týmem podpory pro partnery.
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>Rozšíření kompetence na posunutí efektů COVID-19
-
-**Otázka: nabízí společnost Microsoft nápovědu pro partnery, kteří čelí nějakému obtíži?**
-
-Odpověď: pro partnery, kteří mají datum výročí kompetence v rozmezí od 1. července 2020, rozšiřujeme stávající kompetenci a kompetenci partnera prostřednictvím jejich příštího výročí v 2021. Partner obdrží připomenutí obnovení, aby odrážel tuto novou nabídku. Partner musí zaplatit svůj poplatek za kompetenci během 30denní doby obnovování.
-
-**Otázka: Co když partner vynechal 60denní dobu obnovování?**
-
-Odpověď: partner může znovu aktivovat svou kompetenci a znovu získat přístup k prostředkům a výhodám tím, že účtuje poplatky na stránku nabídky členství v partnerském centru až po dobu 30 dnů a zveřejní jejich datum výročí. Pokud partner vynechal 30denní období odkladu, vystaví své datum výročí zveřejněním lístku podpory prostřednictvím partnerského centra s oznámením, že podrobnosti o žádosti mají být udělené COVID přepsání po uplynutí jejich 30 dnů.
-
-Pokud chcete získat další informace, přečtěte si téma [obnovení nabídky MPN](renew-mpn-offers.md).
-
 ## <a name="next-steps"></a>Další kroky
 
-- [Vyhledání výhod programu Microsoft Partner Network](mpn-find-benefits.md) 
+- [Vyhledání výhod programu Microsoft Partner Network](mpn-find-benefits.md)
+- [Prodloužit nabídku MPN](renew-mpn-offers.md)

@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042697"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552408"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
 Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace často aktualizujeme, proto vám doporučujeme je pravidelně sledovat.
 
-| **Kategorie** | **Oznámení z ledna 2021** | **Datum oznámení** |
+|**Kategorie**|**Oznámení z února 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Možnosti|[Reakce na COVID-19: Microsoft Partner Network Update](2021-february.md#3)|4. února|
+|Možnosti|[Nové aktualizace modulu odkazy v partnerském centru](2021-february.md#2)|4. února|
+|Moderní pracoviště|[Vyřazení a vyřazení rozhraní API kvalifikace pro vzdělávání pro proces ověření zákazníka od 25. února 2021 a získání kvalifikace podle dne 4. května 2021](2021-february.md#1)|4. února|
+| **Kategorie** | **Oznámení z ledna 2021** | **Datum oznámení** |
 |Moderní pracoviště|[Fáze 1: Dnes: v rámci EU/ESVO & Velká Británie v měně pro nové nabídky obchodu](2021-january.md#15)|28. ledna|
 |Moderní pracoviště|[Změny požadavků na onboarding zákazníků do programu Cloud Solution Provider (CSP)](2021-january.md#14)|28. ledna|
 |Možnosti|[Partnerská smlouva Microsoft (MPA) – aktualizace nepřímých prodejců & nových nejčastějších dotazech](2021-january.md#13)|27. ledna|

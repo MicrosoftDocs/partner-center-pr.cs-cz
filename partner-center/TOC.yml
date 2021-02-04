@@ -118,6 +118,9 @@
     - name: Smlouva s partnerem Microsoftu – Poskytovatelé CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Správa umístění
+      href: manage-locations.md
+      displayName: 'mpn, csp'
     - name: Jak nepřímá poskytovatelé můžou svým prodejcům přispět.
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,9 +200,6 @@
         - name: Aktualizace partnerského profilu
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Správa umístění
-          href: manage-locations.md
-          displayName: 'mpn, csp'
         - name: Staňte se dodavatelem ovládacího panelu
           href: enroll-as-cpv.md
           displayName: csp
