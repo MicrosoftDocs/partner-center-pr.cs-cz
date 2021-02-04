@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983333"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530659"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Nahlášení problémů s partnerským centrem a odeslání jakýchkoli informací o protokolu nebo diagnostice
 
@@ -53,7 +53,7 @@ Pokud váš problém vyžaduje konverzaci s poradcem na podporu, můžete naplá
 
 2. Partnerské centrum zkontroluje dostupnost v kalendáři Poradce pro podporu.
 
-1. Po naplánování schůzky vám partnerské Centrum pošle pozvánku do kalendáře s informacemi o tom, jak vás Poradce pro podporu vás bude kontaktovat, takže tuto schůzku můžete sledovat ve svém vlastním pracovním kalendáři.
+1. Po naplánování schůzky vám partnerské Centrum pošle pozvánku do kalendáře s informacemi o tom, jak vás Poradce pro podporu vás bude kontaktovat, takže tuto schůzku můžete sledovat ve svém vlastním pracovním kalendáři.  I když je tato funkce stále ve verzi Preview, pozvánka e-mailu a kalendáře bude v angličtině, ale poradce vám bude moct při vytváření lístků podporovat v jazyce, který jste vybrali.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Datum a čas":::
 

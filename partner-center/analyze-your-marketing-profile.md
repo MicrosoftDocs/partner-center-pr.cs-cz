@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776783"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530829"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analýza potenciálních zákazníků – Podívejte se, jak dobře přilákat cílové zákazníky a potenciální odkazy
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analýza potenciálních zákazníků – zjistěte, jak se vám daří lákat cílové zákazníky a potenciální doporučení
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Příslušné role**
 
 - Správce odkazů
-
-**Platí pro**
-
-- Zájemci na Marketplace
-- Kvalifikovaní zájemci
 
 Stránka s **zájemci** v části **Analýza** v tématu odkazy vám umožní zjistit, jak vaše odkazy provádějí. Pravidelně kontrolujte tyto metriky a Identifikujte trendy nebo oblasti, které vyžadují pozornost, a začněte přispívat k vašim obchodním cílům.
 
@@ -115,3 +110,7 @@ Existuje několik důvodů, proč při přístupu k analýze zájemců, jak je p
 
 > [!TIP]
 > Pokud chcete zjistit, jak se účtují příležitosti pro společný prodej, Projděte si [stránku Přehled příležitostí pro spoluprodej](referral-insights.md).
+
+## <a name="next-steps"></a>Další kroky
+
+- [Správa potenciálních zákazníků](manage-leads.md)

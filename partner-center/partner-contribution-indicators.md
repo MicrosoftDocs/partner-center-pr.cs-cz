@@ -1,7 +1,7 @@
 ---
 title: Ukazatele příspěvku partnera – certifikátů
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si o sedmi ukazatelích příspěvků partnerů (PCI), které ukazují partnery, jak dosáhnout vysoké nebo zlaté cloudové Business Applications kompetence.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204066"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530812"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Použití ukazatelů příspěvků partnerů k dosažení Business Applications kompetenci cloudu
 
@@ -125,7 +125,7 @@ Podrobnosti najdete v následujících tabulkách:
 | Metrika sběrnice PCI | Ukazatel výkonu: NET New výnos | Ukazatel výkonu: Přidání nového zákazníka | Indikátor schopností: funkční konzultanti | Indikátor schopností: růst funkčního konzultanta | Indikátor schopností: vývojáři | Indikátor úspěšnosti zákazníka: nová rozsáhlá nasazení | Indikátor úspěšnosti zákazníka: měsíční nárůst uživatele na aktivní |
 |---|---|---|---|---|---|---|---|
 | **Maximální počet bodů** | 10 bodů | 10 bodů | 15 bodů | 15 bodů | 5 bodů | 20 bodů | 25 bodů |
-| **Prav** | $300 000 | 10 | 10 | *\* Viz Poznámka* | 5 | 5 | 25% |
+| **Prav** | $300 000 | 10 | 15 | *\* Viz Poznámka* | 5 | 5 | 25% |
 | **Rozvíjet** | $150 000 | 5  | 5  |*\* Viz Poznámka* | 2 | 1 | 25% |
 
 *\* Poznámka: cíle růstu se liší v závislosti na počtu základních konzultantů a konkrétní možnosti, kterou partner používá k získání bodů. Další informace o možnostech získání bodů nebo specifických cílů růstu jednotlivých možností najdete v tématu [definice pro růst funkčního konzultanta](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
