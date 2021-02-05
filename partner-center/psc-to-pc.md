@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215947"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588746"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Průvodce spoluprodejem v partnerském centru (PC) pro partnery, kteří se migrují z partnerského prodejního připojení (PSC)
 
@@ -127,7 +127,70 @@ V některých případech může migrace selhat a způsobit chyby. Tady je něko
 3. Uživatel už má přiřazenou roli reference v partnerském centru.
     - Můžete ověřit stávající roli uživatele. V pravém horním rohu partnerského centra vyberte **Nastavení** (ikona ozubeného kola) a pak **Nastavení účtu**. Když se zobrazí druhá levá navigační nabídka, vyberte **Správa uživatelů** a vyhledejte uživatele.
 
-Po dokončení migrace uživatelů při rozhodování o strategii migrace použijte následující pokyny:
+## <a name="psc-deals-migration"></a>Při migraci do PSC se zakoupí
+
+Po dokončení migrace uživatelů můžete použít Průvodce migrací do provozu na stránce s příležitostmi k prodeji a přenést všechny opravňující otevřené obchody z PSC do počítače. **Odkaz na migraci se bude zobrazovat jenom správcům odkazů s celým oborem organizace v partnerském centru.** V pravém horním rohu stránky s příležitostmi k prodeji bude odkaz s názvem **"PBV rozdat Migration"** . tím se otevře Průvodce migrací obchodu.
+
+Před zahájením migrace obchodu si přečtěte tento oddíl.
+
+**Vhodné pro migraci**
+
+Pouze některé obchody mají nárok na migraci z PSC do počítače. Tento průvodce migrací je navržený tak, aby pomáhal partnerům přenést své obchody do partnerského centra, kde stále aktivně pracují se svými zákazníky, aby mohli obchod uzavřít. **Můžou se používat jenom ty, které jsou v otevřeném stavu s platnými podrobnostmi o partnerském účtu (platné ID MPN), a neprovádí registraci do registrace.**
+
+**Není vhodné pro migraci**
+
+- V rámci posouzení řešení se nedají migrovat na obchody.
+- Obchodní obchody pro licencování OEM nejsou způsobilé k migraci koupí.
+- Jakákoli taková práce, která byla označena jako získaná v PBV, není vhodná pro migraci. Registrace obchodu, pokud má nárok na obchody označené jako výhra, by měla být dokončena v PBV.
+
+## <a name="pre-requisites-for-deal-migration"></a>Předpoklady pro migraci služby rozdat
+
+Před zahájením migrace ze služby rozdat z počítače použijte následující pokyny a nastavte obchody v PBV pro úspěšnou migraci.
+
+1. Všichni členové prodejního týmu ve vaší společnosti, kteří pracují s otevřenými obchody, jsou informováni o této migraci.
+2. Členové prodejního týmu jsou vyškoleni k používání partnerského centra pro správu koupek.
+3. Všechny obchody mají požadované informace, jak je popsáno níže.
+    - Podrobnosti společnosti zákazníka včetně jména a adresy
+    - Kontaktní údaje zákazníka, pokud jde o společný obchod
+    - Aspoň jedno řešení
+    - Aspoň jeden člen týmu se všemi podrobnostmi – křestní jméno, příjmení, ID e-mailu a telefonní číslo
+    - Hodnota koupě
+    - Odhadované datum uzavření koupě
+    - Poznámky k partnerovi
+
+Můžete použít možnosti hromadného stažení a nahrání v PSC k vyčištění dat pro všechny opravňující obchody.
+
+>[!Note]
+> Migrace do provozu bude úspěšná i v případě, že nejsou splněné výše uvedené požadavky. Ale nemůžete změnit stav obchodu, pokud některá z výše uvedených povinných polí v partnerském centru nejsou k dispozici. Potom budete muset zadat všechny požadované informace v části obchody v partnerském centru, abyste na ně mohli začít pracovat. **Důrazně doporučujeme vyčistit opravňující obchody v PSC před jejich migrací do partnerského centra.**
+
+Migrace obchodu na partnerském centru je postavená na jednom kliknutí. Stačí kliknout na tlačítko **migrovat obchody** , jakmile je vaše společnost připravená na migraci oprávněných obchodů. **Nemůžete zvolit obchody, které chcete migrovat z PSC. Pokud nechcete migrovat žádné obchody do partnerského centra, před zahájením migrace je přesuňte do zavřeného stavu v poli PSC.**
+
+>[!Note]
+> Po zahájení migrace **může trvat až 24 hodin**, než se budou tyto obchody migrovat.
+
+Po dokončení migrace se stav zprávy změní na dokončeno s odkazem na sestavu migrace. Stáhněte si sestavu a zobrazte si podrobnosti o tom, které byly migrovány z protokolu PSC do počítače PC.
+
+Sestava obsahuje níže uvedené podrobnosti.
+
+1. **ID zapojení partnerského centra** – jedinečný identifikátor v partnerském centru pro všechny obchody ve službě Engagement. Existují dva obchody – jeden pro každého partnera a jeden pro Microsoft v rámci účasti v partnerském centru pro spoluprodejní zapojení.
+2. **ID odkazu partnerského centra** – jedinečný identifikátor v partnerském centru pro obchod patřící partnerovi.
+3. **Název obchodu** – identifikátor uvedený pro obchod v PBV.
+4. **ID transakce PSC** – jedinečný identifikátor v poli PSC pro obchod.
+5. **Chyby** – k označení, zda při migraci konkrétního obchodování dojde k chybě.
+
+Všechny obchody, které byly úspěšně migrovány, nebudou viditelné v PSC. Můžete pracovat s migrovaných obchody v počítači. V interakcích s prodejci Microsoftu pro spoluprodejní obchody se žádné změny nemění.
+
+Služby migrované z PSC budou k dispozici na kartách příchozí a odchozí na základě zdroje obchodu. Všechny obchody vytvořené partnerem budou k dispozici na kartě odchozí a iniciované obchody společnosti Microsoft budou k dispozici na kartě příchozí v partnerském centru. Budou se vytvářet migrace po dvou typech obchodů.
+
+1. **Společné obchody** – obchody, které jsou označené jako spoluprodej v rámci PSC, se vytvoří jako společné obchody v partnerském centru.
+2. Probíhající **obchody** – obchody, které nejsou označené jako společný prodej, se budou vytvářet jako obchody řízené partnerským centrem v partnerském centru. Obchody na základě partnerských partnerů jsou viditelné prodejcům Microsoftu a je možné je upgradovat na společné obchody ještě před dosažením stavu terminálu (výhra, ztraceno). V případě, že jsou v rámci obchodu k dispozici vhodné řešení, mají také nárok na registraci v rámci partnerů.
+
+>[!Important]
+> Pokud dojde k chybám, protože některé obchody nemohly být migrovány, **můžete migraci obchodu znovu iniciovat kliknutím na tlačítko migrovat obchody**. Bude povoleno pouze v případě, že budou migrovány některé opravňující obchody. Tato akce bude užitečná také v případě, že jste ve fázi přechodu, kde se po zahájení migrace ze koupě vytvoří nějaké nové obchody v PBV.
+
+Až budou všechny obchody úspěšně migrovány, zobrazí se zpráva s informacemi o tom, že se neúčtují **žádné obchody, aby** se **aktivovalo** tlačítko **migrovat obchody** .
+
+Po dokončení migrace uživatelů a/nebo migraci za provozu použijte při rozhodování o strategii migrace následující pokyny:
 
 Pokud má vaše společnost manažer vývoje pro vývoj (PDM) – když je nastavený účet partnerského centra a vaši uživatelé přesunuli a mají role a oprávnění, můžete své spolupracovní aktivity přesunout do partnerského centra. Informujte PDM, aby místo čekání na dokončení migrace nečekala na dokončení migrace. Tím umožníte, aby všechny vaše nové obchody pokračovaly do partnerského centra.
 
@@ -327,7 +390,7 @@ Pokud jste tady, vzhledem k tomu, že jste si všimli banneru s názvem PSC nepl
 
 Nejdřív vyhledejte správné ID MPN pomocí následujících kroků.
 
-- Přihlaste se k účtu partnerského centra
+- Přihlaste se k účtu partnerského centra.
 - Pomocí pokynů uvedených v [dokumentaci nastavení účtu](./partner-center-account-setup.md#locate-your-mpn-id) vyhledejte ID MPN.
 
 Další, 

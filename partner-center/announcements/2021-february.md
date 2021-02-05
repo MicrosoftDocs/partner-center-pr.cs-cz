@@ -9,18 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/03/2021
-ms.openlocfilehash: dd389d0857f1ddf391086155ea5a595f0fa5b2d6
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99554342"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588712"
 ---
 # <a name="february-2021-announcements"></a>Oznámení z února 2021
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu na únor 2021.
 
 _______________
+
+## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Posouzení úrovně Premium, doplněk ke Správci dodržování předpisů, přichází 1. března 2021
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-02-05
+- Možnosti
+
+### <a name="affected-audience"></a>Ovlivněná cílová skupina
+
+Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+
+### <a name="summary"></a>Souhrn
+
+Posouzení úrovně Premium bude zahrnuto do ceníku Preview v únoru a bude k dispozici od 1. března 2021.
+
+### <a name="details"></a>Podrobnosti
+
+Posouzení Premium je volitelný doplněk Správce dodržování předpisů a může pomáhat zákazníkům v souladu s vnitrostátními, regionálními a oborovými požadavky, které řídí shromažďování a používání dat. Posuzování Premium jsou vyhrazena pro Office 365 E5, A5 a G5 a pro zákazníky Microsoft 365 E5, A5 a G5.
+
+|**Název nabídky**|**ID nabídky**|**ID materiálu**|
+|------------------|:--------------------|:------------------|
+|CSP – Corp – doplněk|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
+|CSP – Corp – zkušební verze|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
+|CSP – vzdělávací – vyučující – doplněk|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
+|CSP – vzdělávací – vyučující – zkušební verze|[828cecbd-8728-4339-B0C2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
+
+### <a name="next-steps"></a>Další kroky
+
+Projděte si následující zdroje informací pro toto téma a sdílejte informace s příslušnými zúčastněnými stranami ve vaší organizaci.   
+
+- [Microsoft 365 zabezpečení E5 a dodržování předpisů](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
+- [Sestavování a Správa hodnocení v nástroji Microsoft dodržování předpisů](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+
+_________________________________________________________
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> Reakce na COVID-19: Microsoft Partner Network Update
 
 ### <a name="categories"></a>Kategorie
