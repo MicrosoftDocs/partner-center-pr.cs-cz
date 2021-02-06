@@ -1,7 +1,7 @@
 ---
 title: Prodloužení platnosti nabídek MPN
 ms.topic: article
-ms.date: 02/02/2021
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Nabídky pro obnovení Microsoft Partner Network (MPN) pro kompetence a rozšířené specializace – okno obnovení začíná výročí zakoupeného data a navíc jeden den.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be1590d83f6349e9caeb85ed9303e7a10d0cca6b
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552430"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624132"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Obnovte své nabídky MPN pro kompetence a rozšířené specializace během intervalu obnovování.
 
@@ -24,15 +24,7 @@ ms.locfileid: "99552430"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Reakce na COVID-19: Microsoft Partner Network Update
 
-Aktualizace 27. ledna 2021:  
-
-Společnost Microsoft odchýlí požadavky na kompetenci a pokročilou specializaci pro všechny partnery, kteří mají datum výročí (AD) mezi 1. ledna 2021 a 30. června 2021. Výjimkou je Business Applications kompetence v cloudu (certifikátů), pro které partneři, kteří mají AD na nebo později od 2021 1. dubna 2021, budou platit 15 bodů na požadavky na metriky růstu funkce Function konzultanta v rámci konstrukce PCI.  
-
-**Partneři s kompetencemi (s výjimkou kompetence Cloud Business Applications kompetence), které mají datum výročí od 1. ledna 2021 do 30. června 2021,** mají nárok na rozšíření kompetence na jednoleté úrovni. Vaše stávající kompetence nebo kompetence rozšiřujeme prostřednictvím vašeho dalšího výročního dne v 2022.Informace, které jsou specifické pro vaši organizaci, budou k dispozici v partnerském centru od února a budou zarovnané do časového rámce pro obnovení.V partnerském centru budete muset provést akci, abyste zaplatili poplatek za kompetenci a dokončili obnovení.Pokud se blížíte ke konci 30denní časového období pro obnovení kompetence a nemůžete ho obnovit v partnerském centru, požádejte o pomoc [partnerskou podporu](https://partner.microsoft.com/support) .  
-
-**Pro partnery s Business Applications kompetencí cloudu:** Jak už bylo sděleno, hodnocení ukazatelů na partnery (PCI) se projeví od 1. dubna 2021. Pokud je vaše výročí cloudu Business Applications kompetence v rozmezí od 1. ledna 2021 do 31. března 2021, bude nutné splnit požadavky zveřejněné v partnerském centru a uhradit poplatek za kompetenci k dokončení obnovení. Pokud je vaše datum výročí pro Cloud Business Applications kompetence v rozmezí od 1. dubna 2021 do 30. června 2021, bude vám uděleno 15 bodů pro metriku růstu funkčního konzultanta. Je potřeba splnit zbývající požadavky zveřejněné v partnerském centru a uhradit poplatek za kompetenci k dokončení obnovení.  
-
-**Pro partnery, kteří obnovují pokročilou specializaci v 2021:** Partneři s pokročilým datem výročí specializace od 1. června 2021 do 30. června 2021 mají nárok na prodloužení platnosti na 2022, pokud si zachováte požadované Gold Competency, které se budou zarovnávat s pokročilou specializací, což může zahrnovat platbu za kompetenci. Informace, které jsou specifické pro vaši organizaci, budou k dispozici v partnerském centru od února a budou zarovnané do časového rámce pro obnovení.  
+Microsoft nabízí rozšíření pro kompetenci (s výjimkou možností kompetence Cloud Business Applications) a rozšířené rozšíření specializace pro partnery s daty výročí (AD) mezi 1. ledna 2021 a 30. června 2021. Další informace najdete v našem [blogovém příspěvku o partnerovi](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
 
 ## <a name="renewal-reminders"></a>Připomenutí obnovení
 

@@ -1,7 +1,7 @@
 ---
 title: Správa umístění v partnerském účtu
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se, jak přidat nové umístění a jak se v programu motivačních programů, v obchodních předplatných, předplatných a dalších transakcích používá umístění MPN ID.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098886"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624268"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Správa umístění účtu MPN a přidání nového umístění
 
@@ -47,6 +47,8 @@ Pokud chcete přidat nový obchodní účet CSP, začněte tím, že ověříte,
  >Nezapomeňte se přihlásit pomocí **nových** přihlašovacích údajů **nového** účtu CSP. Nepoužívejte svoje stávající přihlašovací údaje, protože Partnerské centrum vám rozpozná, jak už účet máte.
 
 2. Přijměte smlouvu s partnerem Microsoftu a aktivujte účet.
+
+1. Pokud se chcete zaregistrovat jako přímý fakturační Server, [požadavky na čtení pro přímé partnery z fakturace](direct-partner-new-requirements.md)
 
 ## <a name="view-your-mpn-locations"></a>Zobrazení umístění MPN
 

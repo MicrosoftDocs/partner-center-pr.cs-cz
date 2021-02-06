@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795762"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623979"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Omezené možnosti přímého vyúčtování a požadavky, které jsou potřeba pro partnery poskytovatele CSP Direct  
 
@@ -31,7 +31,7 @@ Chcete-li potvrdit, zda byl omezen přístup z partnerského klienta přímé fa
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard).
 
-2. Přejít na partnerský profil **nastavení partnera**  ->  **Partner Profile**.
+2. Přejít na **Nastavení účtu**  ->  **právní profil**.
 
 3. V části **informace o programu** vyhledejte **Microsoft Cloud stav poskytovatele řešení**.
 
@@ -62,7 +62,7 @@ Existujícím předplatným přímých fakturování nejsou ovlivněny. Zůstáv
     >[!Note] 
     >Do stávajících předplatných nemůžete přidávat nové doplňky, protože se považují za nové nákupy.
 
-- Nasaďte nové prostředky Azure a spravujte stávající prostředky Azure v rámci stávajících předplatných Azure. To zahrnuje prostředky, které jsou k dispozici prostřednictvím předplatných Azure Marketplace a Visual Studio.
+- Nasaďte nové prostředky Azure a spravujte stávající prostředky Azure v rámci stávajících předplatných Azure. To zahrnuje prostředky, které jsou k dispozici prostřednictvím Azure Marketplace a předplatných sady Visual Studio.
 
 Kromě nových nákupů nemůžete získat přístup k následujícím možnostem přímého vyúčtování v partnerském centru:
 

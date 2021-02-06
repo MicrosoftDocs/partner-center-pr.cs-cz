@@ -9,27 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132959"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624149"
 ---
 # <a name="security-requirements-status-report"></a>Zpráva o stavu požadavků na zabezpečení
 
-**Platí pro**
-
-- Všichni partneři v programu Cloud Solution Provider
-- Všichni dodavatelé ovládacích panelů
-- Všechny poradce
-
-**Příslušné uživatele**
-- Všichni povolení uživatelé včetně uživatelů typu Host
+**Příslušné role**
+- Dodavatelé ovládacích panelů
+- Globální správci
 
 Tento článek popisuje zprávu o stavu požadavků na zabezpečení v partnerském centru. Tato sestava poskytuje metriky o dodržování [požadavků na zabezpečení partnerů](partner-security-requirements.md) pro službu Multi-Factor Authentication (MFA) pro uživatele v partnerském tenantovi.
 
-Přístup k této sestavě v [partnerském centru](https://partner.microsoft.com/dashboard)získáte tak, že přejdete na **Nastavení**  >  **partner nastavení**  >  **stav požadavky zabezpečení**. Sestava se denně aktualizuje a odráží přihlašovací údaje za posledních sedm dní.
+Přístup k této sestavě v [partnerském centru](https://partner.microsoft.com/dashboard)získáte tak, že přejdete na **Nastavení**  >  **účet nastavení**  >  **stav požadavky zabezpečení**. Sestava se denně aktualizuje a odráží přihlašovací údaje za posledních sedm dní.
 
 >[!NOTE]
 >Zpráva o stavu požadavků zabezpečení je podporována pouze v partnerském centru. Není k dispozici v Microsoft Cloud pro státní správu USA ani pro Microsoft Cloud Německo. Důrazně doporučujeme, aby všichni partneři, kteří v rámci svrchovaného cloudu (USA a Německo) přijali tyto nové požadavky na zabezpečení okamžitě. Tito partneři ale v tuto chvíli nemusejí splňovat nové požadavky na zabezpečení. Microsoft nabídne další podrobnosti týkající se vynucování těchto požadavků na zabezpečení pro cloudy svrchovaného v budoucnu.
@@ -40,7 +35,7 @@ Zpráva o stavu požadavků na zabezpečení nabízí přehledy o implementaci M
 
 ### <a name="mfa-configuration-on-a-partner-tenant"></a>Konfigurace MFA na partnerském tenantovi
 
-**Procentuální podíl povolených uživatelských účtů s vyvynucovaném ověřováním MFA pomocí možností uvedených tady:** zobrazuje procento povolených uživatelských účtů na partnerském tenantovi, u kterých je vícefaktorové ověřování vynucované. K dosažení dodržování předpisů můžete použít jednu z těchto [možností vícefaktorového ověřování](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) . Tato data se zaznamenávají a nahlásí každý den. Například:
+**Procentuální podíl povolených uživatelských účtů s vyvynucovaném ověřováním MFA pomocí možností uvedených tady:** zobrazuje procento povolených uživatelských účtů na partnerském tenantovi, u kterých je vícefaktorové ověřování vynucované. K dosažení dodržování předpisů můžete použít jednu z těchto [možností vícefaktorového ověřování](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) . Tato data se zaznamenávají a nahlásí každý den. Příklad:
 
 - Contoso je partner CSP s 110 uživatelskými účty v tenantovi, 10 z těchto uživatelských účtů je zakázané. 
 - Z dalších 100 uživatelských účtů, 90 se vynutilo MFA pomocí zadaných [možností MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started). Metrika proto zobrazuje 90%. 
@@ -51,7 +46,7 @@ Pokaždé, když se vaši zaměstnanci přihlásí do partnerského centra, aby 
 
 #### <a name="dashboard-mfa-verification"></a>Ověření MFA řídicího panelu
 
-Metrika **prostřednictvím portálu partnerského centra** souvisí s aktivitami v řídicím panelu partnerského centra. Měří procentuální podíl operací provedených uživateli, kteří dokončili ověřování MFA. Například:
+Metrika **prostřednictvím portálu partnerského centra** souvisí s aktivitami v řídicím panelu partnerského centra. Měří procentuální podíl operací provedených uživateli, kteří dokončili ověřování MFA. Příklad:
 
 - Contoso je partner CSP se dvěma agenty pro správu, Jana a Jan.
 - První den, Jana přihlášený k řídicímu panelu partnerského centra bez ověřování MFA a provedl tři operace.
@@ -64,7 +59,7 @@ Pokud chcete zjistit, který uživatel se přihlásil k řídicímu panelu partn
 
 #### <a name="appuser-mfa-verification"></a>Ověřování MFA aplikace a uživatele
 
-Metrika **prostřednictvím rozhraní API nebo sady SDK** se v rámci požadavků na rozhraní API partnerského centra vztahuje k ověřování aplikací a uživatelů. Měří procento požadavků rozhraní API provedených pomocí přístupového tokenu s deklarací MFA. Například:
+Metrika **prostřednictvím rozhraní API nebo sady SDK** se v rámci požadavků na rozhraní API partnerského centra vztahuje k ověřování aplikací a uživatelů. Měří procento požadavků rozhraní API provedených pomocí přístupového tokenu s deklarací MFA. Příklad:
 
 - Fabrikam je partner CSP a má aplikaci CSP, která používá kombinaci ověřování typu aplikace + uživatel a metody ověřování pouze aplikací.
 - První den aplikace vytvořila tři požadavky rozhraní API, které byly zajištěny přístupovým tokenem získaným prostřednictvím metody ověřování pomocí aplikace + uživatel bez ověřování MFA.

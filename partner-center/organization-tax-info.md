@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4db0c81bf9f92975cc119215de76565e6acbadbd
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: b18f42f34951e09272d59c75b4588e962809ce62
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755618"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624200"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Přidejte do svého fakturačního profilu ID DPH.
 
@@ -31,7 +31,7 @@ Pomocí následujícího postupu můžete aktualizovat fakturační profil, aby 
 ## <a name="update-your-billing-profile-with-your-vat-id"></a>Aktualizujte svůj fakturační profil pomocí ID DPH.
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/).
-2. V nabídce **Nastavení** (ikona ozubeného kolečka) vyberte **nastavení partnera**.
+2. V nabídce **Nastavení** (ikona ozubeného kolečka) vyberte **Nastavení účtu**.
 3. Na stránce **Nastavení účtu** vyberte v nabídce Stránka možnost **Fakturační profil partnera** .
 4. V části **finanční data** vyberte **aktualizovat**.
 5. V případě **ID daně společnosti** zadejte číslo ID DPH.

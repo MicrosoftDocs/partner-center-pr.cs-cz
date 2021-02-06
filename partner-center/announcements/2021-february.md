@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.date: 02/04/2021
+ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588712"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624166"
 ---
 # <a name="february-2021-announcements"></a>Oznámení z února 2021
 
@@ -70,22 +70,7 @@ Všichni partneři
 
 ### <a name="details"></a>Podrobnosti
 
-Společnost Microsoft odchýlí požadavky na kompetenci a pokročilou specializaci pro všechny partnery, kteří mají datum výročí (AD) mezi 1. ledna 2021 a 30. června 2021. Výjimkou je Business Applications kompetence v cloudu (certifikátů), pro které partneři, kteří mají AD na nebo později od 2021 1. dubna 2021, budou platit 15 bodů na požadavky na metriky růstu funkce Function konzultanta v rámci konstrukce PCI.  
-
-**Partneři s kompetencemi (s výjimkou kompetence Cloud Business Applications kompetence), které mají datum výročí od 1. ledna 2021 do 30. června 2021,** mají nárok na rozšíření kompetence na jednoleté úrovni. Vaše stávající kompetence nebo kompetence rozšiřujeme prostřednictvím vašeho dalšího výročního dne v 2022.Informace, které jsou specifické pro vaši organizaci, budou k dispozici v partnerském centru od února a budou zarovnané do časového rámce pro obnovení.Budete potřebovat. provedete to podle partnerského centra a platíte poplatek za kompetenci a dokončíte obnovení.Pokud se blížíte ke konci 30denní časového období pro obnovení kompetence a nemůžete ho obnovit v partnerském centru, požádejte o pomoc [partnerskou podporu](https://partner.microsoft.com/support) .  
-
-**Pro partnery s Business Applications kompetencí cloudu:** Jak už bylo sděleno, hodnocení ukazatelů na partnery (PCI) se projeví od 1. dubna 2021. Pokud je vaše výročí cloudu Business Applications kompetence v rozmezí od 1. ledna 2021 do 31. března 2021, bude nutné splnit požadavky zveřejněné v partnerském centru a uhradit poplatek za kompetenci k dokončení obnovení. Pokud je vaše datum výročí pro Cloud Business Applications kompetence v rozmezí od 1. dubna 2021 do 30. června 2021, bude vám uděleno 15 bodů pro metriku růstu funkčního konzultanta. Je potřeba splnit zbývající požadavky zveřejněné v partnerském centru a uhradit poplatek za kompetenci k dokončení obnovení.  
-
-**Pro partnery, kteří obnovují pokročilou specializaci v 2021:** Partneři s pokročilým datem výročí specializace od 1. června 2021 do 30. června 2021 mají nárok na prodloužení platnosti na 2022, pokud si zachováte požadované Gold Competency, které se budou zarovnávat s pokročilou specializací, což může zahrnovat platbu za kompetenci. Informace, které jsou specifické pro vaši organizaci, budou k dispozici v partnerském centru od února a budou zarovnané do časového rámce pro obnovení.  
-
-### <a name="next-steps"></a>Další kroky
-
-- Další aktualizace najdete v tématu věnovaném [reagování na COVID-19: Microsoft Partner Network Update-Microsoft Partner Network](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
-
-### <a name="questions"></a>Máte otázky?
-
-Všechny otázky související s tímto oznámením vám poskytne [Podpora partnerského centra](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
-
+Microsoft nabízí rozšíření pro kompetenci (s výjimkou možností kompetence Cloud Business Applications) a rozšířené rozšíření specializace pro partnery s daty výročí (AD) mezi 1. ledna 2021 a 30. června 2021. Další informace najdete v našem [blogovém příspěvku o partnerovi](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nové aktualizace modulu odkazy v partnerském centru
 
@@ -124,12 +109,12 @@ Tady je co je nový v modulu odkazy v partnerském centru:
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud potřebujete pomoc s použitím některé z nových funkcí, podívejte se do [části REFERENCES](https://docs.microsoft.com/partner-center/referrals) v naší znalostní bázi nebo v článku o podpoře postupů dostupných v naší [galerii možností společného prodeje](https://aka.ms/CoSellExperience) (vyžaduje se přihlášení).
+Pokud potřebujete pomoc s používáním některé z nových funkcí, podívejte se do [části REFERENCES](https://docs.microsoft.com/partner-center/referrals) v naší znalostní bázi nebo v článku o podpoře postupů, které jsou dostupné v naší [galerii možností společného prodeje](https://aka.ms/CoSellExperience) (vyžaduje se přihlášení).
 
 Pro další podporu můžete [otevřít lístek s naším týmem podpory pro partnery](https://partner.microsoft.com/support/?stage=1).
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25th-2021-and-get-qualification-by-may-4th-2021"></a><a name="1"></a> Vyřazení a vyřazení rozhraní API kvalifikace pro vzdělávání pro proces ověření zákazníka od 25. února 2021 a získat kvalifikaci do 4. května 2021.
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Vyřazení a vyřazení rozhraní API kvalifikace pro vzdělávání pro proces ověření zákazníka od 25. února 2021 a získání kvalifikace podle 4. května 2021.
 
 ### <a name="categories"></a>Kategorie
 
@@ -138,11 +123,11 @@ ________________
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Partneři, kteří prodávají akademické a neziskové a RSZ, prostřednictvím programu Cloud Solution Provider prostřednictvím rozhraní API partnerského centra
+Partneři, kteří prodávají akademické, neziskové a RSZ nabídky pomocí programu Cloud Solution Provider prostřednictvím rozhraní API partnerského centra
 
 ### <a name="details"></a>Podrobnosti
 
-Toto je následná vylepšení partnerského centra [vydaná v prosinci](https://docs.microsoft.com/partner-center/announcements/2020-december#1). V rámci této verze byla nasazena nová rozhraní API GET a POST a v důsledku toho **budou existující rozhraní API partnerského centra rozhraní API pro vyřazení do 25. února 2021 a získají kvalifikaci do 4. května 2021**. V tuto chvíli se budete muset převést na použití nového rozhraní API pro POST Center, aby bylo možné zakoupit nabídky vzdělávání a nové rozhraní API získat kvalifikaci k nákupu předběžně kvalifikovaných nabídek a nabídek RSZ.
+Toto oznámení je následná vylepšení partnerského centra [vydané v prosinci](https://docs.microsoft.com/partner-center/announcements/2020-december#1). V rámci této verze byla nasazena nová rozhraní API GET a POST a v důsledku toho se stávající rozhraní API **partnerského centra rozhraní API vyřadí do 25. února 2021 a získají kvalifikaci 4. května 2021**. V tuto chvíli se budete muset převést na použití nového rozhraní API pro POST Center, aby bylo možné zakoupit nabídky vzdělávání a nové rozhraní API získat kvalifikaci k nákupu předběžně kvalifikovaných nabídek a nabídek RSZ.
 
 ### <a name="next-steps"></a>Další kroky
 

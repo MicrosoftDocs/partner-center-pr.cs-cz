@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492462"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624234"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Vytváření a Správa pobídek pro výběr a daňové profily v partnerském centru
 
-**Platí pro:**
-
-- Partnerské centrum
 
 **Příslušné role:**
 
@@ -64,7 +61,7 @@ V následujících částech se dozvíte, jak vytvořit a spravovat platební a 
    - Pokud se přihlašujete jenom k @onmicrosoft.com doméně, obraťte se na správce účtu a přidejte další domény k účtu Azure AD.
    - Pokud budete vyzváni k výběru **pracovního nebo školního** účtu nebo **osobního účtu**, vyberte **pracovní nebo školní účet**.
 
-2. Výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** a pak vyberte **nastavení partnera**.
+2. Výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** a pak vyberte **Nastavení účtu**.
 
 3. V nabídce **Nastavení účtu** vyberte **Výběr a daň**. 
 
@@ -72,7 +69,7 @@ V následujících částech se dozvíte, jak vytvořit a spravovat platební a 
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/)a výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** . 
 
-2. Vyberte **Nastavení partnerského serveru**, rozbalte **část výběr a daň** a pak vyberte **Výběr a přiřazení finančního profilu**. 
+2. Vyberte **Nastavení účtu**, rozbalte **část výběr a daň** a pak vyberte **Výběr a přiřazení finančního profilu**. 
    
    Zobrazí se seznam vašich programů. Výběrem šipky vedle programu zobrazíte podrobnosti o profilu. 
 

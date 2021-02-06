@@ -1,7 +1,7 @@
 ---
 title: Jak nepřímá poskytovatelé můžou svým prodejcům přizpůsobovat smlouvu s partnerem Microsoftu – Nejčastější dotazy
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Klíčové otázky týkající se zodpovězené smlouvy o partnerovi Microsoftu
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e1848ae63756141e43c980b8910ce556b6ffb32
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530846"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624285"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Způsob, jakým můžou nepřímé prodejci pomáhat svým nepřímým prodejcům přijmout dohodu o partnerovi Microsoftu (MPA)
 
@@ -104,8 +104,6 @@ To platí i pro partnery Advisoru, kteří se v nástroji CSP rozpustili. Spole�
 
 Váš účet CSP přidružený k umístění MPN ID MPN vám umožní pracovat s nepřímými poskytovateli, spravovat zákazníky a získávat pobídky.
     
-- [Přehled programu Cloud Solution Provider](csp-overview.md)
-
 - [Smlouva o partnerovi Microsoftu (MPA) pro CSP](microsoft-partner-agreement.md)
 
 - [Práce s nepřímými zprostředkovateli v programu CSP](indirect-reseller-tasks-in-partner-center.md)
@@ -134,6 +132,39 @@ V případě problémů vyvolejte [lístek podpory](https://partner.microsoft.co
 
 **Odpověď** Přihlaste se k partnerskému centru s přihlašovacími údaji účtu MPN (přihlašovací údaje MPN a CSP se můžou lišit). Z **Nastavení** vyberte **Nastavení účtu**  ->  **identifikátory profilů organizace**  ->   , abyste si zobrazili ID programu MPN. Chcete-li přidat nové umístění nebo pobočku programu MPN, přejděte na **profil Legal** a klikněte na **Přidat umístění**.
 
+## <a name="questions-about-csp-regional-authorization"></a>Dotazy týkající se regionální autorizace CSP
+
+#### <a name="what-is-a-csp-region"></a>Co je to oblast CSP?
+
+**Odpověď** Oblast CSP se skládá z jedné nebo více zemí, ve kterých je možné provádět zprostředkovatele CSP. Firmy zahrnují například práci s nepřímými poskytovateli, připojení se zákazníky, transakcí a zpracováním motivů. K podnikání v oblasti CSP budete potřebovat aspoň jeden účet CSP (pracovní účet Office 365). Další informace najdete v [oblasti CSP](regional-authorization-overview.md).
+
+Pokud jste prodejce nepřímým poskytovatelem CSP, je třeba, abyste byli partnerem nepřímých poskytovatelů ve stejné oblasti a mohli prodávat pouze zákazníky ve stejné oblasti.
+
+#### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>Proč nemůžu přidružit své ID MPN k mému tenantovi?
+
+**Odpověď**  Pokud k vašemu tenantovi nemůžete přidružit ID MPN a zobrazí se chyba, znamená to, že ID MPN a tenant nejsou ve stejné zemi. Aby přidružení fungovalo, musí být oba ve stejné zemi. Důvodem je to, že Microsoft doporučuje platit podle země a úrovně ID MPN. Pokud máte například účet CSP ve Francii, budete potřebovat umístění programu MPN (MPN ID) ve Francii, aby bylo možné získat placené pobídky. ID MPN v britských nebude fungovat, i když jsou ve stejné oblasti CSP. 
+
+Chcete-li tento problém vyřešit, vytvořte umístění MPN ve stejné zemi jako zemi CSP. Přečtěte si další informace o tom, jak [spravovat umístění MPN](manage-locations.md).
+
+#### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>Mám účet nepřímých prodejců CSP ve Francii. Můžu být partnerem s nepřímým poskytovatelem v Německu?
+
+**Odpověď** Ano. Když je účet nepřímým prodejcům CSP v oblasti CSP aktivní, může se stejný účet použít k podnikání v celé oblasti. Další informace najdete v [oblasti CSP](regional-authorization-overview.md).
+
+#### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>Jsem nepřímým prodejcem v USA. Můžu být partnerem s nepřímým poskytovatelem ve Spojeném království?
+
+**Odpověď** Ne. CSP je místní program. Účet CSP pro nepřímý prodejce i nepřímý poskytovatel musí být ve stejné oblasti CSP, aby mohl dělat firmy. Chcete-li tento problém vyřešit, je třeba vytvořit nový účet CSP v evropské oblasti a vytvořit umístění MPN ve stejné zemi jako zemi účtu CSP a pak přijmout žádost o vztah od nepřímého poskytovatele. Můžete například vytvořit nepřímý prodejce CSP ve Francii, vytvořit umístění MPN ve Francii a pak přijmout pozvánku od nepřímého poskytovatele, který je buď ve Francii, nebo v jakékoli jiné zemi v evropské oblasti CSP.
+
+#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>Můžu v partnerském centru mít více než jeden účet MPN a CSP?
+
+**Odpověď** Můžete mít jenom jeden účet MPN (přihlásit se) a jeden nebo několik účtů CSP (přihlášení) v závislosti na oblastech CSP, které vaše společnost provádí. Například můžete mít účet MPN v USA (sídel) s místy v USA (pobočky), Spojené království (dceřiné společnosti) a Austrálii (dceřiné společnosti).
+V USA můžete mít jeden účet CSP (pracovní účet Office 365), který má stejné přihlašovací údaje jako účet MPN. V britských můžete mít druhý účet CSP. který má jiné přihlašovací přihlašovací údaje ke správě podnikového zprostředkovatele CSP v evropské oblasti a třetí v Austrálii, která má jiné přihlašovací údaje pro přihlášení od ostatních dvou ke správě podnikání CSP v Austrálii.
+
+Pro účely podnikání a získání pobídek v těchto pobočkách musí být všechny tři účty CSP přidružené k účtům pro umístění MPN ID. Kompetence a výhody MPN můžou být spravované jenom účtem MPN.
+
+#### <a name="i-am-a-csp-indirect-reseller-in-us-and-want-to-expand-my-business-to-europe-what-do-i-need-to-do-in-partner-center"></a>Jsem nepřímým prodejcem CSP v USA a chci rozšířit firmu na Evropu. Co potřebuji v partnerském centru?
+
+**Odpověď** Budete potřebovat umístění MPN v zemi, kde chcete dělat firmy, a v této zemi se budete muset zaregistrovat do programu nepřímý prodejce CSP. Přečtěte si další informace o vytváření nových [umístění MPN a registraci CSP](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business).
+
 ## <a name="question-about-migrating-your-mpn-account-from-pmc-to-partner-center"></a>Otázka týkající se migrace účtu MPN z PMC do partnerského centra
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Chci migrovat svůj účet MPN z partnerského centra pro členství do partnerského centra. Jak to můžu udělat? Nevím, kdo jsem v PMC správcem MPN, jak můžu provést migraci? 
@@ -142,10 +173,7 @@ V případě problémů vyvolejte [lístek podpory](https://partner.microsoft.co
 
 Po dokončení migrace účtu MPN si přečtěte další informace o tom, jak podepsat aktivaci, přečtěte si článek [Microsoft-Partner-Agreement] 9microsoft-partner-Agreement. MD # stažení – krok za krokem – průvodce – to je to – to vše, co je to-in-the-MPa-Sign-Process.
 
-V případě problémů vyvolejte [lístek podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) v rámci partnerského centra. 
-
-
-
+V případě problémů vyvolejte [lístek podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) v rámci partnerského centra.
 
 #### <a name="how-do-i-check-if-my-mpn-id-is-migrated-into-partner-center"></a>Návody ověřit, jestli je moje ID MPN migrováno do partnerského centra?
 
@@ -161,6 +189,7 @@ Na stránce **Nastavení účtu** vyberte na kartě **partner** stránku **práv
 #### <a name="i-enrolled-in-mpn-program-and-as-a-csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-is-in-rejected-state-what-should-i-do"></a>Jsem se zaregistroval v programu MPN a jako nepřímý prodejce CSP, ale můj právní stav ověření obchodního profilu je v zamítnutém stavu. Co bych měl/a dělat?
 
 **Odpověď** Chcete-li aktualizovat informace o platném profilu, klikněte na tlačítko **aktualizovat**. Než budete pokračovat, přečtěte si následující články:
+
 - [Ověření informací o účtu](verification-responses.md#what-is-verified-and-how-to-respond)
 
 - [Ověřte profil vaší organizace.](update-your-partner-profile.md)

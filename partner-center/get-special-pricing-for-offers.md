@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92527209"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624047"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Prodej ve specializovaných oblastech, jako je vzdělávání, neziskový sektor a státní správa
-
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
@@ -44,7 +40,7 @@ Následující kroky platí pouze pro nepřímých zprostředkovatelů a přím�
 
 1. Na [řídicím panelu](https://partner.microsoft.com/dashboard)partnerského centra vyberte ikonu ozubeného kolečka v pravém horním rohu okna a otevřete **Nastavení účtu**.
 
-2. V **profilu partnera** v části informace o **programu** vyhledejte **kvalifikace prodejce**.
+2. V rámci svého **právního profilu** vyhledejte v části **informace o programu** **kvalifikace prodejce**.
 
 3. Pokud se vám nezobrazuje **kvalifikace prodejce**, ještě nemáte oprávnění k nákupu jakýchkoli speciálních nabídek.
 
@@ -81,4 +77,4 @@ Pravidla nákupu pro prodej zvláštních nabídek zákazníkům:
 
 - [Prodej Minecraftu: předplatná pro vzdělávací edice pro zákazníky v oblasti vzdělávání](minecraft-subscriptions.md)
 
-- [Partnerské centrum pro Microsoft Cloud pro státní správu USA](partner-center-for-microsoft-us-govt-cloud.md)
+- [Partnerské centrum pro Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

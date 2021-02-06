@@ -9,21 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795861"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624302"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Přechod z partnera CSP (Cloud Solution Provider) s přímým vyúčtováním na nepřímého prodejce CSP
 
-**Platí pro:**
-- Partnerské centrum
-
 **Příslušné role**
 
-- Všichni partneři poskytovatele CSP pro přímé vyúčtování
+- Globální správci
 
 >[!Note]
 >Tento článek je určený pro přímé partnery, kteří se rozhodli přejít na nepřímé prodejce. Nicméně i v případě, že jste ještě neučinili explicitní rozhodnutí k registraci jako nepřímý prodejce, partneři s přímým účtováním, kteří nesplňují nové [požadavky](direct-partner-new-requirements.md) na partnerský program pro přímý přístup CSP, budou od Microsoftu informováni, když [budou jejich přímé možnosti vyúčtování omezeny](restricted-direct-bill-capabilities.md).
@@ -51,7 +48,7 @@ V programu nepřímý prodejce se budete moci zaregistrovat pomocí stávající
 5. Po schválení registrace se znovu přihlaste do partnerského centra.
 
     > [!NOTE]
-    > I když je schválení obvykle okamžité, může trvat až pět pracovních dnů. Po schválení obdržíte oznámení na e-mailovou adresu, kterou jste zadali v části primární kontakt v registračním formuláři. Stav registrace můžete také ověřit v části **Nastavení**  >  **partnera nastavení**  >  **partner Profile** > informace o programu.
+    > I když je schválení obvykle okamžité, může trvat až pět pracovních dnů. Po schválení obdržíte oznámení na e-mailovou adresu, kterou jste zadali v části primární kontakt v registračním formuláři. Stav registrace můžete také ověřit v části **Nastavení**  >  **Nastavení účtu**  >  **profil partnera** > informace o programu.
 
 6. Na stránce s **přehledem** se zobrazí smlouva nepřímý prodejce. Vyberte **přijmout a pokračovat**. Tato akce povoluje možnosti nepřímých prodejců.
 
@@ -251,12 +248,12 @@ Tato funkce je 4 kroky procesu, kde:
 > [!NOTE]
 > K přenosu stávajících předplatných do nepřímého poskytovatele můžete také použít [rozhraní API a sadu SDK pro partnery](/partner-center/develop/manage-customers) .
 >
-> - [Získat nárok na přenos předplatných zákazníků](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
-> - [Vytvoření převodu zákazníka](/partner-center/develop/create-a-transfer)
-> - [Stažení převodu zákazníka](/partner-center/develop/withdraw-a-transfer)
-> - [Akceptovat přenos zákazníka](/partner-center/develop/accept-a-transfer)
+> - [Získání způsobilosti pro převod předplatných zákazníka](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Vytvoření převodu pro zákazníka](/partner-center/develop/create-a-transfer)
+> - [Odvolání převodu pro zákazníka](/partner-center/develop/withdraw-a-transfer)
+> - [Potvrzení převodu pro zákazníka](/partner-center/develop/accept-a-transfer)
 > - [Odmítnout přenos zákazníka](/partner-center/develop/reject-a-transfer)
-> - [Získat převody zákazníka](/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Získání převodů zákazníka](/partner-center/develop/get-all-of-a-customer-s-transfers)
 > - [Získat podrobnosti o přenosu podle ID](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>Převod partnera – vytvoření žádosti o přenos
@@ -341,7 +338,7 @@ Převedený partner by měl provádět tyto akce:
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Předplatné pozastaveno":::
 
-### <a name="considerations"></a>Co je potřeba vzít v úvahu
+### <a name="considerations"></a>Požadavky
 
 - **ID předplatného bude po přenosu jiné.** Pokud se jedná o předplatné Azure (MS-AZR-0145P), bude mít navíc ID předplatného Azure, které se zachová od předchozího vlastníka a zobrazí se na portálu pro správu Azure.
 

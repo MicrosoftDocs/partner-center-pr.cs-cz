@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527759"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624183"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Příručka k migraci z PMC na Partnerské centrum
 
@@ -88,7 +88,7 @@ I když můžete použít nabídky, které jste už zakoupili, nebudete moct kou
 
 Když vyberete Začínáme, zobrazí se následující obrazovka:
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Ověřit vlastnictví domény":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Ověření vlastnictví domény":::
 
 Váš doménový registrátor už pro vás bude vyplněný. Jenom vlastník domény může aktualizovat soubor DNS, takže tak, že zkopírujete a přidáte textový soubor do záznamu DNS, můžeme ověřit, že jste vlastníkem. Může to trvat několik minut, než se aktualizace dokončí. Budete se muset odhlásit z partnerského centra a pak se znovu přihlásit. Vaše role bude změněna na globální správce.
 
@@ -100,7 +100,7 @@ Projděte si řídicí panel. Tady je místo, kde můžete spravovat svoje člen
 
 ## <a name="sign-the-microsoft-partner-agreement"></a>Podepsat smlouvu o partnerovi Microsoftu
 
-Pokud jste nepřímý prodejce, pokud jste si nastavili účet partnerského centra, musíte si ho i nadále úředně zaregistrovat v programu Cloud Solution Provider. Pokud chcete zkontrolovat stav členství, vyhledejte svůj [partnerský profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) a potvrďte typ účtu. Pak se jako [nepřímý prodejce](enrolling-in-the-csp-program.md)zaregistrujete do zprostředkovatele CSP.
+Pokud jste nepřímý prodejce, pokud jste si nastavili účet partnerského centra, musíte si ho i nadále úředně zaregistrovat v programu Cloud Solution Provider. Pokud chcete zkontrolovat stav členství, klikněte na svůj [Oficiální profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) a potvrďte typ účtu. Pak se jako [nepřímý prodejce](enrolling-in-the-csp-program.md)zaregistrujete do zprostředkovatele CSP.
 
  Jakmile se zaregistrujete jako nepřímý prodejce, přijměte [žádost o vztah CSP k vašemu nepřímému poskytovateli](indirect-reseller-tasks-in-partner-center.md).
 

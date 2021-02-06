@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133061"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624217"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Nejčastější dotazy k motivům
-
-**Platí pro:**
-
-- Partnerské centrum
 
 **Příslušné role:**
 
@@ -29,13 +25,13 @@ ms.locfileid: "93133061"
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Potřebuji být globálním správcem pro registraci v rámci pobídek?
 
-Ne. Globální správce i správce účtu můžou přiřadit uživatele jako pobídky správců. Pomocí partnerského centra můžou správci IT spravovat IT programu společnosti. Další informace najdete v tématu [Přehled oprávnění](permissions-overview.md).
+No. Globální správce i správce účtu můžou přiřadit uživatele jako pobídky správců. Pomocí partnerského centra můžou správci IT spravovat IT programu společnosti. Další informace najdete v tématu [Přehled oprávnění](permissions-overview.md).
 
 ## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>Co musím udělat, když se mi moje společnost už členem Microsoft Partner Network (MPN)?
 
 Pokud se pokusíte připojit k programu MPN a vaše společnost již je členem, program MPN tuto doménu rozpozná a přidruží k existujícímu účtu. Existující účet může být stejná společnost nebo související společnost pomocí stejné e-mailové domény nebo stejného adresáře aktivity Azure (Azure AD) pro správu víc domén.
 
-Primární kontakt můžete identifikovat na stránce profil partnera. Pokud se jedná o umístění MPNHQ, stačí, když nastavíte požadované oprávnění ke správě pobídek. Další informace o rolích a oprávněních najdete v tématu [Přehled oprávnění](permissions-overview.md).
+Primární kontakt můžete identifikovat na stránce právní profil. Pokud se jedná o umístění MPNHQ, stačí, když nastavíte požadované oprávnění ke správě pobídek. Další informace o rolích a oprávněních najdete v tématu [Přehled oprávnění](permissions-overview.md).
 
 Pokud nejste ve stejné zemi jako umístění MPNHQ, najdete další podrobnosti o tomto scénáři v [pokynech pro více národních účtů](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) .
 

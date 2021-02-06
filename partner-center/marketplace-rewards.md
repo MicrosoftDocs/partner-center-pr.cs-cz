@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527039"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624251"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Správa odměn na webu Marketplace v partnerském centru & aktivovat marketing, prodej a technické výhody
 
@@ -60,7 +60,7 @@ Informace o vydaných Marketplace jsou k dispozici prostřednictvím tenanta Azu
 
 1. Jako správce globálního správce nebo účtu se přihlaste k PGA v partnerském centru.
 
-2. Vyberte **Nastavení** (vpravo nahoře), **Nastavení partnerů**, **klienti**. 
+2. Vyberte **Nastavení** (vpravo nahoře), **Nastavení účtu**, **klienti**. 
 
 3. Vyberte **přidružit jiného tenanta Azure AD** a vyberte TENANTA Azure AD, kterého chcete přidružit k PGA.
 
