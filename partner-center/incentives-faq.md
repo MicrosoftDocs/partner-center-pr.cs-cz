@@ -1,19 +1,19 @@
 ---
 title: Motivace – Nejčastější dotazy
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Nejčastější dotazy k motivům Microsoftu Tento článek obsahuje otázky týkající se uživatelských rolí, postupu při registraci nebo k tomu, co dělat s chybovými zprávami.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624217"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835063"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Nejčastější dotazy k motivům
 
@@ -67,17 +67,11 @@ Pravděpodobným důvodem, proč nemůžete zobrazit pobídky, je, že nemáte s
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Na stránce s přehledem pobídek chybí některá registrace.
 
-Pokud se vám na stránce **Přehled** pobídek zobrazuje méně registrací, než jste očekávali, můžete provést následující:
+Pokud jste obdrželi pozvánku z nebo jste ji zaregistrovali v nástroji, je vhodné, abyste si poklepali, že máte odpovídající přístup. Program uvidí jenom uživatelé s rolí pobídky uživatel nebo motiv správce. Viz [najít vaši roli](https://docs.microsoft.com/partner-center/find-your-role).
 
-1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
+Pokud potřebujete změnit svoji roli nebo oprávnění, obraťte se na svého globálního správce nebo správce účtu vaší společnosti. Pokud se chcete dozvědět, kdo jsou lidé, přečtěte si téma [vyhledání globálního správce](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
 
-2. V části **Nastavení** vyberte [Správa uživatelů](https://partner.microsoft.com/pcv/users).
-
-3. Kliknutím na své jméno zobrazíte vaše oprávnění.
-
-Pokud potřebujete změnit roli nebo oprávnění, přečtěte si téma globální správce účtu nebo správce účtů vaší společnosti.
-
-Všimněte si, že tato stránka bude zobrazovat jenom registrace, které jsou přidružené k globálnímu účtu partnera (PGA) přidruženému k tenantovi služby Azure AD. Pokud má vaše společnost více než jeden PGA, budete pro každé z nich potřebovat jiné přihlašovací údaje.
+Všimněte si, že na stránce Přehled se zobrazí pouze registrace, které jsou spojeny s globálním účtem partnera (PGA) přidruženým k tenantovi služby Azure AD. Pokud má vaše společnost více než jeden PGA, budete pro každé z nich potřebovat jiné přihlašovací údaje.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Koho se mám obrátit, když se zobrazí chybová zpráva nebo potřebujete pomoc během procesu registrace?
 
