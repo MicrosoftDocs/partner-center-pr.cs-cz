@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
+ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098869"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "99974752"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -587,8 +587,8 @@ Ceníky založené na licencích pro leden 2021 a únor 2021 zahrnovaly několik
 
 Ovlivněné měny: 
 
-- Problémy s cenami Microsoft 365 E3 byly omezeny pouze na tyto měny: JPY (japonština), GBP (Velká Británie libra), EUR (Evropské unie), AUD (Australský dolar). 
-- Microsoft 365 Business základní problémy se omezily jenom na USD (USA dolarů). 
+- Problémy s cenami Microsoft 365 E3 byly omezeny pouze na tyto měny: japonština jenu (JPY), Velká Británie (GBP), Evropské unie (EUR), australský dolar (AUD). 
+- Microsoft 365 Business základní problémy byly omezené jenom na USA dolarů (USD). 
 
 Partneři by měli pro správné ceny odkazovat na aktuálně dostupné ceníky leden a únor Preview. 
 
