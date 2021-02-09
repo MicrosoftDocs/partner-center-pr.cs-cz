@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098835"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834852"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Prodej předplatných softwaru prostřednictvím programu Cloud Solution Provider (CSP)
 
@@ -95,7 +95,7 @@ Zakoupení předplatných softwaru jménem zákazníka:
 Po zakoupení softwaru si ho zákazníci potřebují stáhnout. K tomu použijte následující postup.
 
 >[!NOTE]
->K získání klíčů a souborů ke stažení musíte být agentem správce.
+>Chcete-li získat odkaz na klíče a soubory ke stažení, musíte být agentem správce.
 
 1. Přejít na stránku podrobností zákazníka a pak vybrat **software**. Zobrazí se seznam veškerého softwaru, který jste si koupili jménem zákazníka.
 2. Zkopírujte odkaz s přímým odkazem **na kódy Product Key a** Stáhněte a sdílejte odkaz s vaším zákazníkem. Když tento odkaz vyberou, budou přesměrováni do centra pro správu Microsoftu, kde si můžete stáhnout a získat kódy Product Key.

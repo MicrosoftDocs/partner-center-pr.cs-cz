@@ -1,19 +1,19 @@
 ---
 title: Řešení potíží s platbami a příjmy
 ms.topic: article
-ms.date: 10/30/2020
+ms.date: 02/05/2021
 description: Naučte se řešit problémy, jako jsou chybějící nebo nesprávné tržby, problémy s nárokem a postup sjednocení vašich pobídek.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e3a8890127ce9ff73fd09b7a35d4e167b5629f45
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189760"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834879"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Řešení potíží s chybějícími platbami, nesprávnými tržbami a dalšími problémy
 
@@ -73,6 +73,24 @@ Příčinou chybějících nebo nesprávných plateb je často jeden z následuj
   2. Otevřete stránku **historie transakcí** . Projděte si pole na této stránce, kde najdete všechny nedokončené akce, jako je například **čekající daňový profil**, **čekající platební profil** nebo **čekající na odeslání daně z daňových faktur**.
 
 Pokud tyto akce nejsou užitečné a vaše platby pořád chybí nebo jsou nesprávné, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+
+## <a name="how-can-i-reconcile-my-adjustments"></a>Jak mohu sjednotit svoje úpravy?
+
+Své úpravy můžete vyhledat a sjednotit stažením podrobností o transakcích a transakcích.
+
+1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
+2. V horním navigačním panelu vyberte ikonu peníze a pak vyberte **historie transakcí**.
+3. Použijte příslušné filtry. (Podívejte se na **důležité** poznámky níže.)
+4. Po filtrování dat vyberte **Spustit stahování** a pak vyberte **exportovat data**. Vaše data se otevřou v souboru CSV.
+5. V souboru CSV přejděte do sloupce P, **zisk typ**.
+6. Filtrovat tento sloupec pro **úpravu slevy** Můžete zobrazit měsíc každé úpravy ve sloupci S.
+
+>[!IMPORTANT]
+>Úpravy použité v předchozích obdobích výdělků se nebudou zobrazovat v tržbách za měsíc, ve kterém se nastavení použilo. Úpravy se vždycky projeví v sestavě příjmů za měsíc, na který se úprava použila.
+>
+>Například úprava pro tržby z ledna 2019, která byla zpracována v září 2019, se neprojeví v množství příjmů za září 2019. Až se ale přijme platba za září 2019, bude zahrnovat úpravu pro 2019. ledna, která byla použita v září. V tomto scénáři budete muset stáhnout podrobnosti o transakcích pro leden 2019, abyste viděli úpravu, která byla použita.
+>
+>Pamatujte na to, když nastavíte filtry data. Jak je uvedeno výše, úpravy pro předchozí období se budou zobrazovat jenom v měsíci, ve kterém se nastavení použilo. Překontrolujte, že vybraný rozsah dat odpovídá měsíci úpravy, kterou se pokoušíte najít. Možná budete muset vybrat možnost **Zrušit vše** a odebrat filtry a pak použít nové.
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>Proč jsou platby za žádosti o pobídky spolupráce k dispozici ve dvou různých měnách?
 
