@@ -1,5 +1,5 @@
 ---
-title: Vytvoření účtu v Partnerském centru
+title: Vytvoření účtu MPN v partnerském centru
 ms.topic: article
 ms.date: 02/08/2021
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 129cdd337f9b475b37d14c4e68058736b473fe33
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
+ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005919"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100013686"
 ---
-# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Vytvoření účtu partnerského centra pro správu výhod a kompetencí sítě
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Vytvoření účtu MPN v partnerském centru pro správu výhod a kompetencí sítě
 
 
-Pokud se Microsoft Partner Network a nemáte ID MPN, můžete zahájit registraci podle [pokynů k registraci](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
+Pokud s Microsoft Partner Network (MPN) začínáte a nemáte ID MPN, můžete zahájit registraci podle [pokynů k registraci](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
 ## <a name="prerequisites"></a>Požadavky 
 
 Až budete připraveni vytvořit účet v partnerském centru, budete muset mít k dispozici následující položky.  Než začnete, může trvat několik minut, než se shromáždí tyto položky:
 
-- Firemní pracovní e-mail nebo pracovní účet Office 365. Další informace, přečtěte si [pracovní účet společnosti a partnerské Centrum](azure-active-directory-tenants-and-partner-center.md) 
+- Firemní pracovní e-mail nebo pracovní účet Office 365. Další informace najdete v článku [pracovní účet společnosti a partnerské Centrum](azure-active-directory-tenants-and-partner-center.md) . 
  
 - Právní jméno a obchodní firmu vaší společnosti.
 
@@ -61,7 +61,7 @@ Po zadání informací o společnosti zadejte primární kontaktní informace a 
 Primární kontakt by měl být osoba ve vaší společnosti, kterou můžeme kontaktovat o vaší aplikaci (může to být vy nebo jiný uživatel ve vaší společnosti).
 
 >[!IMPORTANT]
->Abychom vám pomohli zajistit zabezpečení a ochranu osobních údajů vaší společnosti, pošleme primární kontakt k ověření e-mailové adresy a zajistěte, aby e-mailová adresa patřila do vaší společnosti. Jakmile primární kontakt ověří e-mailovou adresu, budeme pokračovat v naší kontrole informací, které jste zadali. Ověření obvykle trvá 3-5 pracovních dnů. 
+>Abychom vám pomohli zajistit zabezpečení a ochranu osobních údajů vaší společnosti, pošleme primární kontakt e-mailem k ověření e-mailové adresy a ujistěte se, že e-mailová adresa patří vaší společnosti Když primární kontakt ověří e-mailovou adresu, budeme pokračovat v naší kontrole informací, které jste zadali. Ověření obvykle trvá 3-5 pracovních dnů. 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Jak zobrazit podrobnosti o účtu nebo zobrazit a stáhnout smlouvu MPN
 
