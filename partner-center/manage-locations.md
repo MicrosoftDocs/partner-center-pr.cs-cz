@@ -1,7 +1,7 @@
 ---
 title: Správa umístění v partnerském účtu
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se, jak přidat nové umístění a jak se v programu motivačních programů, v obchodních předplatných, předplatných a dalších transakcích používá umístění MPN ID.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624268"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005903"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Správa umístění účtu MPN a přidání nového umístění
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Správa umístění účtu MPN a přidání (odstranění) umístění
 
 
 **Příslušné role**
@@ -79,7 +79,11 @@ Pokud chcete přidat nový obchodní účet CSP, začněte tím, že ověříte,
 :::image type="content" source="images/legal-biz.png" alt-text="Přidat novou právní firmu":::
 
 > [!NOTE]
-> Po přidání umístění do partnerského centra ho nejde odebrat. Pokud jste pro přihlášení použili správné ID **MPN, zobrazí se v levé** nabídce centra pro partnery v nabídce vlevo.
+> Jakmile je umístění přidané v partnerském centru, nemůžete ho odebrat. Pokud jste pro přihlášení použili správné ID **MPN, zobrazí se v levé** nabídce centra pro partnery v nabídce vlevo.
+
+## <a name="delete-a-location"></a>Odstranit umístění
+
+Pokud chcete odstranit umístění z vašeho účtu, budete muset kontaktovat [podporu partnerů](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Ujistěte se, že rozumíte dopadu, který tato akce má. Odstraněná umístění nelze načíst a veškerá vázaná ID MPN již nebudou rozpoznána nebo bude pro vaši společnost aktivní.
 
 ## <a name="change-country-of-partner-global-account"></a>Změnit zemi globálního účtu partnera 
 

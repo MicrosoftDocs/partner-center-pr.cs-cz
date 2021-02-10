@@ -9,7 +9,7 @@
     - name: Partner Microsoftu
       href: mpn-overview.md
       displayName: mpn
-    - name: Vytvoření účtu v Partnerském centru
+    - name: Vytvoření účtu MPN v partnerském centru
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Získání pracovní e-mailové adresy
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: Prodloužení platnosti nabídek
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: Požádat o refundaci
+          href: mpn-refund-request.md
           displayName: mpn
         - name: Vyhledání výhod programu MPN
           href: mpn-find-benefits.md
@@ -86,6 +89,9 @@
           displayName: mpn
         - name: Výhody pro vstup na trh
           href: mpn-learn-about-go-to-market-benefits.md
+          displayName: mpn
+        - name: Ukázky pro partnery MPN
+          href: mpn-demos.md
           displayName: mpn
         - name: Nejčastější dotazy k výhodám
           href: benefits-faq.md
