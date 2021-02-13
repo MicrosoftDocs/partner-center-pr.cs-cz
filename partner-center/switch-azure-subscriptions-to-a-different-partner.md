@@ -9,18 +9,18 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92527659"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281257"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Přesun předplatných Azure zákazníka k jinému partnerovi
 
 **Platí pro**
 
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro Microsoft Cloud for US Government
 - Partnerské centrum pro globální Cloud Microsoft
 - Partneři v programu Cloud Solution Provider (CSP)
 
@@ -53,9 +53,9 @@ Pokud chcete přepnout služby Azure nebo předplatné Azure na jiného partnera
    
    5. V kroku 2 vyberte **C – minimální dopad** a jako typ problému zvolte **Další obecné otázky** .
    
-   6. Stáhněte si [formulář pro přenos předplatného CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+   6. Stáhněte si [formulář pro přenos předplatného CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC).
 
-3. Partner pro předplatné: Vyplňte [formulář pro přenos předplatného CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), podepište ho a odešlete zákazníkovi. 
+3. Partner pro předplatné: Vyplňte [formulář pro přenos předplatného CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC), podepište ho a odešlete zákazníkovi. 
 
    K vyplnění formuláře budete potřebovat následující informace:
 

@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916884"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281311"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Jak prodávat nabídky zákazníkům pro vzdělávání a jak vytvořit zákazníka vzdělávání v partnerském centru
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916884"
 
 ## <a name="create-an-education-customer"></a>Vytvoření zákazníka v oblasti vzdělávání
 
-Tento článek vysvětluje, jak vytvořit zákazníka vzdělávání v partnerském centru a prodávat vzdělávací produkty. Obsahuje také informace o tom, jak zobrazit stav ověřování a v případě potřeby znovu odeslat žádost o ověření.
+Tento článek vysvětluje, jak vytvořit zákazníka vzdělávání v partnerském centru a prodávat vzdělávací produkty. Obsahuje také informace o tom, jak zobrazit stav ověřování a v případě potřeby znovu odeslat žádost o ověření. Nabídky vzdělávání jsou momentálně **dostupné jenom pro služby založené na licencích** , jako je Microsoft 365, Dynamics, Intune atd. Není k dispozici pro jiné typy (odběry softwaru, trvalé softwarové nebo produkty Azure).
 
 > [!IMPORTANT]
 > Společnost Microsoft ověří každého nově vytvořeného tenanta zákazníka, aby zajistil, že jsou kvalifikováni pro nabídky vzdělávání.  Nezapomeňte přesně a úplně zadat požadované informace, abyste zabránili prodlevám v procesu ověřování.
@@ -75,7 +75,7 @@ Příklady stavu:
 
 Pokud zákazník neprojde počátečním ověřením, můžete si teď opravit informace a znovu ho odeslat.
 
-### <a name="correct-the-customer-account-information"></a>Opravte informace o účtu zákazníka.
+### <a name="correct-the-customer-account-information"></a>Oprava informací o účtu zákazníka
 
 Chcete-li aktualizovat informace o zákazníkovi, je nutné mít oprávnění globálního správce. Informace na portálu Office 365 aktualizujete, protože tato data nejde aktualizovat z portálu partnerského centra.
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 5a5f2ee73c84a3d50e20e6319b07ee2f90aa4972
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588729"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281242"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,8 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z února 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Nabídky/trhy|[Microsoft 365 E3 se cenové změny nadcházející 2021. března](2021-february.md#6)|11. února|
+|Nabídky/trhy|[Aktualizovaný ceník verze Preview založený na licencích pro norské koruna](2021-february.md#5)|10. února|
 |Možnosti|[Posouzení úrovně Premium, doplněk ke Správci dodržování předpisů, přichází 1. března 2021](2021-february.md#4)|5. února|
 |Možnosti|[Reakce na COVID-19: Microsoft Partner Network Update](2021-february.md#3)|4. února|
 |Možnosti|[Nové aktualizace modulu odkazy v partnerském centru](2021-february.md#2)|4. února|

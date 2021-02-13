@@ -9,16 +9,66 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ac5c82887ddf17e66045e36c0f4de607529f6024
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624166"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281216"
 ---
 # <a name="february-2021-announcements"></a>Oznámení z února 2021
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu na únor 2021.
+
+_______________
+
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 E3 se cenové změny nadcházející 2021. března
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-02-11
+- Nabídky/trhy
+
+### <a name="affected-audience"></a>Ovlivněná cílová skupina
+
+Všichni partneři procházejí prostřednictvím programu Cloud Solution Provider (CSP) v EUR, AUD, GBP a v JPY.
+
+### <a name="details"></a>Podrobnosti
+
+Ceník verze Preview na základě licencí pro březen 2021 byl aktualizován tak, aby zahrnoval cenové změny Microsoft 365 E3. Ovlivněná nabídka a měny jsou uvedené níže. 
+ 
+Název nabídky: Microsoft 365 ID nabídky E3: ID materiálu 2b3b8d2d-10aa-4BE4-b5fd-7f2feb0c3091: AAA-35638
+
+Aktualizace Microsoft 365 E3 s cenami jsou omezené jenom na tyto měny: JPY (japonština), GBP (Velká Británie), EUR (Evropské unie), AUD (Australský dolar). V souboru na březnu se účtují další cenové změny a partneři by si měli stáhnout nejnovější verzi Preview, aby viděli ostatní očekávané změny.
+
+### <a name="next-steps"></a>Další kroky
+
+Partneři by si měli stáhnout nejnovější soubory ceníku z partnerského centra a získat tak nejnovější ceny za březen. 
+
+_______________
+
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>Aktualizovaný ceník verze Preview založený na licencích pro norské koruna
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-02-10
+- Nabídky/trhy
+
+### <a name="affected-audience"></a>Ovlivněná cílová skupina
+
+Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+
+### <a name="summary"></a>Souhrn
+
+Ceník pro verzi Preview založený na licencích se aktualizoval pro norské ceny koruna pro 1. března 2021.
+
+### <a name="details"></a>Podrobnosti
+
+Změny míry FX v březnu nebyly zahrnuty do ceníků na základě licencí uvedených v březnu. Tento soubor byl aktualizován tak, aby odrážel očekávané cenové změny norského koruna. Partneři by měli získat nejnovější verzi aktuální verze Preview, aby viděli tyto změny, které se očekávají od 1. března 2021. Tyto změny jsou jen pro norské ceny za koruna měnu.
+
+### <a name="next-steps"></a>Další kroky
+
+Partneři by si měli stáhnout aktuální soubor Preview ceníku pro očekávané změny pro 1. března 2021.
 
 _______________
 

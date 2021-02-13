@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588746"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281360"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Průvodce spoluprodejem v partnerském centru (PC) pro partnery, kteří se migrují z partnerského prodejního připojení (PSC)
 
@@ -158,7 +158,7 @@ Před zahájením migrace ze služby rozdat z počítače použijte následujíc
     - Odhadované datum uzavření koupě
     - Poznámky k partnerovi
 
-Můžete použít možnosti hromadného stažení a nahrání v PSC k vyčištění dat pro všechny opravňující obchody.
+Možnosti hromadného stažení a nahrání v PSC můžete použít k přidání všech chybějících detailů do obchodu pro všechny oprávněné obchody.
 
 >[!Note]
 > Migrace do provozu bude úspěšná i v případě, že nejsou splněné výše uvedené požadavky. Ale nemůžete změnit stav obchodu, pokud některá z výše uvedených povinných polí v partnerském centru nejsou k dispozici. Potom budete muset zadat všechny požadované informace v části obchody v partnerském centru, abyste na ně mohli začít pracovat. **Důrazně doporučujeme vyčistit opravňující obchody v PSC před jejich migrací do partnerského centra.**
@@ -178,9 +178,9 @@ Sestava obsahuje níže uvedené podrobnosti.
 4. **ID transakce PSC** – jedinečný identifikátor v poli PSC pro obchod.
 5. **Chyby** – k označení, zda při migraci konkrétního obchodování dojde k chybě.
 
-Všechny obchody, které byly úspěšně migrovány, nebudou viditelné v PSC. Můžete pracovat s migrovaných obchody v počítači. V interakcích s prodejci Microsoftu pro spoluprodejní obchody se žádné změny nemění.
+Všechny obchody, které byly úspěšně migrovány, nebudou viditelné v PSC. Můžete pokračovat v práci na migrovaných obchodech v počítači, včetně dokončení registrace koupě v počítači. V interakcích s prodejci Microsoftu pro spoluprodejní obchody se žádné změny nemění.
 
-Služby migrované z PSC budou k dispozici na kartách příchozí a odchozí na základě zdroje obchodu. Všechny obchody vytvořené partnerem budou k dispozici na kartě odchozí a iniciované obchody společnosti Microsoft budou k dispozici na kartě příchozí v partnerském centru. Budou se vytvářet migrace po dvou typech obchodů.
+Služby migrované z PSC budou k dispozici na kartách příchozí a odchozí na základě zdroje obchodu. Všechny obchody, které vaše společnost sdílí, budou k dispozici na kartě odchozí a iniciované obchody společnosti Microsoft budou k dispozici na kartě příchozí v partnerském centru. Budou se vytvářet migrace po dvou typech obchodů.
 
 1. **Společné obchody** – obchody, které jsou označené jako spoluprodej v rámci PSC, se vytvoří jako společné obchody v partnerském centru.
 2. Probíhající **obchody** – obchody, které nejsou označené jako společný prodej, se budou vytvářet jako obchody řízené partnerským centrem v partnerském centru. Obchody na základě partnerských partnerů jsou viditelné prodejcům Microsoftu a je možné je upgradovat na společné obchody ještě před dosažením stavu terminálu (výhra, ztraceno). V případě, že jsou v rámci obchodu k dispozici vhodné řešení, mají také nárok na registraci v rámci partnerů.
@@ -386,12 +386,20 @@ Partnerskému centru nemůže mít váš PDM přímý pøístup na rozdíl od PS
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Hledání správného ID MPN, pokud váš účet v PBV není přidružený k platnému programu MPN
 
-Pokud jste tady, vzhledem k tomu, že jste si všimli banneru s názvem PSC neplatný problém přidružení ID MPN, jste na správném místě.
+Pokud jste tady, vzhledem k tomu, že jste si všimli banneru s názvem PSC neplatný problém přidružení ID MPN, jste na správném místě. Váš účet může být propojený s neplatným ID MPN z následujících důvodů.
+
+- Vaše společnost nemá účet partnerského centra.
+- V PDM došlo k chybě při zadávání ID MPN účtu do interních systémů, které propojí váš účet PSC s účtem partnerského centra (MPNID).
+- Vaše společnost nedokončila migraci z centra pro členství v partnerech (PMC) do počítače.
 
 Nejdřív vyhledejte správné ID MPN pomocí následujících kroků.
 
 - Přihlaste se k účtu partnerského centra.
 - Pomocí pokynů uvedených v [dokumentaci nastavení účtu](./partner-center-account-setup.md#locate-your-mpn-id) vyhledejte ID MPN.
+
+Níže je zobrazený snímek obrazovky s přesným umístěním, kde můžete najít ID MPN partnerského centra.
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Obrázek znázorňující nastavení účtu, kde partner může najít své ID MPN."  lightbox="images/pscmigration/findingMPNID.png":::
 
 Další, 
 

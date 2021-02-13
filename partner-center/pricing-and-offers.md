@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979817"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281292"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Ceny a nabídky pro Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure a další
 
@@ -45,7 +45,7 @@ Nejnovější programy a nabídky poskytovatele Cloud Solution Provider najdete 
 
 Služby založené na licencích zahrnují ceník v ceníku, který je poskytnutý za 30 dní předem při jakýchkoli změnách. Pokud chcete zobrazit náhled ceníku, přejděte na **prodej > ceny a nabídky**. Neexistují žádné cenové verze Preview pro služby založené na využívání, protože tyto služby jsou dynamické. Následující tabulka vysvětluje, jak si přečíst tabulku ceníku.
 
-|**Položka**        |**Definice**      |
+|**Položka**        |**Definition**      |
 |:-----------   |:-----------   |
 |PŘIDÁVÁNÍ   |Nová položka do ceníku|
 |ZDR   |Změny v seznamu ceny z měsíce na měsíc. Mohou nastat další změny, které nesouvisí se seznamem cen, a partneři by měli porovnat ceníky mezi měsíci a určit změny dalších vlastností.|
@@ -82,7 +82,7 @@ Ceny na základě využití se můžou v průběhu měsíce měnit. Pokud chcete
 
 ## <a name="pricing-and-special-segments"></a>Ceny a zvláštní segmenty
 
-CSP nabízí některé služby pro speciální segmenty trhu, jako je například vzdělávání, neziskové a státní cloudové komunitní služby. Ne všechny služby jsou k dispozici v každém kanálu. Nejedná se o výchozí segment, který volá "komerční" segment. Všechny ceny na základě licencí jsou k dispozici v ceníku založeném na licencích na stránce ceny a nabídky. V cenovém seznamu založeném na využití jsou k dispozici Azure Government ceny, pokud se přihlásíte k tenantovi CSP, který je povolen Azure Government.
+CSP nabízí některé služby pro speciální segmenty trhu, jako je například vzdělávání, neziskové a státní cloudové komunitní služby. Ne všechny služby jsou k dispozici v každém kanálu. Nejedná se o výchozí segment, který volá "komerční" segment. Všechny ceny na základě licencí jsou k dispozici v ceníku založeném na licencích na stránce ceny a nabídky. V cenovém seznamu založeném na využití jsou k dispozici Azure Government ceny, pokud se přihlásíte k tenantovi CSP, který je povolen Azure Government. Odběry softwaru a trvalé software ještě tyto speciální segmenty nepodporují.
 
 |**Segment**   |**Kdo musí kvalifikovat**   |**Partner má nárok na zákazníky.**|**Povolené typy produktů**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
