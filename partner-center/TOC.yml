@@ -127,9 +127,6 @@
     - name: Smlouva s partnerem Microsoftu – Poskytovatelé CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Správa umístění
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: Jak nepřímá poskytovatelé můžou svým prodejcům přispět.
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,6 +194,9 @@
           displayName: mpn
         - name: Propojení pracovního účtu
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: Správa umístění
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: Ověření vlastnictví domény
           href: become-global-admin.md
         - name: Ověření informací o účtu
@@ -262,6 +262,8 @@
       items:
         - name: Informace o zájemcích o spoluprodej
           href: manage-co-sell-opportunities.md
+        - name: Hromadné operace
+          href: bulk-operations.md
         - name: Používání konektorů CRM por spoluprodej
           items:
             - name: Pro Dynamics 365
