@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: ac5c82887ddf17e66045e36c0f4de607529f6024
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281216"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490168"
 ---
 # <a name="february-2021-announcements"></a>Oznámení z února 2021
 
@@ -22,11 +22,49 @@ Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu n
 
 _______________
 
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Představujeme témata Microsoft vivae
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 12. února 2021
+- Možnosti
+
+### <a name="affected-audience"></a>Ovlivněná cílová skupina
+
+Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Podrobnosti
+
+Témata Microsoft Vivay využívají umělá inteligentní funkce (AI) k identifikaci znalostí a znalostí v rámci vaší organizace a jejich nasdílení do sdílených témat, jako jsou produkty, zákazníci nebo projekty. Při práci s moderními kartami a stránkami témat najdete ve znalostní bázi v kontextu svých týmů, projektů a dokumentů. AI a lidi spolupracují na tom, aby vylepšili znalosti a plochu v aplikacích, které používáte každý den. 
+
+Aby uživatelé měli nárok na Viva témata, musí mít licenci jednu z následujících.   
+- Microsoft 365 F1, F3, E3, a3, E5 nebo a5 
+- Office 365 F3, E1, a1, E3, a3, E5 nebo a5 
+- Microsoft 365 Business Basic, Standard nebo Premium 
+- SharePoint K, plán 1 nebo Plan2 
+
+**Podrobnosti nabídky**
+
+Tyto nabídky budou mít v seznamech ceníku 1. února v názvu své nabídky "témata prostředí". V případě, že se ceníky aktualizují 1. března, budou se tyto názvy nabídek aktualizovat pomocí "Viva témata".
+
+|**Název nabídky**|**ID nabídky**|**ID materiálu**|
+|------------------|:--------------------|:------------------|
+|Témata Viva|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
+|Témata Viva pro vyučující|8c930d38-db61-4afa-83f9-77c595c5cdfc|1TK-00006|
+|Témata Viva pro studenty|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
+
+### <a name="next-steps"></a>Další kroky
+
+- Projděte si materiály k tomuto tématu a sdílejte tyto informace s příslušnými zúčastněnými stranami ve vaší organizaci.  
+- Další informace najdete v [centru Viva v tématu centra zdrojů](https://resources.techcommunity.microsoft.com/viva-topics).
+
+_______________
+
 ## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 E3 se cenové změny nadcházející 2021. března
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-02-11
+- Datum: 11. února 2021
 - Nabídky/trhy
 
 ### <a name="affected-audience"></a>Ovlivněná cílová skupina
@@ -51,7 +89,7 @@ _______________
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-02-10
+- Datum: 10. února 2021
 - Nabídky/trhy
 
 ### <a name="affected-audience"></a>Ovlivněná cílová skupina
@@ -76,7 +114,7 @@ _______________
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-02-05
+- Datum: 5. února 2021
 - Možnosti
 
 ### <a name="affected-audience"></a>Ovlivněná cílová skupina
@@ -111,7 +149,7 @@ _________________________________________________________
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-02-04
+- Datum: 4. února 2021
 - Možnosti
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
@@ -120,13 +158,13 @@ Všichni partneři
 
 ### <a name="details"></a>Podrobnosti
 
-Microsoft nabízí rozšíření pro kompetenci (s výjimkou možností kompetence Cloud Business Applications) a rozšířené rozšíření specializace pro partnery s daty výročí (AD) mezi 1. ledna 2021 a 30. června 2021. Další informace najdete v našem [blogovém příspěvku o partnerovi](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
+Microsoft nabízí rozšíření kompetence (kromě Business Applications kompetence cloudu) a rozšířené rozšíření specializace pro partnery s daty výročí (AD) mezi 1. ledna 2021 a 30. června 2021. Další informace najdete v našem [blogovém příspěvku o partnerovi](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nové aktualizace modulu odkazy v partnerském centru
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-02-03
+- Datum: 5. února 2021
 - Možnosti
  
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
@@ -151,7 +189,7 @@ Tady je co je nový v modulu odkazy v partnerském centru:
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partneři, kteří mají k dispozici nabídky společně s prodejem
 
-- [Spoluprodejní s ostatními partnery](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): Pozvěte jiného partnera z našeho výkonného partnerského ekosystému pro spoluprodej a odemkněte přístup k dalším cílovým zákazníkům.  
+- [Spoluprodejní s ostatními partnery](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): Pozvěte jiného partnera z našeho výkonného partnerského ekosystému pro spoluprodej a odemkněte přístup k dalším cílovým skupinám zákazníků.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partneři s podporou transakcí, které využívají řešení Azure s motivací na úrovni obchodu na komerčním webu Marketplace
 
@@ -161,14 +199,14 @@ Tady je co je nový v modulu odkazy v partnerském centru:
 
 Pokud potřebujete pomoc s používáním některé z nových funkcí, podívejte se do [části REFERENCES](https://docs.microsoft.com/partner-center/referrals) v naší znalostní bázi nebo v článku o podpoře postupů, které jsou dostupné v naší [galerii možností společného prodeje](https://aka.ms/CoSellExperience) (vyžaduje se přihlášení).
 
-Pro další podporu můžete [otevřít lístek s naším týmem podpory pro partnery](https://partner.microsoft.com/support/?stage=1).
+Pro podporu můžete [otevřít lístek s naším týmem podpory pro partnery](https://partner.microsoft.com/support/?stage=1) .
 
 ________________
 ## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Vyřazení a vyřazení rozhraní API kvalifikace pro vzdělávání pro proces ověření zákazníka od 25. února 2021 a získání kvalifikace podle 4. května 2021.
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-02-04
+- Datum: 4. února 2021
 - Možnosti
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
@@ -181,7 +219,7 @@ Toto oznámení je následná vylepšení partnerského centra [vydané v prosin
 
 ### <a name="next-steps"></a>Další kroky
 
-- **Aktualizace na nová rozhraní API**, pokud jste to ještě neučinili, pro úspěšný a včasný přechod
+- **Aktualizace nových rozhraní API** pro úspěšný a včasný přechod
 - **Projděte si nové změny a příručka rozhraní API partnerského centra** v prostředcích připravenosti operací: [vylepšení procesu ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) .
 - Tyto **informace můžete sdílet s příslušnými týmy** v rámci vaší organizace a s prodejci, aby se mohly připravit na tyto změny.
 
