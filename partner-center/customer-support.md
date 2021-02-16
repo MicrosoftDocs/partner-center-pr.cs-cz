@@ -1,20 +1,20 @@
 ---
 title: Poskytování podpory vašim zákazníkům
-ms.topic: article
-ms.date: 01/22/2021
+description: Přečtěte si o zodpovědnostech zákaznické podpory pro partnery v programu CSP. Zahrnuje podporu pro fakturaci, správu předplatného a technické problémy.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si o zodpovědnostech zákaznické podpory pro partnery v programu CSP. Zahrnuje podporu pro fakturaci, správu předplatného a technické problémy.
 author: Kim-Davis
 ms.author: kimnich
+ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: f32c9b2db500fabe982c364e24f94fc449bc5218
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/22/2021
+ms.openlocfilehash: 315089a3a20fdd5f9de283494e735f54bd351806
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717670"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541021"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Poskytování různých typů podpory zákazníkům
 
@@ -34,11 +34,15 @@ Zákazníci CSP nemůžou vytvářet lístky podpory sami. Budou se muset obrát
 
 - Podpora **komerčních** problémů je dostupná všem partnerům v programu CSP.
 
-- Podpora **technického** problému – další podrobnosti o konkrétním plánu podpory vám pomohou [Porovnat plány podpory partnerů](https://partner.microsoft.com/support/partnersupport) nebo zobrazit níže.
+- **Technická** pomocná podpora – můžete [Porovnat plány podpory partnerů](https://partner.microsoft.com/support/partnersupport) nebo další informace najdete v následujících tématech o konkrétním plánu podpory:
 
-  - [Premier Support pro partnery](https://partner.microsoft.com/support/microsoft-services-premier-support) (základ poplatků)
-  - [Rozšířená podpora pro partnery](https://partner.microsoft.com/support/advanced-cloud-support) (základ poplatků)
-  - [Podpisová podpora cloudu](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits) (součástí gold/Silver Competency)
+  - [Premier Support pro partnery](https://partner.microsoft.com/support/microsoft-services-premier-support) (základ poplatků, použití pro všechny produkty)
+
+  - [Rozšířená podpora pro partnery](https://partner.microsoft.com/support/advanced-cloud-support) (základ poplatků za použití jenom pro cloudové produkty)
+
+  - [Podpisová podpora cloudu](manage-your-partner-network-benefits.md) (zahrnutá s výhodami programu MPN pro zlaté nebo stříbrné kompetence, jenom pro cloudové produkty)
+
+  - [Incidenty podpory produktu](manage-your-partner-network-benefits.md) (dodávané s výhodami programu MPN pro partnery Gold, stříbrného a Microsoft Action Pack, použití jenom pro poslední místní produkty)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Poskytování fakturace, správy předplatných a technické podpory 
 
@@ -49,12 +53,3 @@ Každá online služba má konkrétní a podrobné požadavky na poskytování f
 - [Předplatná Azure prodávaná prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Předplatná systém Microsoft Office 365 prodaná prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
-
-
-
- 
-
- 
-
-
-

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974752"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541010"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -348,7 +348,9 @@ Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solut
 
 Od února 2021 bude společnost Microsoft implementovat omezování rozhraní API, aby umožňovala jednotnější výkon v časovém intervalu pro partnery, kteří volají rozhraní API partnerského centra.Omezování omezuje počet požadavků na službu v časovém intervalu, aby nedocházelo k nadměrnému využití prostředků.Po překročení prahové hodnoty omezuje Partnerská centra všechny další požadavky od tohoto klienta po určitou dobu.
   
-**Výhody pro partnery:** Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků, ale pokud je zahlceno více požadavků několika partnery, omezování vám pomůže udržet optimální výkon a spolehlivost pro všechny partnery.  
+**Výhody pro partnery:**
+
+Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků, ale pokud je zahlceno více požadavků několika partnery, omezování vám pomůže udržet optimální výkon a spolehlivost pro všechny partnery.  
 
 - Omezování zajišťuje minimální výpadky.
 - Omezování omezuje počet požadavků na vysoké objemy, což pomáhá zajistit konzistentní výkon pro všechny partnery.

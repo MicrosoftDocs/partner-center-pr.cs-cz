@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490151"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540977"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,8 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z února 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Možnosti|[Nyní Live: DocuSign migrace do Adobe Signing pro partnery v rámci smluv partnerů Microsoftu (MPAs)](2021-february.md#9)|16. února|
+|Rozšiřte svou firmu|[Připomenutí: Představujeme omezování rozhraní API pro partnery, kteří volají rozhraní API Partnerského centra](2021-february.md#8)|16. února|
 |Možnosti|[Představujeme témata Microsoft vivae](2021-february.md#7)|12. února|
 |Nabídky/trhy|[Microsoft 365 E3 se cenové změny nadcházející 2021. března](2021-february.md#6)|11. února|
 |Nabídky/trhy|[Aktualizovaný ceník verze Preview založený na licencích pro norské koruna](2021-february.md#5)|10. února|

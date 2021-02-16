@@ -9,16 +9,120 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490168"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540994"
 ---
 # <a name="february-2021-announcements"></a>Oznámení z února 2021
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu na únor 2021.
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Nyní Live: DocuSign migrace do Adobe Signing pro partnery v rámci smluv partnerů Microsoftu (MPAs)
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-02-16
+- Možnosti
+
+### <a name="summary"></a>Souhrn
+
+Microsoft převede všechny e-mailové zpracování podpisů z DocuSign na symbol Adobe.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Stávající poskytovatelé přímých a nepřímých cloudových řešení (CSP) v rámci technologie aktivace.
+
+### <a name="details"></a>Podrobnosti
+
+V únoru 2021 začne Microsoft přecházet všemi elektronickými zpracováními podpisů od DocuSign do Adobe signers pro partnery CSP.
+
+Měli byste očekávat hladký přechod. Po migraci obdržíte od společnosti DocuSign e-mail, a adobesign@adobesign.com to vždy, když je vyžadován elektronický podpis. Tento e-mail vám poskytne odkaz na přihlašovací webovou stránku Adobe, kde se budete muset podepsat. Partneři Microsoftu nebudou muset znovu podepisovat stávající smlouvy, jenom dohody o budoucích kanálech. Partneři na Ukrajině, Rusku a Kazachstánu budou muset každý rok fyzicky nebo e-mailem znovu podepsat.
+
+Příklad e-mailu s požadavkem na podpis Adobe můžete najít v [galerii prostředků](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).
+
+Pro dosažení co nejlepších výsledků se ujistěte, že jste provedli následující akce:
+
+1. Přidejte adobesign@adobesign.com do seznamu bezpečných odesílatelů, abyste zabránili e-mailům z tohoto účtu přejít přímo do složky Nevyžádaná pošta.
+2. Spolupracovat s vaším IT oddělením na:
+    - Přidejte adobesign@adobesign.com e-mailovou adresu do seznamu bezpečných odesílatelů, abyste se ujistili, že nejsou zahrnutá v žádném předem zavedeném pravidlu phishing.
+    - Aktualizujte stávající zásady zabezpečení a zajistěte, aby všichni povinní příjemci mohli podepsat dokumentaci v rámci licence společnosti Adobe pro podpis Enterprise.
+
+Prostředky vztahující se k registraci, funkcím a otázkám obchodního procesu můžete najít na [stránce partner pro migraci podpisů Adobe](https://aka.ms/eSignature/External).
+
+Adobe signed je preferované řešení elektronické signatury Microsoftu (ESS) od Microsoftu. Přechod na symbol Adobe zajišťuje zabezpečené a efektivní prostředí elektronického podpisu, které našim zákazníkům a partnerům poskytne větší hodnotu.
+
+Další informace o tom, jak elektronicky podepisovat dokumenty a delegovat elektronický podpis, najdete v následujících kurzech:
+
+- [Elektronický podpis dokumentu | Adobe – posílané kurzy](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Pro podepsání dokumentu delegovat někoho jiného Adobe – posílané kurzy](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Další kroky
+
+Tyto informace sdílejte s příslušnými zúčastněnými stranami ve vaší organizaci.
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud máte nějaké dotazy, obraťte se na centrum pro místní provoz pomocí [Nástroje pro protokolování volání (CLT)](https://clt.partners.extranet.microsoft.com/CLT) nebo v části [prozkoumat MS](https://www.explore.ms/). Sledujte standardní proces CLT, abyste mohli co nejrychleji vyřešit váš dotaz.
+
+### <a name="change-log"></a>Protokol změn
+
+- 15. ledna 2021: původní publikace 
+- 16. února 2021: nyní Live, nový prostředek: stránka partner pro migraci podpisů Adobe 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Připomenutí: Představujeme omezování rozhraní API pro partnery, kteří volají rozhraní API partnerského centra
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-02-16
+- Podpora růstu vaší firmy
+
+### <a name="summary"></a>Souhrn
+
+Microsoft bude implementovat omezování rozhraní API, aby umožňoval jednotnější výkon v časovém intervalu pro partnery, kteří volají rozhraní API partnerského centra.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)  
+
+### <a name="details"></a>Podrobnosti
+
+Od února 2021 bude společnost Microsoft implementovat omezování rozhraní API, aby umožňovala jednotnější výkon v časovém intervalu pro partnery, kteří volají rozhraní API partnerského centra.Omezování omezuje počet požadavků na službu v časovém intervalu, aby nedocházelo k nadměrnému využití prostředků.Po překročení prahové hodnoty omezuje Partnerská centra všechny další požadavky od tohoto klienta po určitou dobu.
+
+**Výhody pro partnery:**
+
+Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků, ale pokud je zahlceno více požadavků několika partnery, omezování vám pomůže udržet optimální výkon a spolehlivost pro všechny partnery.  
+
+- Omezování zajišťuje minimální výpadky.
+- Omezování omezuje počet požadavků na vysoké objemy, což pomáhá zajistit konzistentní výkon pro všechny partnery.
+
+**Rozhraní API, která se mají omezit:**
+
+| Operace | Dokumentace k Partnerskému centru |
+| ------ | ------- |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions  | [Get-All-of-Customer](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Získání předplatného podle ID](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders  | [Získat všechny zákaznické objednávky](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}  | [Získání objednávky podle ID](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus  | [Získání stavu zřizování předplatných](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Správa objednávek a Správa předplatného](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons  | [Získání seznamu doplňků pro předplatné](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements | [Získat seznam nároků na Azure pro předplatné](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus  | [Získání stavu registrace předplatných](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/Customers/{Customer-tenant-ID}/Transfers  | [Získat všechny přenosy zákazníka](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Získání stavu upgradu produktů](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/Customers/{Customer-ID}/Subscriptions/{Subscription-ID}/Conversions   | [Získání seznamu nabídek převod zkušebních verzí](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+Důrazně doporučujeme, aby partneři zvážili použití rozhraní API protokolu aktivit pro vyšší efektivitu a zabránili omezování.Další informace o této funkci najdete [v podrobnostech](/partner-center/develop/api-throttling-guidance).  
+
+### <a name="next-steps"></a>Další kroky
+
+Projděte si [materiály](/partner-center/develop/api-throttling-guidance)   k tomuto tématu a proveďte potřebné kroky.  
 
 _______________
 
