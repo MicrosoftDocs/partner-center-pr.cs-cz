@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 831fbc294bfd82caef77489f74747bb32cf0b12c
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100334586"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645635"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Hromadné operace pro společný prodej příležitostí pomocí souborů hodnot oddělených čárkami (CSV)
 
@@ -71,7 +71,7 @@ Název zákazníka|Yes|Název společnosti zákazníka. Použijte právní náze
 Město zákazníka|Yes|Město, kde se nachází organizace zákazníka|Redmond
 Stav zákazníka|No|Stát, kde se nachází organizace zákazníka.|Washington
 Poštovní směrovací číslo zákazníka|No|Poštovní směrovací číslo oblasti, kde se nachází organizace zákazníka.|98052
-Země zákazníka|Yes|Země nebo oblast, kde se nachází organizace zákazníka. Použijte kódy zemí se třemi písmeny, jak je uvedeno [zde]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|USA
+Země zákazníka|Yes|Země nebo oblast, kde se nachází organizace zákazníka. Použijte kódy zemí obou písmen, jak je uvedeno [zde]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|USA
 ID zákazníka D-U-N-S|No|Zkuste načíst ID DUNS organizace zákazníka. To vám pomůže při rychlejším spárování organizace zákazníka na straně Microsoftu, což pomáhá rychleji přiřazovat prodejce. Z tohoto [webu](https://www.dnb.com/duns-number/lookup.html)můžete získat bezplatné ID Duns.|81466849
 Křestní jméno kontaktní osoby zákazníka|Závislosti|Křestní jméno je povinné pouze v případě, že potřebujete technickou podporu společnosti Microsoft. Křestní jméno primárního kontaktu od organizace zákazníka, který na této práci pracuje.|John
 Příjmení kontaktu zákazníka|Závislosti|Příjmení je povinné jenom v případě, že potřebujete technickou podporu Microsoftu. Příjmení primárního kontaktu od organizace zákazníka, který na této práci pracuje.|Zákazník

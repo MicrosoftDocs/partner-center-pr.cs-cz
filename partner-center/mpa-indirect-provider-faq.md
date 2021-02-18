@@ -1,7 +1,7 @@
 ---
 title: Jak nepřímá poskytovatelé můžou svým prodejcům přizpůsobovat smlouvu s partnerem Microsoftu – Nejčastější dotazy
 ms.topic: article
-ms.date: 02/04/2021
+ms.date: 02/17/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Klíčové otázky týkající se zodpovězené smlouvy o partnerovi Microsoftu
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 3572056d38966427f8970cf48268ac21a261b505
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624285"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645890"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Způsob, jakým můžou nepřímé prodejci pomáhat svým nepřímým prodejcům přijmout dohodu o partnerovi Microsoftu (MPA)
 
@@ -26,7 +26,7 @@ ms.locfileid: "99624285"
 
 Následující otázky a odpovědi řeší potenciální problémy a řešení pro pomoc nepřímým prodejcům pochopit, jak a proč přijmout aktivaci. 
 
-Tyto informace jsou užitečné, když nepřímá poskytovatelé, partneři pro přímé vyúčtování a nepřímé prodejci v programu Cloud Solution Provider vyhledají.
+Tyto informace jsou užitečné, jenom nepřímými poskytovateli, přímými partnery a nepřímými prodejci v programu Cloud Solution Provider.
 
 ## <a name="questions-on-mpa-program-and-policy"></a>Dotazy k programu a zásadě technologie MPA
 
@@ -117,7 +117,7 @@ Pokud máte pobočky v různých zemích, můžete v těchto zemích vytvořit u
 
 •[Správa umístění v partnerském účtu](manage-locations.md)
 
-V případě problémů vyvolejte [lístek podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) v rámci partnerského centra. 
+Pokud se setkáte s problémy, vyvolejte [lístek podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) v rámci partnerského centra. 
 
 
 #### <a name="i-dont-know-which-mpn-id-to-use-while-enrolling-into-csp-indirect-reseller-program"></a>Nevím, které ID MPN se má použít při registraci do programu nepřímý prodejce CSP?
@@ -148,16 +148,16 @@ Chcete-li tento problém vyřešit, vytvořte umístění MPN ve stejné zemi ja
 
 #### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>Mám účet nepřímých prodejců CSP ve Francii. Můžu být partnerem s nepřímým poskytovatelem v Německu?
 
-**Odpověď** Ano. Když je účet nepřímým prodejcům CSP v oblasti CSP aktivní, může se stejný účet použít k podnikání v celé oblasti. Další informace najdete v [oblasti CSP](regional-authorization-overview.md).
+**Odpověď** Ano. Jakmile je účet nepřímým prodejcům CSP v oblasti CSP aktivní, můžete použít stejný účet, který bude sloužit k podnikání v celé oblasti. Další informace najdete v [oblasti CSP](regional-authorization-overview.md).
 
 #### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>Jsem nepřímým prodejcem v USA. Můžu být partnerem s nepřímým poskytovatelem ve Spojeném království?
 
 **Odpověď** Ne. CSP je místní program. Účet CSP pro nepřímý prodejce i nepřímý poskytovatel musí být ve stejné oblasti CSP, aby mohl dělat firmy. Chcete-li tento problém vyřešit, je třeba vytvořit nový účet CSP v evropské oblasti a vytvořit umístění MPN ve stejné zemi jako zemi účtu CSP a pak přijmout žádost o vztah od nepřímého poskytovatele. Můžete například vytvořit nepřímý prodejce CSP ve Francii, vytvořit umístění MPN ve Francii a pak přijmout pozvánku od nepřímého poskytovatele, který je buď ve Francii, nebo v jakékoli jiné zemi v evropské oblasti CSP.
 
-#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>Můžu v partnerském centru mít více než jeden účet MPN a CSP?
+#### <a name="can-i-have-more-than-one-mpn-and-csp-accounts-in-partner-center"></a>Můžu mít v partnerském centru více než jeden účet MPN a CSP?
 
-**Odpověď** Můžete mít jenom jeden účet MPN (přihlásit se) a jeden nebo několik účtů CSP (přihlášení) v závislosti na oblastech CSP, které vaše společnost provádí. Například můžete mít účet MPN v USA (sídel) s místy v USA (pobočky), Spojené království (dceřiné společnosti) a Austrálii (dceřiné společnosti).
-V USA můžete mít jeden účet CSP (pracovní účet Office 365), který má stejné přihlašovací údaje jako účet MPN. V britských můžete mít druhý účet CSP. který má jiné přihlašovací přihlašovací údaje ke správě podnikového zprostředkovatele CSP v evropské oblasti a třetí v Austrálii, která má jiné přihlašovací údaje pro přihlášení od ostatních dvou ke správě podnikání CSP v Austrálii.
+**Odpověď** V závislosti na oblastech CSP firmy, které vaše společnost používá, můžete mít jenom jeden účet MPN (přihlášení) a jeden nebo několik účtů CSP (přihlášení). Například můžete mít účet MPN v USA (sídel) s místy v USA (pobočky), Spojené království (dceřiné společnosti) a Austrálii (dceřiné společnosti).
+V USA můžete mít jeden účet CSP (pracovní účet Office 365), který má stejné přihlašovací údaje jako účet MPN. V britských můžete mít druhý účet CSP. který má jiné přihlašovací přihlašovací údaje ke správě podnikového zprostředkovatele CSP v evropské oblasti a třetí v Austrálii, která má jiné přihlašovací údaje od dalších dvou ke správě podnikání v Austrálii.
 
 Pro účely podnikání a získání pobídek v těchto pobočkách musí být všechny tři účty CSP přidružené k účtům pro umístění MPN ID. Kompetence a výhody MPN můžou být spravované jenom účtem MPN.
 
@@ -169,17 +169,17 @@ Pro účely podnikání a získání pobídek v těchto pobočkách musí být v
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Chci migrovat svůj účet MPN z partnerského centra pro členství do partnerského centra. Jak to můžu udělat? Nevím, kdo jsem v PMC správcem MPN, jak můžu provést migraci? 
 
-**Odpověď** Stáhněte si podrobného průvodce, jak [migrovat program MPN z PMC do počítače](guide-to-migration.md). Obsahuje různé odkazy na HEP, které migrujete. https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx"
+**Odpověď** Stáhněte si podrobného průvodce, jak [migrovat program MPN z PMC do počítače](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
 
-Po dokončení migrace účtu MPN si přečtěte další informace o tom, jak podepsat aktivaci, přečtěte si článek [Microsoft-Partner-Agreement] 9microsoft-partner-Agreement. MD # stažení – krok za krokem – průvodce – to je to – to vše, co je to-in-the-MPa-Sign-Process.
+Po dokončení migrace účtu MPN si přečtěte další informace o tom, jak podepsat aktivaci, přečtěte si článek [Microsoft-Partner-Agreement](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process).
 
 V případě problémů vyvolejte [lístek podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) v rámci partnerského centra.
 
 #### <a name="how-do-i-check-if-my-mpn-id-is-migrated-into-partner-center"></a>Návody ověřit, jestli je moje ID MPN migrováno do partnerského centra?
 
-**Odpověď**  Přihlaste se k účtu MPN pomocí jakékoli role (přihlašovací údaje programu MPN a CSP se mohou lišit). 
+**Odpověď**  Přihlaste se k účtu MPN pomocí jakékoli role (přihlašovací údaje MPN a CSP se můžou lišit). 
 
-Na stránce **Nastavení účtu** vyberte na kartě **partner** stránku **právní profil** . Pokud se v části informace o programu zobrazí zpráva o stavu programu MPN, je vaše ID MPN v partnerském centru. Pokud nevidíte na kartě partner stav programu MPN, buď jste se přihlásili pomocí účtu CSP, nebo váš účet MPN ještě není v partnerském centru. Stále možná budete muset migrovat svůj účet MPN z PMC do počítače.
+Na stránce **Nastavení účtu** vyberte na kartě **partner** stránku **právní profil** . Pokud se v části informace o programu zobrazí zpráva o stavu programu MPN, je vaše ID MPN v partnerském centru. Pokud se na kartě partner nezobrazuje stav programu MPN, pak buď jste se přihlásili pomocí účtu CSP, nebo váš účet MPN ještě není v partnerském centru. Stále možná budete muset migrovat svůj účet MPN z PMC do počítače.
 
 
 :::image type="content" source="images/legal-info-mpn.png" alt-text="Kde zobrazit informace o programu MPN":::
@@ -204,11 +204,11 @@ Pokud nemůžete problém vyřešit sami, vyvolejte lístek podpory v rámci par
 
 #### <a name="i-enrolled-in-mpn-program--csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-seems-to-be-stuck-in-the-pending-state-what-should-i-do"></a>Zaregistroval (a) jsem nepřímý prodejce programu MPN, ale zdá se, že ve stavu čekání je zablokování svého právního stavu ověření profilu firmy. Co bych měl/a dělat?
 
-**Odpověď**  Pokud je obchodní profil nepřímého prodejce CSP v **nedokončené kvalifikaci** po více než pěti pracovních dnech, vyvolejte lístek podpory v rámci partnerského centra kliknutím na [Podpora partnerského centra](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
+**Odpověď**  Pokud je obchodní profil nepřímého prodejce CSP ve stavu **čeká na zařazení** po více než pěti pracovních dnech, vyvolejte lístek podpory v rámci partnerského centra kliknutím na [Podpora partnerského centra](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
 
 :::image type="content" source="images/pending.png" alt-text="Stav čeká na vyřízení.":::
 
-## <a name="question-about-working-in-partner-center"></a>Otázka týkající se práce v partnerském centru
+## <a name="questions-about-working-in-partner-center"></a>Dotazy týkající se práce v partnerském centru
 
 #### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa-"></a>Nevím, kdo je správce partnerského centra, který může přijímat aktivaci?
 

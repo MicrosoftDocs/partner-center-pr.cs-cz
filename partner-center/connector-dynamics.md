@@ -1,19 +1,19 @@
 ---
 title: Konektor pro spoluprodeji pro partnerské Centrum Dynamics 365 CRM
 ms.topic: how-to
-ms.date: 05/27/2020
+ms.date: 02/16/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchronizujte odkazy v partnerském centru s konektorem pro spoluprodeji pro Dynamics 365 CRM. Prodejci pak můžou v rámci svých systémů CRM prodávat společně s Microsoftem.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 18a54bf777cb987e8f486f85afcf277e04c1055c
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556357"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645707"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Konektor pro společný prodej pro Dynamics 365 CRM – přehled
 
@@ -22,7 +22,7 @@ ms.locfileid: "96556357"
 - Správce odkazů
 - Správce systému nebo úpravce systému v CRM
 
-Konektor pro spoluprodej v partnerském centru umožňuje prodejcům v rámci svých systémů CRM spolupracovat s Microsoftem. Nebudou se muset vyškolet k používání partnerského centra ke správě obchodů v rámci společného prodeje. Pomocí konektorů pro spoluprodeji můžete vytvořit nový společný odkaz pro prodej prodávajícího, získat referenční údaje od prodejce Microsoftu, přijmout nebo odmítnout odkazy, upravit data o koupi, jako je například hodnota kouposti a datum ukončení. K těmto obchodům v rámci těchto spoluprodejů můžete také dostávat jakékoli aktualizace od prodejců Microsoftu. Všechny vaše odkazy můžete v aplikaci CRM použít místo v partnerském centru. 
+Konektor pro spoluprodej v partnerském centru umožňuje prodejcům v rámci svých systémů CRM spolupracovat s Microsoftem. Nebudou se muset vyškolet k používání partnerského centra ke správě obchodů v rámci společného prodeje. Pomocí konektorů pro spoluprodeji můžete vytvořit nový společný odkaz pro prodej prodávajícího, získat referenční údaje od prodejce Microsoftu, přijmout nebo odmítnout odkazy, upravit data o koupi, jako je například hodnota kouposti a datum ukončení. K těmto obchodům v rámci těchto spoluprodejů můžete také dostávat jakékoli aktualizace od prodejců Microsoftu. Všechny vaše odkazy můžete spravovat v CRM dle vašeho výběru, nikoli v partnerském centru. 
 
 Řešení je založené na řešení Microsoft Power automatizuje a používá rozhraní API partnerského centra.
 
@@ -33,8 +33,9 @@ Konektor pro spoluprodej v partnerském centru umožňuje prodejcům v rámci sv
 |ID Microsoft Partner Network |Potřebujete platné ID MPN.|Připojení k programu [MPN](https://partner.microsoft.com/)|
 |Předprodejní připraveno|Vaše řešení IP/Services musí být připravené k prodeji.|[Prodej pomocí Microsoftu](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Účet partnerského centra|ID MPN přidružené k tenantovi partnerského centra musí být stejné jako ID MPN přidružené k vašemu řešení společného prodeje. Před nasazením konektorů se můžete podívat na to, jestli máte na portálu partnerského centra zobrazený odkaz na svůj společný prodej.|[Správa vašeho účtu](create-user-accounts-and-set-permissions.md)|
-|Role uživatelů partnerského centra|Zaměstnanec, který bude instalovat a používat konektory, musí být správcem odkazů.|[Přiřazování uživatelských rolí a oprávnění](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|Role uživatele CRM je správce systému nebo úpravce systému.|[Přiřazení rolí v Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Zapnout účet toku automatizace|Aktivní účet [Power automatizuje](https://flow.microsoft.com) pro správce systému nebo úpravce systému CRM. Tento uživatel se musí před instalací přihlásit k [automatizaci](https://flow.microsoft.com) aspoň jednou.|
+|Role uživatelů partnerského centra|Zaměstnanec, který bude instalovat a používat konektory, musí být správcem odkazů.|[Přiřazování uživatelských rolí a oprávnění](create-user-accounts-and-set-permissions.md)| 
+|Dynamics 365 CRM|Role uživatele CRM je správce systému nebo úpravce systému.|[Přiřazení rolí v Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
+|Zapnout účet toku automatizace|Vytvořte nové provozní prostředí s databází pro testování/přípravu a produkci. Pokud máte existující produkční prostředí s databází, je možné ho znovu použít. Uživatel, který chce instalovat řešení konektoru, musí mít licenci pro automatizaci a přístup k tomuto prostředí. Kliknutím na Zobrazit historii v části řešení můžete monitorovat průběh a získat další podrobnosti, pokud se instalace nezdaří v [Power](https://flow.microsoft.com/) automatu.|[Vytvořit nebo spravovat prostředí](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Nainstalovat synchronizaci odkazů partnerského centra pro Dynamics 365 (řešení Power automat)
 
@@ -54,7 +55,8 @@ Konektor pro spoluprodej v partnerském centru umožňuje prodejcům v rámci sv
 
 7. Otevře se stránka, kde můžete vybrat prostředí CRM (Dynamics 365) k instalaci aplikace.  Vyjádřit souhlas s podmínkami a ujednáními.
 
-8. Pak budete přesměrováni na stránku **spravovat vaše řešení** .  Přejděte na "odkazy na partnerské Centrum" pomocí tlačítek se šipkami ve spodní části stránky. **Naplánovaná instalace** by se měla objevit u řešení s odkazy partnerského centra. Instalace bude trvat 10-15 minut. 
+8. Kliknutím na **Zobrazit historii** v části **řešení** můžete monitorovat průběh a získat další podrobnosti, pokud se instalace nezdaří v Power automatu.
+ 
 
 9. Po dokončení instalace přejděte zpátky na [Power](https://flow.microsoft.com) automat a vyberte **řešení** z navigační oblasti vlevo. Všimněte si, že v seznamu řešení je k dispozici **synchronizace odkazů partnerského centra pro Dynamics 365** .
 
@@ -67,7 +69,7 @@ Konektor pro spoluprodej v partnerském centru umožňuje prodejcům v rámci sv
 Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v produkčním prostředí, ujistěte se, že řešení otestujete v pracovní instanci CRM.
 
 - Nainstalujte řešení Microsoft Power automatizuje do přípravného prostředí/instance CRM.
-- Vytvořte kopii řešení a spusťte konfiguraci a automatizujte vlastní nastavení toků v přípravném prostředí.
+- Nakonfigurujte a přizpůsobte řešení Microsoft Power automatizuje v přípravném prostředí.
 - Otestujte řešení na pracovní instanci/CRM. 
 - Po úspěšném dokončení naimportujte jako spravované řešení do provozní instance. 
 
@@ -90,7 +92,7 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
       2. Vytvořte připojení kliknutím na **vytvořit připojení**.
 
-         :::image type="content" source="images/cosellconnectors/dynamics1.png" alt-text="Vytvoření připojení":::
+         :::image type="content" source="images/cosellconnectors/dynamics-1.png" alt-text="Vytvoření připojení":::
 
       3. Na panelu hledání v pravém horním rohu vyhledejte **odkazy na partnerské Centrum (Preview)** .
 
@@ -99,25 +101,29 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
       5. Potom vytvořte připojení událostí partnerského centra pro uživatele partnerského centra s přihlašovacími údaji správce odkazů.
 
       6. Vytvořte připojení pro Common Data Service (aktuální prostředí) pro uživatele správce CRM.
-       
      
       7. Po přidání všech připojení byste měli ve svém prostředí zobrazit následující připojení:
 
-:::image type="content" source="images/cosellconnectors/dynamics2.png" alt-text="Připojení":::
+:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Připojení":::
    
 ## <a name="edit-the-connections"></a>Upravit připojení
 
 1. Vraťte se na stránku **řešení** a vyberte **výchozí řešení**. Kliknutím na tlačítko **vše** vyberte **odkaz připojení (Preview)** .
 
-:::image type="content" source="images/cosellconnectors/dynamics3.png" alt-text="Připojit":::
+:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="Připojit":::
 
 2. Každé připojení jednu po jedné upravte výběrem ikony tři tečky. Přidejte příslušná připojení.
 
-:::image type="content" source="images/cosellconnectors/dynamics4.png" alt-text="Uvedená připojení"::: 
+:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Uvedená připojení"::: 
 
-3.  Zapněte toky v následujícím pořadí:
+3.  Vraťte se na stránku řešení, vyberte synchronizace odkazů partnerského centra pro Dynamics 365 a zapněte tok kliknutím na tři tečky vedle každého toku v následujícím pořadí. Pokud narazíte na problémy při zapínání toku, přečtěte si [Postup přizpůsobení](connector-dynamics.md#customize-synchronization-steps) a [Postup řešení potíží](connectors-troubleshoot.md). 
+
+Zapněte toky v následujícím pořadí:
+
 - Registrace Webhooku partnerského centra (Insider Preview)
 - Vytvoření odkazu na společný prodej – Dynamics 365 do partnerského centra (Insider Preview)
+- Přizpůsobit Vytvoření nebo získání podrobností z toku Dynamics 365 
+- Partnerské centrum pro Dynamics 365 – pomocníka (Insider Preview)
 - Partnerské centrum pro spoluprodejní aktualizace pro Microsoft Dynamics 365 (Insider Preview)
 - Partnerské centrum k Dynamics 365 (Insider Preview)
 - Dynamics 365 do partnerského centra (Insider Preview)
@@ -129,101 +135,79 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
 Rozhraní API Webhooku partnerského centra vám umožní registrovat se na události změny prostředků. Tyto události změny se odesílají na adresu URL jako příspěvky HTTP.
 
-1. Pokud chcete zaregistrovat adresu URL, vyberte možnost **registrace Webhooku partnerského centra (Insider Preview)** Power automatizace.
+1. Vyberte **Partnerské centrum pro Dynamics 365 (Insider Preview)**.
 
-2. Přidat připojení pro uživatele partnerského centra (a.) s událostmi partnerského centra s přihlašovacími údaji správce (b.), jak je zvýrazněno níže
+2. Vyberte ikonu **Upravit** a vyberte, **kdy se přijme požadavek HTTP**.
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
-
-3. Po provedení těchto aktualizací se zobrazí
-
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooky":::
-
-4. Uložte změny a vyberte **zapnout**.
-
-   Pokud chcete, aby Webhooky partnerského centra naslouchali změnám událostí, proveďte následující kroky:
-
-5. Vyberte **Partnerské centrum pro Dynamics 365 (Insider Preview)**.
-
-6. Vyberte ikonu **Upravit** a vyberte, **kdy se přijme požadavek HTTP**.
-
-7. Kliknutím na ikonu **kopírování** zkopírujte zadanou adresu URL post protokolu HTTP.
+3. Kliknutím na ikonu **kopírování** zkopírujte zadanou adresu URL post protokolu HTTP.
 
    :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Zkopírování adresy URL":::
 
-8. Nyní vyberte možnost "automatické registrace Webhooku partnerského centra (Insider Preview)" a vyberte **Spustit**.
+4. Nyní vyberte možnost "automatické registrace Webhooku partnerského centra (Insider Preview)" a vyberte **Spustit**.
 
-9. Ujistěte se, že se v pravém podokně otevře okno spustit tok a klikněte na **pokračovat**.
+5. Ujistěte se, že se v pravém podokně otevře okno spustit tok a klikněte na **pokračovat**.
 
-10. Zadejte následující podrobnosti:
+6. Zadejte následující podrobnosti:
 
-    1. **Koncový bod triggeru http**: adresa URL zkopírována z předchozího kroku
+   - **Koncový bod triggeru http**: adresa URL zkopírována z předchozího kroku
 
-    2. **Události k registraci**: odkaz-vytvořeno a odkaz-Aktualizováno
+   - **Události k registraci**: výběr všech dostupných událostí ("vytváření odkazů – vytvořeno", "odkaz-aktualizováno", "související-referenční – vytvořeno", "související-referenční-aktualizováno")
 
-    3. **Přepsat existující koncové body triggeru, pokud je k dispozici**: Ano (přepsání všech stávajících koncových bodů)
+   -**Přepsat existující koncové body triggeru, pokud je k dispozici**: Ano je důležité si uvědomit, že pro danou událost Webhooku může být zaregistrována pouze jedna adresa URL. Je důležité si uvědomit, že pro danou událost Webhooku může být zaregistrována pouze jedna adresa URL. 
 
-11. Vyberte **Spustit** a potom vyberte **Hotovo.**
+7. Vyberte **Spustit** a potom vyberte **Hotovo.**
 
 Webhook teď může naslouchat událostem vytvoření a aktualizace.
 
 ## <a name="customize-synchronization-steps"></a>Přizpůsobení kroků synchronizace
 
-Pokud jsou odkazy na spoluprodejní synchronizace mezi partnerským centrem a vaším systémem CRM, tady jsou uvedená pole synchronizovaná v počítači partnerského centra.
+Systémy CRM jsou vysoce přizpůsobené a můžete upravit řešení Power automat na základě nastavení aplikace CRM.  Pokud se pro spoluprodejní odkazy mezi partnerským centrem a vaším systémem CRM synchronizují, budou pole synchronizovaná v počítači s partnerským centrem uvedená v [Průvodci mapováním vlastních polí](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S).
 
-Systémy CRM jsou často vysoce přizpůsobené. Můžete přizpůsobit automatické toky Power Automate. Postupujte podle pokynů pro mapování polí a v případě potřeby proveďte příslušné změny v postupech automatizace toků.  K dispozici jsou mapování partnerských Center Microsoftu na CRM, ale v závislosti na vašem prostředí CRM, můžete zvolit další přizpůsobení polí.
+Postupujte podle pokynů pro mapování polí a v případě potřeby proveďte příslušné změny v **[přizpůsobení] vytvoření nebo získání podrobností z toku**  nebo proměnných prostředí Dynamics 365. V řešení Power Automate doporučujeme neaktualizovat žádné další toky, protože to může mít vliv na budoucí upgrady řešení. 
 
-V závislosti na vašich potřebách je možné přizpůsobit více kroků každého z těchto toků automatizace napájení. Následují příklady dostupných přizpůsobení:
+K dispozici jsou následující možnosti přizpůsobení:
 
-1. Přizpůsobení polí pro události vytvoření nebo aktualizace v partnerském centru pro synchronizaci odkazů CRM: 
+- Zaškrtávací značka zaškrtnutí v názvu příležitosti: ve výchozím nastavení se vedle názvu příležitosti zobrazí značka zaškrtnutí, která indikuje, že synchronizace mezi partnerským centrem a Dynamics 365 CRM proběhne úspěšně. Podobně se zobrazí křížové značky, pokud se synchronizace nezdaří. Chcete-li zabránit přidání zaškrtnutí nebo křížového označení v názvu příležitosti, nastavte aktuální hodnotu zaškrtnutí zaškrtnutí u možnosti prostředí název příležitosti na hodnotu ne.
 
-    a. Vyberte partnerské Centrum pro Dynamics 365 (Insider Preview) nebo partnerské Centrum do Salesforce (Insider Preview).
+- Hodnota koupě: ve výchozím nastavení se hodnota koupě z partnerského centra synchronizuje do a z **estimatedvalue** v CRM. Pokud je v aplikaci CRM k dispozici jiné pole pro synchronizaci hodnoty z:
 
-    b. Vyberte **Upravit** a upravte nebo Přizpůsobte tok automatizovaného výkonu.
+    a.    Aktualizujte název pole hodnoty obchodu v proměnné prostředí Dynamics 365 s názvem pole CRM. Všimněte si, že byste měli zadat název pole, nikoli jeho zobrazované jméno.
 
-    c. Vyberte **(rozsah) synchronizujte zájemce nebo příležitost**.
+    b.    Upravit **[přizpůsobení] vytvořit nebo získat podrobnosti z toku Dynamics 365**  a přejít k možnosti **vytvořit nebo aktualizovat** příležitost v CRM a aktualizovat **vytvořit novou příležitost** a **aktualizovat existující akce příležitostí** , aby bylo možné přiřadit hodnotu **DealValue** k správnému poli v CRM. Odeberte také **přiřazení DealValue** z pole **Odhadované výnosy** .
 
-2. Pokud chcete přizpůsobit mapování polí CRM (na základě Průvodce mapováním polí) pro události vytvořit, vyberte, **jestli je nová sdílená příležitost, a pak**. Vyberte dílčí krok, **Pokud ano** , a pak rozbalte **vytvořit novou příležitost v CRM**. Mapování v této části můžete upravit pomocí Průvodce mapováním polí.
+- Směrové číslo země zákazníka: při vytváření nového odkazu je nutné zadat kód země (ISO 3166) se dvěma písmeny (ISO). Ve výchozím nastavení se kód země synchronizuje do pole address1_country účtu v CRM. Pokud máte jiné pole v CRM pro kód země, ze kterého se má synchronizovat:
 
-    d. Pro přizpůsobení mapování polí CRM (na základě Průvodce mapováním polí) pro události aktualizace klikněte na krok (obor) synchronizovat zájemce nebo příležitost.
+   a.    Pro pole kód země nevyhledávání v účtu, který obsahuje kód se dvěma písmeny:
 
-    e. Vyberte **, jestli se jedná o aktualizaci příležitosti, a pak**. Vyberte dílčí krok, **Pokud ano** , a pak rozbalte **rozdíl mezi objekty příležitostí v partnerském centru a CRM a pak**.  
+   - Aktualizujte název pole kód země zákazníka v proměnné prostředí Dynamics 365 s názvem pole CRM. Všimněte si, že byste měli zadat název pole, nikoli jeho zobrazované jméno.
 
-    f. Vyberte, **jestli ano** , a pak **aktualizovat existující příležitost** .
+   - Upravit **[vlastní] vytvořit nebo získat podrobnosti z toku Dynamics 365**  a přejít k možnosti vytvořit nebo získat účet zákazníka v aplikaci CRM k přiřazení hodnoty země do správného pole v CRM. Odeberte také přiřazení hodnoty země z pole Adresa 1: země/oblast.
 
-3. Přizpůsobení polí pro synchronizaci odkazů CRM na počítač pro události aktualizace:
+   b.    Pro pole kód země na základě vyhledávání v účtu:
 
-    a. Vyberte **Upravit**  a upravte nebo Přizpůsobte tok automatizovaného výkonu.
+   - Přidejte do účtu nové vlastní pole a automaticky ho vyplníte kódem země (ISO 3166) na základě hodnoty vybrané v poli vyhledávání a naopak.
 
-    b. Vyberte **(rozsah) synchronizace příležitosti**.
+   - Pokud chcete synchronizovat nové vlastní pole z CRM do a z partnerského centra, postupujte podle kroků uvedených výše v poli kód země bez vyhledávání.
 
-    c. Pokud chcete přizpůsobit mapování polí CRM pro události aktualizace, vyberte, **jestli jsou mezi objekty zájemce v partnerském centru a CRM rozdílové rozdíly, a pak**. 
+- Pole příležitostí: Pokud jsou v příležitosti povinná pole, která je potřeba naplnit úpravou **[přizpůsobení] vytvořit nebo získat podrobnosti z toku Dynamics 365**  , přejděte k části **Vytvoření nebo aktualizace příležitosti** v CRM a v nabídce vytvořit **novou akci** pro přiřazení hodnot k povinným polím na základě vašich obchodních požadavků.
 
-    d. Vyberte dílčí krok, **Pokud ano** , a pak rozbalte krok **aktualizace odkazu s daty příležitostí**.
+- Pole zájemců: Pokud existují povinná pole v rámci zájemce, která musí být naplněna úpravou **[přizpůsobení] vytvořit nebo získat podrobnosti z toku Dynamics 365**  , přejděte k možnosti **vytvořit nebo aktualizovat vedoucí** v CRM a aktualizovat **vytvořit novou akci zájemce** pro přiřazení hodnot do povinných polí na základě vašich obchodních požadavků.
 
-   Mapování v této části můžete upravit v závislosti na průvodci mapováním polí.
+- Účet zákazníka: když se nový odkaz synchronizuje z partnerského centra s CRM, řešení Power automat se pokusí vyhledat existující účet v CRM pomocí názvu a PSČ společnosti zákazníka. Pokud se nenalezne, vytvoří se v CRM nový účet zákazníka. Pokud chcete aktualizovat kritéria hledání a podrobnosti vytváření nového účtu, upravte **[vlastní] vytvořit nebo získat podrobnosti z toku Dynamics 365** a přejděte k části **Vytvoření nebo získání účtu zákazníka** v CRM a **akci vytvořit účet zákazníka**.
 
-4. Chcete-li přizpůsobit pole pro synchronizaci odkazů CRM na počítač pro vytvoření událostí?
+## <a name="update-environment-variable"></a>Aktualizovat proměnnou prostředí
 
-   a. Vyberte **Upravit**  a upravte nebo Přizpůsobte tok automatizovaného výkonu.
+Aktualizace hodnoty proměnné prostředí:
 
-   b. Výběr **(rozsah) synchronizace odkazů.**
+1. Přejít na stránku **řešení** a vybrat **výchozí řešení**. Kliknutím na vše vyberte **proměnnou prostředí** .
 
-   c. Pokud chcete přizpůsobit mapování polí CRM (na základě Průvodce mapováním polí) pro události vytvořit, vyberte **vytvořit odkaz Microsoftu**.
+2. Vyberte proměnnou prostředí pro hodnotu, kterou je třeba aktualizovat, a klikněte na **Upravit** pomocí ikony tři tečky.
 
-   Mapování v této části můžete upravit v závislosti na průvodci mapováním polí.
+3. Aktualizujte **aktuální hodnotu** (neaktualizujte výchozí hodnotu) pomocí možnosti **Nová hodnota** a zadejte hodnotu. Hodnota se musí shodovat s datovým typem proměnné, např. ano/ne. datový typ bude akceptovat buď Ano, nebo bez hodnoty.
 
-Vytvořili jste dvě proměnné prostředí:
+:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="Textové pole pro výchozí hodnoty":::
 
-- Zaškrtnutí: značí, jestli byste potřebovali ikonu zaškrtnutí, kromě příležitostí, které se synchronizují obousměrně mezi partnerským centrem a Dynamics 365 CRM.
-
-- Synchronizovat pouze příležitosti společného prodeje: označuje, zda chcete synchronizovat pouze příležitosti společného prodeje.
-
-Můžete zvolit úpravu výchozí hodnoty pro proměnné prostředí.
-
-:::image type="content" source="images/cosellconnectors/dynamics5.png" alt-text="Textové pole pro výchozí hodnoty":::
-
-## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Komplexní Obousměrná synchronizace odkazů v rámci společného prodeje
+- Komplexní Obousměrná synchronizace odkazů v rámci společného prodeje
 
 Jakmile nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate, můžete otestovat synchronizaci odkazů mezi produkty Dynamics 365 a Partnerským centrem společně prodávat.
 
@@ -231,27 +215,38 @@ Jakmile nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automat
 
 Aby bylo možné synchronizovat odkazy v rámci partnerského centra a Dynamics 365 CRM, řešení Power automat jasně vymezuje pole odkazů specifická pro společnost Microsoft. Tato identifikace dává prodejcům možnost rozhodnout se, které odkazy chce sdílet se společností Microsoft pro souběžný prodej.
 
-Sada vlastních polí je k dispozici jako součást entity **příležitosti** . Uživatel s oprávněními správce CRM bude muset vytvořit samostatný oddíl CRM s vlastními poli **příležitosti** .
+Sada vlastních polí a objektů bude přidána jako součást instalace řešení. Uživatel s oprávněními správce CRM bude muset vytvořit samostatný oddíl CRM s vlastními poli **příležitosti** .
 
 Následující vlastní pole by měla být součástí části CRM:
 
-- **Synchronizovat s partnerským centrem**: jestli se má synchronizovat příležitost s partnerským centrem Microsoftu
+- **Synchronizovat s partnerským centrem**: jestli se má synchronizovat příležitost s partnerským centrem Microsoftu. Ve výchozím nastavení je hodnota tohoto pole ne a musí být explicitně nastavená na Ano, aby mohl váš prodejce sdílet příležitost s Microsoftem. Nové odkazy sdílené z partnerského centra do CRM budou mít tuto hodnotu pole nastavenou na Ano.
 
 - **Identifikátor odkazu**: pole identifikátoru jen pro čtení pro odkaz na partnerského centra Microsoftu
 
 - **Odkaz** odkazu: odkaz na odkaz určený jen pro čtení v partnerském centru Microsoftu
+- **Jak může společnost Microsoft** získat nápovědu? od Microsoftu se dozvíte, jak odkaz požaduje. Pokud chcete vytvořit odkaz pro spoluprodejní, vyberte vhodnou povinnou podporu od Microsoftu. Aby bylo možné vytvořit odkaz pro společný prodej, musí být přidružen k příležitosti kontakt zákazníka. Pokud chcete vytvořit odkaz bez společného prodeje, nechte toto pole nezaškrtnuté. Odkaz na nesouvisející prodej se dá kdykoli převést na odkaz na spoluprodej, a to výběrem vhodné požadované možnosti help.
 
-- **Jak může společnost Microsoft** získat nápovědu? od Microsoftu se dozvíte, jak tento odkaz vyžaduje.
+- **Viditelnost odkazů z partnerského centra Microsoftu**: vyberte viditelnost pro odkaz na partnerské Centrum Microsoftu. Díky tomu, že se dá zviditelnit prodejcům Microsoftu, se odkaz na nesouvisející prodej může převést na společný prodej. Když se vyžaduje pomocník Microsoftu, je odkaz ve výchozím nastavení viditelný pro prodejce Microsoftu. Po označení jako viditelné toto pole nelze vrátit.
 
-- **Produkty**: seznam produktů přidružených k této příležitosti
+- **Identifikátor Microsoft CRM**: když společnost Microsoft vytvoří a přijme odkaz na společný prodej, toto pole se vyplní identifikátorem CRM společnosti Microsoft.
+
+- **Produkty: zastaralé** – nepoužívejte toto pole nebo ho přidejte do oddílu CRM, je k dispozici pouze pro zpětnou kompatibilitu. Místo toho použijte řešení partnerského centra Microsoftu.
 
 - **Audit**: záznam auditu jen pro čtení pro synchronizaci s odkazy partnerského centra
 
-Aktualizujte formulář příležitost v Dynamics 365 CRM a uveďte řešení pro pole Products.
+- **Řešení partnerského centra Microsoftu**: vlastní objekt pro přidružení řešení připraveného k prodeji nebo řešení Microsoftu s příležitostí. Jedno nebo více řešení lze z příležitosti přidat nebo odebrat. Před tím, než ho budete moct sdílet se společností Microsoft, je nutné, abyste před tím, než ho nasdíleli do Microsoftu, přidali aspoň jeden předprodejní Pokud chcete tento objekt přidružit k příležitosti, aktualizujte formulář příležitosti v CRM:
 
-:::image type="content" source="images/cosellconnectors/dynamics6.png" alt-text="Formulář příležitosti":::
+  Vyberte příslušnou kartu ve formuláři příležitostí a přidejte podmřížku, jak je znázorněno níže:
 
-:::image type="content" source="images/cosellconnectors/dynamics7.png" alt-text="{alt-text}":::
+  :::image type="content" source="images/cosellconnectors/dynamics-6.png" alt-text="Formulář příležitosti":::
+
+  :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
+
+
+
+- Po přidání řešení Microsoftu můžete předem vyplnit podrobnosti řešení připraveného k prodeji, aby je prodejci nemuseli přidávat. Pokud chcete přidat nové podrobnosti řešení, přejděte na objekt Microsoft Solution details v CRM a kliknutím na **Přidat záznam** přidejte jednu položku nebo použijte **nahrávání v Excelu** a přidejte víc položek.
+
+:::image type="content" source="images/dynamic-1a.png" alt-text="Podrobnosti řešení":::
 
 ### <a name="scenarios"></a>ŘEŠENÍ
 
@@ -259,25 +254,29 @@ Aktualizujte formulář příležitost v Dynamics 365 CRM a uveďte řešení pr
 
    1. Přihlaste se k prostředí Dynamics 365 CRM s uživatelem, který má v části **příležitost** v aplikaci CRM přehled.
 
-   2. Při vytváření nové příležitosti v prostředí Dynamics 365 se ujistěte, že je k dispozici následující oddíl.
+   2. Při vytváření nové příležitosti v prostředí Dynamics 365 se ujistěte, že se nachází oddíl partnerského centra Microsoftu.
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Část s ukázkou příležitostí zobrazující informace o partnerském centru Microsoftu v Dynamics 365.":::
+   :::image type="content" source="images/dynamic-2a.png" alt-text="Nová příležitost"::: 
 
-   3. Pokud chcete tuto příležitost synchronizovat s partnerským centrem Microsoftu, ujistěte se, že jste v zobrazení karta nastavili následující pole:
+   3. Pokud chcete tuto příležitost synchronizovat s partnerským centrem, ujistěte se, že jste v zobrazení karta nastavili následující pole:
 
+      - **Jak může Microsoft pomáhat?**: Pokud chcete vytvořit odkaz pro společný prodej, vyberte příslušnou možnost helpu.
+
+         :::image type="content" source="images/dynamic-3a.png" alt-text="Jak získat příslušná pole v zobrazení karta":::
+
+      - **Kontakt zákazníka**: Chcete-li vytvořit odkaz na společný prodej, přidejte kontakt zákazníka k příležitosti.
       - **Synchronizovat s partnerským centrem**: Ano
 
-      - **Jak může Microsoft pomáhat?**: vyberte z těchto možností:
+      - Řešení Microsoftu: Chcete-li sdílet odkaz s Microsoftem, přidejte k příležitosti platné řešení připraveného k prodeji nebo Microsoftu.
+       
+      
+      :::image type="content" source="images/dynamic-4a.png" alt-text="ID řešení":::
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Oddíl ukázkové příležitosti v Dynamics 365, který zobrazuje možnosti pomocníka pro partnerské Centrum Microsoftu vedle pole s názvem Jak může pomáhat Microsoft?":::
+   4. Až se příležitost vytvoří v Dynamics 365 s možností synchronizovat s partnerským centrem nastavenou na Ano, počkejte 10 minut a pak se přihlaste k účtu partnerského centra. Vaše odkazy budou synchronizovány s Dynamics 365 a identifikátorem odkazu. Odkaz na odkaz se vyplní. V případě selhání se pole auditu naplní informacemi o chybě.
+     
+    5. Podobně platí, že pokud chcete příležitost, která má možnost synchronizovat s partnerským centrem nastavenou na hodnotu Ano, aktualizovat příležitost v Dynamics 365 CRM, změny se synchronizují v účtu partnerského centra.
 
-      - **Produkty**: ID řešení produktu
-
-   4. Až se příležitost vytvoří v Dynamics 365 s možností **synchronizovat s partnerským centrem** nastavenou na **Ano**, počkejte 10 minut a pak se přihlaste k účtu partnerského centra. Vaše odkazy budou synchronizovány s Dynamics 365.
-
-   5. Podobně platí, že pokud chcete příležitost, která má možnost synchronizovat s partnerským centrem nastavenou na hodnotu Ano, aktualizovat příležitost v Dynamics 365 CRM, změny se synchronizují v účtu partnerského centra.
-
-   6. Příležitosti, které byly úspěšně synchronizovány s partnerským centrem, budou označeny ikonou ✔ v Dynamics 365.
+    6. Příležitosti, které byly úspěšně synchronizovány s partnerským centrem, budou označeny ikonou ✔ v Dynamics 365.
 
 2. Referenční synchronizace při vytvoření nebo aktualizaci odkazu v partnerském centru Microsoftu a synchronizovaných v prostředí Dynamics 365:
 
@@ -285,7 +284,7 @@ Aktualizujte formulář příležitost v Dynamics 365 CRM a uveďte řešení pr
 
    2. V nabídce na levé straně vyberte **odkazy** .
 
-   3. Klikněte na možnost Nová práce a vytvořte si nový odkaz na společný prodej z partnerského centra.
+   3. Vytvořte si nový odkaz na společný prodej z partnerského centra tím, že vyberete  **novou možnost koupě** .
 
    4. Přihlaste se k prostředí Dynamics 365 CRM.
 
@@ -301,4 +300,4 @@ Aktualizujte formulář příležitost v Dynamics 365 CRM a uveďte řešení pr
 
 - [Další informace o platformě Microsoft Power automatizuje?](/power-automate/)
 
-- [Webhooky partnerského centra](/partner-center/develop/partner-center-webhooks)
+- [Webhooky Partnerského centra](/partner-center/develop/partner-center-webhooks)
