@@ -1,5 +1,5 @@
 ---
-title: Potvrzení souhlasu zákazníka s zákaznickou smlouvou Microsoftu
+title: Potvrzení přijetí Smlouvy se zákazníkem Microsoftu ze strany zákazníka
 description: Zjistěte, jak potvrdit přijetí smlouvy o zákaznících Microsoftu v rámci zákazníka. To může být nutné k objednání produktů a služeb společnosti Microsoft pro zákazníky.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -8,15 +8,15 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/30/2020
-ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.date: 03/02/2021
+ms.openlocfilehash: ab2f5be77f6480b4a8b47bef0e0fd5096f7c1776
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354606"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029912"
 ---
-# <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Aktualizovaná metoda, která potvrdí přijetí zákaznických smluv od Microsoftu
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Potvrzení souhlasu zákazníka se Smlouvou se zákazníkem Microsoftu
 
 
 **Příslušné role**
@@ -30,8 +30,6 @@ ms.locfileid: "97354606"
 > * Partnerské centrum pro Microsoft Cloud pro Německo
 > * Partnerské centrum pro Microsoft Cloud for US Government
 
->[!NOTE]
->Od 31. ledna 2020 musí všechny zákazníky, stávající a nové, podepsat nové smlouvy o zákaznících Microsoftu. Pokud se chcete dozvědět víc, přečtěte si téma potvrzení souhlasu zákazníka s zákaznickou [smlouvou Microsoftu](confirm-customer-agreement.md).
 
 Jako partner musíte od zákazníka získat souhlas s zákaznickou smlouvou Microsoftu, abyste mohli objednat produkty a služby Microsoftu pro daného zákazníka. Aby lépe pomáhali partnerům plnit požadavky na dodržování předpisů, vyžádá si partneři, aby potvrdili přijetí poskytnutím následujících údajů týkajících se osoby, která smlouvu přijala:
 
@@ -46,6 +44,9 @@ Jako partner musíte od zákazníka získat souhlas s zákaznickou smlouvou Micr
 - Datum přijetí
 
 Zákazníci s přímým přístupem a nepřímými poskytovateli musí potvrdit přijetí smlouvy o zákaznících Microsoftu při vyúčtování prostřednictvím partnerského centra nebo rozhraní API partnerského centra. Potvrzení je *povinné*.
+
+>[!NOTE]
+>Od 31. ledna 2020 musí všechny zákazníky, stávající a nové, podepsat nové smlouvy o zákaznících Microsoftu. Pokud se chcete dozvědět víc, přečtěte si téma potvrzení souhlasu zákazníka s zákaznickou [smlouvou Microsoftu](confirm-customer-agreement.md).
 
 Pokud pro daného zákazníka není zadáno potvrzení:
 

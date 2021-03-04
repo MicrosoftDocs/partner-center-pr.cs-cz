@@ -8,20 +8,22 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/03/2021
+ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756154"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029929"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
 Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace často aktualizujeme, proto vám doporučujeme je pravidelně sledovat.
 
-|**Kategorie**|**Oznámení z února 2021**|**Datum oznámení**|
+|**Kategorie**|**Oznámení z března 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Možnosti|[Univerzální tisk společnosti Microsoft je nyní k dispozici v některých sadách.](2021-march.md#1)|3. březen|
+|**Kategorie**|**Oznámení z února 2021**|**Datum oznámení**|
 |Možnosti|[Rozhraní API kvalifikace pro vložení je vyřazeno, může se stát, že se vyřadí](2021-february.md#14)|25. února|
 |Možnosti|[Sdílení obchodů ve společném prodeji pomocí funkce hromadné operace v partnerském centru](2021-february.md#13)|25. února|
 |Možnosti|[Migrujte své obchody z partnerského prodejního připojení (PSC) pomocí nové funkce pro migraci do služby rozdat.](2021-february.md#12)|25. února|
