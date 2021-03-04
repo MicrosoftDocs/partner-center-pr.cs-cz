@@ -1,5 +1,5 @@
 ---
-title: Spravovat nepřidělené platby
+title: Správa nepřidělených plateb
 ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
@@ -9,18 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bddf0482e20817f9087a3610104652dabdef72c4
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92527129"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755811"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Správa nepřidělených plateb na stránce fakturace na partnerském centru
 
-**Platí pro**
+**Příslušné role**
 
-- Partnerské centrum
+- Správce fakturace
+- Správce účtu
 
 Občas se vám na fakturační stránce může zobrazit nepřidělená platba. Nepřidělená platba je platba, kterou jste udělali od společnosti Microsoft, kterou jste nepoužili na konkrétní fakturu.
 
@@ -35,3 +36,7 @@ Občas se vám na fakturační stránce může zobrazit nepřidělená platba. N
 Pokud chcete tuto částku použít na konkrétní fakturu, pošlete e-mail bposcapp@microsoft.com a řekněte nám, na kterou fakturu se má platba uplatnit. Nezapomeňte zahrnout všechny informace, které byste měli v případě, že jste provedli platbu. Vaše fakturační stránka bude aktualizována během 5-6 dnů. 
 
 Nepřidělené platby zůstanou nepřidělené, dokud je přiřadíte k faktuře. 
+
+## <a name="next-steps"></a>Další kroky
+
+- [Faktura za produkty a předplatné z komerčního tržiště v partnerském centru](csp-commercial-marketplace-billing.md)

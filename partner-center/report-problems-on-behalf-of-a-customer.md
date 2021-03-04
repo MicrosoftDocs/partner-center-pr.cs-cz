@@ -1,7 +1,7 @@
 ---
 title: Hlášení problémů jménem zákazníka
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Zjistěte, kdy se má eskalovat problém se službami zákazníkům Microsoftu a jak zamezit lístek podpory pro různé typy služeb Microsoftu.
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153141"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756447"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Nahlášení problému služby jménem zákazníka – včetně toho, kdy a jak postupovat
 
@@ -102,7 +102,7 @@ Chcete-li najít kontaktní údaje výrobce ISV:
     - E-mail podpory
     - Telefonní číslo kontaktu podpory
 
-## <a name="faq"></a>Nejčastější dotazy
+## <a name="faq"></a>Časté otázky
 
 Nejčastější dotazy týkající se žádostí o služby, které můžete odeslat jménem zákazníka, najdete v následujících tématech. 
 
@@ -146,8 +146,6 @@ Pokud se přihlásíte přímo do centra pro správu Office 365, prohlížíte s
 Pokud máte problémy související s: Dynamics 365 plánování předplatných, licencování, fakturace, finančních & operací, licencí k produktu Dynamics 365 nebo vyžadování další technické podpory:
  
 Kontaktujte [podporu Dynamics](/dynamics365/customer-engagement/admin/contact-technical-support)
-
-Přečíst [podporu pro Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
 ## <a name="next-steps"></a>Další kroky
 

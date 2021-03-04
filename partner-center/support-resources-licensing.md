@@ -1,25 +1,22 @@
 ---
 title: Prostředky licencování společnosti Microsoft
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Jako partner Microsoftu máte dotazy týkající se používání různých licenčních programů Microsoftu. Tento článek nabízí prostředky, které vám můžou pomáhat.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527319"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756814"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Průvodce licencováním prostředků pro partnery Microsoftu 
 
-**Platí pro**
-
-- Partneři programu Microsoft MPN, partneři CSP a další
 
 Tento článek sdílí prostředky, které můžou přispět k zodpovězení dotazů na licencování partnerů.
 
@@ -32,7 +29,7 @@ Pokud máte dotazy týkající se fungování těchto programů, může vám tyt
 > [!NOTE]
 > Pokud potřebujete nápovědu s podrobnějšími dotazy na licencování nebo se zákaznickou nabídkou, začněte s přiřazeným nepřímým zprostředkovatelem vašeho licenčního programu (pro program CSP) nebo distributorem programu. Často se jedná o nejlepší, počáteční kontaktní body pro konkrétní otázky týkající se licencí nebo otázky týkající se vytváření zákaznických nabídek, nákupů SKU nebo požadavků. Pokud nemáte partnera, který tuto roli zachová za vás, přečtěte si téma [Najít partnera](find-a-partner.md) a vyhledejte ho.
 >
-> Můžete se také obrátit na kontakty Microsoftu a využít tak interní tým odborníků na licencování. Pokud nemáte konkrétní kontakty společnosti Microsoft, v poli **problémy** se stránkou podpory zadejte **licencování** na [portálu support](https://partner.microsoft.com/support/v2/?stage=1) a napište licence. Tady si můžete přečíst informace o dalších prostředcích podpory licencování, které vám můžou být dostupné. Pokud stále potřebujete pomoc, můžete také protokolovat lístek podpory, který vám umožní odpovědět na konkrétní licenční otázky, nebo vám může pomoci najít správnou SKLADOVOU položku produktu.
+> Můžete se také obrátit na kontakty Microsoftu a využít tak interní tým odborníků na licencování. Pokud nemáte konkrétní kontakty společnosti Microsoft, v poli **problémy** se stránkou podpory zadejte **licencování** na [portálu support](https://partner.microsoft.com/support/v2/?stage=1) a napište licence. 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>Obecné zdroje informací o licencování a školení k licencím
 
@@ -97,6 +94,6 @@ Pokud chcete zobrazit možnosti podpory nebo spustit lístek podpory, přečtět
 ## <a name="next-steps"></a>Další kroky
 
 - [Zobrazit další prostředky podpory](https://partner.microsoft.com/support/?stage=1)
-- [Najít partnera](find-a-partner.md)
+- [Vyhledání partnera](find-a-partner.md)
 - [Další informace nebo registrace v programu MPN](https://partner.microsoft.com/membership)
 - [Další informace nebo registrace v programu CSP](https://partner.microsoft.com/membership/cloud-solution-provider)

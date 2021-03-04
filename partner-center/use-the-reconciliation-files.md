@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488075"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755771"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Přečtěte si, jak číst položky řádků v souborech odsouhlasení partnerského centra.
 
@@ -23,20 +23,20 @@ Platí pro:
 - Partnerské centrum
 - Partnerské centrum pro Microsoft Cloud for US Government
 
-Soubory pro odsouhlasení si můžete stáhnout z partnerského centra, kde najdete podrobné zobrazení položek jednotlivých poplatků v rámci fakturačního cyklu. Podrobnosti o položkách na řádcích zahrnují poplatky za předplatné každého zákazníka a podrobné události (například přidání licencí do předplatného).
-
-Příslušné role:
+**Příslušné role**
 
 - Správce fakturace
 - Globální správce
+
+Soubory pro odsouhlasení si můžete stáhnout z partnerského centra, kde najdete podrobné zobrazení položek jednotlivých poplatků v rámci fakturačního cyklu. Podrobnosti o položkách na řádcích zahrnují poplatky za předplatné každého zákazníka a podrobné události (například přidání licencí do předplatného).
 
 Informace o tom, jak si **fakturu** přečíst, najdete v tématu [Přečtěte si vyúčtování](read-your-bill.md).
 
 ## <a name="understand-reconciliation-file-fields"></a>Vysvětlení polí souboru odsouhlasení
 
-- [Pole souboru odsouhlasení založeného na licencích](license-based-recon-files.md)
-- [Pole souboru odsouhlasení založeného na využití](usage-based-recon-files.md)
-- [Pole souborů odsouhlasení podle denního hodnocení využití](daily-rated-usage-recon-files.md)
+- [Pole v souboru s vyrovnáním na základě licencí](license-based-recon-files.md)
+- [Pole v souboru s vyrovnáním na základě využití](usage-based-recon-files.md)
+- [Pole v souboru s vyrovnáním využití podle denní sazby](daily-rated-usage-recon-files.md)
 - [Pole souborů odsouhlasení zprostředkovatele CSP v jednom čase](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Pochopení typů poplatků v souborech pro odsouhlasení
@@ -93,3 +93,7 @@ Zobrazení nebo aktualizace **ID MPN prodejce**:
 4. V nabídce zákazník vyberte **odběry**.
 5. Vyberte předplatné ze seznamu.
 6. Pokud chcete změnit **prodejce (MPN ID)**, vyberte **aktualizovat** .
+
+## <a name="next-steps"></a>Další kroky
+
+- [Postup čtení souboru rekognoskaci vy& účtování](read-your-bill.md) 

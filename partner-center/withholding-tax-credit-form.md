@@ -9,18 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527734"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755717"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Získat kredit na účet partnerského centra pro srážku daně
 
-Platí pro:
+**Příslušné role**
 
-- Partnerské centrum
+- Správce účtu
+- Správce fakturace
 
 ## <a name="overview"></a>Přehled
 
@@ -35,7 +36,7 @@ Partneři, kteří používají k odeslání žádostí o srážku daně vytvoř
 
 Pomocí těchto kroků můžete odeslat nové daňové odmítnutí:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 
 2. V nabídce na levé straně vyberte **fakturace** a přejděte na **historie fakturace**.
 
@@ -64,7 +65,7 @@ Pomocí těchto kroků můžete odeslat nové daňové odmítnutí:
 
 Tým recenze může vyžadovat, abyste provedli opravy a znovu odeslali žádost, aby ji bylo možné schválit. Změní stav na **Nedokončená Partnerská akce**. Opravte a znovu odešlete požadavek:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 
 2. V nabídce na levé straně vyberte **fakturace** .
 

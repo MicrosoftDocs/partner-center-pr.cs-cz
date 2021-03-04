@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 964c0e6be3003c2b3c9da8828d6e896e2fff82f9
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492700"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756448"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Přiřazení rolí uživatelů a oprávnění pro uživatele společnosti, kteří potřebují pracovat v partnerském centru
 
@@ -129,9 +129,6 @@ Tyto role nejsou Azure Active Directory rolí. Tyto role spravují firmu společ
 
 ## <a name="manage-referrals"></a>Správa odkazů
 
-> [!Note]
->Nová role uživatele referenčních seznamů bude k dispozici od 18. listopadu 2020. Stávající správci odkazů si budou zachovávat jejich oborovou roli správce odkazů na celou firmu.
-
 |**Role** | **Co můžete dělat**|**Další informace**
 |------------------------------|:-------------------------|---|
 |Správce odkazů|Vytvoření a Správa všeho v části karta odkazy v partnerském centru|[Správa příležitostí ke spoluprodeji](manage-co-sell-opportunities.md)
@@ -149,7 +146,7 @@ Tyto role nejsou Azure Active Directory rolí. Tyto role spravují firmu společ
 
 Společně s novou referenční rolí uživatele zavádíme také rozsah umístění pro obchody. V tabulce níže najdete informace o přístupu na základě umístění.
 
-|**Rozsah** | **Co můžete dělat** |
+|**Scope** | **Co můžete dělat** |
 |------------------------------|:-------------------------|
 |Celá společnost | Správci i uživatelé mají přístup k vytváření obchodů pro libovolné umístění ve své společnosti.|
 || Správce odkazů má přístup k zobrazení a úpravám všech obchodů. |

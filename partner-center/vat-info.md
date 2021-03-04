@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755635"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755734"
 ---
 # <a name="value-added-tax-vat-information"></a>Údaje o dani z přidané hodnoty (DPH)
 
-**Platí pro:**
+**Příslušné role**
 
-- Partnerské centrum
-- Komerční marketplace
+- Správce účtu
+
 
 Pokud v rámci procesu registrace partnerského centra potřebujete zadat ID DPH, najdete tady nějaké informace, které vám pomůžou začít.
 
@@ -78,6 +78,7 @@ Všimněte si, že společnost Microsoft neposkytuje daňové poradenství a v n
 |Španělsko |-Formát čísla DPH: 9 číslic<br/>– Kód země/oblasti: ES<br/>-Příklad: X12345678, 12345678X nebo X1234567X<br/>-Poznámky: zahrnuje 1 nebo 2 písmena: buď First, Last, nebo First a Last. |
 |Švédsko |-Formát čísla DPH: 12 číslic<br/>– Kód země/oblasti: SE<br/>-Příklad: 123456789001<br/>-Poznámky: poslední 2 znaky musí být 01. |
 |Spojené království |-Formát čísla DPH: 9 nebo 12 číslic<br/>– Kód země/oblasti: GB<br/>-Příklad: 123456789 nebo 123456789001<br/>-Poznámky: 9 číslic obecně, ale 12 číslic, pokud číslo představuje podfirmu v rámci skupiny. |
+
 ## <a name="next-steps"></a>Další kroky
 
 - [Daňové informace o společnosti a postup přidání nebo odeslání ID DPH pro nákupy partnerského centra](organization-tax-info.md)

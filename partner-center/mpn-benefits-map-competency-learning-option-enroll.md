@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975982"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756130"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Použití partnerského centra k registraci jako partner Microsoftu pro učení
 
@@ -115,7 +115,7 @@ Schůze klíčových ukazatelů výkonu se nevztahují na dobu trvání školen�
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>Otázka: Proč se mi nezobrazuje jako partner Microsoftu pro učení v adresáři Learning partner?
 
-Můžeme vás potřebovat přidat do [adresáře Learning partner](https://docs.microsoft.com/learn/certifications/partners). Pak můžete propojit svůj web na stránce s adresářem výukového partnera.
+Můžeme vás potřebovat přidat do [adresáře Learning partner](/learn/certifications/partners). Pak můžete propojit svůj web na stránce s adresářem výukového partnera.
 
 Jedná se o manuální proces, který se během třetího týdne odešle jenom jednou měsíčně. Následná aktualizace bude viditelná na konci prvního týdne následujícího měsíce. Pokud chcete tuto situaci pomoci vyřešit, obraťte se na [podporu partnera prvotní](https://partner.microsoft.com/support). Připravte se na poskytnutí následujících údajů:
 

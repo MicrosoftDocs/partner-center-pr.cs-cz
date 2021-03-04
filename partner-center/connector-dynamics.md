@@ -1,19 +1,19 @@
 ---
 title: Konektor pro spoluprodeji pro partnerské Centrum Dynamics 365 CRM
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchronizujte odkazy v partnerském centru s konektorem pro spoluprodeji pro Dynamics 365 CRM. Prodejci pak můžou v rámci svých systémů CRM prodávat společně s Microsoftem.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645707"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756791"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Konektor pro společný prodej pro Dynamics 365 CRM – přehled
 
@@ -31,11 +31,11 @@ Konektor pro spoluprodej v partnerském centru umožňuje prodejcům v rámci sv
 |**Témata**   |**Podrobnosti**   |**Odkazy**   |
 |--------------|--------------------|------|
 |ID Microsoft Partner Network |Potřebujete platné ID MPN.|Připojení k programu [MPN](https://partner.microsoft.com/)|
-|Předprodejní připraveno|Vaše řešení IP/Services musí být připravené k prodeji.|[Prodej pomocí Microsoftu](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Připravený společný prodej|Vaše řešení IP/Services musí být připravené k prodeji.|[Prodej pomocí Microsoftu](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Účet partnerského centra|ID MPN přidružené k tenantovi partnerského centra musí být stejné jako ID MPN přidružené k vašemu řešení společného prodeje. Před nasazením konektorů se můžete podívat na to, jestli máte na portálu partnerského centra zobrazený odkaz na svůj společný prodej.|[Správa vašeho účtu](create-user-accounts-and-set-permissions.md)|
 |Role uživatelů partnerského centra|Zaměstnanec, který bude instalovat a používat konektory, musí být správcem odkazů.|[Přiřazování uživatelských rolí a oprávnění](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|Role uživatele CRM je správce systému nebo úpravce systému.|[Přiřazení rolí v Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Zapnout účet toku automatizace|Vytvořte nové provozní prostředí s databází pro testování/přípravu a produkci. Pokud máte existující produkční prostředí s databází, je možné ho znovu použít. Uživatel, který chce instalovat řešení konektoru, musí mít licenci pro automatizaci a přístup k tomuto prostředí. Kliknutím na Zobrazit historii v části řešení můžete monitorovat průběh a získat další podrobnosti, pokud se instalace nezdaří v [Power](https://flow.microsoft.com/) automatu.|[Vytvořit nebo spravovat prostředí](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Zapnout účet toku automatizace|Vytvořte nové provozní prostředí s databází pro testování/přípravu a produkci. Pokud máte existující produkční prostředí s databází, je možné ho znovu použít. Uživatel, který chce instalovat řešení konektoru, musí mít licenci pro automatizaci a přístup k tomuto prostředí. Kliknutím na Zobrazit historii v části řešení můžete monitorovat průběh a získat další podrobnosti, pokud se instalace nezdaří v [Power](https://flow.microsoft.com/) automatu.|[Vytvořit nebo spravovat prostředí](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Nainstalovat synchronizaci odkazů partnerského centra pro Dynamics 365 (řešení Power automat)
 
@@ -110,7 +110,7 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
 1. Vraťte se na stránku **řešení** a vyberte **výchozí řešení**. Kliknutím na tlačítko **vše** vyberte **odkaz připojení (Preview)** .
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="Připojit":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="Úprava připojení":::
 
 2. Každé připojení jednu po jedné upravte výběrem ikony tři tečky. Přidejte příslušná připojení.
 
@@ -141,9 +141,9 @@ Rozhraní API Webhooku partnerského centra vám umožní registrovat se na udá
 
 3. Kliknutím na ikonu **kopírování** zkopírujte zadanou adresu URL post protokolu HTTP.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Zkopírování adresy URL":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="Použití webhooků k registraci změn prostředků":::
 
-4. Nyní vyberte možnost "automatické registrace Webhooku partnerského centra (Insider Preview)" a vyberte **Spustit**.
+4. Vyberte možnost pro automatizaci automatizace a pak vyberte **Spustit**.
 
 5. Ujistěte se, že se v pravém podokně otevře okno spustit tok a klikněte na **pokračovat**.
 
@@ -205,7 +205,7 @@ Aktualizace hodnoty proměnné prostředí:
 
 3. Aktualizujte **aktuální hodnotu** (neaktualizujte výchozí hodnotu) pomocí možnosti **Nová hodnota** a zadejte hodnotu. Hodnota se musí shodovat s datovým typem proměnné, např. ano/ne. datový typ bude akceptovat buď Ano, nebo bez hodnoty.
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="Textové pole pro výchozí hodnoty":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualizovat proměnné prostředí":::
 
 - Komplexní Obousměrná synchronizace odkazů v rámci společného prodeje
 

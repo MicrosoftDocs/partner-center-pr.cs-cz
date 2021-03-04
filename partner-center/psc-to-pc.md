@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281360"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756185"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Průvodce spoluprodejem v partnerském centru (PC) pro partnery, kteří se migrují z partnerského prodejního připojení (PSC)
 
@@ -28,12 +28,15 @@ ms.locfileid: "100281360"
 
 Tento článek poskytuje pokyny pro partnery, kteří se migrují z partnerských obchodních připojení k partnerskému centru, aby mohli dál vytvářet a spravovat obchody v partnerském centru.
 
-Jak víte, vaše společnost ztratí přístup k řadiči PSC po 31. březnu 2021. Pořád ale najdete všechno, co chcete dělat v partnerském centru, jako je například vytváření spolupracujících obchodů, Správa vašich obchodů a jednání s obchody, které vám poslali prodejci Microsoftu.
-
-K dispozici jsou však rozdíly. Následující pokyny vám mohou pomoci s přechodem do služby partner Center hladší a pružnější.
+>[!Note]
+> Pokud jste tady, protože jste si v části PSC o migraci viděli banner, jste na správném místě. Tato příručka se nedá použít pro posouzení řešení (SA) a obchodní partneři OEM Licensing, kteří spravují jejich obchody v PBV.
 
 >[!Important]
-> Pokud jste tady, protože jste si v části PSC o migraci viděli banner, jste na správném místě. Tato příručka se nedá použít pro hodnocení řešení (SA) a pro partnery OEM IOT, kteří spravují své obchody v PBV.
+> Od 1. května 2021 nebude vaše společnost moci vytvářet ani upravovat obchody v PBV. **Stále budete moct stáhnout existující data o seprodejech pomocí funkce hromadného exportu v PBV. Po tomto datu můžete také [migrovat otevřené obchody](psc-to-pc.md#psc-deals-migration) z PSC do partnerského centra.** <br><br> Pokud existují obchody, na kterých aktivně pracujete, které obsahují řešení s motivací, která jsou k dispozici pro vlastní prodej, máte dvě možnosti: <br><br> 1. Zaregistrujte se jako získaná a kompletní registrace koupě v řadiči PSC do 30. dubna 2021. <br> 2. [migrujte obchody](psc-to-pc.md#psc-deals-migration) do partnerského centra, abyste získali více času na práci a mohli začít registraci.
+
+Jak víte, **Společnost ztratí přístup k PBV až do 31. května 2021**. Pořád ale najdete všechno, co chcete dělat v partnerském centru, jako je například vytváření spolupracujících obchodů, Správa vašich obchodů a jednání s obchody, které vám poslali prodejci Microsoftu.
+
+K dispozici jsou však rozdíly. Následující pokyny vám mohou pomoci s přechodem do služby partner Center hladší a pružnější.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Než přesunete, co potřebujete znát
 
@@ -90,7 +93,7 @@ Jak najít správce účtu vaší společnosti:
 Po nastavení účtu v partnerském centru můžete pomocí Průvodce migrací uživatelů na stránce příležitosti společného prodeje automaticky přiřadit role partnerského centra zaměstnancům vaší společnosti.
 
 >[!Note]
-> Migraci uživatelů můžou provádět jenom [Správci účtu](permissions-overview.md#manage-mpn-membership-and-your-company) vaší společnosti. Pokud nemáte roli správce účtu, najděte správce účtu, který vám může pomáhat s nastavením uživatelských účtů pomocí Průvodce migrací uživatele. Funkce migrace uživatelů bude k dispozici od 18. listopadu 2020.
+> Migraci uživatelů můžou provádět jenom [Správci účtu](permissions-overview.md#manage-mpn-membership-and-your-company) vaší společnosti. Pokud nemáte roli správce účtu, najděte správce účtu, který vám může pomáhat s nastavením uživatelských účtů pomocí Průvodce migrací uživatele.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Obrázek znázorňující Průvodce migrací uživatele":::
 
@@ -135,7 +138,7 @@ Před zahájením migrace obchodu si přečtěte tento oddíl.
 
 **Vhodné pro migraci**
 
-Pouze některé obchody mají nárok na migraci z PSC do počítače. Tento průvodce migrací je navržený tak, aby pomáhal partnerům přenést své obchody do partnerského centra, kde stále aktivně pracují se svými zákazníky, aby mohli obchod uzavřít. **Můžou se používat jenom ty, které jsou v otevřeném stavu s platnými podrobnostmi o partnerském účtu (platné ID MPN), a neprovádí registraci do registrace.**
+Pouze některé obchody mají nárok na migraci z PSC do počítače. Tento průvodce migrací je navržený tak, aby pomáhal partnerům přenést své obchody do partnerského centra, kde stále aktivně pracují se svými zákazníky, aby mohli obchod uzavřít. **Pouze ty, které jsou v otevřeném stavu vytvořené z 1. ledna 2020 s platnými podrobnostmi o partnerském účtu (platným ID MPN) a neprovádí registraci služby, jsou vhodné pro migraci.**
 
 **Není vhodné pro migraci**
 
@@ -200,7 +203,7 @@ Pokud má vaše společnost manažer vývoje pro vývoj (PDM) – když je nasta
 Pokud vaše společnost nemá PDM, ujistěte se, že jsou všechny uživatelské účty nastavené a ověřené všemi uživateli. Budete upozorněni e-mailem a bannerem v části PSC ohledně přesného data, kdy můžete začít prodávat v partnerském centru. Mějte na paměti, že stále budete muset spravovat existující aktivní obchody v PSC.
 
 >[!Important]
->Aktivní obchody nebudou migrovány na počítač. Až do 31. března 2021 uzavřete a zaregistrujte obchody.
+> Až do 30. dubna 2021 zaregistrujete obchody, které jsou označené jako získané.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Další kroky pro správce PSC, správci koupích a PBV
 

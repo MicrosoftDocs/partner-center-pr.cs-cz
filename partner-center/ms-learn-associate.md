@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9feeb3e40b2113e787dc80baa5ff1f807dc8df04
-ms.sourcegitcommit: 80b703dc10892b5c2140785dd2fc22bbffd887c1
+ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "99224294"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756576"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Propojení nebo zrušení propojení ID certifikačního profilu (MCID) Microsoftu s účtem Microsoft Partner Network (MPN)
 
@@ -82,6 +82,6 @@ Otázky související s procesem sloučení profilu Microsoft (MCID) získáte o
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Role a oprávnění uživatele](https://docs.microsoft.com/partner-center/permissions-overview)
+- [Role a oprávnění uživatele](./permissions-overview.md)
 - [Kompetence](https://partner.microsoft.com/membership/competencies)
 - [Sestava Microsoft Learn Analytics zobrazuje stav učících ve vaší společnosti](ms-learn-analytics.md)

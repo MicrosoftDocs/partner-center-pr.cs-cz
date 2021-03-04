@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835063"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756712"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Nejčastější dotazy k motivům
 
@@ -67,9 +67,9 @@ Pravděpodobným důvodem, proč nemůžete zobrazit pobídky, je, že nemáte s
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Na stránce s přehledem pobídek chybí některá registrace.
 
-Pokud jste obdrželi pozvánku z nebo jste ji zaregistrovali v nástroji, je vhodné, abyste si poklepali, že máte odpovídající přístup. Program uvidí jenom uživatelé s rolí pobídky uživatel nebo motiv správce. Viz [najít vaši roli](https://docs.microsoft.com/partner-center/find-your-role).
+Pokud jste obdrželi pozvánku z nebo jste ji zaregistrovali v nástroji, je vhodné, abyste si poklepali, že máte odpovídající přístup. Program uvidí jenom uživatelé s rolí pobídky uživatel nebo motiv správce. Viz [najít vaši roli](./find-your-role.md).
 
-Pokud potřebujete změnit svoji roli nebo oprávnění, obraťte se na svého globálního správce nebo správce účtu vaší společnosti. Pokud se chcete dozvědět, kdo jsou lidé, přečtěte si téma [vyhledání globálního správce](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
+Pokud potřebujete změnit svoji roli nebo oprávnění, obraťte se na svého globálního správce nebo správce účtu vaší společnosti. Pokud se chcete dozvědět, kdo jsou lidé, přečtěte si téma [vyhledání globálního správce](./find-your-role.md#find-your-global-admin).
 
 Všimněte si, že na stránce Přehled se zobrazí pouze registrace, které jsou spojeny s globálním účtem partnera (PGA) přidruženým k tenantovi služby Azure AD. Pokud má vaše společnost více než jeden PGA, budete pro každé z nich potřebovat jiné přihlašovací údaje.
 

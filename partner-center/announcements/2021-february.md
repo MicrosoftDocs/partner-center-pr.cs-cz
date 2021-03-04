@@ -6,19 +6,209 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: brentserbus
 ms.author: brserbus
-ms.custom: announcement
+ms.custom: references_regions
 ms.localizationpriority: high
-ms.date: 02/04/2021
-ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: dcdbbda3a93bdf80dfe2c8eacc74ea4f78a7d07e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540994"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756340"
 ---
 # <a name="february-2021-announcements"></a>Oznámení z února 2021
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu na únor 2021.
+
+________________
+## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> Rozhraní API kvalifikace pro vložení je vyřazeno, může se stát, že se vyřadí
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 25. února 2021
+- Možnosti
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři, kteří prodávají akademické, neziskové a RSZ nabídky pomocí programu Cloud Solution Provider prostřednictvím rozhraní API partnerského centra
+
+### <a name="details"></a>Podrobnosti
+
+Toto oznámení je následná vylepšení partnerského centra [vydané v prosinci](2020-december.md#1). V rámci této verze byla nasazena nová rozhraní API GET a POST kvalifikace a v důsledku toho jsou **vyřazena existující rozhraní API kvalifikace PUT a získání kvalifikace je vyřazeno ze 4. května 2021**. Jakmile k tomu dojde, budete se muset převést na použití nového rozhraní API pro POST Center, abyste mohli zakoupit nabídky vzdělávání. Stejně tak budete muset použít nové rozhraní API získat kvalifikaci k nákupu předem kvalifikovaných nabídek, které nezisková a RSZ nabízí.
+
+### <a name="next-steps"></a>Další kroky
+
+- **Aktualizace nových rozhraní API** pro úspěšný a včasný přechod
+- **Projděte si nové změny a příručka rozhraní API partnerského centra** v prostředcích připravenosti operací: [vylepšení procesu ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) .
+- Tyto **informace můžete sdílet s příslušnými týmy** v rámci vaší organizace a s prodejci, aby se mohli připravit na tyto změny.
+
+### <a name="questions"></a>Máte otázky?
+
+Všechny otázky související s tímto oznámením vám poskytne [Podpora partnerského centra](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Protokol změn
+
+- Únor: aktualizované časové osy pro vyřazení získání kvalifikace & PUT
+- Leden: připomenutí nadcházejících zastaralosti získání & kvalifikací
+
+________________
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Sdílení obchodů ve společném prodeji pomocí funkce hromadné operace v partnerském centru
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-02-25
+- Zvýšené zabezpečení a dodržování předpisů
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Spoluprodejní partneři v partnerském centru
+
+### <a name="summary"></a>Souhrn
+
+Společně přidávané partneři teď můžou exportovat a importovat příležitosti ve velkém měřítku pomocí nové funkce hromadných operací souborového souboru CSV služby partner Center.
+
+### <a name="details"></a>Podrobnosti
+
+Společně přidávané partneři teď můžou exportovat a importovat příležitosti ve velkém měřítku pomocí nové funkce hromadných operací souborového souboru CSV služby partner Center. Tím se sjednotí vaše referenční prostředí pro sdílení odkazů a zajistěte kontinuitu podnikových aplikací při přesunu z obchodního připojení partnera. Je to také alternativa k investicím do partnerského centra rozhraní API.
+
+Úplné podrobnosti najdete v článku zmíněném v následující části. 
+
+### <a name="next-steps"></a>Další kroky
+
+Další informace o funkcích hromadného provozu najdete v tématu [hromadné operace pro společný prodej příležitostí pomocí souborů s hodnotami oddělenými čárkou (CSV)](https://docs.microsoft.com/partner-center/bulk-operations).
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud máte další dotazy, obraťte se na [podporu](https://partner.microsoft.com/support/?stage=1) .
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Migrujte své obchody z partnerského prodejního připojení (PSC) pomocí nové funkce pro migraci do služby rozdat.
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-02-25
+- Možnosti
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři s obchody v PBV
+
+### <a name="summary"></a>Souhrn
+
+Partneři s obchody na partner Sales Connect (PSC) můžou využít nové možnosti společného prodeje v partnerském centru, a to migrací jejich spoluprodejních operací pomocí funkce pro migraci.
+
+### <a name="details"></a>Podrobnosti
+
+Partneři s obchody v PSC teď můžou rychleji přesunout a využít tak výhody nového společného prostředí v partnerském centru a eliminovat práci na dvou platformách tím, že migrují své společné obchody do partnerského centra pomocí funkce pro migraci koupí.
+
+Úplné podrobnosti najdete v článku zmíněném v následující části.
+
+### <a name="next-steps"></a>Další kroky
+
+Další informace o funkci migrace služby rozdat najdete v části věnované **migraci PSC** v tématu [Průvodce pro Spoluprodej v partnerském centru (PC) pro partnery, kteří se migrují z partnera Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud máte další dotazy, obraťte se na [podporu](https://partner.microsoft.com/support/?stage=1) .
+
+________________
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>Zvýšená flexibilita s využitím spoluprodejních obchodů v rámci partnerů
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-02-25
+- Možnosti
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři s řešeními připravenými k spoluprodeji
+
+### <a name="summary"></a>Souhrn
+
+Partneři teď můžou pozvat prodejce Microsoftu až po vytvoření společného prodejního obchodu, který vede k tomu, aby se jednalo o spolupráci.
+
+### <a name="details"></a>Podrobnosti
+
+Partneři teď mají možnost pozvat prodejce Microsoftu až po vytvoření spolupracujícího spolupracujícího partnera, aby se jednalo o týmovou spolupráci. Podrobnosti o koupi se nesdílí s prodejním týmem Microsoftu, dokud partner výslovně nehledá v nápovědě Microsoftu. Tento scénář má taky nárok na motivaci prodávajícího společnosti Microsoft.
+
+Všimněte si, že obchody v rámci partnerských partnerů se dají upgradovat na aktivní společný prodej v jakémkoli okamžiku před uzavřením koupě.
+
+Úplné podrobnosti najdete v článku zmíněném v následující části.
+
+### <a name="next-steps"></a>Další kroky
+
+Další informace najdete v naší příručce pro [správu příležitostí společného prodeje v partnerském centru](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities).
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud máte další dotazy, obraťte se na [podporu](https://partner.microsoft.com/support/?stage=1) .
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a> Změny požadavků na registraci zákazníků poskytovatele Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-02-25
+- Zvýšené zabezpečení a dodržování předpisů
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři poskytovatele CSP a nepřímá poskytovatelé, kteří mají nové nebo existující zákazníky v zemích uvedených v další části.
+
+### <a name="summary"></a>Souhrn
+
+V rámci našeho závazku pomáhat partnerům a zákazníkům, kteří provozují firmy na základě důvěry, budeme požadovat další informace o zákaznících, účinnost 25. března 2021.
+
+### <a name="details"></a>Podrobnosti
+
+Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečné a zabezpečené metody ověřování zákazníků pro transakce předplatných zákazníka v programu CSP. 25. března 2021 budeme zavádět vylepšení rozhraní API partnerského centra a uživatelského rozhraní, které bude mít vliv na partnery, kteří splňují obě následující kritéria:
+
+1. Partner má přímý fakturační vztah s Microsoftem (to znamená, že partner je buď přímým partnerem, nebo nepřímým poskytovatelem).
+2. Partner pracuje s novými nebo stávajícími zákazníky v těchto zemích:
+    - Thajsko
+    - Vietnam
+    - Turecko
+    - Polsko
+    - Jižní Afrika
+    - Indie
+    - Brazílie
+    - Irák
+    - Myanmar
+    - Jižní Súdán
+    - Saúdská Arábie
+    - Spojené arabské emiráty
+    - Venezuela
+
+Partneři, kteří splňují kritéria, budou muset odeslat **platný identifikátor** zákazníka (označovaný také jako **DIČ organizace** zákazníka) a **telefonní číslo** při připojování nových zákazníků nebo změny stávajících informací o zákaznících. Tito partneři můžou volitelně zadat také **druhé jméno** zákazníka.
+
+Partneři, kteří pracují s novými nebo stávajícími zákazníky v následujících zemích, už jsou připojení k předchozí verzi v listopadu 2020.
+
+- Arménie
+- Ázerbájdžán
+- Bělorusko
+- Maďarsko
+- Kazachstán
+- Kyrgyzstán
+- Moldavsko
+- Rusko
+- Tádžikistán
+- Ukrajina
+- Uzbekistán
+
+Partneři se zákazníky ve zbývající části světa budou mít možnost 25. března 2021 zadat **platný identifikátor**, **telefonní číslo** a **střední jméno** pro zákazníky jako volitelné podrobnosti.
+
+### <a name="next-steps"></a>Další kroky
+
+- Podrobnější informace najdete v technické dokumentaci a nejčastějších dotazech ve vyhrazené [kolekci partnerů](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (vyžaduje se přihlášení).
+- Připravte se na začlenění změn pomocí rozhraní API partnerského centra a uživatelského prostředí pro web. Pro testování bude k dispozici rozhraní API/sady SDK.
+- Nezapomeňte odeslat další data při připojování nových zákazníků nebo úpravách stávajících informací o zákaznících.
+- Pokud používáte řešení v rámci ovládacího panelu (CPV), obraťte se na CPV.
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud máte dotazy související s platným identifikátorem (označovaným také jako DIČ nebo DIČ), kontaktujte daňového poradce nebo místní finanční kancelář. Microsoft nemůže poskytnout pokyny k daňovým aspektům.
+
+Pokud potřebujete podporu s vašimi operacemi s Microsoftem, [otevřete žádost o služby](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (vyžaduje se přihlášení).
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Nyní Live: DocuSign migrace do Adobe Signing pro partnery v rámci smluv partnerů Microsoftu (MPAs)
@@ -245,7 +435,7 @@ Posouzení Premium je volitelný doplněk Správce dodržování předpisů a m�
 Projděte si následující zdroje informací pro toto téma a sdílejte informace s příslušnými zúčastněnými stranami ve vaší organizaci.   
 
 - [Microsoft 365 zabezpečení E5 a dodržování předpisů](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
-- [Sestavování a Správa hodnocení v nástroji Microsoft dodržování předpisů](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+- [Sestavování a Správa hodnocení v nástroji Microsoft dodržování předpisů](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
 
@@ -285,23 +475,23 @@ Tady je co je nový v modulu odkazy v partnerském centru:
 
 #### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Všichni partneři používající modul odkazy v partnerském centru  
 
-- [Vytvořit nová připojení SMB](https://docs.microsoft.com/partner-center/connect-with-your-customers): společně prodávat a spolupracovat s prodejci Microsoftu za účelem získání příchozích příležitostí souvisejících se zákazníky s protokolem SMB.
+- [Vytvořit nová připojení SMB](../connect-with-your-customers.md): společně prodávat a spolupracovat s prodejci Microsoftu za účelem získání příchozích příležitostí souvisejících se zákazníky s protokolem SMB.
 
-- [Rozbalte položku oprávnění k odkazům](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals): přiřadit přístup k uživatelům na základě toho, jestli mají mít oprávnění správce (přístup k všem příležitostem společného prodeje), nebo uživatelská oprávnění (přístup k konkrétním možnostem společného prodejního uživateli).
+- [Rozbalte položku oprávnění k odkazům](../permissions-overview.md#manage-referrals): přiřadit přístup k uživatelům na základě toho, jestli mají mít oprávnění správce (přístup k všem příležitostem společného prodeje), nebo uživatelská oprávnění (přístup k konkrétním možnostem společného prodejního uživateli).
 
-- [Migrace uživatele partner Sales Connect](https://docs.microsoft.com/partner-center/psc-to-pc#user-migration): namapujte uživatelská oprávnění partner Sales Connect na odpovídající oprávnění správce odkazů partnerského centra a uživatele s odkazem a pak pro použití nových oprávnění pro uživatele. Další informace o správě odkazů najdete v [dokumentaci k referenčním oprávněním](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .  
+- [Migrace uživatele partner Sales Connect](../psc-to-pc.md#user-migration): namapujte uživatelská oprávnění partner Sales Connect na odpovídající oprávnění správce odkazů partnerského centra a uživatele s odkazem a pak pro použití nových oprávnění pro uživatele. Další informace o správě odkazů najdete v [dokumentaci k referenčním oprávněním](../permissions-overview.md#manage-referrals) .  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partneři, kteří mají k dispozici nabídky společně s prodejem
 
-- [Spoluprodejní s ostatními partnery](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): Pozvěte jiného partnera z našeho výkonného partnerského ekosystému pro spoluprodej a odemkněte přístup k dalším cílovým skupinám zákazníků.  
+- [Spoluprodejní s ostatními partnery](../manage-co-sell-opportunities.md): Pozvěte jiného partnera z našeho výkonného partnerského ekosystému pro spoluprodej a odemkněte přístup k dalším cílovým skupinám zákazníků.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partneři s podporou transakcí, které využívají řešení Azure s motivací na úrovni obchodu na komerčním webu Marketplace
 
-- [Použití registrace automatické koupě](https://docs.microsoft.com/partner-center/register-deals): Ušetřete čas a zajistěte přesnost tím, že si zaregistrujete transakční nabídky Microsoft komerčního tržiště z Azure pomocí zaškrtávacího políčka. Tento obchod/Win byl nebo se bude projednávat prostřednictvím Azure Marketplace nebo AppSource. Pokud je datum transakce správné, informace pro registraci koupí budou vyžádány přímo z komerčního tržiště společnosti Microsoft.
+- [Použití registrace automatické koupě](../register-deals.md): Ušetřete čas a zajistěte přesnost tím, že si zaregistrujete transakční nabídky Microsoft komerčního tržiště z Azure pomocí zaškrtávacího políčka. Tento obchod/Win byl nebo se bude projednávat prostřednictvím Azure Marketplace nebo AppSource. Pokud je datum transakce správné, informace pro registraci koupí budou vyžádány přímo z komerčního tržiště společnosti Microsoft.
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud potřebujete pomoc s používáním některé z nových funkcí, podívejte se do [části REFERENCES](https://docs.microsoft.com/partner-center/referrals) v naší znalostní bázi nebo v článku o podpoře postupů, které jsou dostupné v naší [galerii možností společného prodeje](https://aka.ms/CoSellExperience) (vyžaduje se přihlášení).
+Pokud potřebujete pomoc s používáním některé z nových funkcí, podívejte se do [části REFERENCES](../referrals.md) v naší znalostní bázi nebo v článku o podpoře postupů, které jsou dostupné v naší [galerii možností společného prodeje](https://aka.ms/CoSellExperience) (vyžaduje se přihlášení).
 
 Pro podporu můžete [otevřít lístek s naším týmem podpory pro partnery](https://partner.microsoft.com/support/?stage=1) .
 
@@ -319,7 +509,7 @@ Partneři, kteří prodávají akademické, neziskové a RSZ nabídky pomocí pr
 
 ### <a name="details"></a>Podrobnosti
 
-Toto oznámení je následná vylepšení partnerského centra [vydané v prosinci](https://docs.microsoft.com/partner-center/announcements/2020-december#1). V rámci této verze byla nasazena nová rozhraní API GET a POST a v důsledku toho se stávající rozhraní API **partnerského centra rozhraní API vyřadí do 25. února 2021 a získají kvalifikaci 4. května 2021**. V tuto chvíli se budete muset převést na použití nového rozhraní API pro POST Center, aby bylo možné zakoupit nabídky vzdělávání a nové rozhraní API získat kvalifikaci k nákupu předběžně kvalifikovaných nabídek a nabídek RSZ.
+Toto oznámení je následná vylepšení partnerského centra [vydané v prosinci](./2020-december.md#1). V rámci této verze byla nasazena nová rozhraní API GET a POST a v důsledku toho se stávající rozhraní API **partnerského centra rozhraní API vyřadí do 25. února 2021 a získají kvalifikaci 4. května 2021**. V tuto chvíli se budete muset převést na použití nového rozhraní API pro POST Center, aby bylo možné zakoupit nabídky vzdělávání a nové rozhraní API získat kvalifikaci k nákupu předběžně kvalifikovaných nabídek a nabídek RSZ.
 
 ### <a name="next-steps"></a>Další kroky
 

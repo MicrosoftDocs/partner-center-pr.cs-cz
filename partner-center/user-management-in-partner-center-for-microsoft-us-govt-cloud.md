@@ -10,27 +10,22 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cf34aa52bd1d0359736dbcf6cc5ed9029f6d9e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527350"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756761"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Správa uživatelů a licencí v partnerském centru pro Microsoft Cloud pro státní správu USA
 
 **Platí pro**
 
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro Microsoft Cloud for US Government
 
-Následující úkoly jsou spravované na portálu pro správu Microsoft Azure pro Microsoft Cloud pro státní správu USA:
+**Příslušné role**
 
-- Správa uživatelů partnerů
-
-- Správa uživatelů a licencí v zákaznících
-
-- Resetování hesel uživatelů
-
+- Globální správce
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Jak spravovat uživatele v Azure Portal pro Microsoft Cloud pro státní správu USA
 
@@ -49,6 +44,6 @@ Po úspěšném přihlášení k Azure Portal pro Microsoft Cloud pro státní s
 
 **Příbuzná témata**
 
--  [**Partnerské centrum pro Microsoft Cloud pro státní správu USA**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Partnerské centrum pro Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 
 -  [**Registrace do programu Cloud Solution Provider pro Microsoft Cloud pro státní správu USA**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

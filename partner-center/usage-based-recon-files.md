@@ -7,19 +7,24 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92526997"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755755"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Pochopení souborů pro odsouhlasení podle využití a jejich konkrétních polí v partnerském centru
 
 Platí pro:
 
 - Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro Microsoft Cloud for US Government
+
+**Příslušné role**
+
+- Správce účtu
+- Správce fakturace
 
 Pokud chcete své poplatky sjednotit na používání zákazníka, porovnejte **ResellerID** **, procustomers a** **ResellerBillableAccount** ze souboru pro odsouhlasení s **názvem zákazníka** a **ID předplatného** z partnerského centra.
 
@@ -46,7 +51,7 @@ Následující pole vysvětlují, které služby se použily, a rychlost.
 | ServiceType | Konkrétní typ služby Azure. | *Service Bus – jednotlivec nebo balíček*, *databáze SQL Azure – Business nebo Web Edition* |
 | ResourceGuid | Specifický jedinečný identifikátor pro všechna data služby a cenovou strukturu. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | ResourceName | Název prostředku Azure. | *Přenos dat v (GB)* *přenos odchozích dat (GB)* |
-| Region (Oblast) | Oblast, na kterou se vztahuje použití Primárně se používá k přiřazování sazeb přenosům dat, protože tarify se liší podle oblasti. | *Asie a Tichomoří*, *evropa*, *Latinská Amerika* *Severní Amerika* |
+| Oblast | Oblast, na kterou se vztahuje použití Primárně se používá k přiřazování sazeb přenosům dat, protože tarify se liší podle oblasti. | *Asie a Tichomoří*, *evropa*, *Latinská Amerika* *Severní Amerika* |
 | Skladová jednotka (SKU) | Jedinečný identifikátor Microsoft pro nabídku | *7UD – 00001* |
 | DetailLineItemId | Identifikátor a množství, které itemize různé sazby za službu nebo prostředek v daném fakturačním období. U cen vrstvených za Azure může existovat jedna sazba za určité množství fakturovaných jednotek a potom po tomto množství jinou sazbu. | *1* |
 | ConsumedQuantity | Množství spotřebované služby (například hodiny nebo GB) během období generování sestav. Zahrnuje také veškeré nefakturované využití z předchozích období generování sestav. | *11* |
@@ -66,8 +71,12 @@ Následující pole vysvětlují, které služby se použily, a rychlost.
 | Jednotka | Jednotka **názvu** prostředku. | *GB* nebo *hodiny* |
 | CustomerBillableAccount | Jedinečný identifikátor účtu na fakturační platformě Microsoftu | *1280018095* |
 | UsageDate | Datum nasazení služby | *2/1/2019 0:00* |
-| MeteredRegion | Určuje umístění datového centra v rámci oblasti (pro služby, kde je tato hodnota platná a naplněná). | *Východní Asie*, *jižní východní Asie*, *Severní Evropa*, *západní Evropa*, *střed USA – sever* střed USA – jih *South Central US* |
+| MeteredRegion | Určuje umístění datového centra v rámci oblasti (pro služby, kde je tato hodnota platná a naplněná). | *Východní Asie*, *jižní východní Asie*, *Severní Evropa*, *západní Evropa*, *střed USA – sever* střed USA – jih  |
 | MeteredService | Identifikuje jednotlivá použití služby Azure, pokud není konkrétně identifikovaná ve sloupci **ServiceName** . Například přenosy dat jsou hlášeny jako *Microsoft Azure-všechny služby* ve sloupci **ServiceName** . | *AccessControl*, *CDN*, *COMPUTE*, *Database*, *ServiceBus*, *Storage* |
 | MeteredServiceType | Podnadpis pro pole **MeteredService** , které poskytuje další vysvětlení využití služeb Azure. | *ZAHRANIČNÍCH* |
 | Project | Název pro instanci služby definovaný zákazníkem | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | Počet Azure Service Bus připojení, která byla zřízena a využita v daném dni. | *1,000000 připojení/30 dní* (Pokud jste samostatně zřízené připojení během 30denní měsíce), *25 připojení/30 dní – využito: 1,000000* (Pokud jste měli k dispozici 25 sad připojení Service Bus a v tomto dni jste využili 1) |
+
+## <a name="next-steps"></a>Další kroky
+
+- [Pochopení polí v souborech pro odsouhlasení na základě licence partnerského centra](license-based-recon-files.md)

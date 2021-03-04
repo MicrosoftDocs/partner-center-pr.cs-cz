@@ -1,19 +1,19 @@
 ---
 title: Platební a daňový profil v Partnerském centru
 ms.topic: how-to
-ms.date: 11/12/2020
+ms.date: 02/24/2021
 description: Vytvořte a spravujte svůj výběr a daňový profil, abyste se mohli vyplatit za práci s vašimi pobídkami. Zahrnuje vytváření, správu a používání různých profilů.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624234"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756584"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Vytváření a Správa pobídek pro výběr a daňové profily v partnerském centru
 
@@ -86,10 +86,22 @@ V následujících částech se dozvíte, jak vytvořit a spravovat platební a 
 
     >[!NOTE]
     >Dostupnost způsobu platby závisí na pravidlech programu motivačních.
+
+    - Pokud je vaše umístění MPN placeno místní pobočkou společnosti Microsoft pro konkrétní pobídkový program a jako způsob platby umožňuje dobropis LRD (s omezeným rizikem), pak bude váš platební profil předem vyplněný metodou platby za dobropis LRD. Na řádku způsob platby LRD pro platební poznámku pro příslušný program a ID MPN **pro účely** přihlašování se zobrazí **potvrzené nebo ověřené** jako stav v části platební profil.
+    
+       Vyberte **ověření potřebné** k potvrzení a ověření podrobností ID tenanta CSP, které jsou přidruženy k umístění MPN a platebnímu metodě pro příjem platby za platební poznámku. V dialogovém okně **Podrobnosti o kreditních** dobropisech zkontrolujte a ověřte, jestli je zadané ID tenanta a podrobnosti zprostředkovatele CSP správné. Pokud se zobrazí více než jedno ID tenanta, pečlivě vyberte ID tenanta CSP, na kterém chcete přijímat platby. V dalším kroku vyberte **Potvrdit** , abyste potvrdili, že jsou informace o vaší společnosti správné a že by se měla provést platba z pobídky na ID tenanta CSP, které jste vybrali.
+ 
+      Pokud se zobrazí stav **potvrzeno**, přiřazení ID tenanta CSP bylo dokončeno a není vyžadována žádná další akce. Stále můžete vybrat potvrzené pro zobrazení podrobností o přiřazení.
+   
+      V zemích, které vyžadují, aby partneři požádali o uplatnění daňové úlevy, bude existovat možnost použít osvobození od daně vedle daňového profilu v části daňový profil v programu motivační program a umístění MPN. Zaškrtnutím tohoto políčka uplatníte výhody osvobození od daně na svůj finanční dobropis. 
+   
+      V současné době je tento způsob platby k dispozici pouze pro Austrálii, Nového Zélandu a partnery Kanady pro program Microsoft Commerce motivační. Pokud jste přímým partnerem nebo nepřímým poskytovatelem v těchto třech zemích zaregistrovaným pro program MCI a jako dostupný způsob platby nevidíte LRDou platební poznámku, potvrďte, že ID tenanta je přidružené k příslušnému účtu umístění MPN partnera. Další informace o tomto postupu najdete v článku [jak aktualizovat profil vaší organizace](update-your-partner-profile.md).
+
     
 5. Vyberte **měnu**.
 
 6. Po dokončení všech platebních polí vyberte **Odeslat**.
+
 
 ## <a name="create-your-bank-profile"></a>Vytvořit profil banky
 

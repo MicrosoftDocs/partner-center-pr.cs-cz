@@ -1,7 +1,7 @@
 ---
 title: Správa uživatelů pro účty zákazníků
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Správa uživatelů pro vaše zákazníky v partnerském centru – vytváření uživatelských účtů, přidávání nebo odebírání uživatelských licencí, resetování hesel a odstraňování a obnovování uživatelských účtů.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570735"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756077"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Správa uživatelů a uživatelských licencí pro zákaznické účty 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570735"
 Můžete vytvářet a odstraňovat nové uživatele v účtu zákazníka. Můžete také obnovit jeden nebo více uživatelských účtů, které jste dříve odstranili během 30 dnů od odstranění. Budou obnovena i předchozí přiřazení předplatného uživatele (za předpokladu, že jsou k dispozici jejich předchozí přidělení).
 
 Když si koupíte nové předplatné pro zákazníka, zákazník by vám měl poskytnout seznam všech uživatelů, kteří budou potřebovat účty, jejich uživatelská oprávnění a to, které služby jednotliví uživatelé potřebují.  
+
+>[!NOTE]
+>Část **Uživatelé a licence** na kartě **Zákazník** zobrazuje všechny uživatele vytvořené v tenantovi konkrétního zákazníka, včetně uživatelů, kteří mají licence zakoupené od jiného partnera CSP nebo z jiného nákupního kanálu.
 
 [Odběry můžete přiřadit více uživatelům](bulk-license-provisioning-for-multiple-users.md) najednou pomocí importu názvů pomocí [souboru tabulky. csv kompatibilního s Excelem](adding-multiple-users-to-a-customer-account.md).
 
@@ -72,7 +75,7 @@ Následující postup platí pro přidání nebo odebrání uživatelských lice
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Resetování hesla uživatele pro zákazníka
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard) pro Partnerské centrum.
 
 2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
 

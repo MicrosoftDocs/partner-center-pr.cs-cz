@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182541"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756410"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -30,7 +30,7 @@ ______________
 - Datum: 2020-11-24
 - Možnosti
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Společnost Microsoft zavádí možnost, že partneři v programu Cloud Solution Provider si můžou koupit nabídky SaaS s měřeným účtováním v partnerském centru. 
 
@@ -55,7 +55,7 @@ ______________
 - Datum: 2020-11-18
 - Možnosti
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Od 18. listopadu bude partnerské Centrum začínat nové prostředí pro správu účtů, které bude zlepšit uživatelské prostředí pro partnery. Partneři teď budou moct spravovat svůj účet pro všechny programy z nastavení – > nastavení účtu.
 
@@ -91,14 +91,14 @@ ______________
 - Datum 2020-11-18
 - Nabídky/trhy
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 Zavádíme novou propagační službu Office 365 E1 pro střední trh, která je omezená na nově vznikající trhy LATAM, Indie a APAC (s výjimkou vyvinutých trhů v APAC).
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 Všichni partneři procházejí prostřednictvím programu Cloud Solution Provider (CSP) na zúčastněných trzích uvedených výše.
 
 ### <a name="details"></a>Podrobnosti
-Propagační akce se skládá z 30% slevy na Office 365 E1 pro CSP. Spustí se 1. prosince 2020 a bude k dispozici po dobu 6 měsíců až do 31. května 2020. Tato propagační akce je k dispozici pouze pro zákazníky, kteří jsou noví v cloudu MW a mají až 500 míst. Upozorňujeme, že toto je omezené na nově vznikající trhy LATAM, Indie a APAC, aby bylo možné přejít do cloudu. 
+Propagační akce se skládá z 30% slevy na Office 365 E1 pro CSP. Spustí se 1. prosince 2020 a bude k dispozici po dobu 6 měsíců až do 31. května 2021. Tato propagační akce je k dispozici pouze pro zákazníky, kteří jsou noví v cloudu MW a mají až 500 míst. Upozorňujeme, že toto je omezené na nově vznikající trhy LATAM, Indie a APAC, aby bylo možné přejít do cloudu. 
 
 #### <a name="offer-details"></a>Podrobnosti nabídky
 
@@ -137,7 +137,7 @@ Poskytovatelé přímých faktur nebo nepřímo poskytovatelé účastnící se 
 - Uzbekistán (UZ)
 - Ukrajina (UA)
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Jako součást trvalého závazku Microsoftu zákazníkům a partnerům v oblasti souladu s podnikovými postupy se teď někteří partneři se zákazníky v určitých zemích budou požádáni, aby při dalším pokusu o aktualizaci stávajícího zákaznického předplatného nebo vytvoření nového předplatného pro nového zákazníka požádali o dokončení několika dalších polí dat o těchto zákaznících. 
 
@@ -245,7 +245,7 @@ public class Address
 
 Partneři s podporou programu Cloud Solution Provider v oblasti EU/ESVO 
 
-### <a name="summary"></a>Shrnutí 
+### <a name="summary"></a>Souhrn 
 
 V oblasti Evropské unie (EU)/European volného obchodu (ESVO) se všechny nové nabídky obchodování v programu Cloud Solution Provider použijí místo fakturačního umístění zákazníka. To znamená, že se partneři účtují společností Microsoft na základě jejich měny umístění, nikoli podle měny jejich zákazníků. To se provádí ve dvou fázích: 
 
@@ -273,7 +273,7 @@ Mezi nové nabídky pro obchod v oboru pro tuto změnu patří: předplatná Azu
 
 - Pro partnery, kteří ještě nepřijali nové nabídky obchodu, se tato změna zarovnává s předchozím modelem fakturace partnerů, takže partneři můžou snadněji přejít na nové prostředí pro obchod v rámci CSP. 
 
-### <a name="resources"></a>Zdroje 
+### <a name="resources"></a>Zdroje informací 
 
 Projděte si informace o tomto tématu v [galerii operací] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ na webu Microsoft Partner.  
 
@@ -286,7 +286,7 @@ ______________
 - Datum 2020-11-17
 - Možnosti
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Microsoft zavádí omezování rozhraní API pro partnery, kteří volají rozhraní API partnerského centra pro zajištění jednotnějšího výkonu v daném časovém intervalu.
 
@@ -377,7 +377,7 @@ ______________
 
 Partneři prodávají akademické nabídky prostřednictvím programu Cloud Solution Provider (CSP).
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Testování je teď k dispozici pro aktualizace rozhraní API partnerského centra a vylepšení uživatelského rozhraní pro účely procesu ověření zákazníka pro vzdělávání.
 
@@ -422,7 +422,7 @@ ______________
 - Datum: 2020-11-5
 - Možnosti
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Od listopadu 5 2020 budou k dispozici komerční obsah partnerského oddělení z partnerské univerzity, a to i v galerii připravenost k provozu.
 
@@ -451,7 +451,7 @@ ________________
 - Datum: 2020-11-3
 - Nabídky/trhy
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Microsoft Teams je teď dostupný v programu Cloud Solution Provider (CSP) pro týmy Microsoft.
 
@@ -469,14 +469,14 @@ Díky nabídce Premium mají zákazníci přístup k nově vydaným verzím Micr
 
    |****|**Microsoft Teams Rooms úrovně Standard USD15 za měsíc**|**Microsoft Teams Rooms Premium USD50 Device za měsíc**|
    |-------------------|:------|:------|
-   |Skype pro firmy|Yes| |
-   |Microsoft Teams|Yes|Yes|
-   |Telefonní systém|Yes|Yes|
-   |Zvukové konference|Yes|Yes|
-   |Microsoft Intune|Yes|Yes|
+   |Skype pro firmy|Ano| |
+   |Microsoft Teams|Ano|Ano|
+   |Telefonní systém|Ano|Ano|
+   |Zvukové konference|Ano|Ano|
+   |Microsoft Intune|Ano|Ano|
    | |Microsoft Teams Rooms Standard USD15 na zařízení za měsíc|Microsoft Teams Rooms Premium USD50 na zařízení za měsíc|
-   |Microsoft Teams místností spravované služby| |Yes|
-   |Celosvětová dostupnost|Yes|Na vybraných trzích|
+   |Microsoft Teams místností spravované služby| |Ano|
+   |Celosvětová dostupnost|Ano|Na vybraných trzích|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams místností spravované služby
 
@@ -513,7 +513,7 @@ ________________
 - Datum: 2020-11-2
 - Nabídky/trhy
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Nové skladové položky doplňku pro pokročilou komunikaci pro Microsoft Teams v RSZ budou k dispozici od 1. prosince 2020.
 
@@ -608,7 +608,7 @@ ________________
 - Datum: 2020-11-2
 - Nabídky/trhy
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Od listopadu 1 2020 společnost Microsoft zavedla nové SKU pro Microsoft 365 Business hlas pro neziskové organizace.
 
@@ -644,7 +644,7 @@ ________________
 - Datum: 2020-11-2
 - Nabídky/trhy
 
-### <a name="summary"></a>Shrnutí
+### <a name="summary"></a>Souhrn
 
 Zlevněné ceny pro nové a obnovení předplatných Microsoft 365 Business hlasu pomocí plánu volání a Microsoft 365 Business hlasu bez volání plánu.
 
@@ -673,7 +673,7 @@ Tyto propagační akce mají vliv na tyto zákazníky:
 - Klienti s čistým novým zákazníkem
 - Stávající vzdálení klienti, kteří nemají aktivní nebo nedávno zrušené předplatné (během posledních 30 dnů), mají licenci na podnikovou nebo bezplatnou licenci na CSP, web Direct nebo jiný komerční kanál Microsoftu.
 
-#### <a name="additional-resources"></a>Další zdroje
+#### <a name="additional-resources"></a>Další zdroje informací
 
 - Další informace o obchodním hlasu najdete na [stránce Microsoft 365 Business hlasového partnera](https://www.microsoft.com/microsoft-365/partners/businessvoice) . 
 - Přečtěte si další informace o této propagačních DOTAZech v souvisejícím [partnerovi](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.openlocfilehash: d07555d3559b2f8dbbb15f9cfe90753e50db0c04
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541010"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756289"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -86,7 +86,7 @@ Všechny otázky související s tímto oznámením kontaktují [podporu partner
 - 7. ledna 2021: další scénář zahrnutý ve fázi 1 a fázi 2
 - 28. ledna 2021: 
     -    Fáze 1 je v provozu. 
-    -    Objasnění, že Velká Británie není zahrnutá v EU/ESVO, je součástí [evropské oblasti a trhu Microsoftu](https://docs.microsoft.com/partner-center/regional-authorization-overview) a bude ovlivněná.
+    -    Objasnění, že Velká Británie není zahrnutá v EU/ESVO, je součástí [evropské oblasti a trhu Microsoftu](../regional-authorization-overview.md) a bude ovlivněná.
 
 
 ________________
@@ -170,13 +170,13 @@ Všichni nepřímí prodejci & nepřímými poskytovateli transakcí prostředni
 
 ### <a name="details"></a>Podrobnosti
 
-Právě probíhá implementace partnerské smlouvy Microsoftu pro nepřímé prodejce. Abychom mohli dál podporovat poskytovatele a prodejce, slyšeli jsme vaši zpětnou vazbu a teď si konsolidujete společné dotazy o tom, jak přijmout aktivaci na nové [stránce s nejčastějšími dotazy](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq).
+Právě probíhá implementace partnerské smlouvy Microsoftu pro nepřímé prodejce. Abychom mohli dál podporovat poskytovatele a prodejce, slyšeli jsme vaši zpětnou vazbu a teď si konsolidujete společné dotazy o tom, jak přijmout aktivaci na nové [stránce s nejčastějšími dotazy](../mpa-indirect-provider-faq.md).
 
 ### <a name="next-steps"></a>Další kroky
 
-**Nepřímí prodejci:** Pokud jste nepřijali aktivaci, přečtěte si [Nejčastější dotazy](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) týkající se aktivace a postupujte podle podrobných pokynů, [abyste mohli](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) aktivaci povolit.
+**Nepřímí prodejci:** Pokud jste nepřijali aktivaci, přečtěte si [Nejčastější dotazy](../mpa-indirect-provider-faq.md) týkající se aktivace a postupujte podle podrobných pokynů, [abyste mohli](../microsoft-partner-agreement.md) aktivaci povolit.
 
-**Nepřímí zprostředkovatelé:** Zapojte se do svých nepřímých prodejců a využijte je v [nejčastějších](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) dotazech o aktivaci a podrobný návod, který je k dispozici [tady](https://docs.microsoft.com/partner-center/microsoft-partner-agreement).
+**Nepřímí zprostředkovatelé:** Zapojte se do svých nepřímých prodejců a využijte je v [nejčastějších](../mpa-indirect-provider-faq.md) dotazech o aktivaci a podrobný návod, který je k dispozici [tady](../microsoft-partner-agreement.md).
 
 ### <a name="questions"></a>Máte otázky?
 
@@ -207,8 +207,8 @@ Níže jsou uvedené nové typy operací:
 ### <a name="next-steps"></a>Další kroky
 
 - Využijte nové typy operací ke sledování událostí, když ho zákazník schválil a ukončil.  
-- [Získání záznamu aktivity partnerského centra – vývojář aplikace pro partnery | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [Prostředky auditování – vývojář aplikací pro partnerských Center | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+- [Získání záznamu aktivity partnerského centra – vývojář aplikace pro partnery | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Prostředky auditování – vývojář aplikací pro partnerských Center | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>Máte otázky?
 
@@ -287,9 +287,9 @@ Partneři se velmi doporučuje seznámit s následujícími zdroji:
 #### <a name="partner-earned-credit-pec"></a>Získaný kredit partnera (PEC)
 
 - [Principy získaného kreditu pro partnery (Průvodce) (Microsoft. com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [Získaný kredit partnerů – přehled – Partnerská centra | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
-- [Získaný kredit partnerů pro spravované služby – partnerské Centrum | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
-- [Role, oprávnění pro partnery, kteří získali kredit – partnerské Centrum | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Získaný kredit partnerů – přehled – Partnerská centra | Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [Získaný kredit partnerů pro spravované služby – partnerské Centrum | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
+- [Role, oprávnění pro partnery, kteří získali kredit – partnerské Centrum | Microsoft Docs](../azure-roles-perms-pec.md)
 - [Školicí modul na vyžádání na kredit získaný partnerem v Azure v modulech CSP (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>Nové prostředí pro obchod
@@ -321,7 +321,7 @@ Všimněte si také, že v dnešní době bylo vyřazení softwaru partnerského
 ### <a name="next-steps"></a>Další kroky
 
 - Stáhněte si seznam ceníků **trvalého softwaru CSP** v části **software** stránky [ceny &](https://partnercenter.microsoft.com/pcv/sales) služby partner Center. Seznam nově přidaných produktů a geografických oblastí najdete [tady](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
-- Přečtěte si [článek Microsoft 365 centra pro správu s trvalou licencí software a produkt, Stáhněte si článek s postupem](https://go.microsoft.com/fwlink/p/?linkid=2152525) a sdílejte je s vašimi zákazníky, když jsou připraveni ke stažení softwaru a licenčních klíčů.
+- Přečtěte si [článek Microsoft 365 centra pro správu s trvalou licencí software a produkt, Stáhněte si článek s postupem](/microsoft-365/admin/setup/download-software-licenses-csp) a sdílejte je s vašimi zákazníky, když jsou připraveni ke stažení softwaru a licenčních klíčů.
 - Projděte si [trvalá softwaru v materiálech připravenosti programu poskytovatele Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Pomocí této [mapy připravenosti](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) můžete rychle najít správné informace pro vaši roli.
 
 ### <a name="questions"></a>Máte otázky?

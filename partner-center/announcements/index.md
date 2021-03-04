@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/05/2021
-ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540977"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756154"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,11 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z února 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Možnosti|[Rozhraní API kvalifikace pro vložení je vyřazeno, může se stát, že se vyřadí](2021-february.md#14)|25. února|
+|Možnosti|[Sdílení obchodů ve společném prodeji pomocí funkce hromadné operace v partnerském centru](2021-february.md#13)|25. února|
+|Možnosti|[Migrujte své obchody z partnerského prodejního připojení (PSC) pomocí nové funkce pro migraci do služby rozdat.](2021-february.md#12)|25. února|
+|Možnosti|[Zvýšená flexibilita s využitím spoluprodejních obchodů v rámci partnerů](2021-february.md#11)|25. února|
+|Možnosti|[Změny v registraci zákazníka poskytovatele Cloud Solution Provider (CSP)](2021-february.md#10)|25. února|
 |Možnosti|[Nyní Live: DocuSign migrace do Adobe Signing pro partnery v rámci smluv partnerů Microsoftu (MPAs)](2021-february.md#9)|16. února|
 |Rozšiřte svou firmu|[Připomenutí: Představujeme omezování rozhraní API pro partnery, kteří volají rozhraní API Partnerského centra](2021-february.md#8)|16. února|
 |Možnosti|[Představujeme témata Microsoft vivae](2021-february.md#7)|12. února|

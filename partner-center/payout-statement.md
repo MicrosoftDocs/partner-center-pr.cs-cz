@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492632"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756162"
 ---
 # <a name="payout-statements"></a>Výpisy plateb
 
@@ -138,7 +138,7 @@ Pokud se chcete podívat na další podrobnosti o objektu, vyberte **Stáhnout**
 | claimId | Jedinečný identifikátor pro deklaraci identity | Motivace – jenom některé programy |
 | customerCountry | Země nebo oblast zákazníka | tržišť |
 | customerEmail |  |  |
-| customerName | Bude vždy prázdné | Jenom motivační programy (výjimka: OEM) a tržiště |
+| customerName | Může být prázdné | Jenom motivační programy (výjimka: OEM) a tržiště. V případě transakcí CSP zobrazí tržiště název CSP. |
 | customerTenantId |  |  |
 | distributorId | Identifikátor distributora | Motivace – jenom některé programy |
 | Distributor | Název distributora | Motivace – jenom některé programy |

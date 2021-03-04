@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492717"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755865"
 ---
 # <a name="view-your-incentives-program-details"></a>Zobrazit podrobnosti o programu pobídek
-
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
@@ -76,4 +72,5 @@ Mezi tyto informace patří informace o celkových příjmech a platbách v rám
 [Rozhraní API pro výběr partnerů](https://apidocs.microsoft.com/services/partnerpayouts) můžete použít také k připojení a získání transakcí výběrů a platebních údajů přímo. Další informace najdete v tématu [Výběr příkazů](payout-statement.md) .
 
 ## <a name="next-steps"></a>Další kroky
+
 - [Výpisy plateb](payout-statement.md)

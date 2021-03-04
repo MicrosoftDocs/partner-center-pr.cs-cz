@@ -1,7 +1,7 @@
 ---
 title: Ukazatele příspěvku partnera – certifikátů
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si o sedmi ukazatelích příspěvků partnerů (PCI), které ukazují partnery, jak dosáhnout vysoké nebo zlaté cloudové Business Applications kompetence.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530812"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756562"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Použití ukazatelů příspěvků partnerů k dosažení Business Applications kompetenci cloudu
 
@@ -155,7 +155,7 @@ Pokud máte jedno z následujících přidružení typu partner-zákazník, mů�
 - U placeného předplatného, které patří do tenanta daného zákazníka, jste partnerem deklarací záznamů (CPOR).
 - Jste digitální partner záznamu (partnera DPOR) pro placené předplatné patřící tomuto tenantovi zákazníka.
 
-Partner se stane CPORou, pokud má navázat spojení se zákazníkem na úrovni předplatného prostřednictvím motivačního [Poradce pro služby dynamics 365 Online Services](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (osa) nebo Dynamics 365 [Online Service Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (osu).
+Partner se stane CPORou, pokud má navázat spojení se zákazníkem na úrovni předplatného prostřednictvím motivačního Poradce pro služby Dynamics 365 Online Services (OSA) nebo Dynamics 365 Online Service Usage (OSU). Další informace najdete v tématu [Principy přidružení CPOR](incentives-customer-associations-intro.md).
 
 Partner se stane partnera DPORou, pokud mají přidružení se zákazníkem na úrovni předplatného v rámci produktu.
 
@@ -295,7 +295,7 @@ Vývojáři jsou [indikátorem schopností](partner-contribution-indicators.md#p
 - Body pro vývojáře jsou založené na snímku aktuálního měsíce, který má maximálně 5 bodů k dispozici.
 
 - Vývojáři Customer Engagement získají kredit při splnění:
-  - PL-400<br/>**nebo**
+  - PL-400<br/>**ani**
   - MB-200 \* **a** jedna z následujících zkoušek:
     - MB-400 \* nebo MB2-716\*\*
 

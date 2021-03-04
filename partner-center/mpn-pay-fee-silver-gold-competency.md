@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042680"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757398"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Jak platit poplatek spojený s stříbrnou nebo Gold Competency
 
@@ -37,7 +37,7 @@ Jinak pomocí těchto kroků platíte poplatek za stříbrné nebo Gold Competen
 
 - Již jste splnili [požadavky](https://partner.microsoft.com/membership/competencies) na dosažení konkrétního stříbra nebo Gold Competency.
 
-- Přiřadili jste roli partnerského centra pro [správce partnerů pro globálního správce nebo MPN](https://docs.microsoft.com/partner-center/permissions-overview). Pokud jste uživatelem typu Host bez jedné z těchto rolí, bude vám odepřen přístup k některým stránkám partnerského centra popsaným níže. Pokud k tomu dojde, obraťte se na [svého globálního správce](https://docs.microsoft.com/partner-center/find-your-role) a požádejte ho, aby vám přiřadil příslušnou roli. 
+- Přiřadili jste roli partnerského centra pro [správce partnerů pro globálního správce nebo MPN](./permissions-overview.md). Pokud jste uživatelem typu Host bez jedné z těchto rolí, bude vám odepřen přístup k některým stránkám partnerského centra popsaným níže. Pokud k tomu dojde, obraťte se na [svého globálního správce](./find-your-role.md) a požádejte ho, aby vám přiřadil příslušnou roli. 
 
 1. Pomocí přihlašovacích údajů k pracovnímu účtu vaší organizace se přihlaste k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra.
 
@@ -54,7 +54,7 @@ Jinak pomocí těchto kroků platíte poplatek za stříbrné nebo Gold Competen
 
 4. Na stránce **Podrobnosti o nákupu** zkontrolujte a potvrďte své údaje.
 
-   (Další informace o aktualizaci [informací o **daňovém ID** vaší společnosti nebo o](https://docs.microsoft.com/partner-center/organization-tax-info) [ **fakturaci** vaší společnosti na podnikovou adresu](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
+   (Další informace o aktualizaci [informací o **daňovém ID** vaší společnosti nebo o](./organization-tax-info.md) [ **fakturaci** vaší společnosti na podnikovou adresu](./mpn-get-action-pack.md).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Členství nabízí stránku s podrobnostmi o nákupu s platebními preferencemi." border="false":::
 

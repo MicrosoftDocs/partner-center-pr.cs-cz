@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89d685aef9fbaa004cfa5c7763d19c7ff03186d5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: c291a2cf859d0c21570a06fab5bc36b19eccfda2
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92527130"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755852"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Aktualizace informací o účtu zákazníka, informace o společnosti a fakturační údaje zákazníka v partnerském centru
 
-**Platí pro**
+**Příslušné role**
 
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Globální správce
+- Agent prodeje
 
 V partnerském centru můžete aktualizovat fakturační informace zákazníka a další informace o společnosti. Můžete taky [udělit nebo odebrat oprávnění pro zákazníka a koupit si svoje vlastní produkty nebo služby](give-customers-permission.md).
 
@@ -32,3 +32,7 @@ V partnerském centru můžete aktualizovat fakturační informace zákazníka a
 2. V nabídce zákazník vyberte **účet** a potom **aktualizovat**.
 
 3. Po provedení změn vyberte **Odeslat**.
+
+## <a name="next-steps"></a>Další kroky
+
+- [Poskytněte zákazníkům oprávnění v partnerském centru, aby si mohli koupit svoje vlastní produkty nebo služby.](give-customers-permission.md)

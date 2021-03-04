@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: b6e08baf11061bc027b52d4662311bdc91ee0202
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834852"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756091"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Prodej předplatných softwaru prostřednictvím programu Cloud Solution Provider (CSP)
 
@@ -103,7 +103,7 @@ Po zakoupení softwaru si ho zákazníci potřebují stáhnout. K tomu použijte
 >[!NOTE]
 >Kódy Product Key a informace ke stažení můžou zobrazit jenom zákazníci v centru pro správu Microsoftu. Partneři nevidí tyto informace.
 
-Pokud vás nebo vaši zákazníci chtějí získat další informace o stahování licenčních klíčů, přečtěte si téma [Stažení softwaru a licenčních kódů produktů](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+Pokud vás nebo vaši zákazníci chtějí získat další informace o stahování licenčních klíčů, přečtěte si téma [Stažení softwaru a licenčních kódů produktů](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Stažení předplatného serveru a licenční klíče dostupné prostřednictvím centra pro správu Microsoft 365 pro zákazníky 
 

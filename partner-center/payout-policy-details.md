@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861406"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756839"
 ---
 # <a name="payout-schedules-and-processes"></a>Plány a procesy výplat
 
@@ -37,7 +37,6 @@ K určitému typu často dojde předtím, než Microsoft shromáždí platbu od 
 | --- | --- | --- | --- |
 | Využití nebo měsíc transakce | Zákazník používá nebo kupuje službu. | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 1** |
 | Vypočtená částka fakturace Microsoft | Určení celkového využití, transakcí celkem | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 2** |
-| Faktura placená zákazníkem | Microsoft shromažďuje platbu od zákazníka. | Beze změny | **Měsíc 2** |
 | Vyslaný výběr | Určení poplatků za platební instituce a jejich výběr | Označení jako nezpracované v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 3 (1. týden)** |
 | Připravit výběr | Tržby se připravují na měsíční platby. | Označeno jako nadcházející v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 3 (1. týden)** |
 | **Vysílaný výběr** | **Platba se posílá vydavateli.** | **Označeno jako odesláno v historii transakce a v části platby [příkazu výběr](payout-statement.md)** | **Měsíc 3 (ne později než 15.)** |

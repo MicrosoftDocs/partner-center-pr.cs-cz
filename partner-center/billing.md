@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 27bdb4aab3c8092b1ffc458e4da29250e2dbf23e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570633"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756733"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Přehled: hlavní články fakturace a daně v partnerském centru
 
@@ -25,7 +25,7 @@ ms.locfileid: "96570633"
 - Globální správce
 - Agent prodeje
 
-Tento artilce obsahuje odkazy na informace o fakturačních a daňových tématech v partnerském centru, včetně fakturačních prostředků, faktur, fakturace CSP a daní.
+Tento článek obsahuje odkazy na informace o fakturačních a daňových tématech v partnerském centru, včetně fakturačních prostředků, faktur, fakturace CSP a daní.
 
 
 | Téma | Popis |
