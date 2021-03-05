@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.date: 03/04/2021
+ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102029929"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185277"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z března 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Možnosti|[Nové produkty a nabídky společnosti Microsoft Dynamics 365, které jsou k dispozici od 1. dubna 2021](2021-march.md#2)|4. března|
 |Možnosti|[Univerzální tisk společnosti Microsoft je nyní k dispozici v některých sadách.](2021-march.md#1)|3. březen|
 |**Kategorie**|**Oznámení z února 2021**|**Datum oznámení**|
 |Možnosti|[Rozhraní API kvalifikace pro vložení je vyřazeno, může se stát, že se vyřadí](2021-february.md#14)|25. února|

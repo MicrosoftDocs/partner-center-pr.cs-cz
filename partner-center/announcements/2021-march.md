@@ -9,16 +9,83 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/03/2021
-ms.openlocfilehash: 1a386a97d0e55818b2226fd453cfca3b63753247
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102055811"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185260"
 ---
 # <a name="march-2021-announcements"></a>Oznámení z března 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu na březen 2021.
+
+________________
+## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Nové produkty a nabídky společnosti Microsoft Dynamics 365, které jsou k dispozici od 1. dubna 2021
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-03-04
+- Možnosti
+
+### <a name="summary"></a>Souhrn
+
+Od 1. dubna 2021 bude Microsoft spouštět několik nových produktů a nabídek pro program poskytovatele Cloud Solution Provider (CSP).
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Podrobnosti
+
+Od 1. dubna 2021 bude Microsoft spouštět následující nové produkty a nabídky:
+
+- Power BI Premium na uživatele
+- USL a rozšiřování geografických a segmentů zákazníků
+
+**Power BI Premium na uživatele**
+
+Microsoft bude zavádět první nabídky Power BI Premium pro jednotlivé uživatele. Power BI Premium se aktuálně prodává pouze v konstrukci kapacity. Power BI Premium pro jednotlivé uživatele poskytuje přístup k funkcím Enterprise business intelligence (BI) a Analytics. Flexibilní organizace pro licencování jednotlivých stanic na malé a střední firmy.
+
+Další informace o této nabídce najdete v [podrobnostech o verzi Power BI](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/planned-features) .
+
+
+**Podrobnosti nabídky**
+
+Všimněte si, že název nabídky se mírně liší od ceníku ve verzi Preview.
+
+| Název nabídky | ID nabídky |
+| ------ |----------- |
+| Power BI Premium na uživatele | 9c810018-9356-4903-95ab-eeb956289290 | 
+| Power BI Premium na uživatele pro vyučujícího | 3affc44f-f372-4ad5-8657-aadd9574fce0 | 
+| Power BI Premium na uživatele pro studenty | 657eea87-d0b0-4c89-8c8e-9b04395bd940 | 
+| Power BI Premium na uživatele (ceny neziskových zaměstnanců) | 7a0a856c-059f-45dd-9d26-ae27992e706a | 
+| Power BI Premium pro uživatele Add-On | 244ff87e-5925-44a0-bf31-cea189719b58 | 
+| Power BI Premium Add-On na uživatele pro vyučující | 5da849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
+| Power BI Premium Add-On na uživatele pro studenty | cf62d70d-5af5-422a-bda8-97936402ac8e | 
+| Power BI Premium Add-On na uživatele (ceny neziskových zaměstnanců) | 31c03289-47ab-4ab0-8df1-03742c127ac6 | 
+
+**USL a rozšiřování geografických a segmentů zákazníků**
+
+Jako při spuštění z prosince 2020 se přidávají nabídky hlasu a marketingu pro zákazníky Dynamics 365 za účelem přidání nových zemí a dalších neziskových a vzdělávacích SKU.
+
+| Název nabídky | ID nabídky |
+| ------ |----------- |
+| Dynamics 365 Customer Voice USL (ceny neziskových zaměstnanců) | 7a8642a5-481e-4906-a642-b56dbeeb62a0 |
+| Dynamics 365 Customer Voice USL pro vyučujícího | 85162d70-9676-4cf6-a4bc-a0d6672f2657 |
+
+Další informace o těchto nabídkách najdete na následujících stránkách:
+
+- [Domovská stránka hlasu pro zákaznickou službu Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/)
+- [Domovská stránka marketingu Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/)
+
+### <a name="next-steps"></a>Další kroky
+
+Projděte si materiály k tomuto tématu a sdílejte tyto informace s příslušnými zúčastněnými stranami ve vaší organizaci.  
+
+### <a name="questions"></a>Máte otázky?
+
+Jakékoli otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru. 
 
 ________________
 ## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Univerzální tisk společnosti Microsoft je nyní k dispozici v některých sadách.

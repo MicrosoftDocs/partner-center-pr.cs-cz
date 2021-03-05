@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756162"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185345"
 ---
 # <a name="payout-statements"></a>Výpisy plateb
 
@@ -56,8 +56,7 @@ Přihlaste se k [partnerskému centru](https://partner.microsoft.com/dashboard/h
 
 ## <a name="transaction-history"></a>Historie transakcí
 
-Na stránce **historie transakcí** se zobrazuje souhrn příjmů, odhad další platby a trend a podíl plateb za posledních 36 měsíců. Z této části si také můžete stáhnout podrobnosti transakcí.
-
+Na stránce **historie transakcí** se zobrazuje souhrn příjmů, odhad další platby a trend a podíl plateb za posledních 36 měsíců. Z této části si také můžete stáhnout podrobnosti o transakcích.<br><br>Tato sestava zobrazuje všechny příjmy, které mají nárok na výběr, včetně dosud neodeslaných plateb. Tržby mají nárok na výběr, když ISV dokončí všechny bankovní a daňové informace v partnerském centru, vygenerovala >$50, účet ISV je aktivní a zákazník se účtuje (pro transakce EA) nebo platba byla přijata (pro transakce, které nejsou EA).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Přehled transakcí":::
 
