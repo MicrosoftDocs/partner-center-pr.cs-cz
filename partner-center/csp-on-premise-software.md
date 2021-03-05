@@ -1,7 +1,7 @@
 ---
 title: Prodej místního softwaru prostřednictvím CSP
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si, jak můžou partneři v programu CSP koupit, spravovat, prodávat a zrušit místní předplatné softwaru jménem zákazníků v partnerském centru.
@@ -9,27 +9,23 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756042"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220240"
 ---
-# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Prodej místního softwaru prostřednictvím programu Cloud Solution Provider (CSP)
+# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Prodej místního softwaru prostřednictvím programu Cloud Solution Provider (CSP)
 
 **Příslušné role**
 
 - Agent správce
 - Globální správce
 
-Místní software v CSP podporuje hladký přechod do cloudu tím, že zavádí místní software do programu zaměřeného na Cloud.Tato nová nabídka pomáhá přinášet partnerovi přidané hodnoty do každého scénáře nákupu, protože poskytují jedinou platformu pro protransakční všechny produkty Microsoftu. Jako CSP můžete nyní prodávat místní software prostřednictvím partnerského centra kromě otevřených, EA a dalších programů, které se právě používají. Místní software v CSP je nový program pro prodej a nemá v úmyslu nahradit žádné další multilicenční programy od Microsoftu. 
+Místní software v CSP podporuje hladký přechod do cloudu tím, že zavádí místní software do programu zaměřeného na Cloud.Tato nová nabídka pomáhá přinášet partnerovi přidané hodnoty do každého scénáře nákupu, protože poskytují jedinou platformu pro protransakční všechny produkty Microsoftu. Jako CSP můžete nyní prodávat místní software prostřednictvím partnerského centra kromě otevřených, EA a dalších programů, které se právě používají.  
  
-A současně se zachováním nejlepší celkové hodnoty zákazníků s místními možnostmi licencování softwaru jsme také obchodní model nastavili jako partneři jako možný. Jasné licencování místního softwaru v CSP znamená předvídatelnost nákladů a jednodušší prodejní proces. Tento nový obchodní model usnadňuje zakládání, správu a cenách místního softwaru pro vaše zákazníky, takže se můžete soustředit na vítěznou firmu s rozšířeným portfoliem přidaných řešení IT management. 
-
->[!NOTE]
->Místní software je aktuálně k dispozici pro omezené partnery. Pokud chcete zjistit, jestli máte nárok, podívejte se na kontakt od Microsoftu. 
-
+I když se zajišťuje nejlepší celková hodnota zákazníka s místními možnostmi licencování softwaru, vytvořili jsme také obchodní model, který je co nejjednodušší. Jasné licencování místního softwaru v CSP znamená předvídatelnost nákladů a jednodušší prodejní proces. Tento nový obchodní model usnadňuje zakládání, správu a cenách místního softwaru pro vaše zákazníky, což vám umožní soustředit se na vítězné firmu s rozšířeným portfoliem přidaných řešení IT správy.
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Nákup předplatných softwaru jménem zákazníků
 
@@ -37,18 +33,16 @@ Pokud chcete koupit předplatné softwaru jménem zákazníka, přejděte na str
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivace a správa softwarových předplatných
 
-Po zakoupení softwaru si ho zákazníci potřebují stáhnout. K tomu použijte následující postup.
+Jakmile software zakoupíte, vy nebo vaši zákazníci si ho budete muset stáhnout. K tomu použijte následující postup.
 
 >[!NOTE]
 >Chcete-li získat odkaz na klíče a soubory ke stažení, musíte být agentem správce.
 
 1. Přejít na stránku podrobností zákazníka a pak vybrat **software**. Zobrazí se seznam veškerého softwaru, který jste si koupili jménem zákazníka.
-2. Zkopírujte odkaz s přímým odkazem **na kódy Product Key a** Stáhněte a sdílejte odkaz s vaším zákazníkem. Když tento odkaz vyberou, budou přesměrováni do centra pro správu Microsoftu, kde si můžete stáhnout a získat kódy Product Key.
+2. Postupujte podle pokynů v [Průvodci partnerskými operacemi](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) a dokončete plnění softwaru jménem zákazníka.
 
 >[!NOTE]
 >Kódy Product Key a informace ke stažení můžou zobrazit jenom zákazníci v centru pro správu Microsoftu. Partneři nevidí tyto informace.
-
-Pokud vás nebo vaši zákazníci chtějí získat další informace o stahování licenčních klíčů, přečtěte si téma [Stažení softwaru a licenčních kódů produktů](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="cancel-a-purchase"></a>Zrušení nákupu
 

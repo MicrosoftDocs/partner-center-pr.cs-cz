@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124767"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220257"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>Ověření informací o profilu společnosti v partnerském centru
 
@@ -54,8 +54,7 @@ Aktualizujte svou platnou adresu na partnerském centru.
 1. Když vyberete **Odeslat**, vaše zákonná identita se přehodnotí a obdržíte další e-mail, který budete muset přijmout.
 
 >[!Important]
->Pokud jste partner Cloud Solution Provider (CSP), nemůžete změnit zemi spojenou s vaší platnou adresou. Vaše zákonná adresa země je svázána s vaším klientem a službami a s měnou, se kterou obchodujete. Pokud nejste v programu CSP, můžete změnit zemi spojenou s vaší platnou adresou. Partneři s přímým přístupem a nepřímá poskytovatelé nemohou změnit právní jméno své společnosti, pokud je stav ověření "autorizováno". Pokud potřebujete změnit název, budete muset [vytvořit lístek podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
-
+>Pokud jste partner Cloud Solution Provider (CSP), nemůžete změnit zemi spojenou s vaší platnou adresou. Vaše zákonná adresa země je svázána s vaším klientem a službami a s měnou, se kterou obchodujete. Partneři s přímým přístupem a nepřímá poskytovatelé nemohou změnit právní jméno své společnosti, pokud je stav ověření "autorizováno". Pokud potřebujete změnit název, budete muset [vytvořit lístek podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Aktualizovat globální obchodní účet programu MPN

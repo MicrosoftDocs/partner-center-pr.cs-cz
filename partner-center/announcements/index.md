@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/04/2021
-ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185277"
+ms.locfileid: "102220268"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,8 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z března 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Možnosti|[Licenční klíč softwaru partnerského centra a stažení](2021-march.md#4)|5. března|
+|Možnosti|[Migrace vašich obchodů z partnera Sales Connect (PSC) do partnerského centra](2021-march.md#3)|5. března|
 |Možnosti|[Nové produkty a nabídky společnosti Microsoft Dynamics 365, které jsou k dispozici od 1. dubna 2021](2021-march.md#2)|4. března|
 |Možnosti|[Univerzální tisk společnosti Microsoft je nyní k dispozici v některých sadách.](2021-march.md#1)|3. březen|
 |**Kategorie**|**Oznámení z února 2021**|**Datum oznámení**|

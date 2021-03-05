@@ -8,17 +8,91 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 03/04/2021
+ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185260"
+ms.locfileid: "102220291"
 ---
 # <a name="march-2021-announcements"></a>Oznámení z března 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu na březen 2021.
+
+________________
+## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Licenční klíč softwaru partnerského centra a stažení
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-03-04
+- Možnosti
+
+### <a name="summary"></a>Souhrn
+
+Funkce pro stažení softwaru partnerského centra a plnění licenčního klíče se znovu nainstalovala.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všichni partneři poskytovatele Cloud Solution Provider (CSP) postupující trvalé a serverové objednávky softwaru prostřednictvím partnerského centra
+
+### <a name="details"></a>Podrobnosti
+
+V reakci na zpětnou vazbu od partnerů aktualizujeme možnost plnění partnerského centra a získáte software a licenční klíče pro trvalé objednávky softwaru a předplatného serveru. Před odstraněním 19. ledna 2021 se obnoví do předchozího stavu. (Viz [oznámení](2020-september.md#17).)
+
+Všimněte si, že licenční klíče softwaru a odkazy ke stažení jsou cenné a vysoce vyhledané – po prostředcích duševního vlastnictví. Pokud dojde k úniku, můžou se rychle vyčerpat z jejich aktivačních limitů a způsobit negativní činnost zákazníků a partnerů.
+
+### <a name="next-steps"></a>Další kroky
+
+Pokyny k používání a důležité pokyny k distribuci softwarového klíče najdete v následujících zdrojích informací:
+
+- [Prodej místního softwaru prostřednictvím programu CSP](https://docs.microsoft.com/partner-center/csp-on-premise-software)
+- [Průvodce vytvořením nové obchodní příručky pro partnerský](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) software (viz část **pokyny k distribuci softwarových klíčů** )
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud máte další dotazy k tomuto oznámení, Projděte si příslušné komunity Yammeru.
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Migrace vašich obchodů z partnera Sales Connect (PSC) do partnerského centra
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-03-04
+- Možnosti
+
+### <a name="summary"></a>Souhrn
+
+Partner Sales Connect (PSC) se přesune k přístupu jen pro čtení od 31. března 2021, proto doporučujeme začít migrovat vaše obchody z PSC do partnerského centra.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři s obchody v PBV
+
+### <a name="details"></a>Podrobnosti
+
+V rámci našeho sdíleného závazku na růst se dá **společně prodávat pomocí Microsoftu** cesta, která se má **zjistit, zajistit vaše odbornost a rozšířit nároky zákazníků** na pozitivní výsledky zákazníků. Díky průměrnému obchodování, který je **3,5 časů rychleji** než normální, vám Správa možností společného prodeje v partnerském centru umožní prodávat přes přímé kanály zákazníka, partnera a prodejce Microsoftu a spravovat celý kanál odkazů na jednom místě.
+
+**PBV** se přesune k **přístupu jen pro čtení** od **31. března 2021**, proto doporučujeme začít přesun do partnerského centra a získat přístup k těmto vylepšením schopností: 
+
+- Přesnější **Směrování** všech obchodů, které sdílíte s Microsoftem, s dopravou prodávající na základě typu pomoci, kterou potřebujete.
+- **Ověření nároku** na zajištění opravňujícího řešení pro pobídku a pro splnění kritérií programu ISV Connect, které zjednodušují proces schvalování a konečné ověření platnosti (PoE).
+- **Bezproblémové uživatelské prostředí** pro správu všech příležitostí společného prodeje a potenciálních zákazníků na jednom místě.
+
+V partnerském centru jsme také nedávno přidali nové funkce, které vám pomůžou při přesunu:
+
+- [Hromadné operace pro společný prodej příležitostí](https://docs.microsoft.com/partner-center/bulk-operations)
+- [Funkce migrace koupě](https://docs.microsoft.com/partner-center/psc-to-pc) (viz část věnované **migraci PSC** .)
+
+S využitím možností společného prodeje v partnerském centru budou mít prodejní týmy víc času na zaměření na Nurturing potenciálních zákazníků a příležitostí, uzavírání obchodů a vytváření trvalých vztahů se zákazníky.
+
+### <a name="next-steps"></a>Další kroky
+
+Pomocí [Průvodce přechodem](https://docs.microsoft.com/partner-center/psc-to-pc) k partnerským centrům vás seznámíte s postupem migrace vašich obchodů z PSC do partnerského centra.
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud chcete mít další otázky, obraťte se na [podporu](https://partner.microsoft.com/support/?stage=1).
 
 ________________
 ## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Nové produkty a nabídky společnosti Microsoft Dynamics 365, které jsou k dispozici od 1. dubna 2021
