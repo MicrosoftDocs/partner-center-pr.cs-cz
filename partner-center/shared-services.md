@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532034"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247708"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Přidejte služby Azure partner Shared Services, aby partneři mohli koupit předplatné Azure pro vlastní použití.
 
@@ -45,7 +45,7 @@ Azure partner Shared Services je nový typ nabídky pro partnery v programu CSP,
 
 - Azure-Internal/Shared Services předplatné je nový typ nabídky Azure ve zprostředkovateli CSP, ke kterému se přistupoval prostřednictvím partnerského centra, které partneři získají k vlastnímu používání Azure.
 
-- Nabídka Azure-Internal/Shared Services je vhodná pro slevy a pobídky.  Předplatné Azure partner Shared Services má nárok a dá se použít k zakoupení služeb vzdálené instalace.
+- Předplatné Azure partner Shared Services má nárok a dá se použít k zakoupení služeb vzdálené instalace.
 
 - Nabídku Azure-Internal/Shared Services lze použít pouze pro tenanta sdílených služeb.
 
@@ -67,7 +67,7 @@ Od 1. března 2019 již Azure partner Shared Services (APSS) už nepodporuje nab
 
 |**Podpora Marketplace**   |**APSS se podporuje do 1. března 2019**|**Od 1. března 2019**|
 |---------------------------|:----------------------------|:-------------------|
-|Přineste si vlastní licenci (BYOL) a bezplatné služby   | Yes   | Ne|
+|Přineste si vlastní licenci (BYOL) a bezplatné služby   | Ano   | Ne|
 |Další nabídky na webu Marketplace třetích stran   | Ne   |Ne|
 
 Partneři, kteří mají BYOL nebo bezplatné služby nasazené pomocí APSS, nebudou ovlivněny. od 1. března 2019 ale nebude moct koupit nové BYOL nebo bezplatné služby.

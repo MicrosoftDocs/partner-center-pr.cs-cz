@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924904"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247654"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Běžné otázky k vydaným výběrům a daním
 
@@ -63,7 +63,14 @@ Je zodpovědností společnosti, aby se zajistilo, že role pobídek Admins, kte
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Platnost mého daňového profilu vypršela. Návody opravit?
 
-Pomocí kroků v části [Vytvoření nebo aktualizace daňového profilu](set-up-your-payout-account.md#create-or-update-your-tax-profile) aktualizujte svůj daňový profil. Na stránce **daňový profil** můžete zobrazit profily, jejichž platnost vypršela nebo brzy vyprší platnost ve sloupci **Datum vypršení platnosti** . 
+Pokud vypršela platnost daňového profilu nebo brzy vyprší platnost, znamená to, že je nutné aktualizovat daňový formulář, který jste poskytli společnosti Microsoft. K aktualizaci svého daňového profilu použijte následující postup:
+
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra a výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** .
+2. Vyberte **Nastavení účtu**, rozbalte část **Výběr a daň** a pak vyberte **Výběr a daňový** profil.
+3. Vybrat **daňový** profil
+4. Ověřte **Datum vypršení platnosti** sloupce a přejděte do vyprší platnost daňového profilu, jehož platnost vypršela nebo brzy vyprší.
+5. Výběrem **Upravit** spusťte proces úpravy daňového profilu.
+6. V části daňový formulář zadejte aktualizované podrobnosti.
 
 ## <a name="earnings-incorrect-or-missing"></a>Nesprávné nebo chybějící výdělky
 

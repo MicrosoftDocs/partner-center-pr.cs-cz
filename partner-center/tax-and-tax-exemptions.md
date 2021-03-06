@@ -1,7 +1,7 @@
 ---
 title: Regionální daně a daňové odchylky
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: U partnerů programu CSP se dozvíte o daňových povinnostech na oblast, o tom, jak odesílat daňové výjimky pro prodej CSP, a jak získat podporu pro daňové otázky.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755584"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247674"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Přečtěte si o daních a podrobnostech o osvobození od daně podle oblasti nebo země pro partnery v programu CSP.
 
-Platí pro:
-
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud for US Government
 
 Program poskytovatele Cloud Solution Provider (CSP) je prodejní kanál zaměřený na opětovné prodeje produktů v partnerovi. V důsledku toho nemusí společnost Microsoft vždy vyžadovat poplatky za DPH u partnerských faktur. Pravidla se liší podle země a oblasti. [Pro daňovou odchylku můžete zkontrolovat podrobnosti specifické pro danou zemi a oblast](#country-and-region-tax-details).
 
@@ -33,7 +29,6 @@ Pro Kanadu a USA jsou k dispozici specifické informace týkající se zdanění
 
 Pokud jste v jiné zemi nebo oblasti, na kterou se účtují poplatky, přečtěte si [informace pro jiné oblasti](#other-regions).
 
-Další otázky najdete [v partnerském centru pro žádosti o podporu](#support).
 
 ### <a name="canada"></a>Kanada
 
