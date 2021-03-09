@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 103b21e92ea32f251812770d66abcd413254cb36
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475224"
+ms.locfileid: "102514115"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -330,6 +330,12 @@ Všimněte si také, že v dnešní době bylo vyřazení softwaru partnerského
 ### <a name="questions"></a>Máte otázky?
 
 Jakékoli další otázky vám poskytne příslušné komunity zprostředkovatele CSP pro Yammer.
+
+### <a name="change-log"></a>Protokol změn:
+
+- 19. ledna 2021: původní publikace 
+
+- 5. března 2021: Přidání poznámky v horní části týkající se obnovení schopnosti softwaru partnerského centra a způsobu plnění licenčního klíče
 
 _____________
 ## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Připomenutí: Představujeme omezování rozhraní API pro partnery, kteří volají rozhraní API partnerského centra 
