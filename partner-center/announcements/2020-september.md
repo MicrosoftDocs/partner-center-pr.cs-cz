@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/30/2020
-ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705007"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475275"
 ---
 # <a name="september-2020-announcements"></a>Oznámení ze září 2020
 
@@ -35,6 +35,9 @@ ________________
 Všichni partneři Cloud Solution partner (CSP) – pro transakce v nabídce softwaru
 
 ### <a name="details"></a>Podrobnosti
+
+>[!NOTE]
+>Kvůli názorům na partnery aktualizujeme možnost plnění partnerského centra a získáte tak software a licenční klíče pro trvalé objednávky softwaru a předplatného serveru. Před odstraněním 19. ledna 2021 se obnoví do předchozího stavu. Další informace najdete v oznámení z [března 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
 
 Partneři v dnešní době můžou použít buď Partnerské centrum, nebo centrum pro správu Microsoft 365 ke stažení softwaru a splnění licenčního klíče pro objednávky softwaru CSP. Od **19. ledna 2021** se funkce plnění softwaru partnerského centra a licenčního klíče vyřadí a partneři budou zákazníkům nasměrovat používání **centra pro správu Microsoft 365** výhradně pro tento účel. Stránka software pro zákazníky v partnerském centru bude obsahovat "přímý odkaz" na centrum pro správu Microsoft 365, kde můžete zákazníky nasměrovat tak, aby získali licence zákazníků a stažení softwaru. Díky tomu je zajištěno nejbezpečnější a efektivní prostředí pro zákazníky.
 

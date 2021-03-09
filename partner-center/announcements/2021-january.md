@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: d07555d3559b2f8dbbb15f9cfe90753e50db0c04
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/08/2021
+ms.openlocfilehash: 103b21e92ea32f251812770d66abcd413254cb36
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756289"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475224"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -313,6 +313,9 @@ ________________
 Všichni partneři CSP
 
 ### <a name="details"></a>Podrobnosti
+
+>[!NOTE]
+>Kvůli názorům na partnery aktualizujeme možnost plnění partnerského centra a získáte tak software a licenční klíče pro trvalé objednávky softwaru a předplatného serveru. Před odstraněním 19. ledna 2021 se obnoví do předchozího stavu. Další informace najdete v oznámení z [března 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
 
 Informování [o tom, že dnes](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) oznamujeme, že komerční trvalé licence k softwaru jsou teď obecně dostupné všem PARTNERům CSP, aby je mohli prodávat. Seznam ceníků pro partnerský software partnerského centra CSP byl publikován a teď obsahuje další produkty a geografické oblasti.
 
