@@ -8,12 +8,12 @@ description: Synchronizujte odkazy v partnerském centru s konektorem pro spolup
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756791"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532031"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Konektor pro společný prodej pro Dynamics 365 CRM – přehled
 
@@ -104,7 +104,7 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
      
       7. Po přidání všech připojení byste měli ve svém prostředí zobrazit následující připojení:
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Připojení":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Připojení":::
    
 ## <a name="edit-the-connections"></a>Upravit připojení
 
@@ -141,7 +141,7 @@ Rozhraní API Webhooku partnerského centra vám umožní registrovat se na udá
 
 3. Kliknutím na ikonu **kopírování** zkopírujte zadanou adresu URL post protokolu HTTP.
 
- :::image type="content" source="images/webhook-video.gif" alt-text="Použití webhooků k registraci změn prostředků":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Použití webhooků k registraci změn prostředků":::
 
 4. Vyberte možnost pro automatizaci automatizace a pak vyberte **Spustit**.
 
@@ -205,7 +205,7 @@ Aktualizace hodnoty proměnné prostředí:
 
 3. Aktualizujte **aktuální hodnotu** (neaktualizujte výchozí hodnotu) pomocí možnosti **Nová hodnota** a zadejte hodnotu. Hodnota se musí shodovat s datovým typem proměnné, např. ano/ne. datový typ bude akceptovat buď Ano, nebo bez hodnoty.
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualizovat proměnné prostředí":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualizovat proměnné prostředí":::
 
 - Komplexní Obousměrná synchronizace odkazů v rámci společného prodeje
 
