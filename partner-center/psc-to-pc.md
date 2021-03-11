@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124818"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770262"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Průvodce spoluprodejem v partnerském centru (PC) pro partnery, kteří se migrují z partnerského prodejního připojení (PSC)
 
@@ -81,7 +81,7 @@ Jak najít správce účtu vaší společnosti:
 
    Na stránce se zobrazí všichni správci účtu se svými příslušnými e-mailovými adresami. Pošlete jednu z nich e-mailem a požádejte je o přiřazení role Správce odkazů pro váš pracovní účet.
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Obrázek znázorňující správce účtu na stránce Správa uživatelů nastavení partnera.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Obrázek znázorňující správce účtu na stránce Správa uživatelů nastavení partnera.":::
 
 >[!Important]
 >- Pokud vaše role zahrnuje jenom správu uživatelů v PSC, požádejte správce účtu vaší společnosti, aby vám přidělil roli [správce účtu](permissions-overview.md#manage-mpn-membership-and-your-company) v partnerském centru. 
@@ -95,7 +95,7 @@ Po nastavení účtu v partnerském centru můžete pomocí Průvodce migrací u
 >[!Note]
 > Migraci uživatelů můžou provádět jenom [Správci účtu](permissions-overview.md#manage-mpn-membership-and-your-company) vaší společnosti. Pokud nemáte roli správce účtu, najděte správce účtu, který vám může pomáhat s nastavením uživatelských účtů pomocí Průvodce migrací uživatele.
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Obrázek znázorňující Průvodce migrací uživatele":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Obrázek znázorňující Průvodce migrací uživatele":::
 
 Správci účtů uvidí odkaz Průvodce migrací uživatele PSC na stránce příležitosti společného prodeje vedle Průvodce referenčními postupy. Kliknutím na odkaz můžete zahájit migraci uživatelů. Aby bylo možné zahájit migraci uživatelů, mohou správci vybrat odkaz. Tento krok migrace uživatelů můžou provádět víckrát, dokud se všem uživatelům nepřiřazují správné role v partnerském centru.
 

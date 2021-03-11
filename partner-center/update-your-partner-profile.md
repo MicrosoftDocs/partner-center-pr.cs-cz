@@ -6,17 +6,17 @@ description: Zjistěte, jak ověřit podrobnosti společnosti, například prim�
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/03/2021
+ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220257"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770239"
 ---
-# <a name="verify-your-company-profile-information-in-partner-center"></a>Ověření informací o profilu společnosti v partnerském centru
+# <a name="verify-or-update-your-company-profile-information"></a>Ověření nebo aktualizace informací o profilu společnosti 
 
 **Příslušné role**
 
@@ -26,7 +26,6 @@ ms.locfileid: "102220257"
 Při prvním přihlášení do partnerského centra jako globální správce byste si měli ověřit, že jsou všechny podrobnosti o vaší společnosti správné. Mezi ně patří primární kontakt, právní jméno a adresa firmy a informace o programu. Pokud má vaše společnost více než jedno umístění, zkontrolujte přesnost dat o poloze. Jako globální správce, správce fakturace nebo Agent správce budete moci zobrazit a aktualizovat fakturační a daňové údaje.
 
 Váš partnerský profil se skládá z vašich obchodních informací, primárního kontaktního jména a e-mailu, programů, ve kterých se vaše společnost účastní, a v případě potřeby i dalších společností, které jsou teď sloučené do vaší právní firmy. Ujistěte se, že název a adresa společnosti ve vašem oficiálním obchodním profilu neobsahují pravopisné chyby a zkratky a přesně odpovídají vašim formálním záznamům o registraci firmy. Pokud pracujete jako jediný vlastník, musíte jako svůj právní název použít název vaší společnosti.
-
 
 
 ## <a name="locate-the-legal-business-profile"></a>Vyhledat obchodní profil s právními předpisy
@@ -39,22 +38,37 @@ Váš partnerský profil se skládá z vašich obchodních informací, primárn�
 
 Pokud jste své jiné společnosti sloučili v rámci svého právního podnikání, můžete si také projít tyto informace. 
 
-## <a name="update-your-legal-business-profile"></a>Aktualizujte svůj oficiální obchodní profil.
+## <a name="update-your-legal-business-profile"></a>Aktualizujte svůj oficiální obchodní profil. 
 
-Aktualizujte svou platnou adresu na partnerském centru.
+Aktualizujte svůj platný název společnosti nebo adresu v partnerském centru.
 
 >[!Important]
 >- U účtů MPN může účet globálního správce i správce účtu aktualizovat platný název společnosti.
 >- U nepřímých účtů prodejců CSP může platný název společnosti aktualizovat pouze globální správce. 
+>- Partneři s přímým přístupem a nepřímými poskytovateli nemohou změnit právní jméno své společnosti, pokud je stav ověření účtu **autorizováno**. Pokud potřebujete změnit název, musíte vytvořit [lístek podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
-1. Přejít na **Nastavení** a vybrat **Profil organizace**.
 
-2. Vyberte **právní**  a pak vyberte platný obchodní profil, který chcete použít.
+
+1. Přejít na **Nastavení**, **Nastavení účtu** a vybrat **Profil organizace**.
+
+2. Vyberte možnost **právní**  a pak vyberte oficiální obchodní profil (partnera nebo prodejce), který chcete aktualizovat.
+
+1. Klikněte na **aktualizovat**  vedle název společnosti nebo adresa a změňte podrobnosti.
  
-1. Když vyberete **Odeslat**, vaše zákonná identita se přehodnotí a obdržíte další e-mail, který budete muset přijmout.
+1. Když vyberete **Odeslat**, vaše zákonná identita se přehodnotí.
+
+1. Pokud se ověření nepovede, přečtěte si, jak [Tento problém vyřešit](verification-responses.md).
 
 >[!Important]
->Pokud jste partner Cloud Solution Provider (CSP), nemůžete změnit zemi spojenou s vaší platnou adresou. Vaše zákonná adresa země je svázána s vaším klientem a službami a s měnou, se kterou obchodujete. Partneři s přímým přístupem a nepřímá poskytovatelé nemohou změnit právní jméno své společnosti, pokud je stav ověření "autorizováno". Pokud potřebujete změnit název, budete muset [vytvořit lístek podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Pokud jste partner Cloud Solution Provider (CSP), nemůžete změnit zemi spojenou s vaší platnou adresou. Vaše zákonná adresa země je svázána s vaším klientem a službami a s měnou, se kterou obchodujete. Pokud se chcete dozvědět o aktualizacích zemí MPN, přečtěte si téma  [aktualizace zemí MPN](manage-locations.md#change-country-of-partner-global-account).
+
+
+### <a name="who-can-update-legal-business-name-and-when"></a>Kdo může aktualizovat právní název firmy a kdy
+
+|**Program**|**Kdo může aktualizovat název společnosti**|**Když (stav), je možné ho aktualizovat.**|**Povoleno**|
+|---------------------|:-------------------------------|:------------|:-----------------|
+MPN|Globální správce; Správce účtu|Cizí uložené odmítnutí| Povoleno|
+|CSP: nepřímý prodejce|Globální správce|Cizí uložené odmítnutí| Povoleno|
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Aktualizovat globální obchodní účet programu MPN
@@ -78,7 +92,6 @@ Aktualizace ID MPN přidruženého k vašemu účtu CSP:
 ## <a name="update-your-csp-legal-billing-address"></a>Aktualizujte si platnou fakturační adresu CSP.
 
 Pokud jste globálním správcem, správcem fakturace nebo agentem pro správu, můžete adresu, která se zobrazí na vaší faktuře, změnit ve vydaných **a daňových profilech**. Kvůli omezení fakturačního systému však nemůžete změnit název společnosti na faktuře.
-
 
 
 ## <a name="next-steps"></a>Další kroky

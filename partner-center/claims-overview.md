@@ -1,7 +1,7 @@
 ---
 title: Přehled funkcí pro spolupráci a deklarace identity
 ms.topic: article
-ms.date: 10/29/2020
+ms.date: 03/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Naučte se, jak odeslat úspěšnou souběžnou deklaraci vaší pobídky tím, že uspořádáte správnou dokumentaci, faktury, příkazy a provedeme kontrolu provádění.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354504"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022702"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Získat obchodní prostředky pro spolupráci
 
@@ -54,10 +54,10 @@ V tabulce níže vidíte různé doby využívání, využití a nároků na upl
 
 |  Pokud je vaše období vyvýšení/nabíhání  |Vaše fiskální pololetí je  |  Doba využití je  |  Vaše období deklarací identity je  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Červenec – prosinec 2020**| FY20 H1  |  Leden – červen 2021  |  16. února 15 2021  |
-|**Leden – červen 2021** |  FY20 H2  |  Červenec – prosinec 2021  |  Srpna 16 2021 – únor 15 2022  |
-|**Červenec – prosinec 2021**|  FY21 H1  |  Leden – červen 2022  |  16. února 15 2022  |
-|**Leden – červen 2022** |  FY21 H2  |  Červenec – prosinec 2022  |  Srpna 16 2022 – únor 15 2023  |
+|**Červenec – prosinec 2020**| FY21 H1  |  Leden – červen 2021  |  16. února 15 2021  |
+|**Leden – červen 2021** |  FY21 H2  |  Červenec – prosinec 2021  |  Srpna 16 2021 – únor 15 2022  |
+|**Červenec – prosinec 2021**|  FY22 H1  |  Leden – červen 2022  |  16. února 15 2022  |
+|**Leden – červen 2022** |  FY22 H2  |  Červenec – prosinec 2022  |  Srpna 16 2022 – únor 15 2023  |
 
 >[!NOTE]
 >Společnost Microsoft si vyhrazuje právo požadovat původní dokumenty o provedení (PoE). Po datu aktivity byste měli uchovávat všechny původní dokumenty po dobu 24 měsíců.

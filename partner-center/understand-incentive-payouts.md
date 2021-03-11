@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755865"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022804"
 ---
 # <a name="view-your-incentives-program-details"></a>Zobrazit podrobnosti o programu pobídek
 
@@ -22,18 +22,17 @@ ms.locfileid: "101755865"
 
 - Správce pobídky
 - Motivace uživatele
-- Motivovat prohlížeč jen pro čtení
 - Globální správce
 - Správce partnera MPN
 
-Tento článek vysvětluje, jak získat přístup ke stránce s **přehledem motivových motivů** , která zobrazuje celkový stav vašich motivů a také stav jednotlivých programů v jednotlivých umístěních. Poskytuje také různé stavy registrace. 
+Tento článek popisuje stránku s **přehledem mých motivů** , která zobrazuje celkový stav vašich motivů a také stav jednotlivých programů v jednotlivých umístěních. Poskytuje také různé stavy registrace.
 
 >[!NOTE]
 >Další informace o pobídek a motivačních funkcích v partnerském centru najdete v tématu [investice a pobídky partnerů](https://partner.microsoft.com/membership/partner-incentives) (vyžaduje se přihlášení).
 
 ## <a name="access-the-incentives-overview-page"></a>Přístup k stránce s přehledem motivů
 
-1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard).
+1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard).
 1. V nabídce vyberte **motivace** a pak klikněte na **Přehled** .
 1. V horní části stránky najdete souhrn příjmů a plateb a v tabulce níže najdete další podrobnosti. V doprovodné tabulce můžete také řadit, seskupovat a rozbalovat:
 

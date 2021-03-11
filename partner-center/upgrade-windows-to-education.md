@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755830"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022736"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Upgradujte některé zákazníky pro vzdělávání z Windows 10 Home na Windows 10 vzdělávání.
 
 **Příslušné role**
 
 - Agent správce
-- Agent helpdesku
+- Správce fakturace
 
 ## <a name="overview"></a>Přehled
 
@@ -57,8 +57,8 @@ Partneři by měli vytvořit žádost o podporu a získat klíče z podpory. Par
 
 - **Název:** Kód Product Key pro Windows 10 Home na Windows 10 pro upgrade vzdělávání
 - **Popis:** Vyžadování klíčů [insert number] pro povolení upgradu na vzdělávání s Windows 10. (Všimněte si, že počet požadovaných klíčů nesmí být větší než vaše Microsoft 365 licence k předplatnému Windows 10 Enterprise a3/a5.) ID předplatného zákazníka [vložit identifikátor GUID ID předplatného pro zákazníky pro svoje předplatné Microsoft 365 a3/a5 nebo Windows 10 Enterprise a3/a5.]
-- **Kontaktní číslo:** Tato akce bude vyplněna. Zkontrolujte a potvrďte nebo aktualizujte.
-- **E-mail:** Tato akce bude vyplněna a měla by se jednat o e-mail, který používáte jako správce portálu Microsoft Portal (pouze správce globálního správce nebo fakturace).
+- **Kontaktní číslo:** Tato akce bude předem vyplněna. Zkontrolujte a potvrďte nebo aktualizujte.
+- **E-mail:** Tato akce bude předem vyplněna a měla by se jednat o e-mail, který použijete jako správce portálu Microsoft (globální správce nebo správce fakturace).
 - **Preferovaný způsob kontaktu**: vyberte **telefon** nebo **Naplánujte zpětné volání**.
 
 8. Vyberte **kontakt mi**. Očekávaná čekací doba je uvedena v podokně **Potřebuji Help?** .
@@ -92,8 +92,9 @@ Zákazníci s vzděláváním by měli zvážit nízké náklady na zařízení 
 **Existuje konečný termín, kdy kontaktovat podporu a získat kód pro upgrade?**
 Upgrade Windows 10 školství je založený na aktivních předplatných Microsoft 365 a3/a5 nebo Windows 10 Enterprise a3/a5. Pokud zákazník předplatné neprodlouží nebo neobnoví, způsobila se taky platnost tohoto upgradu.
 
+## <a name="next-steps"></a>Další kroky
+
 **Kde se můžou partneři dozvědět víc o vzdělávání Windows 10?**
-Další informace získáte pomocí následujících odkazů:
 
 - [Funkce Eduction systému Windows](https://www.microsoft.com/education/products/windows/features)
 - [Centrum vzdělávání Windows](/education/windows/)

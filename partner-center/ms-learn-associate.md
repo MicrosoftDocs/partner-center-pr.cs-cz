@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756576"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022719"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Propojení nebo zrušení propojení ID certifikačního profilu (MCID) Microsoftu s účtem Microsoft Partner Network (MPN)
 
@@ -33,8 +33,7 @@ Pomocí níže uvedeného postupu získáte přístup k partnerské univerzitní
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 2. V pravém horním rohu vyberte ikonu modrý **profil** .
-3. Ve **vašem vzdělávacím** poli vyberte **získat přístup k partnerské University**.
-Váš účet partnerských univerzit se teď přidruží k vašemu uživatelskému účtu partnerského centra. Vaše posouzení se projeví v sestavě uživatelských dovedností v partnerském centru v rámci 72hrs. Nově dodaná posouzení můžou v sestavě trvat 7-10 dní.
+3. Ve **vašem vzdělávacím** poli vyberte **získat přístup k partnerské University**. Je nutné zadat své přihlašovací údaje k účtu školy partnerského serveru (ne účet partnerského centra). váš účet partnerského centra se teď bude přidružit k vašemu uživatelskému účtu partnera. Vaše posouzení se projeví v sestavě uživatelských dovedností v partnerském centru v rámci 72hrs. Nově dodaná posouzení můžou v sestavě trvat 7-10 dní.
 4. Přidružení můžete odebrat tak, že vyberete **Odebrat přístup**.
 
 ## <a name="associate-a-microsoft-learning-account"></a>Přidružit účet Microsoft Learning
@@ -48,6 +47,10 @@ K přidružení účtu Microsoft Learning použijte následující postup.
 >[!NOTE]
 >Pokud jsou přihlašovací údaje účtu Microsoft Learning stejné jako přihlašovací údaje partnerského účtu školy, vyberte **použít email@address k přidružení svého účtu Microsoft Learning**.
 
+## <a name="download-skills-report-microsoft-certification-list"></a>Stáhnout sestavu dovedností (seznam certifikace Microsoftu)
+Pokud potřebujete podrobnosti, skillsreport je k dispozici a stáhnout prostřednictvím Správce partnerů pro globálního správce nebo MPN z partnerského centra. Pro [Další informace](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data).
+
+
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Nejčastější dotazy týkající se propojování účtů
 
 ### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Jak může uživatel propojit své ID certifikačního profilu Microsoftu (MCID) s organizací Microsoft Partner Network (MPN), pro kterou pracují?
@@ -60,7 +63,7 @@ Přihlaste se k partnerskému centru, přejděte do **svého profilu** a pak vyb
 
 ### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>Uživatel opustil firmu a a teď funguje pro společnost B. Jak můžou propojit své ID certifikačního profilu Microsoftu (MCID) se společností B?
 
-Uživatel musí propojit své MCID se společností B pomocí postupu uvedeného výše. Jakmile uživatel propojí své MCID se společností B, automaticky se odpojí od společnosti A.
+Uživatel musí propojit své MCID se společností B podle výše uvedeného postupu. Jakmile uživatel propojí své MCID se společností B, automaticky se odpojí od společnosti A.
 
 ### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>Uživatel opustil firmu a a už nemá přístup k partnerskému centru. Chtějí zrušit propojení svých MCID od společnosti a a neplánuje se v současnosti propojit s jinou organizací MPN.
 

@@ -1,7 +1,7 @@
 ---
 title: Použití souborů odsouhlasení
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 03/10/2021
 description: Přečtěte si informace o souborech pro odsouhlasení v partnerském centru a o tom, jak interpretovat detailní zobrazení položek poplatků za daný fakturační cyklus.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755771"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022770"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Přečtěte si, jak číst položky řádků v souborech odsouhlasení partnerského centra.
-
-Platí pro:
-
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud for US Government
 
 **Příslušné role**
 
@@ -72,7 +67,7 @@ K namapování daně nebo daně z přidané hodnoty (DPH) na fakturu:
 
 Partneři v **nepřímém modelu** můžou použít tato další pole v souborech pro odsouhlasení založené na licencích i na základě využití k itemizeí souborů podle prodejce.
 
-| ID MPN | Popis |
+| ID MPN | Description |
 | ------ | ----------- |
 | ID MPN | Identifikátor Microsoft Partner Network (MPN) pro partnera poskytovatele Cloud Solution Provider (CSP) (přímý nebo nepřímý). |
 | [ID MPN prodejce](#reseller-mpn-id) | [Identifikátor MPN prodejce záznamu pro předplatné](#reseller-mpn-id). Toto pole odpovídá ID prodejce uvedeného u konkrétního předplatného v partnerském centru. Zobrazí se pouze v souborech pro odsouhlasení pro partnery v nepřímém modelu. |

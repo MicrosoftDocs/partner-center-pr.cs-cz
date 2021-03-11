@@ -1,19 +1,19 @@
 ---
 title: Konektor pro spoluprodeji pro partnerské Centrum Dynamics 365 CRM
+description: Synchronizujte odkazy v partnerském centru s konektorem pro spoluprodeji pro Dynamics 365 CRM. Prodejci pak můžou v rámci svých systémů CRM prodávat společně s Microsoftem.
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Synchronizujte odkazy v partnerském centru s konektorem pro spoluprodeji pro Dynamics 365 CRM. Prodejci pak můžou v rámci svých systémů CRM prodávat společně s Microsoftem.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532031"
+ms.locfileid: "102619405"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Konektor pro společný prodej pro Dynamics 365 CRM – přehled
 
@@ -88,7 +88,7 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
    - Správce CRM s Power Automate automatizuje v řešení.
 
-      1. V levém navigačním panelu vyberte **připojení** a v seznamu vyberte řešení partnerského centra pro partnery.
+      1. V levém navigačním panelu vyberte **připojení** a v seznamu vyberte řešení **partnerského centra s odkazy** .
 
       2. Vytvořte připojení kliknutím na **vytvořit připojení**.
 
@@ -110,11 +110,11 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
 1. Vraťte se na stránku **řešení** a vyberte **výchozí řešení**. Kliknutím na tlačítko **vše** vyberte **odkaz připojení (Preview)** .
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="Úprava připojení":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="Úprava připojení":::
 
 2. Každé připojení jednu po jedné upravte výběrem ikony tři tečky. Přidejte příslušná připojení.
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Uvedená připojení"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Uvedená připojení"::: 
 
 3.  Vraťte se na stránku řešení, vyberte synchronizace odkazů partnerského centra pro Dynamics 365 a zapněte tok kliknutím na tři tečky vedle každého toku v následujícím pořadí. Pokud narazíte na problémy při zapínání toku, přečtěte si [Postup přizpůsobení](connector-dynamics.md#customize-synchronization-steps) a [Postup řešení potíží](connectors-troubleshoot.md). 
 
@@ -171,19 +171,19 @@ K dispozici jsou následující možnosti přizpůsobení:
 
 - Hodnota koupě: ve výchozím nastavení se hodnota koupě z partnerského centra synchronizuje do a z **estimatedvalue** v CRM. Pokud je v aplikaci CRM k dispozici jiné pole pro synchronizaci hodnoty z:
 
-    a.    Aktualizujte název pole hodnoty obchodu v proměnné prostředí Dynamics 365 s názvem pole CRM. Všimněte si, že byste měli zadat název pole, nikoli jeho zobrazované jméno.
+  a. Aktualizujte název pole hodnoty obchodu v proměnné prostředí Dynamics 365 s názvem pole CRM. Všimněte si, že byste měli zadat název pole, nikoli jeho zobrazované jméno.
 
-    b.    Upravit **[přizpůsobení] vytvořit nebo získat podrobnosti z toku Dynamics 365**  a přejít k možnosti **vytvořit nebo aktualizovat** příležitost v CRM a aktualizovat **vytvořit novou příležitost** a **aktualizovat existující akce příležitostí** , aby bylo možné přiřadit hodnotu **DealValue** k správnému poli v CRM. Odeberte také **přiřazení DealValue** z pole **Odhadované výnosy** .
+  b. Upravit **[přizpůsobení] vytvořit nebo získat podrobnosti z toku Dynamics 365**  a přejít k možnosti **vytvořit nebo aktualizovat** příležitost v CRM a aktualizovat **vytvořit novou příležitost** a **aktualizovat existující akce příležitostí** , aby bylo možné přiřadit hodnotu **DealValue** k správnému poli v CRM. Odeberte také **přiřazení DealValue** z pole **Odhadované výnosy** .
 
 - Směrové číslo země zákazníka: při vytváření nového odkazu je nutné zadat kód země (ISO 3166) se dvěma písmeny (ISO). Ve výchozím nastavení se kód země synchronizuje do pole address1_country účtu v CRM. Pokud máte jiné pole v CRM pro kód země, ze kterého se má synchronizovat:
 
-   a.    Pro pole kód země nevyhledávání v účtu, který obsahuje kód se dvěma písmeny:
+   a. Pro pole kód země nevyhledávání v účtu, který obsahuje kód se dvěma písmeny:
 
    - Aktualizujte název pole kód země zákazníka v proměnné prostředí Dynamics 365 s názvem pole CRM. Všimněte si, že byste měli zadat název pole, nikoli jeho zobrazované jméno.
 
    - Upravit **[vlastní] vytvořit nebo získat podrobnosti z toku Dynamics 365**  a přejít k možnosti vytvořit nebo získat účet zákazníka v aplikaci CRM k přiřazení hodnoty země do správného pole v CRM. Odeberte také přiřazení hodnoty země z pole Adresa 1: země/oblast.
 
-   b.    Pro pole kód země na základě vyhledávání v účtu:
+   b. Pro pole kód země na základě vyhledávání v účtu:
 
    - Přidejte do účtu nové vlastní pole a automaticky ho vyplníte kódem země (ISO 3166) na základě hodnoty vybrané v poli vyhledávání a naopak.
 
@@ -205,7 +205,7 @@ Aktualizace hodnoty proměnné prostředí:
 
 3. Aktualizujte **aktuální hodnotu** (neaktualizujte výchozí hodnotu) pomocí možnosti **Nová hodnota** a zadejte hodnotu. Hodnota se musí shodovat s datovým typem proměnné, např. ano/ne. datový typ bude akceptovat buď Ano, nebo bez hodnoty.
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualizovat proměnné prostředí":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualizovat proměnné prostředí":::
 
 - Komplexní Obousměrná synchronizace odkazů v rámci společného prodeje
 
@@ -242,13 +242,11 @@ Následující vlastní pole by měla být součástí části CRM:
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
 
-
-
 - Po přidání řešení Microsoftu můžete předem vyplnit podrobnosti řešení připraveného k prodeji, aby je prodejci nemuseli přidávat. Pokud chcete přidat nové podrobnosti řešení, přejděte na objekt Microsoft Solution details v CRM a kliknutím na **Přidat záznam** přidejte jednu položku nebo použijte **nahrávání v Excelu** a přidejte víc položek.
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="Podrobnosti řešení":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="Podrobnosti řešení":::
 
-### <a name="scenarios"></a>ŘEŠENÍ
+### <a name="scenarios"></a>Scénáře:
 
 1. Referenční synchronizace při vytvoření nebo aktualizaci odkazu v CRM a synchronizovaných v partnerském centru:
 
@@ -265,6 +263,7 @@ Následující vlastní pole by měla být součástí části CRM:
          :::image type="content" source="images/dynamic-3a.png" alt-text="Jak získat příslušná pole v zobrazení karta":::
 
       - **Kontakt zákazníka**: Chcete-li vytvořit odkaz na společný prodej, přidejte kontakt zákazníka k příležitosti.
+
       - **Synchronizovat s partnerským centrem**: Ano
 
       - Řešení Microsoftu: Chcete-li sdílet odkaz s Microsoftem, přidejte k příležitosti platné řešení připraveného k prodeji nebo Microsoftu.
