@@ -1,7 +1,7 @@
 ---
 title: Ukazatele příspěvku partnera – certifikátů
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si o sedmi ukazatelích příspěvků partnerů (PCI), které ukazují partnery, jak dosáhnout vysoké nebo zlaté cloudové Business Applications kompetence.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756562"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193643"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Použití ukazatelů příspěvků partnerů k dosažení Business Applications kompetenci cloudu
 
@@ -274,11 +274,11 @@ Partner má jednu ze dvou možností, jak dosáhnout všech bodů (15 nebo 0 bod
 
 - **Žádné částečné body nebudou uděleny.** Nárůst nad snímkem směrného plánu musí splňovat nebo překročit prahové hodnoty uvedené v následující tabulce. Tabulka zobrazuje **vyvinutý** a **rozvojový** sloupec se směrným plánem funkčního konzultanta, který je potřeba mít nárok na získání bodů.
 
-  | Prav | Rozvíjet | Růst potřebný k získání všech 15 bodů *
+  | Prav | Rozvíjet | Růst potřebný k získání všech 15 bodů
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35 % |
   | 30–49 | 15-24 | 25% |
-  | 50 a vyšší | 25 a vyšší | 15 % |
+  | 50 a vyšší | 25 a vyšší | Zobrazit níže uvedené možnosti |
 
 **Pro získání bodů použijte možnost 2:**
 
@@ -295,7 +295,7 @@ Vývojáři jsou [indikátorem schopností](partner-contribution-indicators.md#p
 - Body pro vývojáře jsou založené na snímku aktuálního měsíce, který má maximálně 5 bodů k dispozici.
 
 - Vývojáři Customer Engagement získají kredit při splnění:
-  - PL-400<br/>**ani**
+  - PL-400<br/>**nebo**
   - MB-200 \* **a** jedna z následujících zkoušek:
     - MB-400 \* nebo MB2-716\*\*
 
