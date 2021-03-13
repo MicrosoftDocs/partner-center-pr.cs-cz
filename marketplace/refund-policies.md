@@ -1,17 +1,17 @@
 ---
 title: Zásady refundace pro Microsoft AppSource a Azure Marketplace
 description: Zjistěte, jaké jsou zásady vracení pro produkty prodávané na Microsoft AppSource a Azure Marketplace
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: article
 author: anbene
 ms.author: jeweber
 ms.date: 11/20/2020
-ms.openlocfilehash: 28792f2666f8d7fd2171002dc71b62b151b44c7b
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007485"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412671"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Zásady refundace pro Microsoft AppSource a Azure Marketplace
 
@@ -39,7 +39,7 @@ Spravované aplikace Azure nejsou nevratné.
 
 Zásady refundace pro Azure Reserved instance (RI) jsou k dispozici v [samoobslužných výměnách a refundacích pro Azure reservations](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations).
 
-## <a name="azure-support-plans"></a>plánům podpory Azure
+## <a name="azure-support-plans"></a>Plány podpory Azure
 
 Pokud svůj plán podpory Azure přenášíte nebo upravíte, můžete mít nárok na částečnou refundaci. Tato částka se překládá na základě zbývající části období předplatného.
 

@@ -1,17 +1,17 @@
 ---
 title: Nákup softwaru a řešení z Azure Marketplace
 description: Seznamte se s nástroji, které zjednodušují a zjednodušují nákupy a správu softwaru v Azure Marketplace.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584199"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412569"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace nákupu
 

@@ -1,17 +1,17 @@
 ---
 title: Nárok na přenos – pokyny pro přenos předplatného mezi fakturačními účty, Azure Marketplace
 description: Pokyny pro komerční kontroly před převodem předplatného mezi fakturačními účty v Azure Portal.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: a6a3c8954643ea982ae5107ae417a900ed51e77d
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 4b235bd462915fc205813ae86e92f98b4fd49fe4
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007468"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412552"
 ---
 # <a name="transfer-eligibility-for-a-subscription-between-billing-accounts"></a>Přenos nároků na předplatné mezi fakturačními účty
 
