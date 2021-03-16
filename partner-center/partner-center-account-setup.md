@@ -1,7 +1,7 @@
 ---
 title: Správa účtu v partnerském centru
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se používat partnerské Centrum ke správě profilu vaší společnosti, informací o bankách a daních, rolích, oprávněních a dalších.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235966"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486992"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Správa účtu partnerského centra – profil společnosti, informace o bance, role, oprávnění a další
 
@@ -26,7 +26,7 @@ ms.locfileid: "98235966"
 Podívejte se také [na články pozvaní zaměstnanci, aby se připojili k partnerskému centru](guide-to-migration.md) , a [přidejte nového uživatele](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->Nabídka nastavení účtu se změní v závislosti na programech, které jste zapsali. Pokud jste například partnerem v programu Cloud Solution Provider (CSP), budete moci spravovat sdílené služby Azure z nastavení účtu.
+>Nabídka nastavení účtu se změní v závislosti na programech, které jste zapsali. Pokud jste například partnerem v programu Cloud Solution Provider (CSP), budete moci spravovat sdílené služby Azure z **Nastavení účtu**.
 
 ## <a name="account-management"></a>Správa účtů
 
@@ -51,6 +51,20 @@ Když vyberete ikonu **Nastavení** a otevřete nabídku **Nastavení účtu** ,
 Karta partner bude obsahovat všechny právní informace o společnosti, jako jsou třeba registrované právní jméno a adresa pro vaši společnost, a také primární kontaktní a firemní umístění. Karta prodejce pro partnery, kteří provádějí CSP, zahrnuje **profil zákaznické podpory**.
 
 Pokud se vaše společnost nepodílí na CSP, výchozí zobrazení zobrazí jenom kartu **partner** , která bude obsahovat **profil zákaznické podpory**.
+
+### <a name="when-you-are-in-more-than-one-account"></a>Pokud jste ve více než jednom účtu
+
+Můžete být součástí více než jednoho účtu. V levé navigační nabídce můžete zjistit, jestli je v rámci více účtů součástí více účtů.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identifikace pro výběr účtu":::
+
+Pokud se nezobrazuje výběr účtu, budete pouze součástí jednoho účtu. 
+
+Po kliknutí na tento výběr budou všechny účty, které jsou součástí, zobrazeny jako seznam. Pak můžete kliknout na kterýkoli z nich a přepnout na tento účet. Vše, co se zobrazuje v kontextu tohoto účtu.  
+
+V následujícím příkladu je přihlášený uživatel součástí tří zvýrazněných účtů. Uživatel může mezi nimi přepínat kliknutím na účet.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Účty, jejichž součástí jste":::
 
 ## <a name="organization-profile"></a>Profil organizace
 
@@ -90,13 +104,13 @@ Tato stránka obsahuje údaje o **vyčíslení** a daních, včetně informací 
 
 ## <a name="user-management"></a>Správa uživatelů
 
-Co pracujete v partnerském centru, a oblasti, které můžete aktualizovat nebo viz, závisí na vaší roli a oprávněních připojených k této roli. Pokud nejste správcem pobídek, nebudete moct na stránkách pobídek měnit cokoli, když možná budete moct data zobrazit.
+Co pracujete v partnerském centru, a oblasti, které můžete aktualizovat nebo viz, závisí na vaší roli a oprávněních připojených k této roli. Pokud nejste správcem pobídek, nebudete moct na stránkách pobídek měnit cokoli, když možná budete moct data zobrazit. Další informace o [rolích a oprávněních](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Aktualizace preferovaného e-mailu
 
 Aktualizace preferovaného e-mailu pro příjem oznámení partnerského centra:
 
-1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard).
+1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard).
 1. Přejděte na [**Předvolby zapojení**](https://partner.microsoft.com/dashboard/engagement/preference), vyberte odkaz **změnit** , aktualizujte e-mailovou adresu a vyberte **Uložit**.
 
 ### <a name="find-your-user-role"></a>Vyhledání role uživatele

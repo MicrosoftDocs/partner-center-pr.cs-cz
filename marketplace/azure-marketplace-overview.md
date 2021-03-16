@@ -5,43 +5,54 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.custom: contperf-fy21q3
+ms.date: 03/09/2021
+ms.openlocfilehash: 96e8d686d2048856791a691ccc1d03f541ad856d
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412586"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486913"
 ---
 # <a name="what-is-azure-marketplace"></a>Co je Azure Marketplace?
 
-Azure Marketplace je online obchod s tisíci softwarovými aplikacemi a službami IT, které jsou postavené na špičkových technologických firmách. V Azure Marketplace můžete najít, vyzkoušet, koupit a nasadit software a služby, které potřebujete k vytváření nových řešení a správě cloudové infrastruktury. Katalog obsahuje řešení pro různé obory a technické oblasti, bezplatné zkušební verze a také konzultační služby od partnerů Microsoftu.
+[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) je online obchod s tisíci softwarovými aplikacemi a službami IT, které jsou postavené na špičkových technologických firmách. V Azure Marketplace můžete najít, vyzkoušet, koupit a nasadit software a služby, které potřebujete k vytváření nových řešení a správě cloudové infrastruktury. Katalog obsahuje řešení pro různé obory a technické oblasti, bezplatné zkušební verze a také konzultační služby od partnerů Microsoftu.
 
 ## <a name="find-what-you-need-in-azure-marketplace"></a>Najděte, co potřebujete v Azure Marketplace
 
-Prohledejte náš katalog podle názvu nebo procházením kategorií, jako jsou například analýzy, zabezpečení, sítě, úložiště a DevOps. Azure Marketplace zjednodušuje poskytování softwaru a správu IT (s různými cenovými možnostmi a různými metodami nasazení), které vám poskytnou flexibilitu v závislosti na vašich jedinečných obchodních potřebách. Také zjednodušuje nákupy se standardními smlouvami smluv, konsolidovanou fakturací a fakturací a správou centralizovaného předplatného.
+Azure Marketplace nabízí jednoduché možnosti hledání a filtrování, které vám pomůžou rychle najít, co hledáte. Pomocí panelu hledání v horní části stránky můžete vyhledat řešení podle dodavatele, názvu produktu nebo klíčových slov.
 
-Katalog Azure Marketplace je k dispozici z online obchodu a prostřednictvím Azure Portal.  
+:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Zobrazuje hlavní okno Azure Marketplace, kde můžete vybrat, jestli se mají Procházet aplikace nebo konzultační služby.":::
 
-### <a name="search-the-online-store"></a>Vyhledat online obchod
+Při prozkoumávání Galerie aplikací použijte filtry v horní části k zúžení výsledků na základě dostupnosti bezplatné zkušební verze nebo testovací jednotky, operačního systému, vydavatele, cenového modelu nebo typu produktu.
 
-Navštivte [online obchod](https://azuremarketplace.microsoft.com/) a v horní části vyberte, jestli se mají Procházet **aplikace** nebo **konzultační služby**. Aplikace, které jsou zde zakoupeny, budou nasazeny na Azure Marketplace.
+:::image type="content" source="media/azure-marketplace/azure-marketplace-filters.png" alt-text="Zobrazí filtry v horní části okna Azure Marketplace.":::
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="V Azure Marketplace v horní části vyberte, jestli se mají Procházet aplikace nebo konzultační služby.":::
+Podokno úplně vlevo umožňuje filtrovat katalog podle kategorií, jako jsou například analýzy, zabezpečení, sítě, úložiště a DevOps. Vyberte kategorii pro zobrazení dostupných podkategorií.
 
-Pomocí panelu hledání v horní části obrazovky nebo kategorií produktů dále dolů na stránce (není vidět výše) Najděte dokonalý Nástroj pro vaše potřeby.
+:::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="Zobrazí kategorie s podkategoriemi.":::
 
-Konzultační služby jsou k dispozici pouze v online obchodě, nikoli na Azure Portal.
+Azure Marketplace zjednodušuje poskytování softwaru a správu IT (s různými cenovými možnostmi a různými metodami nasazení), které vám poskytnou flexibilitu v závislosti na vašich jedinečných obchodních potřebách. Také zjednodušuje nákupy se standardními smlouvami smluv, konsolidovanou fakturací a fakturací a správou centralizovaného předplatného. Katalog Azure Marketplace je k dispozici z online obchodu a prostřednictvím Azure Portal.
 
-### <a name="search-in-the-azure-portal"></a>Hledat v Azure Portal
+## <a name="microsoft-preferred-solutions"></a>Upřednostňovaná řešení Microsoftu
+
+Při hledání nebo filtrování katalogu můžou výsledky zahrnovat upřednostňovaná řešení Microsoftu, která se identifikují prostřednictvím popsaných oznámení v pravém dolním rohu karty aplikace nebo znaku na stránce s podrobnostmi o produktu.
+
+:::image type="content" source="media/azure-marketplace/preferred-solution-badge.png" alt-text="Zobrazuje Azure Marketplace upřednostňovaného poskytovatele.":::
+
+Upřednostňovaná řešení si vyberou tým expertů Microsoftu a zveřejňují partneři Microsoftu s podrobnými, osvědčenými odbornými znalostmi a možnostmi pro řešení konkrétních potřeb zákazníků v kategorii, průmyslu nebo odvětvích vertikálně.
+
+## <a name="search-in-the-azure-portal"></a>Hledat v Azure Portal
 
 V Azure Portal vyberte **+ vytvořit prostředek** nebo vyhledejte "Marketplace". Pak přejděte do kategorií na levé straně nebo použijte panel hledání, který obsahuje funkci filtru.
 
 :::image type="content" source="media/azure-marketplace/azure-portal.png" alt-text="Výběr aplikací v Azure Portal.":::
 
+Konzultační služby jsou k dispozici pouze v online obchodě, nikoli na Azure Portal.
+
 ## <a name="take-action-on-a-listing"></a>Provést akci na výpisu
 
-Každý výpis v Azure Marketplace podporuje jednu nebo více následujících akcí:
+Proveďte akci se seznamem výběrem jednoho nebo více následujících možností:
 
 - **Získejte hned** – Zakupte řešení hned.
 - **Test Drive** – Prozkoumejte poukázku. Testovací jednotky nevyžadují žádnou konfiguraci. Umožňují určit, jestli řešení vyhovuje vašim obchodním potřebám, aniž byste museli používat vaše provozní data nebo prostředí.

@@ -8,17 +8,91 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/11/2021
-ms.openlocfilehash: 479f18318a2cc85ca16c399a0379e5528090d229
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.date: 03/12/2021
+ms.openlocfilehash: f5b9069ffe0ebfa15053a3ed18fc2ee3706d9c96
+ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193626"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "103480985"
 ---
 # <a name="march-2021-announcements"></a>Oznámení z března 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu na březen 2021.
+
+________________
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Aktualizace pro vývoj programu Cloud Solution Provider (CSP) a Open License změny programu
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-03-15
+- Možnosti
+
+### <a name="summary"></a>Souhrn
+
+Nový komerční a veřejný sektor trvalé nabídky softwaru přicházejí do programu Cloud Solution Provider (CSP) spolu se změnami v programu Open Licensing.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Komerční distributoři a spravováni prodejci se prodávají prostřednictvím Open License programu a také všichni partneři CSP s podporou trvalého softwaru.
+
+### <a name="details"></a>Podrobnosti
+
+V září 2020 společnost Microsoft [oznámila](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) řadu kroků v naší cestě k digitální transformaci, aby bylo možné rozšiřovat příležitosti pro partnery v programu CSP, včetně dostupnosti místního softwaru pro partnery. Tyto změny umožňují partnerům rozšiřovat svou firmu a rozšířit jejich dosah tím, že využívají licence na software v cloudu, a jejich umístění pro úspěch v dnešním cloudovém světě. Umožňují také přechody zákazníků do cloudu a poskytují partnerům potřebnou flexibilitu pro hybridní cloudová prostředí zákazníka.
+
+V návaznosti na tuto digitální transformaci oznamujeme následující změny:
+
+- 1. července 2021: do ceníku Open License programu nebudou přidány žádné nové SKU, produkty ani propagační akce.
+
+- 7. července 2021: dvě komerční nabídky, Získejte originální Windows a Visual Studio Professional a nabídky veřejného sektoru (státní, vzdělávací a neziskové – viz [oznámení](https://docs.microsoft.com/partner-center/announcements/2020-december#9)) se přidají do ceníku trvalého softwaru CSP.  Ceník najdete v části software [nabídky prodej > price & nabízí](https://partnercenter.microsoft.com/pcv/sales) stránku v partnerském centru a bude se v tomto datu znovu publikovat.
+
+Úplné podrobnosti týkající se vývoje programu CSP a Open License programových změn naleznete v **následujících krocích** níže.
+
+### <a name="next-steps"></a>Další kroky:
+
+- Vývoj programu CSP: Projděte si [Trvalá softwarová řešení v materiálech připravenosti programu Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Pomocí této [mapy připravenosti](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) můžete rychle najít správné informace pro vaši roli.
+
+- Změny Open License programu: Přečtěte si materiály pro [vývoj programu CSP a Open License program změny](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) připravenosti. Pomocí této [mapy připravenosti](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) můžete rychle najít správné informace pro vaši roli.
+
+### <a name="questions"></a>Dotazy
+
+Jakékoli další otázky vám poskytne příslušné komunity zprostředkovatele CSP pro Yammer.
+
+_______________
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>Aktualizace na předchozí oznámení: posouzení Premium, doplněk ke Správci dodržování předpisů
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-03-15
+- Podpora růstu vaší firmy
+
+### <a name="summary"></a>Souhrn
+
+Nabídky zkušební verze by neměly být uvedené na ceníku a budou se odeberou.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Transakce partnerů prostřednictvím poskytovatele Cloud Solution Provider
+
+### <a name="details"></a>Podrobnosti
+
+Ceník by neměl být zahrnut do ceníku. Ty se odeberou z ceníku 1. května 2021.
+
+Původní oznámení [najdete tady](https://docs.microsoft.com/partner-center/announcements/2021-february#4).
+
+### <a name="additional-resources"></a>Další zdroje informací
+
+- [Microsoft 365 zabezpečení E5 a dodržování předpisů](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
+
+- [Sestavování a Správa hodnocení v nástroji Microsoft dodržování předpisů – Microsoft 365 dodržování předpisů | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments?view=o365-worldwide)
+
+### <a name="next-steps"></a>Další kroky
+
+Projděte si materiály k tomuto tématu a sdílejte tyto informace s příslušnými zúčastněnými stranami ve vaší organizaci.
+
+### <a name="questions"></a>Máte otázky?
+
+Otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru.
 
 ________________
 ## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Migrace řešení od jednoho komerčního partnera (OCP) přejít na trh (GTM) do komerčního tržiště Microsoftu

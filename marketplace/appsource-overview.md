@@ -5,13 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 03/12/2021
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412518"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486856"
 ---
 # <a name="what-is-microsoft-appsource"></a>Co je Microsoft AppSource?
 
@@ -21,13 +22,25 @@ Katalog AppSource zahrnuje aplikace typu software jako služba (SaaS), řešení
 
 ## <a name="find-what-you-need-on-appsource"></a>Hledání, co potřebujete na AppSource
 
-AppSource nabízí jednoduché možnosti hledání a filtrování, které vám pomůžou rychle najít, co hledáte. Pomocí panelu hledání v horní části stránky můžete vyhledat řešení podle dodavatele, názvu produktu nebo klíčových slov. Použijte filtry v horní části stránky k zúžení výsledků na základě dostupnosti bezplatné zkušební verze nebo testovacích jednotek, cenového modelu (bezplatného nebo placeného) a hodnocení.
+AppSource nabízí jednoduché možnosti hledání a filtrování, které vám pomůžou rychle najít, co hledáte. Pomocí panelu **hledání** v horní části stránky můžete vyhledat řešení podle dodavatele, názvu produktu nebo klíčových slov.
 
-Podokno úplně vlevo umožňuje filtrovat výsledky na základě seznamu typů produktů, kategorií a oborů. Typy produktů AppSource jsou založené na produktech, jako jsou Microsoft 365 a Power Apps. Kategorie jsou založené na obchodních funkcích, jako je spolupráce a marketing. Můžete si také vybrat ze seznamu oborů, jako je například zemědělství a výroba.
+[![Zobrazuje úvodní stránku Microsoft Appsource.](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+Při prozkoumávání [Galerie aplikací](https://appsource.microsoft.com/marketplace/apps)použijte filtry v horní části stránky k zúžení výsledků na základě dostupnosti bezplatné zkušební verze nebo testovacích jednotek, cenového modelu (bezplatného nebo placeného) a zákaznického hodnocení.
+
+Podokno úplně vlevo umožňuje filtrovat výsledky na základě seznamu typů produktů, kategorií a oborů. AppSource typy produktů jsou založené na produktech, jako je Microsoft 365, Dynamics 365 a Power Platform. Kategorie jsou založené na obchodních funkcích, jako je prodej, spolupráce nebo marketing. Můžete si také vybrat ze seznamu oborů, jako jsou finanční služby, zdravotnictví a distribuce.
+
+## <a name="microsoft-preferred-solutions"></a>Upřednostňovaná řešení Microsoftu
+
+Při hledání nebo filtrování katalogu můžou výsledky zahrnovat upřednostňovaná řešení Microsoftu, která se identifikují prostřednictvím popsaných oznámení v pravém dolním rohu karty aplikace nebo znaku na stránce s podrobnostmi o produktu.
+
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="Zobrazuje AppSource preferovaného poskytovatele.":::
+
+Upřednostňovaná řešení si vyberou tým expertů Microsoftu a zveřejňují partneři Microsoftu s podrobnými, osvědčenými odbornými znalostmi a možnostmi pro řešení konkrétních potřeb zákazníků v kategorii, průmyslu nebo odvětvích vertikálně.
 
 ## <a name="take-action-on-a-listing"></a>Provést akci na výpisu
 
-Po výběru aplikace z _výsledků aplikace_ se zobrazí stránka se seznamem této aplikace. Každý výpis v AppSource podporuje jednu nebo více následujících možností výpisu:
+Výběrem aplikace z *výsledků aplikace* zobrazíte stránku pro výpis této aplikace. Proveďte akci se seznamem výběrem jednoho nebo více následujících možností:
 
 - **Získat hned**: koupit řešení hned.
 - **Testovací** verze: Prozkoumejte dodanou ukázku. Testovací jednotka nepoužívá vaše produkční data ani prostředí, ale umožňuje určit, jestli řešení vyhovuje vašim obchodním potřebám.
