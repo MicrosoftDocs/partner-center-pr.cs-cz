@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103481009"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570171"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z března 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Škálování & škály při zvyšování produktivity|[Aktualizace názvu právní společnosti prostřednictvím partnerského centra](2021-march.md#9)|16. března|
 |Možnosti|[Aktualizace pro vývoj programu Cloud Solution Provider (CSP) a Open License změny programu](2021-march.md#8)|15. března|
 |Rozšiřte svou firmu|[Aktualizace na předchozí oznámení: posouzení Premium, doplněk ke Správci dodržování předpisů](2021-march.md#7)|15. března|
 |Možnosti|[Migrace řešení od jednoho komerčního partnera (OCP) přejít na trh (GTM) do komerčního tržiště Microsoftu](2021-march.md#6)|12. března|

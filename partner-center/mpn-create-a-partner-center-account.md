@@ -1,7 +1,7 @@
 ---
 title: Vytvoření účtu MPN v partnerském centru
 ms.topic: article
-ms.date: 02/08/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Přečtěte si, jak Microsoft Partner Network členové mohou vytvořit účet partnerského centra za účelem správy svých síťových výhod a kompetencí.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100013686"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570205"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Vytvoření účtu MPN v partnerském centru pro správu výhod a kompetencí sítě
 
@@ -40,7 +40,8 @@ Až budete připraveni vytvořit účet v partnerském centru, budete muset mít
 
 ## <a name="get-started"></a>Začínáme
 
-1. Začněte s pracovním e-mailem, který je dán vaší firmou jako you@yourcompanyname.com .
+1. Na stránce [**Začínáme Začněte svou**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) pracovní e-mailem, jako jste na základě vaší společnosti you@yourcompanyname.com .
+
  
     a.  Aby bylo možné pokračovat, musí být e-mailová adresa platná a dostupná, protože vám pošleme ověřovací kód.
 

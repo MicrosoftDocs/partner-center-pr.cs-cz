@@ -8,17 +8,60 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: f5b9069ffe0ebfa15053a3ed18fc2ee3706d9c96
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103480985"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570188"
 ---
 # <a name="march-2021-announcements"></a>Oznámení z března 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu na březen 2021.
+
+________________
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Aktualizace názvu právní společnosti prostřednictvím partnerského centra
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-03-16
+- Škálování & škály při zvyšování produktivity
+
+### <a name="summary"></a>Souhrn
+
+Od března 2021 se partneři Microsoft Partner Network (MPN) a poskytovatelé Cloud Solution Provider (CSP) můžou prostřednictvím partnerského centra aktualizovat svůj zákonný název společnosti.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři programu MPN a neposkytovatelé nepřímých poskytovatelů CSP (neplatí pro partnery s přímým účtováním CSP)
+
+### <a name="details"></a>Podrobnosti
+
+Od března 2021 partneři programu MPN a nepřímý prodej CSP můžou aktualizovat svůj právní název společnosti prostřednictvím partnerského centra v souladu se svým vlastním způsobem. S touto novou funkcí už partneři nebudou muset odeslat lístek podpory pro partnerský partner, aby aktualizovali jeho název společnosti. Tím se při provádění těchto aktivit uloží značná doba pro partnery.
+
+Pomocí následujících kroků aktualizujte název platné společnosti:
+
+1. Účet globálního správce nebo správce účtů se musí přihlásit do partnerského centra a přejít na [Nastavení účtu](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn).
+
+2. Aktualizujte název právní společnosti.
+
+3. Po uložení aktualizovaného názvu ověří společnost Microsoft poskytnuté informace. Ověřování může být vyřízeno pět až 7 dní.
+
+4. Po dokončení ověření bude aktualizovaný právní název přidružen k partnerskému tenantovi.
+
+5. Pokud se stav ověření změní na odmítnuto, Projděte si téma [ověření informací o účtu](https://docs.microsoft.com/partner-center/verification-responses) pro vyřešení problému.
+
+>[!NOTE]
+>Ujistěte se, že název společnosti ve vašem oficiálním obchodním profilu není bez pravopisných chyb a zkratek a přesně odpovídá vašim oficiálním registračním záznamům společnosti. Další informace o aktualizaci profilu vaší organizace najdete v tématu [ověření profilu vaší organizace](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile).
+
+### <a name="next-steps"></a>Další kroky
+
+Tyto informace můžete sdílet v rámci organizace, aby mohl příslušný tým zkontrolovat a aktualizovat své procesy.
+
+### <a name="questions"></a>Máte otázky?
+
+Obraťte se prosím na [podporu](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) s dotazy, dotazy nebo dalšími informacemi.
 
 ________________
 ## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Aktualizace pro vývoj programu Cloud Solution Provider (CSP) a Open License změny programu
