@@ -1,7 +1,7 @@
 ---
 title: Vytvoření účtu MPN v partnerském centru
 ms.topic: article
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Přečtěte si, jak Microsoft Partner Network členové mohou vytvořit účet partnerského centra za účelem správy svých síťových výhod a kompetencí.
@@ -9,19 +9,19 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570205"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712915"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Vytvoření účtu MPN v partnerském centru pro správu výhod a kompetencí sítě
 
 
 Pokud s Microsoft Partner Network (MPN) začínáte a nemáte ID MPN, můžete zahájit registraci podle [pokynů k registraci](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
-## <a name="prerequisites"></a>Požadavky 
+## <a name="prerequisites"></a>Předpoklady 
 
 Až budete připraveni vytvořit účet v partnerském centru, budete muset mít k dispozici následující položky.  Než začnete, může trvat několik minut, než se shromáždí tyto položky:
 
@@ -40,14 +40,14 @@ Až budete připraveni vytvořit účet v partnerském centru, budete muset mít
 
 ## <a name="get-started"></a>Začínáme
 
-1. Na stránce [**Začínáme Začněte svou**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) pracovní e-mailem, jako jste na základě vaší společnosti you@yourcompanyname.com .
+1. Na stránce [**Začínáme začněte s**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) pracovním e-mailem, který jste získali od vaší společnosti, například you@yourcompanyname.com .
 
  
-    a.  Aby bylo možné pokračovat, musí být e-mailová adresa platná a dostupná, protože vám pošleme ověřovací kód.
+    a.  E-mailová adresa musí být platná a přístupná, protože k tomuto e-mailu pošleme ověřovací kód, aby bylo možné pokračovat.
 
-    b.  E-mailová adresa nesmí obsahovat slova "info", "admin", "" email@. . Nebo " marketing@.. .", protože tyto možnosti nejsou podporovány.
+    b.  E-mailová adresa by neměla obsahovat slova "info", "admin", "" email@ . Nebo " marketing@.. ."; tyto formáty adres se nepodporují.
 
-    c.  K nákupu map nebo správě kompetencí budete muset upgradovat tento účet tím, že ověříte doménu a nastanete se správcem. 
+    c.  K nákupu map nebo správě kompetencí budete muset upgradovat tento účet tím, že [ověříte doménu](become-global-admin.md) a stanete se správcem. 
 
 2. Můžete se přihlásit pomocí pracovního účtu Office 365, například you@contoso.onmicrosoft.com .
 
@@ -58,8 +58,11 @@ Až budete připraveni vytvořit účet v partnerském centru, budete muset mít
 
 Můžete buď vyhledat profil společnosti, nebo zadat informace společnosti ručně. Pokud je vaše společnost zaregistrovaná v rámci [telefonického připojení & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), použijte Duns ID a vyhledejte informace o vaší společnosti. Pokud chcete zadat podrobnosti o vaší společnosti sami, vyberte **ručně**.
 
-Po zadání informací o společnosti zadejte primární kontaktní informace a pak vyberte **zaregistrovat nyní**.
-Primární kontakt by měl být osoba ve vaší společnosti, kterou můžeme kontaktovat o vaší aplikaci (může to být vy nebo jiný uživatel ve vaší společnosti).
+Pokud je vaše společnost umístěná v **Arménii**, **Maďarsku**, **Kyrgyzstánu**, **Moldávie**, **Uzbekistánu** nebo **Rusku** a Vy zadáte adresu ručně, budeme vaši adresu ověřit za vás. Pokud se ten, který zadáte, liší od ověřeného, doporučujeme použít ověřenou adresu. Tím se zajistí, že prvky adresy budou standardizované podle definice poštovní autority země, správného formátování a přípravné.  
+
+Jakmile poskytnete informace o společnosti, zadejte primární kontaktní informace. Primární kontakt by měl být osoba ve vaší společnosti, kterou můžeme kontaktovat o vaší aplikaci (Tento kontakt vám může být vy nebo jiný uživatel ve vaší společnosti).
+
+4. Vyberte možnost **zaregistrovat nyní**.
 
 >[!IMPORTANT]
 >Abychom vám pomohli zajistit zabezpečení a ochranu osobních údajů vaší společnosti, pošleme primární kontakt e-mailem k ověření e-mailové adresy a ujistěte se, že e-mailová adresa patří vaší společnosti Když primární kontakt ověří e-mailovou adresu, budeme pokračovat v naší kontrole informací, které jste zadali. Ověření obvykle trvá 3-5 pracovních dnů. 
@@ -75,14 +78,14 @@ Můžete si také zobrazit další důležité informace, jako jsou ID programu 
 
 ## <a name="next-steps"></a>Další kroky
 
--   [Přidat uživatele účtu a přiřadit k nim oprávnění](create-user-accounts-and-set-permissions.md)
+-  [Přidat uživatele účtu a přiřadit k nim oprávnění](create-user-accounts-and-set-permissions.md)
 
--   [Nákup nebo prodloužení platnosti předplatného programu Microsoft Action Pack](mpn-get-action-pack.md)
+-  [Nákup nebo prodloužení platnosti předplatného programu Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Správa výhod členství](manage-your-partner-network-benefits.md)
+-  [Správa výhod členství](manage-your-partner-network-benefits.md)
 
--   [Další informace o požadavcích na kompetenci pro zlaté a stříbrné členství](https://partner.microsoft.com/membership/competencies)
+-  [Další informace o požadavcích na kompetenci pro zlaté a stříbrné členství](https://partner.microsoft.com/membership/competencies)
 
--   [Vytvoření obchodního profilu a získání potenciálních zákazníků od Microsoftu](create-a-marketing-profile.md)
+-  [Vytvoření obchodního profilu a získání potenciálních zákazníků od Microsoftu](create-a-marketing-profile.md)
 
--   [Získat a spravovat prodejní zájemce od Microsoftu](manage-leads.md)
+-  [Získat a spravovat prodejní zájemce od Microsoftu](manage-leads.md)

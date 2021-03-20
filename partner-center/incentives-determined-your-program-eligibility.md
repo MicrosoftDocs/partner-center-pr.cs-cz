@@ -1,25 +1,21 @@
 ---
 title: Motivovat nárok na program
-description: Ujistěte se, že váš program pro pobídky máte nárok, abyste mohli platit. Tento proces zahrnuje kontrolu způsobilosti v příručce programu.
+description: Ujistěte se, že jste splnili požadavky na způsobilost pro program pobídek. Tento proces zahrnuje kontrolu způsobilosti v příručce programu.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527763"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712153"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Určení nároku na program pobídek
-
-**Platí pro**:
-
-- Partnerské centrum
 
 **Příslušné role**:
 
@@ -40,7 +36,11 @@ Konkrétní podmínky zakládající nárok na váš program najdete v průvodci
 
 3. Vyberte program, který chcete.
 
-4. V poli **Podrobnosti o programu** vyberte **Průvodce programem**.
+4. V poli **stav** vyberte požadavky na **způsobilost**.
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Snímek obrazovky je příkladem požadavků na motivaci.":::
+
+5. Aby bylo možné splnit nárok, je třeba dokončit všechny oblasti, které nejsou zaškrtnuté. Každý program pobídek má svou vlastní sadu požadavků.
 
 ## <a name="next-steps"></a>Další kroky
 

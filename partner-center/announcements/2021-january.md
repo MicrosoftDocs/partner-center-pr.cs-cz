@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514115"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712456"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -315,7 +315,7 @@ Všichni partneři CSP
 ### <a name="details"></a>Podrobnosti
 
 >[!NOTE]
->Kvůli názorům na partnery aktualizujeme možnost plnění partnerského centra a získáte tak software a licenční klíče pro trvalé objednávky softwaru a předplatného serveru. Před odstraněním 19. ledna 2021 se obnoví do předchozího stavu. Další informace najdete v oznámení z [března 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Kvůli názorům na partnery aktualizujeme možnost plnění partnerského centra a získáte tak software a licenční klíče pro trvalé objednávky softwaru a předplatného serveru. Před odstraněním 19. ledna 2021 se obnoví do předchozího stavu. Další informace najdete v oznámení z [března 2021](./2021-march.md#4).
 
 Informování [o tom, že dnes](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) oznamujeme, že komerční trvalé licence k softwaru jsou teď obecně dostupné všem PARTNERům CSP, aby je mohli prodávat. Seznam ceníků pro partnerský software partnerského centra CSP byl publikován a teď obsahuje další produkty a geografické oblasti.
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705041"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712541"
 ---
 # <a name="december-2020-announcements"></a>Oznámení z prosince 2020
 
@@ -274,6 +274,9 @@ Všichni partneři CSP
 
 ### <a name="details"></a>Podrobnosti
 
+>[!NOTE]
+>Kvůli názorům na partnery aktualizujeme možnost plnění partnerského centra a získáte tak software a licenční klíče pro trvalé objednávky softwaru a předplatného serveru. Před odstraněním 19. ledna 2021 se obnoví do předchozího stavu. Další informace najdete v oznámení z [března 2021](./2021-march.md#4).
+
 Rádi bychom vám připomenout, že od **19. ledna 2021** budou všichni partneři zaregistrované v programu CSP moci prodávat komerční trvalé licence softwaru pro místní nasazení prostřednictvím CSP. Zákazníci tak získají flexibilitu licencování, kterou potřebují v rámci své digitální transformace.
 
 K následujícímu datu dojde také:
@@ -301,6 +304,12 @@ Zkontrolujte následující zdroje a sdílejte je s příslušnými kontakty ve 
 ### <a name="questions"></a>Máte otázky?
 
 Další otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru.
+
+### <a name="change-log"></a>Protokol změn:
+
+- 17. prosince 2020: původní publikace 
+
+- 5. března 2021: Přidání poznámky v horní části týkající se obnovení schopnosti softwaru partnerského centra a plnění licenčního klíče.
 
 ______________
 

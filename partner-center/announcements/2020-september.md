@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514081"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712507"
 ---
 # <a name="september-2020-announcements"></a>Oznámení ze září 2020
 
@@ -37,7 +37,7 @@ Všichni partneři Cloud Solution partner (CSP) – pro transakce v nabídce sof
 ### <a name="details"></a>Podrobnosti
 
 >[!NOTE]
->Kvůli názorům na partnery aktualizujeme možnost plnění partnerského centra a získáte tak software a licenční klíče pro trvalé objednávky softwaru a předplatného serveru. Před odstraněním 19. ledna 2021 se obnoví do předchozího stavu. Další informace najdete v oznámení z [března 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Kvůli názorům na partnery aktualizujeme možnost plnění partnerského centra a získáte tak software a licenční klíče pro trvalé objednávky softwaru a předplatného serveru. Před odstraněním 19. ledna 2021 se obnoví do předchozího stavu. Další informace najdete v oznámení z [března 2021](./2021-march.md#4).
 
 Partneři v dnešní době můžou použít buď Partnerské centrum, nebo centrum pro správu Microsoft 365 ke stažení softwaru a splnění licenčního klíče pro objednávky softwaru CSP. Od **19. ledna 2021** se funkce plnění softwaru partnerského centra a licenčního klíče vyřadí a partneři budou zákazníkům nasměrovat používání **centra pro správu Microsoft 365** výhradně pro tento účel. Stránka software pro zákazníky v partnerském centru bude obsahovat "přímý odkaz" na centrum pro správu Microsoft 365, kde můžete zákazníky nasměrovat tak, aby získali licence zákazníků a stažení softwaru. Díky tomu je zajištěno nejbezpečnější a efektivní prostředí pro zákazníky.
 
@@ -78,7 +78,7 @@ Všichni partneři v CSP a otevřené programy
 ### <a name="details"></a>Podrobnosti
 
 >[!NOTE]
->Kvůli názorům na partnery aktualizujeme možnost plnění partnerského centra a získáte tak software a licenční klíče pro trvalé objednávky softwaru a předplatného serveru. Před odstraněním 19. ledna 2021 se obnoví do předchozího stavu. Další informace najdete v oznámení z [března 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Kvůli názorům na partnery aktualizujeme možnost plnění partnerského centra a získáte tak software a licenční klíče pro trvalé objednávky softwaru a předplatného serveru. Před odstraněním 19. ledna 2021 se obnoví do předchozího stavu. Další informace najdete v oznámení z [března 2021](./2021-march.md#4).
 
 Program Microsoft CSP byl exponenciálně vzrostl s více než 90 000 zúčastněnými společnostmi. Jedná se o náš primární partnerský prodejní pohyb pro malé a střední firmy a pro menší podnikové zákazníky v rámci nového prostředí pro obchod. V tomto potenciál jsme dnes oznámili rozšiřování příležitostí k partnerům v programu CSP. Podrobnosti najdete v našem [blogovém příspěvku o partnerovi](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 

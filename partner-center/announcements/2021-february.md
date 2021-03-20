@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124784"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712473"
 ---
 # <a name="february-2021-announcements"></a>Oznámení z února 2021
 
@@ -77,7 +77,7 @@ Společně přidávané partneři teď můžou exportovat a importovat přílež
 
 ### <a name="next-steps"></a>Další kroky
 
-Další informace o funkcích hromadného provozu najdete v tématu [hromadné operace pro společný prodej příležitostí pomocí souborů s hodnotami oddělenými čárkou (CSV)](https://docs.microsoft.com/partner-center/bulk-operations).
+Další informace o funkcích hromadného provozu najdete v tématu [hromadné operace pro společný prodej příležitostí pomocí souborů s hodnotami oddělenými čárkou (CSV)](../bulk-operations.md).
 
 ### <a name="questions"></a>Máte otázky?
 
@@ -107,7 +107,7 @@ Partneři s obchody v PSC teď můžou rychleji přesunout a využít tak výhod
 
 ### <a name="next-steps"></a>Další kroky
 
-Další informace o funkci migrace služby rozdat najdete v části věnované **migraci PSC** v tématu [Průvodce pro Spoluprodej v partnerském centru (PC) pro partnery, kteří se migrují z partnera Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+Další informace o funkci migrace služby rozdat najdete v části věnované **migraci PSC** v tématu [Průvodce pro Spoluprodej v partnerském centru (PC) pro partnery, kteří se migrují z partnera Sales Connect (PSC)](../psc-to-pc.md).
 
 ### <a name="questions"></a>Máte otázky?
 
@@ -139,7 +139,7 @@ Všimněte si, že obchody v rámci partnerských partnerů se dají upgradovat 
 
 ### <a name="next-steps"></a>Další kroky
 
-Další informace najdete v naší příručce pro [správu příležitostí společného prodeje v partnerském centru](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities).
+Další informace najdete v naší příručce pro [správu příležitostí společného prodeje v partnerském centru](../manage-co-sell-opportunities.md).
 
 ### <a name="questions"></a>Máte otázky?
 

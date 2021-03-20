@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770239"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712592"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Ověření nebo aktualizace informací o profilu společnosti 
 
@@ -55,7 +55,7 @@ Aktualizujte svůj platný název společnosti nebo adresu v partnerském centru
 
 1. Klikněte na **aktualizovat**  vedle název společnosti nebo adresa a změňte podrobnosti.
  
-1. Když vyberete **Odeslat**, vaše zákonná identita se přehodnotí.
+1. Když vyberete **Odeslat**, vaše zákonná identita se přehodnotí. Přehodnoťte pouze to, co jste změnili.
 
 1. Pokud se ověření nepovede, přečtěte si, jak [Tento problém vyřešit](verification-responses.md).
 

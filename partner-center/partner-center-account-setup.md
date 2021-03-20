@@ -1,7 +1,7 @@
 ---
 title: Správa účtu v partnerském centru
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se používat partnerské Centrum ke správě profilu vaší společnosti, informací o bankách a daních, rolích, oprávněních a dalších.
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103486992"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712836"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Správa účtu partnerského centra – profil společnosti, informace o bance, role, oprávnění a další
 
 **Příslušné role** – globální správce
 - Správce účtu MPN
 
-Účet, který vytvoříte v partnerském centru při registraci, je váš pracovní e-mail a vaše firemní informace. Po vytvoření účtu se dokončí nastavení úplného profilu vaší společnosti, včetně podrobností o podpoře, případného případného osvobození od daně ze souboru a primárních kontaktních informací. Účet vaší společnosti bude také obsahovat uživatelské účty pro kohokoli, kdo bude používat partnerské Centrum pro přidávání a správu zákazníků, prodej předplatných, práci s fakturací a fakturaci, vytváření obchodních profilů, správu odkazů, práci s pobídkami a poskytování podpory.
+Účet, který vytvoříte v partnerském centru při registraci, je váš pracovní e-mail a vaše firemní informace. Po vytvoření účtu se dokončí nastavení úplného profilu vaší společnosti, včetně podrobností o podpoře, případného případného osvobození od daně ze souboru a primárních kontaktních informací. Účet vaší společnosti bude také obsahovat uživatelské účty pro kohokoli v týmu, kteří budou používat Partnerské centrum. Práce, která může dělat, zahrnuje přidávání a správu zákazníků, prodej předplatných, práci s fakturací a fakturaci, vytváření obchodních profilů, správu odkazů, práci s motivy programu, poskytování podpory a další.
 
 Podívejte se také [na články pozvaní zaměstnanci, aby se připojili k partnerskému centru](guide-to-migration.md) , a [přidejte nového uživatele](create-user-accounts-and-set-permissions.md).
 
@@ -30,7 +30,7 @@ Podívejte se také [na články pozvaní zaměstnanci, aby se připojili k part
 
 ## <a name="account-management"></a>Správa účtů
 
-Pokud chcete získat přístup ke správě účtů v partnerském centru pro všechny partnery, komerční a vývojář, přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard) partnerského centra a vyberte **Nastavení** (ikona ozubeného kolečka) v pravém horním rohu obrazovky a pak klikněte na **Nastavení účtu**. Už si nemusíte volit mezi partnerskými a vývojářskými nastaveními, protože všechny profily a nastavení jsou teď kombinované.
+Všichni komerční a Developer partneři mají přístup ke **správě účtů** v partnerském centru přihlášením k [řídicímu panelu](https://partner.microsoft.com/dashboard) partnerského centra a výběrem **Nastavení** (ikona ozubeného kolečka) v pravém horním rohu obrazovky a pak na **Nastavení účtu**. Už si nemusíte volit mezi partnerskými a vývojářskými nastaveními. Všechny profily a nastavení jsou nyní kombinovány.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="ikona nastavení":::
 
@@ -50,13 +50,13 @@ Když vyberete ikonu **Nastavení** a otevřete nabídku **Nastavení účtu** ,
 
 Karta partner bude obsahovat všechny právní informace o společnosti, jako jsou třeba registrované právní jméno a adresa pro vaši společnost, a také primární kontaktní a firemní umístění. Karta prodejce pro partnery, kteří provádějí CSP, zahrnuje **profil zákaznické podpory**.
 
-Pokud se vaše společnost nepodílí na CSP, výchozí zobrazení zobrazí jenom kartu **partner** , která bude obsahovat **profil zákaznické podpory**.
+Pokud se vaše společnost nepodílí na CSP, výchozí zobrazení zobrazí jenom kartu **partner** , která bude obsahovat **profil zákaznická podpora**.
 
 ### <a name="when-you-are-in-more-than-one-account"></a>Pokud jste ve více než jednom účtu
 
 Můžete být součástí více než jednoho účtu. V levé navigační nabídce můžete zjistit, jestli je v rámci více účtů součástí více účtů.
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identifikace pro výběr účtu":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifikace pro výběr účtu":::
 
 Pokud se nezobrazuje výběr účtu, budete pouze součástí jednoho účtu. 
 
@@ -64,7 +64,7 @@ Po kliknutí na tento výběr budou všechny účty, které jsou součástí, zo
 
 V následujícím příkladu je přihlášený uživatel součástí tří zvýrazněných účtů. Uživatel může mezi nimi přepínat kliknutím na účet.
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Účty, jejichž součástí jste":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Účty, jejichž součástí jste":::
 
 ## <a name="organization-profile"></a>Profil organizace
 
@@ -74,11 +74,17 @@ Tyto stránky můžete použít ke správě podrobných oblastí vaší firmy, v
 
 ### <a name="legal-info"></a>Právní informace
 
-Když se poprvé připojíte k partnerskému centru, vaše společnost projde procesem ověřování s Microsoftem. Stav ověřování můžete sledovat na stránce **právní informace** . Zobrazuje primární kontakt (který bude kontaktovat společnost Microsoft ohledně partnerských otázek), jakož i hlavní zákonný kontakt (osoba, která spravuje vaše právní informace a stav). Tady jsou uvedená všechna firemní umístění vaší společnosti a dají se sem přidat.
+Když se poprvé připojíte k partnerskému centru, vaše společnost projde procesem ověřování s Microsoftem. Stav ověřování můžete sledovat na stránce **právní informace** . Zobrazuje primární kontakt (který bude kontaktovat společnost Microsoft ohledně partnerských otázek) a primární právní kontakt (osoba, která spravuje vaše právní informace a stav). Tady jsou uvedená všechna firemní umístění vaší společnosti a dají se sem přidat. 
+
+### <a name="provide-your-companys-legal-business-details"></a>Zadejte obchodní informace o podniku.
+
+Můžete buď vyhledat profil společnosti, nebo zadat informace společnosti ručně. Pokud je vaše společnost zaregistrovaná v rámci [telefonického připojení & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), použijte Duns ID a vyhledejte informace o vaší společnosti. Pokud chcete zadat podrobnosti o vaší společnosti sami, vyberte **ručně**.
+
+Pokud je vaše společnost umístěná v **Arménii**, **Maďarsku**, **Kyrgyzstánu**, **Moldávie**, **Uzbekistánu** nebo **Rusku** a Vy zadáte adresu ručně, budeme vaši adresu ověřit za vás. Pokud se ten, který zadáte, liší od ověřeného, doporučujeme použít ověřenou adresu. Ověřování zajišťuje, aby byla adresa přesně zajištěna a mohla by být expedována do.
 
 ### <a name="primary-contact-email"></a>Primární kontaktní e-mail
 
-Primární kontaktní e-mail vám budeme informovat o ověření vašeho účtu. Je velmi důležité, aby byl e-mailem, který zadáte pro primární kontakt, ten, který je pravidelně spravován a sledován.  
+Primární kontaktní e-mail vám budeme informovat o ověření vašeho účtu. Je důležité, aby byl e-mailem, který zadáte pro primární kontakt, ten, který je pravidelně spravovaný a sledovaný.  
 
 Přečtěte si další informace o [ověřování a informacích o vašem účtu](verification-responses.md).
 

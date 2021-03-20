@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756410"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712524"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -305,11 +305,11 @@ Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků,
 
 ### <a name="apis-to-be-throttled"></a>Rozhraní API k omezení
 
-|**Operace**|**Dokumentace k Partnerskému centru**|
+| **Operace** | **Dokumentace k Partnerskému centru** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions|[Získání všech předplatných zákazníka](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Získání předplatného podle ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/Orders||[Získání všech objednávek zákazníka](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders|[Získání všech objednávek zákazníka](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Získání objednávky podle ID](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Získání stavu zřizování předplatných](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Správa objednávek a Správa předplatného](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků,
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Získání stavu registrace předplatných](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/Customers/{Customer-tenant-ID}/Transfers|[Získat všechny přenosy zákazníka](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Získání stavu upgradu produktů](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/Customers/{Customer-ID}/Subscriptions/{Subscription-ID}/Conversions|[Získání seznamu nabídek převod zkušebních verzí](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/Customers/{Customer-ID}/Subscriptions/{Subscription-ID}/Conversions|[Získání seznamu nabídek převod zkušebních verzí](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 Toto oznámení se zaměřuje na poskytování partnerů s včasnou informovaností o nadcházejících změnách, což jim umožní připravit se. Důrazně doporučujeme, aby se partneři seznámili s těmito rozhraními API, a zvažte použití rozhraní API protokolu aktivit pro zajištění vyšší efektivity a zabránění omezování. Další informace o této funkci najdete v tématu podrobnosti o [omezeních rozhraní API](/partner-center/develop/api-throttling-guidance). 
@@ -469,14 +469,14 @@ Díky nabídce Premium mají zákazníci přístup k nově vydaným verzím Micr
 
    |****|**Microsoft Teams Rooms úrovně Standard USD15 za měsíc**|**Microsoft Teams Rooms Premium USD50 Device za měsíc**|
    |-------------------|:------|:------|
-   |Skype pro firmy|Ano| |
-   |Microsoft Teams|Ano|Ano|
-   |Telefonní systém|Ano|Ano|
-   |Zvukové konference|Ano|Ano|
-   |Microsoft Intune|Ano|Ano|
+   |Skype pro firmy|Yes| |
+   |Microsoft Teams|Yes|Yes|
+   |Telefonní systém|Yes|Yes|
+   |Zvukové konference|Yes|Yes|
+   |Microsoft Intune|Yes|Yes|
    | |Microsoft Teams Rooms Standard USD15 na zařízení za měsíc|Microsoft Teams Rooms Premium USD50 na zařízení za měsíc|
-   |Microsoft Teams místností spravované služby| |Ano|
-   |Celosvětová dostupnost|Ano|Na vybraných trzích|
+   |Microsoft Teams místností spravované služby| |Yes|
+   |Celosvětová dostupnost|Yes|Na vybraných trzích|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams místností spravované služby
 

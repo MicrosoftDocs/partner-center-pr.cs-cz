@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412705"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712762"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Vytvoření a Správa privátních Azure Marketplace v Azure Portal
 
@@ -21,7 +21,7 @@ Jako správce Marketplace (přiřazená role) začnete s neaktivním a prázdný
 
 > [!NOTE]
 > - Soukromé Azure Marketplace jsou na úrovni tenanta, takže všichni uživatelé v tenantovi uvidí stejný seznam.
-> - Všechna řešení společnosti Microsoft (včetně schválených [distribucí systému Linux](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) jsou automaticky přidána do privátního Azure Marketplace.
+> - Všechna řešení společnosti Microsoft (včetně schválených [distribucí systému Linux](/azure/virtual-machines/linux/endorsed-distros)) jsou automaticky přidána do privátního Azure Marketplace.
 
 ## <a name="assign-the-marketplace-admin-role"></a>Přiřazení role správce Marketplace
 
@@ -30,7 +30,7 @@ Globální správce tenanta musí přiřadit roli **správce Marketplace** sprá
 >[!IMPORTANT]
 > Přístup ke správě privátních Azure Marketplace je k dispozici jenom správcům IT, kteří mají přiřazenou roli správce Marketplace.
 
-### <a name="prerequisites"></a>Požadavky
+### <a name="prerequisites"></a>Předpoklady
 
 Tyto požadavky jsou nutné, aby bylo možné přiřadit roli správce webu Marketplace uživateli v oboru tenanta:
 
@@ -187,7 +187,7 @@ Položka je kombinací nabídky a plánu. Na stránce Spravovat web Marketplace 
 4. Vyberte **Hotovo** vlevo dole po provedení výběru.
 
 >[!Note]
-> **Přidat položky** na web Marketplace budou k dispozici pouze pro nabídky, které nejsou od Microsoftu. Řešení Microsoftu (včetně schválených [distribucí systému Linux](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) budou označena jako schválená ve výchozím nastavení a nelze je spravovat na soukromém webu Marketplace.
+> **Přidat položky** na web Marketplace budou k dispozici pouze pro nabídky, které nejsou od Microsoftu. Řešení Microsoftu (včetně schválených [distribucí systému Linux](/azure/virtual-machines/linux/endorsed-distros)) budou označena jako schválená ve výchozím nastavení a nelze je spravovat na soukromém webu Marketplace.
 
 ## <a name="edit-items-plans"></a>Upravit plány položky
 
@@ -249,7 +249,7 @@ Přístup k centru oznámení:
 Když je povolený privátní Azure Marketplace, zobrazí se uživatelům, kteří plánují schválení správcem Marketplace.
 
 - Zelená **schválená** zpráva indikuje, že partnerská nabídka (jiná než Microsoft) je schválená.
-- Modré **schválené** oznámení indikuje, že nabídka Microsoft (včetně schválených [distribucí systému Linux](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) je schválená.
+- Modré **schválené** oznámení indikuje, že nabídka Microsoft (včetně schválených [distribucí systému Linux](/azure/virtual-machines/linux/endorsed-distros)) je schválená.
 
 Uživatelé mohou filtrovat mezi nabídkami, které jsou a nejsou schváleny:
 
@@ -304,7 +304,7 @@ V současné době existují dva způsoby, jak omezit služby třetích stran na
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Ukazuje, jak omezit služby na portálu E.":::
 
-2. Vytvořte zásadu Azure, která povolí jenom konkrétní virtuální počítače. Podrobnosti o vystavení zásad pro virtuální počítače s Windows najdete v tématu věnovaném [použití zásad pro virtuální počítače s Windows pomocí Azure Resource Manager](https://docs.microsoft.com/azure/virtual-machines/windows/policy).
+2. Vytvořte zásadu Azure, která povolí jenom konkrétní virtuální počítače. Podrobnosti o vystavení zásad pro virtuální počítače s Windows najdete v tématu věnovaném [použití zásad pro virtuální počítače s Windows pomocí Azure Resource Manager](/azure/virtual-machines/windows/policy).
 
 Soukromé Azure Marketplace umožňují větší flexibilitu při omezování a povolování konkrétních nabídek a plánů. Informuje koncové uživatele o dostupnosti pro nasazení v galerii Marketplace, a to i předtím, než se pokusí nasadit služby třetích stran. Pokud chcete povolit nasazení služeb třetích stran, nastavte Azure Marketplace na zapnuto nebo povoleno na portálu EA a v Azure Portal.
 
@@ -314,7 +314,7 @@ Soukromé Azure Marketplace umožňují větší flexibilitu při omezování a 
 
 #### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Jaký je rozdíl mezi soukromou nabídkou a soukromým Azure Marketplace?
 
-**Soukromá nabídka** umožňuje vydavatelům vytvářet plány, které jsou viditelné pouze cílovým zákazníkům. To jim umožní soukromě sdílet přizpůsobená řešení s vyjednávacími cenami, soukromými podmínkami a podmínkami a specializovanými konfiguracemi. Podrobnosti najdete v tématu [soukromé nabídky na komerčním webu Marketplace](https://docs.microsoft.com/azure/marketplace/private-offers).
+**Soukromá nabídka** umožňuje vydavatelům vytvářet plány, které jsou viditelné pouze cílovým zákazníkům. To jim umožní soukromě sdílet přizpůsobená řešení s vyjednávacími cenami, soukromými podmínkami a podmínkami a specializovanými konfiguracemi. Podrobnosti najdete v tématu [soukromé nabídky na komerčním webu Marketplace](/azure/marketplace/private-offers).
 
 **Soukromý Azure Marketplace** v Azure Portal umožňuje správcům předem schvalovat, která řešení třetích stran můžou uživatelé nasazovat. Pomocí privátního Azure Marketplace můžou uživatelé využít výhod Azure Marketplace tak, že si vyhledají, kupují a nasazují vyhovující nabídky. Aby bylo možné spravovat soukromé nabídky na základě předplatného na soukromém webu Marketplace, musí mít správce webu Marketplace minimálně roli "číst" na daném předplatném.
 
@@ -326,16 +326,16 @@ Soukromé nabídky na základě předplatného jsou viditelné jenom pro uveden�
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Můžeme do privátních Azure Marketplace zahrnout vlastní image?
 
-No. Privátní Azure Marketplace umožňuje všem správcům IT spravovat řešení třetích stran z globálních Azure Marketplace. Vzhledem k tomu, že vlastní image nejsou na globálním Azure Marketplace, nemůže správce IT vybírat a vybírat vlastní image. Chcete-li sdílet vlastní image, použijte [galerii sdílených imagí](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries).
+No. Privátní Azure Marketplace umožňuje všem správcům IT spravovat řešení třetích stran z globálních Azure Marketplace. Vzhledem k tomu, že vlastní image nejsou na globálním Azure Marketplace, nemůže správce IT vybírat a vybírat vlastní image. Chcete-li sdílet vlastní image, použijte [galerii sdílených imagí](/azure/virtual-machines/shared-image-galleries).
 
-1. Podrobný průvodce vytvořením Galerie sdílených imagí (SIG) ([CLI](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell)).
-2. Vytvoří definici obrázku v rámci SIG. Zákazník by měl zvolit **zobecněný** pro pole stav operačního systému. (Rozhraní příkazového[řádku](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShellu](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
-3. Přeneste spravovanou bitovou kopii do galerie sdílených imagí ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-powershell)).
-4. Image virtuálního počítače SIG by se měly nacházet v jednom předplatném. Pokud ho chcete zpřístupnit ostatním předplatným, použijte registraci aplikace (rozhraní příkazového[řádku](https://docs.microsoft.com/azure/virtual-machines/linux/share-images-across-tenants), [PowerShellu](https://docs.microsoft.com/azure/virtual-machines/windows/share-images-across-tenants)).
+1. Podrobný průvodce vytvořením Galerie sdílených imagí (SIG) ([CLI](/azure/virtual-machines/shared-images-cli), [PowerShell](/azure/virtual-machines/shared-images-powershell)).
+2. Vytvoří definici obrázku v rámci SIG. Zákazník by měl zvolit **zobecněný** pro pole stav operačního systému. (Rozhraní příkazového[řádku](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShellu](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
+3. Přeneste spravovanou bitovou kopii do galerie sdílených imagí ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
+4. Image virtuálního počítače SIG by se měly nacházet v jednom předplatném. Pokud ho chcete zpřístupnit ostatním předplatným, použijte registraci aplikace (rozhraní příkazového[řádku](/azure/virtual-machines/linux/share-images-across-tenants), [PowerShellu](/azure/virtual-machines/windows/share-images-across-tenants)).
 
 #### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Proč se mi zobrazují některé nabídky **schválené ve výchozím nastavení,** i když Vydavatel není Microsoft?
 
-Microsoft podporuje v Azure technologii Linux a open source. [Schválené distribuce systému Linux](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros) jsou podporovány v Azure a cena je integrována do virtuálních počítačů. Vzhledem k tomu, že je agent Azure Linux už v Azure Marketplace předinstalovaný, považuje se za nabídku Microsoftu. Vzhledem k tomu, že jsou nabídky společnosti Microsoft schváleny ve výchozím nastavení, nelze spravovat schválené distribuce systému Linux v privátních Azure Marketplace a jsou schváleny ve výchozím nastavení.
+Microsoft podporuje v Azure technologii Linux a open source. [Schválené distribuce systému Linux](/azure/virtual-machines/linux/endorsed-distros) jsou podporovány v Azure a cena je integrována do virtuálních počítačů. Vzhledem k tomu, že je agent Azure Linux už v Azure Marketplace předinstalovaný, považuje se za nabídku Microsoftu. Vzhledem k tomu, že jsou nabídky společnosti Microsoft schváleny ve výchozím nastavení, nelze spravovat schválené distribuce systému Linux v privátních Azure Marketplace a jsou schváleny ve výchozím nastavení.
 
 ## <a name="contact-support"></a>Kontaktování podpory
 

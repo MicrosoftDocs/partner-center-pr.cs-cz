@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 3630824c839ccd9f54f3e8e5199a573b5824bb91
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758874"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712949"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Jak daňové zásady ovlivňují výběr pro Azure Marketplace
 
@@ -47,7 +47,7 @@ Podívejte se na [scénář D](#foreign-publisher-transacts-with-us-customer) pr
 
 **Scénář C** – transakce prováděné mezi vydavatelem a zákazníkem v daňové zemi spravované vydavatelem, která neukládá srážkovou daň na zákazníky. Zákazníci platí bez daně v místě prodeje a jedná se o závazek vydavatele uhradit všechny použitelné daně.
 
-Další informace o cenách specifických pro země (například pro vyrovnání nadcházejících daní) najdete v tématu [plány a ceny pro komerční nabídky na webu Marketplace](https://docs.microsoft.com/azure/marketplace/plans-pricing#custom-prices).
+Další informace o cenách specifických pro země (například pro vyrovnání nadcházejících daní) najdete v tématu [plány a ceny pro komerční nabídky na webu Marketplace](/azure/marketplace/plans-pricing#custom-prices).
 
 :::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Zobrazuje pracovní postup pro scénář vydaných procesů C.":::
 
@@ -77,5 +77,5 @@ Další informace o cenách specifických pro země (například pro vyrovnání
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Nejčastější dotazy k vydavateli](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)
-- [Pokyny k vytvoření platebních a daňových profilů](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile)
+- [Nejčastější dotazy k vydavateli](/azure/marketplace/marketplace-faq-publisher-guide)
+- [Pokyny k vytvoření platebních a daňových profilů](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

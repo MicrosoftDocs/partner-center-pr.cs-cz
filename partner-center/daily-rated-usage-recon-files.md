@@ -7,19 +7,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92527712"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712235"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Naučte se číst soubory pro odsouhlasení s denním hodnocením využití v partnerském centru.
 
 **Platí pro**
 
 - Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro Microsoft Cloud for US Government
 
 **Příslušné role**
 
@@ -70,7 +70,7 @@ Tento článek vysvětluje, jak číst každodenní soubory pro odsouhlasení s 
 | ResourceGroup | Představuje kontejner, který obsahuje související prostředky pro řešení Azure. |
 | ResourceURI | Identifikátor URI používaného prostředku |
 | ChargeType | Typ poplatku nebo úpravy.  |
-| Jednotková cena | Cena za licenci, jak je publikována v ceníku v době nákupu. Ujistěte se, že tato cena odpovídá informacím uloženým v systému fakturace během odsouhlasení. |
+| UnitPrice | Cena za licenci, jak je publikována v ceníku v době nákupu. Ujistěte se, že tato cena odpovídá informacím uloženým v systému fakturace během odsouhlasení. |
 | Množství | Počet licencí. Ujistěte se, že tato cena odpovídá informacím uloženým v systému fakturace během odsouhlasení. |
 | Jednotkách UnitType | Typ jednotky, na kterou se měřič účtuje.  |
 | BillingPreTaxTotal | Celková fakturovaná částka před zdaněním<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]); 2)_ |
@@ -87,7 +87,8 @@ Tento článek vysvětluje, jak číst každodenní soubory pro odsouhlasení s 
 | EntitlementId | Představuje ID předplatného Azure. |
 | EntitlementDescription | Představuje název ID předplatného Azure. |
 | PartnerEarnedCreditPercentage | Zobrazí PartnerEarnedCredit pro položku řádku. Získaný kredit bude buď 0, nebo 15 procent. |
-
+| CreditPercentage | Zobrazí kredit využití Azure. Získaný kredit bude mít hodnotu 0 nebo 100%. |
+| CreditType | Typ kreditu Například se **dal použít kredit Azure.** |
 >[!NOTE]
 >Denní hodnocené využití obvykle trvá 24 hodin, než se zobrazí v partnerském centru nebo bude k dispozici prostřednictvím rozhraní API.
 

@@ -4,14 +4,16 @@ description: Seznamte se s daňovými formuláři vydanými Microsoftem, včetn�
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487869"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712813"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Vysvětlení daňových formulářů IRS vydaných Microsoftem
 
@@ -21,7 +23,7 @@ V tomto článku se dozvíte víc o těchto formulářích, včetně toho, kdo j
 
 ## <a name="types-of-tax-forms"></a>Typy daňových formulářů
 
-| Daňový formulář finančního úřadu | Popis | Dostupnost |
+| Daňový formulář finančního úřadu | Description | Dostupnost |
 |--------------|-------------|--------------|
 |1099 – RŮZNÉ, 1099 AŽ K | Související s aktivitou prodeje a/nebo platbami, které jste provedli při účasti na tržištích společnosti Microsoft. | Tištěné formuláře budou postmarked do **31. ledna** a budou k dispozici v [partnerském centru](https://partner.microsoft.com/dashboard) (v **Nastavení účtu partnerského centra** pod položkou **Výběr a daňové > výběr a daňové profily**) ve stejnou dobu. |
 |1042-S | V souvislosti s platbami, které jste provedli, se vztahují na USA srážková daň. | Tištěné formuláře budou postmarked do **15. března** nebo do 15. kopie. PDF budou k dispozici v partnerském centru (v **nastavení pro vývojáře partnerského centra** v části **Výběr a daňové > výběr a daňové profily**) ve stejnou dobu.  |
@@ -64,7 +66,7 @@ Daňové formuláře vám budou odesílány z následujících adres:
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Pro vývojáře nacházející se mimo USA
 
 
-| | |
+| **Otázka** | **Odpověď** |
 |---|---|
 | **Obdržel (a) jsem formu 1042-S od Microsoftu. K čemu slouží?** | Společnost Microsoft vám poskytla formulář nebo formuláře ve formátu 1042, protože jsme vám zaplaceni výnosy, které se považují za hlášení USA daňovým úřadům a měla by se vztahovat na srážkovou daň.  Pro tento požadavek vytváření sestav se používá formulář 1042-S. | 
 | **Co mám dělat s formuláři?** | Obecně platí, že žádná konkrétní akce není na vaší straně nutná. Pokud chcete pro své místní daňové úřady požádat o jakoukoli formu daňového kreditu, může vám být užitečná forma 1042-S.  Další informace o tomto tématu vám poskytne vlastní Poradce pro daně. | 

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619388"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712185"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Hromadné operace pro společný prodej příležitostí pomocí souborů hodnot oddělených čárkami (CSV)
 
@@ -89,7 +89,7 @@ ID CRM|No|Identifikátor tohoto konkrétního odkazu v systému CRM, pokud exist
 ID marketingové kampaně|No|Toto pole indikuje marketingovou kampaň, která vedla k tomuto konkrétnímu odkazu. Obvykle se používá pro výpočet návratnosti investic.|BingSummer2020
 Poznámky|No|Podrobné poznámky, které označují aktualizace související s odkazem|Toto je ukázková Poznámka.
 Potřebujete povinnou podporu Microsoftu?|Yes|To je jasné, jestli chcete, aby vám Microsoft pomohly při provádění této žádosti o společný prodej.|Yes
-Jakou konkrétní technickou podporu Microsoft?|Závislosti|Jedním ze šesti různých způsobů, jak vám může Microsoft pomáhat. To platí jenom v případě, že pro otázku není vyžadována Nápověda společnosti Microsoft? " <br/> **Zadejte číslo na základě níže uvedených možností.** <br/><br/> **1**– Změna hodnoty specifické pro úlohu  <br/> **2**. Technická architektura pro zákazníky  <br/> **3**. Ověření konceptu/demo  <br/> **4**– kurzy a licencování  <br/> **5**. úspěch zákazníka po prodeji  <br/> **6**– obecné nebo jiné|1|
+Jakou konkrétní technickou podporu Microsoft?|Závislosti|Jedním ze šesti různých způsobů, jak vám může Microsoft pomáhat. To platí jenom v případě, že se pro otázku "povinná Nápověda Microsoftu" požaduje Ano? " <br/> **Zadejte číslo na základě níže uvedených možností.** <br/><br/> **1**– Změna hodnoty specifické pro úlohu  <br/> **2**. Technická architektura pro zákazníky  <br/> **3**. Ověření konceptu/demo  <br/> **4**– kurzy a licencování  <br/> **5**. úspěch zákazníka po prodeji  <br/> **6**– obecné nebo jiné|1|
 Sdílení s prodejním týmem Microsoftu|Yes|To znamená, že chcete sdílet podrobnosti o obchodu s prodejním týmem Microsoftu nebo ne. To platí jenom v případě, že pro otázku není vyžadována Nápověda společnosti Microsoft? "|Yes
 Poznámky Microsoftu|No|Jakékoli konkrétní poznámky Microsoftu, pokud potřebujete pomáhat od Microsoftu|Potřebujete nápovědu k ověření koncepce pro zákazníka společnosti Contoso
 Souhlas s sdílením kontaktu s zákazníkem a partnerem|Yes|Souhlas se sdílením kontaktních údajů zákazníků a pracovníků vaší společnosti s kontaktními údaji, kteří pracují na obchodování. **Pokud pro tento sloupec vyberete možnost Ne, obchody se nevytvoří ani neaktualizují.** |Yes
