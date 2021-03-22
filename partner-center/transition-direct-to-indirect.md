@@ -9,18 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624302"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768750"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Přechod z partnera CSP (Cloud Solution Provider) s přímým vyúčtováním na nepřímého prodejce CSP
 
 **Příslušné role**
 
-- Globální správci
+- Globální správce
 
 >[!Note]
 >Tento článek je určený pro přímé partnery, kteří se rozhodli přejít na nepřímé prodejce. Nicméně i v případě, že jste ještě neučinili explicitní rozhodnutí k registraci jako nepřímý prodejce, partneři s přímým účtováním, kteří nesplňují nové [požadavky](direct-partner-new-requirements.md) na partnerský program pro přímý přístup CSP, budou od Microsoftu informováni, když [budou jejich přímé možnosti vyúčtování omezeny](restricted-direct-bill-capabilities.md).
@@ -127,9 +127,9 @@ Zákazníkům s přímým účtováním můžete spravovat různé zákazníky a
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Identifikace zákazníků, které jste získali jako přímého partnera pro fakturaci
 
-1. Vybrat **zákazníky**
+1. Vyberte **Zákazníci**.
 
-2. Vybrat zákazníka pro zobrazení jejich podrobností
+2. Vyberte zákazníka, pro který chcete zobrazit podrobnosti.
 
 3. Pokud je tento zákazník ten, kterého jste získali jako přímý účet pro fakturaci, zobrazí se vám možnosti pro **Přidání** nebo **zobrazení produktů** a jejich odběry se zobrazí.
 
@@ -162,7 +162,7 @@ Pomocí funkce rozšíření vztahů mezi prodejci můžete vytvořit vztah prod
 
 - Nepřímý poskytovatel se nebude poskytovat s [oprávněními delegované správy](customers-revoke-admin-privileges.md) pro tenanta zákazníka. Pokud váš nepřímý poskytovatel vyžaduje delegovaná oprávnění pro správu, musíte místo toho odeslat pozvánku nepřímého prodejce na zákazníka.
 
-- Po navázání vztahu prodejce se nepřímý poskytovatel zobrazí jako partner CSP na stránce partnerské vztahy v [centru pro správu M365](https://admin.microsoft.com/AdminPortal/Home#/partners) a [Microsoft Store pro firmy](/microsoft-store/work-with-partner-microsoft-store-business).
+- Po navázání vztahu prodejce se nepřímý poskytovatel zobrazí jako partner CSP na stránce vztahy s partnery v [centru pro správu Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/partners) a [Microsoft Store pro firmy](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Aby nedocházelo k nejasnostem a nepochopení, jste si smluvní partnerskou smlouvou informovali o souhlasu zákazníka s přímým vyúčtováním a získat souhlas s tím, než použijete funkci rozšíření relace k vytvoření vztahu prodejce mezi stávajícím zákazníkem s přímým fakturací a nepřímým poskytovatelem.
@@ -223,9 +223,9 @@ Microsoft Cloud smlouva je platná do 31. ledna 2020. Po tomto datu si všichni 
 
 V části nepřímý model CSP nemají nepřímý prodejci k dispozici fakturační vztahy s Microsoftem. Namísto toho můžou nepřímým prodejcům získat předplatná pro své zákazníky prostřednictvím jejich nepřímých zprostředkovatelů. Při přechodu z přímého poštovního partnera na nepřímý prodejce budete potřebovat přenést existující předplatná, která máte jako přímého dodavatele, do svého nepřímého poskytovatele. K tomu můžete použít funkci převodu předplatného pro samoobslužné partnery v řídicím panelu partnerského centra.
 
-### <a name="pre-requisites"></a>Požadavky
+### <a name="prerequisites"></a>Předpoklady
 
-- Tato funkce je dostupná jenom pro přechod partnerů, kteří dokončili nepřímý zápis prodejce pomocí svých stávajících partnerských tenantů s přímým přístupem.
+- Tato funkce je k dispozici jenom pro přechod partnerů, kteří dokončili nepřímý zápis prodejce pomocí svých stávajících partnerských tenantů pro klienty s přímým přístupem.
 
 - Před převodem předplatných přidružených k danému zákazníkovi musí přechod partner přesunout zákazníka na nepřímýho poskytovatele.
 

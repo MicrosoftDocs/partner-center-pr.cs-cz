@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756739"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768699"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Řešení potíží s nastavením účtu nebo problémy s obnovením MPN
 
@@ -28,20 +28,20 @@ Tady jsou některé návrhy řešení běžných potíží, které vznikají př
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Co se stane, když migrujete z partnerského centra členství a nemůžete upravovat žádná pole informací o společnosti
 
-V případech, kdy už vaše společnost má přítomnost v partnerském centru (Řekněte mu účet CSP) – zobrazí se obrazovka, která je jen pro čtení. Na této obrazovce se zobrazí všechny informace o vaší společnosti, které v partnerském centru existují.
+V případech, kdy už vaše společnost má přítomnost v partnerském centru (například účet CSP) – zobrazí se obrazovka, která je jen pro čtení. Na této obrazovce se zobrazí všechny informace o vaší společnosti, které v partnerském centru existují.
 
 Podrobnosti na této obrazovce nemůžete změnit. Jedná se o návrh a nejedná se o chybu.
 
 Vyberte **přijmout** a **pokračovat** a pokračujte.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Pokud IT oddělení vypnulo **registraci v partnerském centru**.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Pokud IT oddělení vypnulo **registraci v partnerském centru**
 
 Tato zpráva se zobrazí, protože virové uživatele jsou zakázané, nebo protože je v tenantovi Azure AD zakázaná registrace viru. Globální správce vašeho účtu Azure AD může povolit požadované funkce spuštěním následujícího příkazu PowerShellu:
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-Další informace najdete v tématu věnovaném [registraci samoobslužných služeb](/azure/active-directory/users-groups-roles/directory-self-service-signup) .
+Další informace najdete v tématu věnovaném [registraci pro samoobslužné služby](/azure/active-directory/users-groups-roles/directory-self-service-signup).
 
 ## <a name="you-forgot-your-password"></a>Zapomněli jste heslo
 

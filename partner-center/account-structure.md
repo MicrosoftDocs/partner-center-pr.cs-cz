@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474270"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768665"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partnerské centrum má dvě úrovně účtů pro partnery programu MPN.
 
@@ -40,7 +40,7 @@ Vaše společnost má v partnerském centru dvě úrovně účtů.
 Vaše PGA může obsahovat další obchodní umístění. Každé umístění má své vlastní ID MPN nebo účet umístění partnera (PLA). Pro transakční účely a registraci v motivačních programech použijete umístění MPN ID.
 
 - Každý účet umístění partnera může mít vlastní platnou adresu a primární kontakt. Umístění mohou také sdílet platnou adresu s globálním účtem nebo jinými umístěními.
-- Prohlédněte si seznam účtů partnerských umístění **Settings** z  ->  **umístění** nastavení.
+- Prohlédněte si seznam účtů partnerských umístění z  ->  **umístění** nastavení.
 - Všechny účty umístění jsou na stejné úrovni a v rámci globálního účtu partnera.
 - Správci účtu můžou přidat umístění.
 
