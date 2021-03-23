@@ -8,13 +8,13 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 07/01/2020
-ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.date: 03/23/2021
+ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567045"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880765"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partnerství s nepřímými prodejci v programu Cloud Solution Provider
 
@@ -168,6 +168,10 @@ Když si zákazníci chtějí koupit nové předplatné, upgradovat existující
 7. Po dokončení vyberte **Odeslat** .
 
 ## <a name="next-steps"></a>Další kroky
+
+Najděte odpovědi na své otázky týkající se smlouvy Microsoft Partner Agreement.
+
+- [Jak nepřímá poskytovatelé můžou svým prodejcům přizpůsobovat smlouvu s partnerem Microsoftu – Nejčastější dotazy](mpa-indirect-provider-faq.md)
 
 Další informace o správě účtů a předplatných zákazníka najdete v těchto tématech:
 

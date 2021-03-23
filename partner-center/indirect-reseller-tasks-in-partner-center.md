@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
-ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
+ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99065467"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880782"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Naučte se, jak v programu Cloud Solution Provider spolupracuje s nepřímými poskytovateli.
 
@@ -142,6 +142,10 @@ Vaše oficiální obchodní umístění jako nepřímý prodejce CSP určuje nep
 
 ## <a name="next-steps"></a>Další kroky
 
+- [Jak nepřímá poskytovatelé můžou svým prodejcům přizpůsobovat smlouvu s partnerem Microsoftu – Nejčastější dotazy](mpa-indirect-provider-faq.md)
+
+- [Smlouva s partnerem Microsoftu](microsoft-partner-agreement.md)
+
 - [Proces ověření účtu](verification-responses.md)
 
 - [Správa účtu v Partnerském centru](partner-center-account-setup.md)
@@ -153,4 +157,4 @@ Vaše oficiální obchodní umístění jako nepřímý prodejce CSP určuje nep
 - [Další informace o procesu ověřování](verification-responses.md)
 
 - [Viz požadavky na partnery přímého vyúčtování](direct-partner-new-requirements.md)
-- [Smlouva s partnerem Microsoftu](microsoft-partner-agreement.md)
+

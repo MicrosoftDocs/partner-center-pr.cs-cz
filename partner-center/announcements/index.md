@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712286"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880748"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,8 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z března 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Nabídky/trhy|[Opravy provedené 1. března 2021, což je trvalá Ceníková cena softwaru](2021-march.md#14)|23. března|
+|Možnosti|[Vydání sady SDK na .NET Standard (v 1.17.0)](2021-march.md#13)|23. března|
 |Možnosti|[Nabídka CSP pro komerční web Marketplace a FY21 CSP pro opravňující nabídky](2021-march.md#12)|18. března|
 |Možnosti|[Power BI Premium nabídky pro pojmenování a požadované aktualizace](2021-march.md#11)|18. března|
 |Nabídky/trhy|[Aktualizace ceny pro Microsoft 365 F3 v březnu](2021-march.md#10)|16. března|

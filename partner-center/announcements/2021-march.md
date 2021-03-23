@@ -8,17 +8,105 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: eb6f57ed9a1b3031aeaaff51260e718ce3420ae3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712303"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880731"
 ---
 # <a name="march-2021-announcements"></a>Oznámení z března 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu na březen 2021.
+
+________________
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Opravy provedené 1. března 2021, což je trvalá Ceníková cena softwaru
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-03-23
+- Nabídky/trhy
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Nepřímá poskytovatelé a Přímí partneři poskytující transakční transakce s probíhajícím softwarem v programu Cloud Solution Provider 
+
+### <a name="details"></a>Podrobnosti
+
+Ceník pro trvale zpracovaný software zveřejněný 1. března 2021 zahrnoval trhy, které by se tam nemusely nastavovat. Ceník trvalého softwaru byl aktualizován 17. března 2021 se opravami. Tyto opravy byly platné pouze pro:
+
+- ID produktu: DF77X4D43RKT 
+- Název produktu: upgrade Windows 10 Home na verzi pro pro Microsoft 365 Business
+- Odebrané nebo nepodporované trhy: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, ČERNOBÍLé, by, BZ, CI, CL, CM, CO, CR, SH, DO, DZ, ES, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, SWEETIQ, JM, JO, KE, KG, KN, KW, KY, KZ, CR, LK, LY, MA, MC, MD, já, MN, M0, , NI,, NP, OM, PA, PE, PH, PK, PR, PY, QA, R, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, G, UY, UZ, VE, VN, BE, ZM, ZW
+
+Tyto změny se vztahují pouze na výše uvedený produkt. Jiné produkty neobsahovaly žádné opravy. 
+
+### <a name="next-steps-and-resources"></a>Další kroky a zdroje informací
+
+- Partneři, kteří pracují s nezpracovaným softwarem, by si měli stáhnout nejnovější Ceník softwaru s trvalou cenou.
+- V části [kódy zemí v oblasti](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries) najdete popisné mapování obou zkratek na země.
+________________
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> Vydání sady SDK na .NET Standard (v 1.17.0)
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-03-23
+
+- Možnosti
+ 
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Přímé partnery a nepřímá poskytovatelé, kteří se účastní programu CSP, kteří používají sadu SDK pro partnerských Center.
+
+### <a name="details"></a>Podrobnosti
+
+Od března 23 2020 můžou partneři začít stahovat verzi [MicrosoftPartnerCenter. NETSDK (galerie NuGet | Microsoft. Store. PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)spolu s aktualizovanými [ukázkami](https://github.com/Microsoft/Partner-Center-DotNet-Samples)služby Public partner Center SDK GitHub. Tato verze zahrnuje aktualizace následujících metod:
+
+#### <a name="audit-updated-new-operation-types"></a>Audit byl aktualizován: nové typy operací
+
+Přidání nových [typů operací](https://docs.microsoft.com/partner-center/develop/auditing-resources) pro znalost, kdy zákazník schválil a ukončil DAP.
+
+- DapAdminRelationshipApproved
+
+- DapAdminRelationshipTerminated
+
+#### <a name="audit-updated-new-resource-and-operation-types"></a>Audit byl aktualizován: nové typy prostředků a operací
+
+Přidali jsme nové [typy prostředků a operací](https://docs.microsoft.com/partner-center/develop/auditing-resources) pro podporu scénáře role adresáře zákazníka.
+
+- Nový typ prostředku "CustomerDirectoryRole"
+
+- Typy operací "AddUserMember" a "RemoveUserMember"
+
+#### <a name="sdk-updates-to-customer-accounts"></a>Aktualizace sady SDK u zákaznických účtů
+
+- Podpora pro GET/customers/{customer-tenant-id}/directSignedMicrosoftCustomerAgreementStatus
+
+- ZÍSKAT/Customers/{Customer-tenant-ID}/Qualifications
+
+- POST/Customers/{customer_id}/Qualifications? Code = {validationCode}
+
+#### <a name="additional-changes"></a>Další změny
+
+V rámci nového obchodu byly zavedeny následující změny, které jsou aktuálně k dispozici pouze partnerům, kteří jsou součástí M365/D365 New Commerce Experience Technical Preview. Partneři, kteří nejsou součástí nové verze nástroje Commerce Technical Preview, by neměli poznamenat dopady a měly by být zpětně kompatibilní.
+
+- Změny katalogu:
+
+  - ZÍSKAT/Products/{Product-ID}/skus/{SKU-ID}
+
+- Nákup a správa:
+  - ZÍSKAT/customers/{customerId}/subscriptions
+  - ZÍSKAT/customers/{customerId}/subscriptions/{subscriptionId}
+  - /Customers/{customerId}/subscriptions/{subscriptionId} opravy
+  - ZÍSKAT/customers/{customerId}/subscriptions/{subscriptionId}/transitioneligibilities
+  - ZÍSKAT/customers/{customerId}/subscriptions/{subscriptionId}/transitions
+  - PŘÍSPĚVEK/customers/{customerId}/subscriptions/{subscriptionId}/transitions
+
+### <a name="next-steps"></a>Další kroky
+
+- Stáhněte si nejnovější verzi [MicrosoftPartnerCenter. NETSDK (galerie NuGet | Microsoft. Store. PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)
+- Stažení a kontrola [ukázek GitHubu](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
 
 ________________
 ## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>Nabídka CSP pro komerční web Marketplace a FY21 CSP pro opravňující nabídky
