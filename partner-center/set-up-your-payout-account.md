@@ -2,20 +2,21 @@
 title: Nastavení účtu výběrového souboru & daňových formulářů – Microsoft Commercial Marketplace
 description: Pokud chcete získat peníze z nabídky prodejů na komerčním webu Marketplace, zjistěte, jak si můžete nastavit svůj účet pro výběr a vyplnit nezbytné daňové formuláře.
 ms.topic: conceptual
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492683"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028430"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Nastavení platebního účtu a daňových formulářů
 
-**Příslušné role:**
+**Příslušné role**
 
 - Správce účtu
 - Globální správce
@@ -54,7 +55,7 @@ Nejdřív budete muset vytvořit daňový profil a přiřadit ho k programům, k
 
 4. Pokud chcete použít existující daňový profil, vyberte ho z rozevíracího seznamu. V opačném případě vyberte **vytvořit nový profil** a stiskněte **Odeslat**. Přejdete na stránku daňové profily.
 
-5. Kliknutím na tlačítko **Upravit** upravte daňové informace.
+5. Chcete-li upravit daňové informace, vyberte tlačítko **Upravit** .
 
 6. Vyberte příslušný přepínač a pokud se zobrazí výzva, vyberte svou zemi/oblast. Tento krok určuje obchodní entitu Microsoftu, která se bude používat k vyvýběru vašeho účtu.
 
@@ -91,7 +92,7 @@ Pokud nejste mimo USA, možná budete moct využít výhody daňové smlouvy. Ty
 
 3. Vyberte způsob platby, který chcete nakonfigurovat.
 
-4. Vyberte existující platební profil, nebo klikněte na **vytvořit nový platební profil** a vytvořte nový profil pro zvolený způsob platby.
+4. Vyberte existující platební profil, nebo vyberte **vytvořit nový platební profil** a vytvořte nový profil pro zvolený způsob platby.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Vytvoření platebního profilu založeného na bance
 
@@ -130,7 +131,7 @@ Pokud potřebujete provést změny nebo opravit nesprávné informace, můžete 
 
 2. Pod položkou *Výběr a daň* vyberte výběr **a daňové profily**.
 
-3. Vaše platební profily budou uvedené spolu se stavem. Najděte profil, který chcete upravit, a klikněte na **Upravit** úplně vpravo.
+3. Vaše platební profily budou uvedené spolu se stavem. Najděte profil, který chcete upravit, a v pravém horním rohu vyberte **Upravit** .
 
 > [!IMPORTANT]
 > Změna účtu výběr může zpozdit vaše platby až do jednoho platebního cyklu. K tomuto zpoždění dochází, protože potřebujeme ověřit změnu účtu, stejně jako při prvním nastavení účtu výběr. Po ověření účtu se pořád bude platit celá částka. jakékoli platby splatné za aktuální platební cyklus budou přidány do dalšího. Další informace najdete v tématu [získání platby na komerčním webu Marketplace](marketplace-get-paid.md).

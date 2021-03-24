@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40df034e88a1bba7829d6f73e0fb970795a2a0dd
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 38ab5b3ef871aa8a969e8da48e2cb6f4cfebf4c6
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92527139"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028328"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Správa seznamu zákazníků – hledání, aktualizace nebo export zákazníků v partnerském centru
 
 **Platí pro**
 
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro oficiální Cloud Microsoftu
 
 Záznamy zákazníků jsou mezi nejdůležitějšími informačními prostředky v partnerském centru. Můžete hledat v databázi zákaznických účtů, exportovat celou zákaznickou databázi nebo exportovat podmnožinu, do formátu souboru hodnot oddělených čárkami (. csv) kompatibilním s Excelem. Informace o předplatných zákazníka taky můžete exportovat do souboru. csv.
 
@@ -29,16 +28,16 @@ Protokoly aktivit také poskytují exportovaná data o transakcích a akcích sp
 
 ## <a name="search-for-a-customer"></a>Hledání zákazníka
 
-1.  V nabídce **Partnerské centrum** vyberte **zákazníci**.
-2.  Pokud chcete hledat zákazníka, zadejte do vyhledávacího pole název zákazníka nebo název domény.
-3.  Vyberte **šipku dolů** na konci řádku zákazníka, abyste viděli své ID Microsoftu a jejich přidružené a rychlé odkazy na odběry a služby.
+1. V nabídce **Partnerské centrum** vyberte **zákazníci**.
+2. Pokud chcete hledat zákazníka, zadejte do vyhledávacího pole název zákazníka nebo název domény.
+3. Vyberte **šipku dolů** na konci řádku zákazníka, abyste viděli své ID Microsoftu a jejich přidružené a rychlé odkazy na odběry a služby.
 
 ## <a name="update-a-customers-company-name"></a>Aktualizace názvu společnosti zákazníka
 
 V nabídce **Partnerské centrum** vyberte **zákazníci**.
-2.  Pokud chcete hledat zákazníka, zadejte do vyhledávacího pole název zákazníka nebo název domény.
-3.  Vyberte **šipku dolů** na konci řádku zákazníka, abyste viděli své ID Microsoftu a jejich přidružené a rychlé odkazy na odběry a služby.
-4.  V části informace o **fakturaci** zákazníka aktualizujte název společnosti. Když uložíte novou hodnotu, projeví se v seznamu zákazníků. Tím se změní jenom název faktury na společnost a hodnota seznamu zákazníků. Neprojeví se nikde jinde.
+2. Pokud chcete hledat zákazníka, zadejte do vyhledávacího pole název zákazníka nebo název domény.
+3. Vyberte **šipku dolů** na konci řádku zákazníka, abyste viděli své ID Microsoftu a jejich přidružené a rychlé odkazy na odběry a služby.
+4. V části informace o **fakturaci** zákazníka aktualizujte název společnosti. Když uložíte novou hodnotu, projeví se v seznamu zákazníků. Tím se změní jenom název faktury na společnost a hodnota seznamu zákazníků. Neprojeví se nikde jinde.
 
 ## <a name="export-your-customer-list"></a>Exportovat seznam zákazníků
 

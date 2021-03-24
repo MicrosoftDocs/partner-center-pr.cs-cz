@@ -9,18 +9,14 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92527218"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028413"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrace předplatných Online Skypu pro firmy (plán 1) na novější verze Office 365
-
-**Platí pro**
-
-- Partnerské centrum
 
 Plán 1 pro Online Skype pro firmy bude vyřazený, platí od 1. srpna 2018. Po tomto datu si zákazníci už nebudou moct koupit nové předplatné pro Skype pro firmy Plan 1 a stávající odběry se po vypršení platnosti nebudou automaticky obnovovat a nenabídnou možnost obnovení. Na stránce s podrobnostmi o předplatném se stav předplatného pro Skype for Business Online plánu 1 změnil na "vyprší dne [Date]" z "automatické obnovy" v [datum] ".  
 
@@ -41,10 +37,10 @@ S novými plány můžou vaši zákazníci využívat výhod novějších funkc�
 
 |**Funkce**    |**Možnost 1**   |**Možnost 2**   |**Možnost 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Získejte všechny funkce zahrnuté v plánu 1 pro Skype for Business Online.|Ano   |Ano   |Ano   |
-|IM a přítomnost |Ano   |Ano   |Ano   |
-|Zvuk a video peer-to-peer přes IP adresu|Ano   |Ano   |Ano   
-|Připojit schůzky jako ověřeného uživatele| Ano   |Ano   |Ano   |
+|Získejte všechny funkce zahrnuté v plánu 1 pro Skype for Business Online.|Yes   |Yes   |Yes   |
+|IM a přítomnost |Yes   |Yes   |Yes   |
+|Zvuk a video peer-to-peer přes IP adresu|Yes   |Yes   |Yes   
+|Připojit schůzky jako ověřeného uživatele| Yes   |Yes   |Yes   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>Přechod zákazníků na nové plány produktů
 

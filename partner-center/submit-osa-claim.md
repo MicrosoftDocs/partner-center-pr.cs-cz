@@ -9,24 +9,21 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: 7a7e3ed40dcc6b1248f008201bff667a9eb9a0f8
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917246"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028311"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Přidružení zákazníků prostřednictvím deklarovaného modelu CPOR (Partner of Record) pro Microsoft 365 a Dynamics 365
 
-**Platí pro**
 
-- Partnerské centrum
-
-**Příslušné role:**
+**Příslušné role**
 
 - Motivace správce
 
-Od 1. října 2019 společnost Microsoft začala používat model CPOR (claiming Partner of Record) pro správu přidružení, která máte s vašimi zákazníky s Microsoft 365 a Dynamics 365, s ohledem na online Poradce pro služby Online Services (OSU) – Microsoft 365 a OSU-Business motivace aplikací.
+Od 1. října 2019 společnost Microsoft zahájila používání modelu CPOR (Claim Partner of Record) pro správu přidružení, která máte s vašimi zákazníky Microsoft 365 a Dynamics 365 s ohledem na online Poradce pro služby Online Services (OSU) – Microsoft 365 a OSU-Businessch motivů aplikací.
 
 >[!Important]
 > Deklarace identity Customer (CPOR) se vztahují jenom na zákazníky Online Services Advisor (OSA), používání služeb online (OSU) – Microsoft 365 a OSU-Business aplikací pro motivaci aplikací. Pokud odesíláte deklaraci identity pro jiný program, třeba pro Cloud Solution Provider, spravovaného prodejce, hostování nebo Surface, přečtěte si prosím proces deklarace identity, který je zde popsaný. <br><br>Po odeslání vaší deklarace ji Microsoft ověří. V tomto okamžiku vám můžeme požádat o další informace. Také upozorníme zákazníka na vaši žádost o přidružení. Zákazníci mají pět pracovních dnů na odhlášení. Pokud se nerozhodnete, vaše přidružení k tomuto konkrétnímu tenantovi a úlohám budou oficiální. V tomto okamžiku budete mít přístup k datům o využití zákazníka. 
