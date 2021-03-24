@@ -111,6 +111,8 @@
         - name: Technické výhody
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
+        - name: Vytvoření loga pomocí Tvůrce loga
+          href: mpn-logo-builder.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Software Assurance
