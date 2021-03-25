@@ -9,16 +9,15 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247708"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028277"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Přidejte služby Azure partner Shared Services, aby partneři mohli koupit předplatné Azure pro vlastní použití.
 
- 
 **Příslušné role**
 
 - Globální správce
@@ -67,8 +66,8 @@ Od 1. března 2019 již Azure partner Shared Services (APSS) už nepodporuje nab
 
 |**Podpora Marketplace**   |**APSS se podporuje do 1. března 2019**|**Od 1. března 2019**|
 |---------------------------|:----------------------------|:-------------------|
-|Přineste si vlastní licenci (BYOL) a bezplatné služby   | Ano   | Ne|
-|Další nabídky na webu Marketplace třetích stran   | Ne   |Ne|
+|Přineste si vlastní licenci (BYOL) a bezplatné služby   | Yes   | No|
+|Další nabídky na webu Marketplace třetích stran   | No   |No|
 
 Partneři, kteří mají BYOL nebo bezplatné služby nasazené pomocí APSS, nebudou ovlivněny. od 1. března 2019 ale nebude moct koupit nové BYOL nebo bezplatné služby.
 

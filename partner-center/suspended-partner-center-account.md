@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "92527067"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028243"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Obnovení pozastaveného účtu v Partnerském centru – Informace o příčinách a možných postupech
 
@@ -22,8 +22,7 @@ Tento článek vysvětluje, co dělat v případě, že dojde k pozastavení ú�
 
 **Platí pro**
 
--  Partnerské centrum
--  Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro oficiální Cloud Microsoftu
 
 **Příslušné role**
 
@@ -37,7 +36,7 @@ Tento článek vysvětluje, co dělat v případě, že dojde k pozastavení ú�
 
 Microsoft pozastaví účet partnerského centra z některého z následujících důvodů:
 
-- V případě, že je aktuální částka fakturace překročena více než 60 dní 
+- V případě, že je aktuální částka fakturace překročena více než 60 dní
 - Když se zjistí významné zneužití účtu
 - Když problémy ovlivňují operace nepřímých zprostředkovatelů a negativně ovlivní váš účet (pouze nepřímý prodejci)
 - Když je váš profil účtu v neúspěšném nebo zamítnutém stavu
@@ -48,7 +47,7 @@ Pokud víte, že je váš účet aktuální, zkontrolujte nastavení [partnersk�
 
 Pokud si nejste jistí, jestli je váš účet aktuální, vyberte v nabídce **Partnerské centrum** možnost **fakturace** a zkontrolujte vaši fakturaci. Na stránce fakturace se zobrazuje historie a trendy fakturace, zůstatek vyrovnaný k vašemu aktuálnímu měsíci, odkazy na vaše soubory faktury a odsouhlasení a poslední platbu.
 
-Pokud je váš účet zpožděný, podle pokynů na faktuře uspořádejte platbu a pak odešlete žádost o podporu, abyste se vyžádali, že je váš účet obnovený. 
+Pokud je váš účet zpožděný, podle pokynů na faktuře uspořádejte platbu a pak odešlete žádost o podporu, která vám umožní obnovit váš účet. 
 
 Pokud potřebujete další pomoc při opětovné aktivaci účtu, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).
 

@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645652"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028294"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Přesun předplatných Azure zákazníka k jinému partnerovi
 
 **Platí pro**
 
-- Partnerské centrum pro Microsoft Cloud for US Government
+- Partnerské centrum pro oficiální Cloud Microsoftu
 - Partnerské centrum pro globální Cloud Microsoft
-- Partneři v programu Cloud Solution Provider (CSP)
 
 Tento článek popisuje, jak může zákazník přepnout své Microsoft Azure služby od jednoho poskytovatele Cloud Solution Provider (CSP) na jiný.
 
@@ -43,7 +42,7 @@ Pokud chcete přepnout služby Azure nebo předplatné Azure na jiného partnera
 
    Vytvoření lístku služby Azure z partnerského centra pro vyžádání přenosu předplatného:
 
-   1. V nabídce partnerské Centrum vyberte **zákazníky**, ze seznamu vyberte zákazníka a potom vyberte **Správa služeb**. 
+   1. V nabídce partnerské Centrum vyberte **zákazníky**, ze seznamu vyberte zákazníka a potom vyberte **Správa služeb**.
 
    2. V části **lístky podpory** vyberte rozevírací seznam **nový lístek** a zvolte možnost **Microsoft Azure**.
    
@@ -100,12 +99,12 @@ Pokud chcete přepnout služby Azure nebo předplatné Azure na jiného partnera
      Get-AzRoleAssignment
      ```
 
-7. Odebrat zastaralá oprávnění k přístupu
+7. Odebrat zastaralá přístupová oprávnění:
 
    - V nabídce partnerské Centrum vyberte **zákazníci**.
-   - Vyhledejte zákazníka na seznamu. Vyberte (dvakrát klikněte) jejich název společnosti. Tím se otevře stránka **předplatné** zákazníka.
+   - Vyhledejte zákazníka na seznamu. Vyberte (dvakrát klikněte) jejich název společnosti. Tato akce otevře stránku **odběry** zákazníka.
    - V nabídce podrobnosti o zákazníkovi vyberte **Správa služeb**.
-   - V části **Microsoft Azure** klikněte na odkaz pro přechod na **portál pro správu Microsoft Azure**.
+   - V části **Microsoft Azure** vyberte odkaz pro přechod na **portál pro správu Microsoft Azure**.
 
 ## <a name="next-steps"></a>Další kroky
 
