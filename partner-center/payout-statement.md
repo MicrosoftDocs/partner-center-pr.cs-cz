@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185345"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549239"
 ---
 # <a name="payout-statements"></a>Výpisy plateb
 
@@ -169,7 +169,7 @@ Pokud se chcete podívat na další podrobnosti o objektu, vyberte **Stáhnout**
 | účastník | Název partnerského partnera | Vše |
 | partnerCountryCode | Umístění/země/oblast pro partnerský partner | Vše |
 | partNumber | Bude vždy prázdné | Některé aplikace a tržiště |
-| paymentId | Jedinečný identifikátor pro platbu Toto číslo je obvykle viditelné ve výpisu bank. | Pouze platby SAP |
+| paymentId | Jedinečný identifikátor pro korelaci všech transakcí v sestavě transakce s určitou platbou v sestavě platby | Vše |
 | paymentStatus | Stav platby | Vše |
 | paymentStatusDescription | Popisný popis stavu platby | Vše |
 | productId | Jedinečný identifikátor produktu | tržišť |
@@ -258,18 +258,18 @@ Následující tabulka popisuje různé stavy vystavení.
 
 | Stav vystavení | Důvod | Je vyžadována akce partnera? |
 | --- | --- | --- |
-| Nezpracované | Zisk má nárok na platbu. Zůstane v tomto stavu pro období chlazení, jak je definováno v Průvodci programu pro program pobídek. | Ne |
-| Nadcházející | Platební objednávka vygenerovala nevyřízené interní recenze před zpracováním platby. | Ne |
+| Nezpracované | Zisk má nárok na platbu. Zůstane v tomto stavu pro období chlazení, jak je definováno v Průvodci programu pro program pobídek. | No |
+| Nadcházející | Platební objednávka vygenerovala nevyřízené interní recenze před zpracováním platby. | No |
 | Nevyřízená daňová faktura | Vaše daňová faktura je neúplná nebo neplatná. | Abyste mohli platit, musíte si nejdřív aktualizovat svou daňovou fakturu. |
 | Zamítnuto během revize | Platba byla během revize odmítnuta. | Podrobnosti získáte od podpory Microsoftu. |
 | Neúspěšný | Platba se nezdařila z důvodu chyby systému společnosti Microsoft. | Podrobnosti získáte od podpory Microsoftu. |
-| Rozpracované | Platba probíhá. | Ne |
-| Nesprávná platba | Recouping platby probíhá. | Ne |
-| Odesláno | Platba byla odeslána do vaší banky. | Ne |
-| Opětovného zpracování | V platbě došlo k systémové chybě společnosti Microsoft a probíhá její přepracování. | Ne |
-| Reversed | Platba byla stornována vaší bankou a bude odeslána znovu v dalším platebním cyklu. | Ne |
+| Rozpracované | Platba probíhá. | No |
+| Nesprávná platba | Recouping platby probíhá. | No |
+| Odesláno | Platba byla odeslána do vaší banky. | No |
+| Opětovného zpracování | V platbě došlo k systémové chybě společnosti Microsoft a probíhá její přepracování. | No |
+| Reversed | Platba byla stornována vaší bankou a bude odeslána znovu v dalším platebním cyklu. | No |
 | Daňová faktura odmítnuta | Vaše daňová faktura byla během revize odmítnuta. Všechny probíhající platby budou pozastaveny, dokud se nedokončí kontrola daňové faktury. | Podrobnosti získáte od podpory Microsoftu. |
-| Daňová faktura pod kontrolou | Vaše daňové faktury se přezkoumávají. Po schválení daňové faktury se vaše platba uvolní. | Ne |
+| Daňová faktura pod kontrolou | Vaše daňové faktury se přezkoumávají. Po schválení daňové faktury se vaše platba uvolní. | No |
 | Zamítnuto | Platba byla odmítnuta vaší bankou. | Podrobnosti získáte od své banky. |
 |
 
@@ -324,7 +324,7 @@ Souhrn **exportu dat** také poskytuje přístup k historickým příkazům.
 
 Následující tabulka vysvětluje jednotlivé sloupce v historických příkazech.
 
-| Název pole | Popis |
+| Název pole | Description |
 | --- | --- |
 | Zdroj výnosů | Zdroj výnosů na základě toho, kde transakce proběhla, například Microsoft Store, úložiště Windows Phone, Windows Store 8 nebo inzerce |
 | ID objednávky | Jedinečný identifikátor objednávky Toto ID umožňuje identifikovat nákupní transakce s příslušnými transakcemi, které nepatří do nákupních transakcí, jako jsou refundace nebo vratek. Obě budou mít stejné ID objednávky. Také pokud je účtován poplatek za rozdělení, u kterého bylo použito více způsobů platby pro jeden nákup, umožňuje propojit transakce nákupu. |

@@ -8,17 +8,139 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 03/24/2021
+ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880731"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549069"
 ---
 # <a name="march-2021-announcements"></a>Oznámení z března 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu na březen 2021.
+
+________________
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Operace s Microsoftem: Úvod do kalendářního spuštění produktu
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-03-25
+- Nabídky | Moderní pracoviště
+
+### <a name="summary"></a>Souhrn
+
+V reakci na zpětnou vazbu od partnerů budou operace společnosti Microsoft zjednodušovat komunikaci při spuštění produktu.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři poskytovatele Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Podrobnosti
+
+Společnost Microsoft se zavazuje nepřetržitě zdokonalit partnerské prostředí. Máme vám zpětnou vazbu od vás, že od Microsoftu jste obdrželi příliš mnoho komunikací, včetně duplicitních oznámení o spuštění produktu.
+
+V reakci na vaši zpětnou vazbu společnost Microsoft zjednodušila možnosti připravenosti na spuštění produktů pro nové a stávající nabídky.
+
+Teď vám nabízíme měsíční pohled na spuštění produktu, který je publikovaný v galerii prostředků připravenosti na operace. Tento měsíční [Náhled spuštění produktu](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) nahradí konkrétní komunikaci na spuštění produktu v galerii prostředků připravenosti na operace a v oznámeních partnerského centra.
+
+K tomuto [kalendáři](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) můžete také přistupovat z [kolekcí komunit](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/), [zobrazení kalendáře](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)a [bulletinů CSP](https://partner.microsoft.com/resources/collection/csp-monthly-update#/). Když publikujete kalendář pro spuštění produktu měsíčně s oznámením v galerii prostředků připravenosti na provoz, pošleme vám oznámení.
+
+Informace týkající se nové a stávající nabídky najdete pořád v protokolech pro náhled ceníku a v protokolech změn ceníku a také v blogu k produktům, licenčních průvodcích a na stránkách pro marketing produktů.
+
+Tato změna se bude vztahovat na spuštění následujících produktů:
+
+- Místní aplikace Dynamics
+- Microsoft 365
+- Microsoft Dynamics 365
+- Windows
+- Server  
+- nástroje
+- Týmy a výpovědi
+
+Budeme dál posílat konkrétní oznámení ke spuštění produktu, které vyžaduje podrobnosti o připravenosti na operace.
+
+### <a name="next-steps"></a>Další kroky
+
+Projděte si materiály k tomuto tématu a sdílejte tyto informace s příslušnými zúčastněnými stranami ve vaší organizaci.
+
+### <a name="questions"></a>Máte otázky?
+
+Další otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru.
+
+________________
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Změny požadavků na registraci zprostředkovatele CSP pro zákazníky
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-03-25
+- Možnosti
+
+### <a name="summary"></a>Souhrn
+
+V rámci našeho závazku pomáhat partnerům a zákazníkům, kteří provozují své podnikání na základě důvěry, budeme požadovat další informace o zákaznících, účinnost 25. března 2021.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři poskytovatele Cloud Solution Provider (CSP) a nepřímá poskytovatelé, kteří mají nové nebo existující zákazníky v zemích uvedených v další části
+
+### <a name="details"></a>Podrobnosti
+
+Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečné a zabezpečené metody ověřování zákazníků pro transakce předplatných zákazníka v programu CSP. 25. března 2021 budeme zavádět vylepšení rozhraní API partnerského centra a uživatelského rozhraní, které bude mít vliv na partnery, kteří splňují obě následující kritéria:
+
+1. Partner má přímý fakturační vztah s Microsoftem (to znamená, že partner je buď přímým partnerem, nebo nepřímým poskytovatelem).
+
+2. Partner pracuje s novými nebo stávajícími zákazníky v těchto zemích:
+
+    - Thajsko
+    - Vietnam
+    - Turecko
+    - Polsko
+    - Jižní Afrika
+    - Indie
+    - Brazílie
+    - Irák
+    - Myanmar
+    - Jižní Súdán
+    - Saúdská Arábie
+    - Spojené arabské emiráty
+    - Venezuela
+
+Partneři, kteří splňují kritéria, budou muset odeslat **registrační ID společnosti** zákazníka (označované také jako **DIČ organizace** zákazníka) a **telefonní číslo** , když připojí nové zákazníky nebo změní stávající podrobnosti o zákaznících. Tito partneři můžou volitelně zadat také **druhé jméno** zákazníka.
+
+Všimněte si, že při přidání registračního ID vaší společnosti byste měli použít své obchodní daňové ID, nikoli osobní ID zákazníka.
+
+Partneři, kteří pracují s novými nebo stávajícími zákazníky v následujících zemích, už jsou připojení k předchozí verzi v listopadu 2020.
+
+- Arménie
+- Ázerbájdžán
+- Bělorusko
+- Maďarsko
+- Kazachstán
+- Kyrgyzstán
+- Moldavsko
+- Rusko
+- Tádžikistán
+- Ukrajina
+- Uzbekistán
+
+Partneři se zákazníky ve zbývající části světa budou mít možnost 25. března 2021 pro zadání **ID registrace společnosti**, **telefonního čísla** a **středního jména** pro zákazníky jako volitelné podrobnosti.
+
+### <a name="next-steps"></a>Další kroky
+
+- Podrobnější pokyny najdete v technické dokumentaci a nejčastější dotazy v [kolekci vyhrazených partnerů](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) .
+
+- Připravte se na začlenění změn pomocí rozhraní API partnerského centra a uživatelského prostředí pro web. Pro testování bude k dispozici rozhraní API/sady SDK.
+
+- Nezapomeňte odeslat další data při připojování nových zákazníků nebo úpravách stávajících informací o zákaznících.
+
+- Pokud používáte řešení v rámci ovládacího panelu (CPV), obraťte se na CPV.
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud máte dotazy související s platným identifikátorem (označovaným také jako DIČ nebo DIČ), kontaktujte daňového poradce nebo místní finanční kancelář. Microsoft nemůže poskytnout pokyny k daňovým aspektům.
+
+Pokud potřebujete podporu v rámci svých operací s Microsoftem, [otevřete žádost o služby](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
 ## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Opravy provedené 1. března 2021, což je trvalá Ceníková cena softwaru

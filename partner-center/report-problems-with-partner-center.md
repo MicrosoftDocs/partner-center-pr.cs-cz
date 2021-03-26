@@ -9,23 +9,24 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582032"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549171"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Žádosti portálu pro portál a nástroje pro diagnostiku v partnerském centru
 
 **Platí pro**
 
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud for US Government
+- Partnerské centrum pro oficiální Cloud Microsoftu
 
 **Příslušné role**
 
-Všichni přihlášení uživatelé partnerského centra můžou vytvářet žádosti o podporu partnerů. Uživatelé mohou zobrazit pouze žádosti o podporu, které odeslali po přihlášení do partnerského centra.
+- Všichni partneři, kteří mají zájem o partnerské Centrum
+
+Všichni přihlášení uživatelé partnerského centra můžou vytvořit žádost o podporu partnera. Uživatelé mohou zobrazit pouze žádosti o podporu, které odeslali po přihlášení do partnerského centra.
 Pokud narazíte na problémy nebo potřebujete pomoc s chybami portálu pro Partnerský portál, obraťte se na podporu pro partnerské Centrum. Odešlete diagnostiku, aby se problém vyřešil rychleji.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Nahlášení problému s partnerským centrem
@@ -77,7 +78,7 @@ Pokud dojde k chybě, která se nachází na stránce partnerského centra, mů�
 
 Můžete zobrazit náhled diagnostických informací a pak ji uložit do souboru, který můžete připojit v žádosti o podporu. Pokud nám chcete poslat tyto informace:
 
-3. Před odesláním zkontrolujte informace v souboru, protože mohou obsahovat identifikovatelné osobní údaje, které byste mohli chtít odebrat.
+3. Před odesláním zkontrolujte informace v souboru, protože mohou obsahovat osobní údaje, které byste mohli chtít odebrat.
 
     >[!NOTE]
     >V některých prohlížečích může být sekce **zobrazení stránky** v dolní části stránky **náhledu** prázdná. To je v pořádku.

@@ -8,22 +8,18 @@ description: Vyžádejte si vztah se zákazníkem pro Multi-Channel nebo více k
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527611"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548967"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Jak požádat zákazníka o navázání vztahu na úrovni prodejce v Partnerském centru
 
-**Platí pro**
-
-- Partnerské centrum
-
 Pokud chcete svým jménem spravovat službu nebo předplatné zákazníka, musíte zákazníkovi udělit oprávnění správce k této službě nebo předplatnému a podepsat smlouvu o zákaznících Microsoftu.
 
-Pokud chcete zřídit vztah prodejce se zákazníkem a spravovat jenom předplatná Azure, která zřídíte, není nutné získávat oprávnění správce.
+Pokud chcete zřídit vztah prodejce se zákazníkem a spravovat jenom předplatná Azure, která zřídíte, nemusíte získávat oprávnění správce.
 
 >[!NOTE] 
 >Možnost nevyžadující oprávnění není dostupná pro partnery, kteří provozují Microsoft Cloud pro státní správu USA nebo Microsoft Cloud Německo. Další informace najdete v tématu [delegování oprávnění pro správu partnerům pro zákazníky](customers-revoke-admin-privileges.md).

@@ -1,5 +1,5 @@
 ---
-title: Zaregistrujte své obchody
+title: Registrace obchodů
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
@@ -9,22 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9964dd4fb1ae96e890dd357a045acdb152fb95f1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 263211fc03d7579a229d8a6df8ed4ad7ca59ed93
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527294"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549188"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Zaregistrujte obchody, které jste vyhráli v partnerském centru, abyste později mohli získat další příležitosti.
 
-**Platí pro**
-
-- Partnerské centrum
-
 Obchody, které jste vyhráli v partnerském centru, můžete zaregistrovat poskytnutím dalších informací o smlouvě. Tyto informace nám pomáhají zajistit další příležitosti v budoucnu.
 
-V případě určitých oprávněných řešení se po výběru **získaného** v [procesu odpovědi na odkaz](manage-leads.md)zobrazí výzva k zadání dalších informací, abyste mohli svou práci zaregistrovat. Microsoft zkontroluje informace, které poskytnete, a může požádat o další podrobnosti během procesu kontroly.
+V případě určitých oprávněných řešení se po výběru **získaného** v [procesu odpovědi na odkaz](manage-leads.md)zobrazí výzva k zadání dalších informací k registraci vašeho obchodu. Microsoft bude kontrolovat informace, které poskytnete, a může požádat o další podrobnosti během procesu kontroly.
 
 Můžete také zaregistrovat nové obchody, které jste vyhráli, a to i v případě, že nepocházejí prostřednictvím [odkazu](referrals.md). 
 
@@ -56,14 +52,14 @@ Nové, aktivní a uzavřené registrace koupě můžete zkontrolovat na různýc
 
 ### <a name="action-required"></a>Požadovaná akce
 
-Na stránce **odkazy > aktualizace koupí > vyžadované akce** se zobrazí nové registrace, které ještě nebyly zaregistrovány, nebo potřebujete aktualizaci. Pomocí filtrů můžete zobrazit jenom **neúplné** nebo **Aktualizovat požadované** registrace obchodu. **Neúplné** registrace koupě jsou ty, které pocházejí z odkazů, ale ještě nejsou zaregistrované. **Aktualizace vyžadované** registrace koupě jsou ty, které se vytvořily a zaregistrovaly, ale které vyžadují, abyste aktualizovali informace, které jste zadali.
+Na stránce **odkazy > aktualizace koupí > vyžadované akce** se zobrazí nové registrace, které ještě nebyly zaregistrovány, nebo potřebujete aktualizaci. Pomocí filtrů můžete zobrazit jenom **neúplné** nebo **Aktualizovat požadované** registrace obchodu. **Neúplné** registrace koupě jsou ty, které pocházejí z odkazů, ale ještě nejsou zaregistrované. **Aktualizace vyžadované** registrace koupě, které byly vytvořeny a zaregistrovány, ale vyžadují, abyste aktualizovali informace, které jste zadali.
 
-### <a name="in-progress"></a>Probíhá
+### <a name="in-progress"></a>Rozpracované
 
 V části **odkazy > registrace koupí > na stránce Průběh** se zobrazí registrace obchodu, které Microsoft kontroluje. Pokud budeme potřebovat další informace, budeme používat poskytnuté kontaktní údaje pro **registraci** .
 
 Pokud je potřeba aktualizovat nějaké informace, můžeme přesunout registraci do práce na stránce **požadované akce** .
 
-### <a name="closed"></a>Uzavřená
+### <a name="closed"></a>Uzavřeno
 
-V části **odkazy > registrace koupě > zavřená** stránka se zobrazí obchody, které byly úspěšně registrovány a zkontrolovány společností Microsoft. Pomocí filtrů můžete zobrazit jenom **schválené** nebo **odmítnuté** registrace obchodu.
+V části **odkazy > registrace koupě > zavřená** stránka se zobrazí obchody, které úspěšně zaregistrovali a zkontrolovali společnost Microsoft. Pomocí filtrů můžete zobrazit jenom **schválené** nebo **odmítnuté** registrace obchodu.

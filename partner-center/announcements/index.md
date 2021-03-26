@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880748"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549035"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,8 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z března 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Nabídky/moderní pracoviště|[Operace s Microsoftem: Úvod do kalendářního spuštění produktu](2021-march.md#16)|25. března|
+|Možnosti|[Změny požadavků na registraci zprostředkovatele CSP pro zákazníky](2021-march.md#15)|25. března|
 |Nabídky/trhy|[Opravy provedené 1. března 2021, což je trvalá Ceníková cena softwaru](2021-march.md#14)|23. března|
 |Možnosti|[Vydání sady SDK na .NET Standard (v 1.17.0)](2021-march.md#13)|23. března|
 |Možnosti|[Nabídka CSP pro komerční web Marketplace a FY21 CSP pro opravňující nabídky](2021-march.md#12)|18. března|

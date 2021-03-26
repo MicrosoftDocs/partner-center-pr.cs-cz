@@ -9,19 +9,15 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7be44a0f67258989e4a55d6d34a93019712b341b
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: cf3514d394dc49efb967632baa277df94bbfdfbd
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92527173"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548984"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Resetování hesla uživatele v partnerském centru
 
-**Platí pro**
-
-- Partnerské centrum
- 
 **Příslušné role**
 
 - Globální správce
@@ -39,7 +35,7 @@ Pokud uživatelé zapomene hesla, přiřaďte jim dočasné heslo. Můžou ho po
 
 3. V dolní části stránky vyberte možnost **resetovat heslo**.
 
-4. Pro nové přihlášení se zobrazí potvrzovací obrazovka s dočasným heslem. Musíte zkopírovat a odeslat ho novému uživateli – po opuštění obrazovky to není přístupné. Při prvním přihlášení se zobrazí výzva k aktualizaci hesla.
+4. Zobrazí se potvrzovací obrazovka s dočasným heslem. Zkopírujte dočasné heslo a odešlete ho novému uživateli – dočasné heslo nebude po opuštění obrazovky dostupné. Když se uživatel poprvé přihlásí, zobrazí se výzva k aktualizaci hesla.
 
 ## <a name="next-steps"></a>Další kroky
 

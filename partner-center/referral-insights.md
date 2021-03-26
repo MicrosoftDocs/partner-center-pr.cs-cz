@@ -9,21 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756493"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549256"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Získejte přehledy odkazů v partnerském centru a zjistěte, jak dělají vaše odkazy.
 
-**Platí pro**
-
-- Příležitosti společného prodeje
-- Soukromé obchody
-
-Stránka s **příležitostmi k prodeji** v části **Analýza** v tématu odkazy vám umožní zjistit, jak vaše odkazy provádějí. Pravidelně kontrolujte tyto metriky a Identifikujte trendy nebo oblasti, které vyžadují pozornost, a začněte přispívat k vašim obchodním cílům.
+Stránka s **příležitostmi k prodeji** v části **Analýza** v tématu odkazy vám umožní zjistit, jak probíhá vaše reference. Pravidelně kontrolujte tyto metriky a Identifikujte trendy nebo oblasti, které vyžadují pozornost, a začněte přispívat k vašim obchodním cílům.
 
 Pokud chcete zobrazit data o společném prodeji příležitostí, přejděte v nabídce partnerského centra do části **references > Analytics > možnosti společného prodeje**.
 
@@ -32,9 +27,9 @@ Pokud chcete zobrazit data o společném prodeji příležitostí, přejděte v 
 
 ## <a name="apply-filters"></a>Použití filtrů
 
-V horní části stránky **možností společného prodeje** můžete vybrat časové období, pro které chcete zobrazit data. Výchozí výběr je **3m** (tři měsíce), ale můžete se rozhodnout zobrazit data po dobu šesti měsíců nebo jeden rok. Můžete také vybrat možnost **vlastní** a zobrazit data pro všechny odkazy v konkrétním časovém období.
+V horní části stránky **možností společného prodeje** můžete vybrat časové období, pro které chcete zobrazit data. Výchozí výběr je **3m** (tři měsíce), ale můžete se rozhodnout zobrazit data na šest měsíců nebo jeden rok. Můžete také vybrat možnost **vlastní** a zobrazit data pro všechny odkazy v konkrétním časovém období.
 
-Můžete kliknout na tlačítko filtry a otevřít panel, který umožňuje filtrovat všechna data na této stránce podle jména zákazníka, země, typu práce, směru řazení, názvu řešení a stavu. Níže jsou uvedeny podrobnosti o těchto filtrech.
+Můžete vybrat tlačítko **filtry** a otevřít panel, který vám umožní filtrovat všechna data na této stránce podle jména zákazníka, země, typu práce, směru řazení, názvu řešení a stavu. Níže jsou uvedeny podrobnosti o těchto filtrech.
 
 - **Název zákazníka**: výchozí hodnota je **vše**, ale můžete omezit data na jednoho nebo více zákazníků, které vyberete.
 - **Country (země**): výchozí hodnota je **All**, ale data můžete omezit na jednu nebo více zemí zákazníka, které vyberete.
@@ -47,7 +42,7 @@ Informace ve všech grafech uvedených níže budou odrážet rozsah dat a všec
 
 ## <a name="referrals-summary"></a>Souhrn referenčních údajů
 
-Tato karta obsahuje přehled o tom, jak se účtují příležitosti společného prodeje.
+Tato karta obsahuje přehled o tom, jak dělají příležitosti společného prodeje.
 
 Graf zobrazuje celkový počet obchodů, počet získaných, počet ztracených a celkový objem operací koupě (v USD) pro vybrané časové období.
 
@@ -63,7 +58,7 @@ V této části se zobrazuje vizuální indikátor toho, jak se vaše obchody po
 
 ## <a name="deals-by-geography"></a>Obchody podle geografie
 
-V této části najdete země nebo oblasti, ze kterých pocházejí obchody, spolu s podrobnostmi pro každou zemi nebo oblast. K dispozici je zobrazení tabulky podrobností o obchodu pro každou zemi spolu s zobrazením mapy všech zemí. Můžete kliknout na konkrétní zemi v tabulce nebo kliknout na zobrazení mapy pro přiblížení na konkrétní zemi.
+V této části najdete země nebo oblasti, ze kterých pocházejí obchody, spolu s podrobnostmi pro každou zemi nebo oblast. K dispozici je zobrazení tabulky podrobností o obchodu pro každou zemi spolu s zobrazením mapy všech zemí. V tabulce můžete vybrat konkrétní zemi nebo vybrat zobrazení mapy, které chcete zvětšit na konkrétní zemi.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Obrázek znázorňující geografickou distribuci odkazů.":::
 
@@ -94,7 +89,7 @@ Pro porovnání dat se dají vybrat tři dimenze.
 - Trhy
 - Řešení
 
-Když vyberete typ kouposti, máte možnost porovnat výkon referenčních seznamů s ohledem na možnosti společného prodeje a soukromé obchody. U obou trhů i řešení můžete pro porovnání výkonu vybrat až tři různé možnosti. První graf, který je pruhový graf, bude mít data uvedená v měsíci trendu v měsíci, který je založený na hlavním pivotu, což je objem nebo získaná hodnota obchodů. Napravo od pruhového grafu je také výsečový graf, který ukazuje rozdělení podle procenta pro stejná data.
+Když vyberete typ kouposti, můžete porovnat výkon odkazů s ohledem na možnosti společného prodeje a soukromé obchody. U obou trhů i řešení můžete pro porovnání výkonu vybrat až tři různé možnosti. První graf, který je pruhový graf, bude mít data uvedená v měsíci trendu v měsíci, který je založený na hlavním pivotu, což je objem nebo získaná hodnota obchodů. Napravo od pruhového grafu je také výsečový graf, který ukazuje rozdělení podle procenta pro stejná data.
 
 :::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Obrázek znázorňující část porovnání":::
 

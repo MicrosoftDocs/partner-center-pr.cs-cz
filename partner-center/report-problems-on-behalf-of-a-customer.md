@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756447"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549052"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Nahlášení problému služby jménem zákazníka – včetně toho, kdy a jak postupovat
 
 **Platí pro**
 
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud for US Government
+- Partnerské centrum pro oficiální Cloud Microsoftu
 
 **Příslušné role**
 
@@ -104,7 +103,7 @@ Chcete-li najít kontaktní údaje výrobce ISV:
 
 ## <a name="faq"></a>Časté otázky
 
-Nejčastější dotazy týkající se žádostí o služby, které můžete odeslat jménem zákazníka, najdete v následujících tématech. 
+V následujících nejčastějších dotazech o žádostech o služby, které můžete odeslat jménem zákazníka, si přečtěte následující Nejčastější dotazy. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Co je součástí nároku na podporu?
 
@@ -120,7 +119,7 @@ Naše doby první odezvy závisí na závažnosti odeslaného incidentu. Závaž
 
 Doby první odezvy pro **incidenty s technickým poškozením**:
 
-- Kritický dopad (závažnost A): 2 hodiny (významná ztráta nebo snížení úrovně služeb. Provozní služby.)
+- Kritický dopad (závažnost A): dvě hodiny (významné ztráty nebo snížení úrovně služeb. Provozní služby.)
 - Střední dopad (závažnost B): čtyři hodiny (mírné ztráty nebo snížení úrovně služeb. Provozní služby byly částečně ovlivněny.)
 - Minimální dopad (závažnost C): osm hodin (minimální ztráta nebo snížení úrovně služeb. Služby, které jsou stále dostupné nebo které neprodukční služby ovlivnily.)
 
