@@ -167,13 +167,9 @@
     - name: Pokyny ke konsolidaci tenantů s regionální autorizací CSP
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Aktualizace metody potvrzení přijetí Smlouvy se zákazníkem Microsoftu
-      href: confirm-consent.md
-    - name: Potvrzení přijetí Smlouvy se zákazníkem Microsoftu
+    - name: Jak potvrdit přijetí smlouvy o zákaznících Microsoftu v zákazníkovi
       href: confirm-customer-agreement.md
-      displayName: csp
-    - name: Kdy ověřit přijetí Smlouvy se zákazníkem jménem zákazníka
-      href: attest-acceptance-customer-agreement.md
+      displayName: 'csp, agreement'
     - name: Žádost o prodej v národních cloudech
       href: csp-national-clouds-overview.md
       items:
