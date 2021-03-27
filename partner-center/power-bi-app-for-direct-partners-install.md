@@ -10,25 +10,27 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215845"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633688"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalace a vyzkoušení aplikace Analýzy v Partnerském centru pro Microsoft Power BI
 
 
 **Příslušné role**
--   Globální správce
--   Správce uživatelů
--   Agent prodeje
--   Agent správce
+
+- Globální správce
+- Správce správy uživatelů
+- Agent prodeje
+- Agent správce
 
 ## <a name="before-you-begin"></a>Než začnete
 
 Vyberte aplikaci, která je pro vaši firmu nejdůležitější, z následujícího seznamu dostupných Power BIch aplikací:
+
 - [Přímý poskytovatel](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [Nepřímý poskytovatel](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
@@ -49,25 +51,25 @@ Než nainstalujete verzi Preview partnerského centra pro analýzu, ujistěte se
 
 ## <a name="to-install-the-app"></a>Instalace aplikace
 
-1. V předchozí části klikněte na příslušný odkaz na zdroj aplikace (přímý poskytovatel/nepřímý poskytovatel/nepřímý prodejce).
+1. V části výše vyberte zdrojový odkaz aplikace (přímý poskytovatel/nepřímý poskytovatel/nepřímý prodejce).
 
-2. Klikněte na **získat hned**. 
+2. Vyberte **získat hned**. 
 
-3. Kliknutím na **pokračovat** souhlasíte s podmínkami a ujednáními.
+3. Odsouhlasení podmínek a ujednání výběrem možnosti **pokračovat**.
 
 4. V části už máte účet? Vyberte **Přihlásit se**.
 
-5. Na další stránce zadejte své uživatelské jméno a heslo Power BI a pak vyberte přihlásit se.
+5. Na další stránce zadejte své uživatelské jméno a heslo Power BI a pak vyberte **Přihlásit se**.
 
 6. Nainstalujte pracovní prostor zadáním názvu pracovního prostoru.
 
 7. Nainstalovanou šablonu aplikace můžete najít v části aplikace.
 
-8. Klikněte na aplikace a vyberte nainstalované aplikace.
+8. Vyberte **aplikace** a zvolte nainstalované aplikace.
 
 9. Začněte tím, že otevřete obrazovku nové aplikace.
 
-10. Pokud se chcete připojit k datům, klikněte na **připojit**.
+10. Pokud se chcete připojit k datům, vyberte **připojit**.
 
 11. V místním okně **připojit k partnerskému centru Analytics** ověřte, že je **metoda ověřování** nastavená na **oAuth2** , nebo vyberte **oAuth2** ze seznamu, pokud není. 
 

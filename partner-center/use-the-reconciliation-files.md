@@ -1,7 +1,7 @@
 ---
 title: Použití souborů odsouhlasení
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: Přečtěte si informace o souborech pro odsouhlasení v partnerském centru a o tom, jak interpretovat detailní zobrazení položek poplatků za daný fakturační cyklus.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022770"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633892"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Přečtěte si, jak číst položky řádků v souborech odsouhlasení partnerského centra.
 
@@ -55,6 +55,27 @@ Pomocí těchto kroků opravíte všechny problémy formátování souborů odso
 ## <a name="download-reconciliation-files-programmatically"></a>Stažení souborů pro odsouhlasení programově
 
 Soubory pro odsouhlasení můžou být velmi velké a někdy je obtížné stáhnout. Chcete-li stáhnout soubory pro odsouhlasení programově, viz [získat řádky faktury](/partner-center/develop/get-invoiceline-items).
+
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Pokud soubor překračuje limit řádků v aplikaci Excel
+
+Pokud si můžete stáhnout soubor pro odsouhlasení, ale nemůžete ho otevřít v Microsoft Excelu, pravděpodobně to znamená, že soubor obsahuje více řádků, než je Excel bude možné použít. Pokud k tomu dojde, můžete použít kterýkoli z následujících postupů k otevření souboru.
+
+### <a name="open-a-recon-file-in-power-bi"></a>Otevřete soubor rekognoskaci v Power BI
+
+1. Stáhněte soubor pro odsouhlasení obvyklým způsobem.
+2. Stáhněte, nainstalujte a otevřete instanci Power BI.
+3. Na kartě Power BI **Domů** vyberte **získat data**.
+4. V seznamu **běžných zdrojů dat** vyberte **text/CSV**.
+5. Po zobrazení výzvy otevřete soubor rekognoskaci.
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Otevření souboru rekognoskaci v kontingenční tabulce aplikace Excel
+
+1. Stáhněte soubor pro odsouhlasení obvyklým způsobem.
+2. Otevřete nový soubor v aplikaci Microsoft Excel.
+3. Na kartě **data** vyberte **získat data**, vyberte **ze souboru** a pak vyberte **text/CSV**.
+4. Po zobrazení výzvy otevřete soubor rekognoskaci. Vaše data se zobrazí.
+5. V rozevírací nabídce **načíst** vyberte **načíst do** a pak **OK**.
+6. V dialogovém okně **importovat data** vyberte **sestavu kontingenční tabulka** a otevřete soubor.
 
 ## <a name="map-taxes-or-vat"></a>Mapování daní nebo DPH
 

@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281292"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633756"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Ceny a nabídky pro Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure a další
 
@@ -22,7 +22,7 @@ ms.locfileid: "100281292"
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent správce
 - Správce partnera MPN
 - Agent prodeje
@@ -95,7 +95,7 @@ U partnerských marží se může rozdíl mezi ceníkem a odhadovanou maloobchod
 
 ## <a name="add-on-offer-types"></a>Typy nabídek doplňku
 
-Služby založené na licencích můžete získat buď jako základní nabídky, nebo jako doplňky. Jenom základní nabídky se zjišťují a účtují prostřednictvím katalogu partnerského centra. Doplňky je nutné použít po zakoupení základních nabídek. Sloupec **typu sekundární licence** podle ceníku založený na licencích obsahuje informace o každé nabídce a jejím typu. Základní nabídky mají **nespecifické** hodnoty ve sloupci typ sekundární licence na Ceník a můžou být zakoupeny v katalogu. Hodnoty typu sekundární licence **doplňku** nejde koupit v katalogu. Pokud si chcete koupit tyto doplňky:
+Služby založené na licencích můžete získat buď jako základní nabídky, nebo jako doplňky. Jenom základní nabídky se zjišťují a účtují prostřednictvím katalogu partnerského centra. Je nutné použít doplňky po zakoupení základních nabídek. Sloupec **typu sekundární licence** podle ceníku založený na licencích obsahuje informace o každé nabídce a jejím typu. Základní nabídky mají **nespecifické** hodnoty ve sloupci typ sekundární licence na Ceník a můžou být zakoupeny v katalogu. Hodnoty typu sekundární licence **doplňku** nejde koupit v katalogu. Pokud si chcete koupit tyto doplňky:
 
 1. Chcete-li zobrazit seznam ID nabídek, které je třeba zakoupit před nákupem doplňku, Projděte si seznam nabídek.
 2. Koupit základní nabídku z katalogu
@@ -143,9 +143,9 @@ Všechny ceny v seznamech ceníků partnerského centra pro partnery jsou daně 
 
 ### <a name="36-month-offers"></a>nabídky 36 měsíců
 
-K dispozici jsou přibližně 50 Dynamics nabídek, které mají tříleté období. Ty jsou identifikovány pomocí **(36 mo)** v názvu nabídek. Tyto nabídky jsou velmi podobné ročním termínům nabídky. Jediným rozdílem je období. Tyto nabídky mají tři roky, což znamená, že předplatná se automaticky Obnovují po třech letech a ne na jednom. Níže je uveden přehled toho, jak tyto nabídky fungují:
+K dispozici jsou přibližně 50 Dynamics nabídek, které mají tříleté období. Ty jsou identifikovány pomocí **(36 mo)** v názvu nabídek. Tyto nabídky jsou podobné ročním termínům nabídky. Jediným rozdílem je období. Tyto nabídky mají tříleté období, aby se odběry obnovily automaticky po třech letech, a ne na jednom. Níže je uveden přehled toho, jak tyto nabídky fungují:
 
-- Výrazy jsou 36 měsíců a předplatné se po třech letech automaticky prodlouží.
+- Výrazy jsou 36 měsíců a předplatné se po třech letech prodlouží automaticky.
 - Partneři můžou v průběhu období předplatného zrušit nebo změnit počet licencí.
 - Roční obnovení bude v ceně za rok nákupu za tříleté období.
 - Četnost fakturace je stále roční nebo měsíční.
@@ -162,11 +162,11 @@ Základní nabídka Microsoft 365 a1 má šest let.  Doplňky Office 365 a1 jsou
 
 Níže je uveden přehled toho, jak tyto nabídky fungují:
 
-- Termín platí pro 72 měsíců nebo 6 let.
-- Předplatné se neobnovilo a platnost vyprší po 6 letech.
+- Termín platí pro 72 měsíců nebo šest let.
+- Předplatné se neobnovilo a platnost platnosti nekončí po šesti letech.
 - Četnost fakturace na této nabídce se zobrazí jako roční, ale po získání předplatného se partner účtuje na první faktuře předem.
 - Předplatná nabídek a1 72-month jsou po nákupu uzamčena a nelze je zrušit a počty licencí nelze do předplatného přidat po počátečním nákupu.
-- Toto předplatné je nezrušité a nevratné.
+- Toto předplatné je nevratné a nevratné.
 
 ## <a name="estimated-retail-price-erp"></a>Odhad maloobchodní ceny (ERP)
 

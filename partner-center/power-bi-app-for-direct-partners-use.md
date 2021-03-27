@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 244cb852728d47360cf8ecd1d1e9ccb641466b1d
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215743"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633858"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Zobrazení obchodních dat pomocí aplikace Datacenter Center Analytics pro Microsoft Power BI
 
@@ -24,7 +24,7 @@ ms.locfileid: "98215743"
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent prodeje
 - Agent správce
 

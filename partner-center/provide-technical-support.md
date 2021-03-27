@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7488720bf0028dcccd86ee51b18d2a42b753e76
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215828"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633841"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Poskytněte technickou podporu, která zákazníkům pomůžou nakonfigurovat, spravovat a používat svoje předplatná.
 
@@ -22,7 +22,7 @@ ms.locfileid: "98215828"
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent helpdesku
 - Agent správce
 
@@ -45,9 +45,9 @@ V partnerském centru můžete:
 
 Partneři, kteří se dodávají v modelu CSP, jsou důvěryhodným poradcem pro zákazníky a vlastními vztahy mezi nimi, včetně podpory, když jejich zákazník má dotaz nebo problém. Prostřednictvím podpory se partneři dotykového ovládání mohou dozvědět více o zákaznících a jejich podnikání, identifikovat nové služby a řešení, které mají hodnotu jednotky.
 
-Aby mohl partner splnit požadavek na podporu, může znovu prodávat podporu z jiné entity, může uplatnit prodej všech nebo částí své struktury podpory a/nebo může nastavit strukturu pro poskytování podpory přímo.  Partner může účtovat veškerou podporu poskytovanou zákazníkům nebo jejich část. Partner by se měl vyjadřují svým zákazníkům, kteří budou poskytovat podporu, hodiny služby a způsob kontaktu, jakož i ceny (Pokud je zpoplatněná podpora). 
+Aby mohl partner splnit požadavek na podporu, může znovu prodávat podporu z jiné entity, může uplatnit prodej všech nebo částí své struktury podpory a/nebo může nastavit strukturu pro poskytování podpory přímo.  Partner může účtovat veškerou podporu poskytovanou zákazníkům nebo jejich část. Partner by se měl vyjadřují svým zákazníkům, kteří budou poskytovat podporu, dobu poskytování služeb a kontaktní metodu a ceny (Pokud je zpoplatněná podpora). 
 
-Partneři se vyžadují, aby mohli přijímat příchozí žádosti o podporu od zákazníků, diagnostikovat problémy pro nejlepší schopnost partnera a pak vyřešit problémy, které spadají do oboru standardních hodnot podpory. Pokud partner nedokáže problém vyřešit, může zvýšit problémy společnosti Microsoft prostřednictvím následujících vozidel podpory:
+Partneři musí dostávat příchozí žádosti o podporu od zákazníků, diagnostikovat problémy pro nejlepší schopnost partnera a pak vyřešit problémy, které jsou v rozsahu hranice podpory standardních hodnot. Pokud partner nedokáže problém vyřešit, může zvýšit problémy společnosti Microsoft prostřednictvím následujících vozidel podpory:
 
 - Podpora **komerčních** problémů je dostupná všem partnerům v programu CSP.
 
@@ -59,7 +59,7 @@ Partneři se vyžadují, aby mohli přijímat příchozí žádosti o podporu od
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Poskytování fakturace, správy předplatných a technické podpory 
 
-Každá online služba má konkrétní a podrobné požadavky na poskytování fakturace, správy předplatných a technické podpory zákazníkům. Další informace najdete tady:
+Každá online služba má konkrétní a podrobné požadavky na poskytování fakturace, správy předplatných a technické podpory zákazníkům. Další informace naleznete v tématu:
 
 - [Předplatná Dynamics 365 prodávaná prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

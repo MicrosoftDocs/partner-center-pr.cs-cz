@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 7645495e481010a92cc4f9cd95bf26f5e3783b70
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215896"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633824"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Zakupte si plán Azure pro zákazníky, kteří & získat přístup k nejnovějším službám Azure podle tarifů průběžných plateb.
 
 **Příslušné role**
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent prodeje
 
 Když si koupíte plán Azure pro zákazníky v rámci smlouvy o zákaznících Microsoftu, máte přístup k úplnému katalogu nejnovějších služeb Azure podle tarifů průběžných plateb. Partneři CSP teď budou mít přístup k jakékoli službě Azure, když budou všeobecně k dispozici. Partner může mít několik předplatných Azure v rámci plánu Azure. 
@@ -79,7 +79,7 @@ Rezervace Azure musí být přidružené k aktivnímu plánu Azure. V seznamu p�
 >Pokud zákazník ještě nemá aktivní plán Azure, vyberte Azure a přidejte ho hned teď. Další pokyny najdete v tématu [Nákup rezervací Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
 >[!Note]
->Obor rezervace se dá nastavit jenom na **Shared**, aktuálně v partnerském centru. Pokud chcete vybrat rozsah jednoho předplatného nebo aktualizovat ze sdíleného do jednoho oboru předplatné, na **portálu pro správu Microsoft Azure** použijte následující pokyny. 
+>Obor rezervace se dá nastavit jenom na **Shared**, aktuálně v partnerském centru. Pokud chcete vybrat rozsah jednoho předplatného nebo aktualizovat ze sdíleného do oboru jednoho předplatného, přečtěte si následující pokyny v **Microsoft Azure portálu pro správu** . 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Nastavení rezervací sdíleného rozsahu":::
 

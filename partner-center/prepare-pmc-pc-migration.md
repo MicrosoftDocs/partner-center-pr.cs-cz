@@ -9,18 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527327"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633875"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Příprava na přesun z partnerského centra členství (PMC) do partnerského centra
 
 **Příslušné role**
+
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent prodeje
 - Agent správce
 
@@ -94,7 +95,7 @@ Primární kontakt ale nemusí být nutně osoba, která má autorizaci k podepi
 
 ### <a name="can-microsoft-migrate-my-mpn-membership-for-me"></a>Může Microsoft migrovat svoje členství v programu MPN?
 
-Ne. Společnost Microsoft vám nemůže přesunout váš účet členství do partnerského centra. Pokud chcete zahájit proces migrace, budete muset svůj účet přesunout pomocí přihlášení k PMC pomocí svého pracovního účtu (přihlašovací údaje). Po dokončení postupu pro přesunutí účtu můžete začít spravovat členství a přiřazovat role uživatelů a oprávnění k vašemu týmu, aby mohli získat přístup k výhodám a lépe spravovat členství. 
+No. Společnost Microsoft vám nemůže přesunout váš účet členství do partnerského centra. Pokud chcete zahájit proces migrace, budete muset svůj účet přesunout pomocí přihlášení k PMC pomocí svého pracovního účtu (přihlašovací údaje). Po dokončení postupu pro přesunutí účtu můžete začít spravovat členství a přiřazovat role uživatelů a oprávnění k vašemu týmu, aby mohli získat přístup k výhodám a lépe spravovat členství. 
 
 Microsoft automaticky migruje aktuální kompetence, výhody, informace o poloze, banku a daňové informace pro pobídky a asociace MCP, včetně partnerského přístupu k partnerské škole.
 
@@ -112,7 +113,7 @@ Vaše vhodné výhody se nemění. Pokud si všimnete rozporů, obraťte se na [
 
 ### <a name="will-our-microsoft-accounts-that-have-visual-studio-benefits-allocations-be-honored"></a>Budou se respektovat naše účty Microsoft, které mají přidělení výhod sady Visual Studio?
 
-Ano Výhody sady Visual Studio přidělené účty spravované služby se budou respektovat a uchovávat. Po obnovení v partnerském centru budou taky zachované. Pokud ale přidělení MSA odeberete po migraci v partnerském centru, nejde ho přidat zpátky do partnerského centra.
+Ano. Výhody sady Visual Studio přidělené účty spravované služby se budou respektovat a uchovávat. Po obnovení v partnerském centru budou taky zachované. Pokud ale přidělení MSA odeberete po migraci v partnerském centru, nejde ho přidat zpátky do partnerského centra.
 
 V partnerském centru může partner přidat pracovní účty a uživatelské účty hosta, které jsou MSA ze stejného tenanta, ve kterém je partner správce MPN v tenantovi Azure AD. Pokud je partner globálním správcem ve více klientech Azure AD a všichni tito klienti jsou přidružení ke stejnému účtu partnerského centra, pak partnerovi může přidat uživatele ze všech těchto tenantů do výhod sady Visual Studio a přidělení na základě využití Azure.
 
@@ -146,7 +147,7 @@ Role rolí v partnerském centru jsou založené na umístění a zahrnují pob�
 
 ### <a name="can-incentives-admins-be-assigned-at-the-global-and-location-level"></a>Je možné přiřazovat správce na úrovni globálních a umístění?
 
-Ano Můžete přiřadit správce pobídek jako správce pobídek pro všechna umístění nebo každé umístění může mít svého vlastního správce pobídek.
+Ano. Můžete přiřadit správce pobídek jako správce pobídek pro všechna umístění nebo každé umístění může mít svého vlastního správce pobídek.
 
 ### <a name="can-incentives-be-paid-at-the-global-or-location-level"></a>Je možné je vyplatit na globální úrovni nebo na úrovni umístění?
 
@@ -158,7 +159,7 @@ Vaše společnost může vytvořit tolik obchodních profilů, kolik budete pot�
 
 ### <a name="how-will-referrals-be-assigned-what-changes-can-i-expect-for-example-if-i-have-a-global-company-in-one-market-and-locations-in-other-markets-how-will-referrals-be-assigned"></a>Jak budou odkazy přiřazeny, jaké změny je možné očekávat? Například pokud mám globální společnost na jednom trhu a umístění na jiných trzích, jak budou odkazy přiřazeny?
 
-Odkazy jsou přiřazeny na základě parametrů hledání, které zákazník definuje. Bez ohledu na to, jestli máte jedno nebo mnoho umístění, pokud zákazníci určí požadované umístění a máte firmu, která splňuje ostatní parametry, odkaz by přešel do tohoto umístění.
+Odkazy jsou přiřazeny na základě parametrů hledání, které zákazník definuje. Bez ohledu na to, jestli máte jedno nebo mnoho umístění, pokud zákazník zadá požadované umístění a máte firmu, která splňuje ostatní parametry, odkaz by přešel do tohoto umístění.
 
 ### <a name="i-am-migrating-to-partner-center-from-within-russia-i-get-an-error-message-about-web-direct-how-do-i-continue-with-the-migration"></a>Migruju do partnerského centra z Ruska. Zobrazí se chybová zpráva o webu Direct. Návody pokračovat v migraci?
 
