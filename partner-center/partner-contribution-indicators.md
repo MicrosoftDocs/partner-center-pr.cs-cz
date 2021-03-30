@@ -1,7 +1,7 @@
 ---
 title: Ukazatele příspěvku partnera – certifikátů
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si o sedmi ukazatelích příspěvků partnerů (PCI), které ukazují partnery, jak dosáhnout vysoké nebo zlaté cloudové Business Applications kompetence.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193643"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730259"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Použití ukazatelů příspěvků partnerů k dosažení Business Applications kompetenci cloudu
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193643"
 - Správce účtu
 
 Tento článek popisuje sedm klíčových ukazatelů pro příspěvek partnera (PCI), které se používají k vyhodnocení pokroku partnera směrem k získání nebo udržení stříbrného nebo Gold cloudu Business Applications kompetenci.
+
+Průběh PCI můžete zobrazit na řídicím panelu příspěvku partnera. Data se aktualizují dvacátý den v měsíci a data z předchozího měsíce. Například data z února budou publikována 20. března.
 
 > [!NOTE]
 > Přečtěte si, jak můžou partneři použít jinou sadu metrik ukazatelů na základě příspěvku partnerů k dosažení Midmarket cloudových řešení stříbrného a Gold v rámci cloudu Business Applications možnosti protokolu SMB. Další informace najdete v tématu [použití indikátorů příspěvků partnerů pro kompetenci a Midmarket cloudových řešení](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md). Můžete si také [přečíst další](https://partner.microsoft.com/membership/competencies) informace o kompetencích a jejich požadavcích.
@@ -109,6 +111,20 @@ Následující obrázek nabízí rychlý a vizuální odkaz.
 
 Každá metrika PCI má prahové hodnoty Microsoftu pro sadu, které mohou získat maximální body vaší společnosti. Tyto prahové hodnoty se liší v případě zapojení zákazníků a finančních cest a operací, které se používají k dosažení Business Applications kompetence cloudu. Prahové hodnoty se taky liší pro partnery, kteří pracují na vyvíjených trzích a partneři provozované výlučně na vývoji trhů. **Vyvíjené** nebo  vyvíjené kategorizace na trhu v zemi jsou založené na [definicích Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
+Počítejte s tím, že 4 metriky se měří na základě umístění, ve kterém má partner firmy, a ne tam, kde je umístění MPN zaregistrované. To znamená, že partner zaregistrovaný na vývojovém trhu, který má zákazníky z vyvíjeného trhu, bude muset vyhovět skóre PCI pro rozvinuté země.
+
+V tabulce níže vidíte, které umístění se používá v rámci metriky.
+
+| Název metriky | Umístění |
+|:-------|:--------|
+| Čistý nový výnos | Umístění zákazníka |
+| Přidat k čistému zákazníkovi | Umístění zákazníka |
+| Funkční konzultant | Umístění partnera |
+| Vývojář | Umístění partnera |
+| Růst funkčního konzultanta | Umístění partnera |
+| Růst MAU | Umístění zákazníka |
+| Nová rozsáhlá nasazení | Umístění zákazníka |
+
 Body napříč jednotlivými metrikami jsou sečteny s cílem získat odlišné skóre PCI pro zapojení a finance a operace zákazníků. Toto skóre bude aktualizováno měsíčně.
 
 Partneři mohou získat maximální body pro danou metriku, pokud splňují nebo překračují prahové hodnoty uvedené níže. Částečné body lze získat pro všechny metriky s výjimkou růstu funkčního konzultanta.
@@ -160,7 +176,7 @@ Partner se stane CPORou, pokud má navázat spojení se zákazníkem na úrovni 
 Partner se stane partnera DPORou, pokud mají přidružení se zákazníkem na úrovni předplatného v rámci produktu.
 
 > [!NOTE]
-> Pokud pro dané předplatné zákazníka existují jak CPOR, tak partnera DPOR, obdrží CPOR kredit pro příslušné metriky PCI přidružené k tomuto předplatnému. Pokud přidružení proběhlo přes OSA, obdrží CPOR kredit pro čisté nové tržby a přidá se k němu čistý zákazník. Pokud bylo přidružení přes OSU, CPOR obdrží kredit pro nová nasazení a měsíční nárůst od aktivního uživatele.
+> Pokud pro dané předplatné zákazníka existují jak CPOR, tak partnera DPOR, obdrží CPOR kredit pro příslušné metriky PCI přidružené k tomuto předplatnému. Pokud přidružení proběhlo přes OSA (výnosová deklarace), CPOR obdrží kredit pro čistý nový výnos a přidá se k čistému zákazníkovi. Pokud bylo přidružení prostřednictvím OSU (deklarace identity využití), CPOR obdrží kredit pro nová nasazení a měsíčně aktivní růst uživatele. Deklarace před prodejem nejsou opravňující pro PCI.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Podrobné definice metriky PCI pro tuto kompetenci
 
@@ -295,7 +311,7 @@ Vývojáři jsou [indikátorem schopností](partner-contribution-indicators.md#p
 - Body pro vývojáře jsou založené na snímku aktuálního měsíce, který má maximálně 5 bodů k dispozici.
 
 - Vývojáři Customer Engagement získají kredit při splnění:
-  - PL-400<br/>**nebo**
+  - PL-400<br/>**ani**
   - MB-200 \* **a** jedna z následujících zkoušek:
     - MB-400 \* nebo MB2-716\*\*
 
@@ -324,9 +340,10 @@ Nová rozsáhlá nasazení představují [indikátor úspěšnosti zákazníka](
   
   (Podrobné informace o vyvinutých a vývoji trhů najdete v těchto [Microsoft Partner Network definicích](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).)
 
-- Tenant se považuje za překročení měsíční prahové hodnoty aktivního uživatele, pokud byl tenant: 
+- Tenant se považuje za překročení měsíční prahové hodnoty aktivního uživatele, pokud byl tenant:
 
-  - Následuje před uplynutím zadaného prahového hodnoty 12 měsíců *a*
+  - Následuje před uplynutím zadaného prahového hodnoty 12 měsíců **a**
+
   - Překročila se tato prahová hodnota nejméně jednou za dalších 11 měsíců.
 
 - Měsíčně aktivních uživatelů se počítá na úrovni tenanta a sčítají se jenom s placenými předplatnými v rámci tenanta.

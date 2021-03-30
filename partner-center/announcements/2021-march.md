@@ -9,16 +9,59 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/24/2021
-ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: e2e40807ddeb7fc3aa0fcfb20f34eb71d0a9e118
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549069"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730075"
 ---
 # <a name="march-2021-announcements"></a>Oznámení z března 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu na březen 2021.
+
+________________
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Nové prostředí v centru pro správu Exchange (EAC)
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-03-29
+- Možnosti
+
+### <a name="summary"></a>Souhrn
+
+Od 27. dubna 2021 se v centru pro správu Exchange (EAC) zavádí nové prostředí, které bude zlepšit každodenní efektivitu pro uživatele.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Delegovaní správci přistupující k Exchangi prostřednictvím partnerského centra
+
+### <a name="details"></a>Podrobnosti
+
+Od 27. dubna 2021 budou partneři, kteří se přecházejí na Exchange prostřednictvím partnerského centra, přesměrováni na nový EAC.
+
+Toto nové prostředí je teď k dispozici ve verzi Preview a správci můžou aktivovat toto prostředí výběrem přepínače v pravém horním rohu v klasickém poli EAC. Můžou také přejít k novému poli EAC tím, že vyberou banner "vyzkoušet ho Now", který se zobrazí na všech stránkách.
+
+Mezi výhody nového pole EAC patří:
+
+- Přidání přehledů, sestav a mechanismů výstrah pro řízení toku pošty – problémy související s. 
+
+- Individuální řídicí panely pro zvýšení produktivity.
+
+K usnadnění navigace v novém prostředí jsou k dispozici videa v části **školení & příručka** na novém prostředí EAC. Tyto informace vám poskytnou přehled o tom, jak můžete nový portál nejlépe využít.
+
+>[!NOTE]
+>V rámci této změny nebudou klasické prostředí EAC zastaralé. Před implementací jakékoli změny se bude předem informovat.
+
+### <a name="next-steps"></a>Další kroky
+
+- Projděte si [materiály k tomuto tématu](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/), kde můžete zobrazit snímky obrazovky nového prostředí.
+
+- Tyto informace sdílejte s příslušnými zúčastněnými stranami ve vaší organizaci. 
+
+### <a name="questions"></a>Máte otázky?
+
+Jakékoli otázky týkající se těchto změn najdete v příslušných komunitách Yammeru.
 
 ________________
 ## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Operace s Microsoftem: Úvod do kalendářního spuštění produktu

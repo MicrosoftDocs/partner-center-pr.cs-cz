@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633892"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730074"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Přečtěte si, jak číst položky řádků v souborech odsouhlasení partnerského centra.
 
@@ -77,6 +77,15 @@ Pokud si můžete stáhnout soubor pro odsouhlasení, ale nemůžete ho otevří
 5. V rozevírací nabídce **načíst** vyberte **načíst do** a pak **OK**.
 6. V dialogovém okně **importovat data** vyberte **sestavu kontingenční tabulka** a otevřete soubor.
 
+## <a name="negative-amount-displayed"></a>Zobrazená záporná částka
+
+V souboru pro odsouhlasení se může zobrazit záporná částka. To je pravděpodobně způsobeno některou z následujících akcí:
+
+- Nedávno jste zrušili nebo snížili počet licencí.
+- Dostali jste kredit pro licenční smlouvu o úrovni služeb (SLA) nebo pro využití Azure.
+
+Chcete-li získat další informace o této transakci, zkontrolujte atribut typu náklady v souboru odsouhlasení.
+
 ## <a name="map-taxes-or-vat"></a>Mapování daní nebo DPH
 
 K namapování daně nebo daně z přidané hodnoty (DPH) na fakturu:
@@ -88,7 +97,7 @@ K namapování daně nebo daně z přidané hodnoty (DPH) na fakturu:
 
 Partneři v **nepřímém modelu** můžou použít tato další pole v souborech pro odsouhlasení založené na licencích i na základě využití k itemizeí souborů podle prodejce.
 
-| ID MPN | Description |
+| ID MPN | Popis |
 | ------ | ----------- |
 | ID MPN | Identifikátor Microsoft Partner Network (MPN) pro partnera poskytovatele Cloud Solution Provider (CSP) (přímý nebo nepřímý). |
 | [ID MPN prodejce](#reseller-mpn-id) | [Identifikátor MPN prodejce záznamu pro předplatné](#reseller-mpn-id). Toto pole odpovídá ID prodejce uvedeného u konkrétního předplatného v partnerském centru. Zobrazí se pouze v souborech pro odsouhlasení pro partnery v nepřímém modelu. |
