@@ -1,28 +1,28 @@
 ---
 title: Nejčastější dotazy k výplatám a daňovým profilům
 description: Získejte odpovědi na běžné otázky týkající se vydaných a daňových údajů v partnerském centru. Obsahuje odpovědi na důvody, proč se vaše tržby liší od očekávání.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247654"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087038"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Běžné otázky k vydaným výběrům a daním
 
-**Příslušné role**:
+**Příslušné role**
 
 - Správce účtu
 - Globální správce
 - Motivace správce
 
-Tento článek obsahuje odpovědi na nejčastější dotazy k vydaným údajům a daňovým podrobnostem v partnerském centru. mezi témata, která se týkají, patří časování plateb, kontrola nároku na výdělky a důležitost správného nastavení vašich výběrů a daňových profilů.
+Tento článek obsahuje odpovědi na nejčastější dotazy k vydaným výběrům a daňovým podrobnostem v partnerském centru. Mezi zahrnuté předměty patří časování plateb, kontrola nároků na tržby a důležitost správného nastavení vašich výběrových a daňových profilů.
 
 ## <a name="profile-management"></a>Správa profilů
 
@@ -42,7 +42,7 @@ Může to být tím, že nemáte potřebná oprávnění nebo jste se přihlási
 
 #### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Můžu se přihlásit jenom s @onmicrosoft.com doménou. Co bych měl/a dělat?
 
-Požádejte vašeho správce účtu o přidání dalších domén do účtu AAD.
+Požádejte správce účtu, aby do účtu AAD přidal více domén.
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Moje organizace se účastní více programů. Potřebuji zadat platbu a daňový profil několikrát?
 
@@ -61,7 +61,7 @@ Pokud je vaše společnost pozvaní na více programů, můžete použít stejn�
 
 Je zodpovědností společnosti, aby se zajistilo, že role pobídek Admins, která má oprávnění k úpravám těchto informací, je dána pouze vhodným zaměstnancům.
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Platnost mého daňového profilu vypršela. Návody opravit?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>Platnost mého daňového profilu vypršela. Návody opravu aktualizovat?
 
 Pokud vypršela platnost daňového profilu nebo brzy vyprší platnost, znamená to, že je nutné aktualizovat daňový formulář, který jste poskytli společnosti Microsoft. K aktualizaci svého daňového profilu použijte následující postup:
 
@@ -83,7 +83,7 @@ Pokud vypršela platnost daňového profilu nebo brzy vyprší platnost, znamen�
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Proč se množství příjmů liší od toho, co jsem očekával?
 
 - Pokud zákazník tuto objednávku zaplatil za částečně, bude vaše míra využití vycházet z částečně placené částky po odečtení poplatků a příslušné daně.
-- Ověřte odpovědnost za daňové úhrady podle země. V případě zemí, ve kterých za odvod daní zodpovídá Microsoft, Microsoft vybírá a odečítá příslušné daně z příjmů vydavatelů. Částka transakce uvedená ve výpisu je částka po odečtení daní. Projděte si [podrobné informace o daních](tax-details-marketplace.md).
+- Ověřte odpovědnost za daňové úhrady podle země. V zemích, kde je daň zodpovědná za společnost Microsoft, společnost Microsoft shromažďuje a snižuje daň od výnosů vydavatelů. Částka transakce uvedená ve výpisu je částka po odečtení daní. Projděte si [podrobné informace o daních](tax-details-marketplace.md).
 - SaaS a IaaS nabídky mají poplatky za zlevněnou agenturu na 10% místo na úrovni Standard 20%, takže se sazba příjmů 90%. Tato propagační akce platí do 30. června 2021.
 
 **Další** materiály: [smlouvy o vydavateli komerčního tržiště](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Podrobnosti o](payout-policy-details.md)vydaných zásadách, [prahová hodnota platby, metoda a časový rámec](payment-thresholds-methods-timeframes.md), [získání placených](marketplace-get-paid.md), [podrobností o daních](tax-details-marketplace.md), [výběrových příkazů](payout-statement.md)
@@ -113,7 +113,7 @@ Použijte AssetID, ČísloObjednávky a ID položky řádku, které se zobrazuj�
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Návody nastavte můj účet na nepříjem plateb?
-Platby můžete uchovávat v [profilu výběr](https://partner.microsoft.com/dashboard/commercial-marketplace/overview); jednoduše se podívejte na **blokování**. Společnost Microsoft bude mít za vás platbu, dokud neuvolníte blokování.
+Platby můžete uchovávat v [profilu výběr](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Provedete to tak, že **zablokujete blokování** a společnost Microsoft bude mít platbu za vás, dokud neuvolníte blokování.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Proč mi platby přicházejí v jiné měně, než je měna použitá při nákupu?
 
@@ -121,7 +121,7 @@ Měna výplaty vychází z měny, kterou jste vybrali v platebním profilu. Měn
 
 #### <a name="how-do-i-reconcile-adjustments"></a>Jak odsouhlasím vyrovnání?
 
-Vyrovnání plateb představují opravy plateb za účelem kompenzačních vyrovnání například kvůli systémovým problémům. Ve výpisu plateb najdete důvod vyrovnání v poli Kód důvodu. Tato vyrovnání nejsou určená přímo pro jednotlivé transakce.
+Vyrovnání plateb představují opravy plateb za účelem kompenzačních vyrovnání například kvůli systémovým problémům. V příkazu výběr určuje ReasonCode důvod úpravy. Ty nejsou určeny pro sjednocení přímo na jednotlivé transakce.
 
 **Další** materiály: [Smlouva o vydavateli komerčního tržiště](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Podrobnosti o](payout-policy-details.md)vydaných zásadách, [Podrobnosti o daních](tax-details-marketplace.md), [prahová hodnota platby, metoda a časový rámec](payment-thresholds-methods-timeframes.md)
 
@@ -199,7 +199,7 @@ Použijte [rozhraní API pro výběr partnerů](https://apidocs.microsoft.com/se
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Jak zjistím aktuální výši provize a výplaty?
 
-- Projděte si smlouvu pro vydavatele na komerčním marketplace. Standardní provize je 20 %. SaaS Co-Sell způsobilých transakcí mají zlevněný poplatek s 10%. Informace o případných propagačních provizích najdete v oznámeních.
+- Projděte si smlouvu pro vydavatele na komerčním marketplace. Standardní provize je 20 %. SaaS spoluprodejní způsobilých transakcí má zlevněný poplatek s 10%. Informace o případných propagačních provizích najdete v oznámeních.
 - V příkazu typu výběr určuje sazba za danou transakci skutečnou sazbu pro výběr.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Kdy můžu očekávat platbu od Microsoftu, jakmile se ve výpisu zobrazí příjmy?

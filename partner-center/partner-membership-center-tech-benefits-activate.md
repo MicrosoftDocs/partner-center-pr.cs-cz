@@ -9,24 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee7ca469619e548dc59db390566d19a1b1c8cc24
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: e769758e14f48f6f7deb9dfe3354fa377a559c87
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92527175"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087106"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Aktivace technických výhod Microsoft Partner Network mimo partnerské Centrum
 
+
+**Příslušné role**
+
+- Všichni uživatelé partnerského centra
+
 Tento článek je určen pro členy Microsoft Partner Network (MPN), kteří stále používají partnerské Centrum členství (PMC). Tito členové potřebují pomáhat s aktivací určitých výhod členství v programu MPN, jako jsou technické výhody, mimo aktuální [řídicí panel partnerského centra](https://partner.microsoft.com/dashboard).
-
-### <a name="applies-to"></a>Platí pro
-
-- Uživatelé centra pro členství v partnerovi
-
-### <a name="appropriate-roles"></a>Příslušné role
-
-- Partneři MPN pomocí partnerského centra pro členství (PMC)
 
 Mnoho členů Microsoft Partner Network (MPN) již bylo [migrováno z partnerského centra členství v partnerském centru](prepare-pmc-pc-migration.md) , které vám pomůžou spravovat své uživatele, zákazníky a výhody programu MPN.
 

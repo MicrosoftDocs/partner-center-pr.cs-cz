@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92527242"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179441"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Vytváření a odesílání dokumentů pro vaše pobídky k ověření spuštění (PoE)
 
-**Platí pro:**
-
-- Partnerské centrum
-
-**Příslušné role:**
+**Příslušné role**
 
 - Motivace správce
 
@@ -81,6 +77,6 @@ Než se pustíte do práce s vašimi pobídkami, musíte odeslat detailní důka
    - Schválené
    - Zamítnuto
 
-## <a name="next-steps"></a>Další kroky:
+## <a name="next-steps"></a>Další kroky
 
-- [Začínáme s motivací](incentives-get-started-intro.md)
+- [Začínáme s pobídkami](incentives-get-started-intro.md)

@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712153"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179209"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Určení nároku na program pobídek
 
-**Příslušné role**:
+**Příslušné role**
 
 - Globální správce
 - Motivace správce
@@ -40,7 +40,7 @@ Konkrétní podmínky zakládající nárok na váš program najdete v průvodci
 
    :::image type="content" source="images/incentives/eligibility.png" alt-text="Snímek obrazovky je příkladem požadavků na motivaci.":::
 
-5. Aby bylo možné splnit nárok, je třeba dokončit všechny oblasti, které nejsou zaškrtnuté. Každý program pobídek má svou vlastní sadu požadavků.
+5. Dokončete všechny oblasti, u kterých není zaškrtnuto, aby splňovaly podmínky způsobilosti. Každý program pobídek má svou vlastní sadu požadavků.
 
 ## <a name="next-steps"></a>Další kroky
 

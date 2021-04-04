@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92527245"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179169"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Tyto prostředky vám pomůžou vytvořit pobídkové plány a kontroly provádění.
-
-**Platí pro**
-
-- Partnerské centrum
-- Partneři v Microsoft Partner Network (MPN)
 
 **Příslušné role**
 
@@ -40,7 +35,7 @@ Plán deklarací identit pro spolupracovníky popisuje marketingové kampaně, a
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Co je důkazem spuštění (PoE)?
 
-Až se dostanete k práci s vašimi pobídkami, musíte odeslat podrobný důkaz o spuštění (PoE) společnosti Microsoft. Vaše PoE může obsahovat podrobnosti o jakékoli související kampani, datum, kdy došlo k aktivitě pobídek, o požadované množství atd. 
+Až se dostanete k práci s vašimi pobídkami, musíte odeslat podrobný důkaz o spuštění (PoE) společnosti Microsoft. Vaše PoE může obsahovat podrobnosti o všech souvisejících kampaních, datum, kdy došlo k aktivitě pobídek, a o požadované množství. 
 
 Přečtěte si další informace o [přípravě ověření provádění](incentives-prepare-your-proof-of-execution.md).
 

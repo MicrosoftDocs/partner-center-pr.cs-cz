@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94cf24309486628d92878e0d8d5038b45c7b85df
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 7d2331cfb1b0edf25815de0070b5668d0b91df6f
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92527191"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086885"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Řídicí panel výkonu prodejce ve službě partner Center – přehledy
 
@@ -92,7 +92,7 @@ Toto zobrazení poskytuje měsíční trend fakturovaných výnosů (USD) rozdě
 
 ## <a name="reseller-performance-by-products"></a>Výkon prodejců podle produktů
 
-Toto zobrazení poskytuje rozdělení klíčových metrik, jako jsou účtované tržby, počet předplatných a počet licencí podle různých produktů v měsíci měsíčně. Výsečový graf na pravé straně označuje celkové rozdělení těchto metrik podle různých produktů, takže partner získá rychlou nakouknětei rozložení podle různých produktů, které prodejce prodává.
+Toto zobrazení poskytuje rozdělení klíčových metrik, jako jsou účtované tržby, počet předplatných a počet licencí podle různých produktů v měsíci na základě měsíce. Výsečový graf na pravé straně indikuje celkové rozdělení metrik podle různých produktů, takže partner získá rychlou nakouknětei rozložení podle různých produktů, které prodejce prodává.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Výkon prodejců podle produktů":::
 

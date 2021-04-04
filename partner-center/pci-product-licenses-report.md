@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92527174"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086902"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Sestava licencí produktů na řídicím panelu přehledy partnerského centra
 
 **Příslušné role**
+
 - Globální správce
 - Agent správce
 - Prohlížeč sestav
 - Prohlížeč sestav Executive
 
-Sestava licence k produktům představuje licenční analýzu pro cloudové produkty založené na licencích, jako je O365, Dynamics, M365, Power BI atd. Zde uvedené analýzy jsou spojené s používáním licencí, které jste prodali nebo kterou spravujete pro vaše zákazníky. Následující části můžete zobrazit v sestavě licence produktu.
+Sestava licence produktu představuje licenci pro cloudové produkty založené na licencích, jako je například Office 365, Dynamics, Microsoft 365, Power BI a další. Zde uvedené analýzy jsou spojené s používáním licencí, které jste prodali nebo kterou spravujete pro vaše zákazníky. Následující části můžete zobrazit v sestavě licence produktu.
 
 - Souhrn
 - Geografické rozšiřování licencí
@@ -36,14 +37,14 @@ Sestava licence k produktům představuje licenční analýzu pro cloudové prod
 
 ## <a name="summary"></a>Souhrn
 
-Část Souhrn poskytuje zobrazení snímků klíčových ukazatelů výkonu (KPI) přidružených k prodaným a použitým cloudovým licencím produktů. To vám pomůže sledovat aktivní využití na základě licencí prodávaných zákazníkům.
+V části Souhrn najdete zobrazení snímků klíčových ukazatelů výkonu (KPI) přidružených k prodaným, nasazeným a použitým cloudovým licencím produktů. To vám pomůže sledovat aktivní využití na základě licencí prodávaných zákazníkům.
 
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Souhrn sestavy licencí":::
 
-Další informace o jednotlivých oddílech souhrnu najdete níže.
+Další informace o jednotlivých částech souhrnu najdete níže:
 
 - Vázaný 
-  - Aktuální počet všech zakoupených a spravovaných licencí pro cloudové produkty založené na licencích, jako je O365, Dynamics, M365, Power BI atd.
+  - Aktuální počet všech zakoupených a spravovaných licencí pro cloudové produkty založené na licencích, například Office 365, Dynamics, Microsoft 365, Power BI a dalších.
   - Procentuální nárůst nebo odmítnutí těchto licencí v rámci vybraného rozsahu kalendářních dat.
   - License Trend Micro graf: mikrograf představuje trend počtu licencí v měsíci, který je v průběhu vybraného rozsahu kalendářních dat.
 

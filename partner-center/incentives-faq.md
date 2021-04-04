@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756712"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179492"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Nejčastější dotazy k motivům
 
-**Příslušné role:**
+**Příslušné role**
 
 - Motivace správce
-
 - Motivace uživatelů
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Potřebuji být globálním správcem pro registraci v rámci pobídek?
@@ -55,7 +54,7 @@ Další informace najdete v tématu [vyhledání vaší role](find-your-role.md)
 
 ## <a name="i-cant-access-incentives-using-my-credentials"></a>Nemůžu získat přístup k motivům pomocí mých přihlašovacích údajů
 
-Pravděpodobným důvodem, proč nemůžete zobrazit pobídky, je, že nemáte správná oprávnění. Použijte následující postup, který najdete v části Oprava.
+Pravděpodobným důvodem, proč nemůžete zobrazit pobídky, je, že nemáte správná oprávnění. Tuto chybu můžete vyřešit pomocí následujícího postupu.
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/) pomocí svých přihlašovacích údajů TENANTA Azure AD (vaše pracovní přihlašovací údaje). Pokud se nemůžete přihlásit, obraťte se na globálního správce vaší společnosti.
 
@@ -71,7 +70,7 @@ Pokud jste obdrželi pozvánku z nebo jste ji zaregistrovali v nástroji, je vho
 
 Pokud potřebujete změnit svoji roli nebo oprávnění, obraťte se na svého globálního správce nebo správce účtu vaší společnosti. Pokud se chcete dozvědět, kdo jsou lidé, přečtěte si téma [vyhledání globálního správce](./find-your-role.md#find-your-global-admin).
 
-Všimněte si, že na stránce Přehled se zobrazí pouze registrace, které jsou spojeny s globálním účtem partnera (PGA) přidruženým k tenantovi služby Azure AD. Pokud má vaše společnost více než jeden PGA, budete pro každé z nich potřebovat jiné přihlašovací údaje.
+Na stránce Přehled se zobrazí pouze registrace, které jsou spojeny s globálním účtem partnera (PGA) přidruženým ke klientovi služby Azure AD. Pokud má vaše společnost více než jeden PGA, budete pro každé z nich potřebovat jiné přihlašovací údaje.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Koho se mám obrátit, když se zobrazí chybová zpráva nebo potřebujete pomoc během procesu registrace?
 

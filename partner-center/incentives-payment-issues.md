@@ -8,24 +8,20 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834879"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179509"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Řešení potíží s chybějícími platbami, nesprávnými tržbami a dalšími problémy
 
-**Platí pro**:
-
-- Partnerské centrum
-
-**Příslušné role**:
+**Příslušné role**
 
 - Motivace správce
 
-Tento článek vám pomůže vyřešit případné tržby nebo problémy s platbami v programu pobídek. Mezi zahrnutá témata patří časování plateb, kontrola nároků na tržby a důležitost správného nastavení vašich výběrových a daňových profilů.
+Tento článek vám pomůže vyřešit případné tržby nebo problémy s platbami v programu pobídek. Mezi zahrnuté předměty patří časování plateb, kontrola nároků na tržby a důležitost správného nastavení vašich výběrových a daňových profilů.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Kdo může vytvořit nebo aktualizovat výběr a daňové profily pro moji organizaci?
 
@@ -122,7 +118,7 @@ Tržby se zobrazují na stránce **historie transakcí** i na stránce s **platb
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="Informace o transakcích":::
 
-Částky za měsíc v zobrazení historie transakcí se nemůžou zarovnat s obdrženou výší platby za konkrétní měsíc. Je to kvůli opakovaným výpočtům a úpravám v předchozích obdobích, které se vztahují na budoucí platby.
+Částky za měsíc v zobrazení historie transakcí se nemůžou zarovnat s obdrženou výší platby za konkrétní měsíc. Je to kvůli opakovaným výpočtům a úpravám pro dobu předchozích splátek, které platí pro budoucí platby.
 
 Například úprava pro tržby z ledna 2019, která byla zpracována v září 2019, se neprojeví v množství příjmů za září 2019; až se ale přijme platba za září 2019, bude zahrnovat úpravu pro 2019. ledna, která byla použita v září.
 
@@ -141,11 +137,11 @@ Toto zobrazení umožňuje zobrazit platby pro všechny programy a ID programu M
 | Zobrazit platební údaje podle řádku, včetně peněžních a platebních částek v místní měně  | Zobrazit pole se **seznamem plateb**   |
 | Stažení dopisu pro úhradu   |  Vybrat **úhradu plateb**  |
 | Zobrazit podrobnosti o úrovni transakce pro konkrétní platbu |  Vybrat **zobrazení**  |
-| Exportovat podrobnosti transakce do aplikace Excel  |  Vyberte **Spustit stahování** a pak klikněte na **exportovat data**. Všimněte si, že všechny vybrané filtry budou aplikovány na exportovaná data. Jakmile se stav změní na dokončeno, vyberte **Stáhnout** a podle pokynů exportujte sestavu podrobná transakce. Aktualizuje stránku, pokud se stav neaktualizuje během pěti minut.  |
+| Exportovat podrobnosti transakce do aplikace Excel  |  Vyberte **Spustit stahování** a pak vyberte **exportovat data**. Všechny vybrané filtry budou aplikovány na exportovaná data. Jakmile se stav změní na dokončeno, vyberte **Stáhnout** a podle pokynů exportujte sestavu podrobná transakce. Aktualizuje stránku, pokud se stav neaktualizuje během pěti minut.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Chybějící nebo nesprávné tržby a platby
 
-Pokud nemůžete najít údaje o platbě nebo transakcích, zkontrolujte, zda jste použili správné filtry. Všimněte si, že vzhledem k tomu, že se některé názvy programů změnily (například poskytovatel CSP 1T Direct partner je teď přímým vyúčtováním CSP), možná budete muset použít víc výběrů.
+Pokud nemůžete najít údaje o platbě nebo transakcích, zkontrolujte, zda jste použili správné filtry. Vzhledem k tomu, že se změnily některé názvy programů (například CSP 1T Direct partner je teď přímým vyúčtováním CSP), možná budete muset použít víc výběrů.
 
 Pokud stále nemůžete najít své tržby nebo se domníváte, že uvedené příjmy nejsou správné, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 

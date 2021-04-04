@@ -1,28 +1,27 @@
 ---
-title: Fakturace na základě licence
+title: Fakturace na základě licencí
 description: Přečtěte si, jak se fakturace na základě licencí liší od fakturace na základě využití v partnerském centru, včetně toho, jak se fakturuje za licenci (ne podle využití licencí).
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92527215"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179407"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Fakturace na základě licencí v partnerském centru
 
-**Platí pro**
+**Příslušné role**
 
-- Partnerské centrum
-- Partneři v programu CSP
-
-**Příslušné role** – globální správce
-- Správce uživatelů
+- Globální správce
+- Správce správy uživatelů
 - Správce fakturace
 - Agent správce
 
@@ -51,7 +50,7 @@ Licenci můžete kdykoli zrušit v rámci [licenčního období](#license-term).
 
 Pokud předplatné pozastavíte v měsíci 1, budete mít kredit 100%.
 
-Pokud pozastavíte předplatné v měsících 2-12, bude vám účtováno průběžně.
+Pokud předplatné pozastavíte ve druhém až dvanáctém měsíci, získáte poměrnou částku v kreditech.
 
 ## <a name="license-renewal"></a>Obnovení licence
 
@@ -61,6 +60,6 @@ Všechna předplatná založená na licencích automaticky prodlouží 12 měsí
 
 - [Přehled fakturace partnerského centra](billing-basics.md)
 
-- [Typy fakturace v partnerském centru](billing-different-types.md)
+- [Typy fakturace v Partnerském centru](billing-different-types.md)
 
 - [Hlavní fakturační a daňové články](billing.md)

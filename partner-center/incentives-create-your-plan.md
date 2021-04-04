@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e3d2ec916a8c8a9d29b5ba82db6542d55bd84e8
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92527256"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179254"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Vygenerujte marketingový plán pro program pobídek
 
-**Platí pro:**
-
-- Partnerské centrum
-
-**Příslušné role:**
+**Příslušné role**
 
 - Motivace správce
 - Správce fakturace
@@ -58,7 +54,7 @@ Další informace o plánech pro konkrétní program pobídek najdete v příru�
 
 9. Na stránce **Nová aktivita** vyplňte požadovaná pole. Můžete vybrat více zemí. Jakmile budete hotovi, vyberte **Uložit**. 
 
-10. Na stránce stavu znovu zkontrolujte uvedené informace. Po odeslání není možné plán upravovat. Jakmile budete hotovi, vyberte **Odeslat** a pak **Potvrdit**.
+10. Na stránce stavu znovu zkontrolujte uvedené informace. Po odeslání plánu ho nemůžete upravit. Jakmile budete hotovi, vyberte **Odeslat** a pak **Potvrdit**.
 
 Váš plán se právě odeslal. Jakmile se plán schválí nebo pokud budeme potřebovat další informace, Microsoft bude informovat vašeho správce pobídek. Průběh plánu můžete zobrazit v okně Stav na stránce stavu.
 
@@ -90,9 +86,9 @@ Plán musíte vytvořit a odeslat do posledního dne programového roku. V pří
 
 Microsoft vám bude platit každý měsíc na základě vašich příjmů a limitů vašeho plánu. Platby se provádějí 15. dne následujícího měsíce.
 
-Například pokud je pro váš plán schválený limit 10 000 USD a v dubnu vyděláte 5 000 USD, 15. května obdržíte 5 000 USD.
+Například pokud je váš plán schválen pro $10 000 a v měsíci dubna jste získali $5 000, obdržíte 15. května $5 000.
 
-Pokud se stejným plánem v dubnu vyděláte 15 000 USD, 15. května obdržíte 10 000 USD, protože to je limit pro váš plán. Pokud chcete obdržet vyšší platbu, musíte na další měsíc zvýšit limit svého plánu.
+Pokud v rámci stejného plánu obdržíte $15 000 v měsíci dubna, dostanete $10 000 15. května $10 000 limit pro váš plán. Pokud chcete obdržet vyšší platbu, musíte na další měsíc zvýšit limit svého plánu.
 
 ## <a name="next-steps"></a>Další kroky
 

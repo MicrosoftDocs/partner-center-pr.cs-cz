@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92527247"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179475"
 ---
 # <a name="manage-incentives-customer-associations"></a>Správa pobídek přidružení zákazníků
 
-**Platí pro:**
-
-- Partnerské centrum
-
-**Příslušné role:**
+**Příslušné role**
 
 - Správce fakturace
 - Globální správce
@@ -87,7 +83,7 @@ Pokud jste prošli 30 dnů a přesto chcete sporné odmítnutou deklaraci identi
 
 Existují tři hlavní důvody pro zamítnutí deklarace CPOR přidružení.
 
-**Partnerský požadavek:** Partneři můžou požádat o zamítnutí jejich přidružení. Tato racionalizace se většinou používá, když partner vytvořil deklaraci identity CPOR omylem, který používá nesprávný MPN, zvolil nesprávnou aktivitu (například.... Zvolili jste přiřazení výnosů, nikoli předprodejní verze), nebo už nepracujete se zákazníkem.
+**Partnerský požadavek:** Partneři můžou požádat o zamítnutí jejich přidružení. Tato racionalizace se většinou používá v případě, že partner vytvořil deklaraci identity CPOR omylem pomocí nesprávného MPN, zvolil neplatnou aktivitu (například jste zvolili možnost přiřazení výnosů spíše než před prodejem) nebo už nepracuje u zákazníka.
 
 **Odmítnutí zákazníka:** Po úspěšném dokončení CPOR deklarace identity přidružení PoE se jeho stav změní na schváleno, dokud se zákazníkovi nedostala možnost Odepřít souhlas s přidružením. Pokud zákazník odepře souhlas, přidružení se zamítne.
 
@@ -125,4 +121,4 @@ V deklaraci přidružení CPOR je v pravé horní části tlačítko **Historie*
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Začínáme s motivací](incentives-get-started-intro.md)
+- [Začínáme s pobídkami](incentives-get-started-intro.md)

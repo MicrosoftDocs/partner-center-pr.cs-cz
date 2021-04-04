@@ -8,16 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182507"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179424"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Zobrazení dostupného, deklarovaného a zbývajícího fondu souběžných op
 
-**Příslušné role:**
+**Příslušné role**
 
 - Motivace správce
 - Motivace uživatelů
@@ -36,7 +36,7 @@ V [řídicím panelu partnerského centra](https://partner.microsoft.com/dashboa
 
 Pokud se domníváte, že částky zobrazené v souhrnu jsou nesrovnalosti, můžete si stáhnout sestavu transakcí z předchozího období. Tato sestava vám pomůže určit množství prostředků souběžného plnění získaných pro vybrané období používání. Chcete-li stáhnout sestavy transakcí nebo ověřit, jestli je zbývající množství souběžných operací přesné, přečtěte si téma [historie transakcí](./payout-statement.md#transaction-history).
 
-Pokud stále dochází k potížím s odsouhlasením částek, nebo pokud některé další prostředky nejsou viditelné, můžete otevřít lístek podpory. Provedete to tak, že vyberete ikonu otazníku v pravém horním rohu stránky a potom vyberete možnost **pobídek**.
+Pokud stále dochází k potížím při sjednocování částek nebo pokud některé z nich nejsou viditelné, můžete otevřít lístek podpory. Provedete to tak, že vyberete ikonu otazníku v pravém horním rohu stránky a potom vyberete možnost **pobídek**.
 
 ## <a name="next-steps"></a>Další kroky
 

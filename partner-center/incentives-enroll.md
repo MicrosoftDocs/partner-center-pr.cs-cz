@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626010"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179134"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrace a Správa uživatelů v programu pobídek
 
-**Platí pro:**
-
-- Partnerské centrum
-
-**Příslušné role:**
+**Příslušné role**
 
 - Motivace správce
 

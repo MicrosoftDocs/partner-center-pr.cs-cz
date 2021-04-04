@@ -9,30 +9,24 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 351d0715645b6e43607279393cdc376d898a7f54
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: b7fa76999d2e071f80c0175a8dfcbc1afe527bfc
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132973"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087055"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Požadavky na zabezpečení pro používání partnerských Center nebo rozhraní API partnerského centra
 
-**Platí pro**
+**Příslušné role**
 
-- Všichni partneři v programu Cloud Solution Provider
-- Všichni dodavatelé ovládacích panelů
-- Všechny poradce
-
-**Příslušné uživatele**
-
-- Všichni povolení uživatelé včetně uživatelů typu Host
+- Všichni uživatelé partnerského centra
 
 Tento článek vysvětluje povinné požadavky na zabezpečení pro poradce, výrobce ovládacích panelů a partnery účastnící se programu Cloud Solution Provider a také možnosti ověřování a další informace o zabezpečení. Ochrana osobních údajů a zabezpečení je z našich nejdůležitějších priorit. Víme, že nejlepší obrana je prevence a že máme jenom silný, jako náš slabý odkaz. Proto potřebujeme, aby všichni v našem ekosystému pracovali a zajistili správné fungování ochrany zabezpečení.
 
 ## <a name="mandatory-security-requirements"></a>Povinné požadavky na zabezpečení
 
-Partneři, kteří neimplementují povinné požadavky na zabezpečení, nebudou moci pracovat v programu Cloud Solution Provider ani spravovat klienty zákazníka, kteří využívají delegovaná práva správce. Kromě toho mohou partneři, kteří neimplementují požadavky na zabezpečení, zapojovat své účasti v ohrožených programech. Podmínky spojené s partnerskými požadavky na zabezpečení byly přidány do smlouvy o partnerovi společnosti Microsoft. V souvislosti s poradci budou stejné smluvní požadavky zavedeny.
+Partneři, kteří neimplementují povinné požadavky na zabezpečení, nebudou moci pracovat v programu Cloud Solution Provider ani spravovat klienty zákazníka pomocí delegovaných oprávnění správce. Kromě toho mohou partneři, kteří neimplementují požadavky na zabezpečení, zapojovat své účasti v ohrožených programech. Podmínky spojené s partnerskými požadavky na zabezpečení byly přidány do smlouvy o partnerovi společnosti Microsoft. V souvislosti s poradci budou stejné smluvní požadavky zavedeny.
 
 Abychom vám a vašim zákazníkům chránili, je potřeba, aby partneři okamžitě provedli následující akce:  
 
@@ -51,7 +45,7 @@ Abyste vyhověli požadavkům na zabezpečení partnerů, musíte implementovat 
 
 - Implementujte [výchozí hodnoty zabezpečení Azure Active Directory (Azure AD)](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults). Další informace najdete v [Další části](#security-defaults).
 
-- Zakupte Azure Active Directory Premium pro každý uživatelský účet. Další informace najdete v tématu [Plánování nasazení služby Azure Multi-Factor Authentication](/azure/active-directory/authentication/howto-mfa-getstarted).
+- Zakupte Azure Active Directory Premium pro každý uživatelský účet. Další informace najdete v tématu [Plánování nasazení služby Azure AD Multi-Factor Authentication](/azure/active-directory/authentication/howto-mfa-getstarted).
 
 - Pomocí řešení třetí strany vyvynuťte MFA pro každý uživatelský účet ve vašem partnerském tenantovi. Chcete-li zajistit, aby řešení poskytovalo očekávané řešení, přečtěte si téma [jak se vynutily požadavky na zabezpečení](#how-the-requirements-are-enforced).
 
@@ -70,28 +64,28 @@ Jedna z možností, které mohou partneři vybrat k implementaci požadavků MFA
 
 - Pro partnery, kteří používají [podmíněný přístup](/azure/active-directory/conditional-access/concept-conditional-access-policy-common), nebudou [výchozí hodnoty zabezpečení k dispozici](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
 
-- V tuto chvíli neblokujeme starší verze ověřování. Vzhledem k neúspěšným pokusům o přihlášení pomocí staršího ověřování ale partneři doporučujeme přesunout se z těchto starších protokolů, protože většina událostí týkajících se napadených identit nabývá od pokusů o přihlášení.
+- V tuto chvíli neblokujeme starší verze ověřování. Jelikož ale většina událostí souvisejících s ohroženými identitami pochází z pokusu o přihlášení pomocí staršího ověřování, partneři se od nich doporučuje přesunout z těchto starších protokolů.
 
 - Z výchozího nastavení zabezpečení je vyloučený účet Azure AD Connect synchronizace.
 
-Podrobné informace najdete v tématu [přehled Multi-Factor Authentication Azure pro vaši organizaci](/azure/active-directory/authentication/concept-mfa-get-started) a o [tom, co jsou to výchozí zabezpečení?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Podrobnější informace najdete v článku [přehled Multi-Factor Authentication Azure AD pro vaši organizaci](/azure/active-directory/authentication/concept-mfa-get-started) a o [tom, co jsou to výchozí zabezpečení?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
 > [!NOTE]
 > Výchozím nastavením zabezpečení služby Azure AD je vývoj zásad ochrany základní úrovně zjednodušený. Pokud jste již povolili zásady ochrany základní úrovně, důrazně doporučujeme povolit [výchozí nastavení zabezpečení](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
 ## <a name="implementation-considerations"></a>Důležité informace o implementaci
 
-Vzhledem k tomu, že se tyto požadavky vztahují na všechny uživatelské účty v partnerském tenantovi, je potřeba zvážit několik věcí, abyste zajistili hladké nasazení. Identifikujte například uživatelské účty ve službě Azure AD, které nemůžou provádět MFA, a také aplikace a zařízení ve vaší organizaci, které nepodporují moderní ověřování.
+Vzhledem k tomu, že se tyto požadavky vztahují na všechny uživatelské účty v partnerském tenantovi, je potřeba zvážit několik věcí, abyste zajistili hladké nasazení. Identifikujte například uživatelské účty ve službě Azure AD, které nemůžou provádět MFA a aplikace a zařízení ve vaší organizaci, které nepodporují moderní ověřování.
 
 Před provedením jakékoli akce doporučujeme, abyste dokončili následující ověřování. 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Máte aplikaci nebo zařízení, které nepodporuje použití moderního ověřování?
 
-Když využijete MFA, budou starší verze ověřování používat protokoly, jako jsou IMAP, POP3, SMTP atd., budou blokované, protože nepodporují MFA. Pro vyřešení tohoto omezení použijte funkci [hesla aplikací](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) , abyste zajistili, že se aplikace nebo zařízení bude i nadále ověřovat. Přečtěte si téma [požadavky na používání hesel aplikací](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) k určení, jestli se dají použít ve vašem prostředí.
+Když využijete MFA, budou starší verze ověřování používat protokoly jako IMAP, POP3, SMTP a další, protože nepodporují MFA. Pro vyřešení tohoto omezení použijte funkci [hesla aplikací](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) , abyste zajistili, že se aplikace nebo zařízení bude i nadále ověřovat. Přečtěte si téma [požadavky na používání hesel aplikací](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) k určení, jestli se dají použít ve vašem prostředí.
 
 #### <a name="do-you-have-office-365-users-with-licenses-associated-with-your-partner-tenant"></a>Máte uživatelé Office 365 s licencemi přidruženými k Vašemu partnerskému tenantovi?
 
-Před implementací nějakého řešení doporučujeme určit, jakou verzi systém Microsoft Office uživatelé ve vašem partnerském tenantovi používají. Může se stát, že uživatelé budou mít problémy s připojením k aplikacím, jako je Outlook. Před vynucováním MFA je důležité, abyste měli jistotu, že používáte Outlook 2013 SP1 nebo novější a že má vaše organizace povolené moderní ověřování. Další informace najdete v tématu [Povolení moderního ověřování v systému Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
+Než začnete s implementací nějakého řešení, doporučujeme určit, jaké verze systém Microsoft Office uživatelé ve vašem partnerském tenantovi používají. Může se stát, že uživatelé budou mít problémy s připojením k aplikacím, jako je Outlook. Před vynucováním MFA je důležité, abyste měli jistotu, že používáte Outlook 2013 SP1 nebo novější a že má vaše organizace povolené moderní ověřování. Další informace najdete v tématu [Povolení moderního ověřování v systému Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
 
 Pokud chcete povolit moderní ověřování pro zařízení s Windows, která mají nainstalované systém Microsoft Office 2013, budete muset vytvořit dva klíče registru. Viz [Povolení moderního ověřování pro Office 2013 na zařízeních s Windows](/office365/admin/security-and-compliance/enable-modern-authentication).
 
@@ -107,19 +101,19 @@ Je důležité identifikovat všechny podnikové zásady, které uživatelům br
 
 #### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Jakou automatizaci nebo integraci potřebujete k ověřování využít přihlašovací údaje uživatele?
 
-Vzhledem k tomu, že vynutili VÍCEFAKTOROVÉ ověřování pro každého uživatele, včetně účtů služby, ve vašem partnerském adresáři, bude to mít vliv na jakoukoli automatizaci nebo integraci, která využívá přihlašovací údaje uživatele k ověření. Proto je důležité určit, které účty se v těchto situacích používají. Podívejte se na následující seznam ukázkových aplikací nebo služeb, které je potřeba vzít v úvahu:
+Vzhledem k tomu, že využijeme VÍCEFAKTOROVÉ ověřování pro každého uživatele, včetně účtů služeb, ve vašem adresáři partnerů bude to mít vliv na všechny automatizace nebo integraci, které pro ověřování používají uživatelská pověření. Proto je důležité určit, které účty se v těchto situacích používají. Podívejte se na následující seznam ukázkových aplikací nebo služeb, které je potřeba vzít v úvahu:
 
 - Ovládací panel, který slouží ke zřízení prostředků jménem zákazníků
 
 - Integrace s jakoukoli platformou, která se používá k fakturaci (ve vztahu k programu CSP) a podpoře vašich zákazníků
 
-- Skripty PowerShellu, které využívají moduly AZ, AzureRM, Azure AD, MS online atd.
+- Skripty PowerShellu používající AZ, AzureRM, Azure AD, MS online a další moduly
 
-Výše uvedený seznam není vyčerpávající. Proto je důležité, abyste provedli kompletní posouzení jakékoli aplikace nebo služby ve vašem prostředí, která využívá přihlašovací údaje uživatele pro ověřování. Pokud chcete soupeří s požadavkem na MFA, měli byste implementovat pokyny v [rozhraní Secure Application model](/partner-center/develop/enable-secure-app-model) , kde je to možné.
+Výše uvedený seznam není vyčerpávající. Proto je důležité provést kompletní posouzení jakékoli aplikace nebo služby ve vašem prostředí, která používá pověření uživatele pro ověřování. Pokud chcete soupeří s požadavkem na MFA, měli byste implementovat pokyny v [rozhraní Secure Application model](/partner-center/develop/enable-secure-app-model) , kde je to možné.
 
 ## <a name="accessing-your-environment"></a>Přístup k prostředí
 
-Chcete-li lépe pochopit, co nebo kdo se ověřuje bez výzvy pro MFA, doporučujeme zkontrolovat aktivitu přihlášení. Prostřednictvím Azure Active Directory Premium můžete využít sestavu přihlášení. Další informace o tomto tématu najdete v tématu [sestavy aktivit přihlašování na portálu Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Pokud nemáte Azure Active Directory Premium nebo hledáte způsob, jak získat tuto přihlašovací aktivitu prostřednictvím PowerShellu, budete muset využít rutinu [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) z modulu [portálu pro partnery v prostředí PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) .
+Chcete-li lépe pochopit, co nebo kdo se ověřuje bez výzvy pro MFA, doporučujeme zkontrolovat aktivitu přihlášení. Prostřednictvím Azure Active Directory Premium můžete použít sestavu přihlášení. Další informace o tomto tématu najdete v tématu [sestavy aktivit přihlašování na portálu Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Pokud nemáte Azure Active Directory Premium nebo hledáte způsob, jak získat tuto přihlašovací aktivitu prostřednictvím PowerShellu, budete muset použít rutinu [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) z modulu [partnerského centra prostředí PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) .
 
 ## <a name="how-the-requirements-are-enforced"></a>Jak se vynutily požadavky
 
@@ -127,7 +121,7 @@ Požadavky na zabezpečení partnera vynutila služba Azure AD a v partnerském 
 
 Při aktivaci se uživatelé v partnerském tenantovi budou požádáni, aby při provádění všech operací ADMINISTRATE (správce), přístupu k portálu partnerského centra nebo volání rozhraní API partnerského centra dokončili ověřování MFA. Další informace najdete v tématu [Mandating Multi-Factor Authentication (MFA) pro vašeho partnerského tenanta](partner-security-requirements-mandating-mfa.md). 
 
-Partneři, kteří tyto požadavky nesplnili, by měli co nejdříve implementovat tyto míry, abyste se vyhnuli jakýmkoli výpadkům v podniku. Pokud používáte výchozí nastavení zabezpečení Azure Multi-Factor Authentication nebo Azure AD, nemusíte provádět žádné další kroky.
+Partneři, kteří tyto požadavky nesplnili, by měli co nejdříve implementovat tyto míry, abyste se vyhnuli jakýmkoli výpadkům v podniku. Pokud používáte výchozí nastavení zabezpečení služby Azure Active Directory Multi-Factor Authentication nebo Azure AD, nemusíte provádět žádné další kroky.
 
 Pokud používáte řešení MFA od jiného výrobce, je možné, že se deklarace MFA nevydá. Pokud tato deklarace identity chybí, Azure AD nebude moct zjistit, jestli je žádost o ověření ověřená MFA. Informace o tom, jak ověřit, že vaše řešení vydává očekávanou deklaraci identity, najdete v tématu [testování požadavků na zabezpečení partnera](/powershell/partnercenter/test-partner-security-requirements). 
 

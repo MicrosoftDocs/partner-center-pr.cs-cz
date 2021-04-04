@@ -1,22 +1,22 @@
 ---
 title: Výpisy plateb
 description: Další informace o příkazech výběr a souhrnech a o tom, jak zobrazit a exportovat platební data z partnerského centra Microsoftu
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549239"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087089"
 ---
 # <a name="payout-statements"></a>Výpisy plateb
 
-**Příslušné role:**
+**Příslušné role**
 
 - Správce účtu
 - Globální správce
@@ -69,11 +69,11 @@ Pomocí výběru rozsahu kalendářních dat v pravém horním rohu stránky mů
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Vyhledávací filtr v pravém horním rohu stránky.":::
 
-Chcete-li zobrazit další podrobnosti o objektu k dispozici, vyberte šipku dolů na pravé straně stránky. Tím se zobrazí páčka, objem výnosů, produkt a zákazník. Pokud z nějakého důvodu není k dispozici některá z těchto dat, ale potřebujete k ní přístup, obraťte se na podporu. Pokud je výsledkem vyrovnání výsledek úpravy, a ne transakce, pole produkt a zákazník se nezobrazí.
+Chcete-li zobrazit další podrobnosti o objektu k dispozici, vyberte šipku dolů na pravé straně stránky. Tím se zobrazí páčka, objem výnosů, produkt a zákazník. Pokud z nějakého důvodu není k dispozici některá z těchto dat, ale potřebujete k ní přístup, obraťte se na podporu. Pokud je vznikne výsledek úpravy, a ne transakce, nezobrazí se pole produktu a zákazníka.
 
 ### <a name="transaction-history-summary"></a>Souhrn historie transakcí
 
-Tím se zobrazí informace o převádění, včetně původu z produktů, které se prodávají, stavu a odhadované platební měsíce.
+V tomto zobrazení se zobrazují podrobnosti o převádění, včetně původu z produktů, které se prodávají z dat, stavu a odhadované platební měsíce.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Historie transakcí.":::
 
@@ -111,7 +111,7 @@ Odhadovaná částka se může lišit od skutečné částky z nejrůznějších
 - Změna pravidel: Změna pravidel může odrážet přepočítání v rámci skutečné placené částky
 - Splatné: Pokud dojde k selhání platby, skutečná částka se může lišit.
 
-Všimněte si, že vaše platba se vydává v předpokládaném měsíci, pokud jsou splněné prahové hodnoty a podmínky pro nárok na platbu v programu. Tato pravidla zahrnují, ale nejsou omezená na následující seznam:
+Všimněte si, že vaše platba se vydává v předpokládaném měsíci, pokud jsou splněné prahové hodnoty a podmínky pro nárok na platbu v programu. Tato pravidla zahrnují, ale nejsou omezená na seznam níže:
 
 - Váš daňový profil musí být aktuální.
 - Vaše tržby musí splňovat nebo překročit prahovou hodnotu minimálního příjmu definovanou v Průvodci programem.
@@ -220,7 +220,7 @@ V následující tabulce jsou uvedeny kódy důvodů pro úpravy a jejich popisy
 | Výměna souběžných op | Úprava, která přenáší zisky souběžnosti do jiné doby nebo převede zisky v rámci OP na rabat. |
 | Úprava OPS | Úprava, která opravuje chyby výpočtů systému Microsoft. |
 | Úprava OPS – nesprávný výpočet společnosti Microsoft | Úprava, která opravuje nepravdivé výpočty. |
-| Úprava OPS – Microsoft nesprávný zápis | Úprava pro neodpovídající výpočty související se zápisem. |
+| Úprava OPS – Microsoft nesprávný zápis | Úprava pro neodpovídající výpočty týkající se registrace. |
 | Mapování partnerů (předplatné) MCI/CSP | Úprava, která opravuje chybné zarovnání předplatného. |
 | Výjimka zásad | Úprava, která přepíše pravidlo programu.  |
 | Tržby za předchozí období | Úprava příjmů mimo aktuální období zisků. |

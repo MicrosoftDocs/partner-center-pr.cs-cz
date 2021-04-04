@@ -8,16 +8,17 @@ description: Podívejte se, co dobře děláte, a kde můžete vylepšit využí
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147032"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086715"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití týmů dostupná na řídicím panelu přehledů partnerského centra
 
 **Příslušné role**
+
 - Globální správce
 - Agent správce
 - Prohlížeč sestav
@@ -51,19 +52,19 @@ V části Souhrn najdete zobrazení snímků klíčových ukazatelů souvisejíc
 
 ## <a name="conversations-trend"></a>Trend konverzací
 
-Trend konverzací znázorňuje měsíční trend setkání týmů, hovory a telefonní systémy spolu s průměrnou dobou trvání schůzky v řádu minut.
+Sestava trendu konverzací zobrazuje měsíční trend setkání týmů, volání a telefonní systémy spolu s průměrnou dobou trvání schůzky v řádu minut.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="týmy využití trendů konverzací":::
 
 ## <a name="teams-usage-by-workloads"></a>Využití týmů podle úloh
 
-Využití týmů podle úloh znázorňuje měsíční rozdělení stolních, mobilních a webových uživatelů týmů na úlohy.
+Sestava využití týmů podle úloh ukazuje měsíční rozdělení stolních, mobilních a webových uživatelů týmů rozdělených podle úloh.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Využití týmů podle úloh":::
 
 ## <a name="top-customers-by-usage"></a>Hlavní zákazníci podle využití
 
-Nejaktivnější zákazníci podle využití popisují použití nejdůležitějších zákazníků z pohledu setkání, volání a telefonní systémy a aplikace třetích stran.
+Sestava hlavní zákazníci podle využití zobrazuje využití hlavních zákazníků pro týmy, hovory a telefonní systémy a aplikace třetích stran.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Hlavní zákazníci podle využití":::
 

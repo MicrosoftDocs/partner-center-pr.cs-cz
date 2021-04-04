@@ -8,20 +8,21 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 09/18/2020
-ms.openlocfilehash: fd017884c29df3874a06e8c4213c6fe5f05a8995
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 2cdb63c8f7e29fc8a56e920b587e47c382c6eacb
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527773"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086953"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>CloudAscent sestavy o prostředcích, které jsou dostupné na řídicím panelu partnerského centra
 
 **Příslušné role**
+
 - Prohlížeč sestav Executive
 - Prohlížeč sestav
 
-Řídicí panel partnerského centra poskytuje data o prostředcích ke stažení z programu CloudAscent. Tato data zobrazují PROPER zákazníků při nákupu produktů Microsoftu.  Tento článek popisuje rozpis těchto dat, způsob využití bodování a to, co znamená.
+Řídicí panel partnerského centra poskytuje data o prostředcích ke stažení z programu CloudAscent. Tato data zobrazují PROPER zákazníků při nákupu produktů Microsoftu.  Tento článek popisuje rozdělení těchto dat, způsob používání bodování a to, co znamená.
 
 ## <a name="summary-definitions"></a>Souhrnné definice
 
@@ -40,7 +41,7 @@ Segment malý až střední firmy (SMB) je dále rozdělen do tří samostatnýc
 
    Definujeme hlavní nespravované dva způsoby:
 
-   - **Hlavní nespravovaný uživatel**– obsahuje účty s 300 nebo více zaměstnanci. Účty User-Based jsou skvělé cíle pro první nákup nebo rozšíření produktů pro odběr uživatelů, jako je M365, D365 nebo Surface.
+   - **Hlavní nespravovaný uživatel**– obsahuje účty s 300 nebo více zaměstnanci. Účty User-Based jsou skvělé cíle pro první nákup nebo rozšíření produktů pro odběr uživatelů, jako je Microsoft 365, Dynamics 365 nebo Surface.
    - **Založené na hlavních nespravovaných výpočetních** operacích – obsahuje účty s potenciálem Azure větším než $10 000. Účty založené na COMPUTE zahrnují existující Azure. účty s významným potenciálem budoucích let a účty, které ještě ještě kupují Azure, ale mají možnost Azure větší než $10 000.
 
 2. **Středně velké firmy** zahrnují stávající zákazníky a účty nadějných zákazníků s 25 až 300 zaměstnanci.
@@ -49,9 +50,9 @@ Segment malý až střední firmy (SMB) je dále rozdělen do tří samostatnýc
 
 :::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Zákazník podle typu SMC.":::
 
-**Hlavní nespravované** a **střední části podniku** reprezentují vysoké LTV zákazníky pro Microsoft a partnery Microsoftu. Proto jsou v tomto segmentu oblasti olova zaměřeny na zvýšení růstu. V těchto dvou segmentech jsme lépe umístili k získání soketu pomocí M365, monetizovat s D365/Azure obchodními aplikacemi (LOB) a zajistili jsme vysoké LTV pro společnost Microsoft.
+**Hlavní nespravované** a **střední části podniku** reprezentují vysoké LTV zákazníky pro Microsoft a partnery Microsoftu. Z tohoto důvodu se jedná o oblasti potenciálních zákazníků, které se zaměřují na růst v tomto segmentu. V těchto dvou segmentech jsme lépe umístili k získání soketu s Microsoft 365 monetizovat a D365/Azure obchodními aplikacemi (LOB) a zajistili jsme vysoké LTV pro společnost Microsoft.
 
-Dnes máme dvě klíčové oblasti příležitosti – 1. Náš zákazník přináší růst; odst. i když máme kvalitní cloudové sokety, které začínají na M365, máme v D365 a Azure velkou příležitost.
+Dnes máme dvě klíčové oblasti příležitosti – 1. Náš zákazník přináší růst; odst. i když nám načítáme cloudové sokety s Microsoft 365, máme v D365 a Azure velkou příležitost.
 
 Následující snímek obrazovky představuje tři segmenty SMB a optimalizované trasy k uvedení na trh. CloudAscent stanovit prioritu profilace, bodování a modelování všech hlavních nespravovaných a středně velkých obchodních účtů.
 
@@ -108,16 +109,16 @@ Pomocí signálů shromážděných prostřednictvím webových procházecích a
 
       1. Pomocí modelů ML si předem vypočítáme skóre a skóre záměru zákazníka na škále 100.  Přesné výsledky se budou lišit v závislosti na modelů ML.  Příklad skóre níže:
 
-         |**Klasifikace**|**Skóre**|
+         |**Klasifikace**|**Podtržítk**|
          |---------|:---------|
-         |Vysoké|75 – 100|
+         |Vysoká|75 – 100|
          |Střední|55 – 74|
          |Nízká|30 - 54|
          |Velmi nízké|0 - 29|
 
       2. Pomocí výše uvedeného pravidla klasifikujeme společnosti tak, aby byly vysoké, střední, nízké a velmi nízké v rámci přizpůsobení a signálů pro zákazníky.
 
-      3. Na 2D matrici vykreslíme vydaných a vystupujících signálů zákazníků s každým průnikem, který představuje proper.     Například vysoká velikost + vysoká záměr = a1, který představuje nejvyšší proper.
+      3. Na 2D matrici vykreslíme vydaných a vystupujících signálů zákazníků s každým průnikem, který představuje proper. Například vysoká velikost + vysoká záměr = a1, který představuje nejvyšší proper.
 
       4. Nakonec tyto segmenty seskupují clustery.  Například, a1, a2, a3, A4 tvoří cluster Act Now.
 
@@ -133,6 +134,6 @@ Následující obrázek poskytuje zobrazení jednotlivých modelů PROPER v rám
 
 Prázdné modely se skládají z předpovědi pro stávající zákazníky Microsoftu, kde nemají produkt a/nebo jsou noví zákazníci, kteří používají zákazníky v rámci zákazníků.
 
-Modely přeprodat používají data transakcí k předpovídání potenciálu přeprodat v SKU Azure a M365.
+Modely přeprodat používají data transakcí k předpovídání potenciálu přeprodat v Azure a Microsoft 365 SKU.
 
-EOS sdílí koncové zákazníky služby pro Win 7, Office 2010, SQL Server a Windows Server. Data EOS se předají z prodeje MS a překrývají se pomocí modelování PROPER CloudAscent, kde jsou k dispozici. EOS data v moderní práci a prodej v Azure.
+EOS sdílí konce služeb zákazníkům pro Windows 7, Office 2010, SQL Server a Windows Server. Data EOS se předají z prodeje MS a překrývají se pomocí modelování PROPER CloudAscent, kde jsou k dispozici. EOS data v moderní práci a prodej v Azure.

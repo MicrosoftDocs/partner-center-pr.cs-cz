@@ -9,16 +9,17 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "92527228"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086579"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Přehledy partnerského centra – řídicí panel, který ukazuje, jak probíhá komerční partner Microsoftu
 
 **Příslušné role**
+
 - Globální správce
 - Správce účtu
 - Prohlížeč sestav Executive
@@ -26,7 +27,7 @@ ms.locfileid: "92527228"
 
 ## <a name="introduction"></a>Úvod
 
-Insights je jednotný řídicí panel pro vytváření sestav v partnerském centru pro komerční partnery Microsoftu, kteří jsou zaregistrovaní v programu Microsoft Partner Network (MPN). Řídicí panel Insights poskytuje zobrazení klíčových ukazatelů výkonu (KPI) v různých cloudových produktech, jako jsou například CSP a EA, 360. Zpřístupňuje bohatou sadu sestav klíčových ukazatelů výkonu, které vám můžou usnadnit rozhodování na základě dat ve vaší organizaci. 
+Řídicí panel Insights je jednotný řídicí panel pro vytváření sestav v partnerském centru pro komerční partnery Microsoftu, kteří jsou zaregistrovaní v programu Microsoft Partner Network (MPN). Řídicí panel Insights poskytuje zobrazení klíčových ukazatelů výkonu (KPI) v různých cloudových produktech, jako jsou například CSP a EA, 360. Zpřístupňuje bohatou sadu sestav klíčových ukazatelů výkonu, které vám můžou usnadnit rozhodování na základě dat ve vaší organizaci. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Řízení přístupu na základě role na řídicí panel Insights
 
@@ -78,7 +79,7 @@ V rámci řídicího panelu Insights jsou k dispozici následující sestavy.
 
 - Produkty: seznam všech produktů Microsoft Cloud prodaných/spravovaných vaší organizací, například O365, Azure, D365, EMS, Power BI atd.
 - Trhy zákazníka: seznam zemí zákazníka
-- Vlastnictví partnerů: typ přidružení s předplatnými vašich zákazníků, například digitální partner záznamu (partnera DPOR), delegované oprávnění správce (DAP), partnerský odkaz pro správu (PAL) atd. 
+- Označení partnerů: typ asociace s předplatnými vašich zákazníků, například partnera DPOR (Digital Partner of Record), delegovaný správce (DAP) a odkaz na správce partnera (PAL). 
 - Umístění partnerů: seznam všech umístění programu MPN vaší organizace.
 - Prodejní kanály: veškerý prodejní kanál nebo ceny, pomocí kterých si koupíte/zřídíte produkty a služby, jako je CSP, EA, zprostředkovatel CSP, přímý, přímý, poradce, otevřený, ostatní
 - Zákaznické segmenty: seznam zákaznických segmentů napříč zákaznickou základnou pro partnery.

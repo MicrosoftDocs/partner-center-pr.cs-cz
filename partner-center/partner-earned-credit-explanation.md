@@ -9,24 +9,24 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623996"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087123"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Principy výpočtu a vyplácení kreditu získaného partnerem
 
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent správce
 - Správce fakturace
 - Agent prodeje
 
-Získaný kredit partnerů pro spravované služby (PEC) rozpoznává a vyměňuje partnery, kteří mají nepřetržitou provozní kontrolu a správu částí, nebo celé prostředí Azure svých zákazníků. Ve výchozím nastavení je ve zprostředkovateli CSP udělena potřebná přístupová práva k předplatnému zákazníka, což jim umožňuje provádět 24 × 7 provozní správu a kontrolu nad prostředky v rámci předplatného. Další způsoby, jak zákazník může zřídit přístup pro transakčního partnera, je popsaný v následující části. Měsíční fakturovaná částka nezahrnuje kredit získaný partnerem. Partneři můžou zobrazit podrobnosti o řadiči PEC na jejich měsíčním souboru rekognoskaci. Další způsoby, jak může zákazník zřídit přístup pro transakčního partnera, najdete [v článku Správa předplatných a prostředků v plánu Azure](azure-plan-manage.md).
+Získaný kredit partnerů pro spravované služby (PEC) rozpoznává a vyměňuje partnery, kteří mají nepřetržitou provozní kontrolu a správu částí, nebo celé prostředí Azure svých zákazníků. Ve výchozím nastavení je ve zprostředkovateli CSP udělena potřebná přístupová práva k předplatnému zákazníka, což jim umožňuje provádět 24 × 7 provozní správu a kontrolu nad prostředky v rámci předplatného. Další způsoby, jak můžou zákazníci zřídit přístup k transakčním partnerům, jsou popsány v následující části. Částka měsíční faktury je netto kredit získaný prostřednictvím partnerského serveru. Partneři můžou zobrazit podrobnosti o řadiči PEC na jejich měsíčním souboru rekognoskaci. Další způsoby, jak může zákazník zřídit přístup pro transakčního partnera, najdete [v článku Správa předplatných a prostředků v plánu Azure](azure-plan-manage.md).
 
 Také číst [obnovit oprávnění správce pro předplatná Azure CSP](revoke-reinstate-csp.md)
 
@@ -54,7 +54,7 @@ Pro získání partnerského kreditu pro partnery (PEC) platí následující po
 
 PEC se počítá denně a je možné ji zobrazit v souboru denního využití a v souboru rekognoskaci pro měsíční fakturu. Partner (nepřímý poskytovatel nebo nepřímý prodejce) musí mít přístup k celému dni (nepřetržitě), aby mohl získat PEC. Na spravovaných prostředcích Azure se každý den počítá PEC. Partneři uchovávají trvalý privilegovaný přístup v průběhu měsíce (rozsah přístupu) a u všech oprávněných prostředků (rozsah přístupu) získají úplný řadič PEC. Snížení rozsahu a rozpětí rozpětí bude mít za měsíc nižší sazbu PEC. Denní hodnocený soubor využití se denně zobrazuje na základě prostředku Azure, ať už se používá nebo ne. Partneři taky můžou zaregistrovat výstrahy a monitorovat změny trvalého privilegovaného přístupu.
 
-## <a name="azure-cost-management"></a>Azure Cost Management
+## <a name="azure-cost-management"></a>Správa nákladů v Azure
 
 Azure Cost Management (ACM) s využitím analýzy nákladů umožňuje jako partnera zobrazit náklady, které dostaly výhody PEC.  
 
@@ -66,7 +66,7 @@ Azure Cost Management (ACM) s využitím analýzy nákladů umožňuje jako part
 
    V zobrazení analýza nákladů se zobrazí náklady na fakturační účet pro všechny služby zakoupené a spotřebované v cenách, které platíte společnosti Microsoft.
 
-4. V rozevíracím seznamu v rozevíracím grafu vyberte **PartnerEarnedCreditApplied** , aby se zobrazily náklady s použitím pec. Pokud má vlastnost **PartnerEarnedCreditApplied** hodnotu true, mají přidružené náklady nárok na zvýhodněný kredit získaný partnerem. 
+4. V rozevíracím seznamu v kontingenčním grafu vyberte **PartnerEarnedCreditApplied** , aby se zobrazily náklady s použitím pec. Pokud má vlastnost **PartnerEarnedCreditApplied** hodnotu true, mají přidružené náklady nárok na zvýhodněný kredit získaný partnerem. 
 
    Pokud má vlastnost PartnerEarnedCreditApplied hodnotu false, přidružené náklady nevyhověly požadovanému nároku na kredit nebo zakoupená služba nemá nárok na kredit získaný partnerem.
 
@@ -79,10 +79,10 @@ Azure Cost Management (ACM) s využitím analýzy nákladů umožňuje jako part
 
 - [Získaný kredit partnerů – přehled](partner-earned-credit.md)
 
-- Podrobné příklady výpočtů vydaných kreditů pro partnery jsou umístěné na ceníku, ke kterému se můžete dostat prostřednictvím řídicího panelu partnerského centra (vyžaduje se přihlášení).
+- Podrobné příklady výpočtů vydaných kreditů partnerů najdete v ceníku, ke kterému se můžete dostat prostřednictvím řídicího panelu partnerského centra (vyžaduje se přihlášení).
 
 - [Přejít na Azure Plan – Začínáme](azure-plan-get-started.md)
 
 - [Správa předplatných a prostředků v rámci plánu Azure](azure-plan-manage.md)
 
-- [Odvolat nebo znovu nastavovat oprávnění správce pro předplatná Azure CSP](revoke-reinstate-csp.md)
+- [Odvolat nebo obnovit oprávnění správce pro předplatná Azure CSP](revoke-reinstate-csp.md)

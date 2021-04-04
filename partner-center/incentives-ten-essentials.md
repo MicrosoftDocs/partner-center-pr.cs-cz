@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92527241"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179101"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>10 základních prvků pro práci s pobídkami
-
-**Platí pro**
-
-- Partnerské centrum
-- Partneři v Microsoft Partner Network (MPN)
 
 **Příslušné role**
 
@@ -49,7 +44,7 @@ Je důležité získat základní informace o rolích a oprávněních, která s
 
 ## <a name="5-review-the-incentives-faq"></a>5. Přečtěte si nejčastější dotazy k motivaci
 
-Získejte odpovědi na běžné otázky týkající se otázek ještě předtím, než je budete si dokonce klást. S využitím informací z podpora Microsoftu a také přímo s partnery aktualizujeme Nejčastější dotazy k motivům. Nejčastější dotazy si můžete prohlédnout [tady](incentives-faq.md).
+Získejte odpovědi na běžné otázky týkající se otázek ještě předtím, než je budete si dokonce klást. S využitím informací od podpora Microsoftu a přímé komunikace s partnery aktualizujeme Nejčastější dotazy k motivům. Nejčastější dotazy si můžete prohlédnout [tady](incentives-faq.md).
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Potvrďte způsobilost programu
 
@@ -73,4 +68,4 @@ Najdete zde podrobné postupy pro všechny výše uvedené úlohy. Celý oddíl 
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Začínáme s motivací](incentives-get-started-intro.md)
+- [Začínáme s pobídkami](incentives-get-started-intro.md)

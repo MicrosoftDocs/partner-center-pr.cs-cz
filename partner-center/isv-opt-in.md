@@ -4,28 +4,28 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zjistěte, jak nezávislý výrobce softwaru (ISV) zpřístupňuje určité nabídky výhradně a k dispozici pouze konkrétním partnerům CSP.
+description: Zjistěte, jak nezávislí výrobci softwaru (ISV) poskytují určité nabídky výhradně a jsou dostupné jenom pro konkrétní partnery CSP.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527333"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179458"
 ---
-# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Exkluzivní nabídky pro Marketplace od nezávislých dodavatelů softwaru
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Exkluzivní nabídky od nezávislých výrobců softwaru na marketplace
 
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent správce
 - Agent prodeje
 
-Nezávislý dodavatel softwaru (ISV) má možnost vytvářet exkluzivní nabídky, které jsou k dispozici pouze určitým partnerům CSP.
+Nezávislý dodavatel softwaru (ISV) může vytvořit exkluzivní nabídky, které jsou k dispozici pouze určitým partnerům CSP.
 
 Partneři CSP můžou zobrazit všechny nabídky ISV na portálu Datacenter Center pro komerční tržišti. Nabídky označené jako **exkluzivní** může ale koupit jenom konkrétní partneři vybrané nezávislým dodavatelem softwaru. Pokud nabídka není označená jako **exkluzivní**, můžou si ji koupit všichni partneři.
 
