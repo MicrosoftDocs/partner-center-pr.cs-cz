@@ -1,5 +1,5 @@
 ---
-title: Partnerské centrum pro Microsoft Cloud Německo
+title: Partnerské centrum pro Microsoft Cloud pro Německo
 ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527736"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086511"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partnerské centrum pro Microsoft Cloud Německo pro partnery, kteří prodávají zákazníkům v zemích EU & ESVO
 
 **Platí pro**
 
--  Partnerské centrum pro Microsoft Cloud Německo
+- Partnerské centrum pro Microsoft Cloud pro Německo
 
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent správce
 - Agent prodeje
 - Správce fakturace
@@ -41,7 +41,7 @@ Microsoft Cloud Německo poskytuje samostatnou instanci [Microsoft Azure](https:
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrace zákazníků z Microsoft Cloud Německa do jiné evropské oblasti
 
-Než budete moct migrovat předplatné zákazníka z Microsoft Cloud Německo do jiné evropské oblasti, musíte mít existující účet CSP, který je umístěný v této oblasti, a je aktivní. Pokud ho ještě nemáte, budete vyzváni k jeho vytvoření během výběru účtu CSP v partnerském centru. Po vytvoření nového účtu budou vaši zákazníci přidružení k vybranému tenantovi.
+Než budete moct migrovat předplatné zákazníka z Microsoft Cloud Německo do jiné evropské oblasti, musíte mít existujícího účtu poskytovatele Cloud Solution Provider (CSP), který je umístěný v této oblasti, a je aktivní. Pokud ho ještě nemáte, budete vyzváni k jeho vytvoření během výběru účtu CSP v partnerském centru. Po vytvoření nového účtu budou vaši zákazníci přidružení k vybranému tenantovi.
 
 ### <a name="you-already-have-a-csp-account"></a>Už máte účet CSP.
 
@@ -69,10 +69,10 @@ Než budete moct migrovat předplatné zákazníka z Microsoft Cloud Německo do
 
 ### <a name="you-dont-already-have-a-csp-account"></a>Ještě nemáte účet CSP.
 
-1. Přihlaste se k CSP Microsoft Cloudmu klientovi Německo jako globální správce.
+1. Přihlaste se k poskytovateli CSP Microsoft Cloud v Německu jako globální správce.
 
 1. V nabídce vlevo přejděte na stránku Přehled CSP.
-. 
+ 
 1. Po zobrazení výzvy vyberte možnost **nemám tenanta v evropské oblasti** a pak vyberte **vytvořit nový účet**. 
  
 1. Přejdete na stránku pro registraci partnerského centra, kde můžete v evropské oblasti vytvořit nový účet tenanta a CSP.

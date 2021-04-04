@@ -8,16 +8,17 @@ description: Podívejte se, co dobře děláte, a kde můžete vylepšit využit
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 48577571e77bd0181b78e01558a07edd1a3b925d
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147038"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086273"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Enterprise Mobility + Security k dispozici na řídicím panelu přehledů partnerského centra
 
 **Příslušné role**
+
 - Globální správce
 - Agent správce
 - Prohlížeč sestav
@@ -42,7 +43,7 @@ V části Souhrn najdete zobrazení snímků klíčových ukazatelů souvisejíc
 
    Mikrograf představuje měsíční trend nového předplatného pro vybraný rozsah dat.
 
-- Dostupné křesla: celkový počet licencí prodaných během vybraného časového období.
+- Dostupné křesla: celkový počet licencí prodaných během vybraného časového rámce.
 
    Mikrograf prezentuje trend počtu dostupných míst v měsíci v průběhu vybraného období.
 
@@ -54,7 +55,7 @@ V části Souhrn najdete zobrazení snímků klíčových ukazatelů souvisejíc
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Využití Enterprise Mobility + Security podle geografie
 
-**Využití Enterprise mobility + Security podle geografie** znázorňuje distribuci měsíčních aktivních uživatelů (MAU) a placených dostupných jednotek (PAU) podle země zákazníka. MAU odkazují na počet licencí použitých během předchozího měsíce a PAU označuje počet placených nebo spravovaných pracovních stanic během vybraného časového období. Světlejší barvy na mapě znázorňují nižší hodnoty, zatímco tmavší barvy reprezentují vyšší hodnoty. V mřížce můžete hledat a vybrat zemi. Můžete také přiblížit lepší vzhled.
+**Využití Enterprise mobility + Security podle geografie** znázorňuje distribuci měsíčních aktivních uživatelů (MAU) a placených dostupných jednotek (PAU) podle země zákazníka. MAU odkazuje na počet licencí použitých během předchozího měsíce a PAU označuje počet placených nebo spravovaných pracovních stanic během vybraného časového období. Světlejší barvy na mapě znázorňují nižší hodnoty, zatímco tmavší barvy reprezentují vyšší hodnoty. V mřížce můžete hledat a vybrat zemi. Můžete také přiblížit lepší vzhled.
 
 V tabulce **počet zemí/oblastí** je uvedena celková země/oblasti, ve kterých jsou generovány události využití Azure.
 

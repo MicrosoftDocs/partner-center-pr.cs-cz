@@ -9,21 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "92527037"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133110"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Správa různých potenciálních zákazníků, jako jsou potenciální zákazníci na základě dotazů zákazníků, kvalifikovaní potenciální zákazníci z marketingového oddělení a kvalifikovaní potenciální zákazníci z prodejního oddělení
-
-**Platí pro**
-
-- Partnerské centrum
-- Referenční seznamy
-- Poskytovatel řešení Microsoftu
-- Obchodní profily
 
 **Příslušné role**
 
@@ -46,9 +39,9 @@ Určené k **prodeji** – jedná se o zájemce, které vám poslali prodejci Mi
 
 V části zájemci jsou tři karty nejvyšší úrovně. 
 
-**Zájemci na Marketplace** – všechny zájemce pocházející z hledání na stránce od poskytovatele řešení Microsoftu, což jsou dotazy zákazníků.
+**Zájemci na Marketplace** – jedná se o všechny zájemce pocházející z hledání na stránce od poskytovatele řešení Microsoftu, což jsou dotazy zákazníků.
 
-**Kvalifikovaní zájemci** – na této kartě jsou k dispozici všichni zájemci typu marketing a kvalifikovaný prodej.
+**Kvalifikovaní zájemci** – jedná se o všechny zájemce typu marketing a kvalifikovaného prodeje.
 
 **Oblíbené** – na této kartě se zobrazí všichni potenciální zákazníci, kteří jsou označeni jako oblíbené položky na kartě zájemci nebo kvalifikované zájemce na webu Marketplace. Můžete označit libovolného zájemce jako oblíbenou položku kliknutím na ikonu srdce u zájemce v zobrazení seznamu. Zájemce můžete z oblíbených položek odebrat pouhým kliknutím na stejnou ikonu.
 
@@ -62,7 +55,7 @@ V této fázi jste získali nového zájemce buď přímo od zákazníka, nebo o
 
 V této fázi můžete v této fázi provést dvě akce – přijměte nebo odmítněte odkaz:
 
-- **Přijmout:** Zadejte název obchodu, odhadovanou hodnotu koupě a odhadovaný časový rámec nákupu. V poli **poznámky** byste také měli zadat informace, které vám pomůžou vysvětlit, co zákazník hledá. Volitelně můžete zadat ID vaší aplikace CRM (jenom pro referenci), ID marketingové kampaně, které vedlo k příslušnému vedoucímu, a přidat další kontakty z vaší společnosti. Až budete hotovi, vyberte **Další**. Budeme přemístit odkaz na **další fázi**, což znamená, že se budete chtít aktivně zapojit zákazníka, aby si vyřeší jejich potřebu. Tyto informace také použijeme, abychom vám pomohli najít podobné obchody v budoucnosti. 
+- **Přijmout**: zadejte název obchodu, odhadovanou hodnotu koupě a odhadovaný časový rámec nákupu. V poli **poznámky** byste také měli zadat informace, které vám pomůžou vysvětlit, co zákazník hledá. Volitelně můžete zadat ID vaší aplikace CRM (jenom pro referenci), ID marketingové kampaně, které vedlo k příslušnému vedoucímu, a přidat další kontakty z vaší společnosti. Až budete hotovi, vyberte **Další**. Budeme přemístit odkaz na **další fázi**, což znamená, že se budete chtít aktivně zapojit zákazníka, aby si vyřeší jejich potřebu. Tyto informace také použijeme, abychom vám pomohli najít podobné obchody v budoucnosti. 
 
 - **Odmítnout**: Vyberte důvod odmítnutí obchodu a přidejte všechny poznámky, které chcete zahrnout, a pak vyberte **uzavřít** obchod. Bude archivována jako **odmítnutá** a upozorní zákazníka, aby zvolil jiného partnera.
 
@@ -85,15 +78,15 @@ Toto je fáze terminálu, kde všechny příležitosti nakonec dosáhnou. Může
 
 Tady je několik tipů, které vám pomůžou získat vhodnější referenční informace:
 
-- **Vyberte klíčová slova a předvolby, které reprezentují vaše jedinečné znalosti a obchodní model** ve vašem [obchodním profilu](create-a-marketing-profile.md). Odebrat klíčová slova, která by generovala reference, která vám nejsou zajímat. Pokud se nechcete zajímat o firmy určité velikosti, aktualizujte tuto předvolbu.
+- **Vyberte klíčová slova a předvolby, které reprezentují vaše jedinečné znalosti a obchodní model ve vašem [obchodním profilu](create-a-marketing-profile.md)**. Odebrat klíčová slova, která by generovala reference, která vám nejsou zajímat. Pokud se nechcete zajímat o firmy určité velikosti, aktualizujte tuto předvolbu.
 
-- **Zkontrolujte kontaktní informace ve vašem [obchodním profilu](create-a-marketing-profile.md) pro každé umístění** . Ujistěte se, že váš tým získá příchozí výstrahy.
+- **Zkontrolujte své kontaktní informace ve vašem [obchodním profilu](create-a-marketing-profile.md) pro každé umístění**. Ujistěte se, že váš tým získá příchozí výstrahy.
 
 - **Rychlá reakce na reference** Když odpovíte včas na příchozí požadavky, zvýšíme vaši viditelnost v budoucích výsledcích hledání zákazníků. Ujistěte se, že váš tým rychle reaguje s vaším záměrem.
 
-- **Choosy se s obchody, které přijímáte** Sledujeme typy obchodů, které přijímáte a odmítáte, a tyto informace můžete využít k tomu, abyste vám pomohli najít podobné obchody. Přijímání obchodů, které nejsou vhodné, nevylepší výsledky hledání a může mít vliv na kvalitu vašich zájemců, které obdržíte.
+- **Choosy se s obchody, které přijmete**. Sledujeme typy obchodů, které přijímáte a odmítáte, a tyto informace můžete využít k tomu, abyste vám pomohli najít podobné obchody. Přijímání obchodů, které nejsou vhodné, nevylepší výsledky hledání a může mít vliv na kvalitu vašich zájemců, které obdržíte.
 
-- **Nahlaste se s předpokládanými velikostmi, konečnými se daty a konečným stavem vašich obchodů** (získaných nebo ztracených). Tyto informace použijeme, abychom vám mohli dál poskytovat odkazy na kvalitu.
+- **Nahlaste se s předpokládanými velikostmi, konečnými se daty a konečným stavem vašich obchodů (získaných nebo ztracených)**. Tyto informace použijeme, abychom vám mohli dál poskytovat odkazy na kvalitu.
 
 ## <a name="next-steps"></a>Další kroky
 

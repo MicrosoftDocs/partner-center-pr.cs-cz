@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932836"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133093"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Správa výhod a nabídek členství v Microsoft Partner Network v partnerském centru
-
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent správce
 - Správce partnera MPN
 
@@ -45,7 +41,7 @@ Balíčky s výhodami zahrnují přidělení licencovaného softwaru, cloudovýc
 
 Pokud chcete zobrazit a spravovat všechny výhody svého členství, navštivte stránku s [ **výhodami**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (vyžaduje se přihlášení). Alternativně se můžete přihlásit na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra, v nabídce vlevo vybrat **možnost [výhody**] a pak vybrat možnosti, které se zobrazí.  
 
-Aby bylo možné aktivovat většinu výhod nebo stahovat související softwarové klíče atd., Partnerská centra obvykle vyžaduje, aby byla přiřazena role správce partnerů pro globálního správce nebo MPN. Pokud nevidíte žádné výhody nebo nemůžete aktivovat výhody, obraťte se na globálního správce partnerského centra, abyste měli jistotu, že máte správná oprávnění. [Přečtěte si další informace o rolích partnerského centra](permissions-overview.md).
+Aby bylo možné aktivovat většinu výhod nebo stahovat související softwarové klíče, Partnerská centra obvykle vyžaduje, aby někdo přiřadil roli globálního správce nebo správce partnerů MPN. Pokud nevidíte žádné výhody nebo nemůžete aktivovat výhody, obraťte se na globálního správce partnerského centra, abyste měli jistotu, že máte správná oprávnění. [Přečtěte si další informace o rolích partnerského centra](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Správa výhod softwaru
 
@@ -76,7 +72,7 @@ Existují dva typy předplatných založených na využití, které byste mohli 
 Můžete zřídit pomocí:
 
 - 100 USD za měsíc (nebo ekvivalent v místní měně) měsíční kredit Azure nebo/a
-- $6000, $12000 nebo/a $13000/Year (nebo každý z nich ekvivalentní v místní měně) Azure – hromadný kredit
+- $6 000, $12 000 nebo/a $13000/Year (nebo každý z nich ekvivalentní v místní měně) Azure – hromadný kredit
 
 Pokud chcete aktivovat předplatné Microsoft Azure v partnerském centru, přiřaďte přístup k uživateli v rámci společnosti (včetně uživatelů typu Host), který má v Azure Active Directory vytvořenou položku uživatele.
 V rámci měsíčního kreditu Azure za měsíc (nebo ekvivalent v místní měně) můžete kdykoli přidat nebo odebrat uživatele z tohoto předplatného. 
@@ -85,9 +81,9 @@ V případě kreditu Azure v rámci hromadného (ročního) není možnost odebr
 
 ## <a name="license-based-subscriptions"></a>Odběry na základě licencí
 
-V části odběry na základě licencí na kartě cloudové produkty Azure & najdete všechny cloudové produkty, které pro aktivaci vyžadují kód Product Key, jako je Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI atd., které vám budou nabídnuty v závislosti na typu nabídky, kterou jste aktivní jako partner MPN – MAPS, stříbrné nebo zlaté.
+Část License-Subscriptions na kartě cloudové produkty Azure & obsahuje seznam všech cloudových produktů, které pro aktivaci vyžadují kód Product Key, jako je například systém Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic a Power BI. Typ nabídky, kterou máte aktivní jako partner MPN – MAPS, stříbrné nebo zlaté ovládací prvky, které jsou uvedené v seznamu.
 
-Pokud chcete aktivovat odběry založené na licencích, klikněte na symbol rozevíracího seznamu v souladu s produktem a přečtěte si pokyny, jak klíče uplatnit. Po přečtení pokynů vyberte odkaz, který vás přesměruje na portál, aby vybral klíče a také přiřazený klíč pro váš produkt.
+Pokud chcete aktivovat odběry založené na licencích, klikněte na symbol rozevíracího seznamu v souladu s produktem a přečtěte si pokyny, jak klíče uplatnit. Po přečtení pokynů vyberte odkaz, který vás přesměruje na portál, aby vybral klíče a přiřazený klíč pro váš produkt.
 
 >[!IMPORTANT]
 >Počítejte s tím, že po uplatnění klíče se nedá stejný klíč znovu považovat za druhý, takže se ujistěte, že jste nejasní, jestli potřebujete přidat další licence (křesla) nebo rozšíříte koncové datum. Pokud se rozhodnete přidat další licence a ne koncové datum, systém vám poskytne za méně než 12 měsíců aktivní předplatné. Ujistěte se, že jste se přihlásili se správnými přihlašovacími údaji pro aktivaci klíčů ve správném tenantovi.

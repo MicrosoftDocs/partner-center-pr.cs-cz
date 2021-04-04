@@ -9,19 +9,19 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556391"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086528"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Získaný kredit partnerů – přehled o tom, jak funguje v novém prostředí pro obchodování v CSP
 
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent správce
 - Správce fakturace
 - Agent prodeje
@@ -30,7 +30,7 @@ Získaný kredit pro partnery v novém prostředí pro obchodování v CSP je ob
 
 Ceny můžou být náročné pro mnoho zákazníků a partnerů, zejména když zvažujete tisíce služeb v Azure a více možností nákupu. V novém prostředí pro obchod pro Azure jsme pro všechny pohyby v provozu zavedli jednotné zásady pro obecné ceny. Partneři CSP můžou nabídnout Azure za publikované ceny. Tím je zajištěna větší transparentnost svých zákazníků a sestavení důvěřuje.
 
-Potřebou digitální transformace našich zákazníků je změna povahy hodnoty, kterou partneři nabízejí. Spousta zákazníků si vyhledává partnery, kteří poskytují služby nad rámec transakce. Tyto služby jim můžou usnadnit práci v cloudu a efektivně využívat služby Azure. Tyto služby jsou průběžně a zahrnují monitorování, zásady a správu zásad správného řízení, nastavení a konfiguraci, optimalizaci, technickou podporu a celou řadu dalších služeb. 
+Potřebou digitální transformace našich zákazníků je změna povahy hodnoty, kterou partneři nabízejí. Spousta zákazníků si vyhledává partnery, kteří poskytují služby nad rámec transakce. Tyto služby jim můžou usnadnit práci v cloudu a efektivně využívat služby Azure. Tyto služby jsou průběžně a zahrnují monitorování, zásady a správu zásad správného řízení, nastavení a konfiguraci, ladění, technická podpora a různé další služby. 
 
 Tyto služby vyžadují, aby partner byl dobře obeznámen s prostředím Azure zákazníka a měl průběžné a vhodné řízení a kontrolu nad základními prostředky, které spravují. Fakturační partneři, kteří poskytují tuto 24 × 7 cloudových operací správy, budou mít nárok na **kredit získaný pro partnery** , kteří se spravují na Azure, které se řídí a řídí partnerem.
 
@@ -51,7 +51,7 @@ Když se zákazníci přejdou na platformy cloud computingu, čelí se správou 
 
 Vaši zákazníci vám budou mít na maximum své podnikání v Azure. Se spravovanými službami můžete zákazníkům pravidelně poskytovat bílou šetrnější službu. Mezi každodenní operace a podporu, které byste mohli poskytnout, patří:
 
-- **Cloudové operace a služby pro správu**: zákazníci, kteří mají za cíl snížit náklady v Azure, když reprodukuje izolaci, zásady zabezpečení a modely auditu, které ještě dnes mají. Očekávají taky, že partneři mají přístup k vyspělým nástrojům pro identifikaci vhodnosti úloh a také jednorázovému nasazení a průběžným provozním nákladům na Azure. Kromě toho zákazníci potřebují podporu pro automatizaci a orchestraci, opravy aktualizací, správu konfigurace, zálohování a zotavení po havárii a správu identit. 
+- **Cloudové operace a služby pro správu**: zákazníci, kteří mají za cíl snížit náklady v Azure, když reprodukuje izolaci, zásady zabezpečení a modely auditu, které ještě dnes mají. Očekávají taky, že partneři mají přístup k vyspělým nástrojům pro identifikaci vhodnosti úloh a jednorázového nasazení a průběžné provozní náklady na Azure. Kromě toho zákazníci potřebují podporu pro automatizaci a orchestraci, opravy aktualizací, správu konfigurace, zálohování a zotavení po havárii a správu identit. 
 
 - **Monitorování cloudu a technická podpora**: ve světě cloudové spotřeby se vyvinuly nástroje a požadavky, ale to, že se nezměnily správné prostředky pro správu IT infrastruktury, se nezměnily. Většina organizací jednoduše nemá čas, prostředky nebo vyhrazené zaměstnance potřebné k monitorování všech aspektů. v takovém případě jste jako důvěryhodný partner přidali nejvíc hodnot. I když Azure nabízí mnoho integrovaných partnerů pro monitorování, kteří poskytují další, hlubší nástroje pro monitorování, rozhodnou falešně pozitivní výstrahy od skutečných výstrah a proaktivně se upozorní na výstrahy předtím, než bude potřeba měřitelné ztráty ve výkonu. 
 
@@ -62,7 +62,7 @@ Vaši zákazníci vám budou mít na maximum své podnikání v Azure. Se spravo
 
 - **Log Analytics a výstrahy**: každý klient, zařízení a uživatel přistupující k síti vytvoří data, která se protokolují. Analýza protokolů může nabídnout hlubší přehled o výkonu, zabezpečení, spotřebě prostředků a dalších smysluplných metrikách.
 
-- **Monitorování databáze**: zobrazení databáze zákazníků, které partnerům pomáhá zajistit vysokou dostupnost databázových serverů. Tento proces zahrnuje uchovávání protokolů velikosti, času připojení a uživatelů databází, analýze trendů využití a využití dat k proaktivnímu napravení problémů.
+- **Monitorování databáze**: zobrazení databáze zákazníků, které partnerům pomáhá zajistit vysokou dostupnost databázových serverů. Tento proces zahrnuje uchovávání protokolů velikosti, času připojení a uživatelů databází, analýze trendů využití a používání dat k proaktivnímu napravení problémů.
 
 - **Sledování výkonu aplikací**: kompletní sledování všech aspektů aplikace (nebo webové stránky). Monitorování aplikací zahrnuje sledování každé části od nákupních košíků až po registrační stránky – u zákaznických aplikací, které mají problémy s výkonem, aby bylo zajištěno nejlepší možné uživatelské prostředí.
 

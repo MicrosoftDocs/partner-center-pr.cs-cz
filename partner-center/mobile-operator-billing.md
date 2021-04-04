@@ -1,19 +1,19 @@
 ---
 title: Faktura mobilního operátora – Microsoft Store
 description: Microsoft Store nabízí jako způsob platby pro mobilní obsluhy, které tuto funkci podporují, možnost účtování.
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, mobilní operátory, fakturace pro mobilní zařízení, faktura mobilního operátora
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92527617"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178812"
 ---
 # <a name="mobile-operator-billing"></a>Platby prostřednictvím mobilního operátora
 
@@ -35,17 +35,19 @@ Následující mobilní operátory aktuálně podporují fakturaci mobilního op
 | Rakousko              | A1 Telekom, Hutchison 3G Rakousko, T-Mobile/tele. Ring  |
 | Belgie              | Základní, Proximus                                          |
 | Kanada               | Telus                                                   |
-| Czechia              | T-mobilní                                                |
+| Czechia              | T-Mobile, Vodafone, O2                                  |
 | Dánsko              | 3, ORS/YouSee, Telenor, Telia                         |
 | Finsko              | DNA, ELISA                                              |
 | Francie               | Oranžový                                                  |
 | Německo              | O2, Telekom Deutschland, Vodafone                       |
 | Maďarsko              | Telenor                                                 |
-| Itálie                | Tre, vítr                                               |
+| Itálie                | Tre, vítr, Vodafone                                     |
+| Jižní Korea                | SK Telecom                                              |
 | Malajsie             | Produktu                                                    |
-| Nizozemsko          | KPN/Telfort                                           |
+| Nizozemsko          | KPN/Telfort, Vodafone                                 |
 | Norsko               | Telenor/TalkMore, Telia/OneCall                     |
-| Polsko               | Oranžová, Přehrát                                            |
+| Polsko               | Oranžová, Play, T-Mobile                                  |
+| Saúdská Arábie         | STC                                                     |
 | Singapur            | M1 s omezením, StarHub                                     |
 | Slovensko             | Slovenské Telekom                                          |
 | Jižní Afrika         | Vodacom                                                 |
@@ -56,4 +58,4 @@ Následující mobilní operátory aktuálně podporují fakturaci mobilního op
 | Turecko               | Turkcell                                                |
 | Spojené arabské emiráty | Etisalat                                                |
 | USA        | Sprint, Verizon                                         |
-| Spojené království       | 3 Spojené království, EE, O2, Vodaphone                                 |
+| Spojené království       | 3 Spojené království, EE, O2, Vodafone                                 |

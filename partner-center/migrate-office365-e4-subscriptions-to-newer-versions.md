@@ -9,24 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92526990"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132617"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrace předplatných Office 365 E4 na novější verze Office 365
 
-**Platí pro**
-
--  Partnerské centrum
-
 **Příslušné role**
--   Globální správce
--   Správce uživatelů
--   Agent správce
--   Agent prodeje
+
+- Globální správce
+- Správce správy uživatelů
+- Agent správce
+- Agent prodeje
 
 Plán Office 365 Enterprise E4 je vyřazený, platný 7. dubna 2017. Po tomto datu už nebudete moct koupit nová předplatná Office 365 E4 a existující odběry E4 se po uplynutí této doby nebudou automaticky obnovovat.
 
@@ -54,16 +51,16 @@ Můžete se rozhodnout, že budete stejné funkce udržovat s E4, nebo pokud chc
 - Možnost 4: Office 365 Enterprise E3
 
 
-| Doporučené | Možnost 1 | Možnost 2 | Možnost 3 | Možnost 4 |
+| Funkce | Možnost 1 | Možnost 2 | Možnost 3 | Možnost 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Chcete získat všechny funkce zahrnuté v Office 365 Enterprise E4? | Ano | Ano | Ano | Ne |
-| Telefonní čísla spravovaná v sadě Office 365? | Ano | Ano | Ne | Ne |
-| Telefonní čísla spravovaná místně i v Office 365 (hybridní nasazení)? | Ano | Ano | Ne | Ne |
-| Možnost přidání plánu hlasového volání veřejné telefonní sítě? | Ano | Ano | Ne | Ne |
-| Konference v PSTN? | Ano | Ne | Ne | Ne |
-| Rozšířené nástroje pro spolupráci, analýzu a zabezpečení? | Ano | Ne | Ne | Ne |
-| Interaktivní sestavy, řídicí panely a vizualizace dat? | Ano | Ne | Ne | Ne | 
-| Lepší kontrola zabezpečení dat a dodržování předpisů pomocí integrovaných uživatelských ovládacích prvků ochrany osobních údajů, transparentnosti a kontrastu? | Ano | Ne | Ne | Ne | 
+| Chcete získat všechny funkce zahrnuté v Office 365 Enterprise E4? | Yes | Yes | Yes | No |
+| Telefonní čísla spravovaná v sadě Office 365? | Yes | Yes | No | No |
+| Telefonní čísla spravovaná místně i v Office 365 (hybridní nasazení)? | Yes | Yes | No | No |
+| Možnost přidání plánu hlasového volání veřejné telefonní sítě? | Yes | Yes | No | No |
+| Konference v PSTN? | Yes | No | No | No |
+| Rozšířené nástroje pro spolupráci, analýzu a zabezpečení? | Yes | No | No | No |
+| Interaktivní sestavy, řídicí panely a vizualizace dat? | Yes | No | No | No | 
+| Lepší kontrola zabezpečení dat a dodržování předpisů pomocí integrovaných uživatelských ovládacích prvků ochrany osobních údajů, transparentnosti a kontrastu? | Yes | No | No | No | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>Přechod zákazníků na nové plány produktů
 
@@ -87,7 +84,7 @@ Pomocí těchto kroků migrujete předplatné Office 365 Enterprise E4 zákazní
 
 1. V nabídce **Partnerské centrum** vyberte **zákazníky**, vyberte zákazníka, kterého chcete přesunout, a pak vyberte **Uživatelé a licence**. Otevře se stránka uživatelé a licence zákazníka.
 
-2. Pokud chcete znovu přiřadit uživatelské licence, vyberte uživatele, kterého chcete znovu přiřadit, a pak vyberte **spravovat licence**.
+2. Pokud chcete změnit přiřazení uživatelských licencí, vyberte uživatele, kterého chcete znovu přiřadit, a pak vyberte **spravovat licence**.
 
 3. Na stránce **spravovat licence** zrušte zaškrtnutí políčka licence **Office 365 Enterprise E4** a vyberte nový plán služby pro předplatné, na které se bude zákazník pohybovat.
 
@@ -109,7 +106,7 @@ Staré předplatné je pozastavené a nové předplatné je aktivní. Pozastaven
 
 
 
- 
+ 
 
 
 

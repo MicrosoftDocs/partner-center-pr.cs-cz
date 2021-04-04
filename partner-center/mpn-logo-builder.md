@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104924258"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132396"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Jak vytvořit logo partnera, certifikovaného dopisu nebo odměny pomocí Tvůrce loga
 
 **Příslušné role**
 
-- Všichni uživatelé partnerského centra zajímá Vás o další informace o tvůrci loga.
+- Všichni partneři, kteří mají zájem o další informace o tvůrci loga
 
 Hodnota získání stříbra nebo Gold Competency je příležitostí k odlišení od zákazníků. Logo, které můžete použít na svých prodejních a marketingových materiálech a obchodních profilech v partnerském centru, abyste předvedli kompetenci nebo kompetenci, které jste dosáhli, jsou součástí výhod vaší kompetence. 
 
@@ -28,7 +28,7 @@ Pokud jste se dostali do programu Azure expert MSP, obdrželi jste partnera pro 
 
 ## <a name="what-is-available-in-logo-builder"></a>Co je k dispozici v Tvůrci loga
 
-K dispozici pro vaši společnost v Tvůrci loga je zarovnaná na vaše členství v Microsoft Partner Network (MPN). Může trvat až 24 hodin, než se změní vaše členství v programu MPN, například dosažení nové kompetence, které se projeví.  
+Loga dostupná pro vaši společnost v Tvůrci loga jsou zarovnána k vašemu členství v Microsoft Partner Network (MPN). Může trvat až 24 hodin, než se změní vaše členství v programu MPN, například dosažení nové kompetence, které se projeví.
 
 Mezi prostředky, které můžete vytvořit v Tvůrci loga, patří následující:
 

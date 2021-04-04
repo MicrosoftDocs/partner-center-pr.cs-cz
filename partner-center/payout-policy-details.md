@@ -1,22 +1,22 @@
 ---
 title: Plány a procesy výplat
 description: Seznamte se s výběry a transakcemi, jako jsou platební plány a recoupment procesy pro komerční tržiště a další transakce.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756839"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086171"
 ---
 # <a name="payout-schedules-and-processes"></a>Plány a procesy výplat
 
-**Příslušné role:**
+**Příslušné role**
 
 - Správce účtu
 - Globální správce
@@ -33,7 +33,7 @@ Když zákazník koupí produkt z Microsoft AppSource nebo Azure Marketplace pom
 
 K určitému typu často dojde předtím, než Microsoft shromáždí platbu od zákazníka. V tématu [postup pro zákazníky, kteří nejsou placeni](#process-for-customer-non-payment) níže pro akce, které provedeme, pokud se zákazníkovi nepodaří platit společnost Microsoft, ale už jsme vybrali výběr.
 
-| Událost | Popis | Viditelnost sestav | Okamžiku |
+| Událost | Description | Viditelnost sestav | Okamžiku |
 | --- | --- | --- | --- |
 | Využití nebo měsíc transakce | Zákazník používá nebo kupuje službu. | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 1** |
 | Vypočtená částka fakturace Microsoft | Určení celkového využití, transakcí celkem | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 2** |
@@ -51,7 +51,7 @@ K určitému typu často dojde předtím, než Microsoft shromáždí platbu od 
 
 Všechny nákupy pomocí platební karty nebo faktury za měsíc mají za úkol, aby bylo zajištěno shromažďování finančních prostředků od zákazníka.
 
-| Událost | Popis | Viditelnost sestav | Okamžiku |
+| Událost | Description | Viditelnost sestav | Okamžiku |
 | --- | --- | --- | --- |
 | Využití nebo měsíc transakce | Zákazník používá nebo kupuje službu. | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 1** |
 | Faktura placená zákazníkem | Určení celkového využití, celkové hodnoty transakcí a faktury zákazníka | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 2** |
@@ -67,13 +67,13 @@ Všechny nákupy pomocí platební karty nebo faktury za měsíc mají za úkol,
 
 ## <a name="process-for-customer-non-payment"></a>Postup pro zákazníka bez platby
 
-Ve výjimečných případech Microsoft nedokáže shromažďovat platby od zákazníků po nákupy komerčních webů na webu Marketplace. Když se zákazníkovi nepodaří platit Microsoft podle svého plánu fakturace, zahájíme proces sběru. Tento proces trvá přibližně čtyři měsíce a vyžaduje trvalou komunikaci od Microsoftu. Pokud platba není na konci tohoto procesu přijatá, Microsoft zapisuje fondy jako neshromážditelné.
+Ve výjimečných případech Microsoft nedokáže shromažďovat platby od zákazníků po nákupy komerčních webů na webu Marketplace. Když se zákazníkovi nepodaří platit Microsoft podle svého plánu fakturace, zahájíme proces sběru. Tento proces trvá přibližně čtyři měsíce a vyžaduje trvalou komunikaci od Microsoftu. Pokud platba na konci tohoto procesu neobdrží, Microsoft zapisuje fondy jako neshromážditelné.
 
 V rámci procesu vyzkoušení, který je zde kloubem, společnost Microsoft již mohla zaplatila fondy vydavatelům (vy), které jsou nakonec neshromažďovány. Proto máme proces pro sjednocení těchto částek. Abyste se ujistili, že se vaše (už přijatá) platba mohla sjednotit, budete upozorněni, když se zákazník v procesu sběru a nákupy budou pravděpodobně odepsány.
 
 Společnost Microsoft bude recoup všechny již placené výběry pomocí jedné z následujících metod: (1) Společnost Microsoft může odečíst neplacené částky z budoucích výběrů; Například pokud je $1 000 ve vydaných vzorcích považován za neshromažďující a zapisování, vaše budoucí výběry budou zadrženy až do obnovení $1 000 nebo (2) Společnost Microsoft může požádat o refundaci nebo vydavatelům faktur pro jakékoli neshromážděné částky.
 
-Následuje příklad plánu:
+Následující plán je příkladem:
 
 | Událost | Přibližné datum * | Viditelnost partnerů |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Následuje příklad plánu:
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Počet dní, po které se mají platby oslovit k účtu typu výběr
 
-Na 15. den tohoto měsíce obvykle posíláme jakékoli platby splatné v daném měsíci, ale čas potřebný k tomu, aby platba dosáhla svého účtu, trvá ještě déle. Počet dní závisí na způsobu platby, který používáme pro váš účet, jak je popsáno níže.
+Na 15. den tohoto měsíce obvykle posíláme jakékoli platby splatné v daném měsíci, ale u platby k vašemu účtu může trvat jinou dobu. Počet dní závisí na způsobu platby, který používáme pro váš účet, jak je popsáno níže.
 
 > [!NOTE]
 > Níže uvedené dny jsou přibližné. Vaše platba může trvat déle nebo méně času, než se dostanou k vašemu účtu.

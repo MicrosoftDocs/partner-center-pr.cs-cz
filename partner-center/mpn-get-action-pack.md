@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 3b75bffcab2c51ac81e3c2f623ad74a9314339b9
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514722"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132294"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Nákup nebo prodloužení platnosti předplatného programu Microsoft Action Pack nebo kompetencí Silver a Gold Competency
 
@@ -22,12 +22,12 @@ ms.locfileid: "97514722"
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Správce partnera MPN
 - Agent správce
 
 
-Z [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra můžou členové Microsoft Partner Network (MPN) koupit nebo prodloužit nabídky s výhodami, včetně předplatného Microsoft Action Pack a stříbrné a zlaté kompetence.
+Z [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra můžou členové Microsoft Partner Network (MPN) zakoupit nebo prodloužit nabídky s výhodami, včetně předplatného Microsoft Action Pack a stříbrné a zlaté kompetence.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Nakoupit Microsoft Action Pack poprvé
 

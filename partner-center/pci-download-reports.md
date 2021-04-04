@@ -9,16 +9,17 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527769"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086222"
 ---
 # <a name="download-reports"></a>Stažení sestav
 
 **Příslušné role**
+
 - Prohlížeč sestav Executive
 - Prohlížeč sestav
 
@@ -43,7 +44,7 @@ Pokud chcete vygenerovat sestavu, nejdřív ji vyberte v rozevíracím seznamu *
 
 Ke stažení jsou k dispozici následující sestavy:
 
-**Partnerský profil** poskytuje podrobnosti související s partnerem. V sestavě jsou k dispozici podrobnosti, jako je ID partnera, jméno partnera, město partnera, partnerská země atd. Pro tuto sestavu se nepoužijí žádné agregace ani lookback.
+**Partnerský profil** poskytuje podrobnosti související s partnerem. V sestavě jsou k dispozici podrobnosti, jako je ID partnera, jméno partnera, město partnera a partnerská země. Pro tuto sestavu se nepoužijí žádné agregace ani lookback.
 
 **Podrobnosti o zákaznících** poskytují informace o zákaznících, ke kterým je přidružen partner. Poskytuje také klíčové metriky, jako jsou prodávané licence, agregované ACR a tak dále. Sestava se agreguje měsíčně.
 

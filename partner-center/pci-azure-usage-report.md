@@ -4,27 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Podívejte se, co dobře děláte, a kde můžete vylepšit využívání předplatných Azure, která zákazníkům prodáváte nebo spravujete pro vaše zákazníky.
+description: Podívejte se, co se vám dobře hodí a kde můžete vylepšit využití předplatných Azure, která zákazníkům prodáváte nebo spravujete pro vaše zákazníky.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92527187"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086205"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Azure dostupná na řídicím panelu přehledů partnerského centra
 
 **Příslušné role**
+
 - Globální správce
 - Agent správce
 - Prohlížeč sestav
 - Prohlížeč sestav Executive
 
-Sestava využití Azure prezentuje metriky související s předplatnými Azure vašich zákazníků. To zahrnuje výnosy z spotřeby a využití v Azure podle kategorií měřičů. Následující části můžete zobrazit v sestavě využití Azure.
+Sestava využití Azure prezentuje metriky související s předplatnými Azure vašich zákazníků. Tato sestava zahrnuje výnosy a využití spotřeby Azure podle kategorií měřičů. Následující části můžete zobrazit v sestavě využití Azure.
 
 - Souhrn
 - Využití Azure podle geografie
@@ -37,9 +38,10 @@ Sestava využití Azure prezentuje metriky související s předplatnými Azure 
 
 V části Souhrn se zobrazuje snímek klíčových ukazatelů výkonu (KPI) souvisejících s předplatným Azure, která se prodávají nebo spravují pro vaše zákazníky.  
 
-- Předplatná Azure: aktuální počet zákaznických předplatných Azure prodaných nebo spravovaných podle procentuálního růstu nebo odmítnutí předplatných Azure během vybraného období.
+- Předplatná Azure: aktuální počet zákaznických předplatných Azure, které jste prodali nebo spravovali vámi.
+Procentuální nárůst nebo odmítnutí těchto předplatných Azure během vybraného rozsahu kalendářních dat.
 
-Mikrograf prezentuje trend počtu předplatných Azure pro vybraný rozsah dat za měsíc.
+Mikrograf představuje měsíční trend počtu předplatných Azure pro vybraný rozsah dat.
 - Aktivní předplatná Azure: aktuální počet předplatných Azure prodaných nebo spravovaných vámi, kteří v posledních 30 dnech používali aktivní využití.
 Procentuální nárůst nebo odmítnutí těchto předplatných během vybraného rozsahu kalendářních dat.
 

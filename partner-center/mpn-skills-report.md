@@ -4,17 +4,17 @@ ms.topic: conceptual
 ms.date: 02/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Přečtěte si o používání sestavy dovedností, abyste zajistili aktuálnost vaší společnosti k dosažení kompetence.
+description: Přečtěte si o používání sestavy dovedností k zajištění aktuálnosti vaší společnosti k dosažení kompetence.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474315"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132430"
 ---
 # <a name="using-the-skills-report"></a>Používání sestavy dovedností
 
@@ -25,7 +25,7 @@ ms.locfileid: "99474315"
 
 Sestava dovedností umožňuje partnerům v Microsoft Partner Network posoudit dovednosti vyplněné uživateli ve své partnerské společnosti. Dovednosti v sestavě můžou zahrnovat posouzení, certifikace nebo zkoušky prováděné technickými uživateli partnera. 
 
-Úspěšnost těchto typů dovedností u partnerské společnosti je jedním z požadavků, které partnerovi umožní dosáhnout stříbrná nebo Gold stavu v rámci konkrétní kompetence Microsoftu. Partneři využívají kompetence k předvedení jejich oblastí technických znalostí aktuálním a novým zákazníkům. Nabízejí také spoustu výhod partnerům, kteří je dosahují. Další podrobnosti o dostupných kompetencích a jejich výhodách najdete na stránce Microsoft Partner Network [kompetence](https://partner.microsoft.com/membership/competencies) .
+Úspěšnost těchto typů dovedností u partnerské společnosti je jedním z požadavků, které partnerovi umožní dosáhnout stříbrná nebo Gold stavu v rámci konkrétní kompetence Microsoftu. Partneři využívají kompetence k předvedení jejich oblastí technických znalostí aktuálním a novým zákazníkům. Nabízejí také spoustu výhod partnerům, kteří je dosahují. Další informace o dostupných kompetencích a jejich výhodách najdete na stránce Microsoft Partner Network [kompetence](https://partner.microsoft.com/membership/competencies) .
 
 Správce partnera MPN společnosti nebo globální správce může chtít provádět následující úlohy související se sestavou dovedností:
 
@@ -61,7 +61,7 @@ Pomocí těchto kroků můžete zobrazit data sestavy dovedností z partnerskéh
 2. V nabídce vlevo vyberte **MPN** následovaný **kompetencemi**.
 3. V pravém horním rohu stránky kompetence vyhledejte následující možnosti:  **Sestava o výkonu kompetence** a **Stáhnout sestavu dovedností**. Máte možnost zobrazit data sestavy dovedností v uživatelském rozhraní partnerského centra nebo jako stažená tabulka.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="Stránka kompetence partnerského centra se dvěma možnostmi zvýrazněnými v pravém horním rohu." border="true":::
-   - Chcete-li získat snadno čitelný pohled na data sestavy dovedností, vyberte **sestavu o výkonu kompetence** a potom **data dovedností uživatele** v levém horním rohu stránky sestavy kompetence. 
+   - Chcete-li získat snadno čitelný pohled na data sestavy dovedností, vyberte **sestavu o výkonu kompetence** a potom **informace o dovednostech uživatelů** v levé horní části stránky sestavy kompetence. 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Stránka sestavy kompetence partnerského centra s možností dat uživatelských dovedností v levém horním rohu." border="true":::
    - Chcete-li stáhnout sestavu ve formátu tabulky, vyberte možnost **Stáhnout sestavu dovedností**. Po stažení a otevření souboru se zobrazí tabulka s podrobnostmi o dovednostech jednotlivých uživatelů. Sloupce, **které jsou přidruženy k PMC** a **přidruženy k počítači**, označují, zda již byly dovednosti uživatele přidruženy k dřívějšímu účtu partnerských členů centra (PMC) a k účtu partnerského centra (dále jen tento počítač). Pokud máte uživatele, kteří stále pracují v PMC, přečtěte si část Další informace o PMC uživatelích.
    

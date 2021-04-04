@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712252"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103770"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pole souboru pro odsouhlasení s jedním časovým nákupem CSP
 
@@ -51,8 +51,8 @@ Další informace o souborech pro odsouhlasení najdete v tématu [použití sou
 | PublisherId | Jedinečný identifikátor, který Partnerské centrum používá k identifikaci vydavatele. | *NA* |
 | SubscriptionDescription | Název nabídky služby zakoupené zákazníkem, jak je definováno v ceníku. Tento sloupec je identickým polem, které nabízí. | *Plán Azure* |
 | SubscriptionId | Jedinečný identifikátor předplatného na platformě fakturace Microsoftu Nepoužívá se pro odsouhlasení. Všimněte si, že tento identifikátor není stejný jako ID předplatného v konzole pro správu partnerů. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | Datum, kdy se účtuje poplatky za poplatek za předplatné služby. Pokud je předplatné zakoupené s ročním fakturačním obdobím a měsíčním fakturačním plánem, pak v prvním souboru pro odsouhlasení se jedná o den zakoupení předplatného. Počínaje dalším souborem pro odsouhlasení se zvýší o 30 dní. | *9/1/2020* |
-| ChargeEndDate | Koncový den poplatků za fakturační cyklus předplatného. Pokud je předplatné zakoupené s ročním fakturačním obdobím a měsíčním fakturačním plánem, pak v prvním souboru pro odsouhlasení se jedná o 30. den po zakoupení předplatného. Počínaje dalším souborem pro odsouhlasení se zvýší o 30 dní. | *30. září 2020* |
+| ChargeStartDate | Datum, kdy se spustí fakturační období předplatného. | *9/1/2020* |
+| ChargeEndDate | Datum konce fakturačního období předplatného. | *30. září 2020* |
 | TermAndBillingCycle | Doba trvání závazku v době nákupu pokračovat v předplatném. | *Uložená data (GB/měsíc)* |
 | EffectiveUnitPrice | Poměrná cena za jednotku pro výpočet nákladů na fakturační cyklus. Slevy, úpravy ve fakturačních dnech a další faktory určují efektivní jednotkovou cenu. Další informace najdete v tématu [efektivní kalkulace jednotkové ceny](./effective-unit-price-calculation.md).  | *0,03825* |
 | Jednotkách UnitType | Typ jednotky, ve které se měřič účtuje. | *1 GB/měsíc* |

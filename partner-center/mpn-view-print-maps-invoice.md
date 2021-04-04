@@ -9,36 +9,32 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4102dae63c07a85993f1cf4a9a9dc91e42ee493a
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527059"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132787"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faktury a daně v Microsoft Partner Network
-
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Správce partnera MPN
 - Správce fakturace
 - Agent správce
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Zobrazení nebo stažení vaší faktury členství v programu MPN
 
-Pomocí následujících kroků můžete zobrazit nebo stáhnout konečnou fakturu pro objednávku týkající se vašeho členství v Microsoft Partner Network. Faktury jsou všeobecně dostupné deset dnů po dokončení platby. Další informace získáte v místní službě Service Center.  
+Pomocí následujících kroků můžete zobrazit nebo stáhnout konečnou fakturu pro objednávku týkající se vašeho členství v Microsoft Partner Network. Faktury jsou všeobecně dostupné 10 dní po dokončení platby. Další informace získáte v místní službě Service Center.  
 
 K provedení tohoto postupu musíte být správcem partnerského serveru globálního správce nebo MPN. 
 
 1.  Přihlaste se k [partnerskému centru](https://partner.microsoft.com/dashboard/home) pomocí svého pracovního účtu a v nabídce vlevo vyberte **MPN** .
 
-4.  V rozevíracím seznamu vyberte **nabídky členství** , aby se zobrazily dostupné nabídky k nákupu, a také faktury dostupné v aktuálním roce registrace. Pokud chcete zobrazit faktury za předchozí roky, vyberte **Po splatnosti**.
+4.  V rozevíracím seznamu vyberte **nabídky členství** , aby se zobrazily nabídky k dispozici pro nákup a faktury dostupné v aktuálním roce registrace. Pokud chcete zobrazit faktury za předchozí roky, vyberte **Po splatnosti**.
 
 6.  Vyberte fakturu, kterou chcete, a pak vyberte **stáhnout fakturu**. 
 

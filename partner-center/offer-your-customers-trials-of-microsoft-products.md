@@ -9,23 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527295"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132327"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Poskytněte zákazníkům 30denní bezplatné zkušební verze produktů Microsoftu
 
-**Platí pro**
-
-- Partnerské centrum
-
 **Příslušné role**
--   Globální správce 
--   Správce uživatelů
--   Agent prodeje
+
+- Globální správce
+- Správce správy uživatelů
+- Agent prodeje
 
 Dobrým způsobem, jak zavést zákazníky do nových produktů Microsoftu, je nabízet bezplatné zkušební verze na 30 dní. Zkušební verze můžete zaregistrovat v katalogu stejně jako mnoho dalších online služby. Všichni partneři se můžou zúčastnit.
 
@@ -54,8 +51,8 @@ Zkušební licence by se měly přiřazovat uživatelům stejným způsobem, jak
 Získejte zkušební verzi pro zákazníka v partnerském centru:
 
 1. V části **prodej** v partnerském centru můžete přejít na **katalog**. 
-2. V katalogu, z **četnosti fakturace**, klikněte na **nabídku zkušební verze**. Tato možnost umožňuje zobrazit pouze bezplatné zkušební verze a zakáže jiné nabídky, které nejsou bezplatné. Zkušební verze se zobrazí na kartě **zkušební** verze v katalogu.
-3. Vyberte bezplatnou zkušební verzi, kterou chcete nabídnout, a pak vyberte **Odeslat**. Všechny zkušební verze jsou po dobu třiceti dnů, během kterých se vám neúčtují poplatky. Můžete ho také převést na placené předplatné kdykoli během zkušebního období.
+2. V katalogu z **četnosti fakturace** vyberte **Nabídka zkušební verze**. Tato možnost umožňuje zobrazit pouze bezplatné zkušební verze a zakáže jiné nabídky, které nejsou bezplatné. Zkušební verze se zobrazí na kartě **zkušební** verze v katalogu.
+3. Vyberte bezplatnou zkušební verzi, kterou chcete nabídnout, a pak vyberte **Odeslat**. Všechny zkušební verze jsou po dobu 30 dnů, během kterých se vám neúčtují poplatky. Můžete ho také převést na placené předplatné kdykoli během zkušebního období.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Převádění zkušebních verzí na placené odběry
 
@@ -73,14 +70,14 @@ Zkušební verze můžete převést na placená předplatná pomocí partnerské
 1. Přejít na stránku předplatné zákazníka a vyberte bezplatnou zkušební verzi.
 2. Vyberte **převést zkušební verzi na placené předplatné**.
 3. Zadejte požadovaný počet licencí a četnost fakturace a pak vyberte **použít**.
-4. Vyúčtování placeného předplatného začíná na datu převodu a předplatné se na základě data konverze obnoví dvanáct měsíců. 
+4. Fakturace za placené předplatné začíná dnem převodu a předplatné automaticky obnoví 12 měsíců od data převodu. 
 
 ### <a name="convert-trials-using-apis"></a>Převod zkušebních verzí pomocí rozhraní API
 
 Možná budete muset změnit rozhraní API tak, aby vyhovovala převodu bezplatné zkušební verze na placené předplatné. Další informace najdete v následující dokumentaci pro vývojáře:
 
-- [Převod zkušebního předplatného na placené](/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Získat seznam nabídek zkušebního převodu](/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Převod zkušební verze předplatného na placenou](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Získání seznamu nabídek převod zkušebních verzí](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>Zkušební verze bez převodů
 
@@ -88,7 +85,7 @@ Ne všechny zkušební verze lze převést na placené odběry. Partneři můžo
 
 |**Zkušební verze**   |**Kompatibilní nabídky malých firem**   |**Kompatibilní nabídky Enterprise**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Zkušební verze komerčního cloudu Microsoft Teams (zahájeného uživatelem)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (dříve F1), Office 365 for Enterprise (E1, E3 a E5), M365 F1/F3, M365 Enterprise (E3)   |
+|Zkušební verze komerčního cloudu Microsoft Teams (zahájeného uživatelem)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (dříve F1), Office 365 for Enterprise (E1, E3 a E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
 
 >[!NOTE]
 >Výše uvedené nabídky mají podobné plány služeb s podobnými funkcemi, ale může to být několik rozdílů mezi nabídkami.
@@ -113,7 +110,7 @@ Počáteční datum odběru vychází z data převodu. Pokud je bezplatná zkuš
 
 Neuvidíte bezplatné zkušební verze uvedené ve vaší faktuře nebo souboru pro odsouhlasení na základě licence. Bezplatné zkušební verze se zobrazí jenom v souboru odsouhlasení na faktuře a na základě licencí po převedení bezplatné zkušební verze na placené předplatné. Převedený odběr se zobrazí stejným způsobem jako jakékoli nové předplatné.
 
-### <a name="incentives"></a>Uživatelům
+### <a name="incentives"></a>Pobídky
 
 Bezplatné zkušební verze nemají dopad na pobídky.
 

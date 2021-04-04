@@ -8,24 +8,21 @@ description: Prodej předplatných Minecraftu vzdělávání Edition kvalifikova
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527331"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133008"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Prodej Minecraftu: předplatná pro vzdělávací edice pro zákazníky v oblasti vzdělávání
 
-**Platí pro**
-
--  Partnerské centrum
-
 **Příslušné role**
--   Globální správce
--   Správce uživatelů
--   Agent prodeje
--   Agent správce
+
+- Globální správce
+- Správce správy uživatelů
+- Agent prodeje
+- Agent správce
 
 Partneři, kteří pracují s vzdělávacími institucemi, můžou nabídnout Minecraftu: předplatná pro **vzdělávací edice** . Předplatné si koupíte jménem zákazníka v partnerském centru a potom zákazník stáhne software z [Microsoft Store pro vzdělávání](https://educationstore.microsoft.com). 
 
@@ -38,7 +35,7 @@ Partneři, kteří pracují s vzdělávacími institucemi, můžou nabídnout Mi
 Podle následujících kroků Kupte Minecraftu: předplatná pro **vzdělávací edice** v [partnerském centru](https://partnercenter.microsoft.com/pcv/dashboard/overview
 ) (vyžaduje se přihlášení):
 
-  1.  V nabídce partnerské Centrum vyberte **zákazníky** .
+  1.  V nabídce partnerské Centrum vyberte **zákazníci** .
   
   2.  Vyberte zákazníka pro vzdělávání ze seznamu zákazníků a pak vyberte **Přidat předplatná**.
   

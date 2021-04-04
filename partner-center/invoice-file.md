@@ -4,22 +4,24 @@ ms.topic: article
 ms.date: 05/18/2020
 description: Seznamte se s poli v souboru faktury pro fakturaci partnerského centra. Zahrnuje pole a definice pro všechna pole faktury a pole jednorázového poplatku.
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556289"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178897"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Vysvětlení polí fakturační fakturace partnerského centra
 
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Správce fakturace
 - Agent helpdesku
 
@@ -33,7 +35,7 @@ Následující pole se zobrazí v souborech faktury.
 | ----- | ---------- |
 | US FEIN | Vaše identifikační číslo federální zaměstnavatele (FEIN). Toto je vaše USA federální daňové identifikační číslo. |
 | Číslo zákazníka | Vaše číslo zákazníka. |
-| Příjemce faktury | Adresa, na kterou posíláme vaši fakturu. V fakturačním profilu partnerského centra můžete změnit název společnosti nebo adresu. |
+| Příjemce faktury | Adresa, na kterou posíláme vaši fakturu. Název a adresu vaší společnosti můžete změnit ve fakturačním profilu partnerského centra. |
 | Poplatky na základě licencí | Paušální měsíční nebo roční poplatek za vaše zakoupené licence na základě využití se účtují předem za službu. Toto číslo je součet všech poplatků ve sloupci **Mezisoučet** (sloupec **T**) v souboru odsouhlasení na základě licence. |
 | Poplatky na základě využití | Využití Azure. To zahrnuje nové služby nebo aplikace povolené a používané během fakturačního období. Toto číslo je součet všech poplatků ve sloupci **PretaxCharges** (sloupec **Z**) v souboru odsouhlasení založeném na využití. |
 | Slevy | Sleva, kterou zákazník obdrží z normální ceny předplatného. Toto číslo se zobrazuje jako *paušální množství*, nikoli jako cena za jednotku nebo licenci. |
@@ -59,10 +61,10 @@ Následující pole se vztahují jenom na **jednorázové poplatky** v partnersk
 | Pole | Definice |
 | ----- | ---------- |
 | Datum | Datum nákupu |
-| Popis | Název produktu |
+| Description | Název produktu |
 | Množství | Počet zakoupených produktů (například rezervací). |
 | Jednotková cena | Cena za produkt (například rezervace). |
 | Slevy | Jakékoli použitelné slevy. |
-| Částka před zdaněním | Dílčí součet nákupů před zdaněním. |
+| Částka před zdaněním | Mezisoučet nákupů před zdaněním. |
 | DPH | Daňová částka. |
 | Celkem | Celková částka, která se má zaplatit |

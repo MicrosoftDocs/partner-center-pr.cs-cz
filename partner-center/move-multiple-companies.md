@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527329"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132651"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Přesun více společností do partnerského centra z partnerského centra členství (PMC)
 
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent správce
 - Agent prodeje
 
@@ -80,7 +80,7 @@ Podrobnosti jsou založené na informacích v PMC a budou ověřeny, aby se zaji
 
 Pokud je účet, který přesouváte, ve stejné zemi nebo oblasti jako existující účet, můžete se rozhodnout, jestli chcete tuto adresu použít, nebo přidat jinou. Pokud se rozhodnete použít jinou adresu, tato adresa se ověří. Pokud chcete použít stejnou adresu, použije se existující adresa a primární kontakt.
 
-Jakmile ověříte nebo upravíte informace na této obrazovce, klikněte na tlačítko Odeslat a vaše účty budou konsolidovány.
+Jakmile ověříte nebo upravíte informace na této obrazovce, vyberte **Odeslat** a vaše účty budou konsolidovány.
 
 ## <a name="partner-profile"></a>Partnerský profil
 

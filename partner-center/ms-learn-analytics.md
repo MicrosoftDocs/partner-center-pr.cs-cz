@@ -9,18 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42c7af80ab49cee6e7043587207e553d2ffaa3ac
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92527829"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132311"
 ---
 # <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Sestava Microsoft Learn Analytics zobrazuje stav učících ve vaší společnosti
 
 **Příslušné role**
--   Globální správce
--   Správce partnera MPN
+
+- Globální správce
+- Správce partnera MPN
 
 Sestava Microsoft Learn poskytuje informace o prodaných modulech ve vaší společnosti, včetně modulů, které dokončili, a studijních cest, na kterých jsou. V sestavě se zobrazí stav jednotlivých informací o jednotlivých uživatelích. Tato data může zobrazit globální správce a správce MPN pro vaši společnost.
 
@@ -73,7 +74,7 @@ Tato data jsou trendem studijních cest dokončených uživateli vaší společn
 
 **Karta modul**
 
-Tato karta obsahuje rozpis modulů dokončených ve vaší společnosti podle hlavních 5 názvů modulů. produkt, ke kterému je modul přidružen; a roli uživatele, která je pro modul relevantní.  
+Tato karta obsahuje rozpis modulů dokončených ve vaší firmě o pět názvů modulů. produkt, ke kterému je modul přidružen; a roli uživatele, která je pro modul relevantní.  
 
 - Prstencový graf dokončení modulu: rozpis dokončování modulu (počet zobrazený v části Souhrn) podle názvů modulů.
 
@@ -89,7 +90,7 @@ Hodnota zobrazená uprostřed grafu představuje celkový počet dokončených m
 
 **Karta cesta výuky**   
 
-Tato karta obsahuje rozpis studijních tras dokončených ve vaší společnosti podle hlavních 5 názvů modulů; produkt, na který je mapována cesta výuky; a role, které se vztahují k této cestě výuky.  
+Tato karta obsahuje rozpis studijních cest dokončených ve vaší společnosti podle pěti názvů modulů; produkt, na který je mapována cesta výuky; a role, které se vztahují k této cestě výuky.  
 
 - Prstenec dokončení studijních cest: rozpis dokončení studijních cest (počet zobrazený v části Souhrn) podle názvu.
 
@@ -111,7 +112,7 @@ Získání podrobných informací o uživateli pomocí ID objektu uživatele:
 
 2. Zkopírujte ID objektu uživatele do [oblasti zvýrazněné](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) v Graph Exploreru. 
 
-## <a name="faq"></a>Nejčastější dotazy
+## <a name="faq"></a>Časté otázky
 
 1. Nedaří se mi mi zobrazit podrobnosti o studiu naší společnosti.
 
@@ -131,7 +132,7 @@ Po přidání nového uživatele globálním správcem musí uživatel přejít 
 
 3. Můžu v této sestavě zobrazit všechny uživatele společnosti, kteří se k Microsoft Learn přihlásí pomocí účtu MSA?
 
-V současné době nejlepším způsobem, jak to udělat, je přidat tyto uživatele do svého tenanta Azure AD a přidat je do partnerského centra, aby mohli přidružit svůj účet Microsoft Learn přes **můj profil** v partnerském centru. 
+V současné době nejlepším způsobem, jak to udělat, je přidat tyto uživatele do tenanta služby Azure AD a pak je přidat do partnerského centra, aby mohli přidružit svůj Microsoft Learn účet přes **můj profil** v partnerském centru. 
 
 Pro uživatele, kteří používají jenom svůj účet MSA pro školení, bude mít tým Microsoft Learn v blízké budoucnosti možnost přidružit svůj pracovní e-mail ke svému Microsoft Learn profilu. 
 

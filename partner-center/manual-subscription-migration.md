@@ -9,30 +9,27 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8575d87ab3c4c7970135a87b7ef7564c4fe06232
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92527031"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132736"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrace Dynamics 365 a plánu Customer Engagement z úrovně Basic na novější verze (u kvalifikovaných nabídek)
 
-**Platí pro**
-
--  Partnerské centrum
-
 **Příslušné role**
--   Globální správce
--   Správce uživatelů
--   Agent správce
--   Agent prodeje
+
+- Globální správce
+- Správce správy uživatelů
+- Agent správce
+- Agent prodeje
 
 Od 1. ledna 2019 zákazníci s Dynamics 365 for Sales/Customing Engagement ze základních (kvalifikovaných nabídek) odběry už nemůžou obnovit tyto starší nabídky. existující odběry se po vypršení platnosti automaticky neobnoví. Na stránce s podrobnostmi o předplatném se stav předplatného změní na "vyprší dne [Date]" z "automatické obnovování v [datum]". 
 
 Chcete-li zajistit kontinuitu pro zákazníky, měli byste je přecházet s vypršením platnosti předplatných na podporovanou možnost, která je uvedena níže. Doporučujeme zákazníkům přesunout nové předplatné před uplynutím ročního koncového data předplatného, aby se předešlo výpadkům služby pro zákazníky.
 
-Pokud používáte rozhraní API (buď CREST nebo Partnerská centra), můžete najít odběry, které vyhodnocuje datum ukončení předplatného spolu s vlastností automaticky obnovit = false. V případě 1. ledna 2019 budou předplatná nastavena na hodnotu automaticky obnovit = false. Zákazníky můžete kdykoli přesunout do nového plánu. 
+Pokud používáte rozhraní API (buď CREST nebo Partnerská centra), můžete najít odběry, které vyhodnocuje datum ukončení předplatného spolu s vlastností automaticky obnovit = false. V případě 1. ledna 2019 budou příslušné odběry nastaveny na automatické obnovení = false. Zákazníky můžete kdykoli přesunout do nového plánu. 
 
 ### <a name="the-dynamics-365-offers-being-retired"></a>Nabídky Dynamics 365 jsou vyřazeny
 
@@ -107,9 +104,9 @@ Po přesunutí licencí do nového předplatného můžete zrušit původní př
 2. Na stránce s podrobnostmi předplatného nastavte původní předplatné na **pozastaveno** a vyberte **Odeslat**.
 
 Staré předplatné je teď pozastavené a nové předplatné je aktivní. Pozastavený odběr bude po 120 dnech automaticky zřízen. Pro staré předplatné nepřijde váš zákazník žádné další poplatky.
- 
+ 
 
- 
+ 
 
 
 

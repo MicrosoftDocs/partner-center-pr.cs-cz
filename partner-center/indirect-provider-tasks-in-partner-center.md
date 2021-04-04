@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880765"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178948"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partnerství s nepřímými prodejci v programu Cloud Solution Provider
 
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent správce
 - Agent prodeje
 
 Díky takovému komplexnímu a rychle se měnícímu tržišti technologie můžou zákazníci chtít, aby jim byla konkurenční hrana, kterou jim poskytují technologická řešení. V takovém případě je vhodné, aby partneři investovali do zapojení partnerských partnerů a rozšířili nabídky a mohli zákazníkům dělat ještě víc.
 
-Noví prodejci vstupují na trh a hledají způsoby, jak nabízet svá řešení zákazníkům mimo jejich trhy a národní prostředí. Jako zavedený poskytovatel technologických služeb je dobře umístěný jako postup pro uvedení na trh. Partner s nepřímými prodejci v programu Cloud Solution Provider (CSP) pro připojení k ostatním partnerům, uvedení nových řešení na trh a zavedení cloudových služeb pro zákazníky předem.
+Noví prodejci vstupují na trh a hledají způsoby, jak nabízet svá řešení zákazníkům mimo jejich trhy a národní prostředí. Jako zavedený poskytovatel technologických služeb je dobře umístěný na uvedení jejich trasy na trh. Partner s nepřímými prodejci v programu Cloud Solution Provider (CSP) pro připojení k ostatním partnerům, uvedení nových řešení na trh a zavedení cloudových služeb pro zákazníky předem.
 
 V modelu nepřímých prodejců pro prodej (na dvou úrovních) jste partnerem nepřímými prodejci, kteří zákazníkům nabízejí cloudová řešení Microsoftu. Produkty a odběry si koupíte přímo od Microsoftu a pak je zákazníkům nabízíte prostřednictvím svých prodejců.
 
@@ -45,7 +45,7 @@ Informace o tom, co je potřeba k účasti v programu CSP jako nepřímý prodej
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Úlohy nepřímého poskytovatele v Partnerském centru
 
-Provedením následujících kroků zřídíte a spravujete své partnerství s nepřímými prodejci a zákazníky. Postup 2 a tři jsou podrobněji popsány níže.
+Provedením následujících kroků zřídíte a spravujete své partnerství s nepřímými prodejci a zákazníky. Kroky 2 a 3 jsou podrobněji popsané níže.
 
 1. Prohlédněte si profil vaší společnosti v [seznamu oficiálních nepřímých zprostředkovatelů Microsoftu](https://partnercenter.microsoft.com/partner/find-a-provider).
 
@@ -111,7 +111,7 @@ Pokud chcete odstranit partnerství se stávajícím nepřímým prodejcem, post
 
 1. V nabídce partnerského centra na řídicím panelu vyberte **nepřímé prodejce**. 
 
-2. Na stránce **nepřímé prodejce** vyberte **Odstranit partnerství**. Zobrazí se zpráva s výzvou k potvrzení vyberte Ano, aby bylo možné pokračovat.
+2. Na stránce **nepřímé prodejce** vyberte **Odstranit partnerství**. Zobrazí se zpráva s výzvou k potvrzení. Chcete-li pokračovat, vyberte možnost **Ano**.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Odebrat partnerství":::
 
@@ -151,7 +151,7 @@ Když přidružíte prodejce k novému účtu zákazníka, delegujete si prodejc
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Přidání nových předplatných do zákaznických účtů
 
-Když si zákazníci chtějí koupit nové předplatné, upgradovat existující nebo koupit další licence, provedete tyto změny v účtu zákazníka prostřednictvím portálu M365. Nemůžete to provést v Azure Portal.
+Když si zákazníci chtějí koupit nové předplatné, upgradovat existující nebo koupit další licence, provedete tyto změny v účtu zákazníka prostřednictvím portálu Microsoft 365. Nemůžete to provést v Azure Portal.
 
 1. V nabídce **partnerského centra** vyberte **zákazníci** .
 

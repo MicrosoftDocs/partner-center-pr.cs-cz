@@ -9,19 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712898"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133025"
 ---
 # <a name="technical-support-benefits"></a>Výhody technické podpory
 
 **Příslušné role**
--   Globální správce 
--   Správce partnera MPN 
--   Agent správce 
+
+- Globální správce
+- Správce partnera MPN
+- Agent správce
 
 ## <a name="overview"></a>Přehled
 
@@ -38,11 +39,11 @@ Chcete-li zobrazit a aktivovat technické výhody v partnerském centru:
 2. V navigační nabídce vlevo rozbalte výhody a vyberte **technické výhody**. Zobrazí se stránka s technickými výhodami, kde najdete seznam výhod technické podpory, které jsou k dispozici pro vaše nabídky služby Gold, stříbrného a sady Microsoft Action Pack. 
 
     > [!NOTE]
-    >Pokud nemáte žádné aktivní nabídky členství, zobrazí se vám zpráva "Vypadá to, že ještě nemáte žádné výhody." Pokud má vaše společnost aktivní členství, ale nemůžete je zobrazit, možná jste se přihlásili pomocí nesprávného účtu. Pokud chcete zjistit účet, klikněte na ikonu **účtu** v pravém horním rohu stránky a potom klikněte na možnost **přihlásit s jiným účtem** (Pokud je to potřeba).
+    >Pokud nemáte žádné aktivní nabídky členství, zobrazí se vám zpráva "Vypadá to, že ještě nemáte žádné výhody." Pokud má vaše společnost aktivní členství, ale nemůžete je zobrazit, možná jste se přihlásili pomocí nesprávného účtu. Pokud chcete kontrolovat svůj účet, vyberte ikonu **účtu** v pravém horním rohu stránky a vyberte možnost **Přihlásit se pomocí jiného účtu** (Pokud je potřeba).
 
 3. Pokud chcete začít používat produktovou podporu Microsoftu nebo Microsoft Signature Product Support, musíte tuto výhodu aktivovat. Po úspěšné aktivaci se zobrazí ID přístupu a ID smlouvy. 
 
-    -   Pokud chcete tuto výhodu aktivovat, klikněte na tlačítko aktivovat. Uživatelský účet použitý k aktivaci vyžaduje role správce partnera pro globálního správce nebo MPN. Počkejte několik dní na zpracování vaší žádosti o aktivaci. 
+    -   Pokud chcete tuto výhodu aktivovat, vyberte tlačítko aktivovat. Uživatelský účet použitý k aktivaci vyžaduje role správce partnera pro globálního správce nebo MPN. Počkejte několik dní na zpracování vaší žádosti o aktivaci. 
 
     - V případě, že se zobrazí ID přístupu a ID smlouvy, můžete použít podporu produktů Microsoftu a produktovou podporu pro signaturu (zlato a stříbrné členy). 
 
@@ -73,7 +74,7 @@ Při prvním použití výhody budete potřebovat přístupové ID a ID smlouvy.
 
 Libovolný uživatelský účet (AAD nebo MSA) může používat technickou podporu pro místní produkty, pokud mají ID přístupu a ID smlouvy.
 
-Pokud chcete vytvořit žádost o podporu pro místní produkt, klikněte na [Podpora pro firmy](https://support.serviceshub.microsoft.com/supportforbusiness/create) .
+Vyberte [Podpora pro firmy](https://support.serviceshub.microsoft.com/supportforbusiness/create) a vytvořte žádost o podporu pro místní produkt.
 
 ## <a name="signature-cloud-support-cloud-only"></a>Podpisová podpora cloudu (jenom Cloud)
 
@@ -83,13 +84,13 @@ Při prvním použití výhody budete potřebovat přístupové ID a ID smlouvy.
 
 Partneři CSP vytvářející požadavky Azure můžou používat plán podpory "poskytovatel Cloud Solution Provider" bez přidání smlouvy o podpoře.
 
-Uživatelé s rolí **agenta správce** můžou v navigační nabídce vlevo vybrat možnost [zákazníci](https://partner.microsoft.com/commerce/customers/list) v části CSP, vybrat možnost **Správa služeb** a kliknout na **nový požadavek**.  Když vyberete relevantní úlohu, otevře se portál specifický pro úlohy a přidáte kontrakt podpory a vytvoříte žádost.
+Uživatelé s rolí **agenta správce** můžou v navigační nabídce vlevo vybrat možnost [zákazníci](https://partner.microsoft.com/commerce/customers/list) v části CSP, vybrat možnost **Správa služeb** a vybrat **nový požadavek**.  Když vyberete relevantní úlohu, otevře se portál specifický pro úlohy a přidáte kontrakt podpory a vytvoříte žádost.
 
 ## <a name="partner-support-plans"></a>Plány podpory partnerů
 
 Můžete získat placenou podporu Microsoftu, která zahrnuje technickou podporu, a řadu dalších možností služby. 
 
-Pro konkrétní plány partnerů můžete [Porovnat plány podpory](https://partner.microsoft.com/support/partnersupport) nebo je níže vidět níže:
+Můžete [Porovnat plány podpory partnerů](https://partner.microsoft.com/support/partnersupport) nebo je níže zobrazit u plánů specifických pro partnera:
 
 - [Premier Support pro partnery](https://partner.microsoft.com/support/microsoft-services-premier-support) – nejvyšší úroveň technické podpory od Microsoftu
 - [Rozšířená podpora pro partnery](https://partner.microsoft.com/support/advanced-cloud-support) – jenom pro cloudové produkty

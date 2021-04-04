@@ -8,21 +8,21 @@ ms.subservice: partnercenter-mpn
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 458f055dc55d6026ec042c4c40766635d229c08b
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 26162b4164d3bb8f1572c460f431efab056e1a8a
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100083243"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132583"
 ---
 # <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>Ukázky pro partnery MPN – Microsoft 365, Dynamics 365, týmy a další
 
-**Příslušné role**:
+**Příslušné role**
 
 - Správce partnera MPN
 - Správce účtu
 
-Microsoft Partner Network poskytuje široké spektrum ukázek pro partnery stříbrná, Gold a Action Pack.
+Microsoft Partner Network (MPN) poskytuje široké spektrum ukázek pro partnery Stříbred, Gold a Action Pack.
 
 ## <a name="access-mpn-demos"></a>Přístup k ukázkám MPN
 

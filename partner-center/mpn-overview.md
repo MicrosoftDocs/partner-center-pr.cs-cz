@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556374"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132940"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner s Microsoftem a zjišťování výhod členství
 
@@ -22,10 +22,10 @@ ms.locfileid: "96556374"
 
 - Globální správce
 - Správce partnera MPN
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent správce
 
-Microsoft Partner Network (MPN) poskytuje nejširší škálu produktů v oboru a možnosti programu k rozlišení vaší firmy, přechodu na trh a prodeji vašich řešení. Připojte se zdarma a pak zvolte způsob, jak investovat do svého partnerství pomocí sady Microsoft Action Pack, úvodní sady nebo kompetence.
+Microsoft Partner Network (MPN) poskytuje nejširší škálu produktů v rámci možností v oboru a programu, které vám umožní odlišit vaše podnikání, přejít na trh a prodávat vaše řešení. Připojte se zdarma a pak zvolte způsob, jak investovat do svého partnerství pomocí sady Microsoft Action Pack, úvodní sady nebo kompetence.
 
 Když se připojíte k programu Microsoft Partner program, stanete se součástí globální komunity, která vás připojí k relacím, přehledům, nástrojům, prostředkům a programům, které potřebujete k amazeí vašich zákazníků, a k zajištění růstu obchodních potřeb. Při dosahování obchodních cílů se součástí programu na úrovni, která bude vyhovovat vašim jedinečným potřebám, získat přístup k většímu množství výhod a rozvíjet svůj vztah s námi a dalšími partnery v síti. 
 

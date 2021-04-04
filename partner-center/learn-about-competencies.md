@@ -9,18 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98912535"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178863"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Odlišení podnikání díky kompetencím Microsoftu
 
 **Příslušné role**
+
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 
 Předvádí osvědčené zkušenosti v oblasti poskytování kvalitních řešení v jednom nebo několika specializovaných oblastech podnikání. Kompetence Microsoftu jsou navržené tak, aby vás připravily k uspokojení potřeb vašich zákazníků, a pomohli vám přilákat nové zákazníky, kteří hledají poskytovatele řešení certifikovaných společností Microsoft. Zapojte se do úrovně navýšení partnerů Microsoftu a vyžádejte si své partnery.
 

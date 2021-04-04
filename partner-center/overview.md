@@ -8,16 +8,16 @@ description: Použití partnerského centra k Transact-Business s Microsoftem a 
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582644"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132243"
 ---
 # <a name="what-is-partner-center"></a>Co je Partnerské centrum?
 
-##### <a name="appropriate-roles"></a>Příslušné role
+**Příslušné role**
 
 - Všichni partneři, kteří mají zájem o partnerské Centrum
 
@@ -53,7 +53,7 @@ Sestavte si obchodní profil a zobrazte si oblasti odbornosti vaší společnost
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Společný prodej s Microsoftem a dalšími partnery
 
-Společně prodávat je cesta pro partnery, kteří budou společně prodávat s Microsoftem a dalšími partnery za účelem spolupráce, lepších prodejů a pozitivních výsledků zákazníků. Společný prodej vám umožní využít globální značku Microsoftu, prodejní týmy, možnosti generace na vyžádání a komerční tržiště a získat tak nové zákazníky po celém světě. Prodávejte je spolu s ostatními partnery a s námi. Další informace najdete v informacích o [správě příležitostí společného prodeje](manage-co-sell-opportunities.md).
+Společně prodávat je cesta pro partnery, kteří budou společně prodávat s Microsoftem a dalšími partnery za účelem spolupráce, lepších prodejů a pozitivních výsledků zákazníků. Společný prodej vám umožňuje používat globální značku Microsoftu, prodejní týmy, možnosti generace na vyžádání a komerční tržiště pro přístup nových zákazníků po celém světě. Prodávejte je spolu s ostatními partnery a s námi. Další informace najdete v informacích o [správě příležitostí společného prodeje](manage-co-sell-opportunities.md).
 
 ## <a name="manage-customer-software-needs"></a>Správa potřeb zákaznických softwaru
 

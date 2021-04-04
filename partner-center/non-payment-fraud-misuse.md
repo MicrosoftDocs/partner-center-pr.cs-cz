@@ -1,5 +1,5 @@
 ---
-title: Správa neplatebního, podvodu nebo zneužití
+title: Správa neplacení, podvodů nebo zneužití
 description: Přečtěte si o různých rizicích souvisejících s online transakcemi a s osvědčenými postupy pro správu a zmírnění těchto rizik v partnerském centru.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 75881544097abdfac8d6f96bde37e9700eb28cf7
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527298"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132345"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Řešení nezaplacení, podvodu nebo zneužití v Partnerském centru
 
 Platí pro:
 
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro oficiální Cloud Microsoftu
 
 **Příslušné role**
+
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent správce
 - Správce fakturace
 

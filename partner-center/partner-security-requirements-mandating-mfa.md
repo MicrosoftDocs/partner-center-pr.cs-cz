@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133099"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086358"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Mandating Multi-Factor Authentication (MFA) pro vašeho partnerského tenanta
 
-**Platí pro**
-
-- Všichni partneři v programu Cloud Solution Provider
-- Všichni dodavatelé ovládacích panelů
-- Všechny poradce
-
-**Ovlivněné role**
+**Příslušné role**
 
 - Agent správce
 - Agent prodeje
@@ -71,7 +65,7 @@ K ilustraci, jak ověřování funguje na řídicím panelu partnerského centra
 
 2. Jana spustí novou relaci prohlížeče a přejde na stránku s přehledem řídicího panelu partnerského centra (která není chráněna MFA). Partnerské centrum přesměruje Jana na službu Azure AD, aby se přihlásil.
 
-3. Vzhledem k existující instalaci Azure AD MFA pomocí společnosti Contoso je potřeba, aby se dokončilo ověřování MFA. Po úspěšném přihlášení a ověření MFA je Jana přesměrován zpět na stránku Přehled řídicího panelu partnerského centra.
+3. Vzhledem k existující instalaci Azure AD MFA pomocí společnosti Contoso je potřeba, aby se dokončilo ověřování MFA. Po úspěšném přihlášení a ověření MFA je Jana přesměrován na stránku Přehled řídicího panelu partnerského centra.
 
 4. Jana se pokusí získat přístup k jedné ze stránek chráněných MFA v partnerském centru. Vzhledem k tomu, že Jana již dokončila ověřování MFA během přihlášení, má Jana přístup na stránku chráněnou MFA, aniž by bylo nutné provést ověření MFA znovu.
 
@@ -81,7 +75,7 @@ K ilustraci, jak ověřování funguje na řídicím panelu partnerského centra
 
 2. Trent spustí novou relaci prohlížeče a přejde na stránku s přehledem řídicího panelu partnerského centra (což není chráněna MFA). Partnerské centrum přesměruje Trent do služby Azure AD, aby se přihlásil.
 
-3. Vzhledem k tomu, že společnost Wingtip má nastavení federace identit, Azure AD přesměruje Trent na federovaného zprostředkovatele identity, aby bylo možné dokončit přihlášení a ověřování MFA. Po úspěšném přihlášení a ověření MFA se Trent přesměruje zpátky na Azure AD a na stránku Přehled řídicího panelu partnerského centra.
+3. Vzhledem k tomu, že společnost Wingtip má nastavení federace identit, Azure AD přesměruje Trent na federovaného zprostředkovatele identity, aby bylo možné dokončit přihlášení a ověřování MFA. Po úspěšném přihlášení a ověření MFA se Trent přesměruje zpátky na Azure AD a pak na stránku Přehled řídicího panelu partnerského centra.
 
 4. Trent se snaží o přístup k jedné ze stránek chráněných MFA v partnerském centru. Vzhledem k tomu, že Trent již dokončila ověřování MFA během přihlašování, Trent má přístup ke stránce chráněné MFA, aniž by bylo nutné se znovu projít ověřováním MFA.
 
@@ -151,7 +145,7 @@ WWW-Authenticate: Bearer error="invalid_token"
 Date: Thu, 14 Feb 2019 21:54:58 GMT
 ```
 
-Když se použije ověřování App-Only, rozhraní API, která podporují ověřování App-Only, budou nepřetržitě fungovat bez nutnosti MFA.
+Když se použije ověřování App-Only, rozhraní API, která podporují ověřování App-Only, budou nepřetržitě fungovat, aniž by to vyžadovalo MFA.
 
 ## <a name="partner-delegated-administration"></a>Delegovaná Správa partnera
 
@@ -174,7 +168,7 @@ Celkové prostředí se podobá scénáři, kdy tenant koncového zákazníka im
 
 ### <a name="using-service-apis"></a>Používání rozhraní API služby
 
-Některá rozhraní API služeb Microsoft Online Services (například Azure Resource Manager, Azure AD Graph, Microsoft Graph atd.) podporují partneři podpory prostřednictvím delegovaných oprávnění správce, aby mohli programově spravovat prostředky zákazníků. Aby mohla Partnerská aplikace při ověřování pomocí těchto rozhraní API využít oprávnění delegovaného správce, musí v hlavičce autorizace žádosti API zahrnovat přístupový token, ve kterém je přístupový token získaný pomocí partnerského uživatelského účtu, který se má ověřit ve službě Azure AD, a zákazníkovou sadou Azure AD nastavenou jako kontext ověřování. Partnerská aplikace musí mít k tenantovi zákazníka přihlášený partnerský uživatelský účet.
+Některá rozhraní API služeb Microsoft Online Services (například Azure Resource Manager, Azure AD Graph, Microsoft Graph atd.) podporují partneři podpory prostřednictvím delegovaných oprávnění správce, aby mohli programově spravovat prostředky zákazníků. Aby mohla Partnerská aplikace používat k těmto rozhraním API oprávnění delegovaný správce, musí v hlavičce autorizace žádosti API zahrnovat přístupový token, ve kterém je přístupový token získaný tím, že má partnerský uživatelský účet k ověření ve službě Azure AD a zákaznická sada Azure AD jako kontext ověřování. Partnerská aplikace musí mít k tenantovi zákazníka přihlášený partnerský uživatelský účet.
 
 Když Azure AD obdrží jako požadavek na ověření, Azure AD bude vyžadovat, aby se k ověření MFA dokončilo i partnerský uživatelský účet. Pokud uživatelský účet partnera ještě není registrovaný pro MFA, zobrazí se uživateli výzva k dokončení registrace MFA.
 
@@ -216,7 +210,7 @@ Partner má některé uživatele v jejich partnerských klientech, kteří nepot
 **Odpověď**: ne. Vzhledem k tomu, že tyto uživatelské účty nepoužívají pro správu zákaznických prostředků oprávnění k delegované správě, nebudou se muset přihlašovat k tenantovi zákazníka. Nebudou ovlivněny službou Azure AD vyžadovat ověřování MFA během přihlašování k tenantovi zákazníka.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problém 3: partner neimplementoval MFA pro účty uživatelských služeb
-Partner má některé uživatelské účty ve svých partnerských klientech, které zařízení používají jako účty služeb. Jedná se o účty s nízkými oprávněními, které nevyžadují přístup k partnerským centrům ani portálům Microsoft Online Services pro správu zákaznických prostředků pomocí delegovaných oprávnění pro správu. Je to problém platným důvodem pro technickou výjimku?
+Partner má některé uživatelské účty ve svých partnerských klientech, které zařízení používají jako účty služeb. Jedná se o účty s nízkými oprávněními, které nevyžadují přístup k partnerským centrům ani portálům Microsoft Online Services pro správu zákaznických prostředků pomocí delegovaných oprávnění pro správu partnerů. Je to problém platným důvodem pro technickou výjimku?
 
 **Odpověď**: ne. Vzhledem k tomu, že tyto uživatelské účty nepoužívají pro správu zákaznických prostředků oprávnění k delegované správě, nebudou se muset přihlašovat k tenantovi zákazníka. Nebudou ovlivněny službou Azure AD vyžadovat ověřování MFA během přihlašování k tenantovi zákazníka.
 
@@ -255,11 +249,11 @@ Odeslání žádosti o technickou výjimku:
 
 1. Přihlaste se do partnerského centra jako globální správce nebo jako agent pro správu.
 
-2. Vytvořte novou žádost o partnerskou službu tak, že přejdete na **podporu**  >  **žádostí o podporu partnerů** a kliknete na **nový požadavek**.
+2. Vytvořte novou žádost o partnerskou službu tak, že přejdete na **podporu**  >  **žádostí o podporu partnerů** a vyberete **nový požadavek**.
 
-3. Ve vyhledávacím poli vyhledejte **MFA – požadavek na výjimku** ; nebo vyberte **CSP** z kategorie, vyberte **účty, registrace, přístup** z tématu a potom v dílčím tématu vyberte **MFA-Request pro výjimku** a pak vyberte **Další krok**.
+3. Ve vyhledávacím poli vyhledejte **MFA – požadavek na výjimku** ; nebo vyberte **CSP** z kategorie, vyberte **účty, registrace, přístup** z tématu, pak v dílčím tématu vyberte **MFA-Request pro výjimku** a pak vyberte **Další krok**.
 
-4. Zadejte podrobnosti požadované k odeslání žádosti o technickou výjimku a klikněte na **Odeslat**.
+4. Zadejte podrobnosti požadované k odeslání žádosti o technickou výjimku a vyberte **Odeslat**.
 
 Společnost Microsoft může trvat až tři pracovní dny a poskytnou odpověď na požadavek na technickou výjimku.
 

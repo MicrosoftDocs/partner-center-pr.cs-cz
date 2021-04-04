@@ -1,29 +1,31 @@
 ---
-title: Soubory pro odsouhlasení založené na licencích
+title: Soubory s vyrovnáním na základě licencí
 ms.topic: article
 ms.date: 05/18/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Přečtěte si, jak číst soubory pro odsouhlasení na základě licencí v partnerském centru. Tento článek vysvětluje význam jednotlivých polí v souboru rekognoskaci založeném na licencích.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86581db73f1bf2b6660af45aca4747a5db779bbe
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bc97156d23fa4ea1082a0ad4a931ff36375897a7
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92527079"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178914"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Pochopení polí v souborech pro odsouhlasení na základě licence partnerského centra
 
 **Platí pro**
 
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro oficiální Cloud Microsoftu
 
 **Příslušné role**
+
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Správce fakturace
 - Agent správce
 
@@ -44,12 +46,12 @@ Pokud chcete sloučit změny s objednávkami zákazníka, porovnejte **Syndicati
 | Hodnotami OfferId | Jedinečný identifikátor nabídky Identifikátor standardní nabídky, jak je definován v ceníku. *Tato hodnota neodpovídá **ID nabídky** ze ceníku. Místo toho se podívejte na **DurableOfferID** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
 | DurableOfferId | Jedinečný identifikátor odolné nabídky, jak je definován v ceníku. *Tato hodnota odpovídá **ID nabídky** ze ceníku.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | Název nabídky služby zakoupené zákazníkem, jak je definováno v ceníku. | *Systém Microsoft Office 365 (plán E3)* |
-| SubscriptionStartDate | Počáteční datum odběru Čas je vždy začátek dne, tj. 0:00. Toto pole je nastaveno na den po odeslání objednávky. Používá se ve spojení s **SubscriptionEndDate** k určení: Pokud je zákazník stále v prvním roce předplatného nebo pokud se předplatné obnovilo po dobu následujícího roku. | *2/1/2019 0:00* |
+| SubscriptionStartDate | Počáteční datum odběru Čas je vždy začátek dne, tj. 0:00. Toto pole je nastaveno na den po odeslání objednávky. Používá se s **SubscriptionEndDate** k určení: Pokud je zákazník stále v prvním roce předplatného nebo pokud se předplatné obnovilo na následující rok. | *2/1/2019 0:00* |
 | SubscriptionEndDate | Datum ukončení předplatného Čas je vždy začátek dne, tj. 0:00. Buď *12 měsíců plus **x** dní od počátečního data* v souladu s datem fakturace partnera nebo *12 měsíců od data obnovení*. Při obnovení se ceny aktualizují na aktuální ceník. V případě automatizovaného obnovení může být nutné provést zákaznickou komunikaci. | *2/1/2019 0:00* |
 | ChargeStartDate | Počáteční den poplatků. Čas je vždy začátek dne, tj. 0:00. Slouží k výpočtu denních poplatků (pro poplatky za *uplynulé* náklady), když zákazník změní číslo licence. | *2/1/2019 0:00* |
 | ChargeEndDate | Koncový den poplatků Čas je vždy koncem dne, 23:59. Slouží k výpočtu denních poplatků (pro poplatky za *uplynulé* náklady), když zákazník změní číslo licence. | *2/28/2019 23:59* |
 | ChargeType | [Typ poplatků](recon-file-charge-types.md) nebo úprav. | Viz [typy poplatků](recon-file-charge-types.md). |
-| Jednotková cena | Cena za licenci, jak je Publikováno v Pricelist v době nákupu. Ujistěte se, že se shoduje s informacemi uloženými v systému fakturace během odsouhlasení. | *6,82* |
+| UnitPrice | Cena za licenci, jak je publikována v ceníku v době nákupu. Ujistěte se, že se shoduje s informacemi uloženými v systému fakturace během odsouhlasení. | *6,82* |
 | Množství | Počet licencí. Ujistěte se, že se shoduje s informacemi uloženými v systému fakturace během odsouhlasení. | *2* |
 | Částka | Celková cena za množství Slouží ke kontrole, zda výpočet množství odpovídá způsobu výpočtu této hodnoty pro zákazníky. | *13,32* |
 | TotalOtherDiscount | Množství slevy použité pro tyto poplatky. Licence k produktům, které jsou součástí kompetence nebo map, nebo nových předplatných, která mají nárok na motivaci, budou v tomto sloupci také obsahovat částku slevy. | *2,32* |

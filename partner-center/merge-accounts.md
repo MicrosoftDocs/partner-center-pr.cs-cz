@@ -2,16 +2,18 @@
 title: Sloučení partnerského účtu s jiným partnerským účtem
 description: Přečtěte si, jak sloučit svůj Partnerský účet s jiným partnerským účtem v partnerském centru – pro společnosti, které jsou aktivními partnery Microsoftu v partnerském centru.
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182592"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133059"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Sloučení partnerského účtu s jiným partnerským účtem
 
@@ -65,7 +67,7 @@ Pokud se rozhodnete přijmout pozvánku ke sloučení účtů: · Vaše ID MPN a
 
   - Kompetence: Partnerská společnost dostane jeden balíček základních výhod, které jsou přidružené k jejich nejvyššímu dosahu, a výhody pro konkrétní kompetenci, na které má partner nárok na globální účet partnera.
 
-- Na všechny výhody se vztahují [Průvodce využitím Microsoft Partner Network výhody](https://aka.ms/partner-benefits-use-guide). Příklad: aktivovaný token O365 E3 je funkční po dobu dvanácti (12) měsíců po aktivaci. Po aktivaci tokenu pro licence na tenanta se tyto licence nemusí přesunout do jiného tenanta.
+- Na všechny výhody se vztahují [Průvodce využitím Microsoft Partner Network výhody](https://aka.ms/partner-benefits-use-guide). Příklad: aktivovaný token O365 E3 je funkční po dobu 12 měsíců od aktivace. Po aktivaci tokenu pro licence na tenanta se tyto licence nemusí přesunout do jiného tenanta.
 
 - Asociace ID MCP pro obě společnosti budou zachovaná a přidružená k PGA MPN ID.
 
@@ -94,33 +96,33 @@ Pokud se rozhodnete přijmout pozvánku ke sloučení účtů: · Vaše ID MPN a
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Příklad dvou společností, které slučují účty
 
-1. Společnost Contoso má 
+1. Contoso, Ltd. má 
 
     a. [ID globálního mpn 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) a jedno podřízené [umístění ID MPN 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. tenant Azure AD = @contoso.com
  
     c. Gold Competency, jehož platnost vyprší 1. října 2020
-2. Fabricam má
+2. Společnost Fabrikam, Inc. má
  
     a.  globální ID MPN 3333333 a dvě podřízená umístění ID MPN 4444444 a 5555555
 
-    b.  tenant Azure AD = @fabricam.com
+    b.  tenant Azure AD = @fabrikam.com
 
     c.  dvě zlaté kompetence, jejichž platnost vyprší 1. prosince 2020
-3.  Společnost Contoso nakupuje fabricam a přejde [sem](https://partner.microsoft.com/dashboard/account/merger) , aby zahájila žádost o sloučení.
-4.  Fabricam se přihlásí do partnerského centra a přejde na stejnou stránku jako contoso, která byla v kroku #3, ke schválení žádosti společnosti Contoso.
+3.  Společnost Contoso nakupuje společnost Fabrikam a přejde [sem](https://partner.microsoft.com/dashboard/account/merger) , aby zahájila žádost o sloučení.
+4.  Společnost Fabrikam se přihlásí do partnerského centra a přejde na stejnou stránku jako contoso, která byla v kroku #3, ke schválení žádosti společnosti Contoso.
 5.  Společnost Contoso kontroluje podrobnosti o sloučení na stejné stránce a poskytuje potvrzení, aby bylo možné pokračovat v spojování s účtem.
 6.  Po spojení se účet společnosti zobrazí jako:
 
     a.  Společnost s názvem contoso s globálním ID MPN 1111111 a 4 ID MPN v podřízeném umístění 2222222, 3333333, 4444444 a 5555555
     
-    b.  Budou mít dva klienty Azure AD ( @contoso.com + @fabricam.com ), kteří mají přístup ke stejnému účtu partnerského centra.
+    b.  Budou mít dva klienty Azure AD ( @contoso.com + @fabrikam.com ), kteří mají přístup ke stejnému účtu partnerského centra.
     
     c.  Budou mít dva balíčky pro kompetenci, jednu, která vyprší od 1. října 2020 do 1. prosince 2020. Budou se moct prodloužit jako jeden balíček pro výhody kompetence od 1. prosince 2020. Po obnovení bude společnost Contoso uchovávat všechny tři kompetence, i když můžou udržovat jenom jeden balíček výhod.
     
-7.  Správci společnosti Contoso budou nadále spravovat role partnerského centra pro @contoso.com uživatele. Správci fabricam budou nadále spravovat role partnerského centra pro @fabricam.com uživatele. Správci společnosti Contoso můžou spravovat uživatele fabricam jenom v případě, že jsou pozváni jako host do tenanta fabricam.
-8.  Společnost Contoso by mohla rozhodnout ignorovat @fabricam.com tenanta a znovu vydat fabricam zaměstnancům nové @contoso.com přihlašovací údaje s novými rolemi a oprávněními.
+7.  Správci společnosti Contoso budou nadále spravovat role partnerského centra pro @contoso.com uživatele. Správci společnosti Fabrikam budou nadále spravovat role partnerského centra pro @fabrikam.com uživatele. Správci společnosti Contoso mohou spravovat uživatele společnosti Fabrikam pouze v případě, že jsou pozváni jako host v tenantovi společnosti Fabrikam.
+8.  Společnost Contoso by mohla rozhodnout ignorovat @fabrikam.com tenanta a znovu vydat nové přihlašovací údaje zaměstnanců společnosti Fabrikam @contoso.com s novými rolemi a oprávněními.
 
 ## <a name="next-steps"></a>Další kroky
 

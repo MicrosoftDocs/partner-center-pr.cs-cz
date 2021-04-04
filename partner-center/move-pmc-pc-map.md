@@ -9,21 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92527029"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132991"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Přesun z partnerského centra členství (PMC) do partnerského centra
 
 **Příslušné role**
--    Globální správce
+
+- Globální správce
 
 Usnadňujeme vám spolupráci s námi tím, že zavádíme jeden web (partnerské Centrum), který slouží jako centrální bod pro zapojení. Vše, co jste provedli v centru členství v partnerovi (PMC), najdete na řídicím panelu v partnerském centru. 
 
-Můžete také provést mnohem více a vše, aniž byste museli opustit jeden web. Některé terminologie a funkce můžou vypadat jinak. Chcete-li zmírnit jakékoli počáteční obavy týkající se toho, kde a jaké věci jsou, nezapomeňte absolvovat prohlídku lokality řídicího panelu.
+Můžete také provést mnohem více, aniž byste opustili jeden web. Některé terminologie a funkce můžou vypadat jinak. Chcete-li zjistit, kde provádět určité úlohy a jaké funkce jsou k dispozici, měli byste absolvovat prohlídku lokality řídicího panelu.
 
 V této tabulce jsou uvedeny některé rozdíly mezi PMC a Partnerským centrem.
 
@@ -43,7 +44,7 @@ V této tabulce jsou uvedeny některé rozdíly mezi PMC a Partnerským centrem.
 
 |**PMC**   |**Partnerské centrum**|
 |----------------------|:-----------------------------|
-|Slouží k použití přihlašovacích údajů pro účet Microsoft (MSA) nebo osobního účtu. joe@outlook.com|Musíte použít přihlašovací údaje pracovního účtu ( joe@joescompany.com ). Další informace najdete v článku [pracovní účet společnosti a partnerské Centrum](azure-active-directory-tenants-and-partner-center.md).|
+|Slouží k použití přihlašovacích údajů pro účet Microsoft (MSA) nebo osobního účtu. joe@outlook.com|Je nutné použít přihlašovací údaje pracovního účtu (například joe@joescompany.com ). Další informace najdete v článku [pracovní účet společnosti a partnerské Centrum](azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Role uživatelů
 
@@ -61,7 +62,7 @@ V této tabulce jsou uvedeny některé rozdíly mezi PMC a Partnerským centrem.
 |Můžou mít sady nástrojů pro další výhody (ABTKs), dokud nebudou vyřazení v říjnu 2018.|Žádné ABTKs; jedna mapa na společnost; Jedna Silver Competency na firmu; Jedna Gold Competency na firmu|
 ||Pokud ještě nemáte mapy, můžete si ho koupit. Vlastnictví map není vázané na kompetence.  
 |K výhodám došlo na straně partnerského digitálního stažení (PDD). |Všechny výhody jsou dostupné v partnerském centru.|
-|Kompetence a výhody jsou rozdělené do několika míst a rozdělené do různých míst.|Vaše kompetence a výhody ze všech vašich umístění jsou konsolidovány na úrovni společnosti (PGA) a budou zachovány až do data výročí. V tuto chvíli budete muset koupit nebo prodloužit platnost na úrovni společnosti. Výkon a dovednosti i kompetence jsou globálně agregované.|
+|Kompetence a výhody jsou rozdělené do několika míst a rozdělené do různých míst.|Vaše kompetence a výhody ze všech vašich umístění jsou konsolidovány na úrovni společnosti (PGA) a budou zachovány až do data výročí. V tuto chvíli budete muset koupit nebo prodloužit platnost na úrovni společnosti. Výkon, dovednosti a kompetence jsou globálně agregované.|
 |Deklarace identity pro doklad Software Assurance se provádějí v nástroji pro ověření a uplatnění dokladů (VVR).|V rámci partnerského centra teď máte přístup k školicím dokladům Software Assurance (SATV) a/nebo nasazeným plánovacím službám (DPS).  Starší verze nástroje VVR budou vyřazeny od 1. října 2019.  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>Přidružování ID MCP k partnerskému centru
@@ -83,8 +84,8 @@ V této tabulce jsou uvedeny některé rozdíly mezi PMC a Partnerským centrem.
 |**PMC**   |**Partnerské centrum**|
 |----------------------|:-----------------------------|
 |PDD  |Výhody|
-|ČIP, ICP, VÝSEČOVÝ | Uživatelům|
-||Referenční seznamy|
+|ČIP, ICP, VÝSEČOVÝ | Pobídky|
+||Reference|
 |Přehledy partnerů| Analýzy|
 |Nástroj pro ověření a uplatnění dokladů| Nástroj pro ověření a uplatnění dokladů|
 |           |Programy poskytovatele Cloud Solution Provider|

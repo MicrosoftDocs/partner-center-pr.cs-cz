@@ -8,13 +8,13 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.date: 07/08/2020
-ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.date: 03/31/2021
+ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474083"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103787"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analýza předplatných a licencí, které vám pomůžou řídit obchodní rozhodnutí a nové cíle
 
@@ -28,6 +28,10 @@ ms.locfileid: "96474083"
 Datové jednotky: obchodní rozhodnutí. Pomocí metrik na stránce **odběr a licencování** můžete identifikovat vaše úspěšnosti a oblasti, které vyžadují větší pozornost. Tyto informace použijte při plánování nových obchodních cílů.
 
 **CSP TTM tržby (USD)**: Tato metrika představuje agregované výnosy za CSP (USD) na konci dvanácti měsíců (TTM) pro účty umístění partnera a globální účet partnera (PGA), ke kterému je tento účet CSP přidružen. Pokud máte jiné účty CSP s jiným PGA, musíte se ke každému z nich přihlásit, abyste viděli odpovídající agregované TTM výnosy.  Kliknutím na odkaz podrobnosti ke stažení získáte rozpis TTM výnosů (USD) na ID MPN.
+
+>[!NOTE]
+>Ceny za místní měnu (starší verze obchodu FX) v komerčním prostředí jsou spravované v rámci +/-5% z US dolarů. Starší verze služby Commerce Exchange (FX) se liší od fakturačních sazeb, které Azure používá v moderních prostředích pro obchodování. Sazby za moderní obchodování po infakturaci jsou založené na sazbách Microsoft P&L (sazby za službu Reuters na základě pokladny). Starší sazby za Commerce FX jsou důvěrné pro společnost Microsoft.
+
 
 Zbytek sestavy se může pivotovat na základě následujících produktů:
 
@@ -82,6 +86,8 @@ Sledujeme následující metriky:
 **Zkušební předplatné končící 30 dny**  
 
  - Seznam spuštěných testů, jejichž koncové datum spadá do 30 dnů, a k předplatnému není přidružené žádné placené datum zahájení.  
+
+
 
 ## <a name="next-steps"></a>Další kroky
 

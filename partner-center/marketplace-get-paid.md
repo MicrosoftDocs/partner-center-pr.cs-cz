@@ -1,21 +1,22 @@
 ---
 title: Získání placeného centra partnera
-description: Přečtěte si, jak přijímat platby za tržby jako partnera Microsoftu, jako je například prostřednictvím komerčních nabídek Marketplace, motivačních programů a programu Cloud Solution Provider. Zahrnuje zásadu výběr, stav blokování a příkazy pro výběr.
-ms.service: marketplace
+description: Přečtěte si, jak přijímat platby za tržby jako partnera Microsoftu, jako je například prostřednictvím komerčních nabídek Marketplace, motivačních programů a programu Cloud Solution Provider. Zahrnuje zásady pro výběr, stav blokování a výběr příkazů.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492445"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133076"
 ---
 # <a name="getting-paid-in-partner-center"></a>Získání placeného centra partnera
 
-**Příslušné role:**
+**Příslušné role**
 
 - Správce účtu
 - Globální správce
@@ -38,7 +39,7 @@ Před tím, než se vyhradíte poprvé, musíte nastavit svůj účet pro výbě
 
 ### <a name="payout-hold-status"></a>Stav blokování ve výběr
 
-Ve výchozím nastavení pošleme platby měsíčně, jak je popsáno výše. Máte ale možnost umístit své výběry do pozastaveného programu a společnost Microsoft neuvolní vaše platby na váš účet. Pokud se rozhodnete, že vaše výběry podržíte, budeme na stránce vydaných vydaných **výběrů** pokračovat v evidenci všech příjmů. Do vašeho účtu ale nepošleme žádné platby, dokud ho neodeberete.
+Ve výchozím nastavení pošleme platby měsíčně, jak je popsáno výše. Můžete však určit, jaké výběry programu podržíte, a společnost Microsoft neuvolní vaše platby na váš účet. Pokud se rozhodnete, že vaše výběry podržíte, budeme na stránce vydaných vydaných **výběrů** pokračovat v evidenci všech příjmů. Do vašeho účtu ale nepošleme žádné platby, dokud ho neodeberete.
 
 Pokud chcete své platby zablokovat, vyberte ikonu ozubeného kolečka pro **Nastavení** v pravém horním rohu a pak klikněte na **Nastavení účtu**. V nabídce vlevo vyberte **Výběr a daň** a v části přiřazení k výběru **a daňovému profilu** Najděte program, pro který byste chtěli zadržené platby. Zaškrtněte políčko u **platby** pro tento program, pokud chcete uchovat platby. Stav blokování můžete kdykoli změnit, ale vaše rozhodnutí bude mít vliv na další měsíční výběr. Pokud například chcete pozastavit výběr z dubna, ujistěte se, že jste na konci března nastavili stav blokování vstupu na **zapnuto** .
 

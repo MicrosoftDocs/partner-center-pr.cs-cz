@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756130"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133042"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Použití partnerského centra k registraci jako partner Microsoftu pro učení
 
 **Příslušné role**
 
 - Správce partnera MPN
-- Správce účtu MPN
+- Správce účtu
 
 Tento článek popisuje různé způsoby, kterými se partner v Microsoft Partner Network může zaregistrovat v programu Learning partner.
 
@@ -50,7 +50,7 @@ Learning Action Pack je položka na základní úrovni v programu Learning partn
 
 Výuková akční sada podporuje partnery, kteří chtějí poskytovat školicí služby, nabídky nebo slevy na webu Learning Marketplace, a výhody, které jim pomůžou se seznámit s odborníky v různých řádcích produktů Microsoftu.
 
-Partneři, kteří nejsou učení, můžou zakoupit zkušební poptávku za celou cenu pouze pro interní školení. Pokud chcete doručovat obsah mimo vaši organizaci, budete potřebovat jeden Microsoft Certified Trainer (1 MCT) a bude se muset zaregistrovat do balíčku s výukovou akcí.
+Partneři, kteří nejsou učení, můžou zakoupit zkušební poptávku za celou cenu pouze pro interní školení. Pokud chcete doručovat obsah mimo vaši organizaci, budete potřebovat jednu společnost Microsoft Certified Trainer (jeden MCT) a bude se muset zaregistrovat do balíčku akčních kurzů.
 
 Až se dostanete k požadovaným klíčovým ukazatelům výkonu, můžete dokončit další požadavky a vybrat možnost upgradu na stříbro/Gold Learning.
 
@@ -109,7 +109,7 @@ Kontaktujte [podporu partnerského prvotníu](https://partner.microsoft.com/supp
 
 Sestavy klíčových ukazatelů výkonu se aktualizují jednou měsíčně během měsíce. Nárok na obnovení studijního programu se měří pro klíčové ukazatele výkonu dosažené během posledních 12 měsíců aktivity výkonu na základě data výročí. Například od 15. ledna 2020 se data klíčového ukazatele výkonu budou zobrazovat po dobu od ledna 2019 do prosince 2019. Pokud byla ve vaší faktuře nadatována 1. ledna 2020, zobrazí se odpovídající klíčové ukazatele výkonu od 15. února 2019. **Potvrzení objednávek a partnerské sestavy nebudou přijímány.** Budou přijaty pouze skutečné faktury.
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>Otázka: Rovná se jednorázové školení 1 klíčový ukazatel výkonu?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>Otázka: Rovná se jednorázové školení jednomu klíčovému ukazateli výkonu?
 
 Schůze klíčových ukazatelů výkonu se nevztahují na dobu trvání školení. Další informace o tom, jak se měří klíčové ukazatele výkonu, najdete v příkladech výkonu v Průvodci registrací [partnerů pro učení](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
 

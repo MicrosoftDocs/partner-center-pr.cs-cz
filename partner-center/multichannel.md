@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "92527009"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132719"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Podpora více kanálů – používání dalších partnerů k podpoře zakoupených zákaznických předplatných jinde
 
 **Platí pro**
 
-- Partnerské centrum
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro oficiální Cloud Microsoftu
 
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent prodeje
 
 Funkce pro více kanálů partnerského centra podporuje scénáře, kdy zákazník chce nakoupit partnera pro správu a podporu předplatného, které si koupili jinde. Podpora více kanálů platí v případě, že zákazník:

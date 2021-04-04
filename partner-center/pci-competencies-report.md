@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d03533d69df4600879dbc90622b640a932ab069
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92527181"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086256"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Sestava kompetence k dispozici na řídicím panelu přehledů partnerského centra
 
 **Příslušné role**
+
 - Globální správce
 - Agent správce
 - Prohlížeč sestav
 - Prohlížeč sestav Executive
 
-Kompetence umožňují vaší společnosti předvést technickou schopnost doručovat řešení Microsoftu. Kompetence Microsoftu jsou navržené tak, aby splňovaly potřeby vašich zákazníků a předvedli své znalosti potenciálním zákazníkům. Přináší spoustu výhod od Microsoftu, jako je zahrnuté množství využití Azure, nároky na cloudové produkty, jako je O365, technická podpora, nabídky pro uvedení na trh atd. V současné době je k dispozici celkem 19 kompetencí v následujících kategoriích: **aplikace a infrastruktura**, **obchodní aplikace**, **data a AI** a **moderní pracoviště**. Kompetence jsou vrstveny na úrovni stříbrného nebo zlata, např. K dispozici je vyšší úroveň pro zlaté kompetence a přidruženou vyšší úroveň marketingových prostředků, nabídek a dostupných programů.  
+Kompetence umožňují vaší společnosti předvést technickou schopnost doručovat řešení Microsoftu. Kompetence Microsoftu jsou navržené tak, aby splňovaly potřeby vašich zákazníků a předvedli své znalosti potenciálním zákazníkům. Přináší spoustu výhod od Microsoftu, jako je zahrnuté množství využití Azure, nároky na cloudové produkty, jako je Office 365, technická podpora, nabídky pro uvedení na trh a další. V současné době je k dispozici celkem 19 kompetencí v následujících kategoriích: **aplikace a infrastruktura**, **obchodní aplikace**, **data a AI** a **moderní pracoviště**. Kompetence jsou vrstveny na úrovni stříbrného nebo zlata, např. K dispozici je vyšší úroveň pro zlaté kompetence a přidruženou vyšší úroveň marketingových prostředků, nabídek a dostupných programů.  
 
 Pokud se chcete dozvědět víc o životním cyklu kompetence, dosažené kompetenci a dalších podrobnostech sestavy o kompetencích, získáte více použití ze sestavy kompetence.
 
@@ -73,7 +74,7 @@ Toto zobrazení ukazuje stav metrik kompetence oproti prahovým hodnotám vyžad
 
 Sestavu můžete překlopit následujícími dvěma rozsahy dat:
 
-1. TTM zobrazení: vyčíslení partnerského výkonu za posledních dvanáct měsíců (TTM).
+1. TTM zobrazení: vyčíslení partnerského výkonu za posledních 12 měsíců (TTM).
 2. Zobrazení ročního roku: vyčíslení partnerského výkonu od předchozího data výročí k následujícímu datu výročí.
 
 :::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="Analýza metrik kompetence":::

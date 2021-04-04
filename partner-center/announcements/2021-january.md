@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 9f0292efc6646e4abd85a6fab1e53ac9e139a915
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712456"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280832"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
@@ -88,29 +88,30 @@ Všechny otázky související s tímto oznámením kontaktují [podporu partner
     -    Fáze 1 je v provozu. 
     -    Objasnění, že Velká Británie není zahrnutá v EU/ESVO, je součástí [evropské oblasti a trhu Microsoftu](../regional-authorization-overview.md) a bude ovlivněná.
 
-
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Změny požadavků na registraci zákazníků poskytovatele Cloud Solution Provider (CSP)
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-01-28
+- Datum: 2021-04-02
 - Zvýšené zabezpečení a dodržování předpisů
-
-### <a name="impacted-audience"></a>Ovlivněná cílová skupina
-
-Partneři poskytovatele CSP a nepřímá poskytovatelé, kteří mají nové nebo existující zákazníky v zemích uvedených v další části.
 
 ### <a name="summary"></a>Souhrn
 
-V rámci našeho závazku pomáhat partnerům a zákazníkům, kteří provozují firmy na základě důvěry, budeme vyžadovat další informace o zákaznících od března 2021.
+V rámci našeho závazku pomáhat partnerům a zákazníkům, kteří provozují své podnikání na základě důvěry, budeme požadovat další informace o zákaznících, účinnost 25. března 2021.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři poskytovatele CSP a nepřímá poskytovatelé, kteří mají nové nebo existující zákazníky v zemích uvedených v další části
 
 ### <a name="details"></a>Podrobnosti
 
-Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečné a zabezpečené metody ověřování zákazníků pro transakce předplatných zákazníka v programu CSP. Na konci března 2021 budeme zavádět vylepšení rozhraní API partnerského centra a uživatelského rozhraní, které bude mít vliv na partnery, kteří splňují obě následující kritéria:
+Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečné a zabezpečené metody ověřování zákazníků pro transakce předplatných zákazníka v programu CSP. 25. března 2021 budeme zavádět vylepšení rozhraní API partnerského centra a uživatelského rozhraní, které bude mít vliv na partnery, kteří splňují obě následující kritéria:
 
 1. Partner má přímý fakturační vztah s Microsoftem (to znamená, že partner je buď přímým partnerem, nebo nepřímým poskytovatelem).
+
 2. Partner pracuje s novými nebo stávajícími zákazníky v těchto zemích:
+
     - Thajsko
     - Vietnam
     - Turecko
@@ -125,7 +126,9 @@ Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující
     - Spojené arabské emiráty
     - Venezuela
 
-Partneři, kteří splňují kritéria, budou muset odeslat **platný identifikátor** zákazníka (označovaný také jako **DIČ organizace** zákazníka) a **telefonní číslo** při připojování nových zákazníků nebo změny stávajících informací o zákaznících. Tito partneři můžou volitelně zadat také **druhé jméno** zákazníka.
+Partneři, kteří splňují kritéria, budou muset odeslat registrační ID společnosti zákazníka (označované také jako DIČ organizace zákazníka) a telefonní číslo při příští aktualizaci nebo vytvoření předplatného pro daného zákazníka. Tito partneři můžou volitelně zadat také druhé jméno zákazníka.
+
+Všimněte si, že při přidání registračního ID vaší společnosti byste měli použít své obchodní daňové ID, nikoli osobní ID zákazníka.
 
 Partneři, kteří pracují s novými nebo stávajícími zákazníky v následujících zemích, už jsou připojení k předchozí verzi v listopadu 2020.
 
@@ -141,20 +144,32 @@ Partneři, kteří pracují s novými nebo stávajícími zákazníky v následu
 - Ukrajina
 - Uzbekistán
 
-Partneři se zákazníky ve zbývající části světa budou mít na konci března 2021 možnost zadat **právní identifikátor**, **telefonní číslo** a **prostřední jméno** pro zákazníky jako volitelné podrobnosti.
+Partneři se zákazníky ve zbývající části světa budou mít na konci března 2021 možnost zadat ID registrace společnosti, telefonní číslo a prostřední jméno pro zákazníky jako volitelné podrobnosti.
 
 ### <a name="next-steps"></a>Další kroky
 
-- Podrobnější informace najdete v technické dokumentaci a nejčastějších dotazech ve vyhrazené [kolekci partnerů](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (vyžaduje se přihlášení).
+- Podrobnější pokyny najdete v technické dokumentaci a nejčastější dotazy v [kolekci](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) vyhrazených partnerů.
 - Připravte se na začlenění změn pomocí rozhraní API partnerského centra a uživatelského prostředí pro web. Pro testování bude k dispozici rozhraní API/sady SDK.
 - Nezapomeňte odeslat další data při připojování nových zákazníků nebo úpravách stávajících informací o zákaznících.
 - Pokud používáte řešení v rámci ovládacího panelu (CPV), obraťte se na CPV.
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud máte dotazy související s platným identifikátorem (označovaným také jako DIČ nebo DIČ), kontaktujte daňového poradce nebo místní finanční kancelář. Microsoft nemůže poskytnout pokyny k daňovým aspektům.
+Pokud máte dotazy související s ID registrace společnosti (označované také jako DIČ nebo DIČ), kontaktujte daňového poradce nebo místní finanční kancelář. Microsoft nemůže poskytnout pokyny k daňovým aspektům.
 
-Pokud potřebujete podporu s vašimi operacemi s Microsoftem, [otevřete žádost o služby](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (vyžaduje se přihlášení).
+Pokud potřebujete podporu s vašimi operacemi s Microsoftem, otevřete [žádost o služby](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+### <a name="change-log"></a>Protokol změn:
+
+17. prosince 2020: původní publikace
+
+28. ledna 2021: republicing; žádné změny.
+
+2. dubna 2021: aktualizace obsahují následující:
+
+- Zadané datum spuštění
+- Název DIČ organizace byl aktualizován na ID registrace společnosti.
+- Přidali jsme poznámku, která poskytuje objasnění ID registrace společnosti.
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Partnerská smlouva Microsoft (MPA) – aktualizace nepřímých prodejců & nových nejčastějších dotazech 

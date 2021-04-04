@@ -9,24 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691363"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178931"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Použití metrik v partnerském centru k posílení přijetí a spokojenosti
-
-**Platí pro**
-
-- Partnerské centrum
-- Program Cloud Solution Provider
 
 **Příslušné role**
 
 - Globální správce
-- Správce uživatelů
+- Správce správy uživatelů
 - Agent správce
 - Agent prodeje
 
@@ -61,7 +56,7 @@ Můžete najít licence a uživatelská data pro jednoho zákazníka nebo v rám
 
 Terminologie:
 
-- **Nárok** = licence, kterou má uživatel nárok na použití (není pozastavená kvůli podvodům nebo neplatbám, nebyla upgradována na jinou licenci, nebyla zrušena uživatelem atd.)
+- **Nárok** = licence, kterou má uživatel nárok na použití (není pozastavená kvůli podvodům nebo neplatbám, nebyla upgradována na jinou licenci, nebyla zrušena uživatelem nebo jiným problémem).
 
 - **Aktivní** =, pokud Předplatný uživatel použil oprávnění pro úkol za posledních 28 kalendářních dnů.
 
@@ -69,7 +64,7 @@ Terminologie:
 
 - **Použití%** = aktivní uživatelé/celkem uživatelů
 
-   V některých případech je použití% využití neploché nebo je větší než 100%. Příčin může být několik:
+   V některých případech je použití% využití neploché nebo je větší než 100%. K tomuto problému může dojít z několika důvodů:
 
   - Pokud má zákazník obrat na zaměstnance a licence se přenesla na nového uživatele.
 
@@ -77,7 +72,7 @@ Terminologie:
 
   - Pokud má zákazník zkušební předplatné, započítá se aktivita, ale u předplatného se nepočítá celková nároky.
 
-  - Pokud někteří zákazníci používají Yammer významně větší, než mají nárok na jejich licenci, může data významně zkosit.
+  - Pokud někteří zákazníci používají Yammer významně větší, než mají nárok na jejich licenci, může data výrazně zkosit.
 
 ## <a name="next-steps"></a>Další kroky
 
@@ -87,7 +82,7 @@ Pokud zadáváte mnoho otázek s dotazy a dotazy, čísla přijetí na vašem ú
 
 **Problém**: frekvence přijímání uživatelů je nízká a mnoho licencí se nepoužívá.
 
-**Co je třeba vzít v úvahu**: zákazníci nemusí pochopit hodnotu, kterou by mohl software poskytnout. Potřebují pomáhat s tím, jak by mohli do svého dne začlenit, aby se zjednodušily úlohy, které už dělají, nebo umožnily nové typy produktivity.
+**Co je třeba vzít v úvahu**: zákazníci nemusí pochopit hodnotu, kterou by mohl software poskytnout. Potřebují pomáhat s plánováním způsobů, které by mohly začlenit do svého dne a zjednodušit úkoly, které už dělají, nebo zajistit nové typy produktivity.
 
 **Jak vyzkoušet**: případové studie, uživatelské příručky týkající se konkrétních scénářů, výukových blogů nebo videí.
 

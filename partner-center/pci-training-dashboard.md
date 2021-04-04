@@ -1,5 +1,5 @@
 ---
-title: Řídicí panel školení pro přehledy.
+title: Řídicí panel školení pro přehledy
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
@@ -9,16 +9,17 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527766"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086239"
 ---
 # <a name="trainings-dashboard"></a>Řídicí panel školení
 
 **Příslušné role**
+
 - Prohlížeč sestav Executive
 - Prohlížeč sestav
 
@@ -34,7 +35,7 @@ ms.locfileid: "92527766"
 
 ## <a name="summary"></a>Souhrn
 
-V části Souhrn se zobrazuje číselná zobrazení snímků různých ukazatelů výkonu, které souvisejí s vašimi kurzy. Různé ukazatele výkonu jsou certifikované jednotlivci, certifikace, jednotlivci s přihlašovacími údaji, přihlašovací údaje pro zkoušku, jednotlivci a pověření pro vyhodnocení a přihlašovací údaje pro vyhodnocení. Data v této části se aktualizuje v závislosti na vybraném časovém rozsahu, který může být tři měsíce (3M), šesti měsíců (6 min) & 12 měsíců (1Y) nebo vlastním rozsahem dat (vlastní). 
+V části Souhrn se zobrazuje číselná zobrazení snímků různých ukazatelů výkonu, které souvisejí s vašimi kurzy. Různé ukazatele výkonu jsou certifikované jednotlivci, certifikace, jednotlivci s přihlašovacími údaji, přihlašovací údaje pro zkoušku, jednotlivci a pověření pro vyhodnocení a přihlašovací údaje pro vyhodnocení. Data v této části se aktualizují v závislosti na vybraném časovém rozsahu, který může být tři měsíce (3M), šest měsíců (6 min) a 12 měsíců (1Y) nebo vlastní rozsah dat (vlastní). 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Souhrn":::
 
@@ -47,7 +48,7 @@ V části Souhrn se zobrazuje číselná zobrazení snímků různých ukazatel�
 
 ## <a name="training-performance"></a>Školení výkonu
 
-Školení přináší měsíční počet jednotlivců a školení, která splnili jednotlivci ve vaší společnosti. Je rozdělen podle certifikace, posouzení a zkoušek ve formě grafu pro vybraný rozsah dat. Osa X představuje měsíce pro vybraný rozsah dat. Osa Y představuje jedinečný počet jednotlivců a počet pořízených školení pro vybraný typ školení. Kliknutím na příslušné karty nad graf zobrazíte rozpis podle typu školení. Data grafu lze stáhnout pomocí ikony pro stažení ve formátu. TSV pro vybraný rozsah dat.
+Školení přináší měsíční počet jednotlivců a školení, která splnili jednotlivci ve vaší společnosti. Je rozdělen podle certifikace, posouzení a zkoušek ve formě grafu pro vybraný rozsah dat. Osa X představuje měsíce pro vybraný rozsah dat. Osa Y představuje jedinečný počet jednotlivců a počet pořízených školení pro vybraný typ školení. Výběrem příslušných karet nad graf zobrazíte rozpis podle typu školení. Data grafu lze stáhnout pomocí ikony pro stažení ve formátu. TSV pro vybraný rozsah dat.
 
 :::image type="content" source="images/pci/td-training-performance.png" alt-text="Školení výkonu":::
 

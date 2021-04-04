@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.date: 04/01/2021
+ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730055"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280849"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
 Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace často aktualizujeme, proto vám doporučujeme je pravidelně sledovat.
 
-|**Kategorie**|**Oznámení z března 2021**|**Datum oznámení**|
+|**Kategorie**|**Oznámení z dubna 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Možnosti|[Změny požadavků na onboarding zákazníků do programu Cloud Solution Provider (CSP)](2021-april.md#2)|2. dubna|
+|Možnosti|[Zobrazit spuštění produktu a nabídky z tohoto měsíce](2021-april.md#1)|1\. dubna|
+|**Kategorie**|**Oznámení z března 2021**|**Datum oznámení**|
+|Možnosti|[Aktualizované rozhraní API pro ověřování zákaznických adres poskytovatele CSP je nyní k dispozici pro testování](2021-march.md#18)|31. března|
 |Nabídky/moderní pracoviště|[Nové prostředí v centru pro správu Exchange (EAC)](2021-march.md#17)|29. března|
 |Nabídky/moderní pracoviště|[Operace s Microsoftem: Úvod do kalendářního spuštění produktu](2021-march.md#16)|25. března|
 |Možnosti|[Změny požadavků na registraci zprostředkovatele CSP pro zákazníky](2021-march.md#15)|25. března|
