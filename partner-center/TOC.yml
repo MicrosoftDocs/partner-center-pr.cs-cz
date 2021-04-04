@@ -93,6 +93,8 @@
         - name: Ukázky pro partnery MPN
           href: mpn-demos.md
           displayName: mpn
+        - name: Zásady a používání výhod – Nejčastější dotazy
+          href: benefits-faq-new.md
         - name: Nejčastější dotazy k výhodám
           href: benefits-faq.md
           displayName: 'renew, license,'
