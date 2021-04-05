@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/02/2021
+ms.openlocfilehash: f550a1b145a4de7a6ecd13dd42241b059da55533
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280849"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374412"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z dubna 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Možnosti|[Nový formát nové faktury na Commerce PDF v CSP](2021-april.md#3)|5. dubna|
 |Možnosti|[Změny požadavků na onboarding zákazníků do programu Cloud Solution Provider (CSP)](2021-april.md#2)|2. dubna|
 |Možnosti|[Zobrazit spuštění produktu a nabídky z tohoto měsíce](2021-april.md#1)|1\. dubna|
 |**Kategorie**|**Oznámení z března 2021**|**Datum oznámení**|
