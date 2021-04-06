@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "92527035"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502863"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Přehled partnerských nabídek v programu Cloud Solution Provider
-
-**Platí pro**
-
-- Partneři CSP
 
 **Příslušné role**
 
@@ -28,7 +24,7 @@ ms.locfileid: "92527035"
 - Globální správce
 - Agent prodeje
 
-Partneři Microsoftu v programu Cloud Solution Provider (CSP) mají rostoucí katalog nabídek, které jsou jim k dispozici. Můžete prodávat celou škálu [cloudových služeb Microsoftu](https://partner.microsoft.com/cloud-solution-provider/products-and-services)a také celou řadu dalších nabídek, které se často mění. Pokud si chcete zobrazit nabídky CSP pro aktuální měsíc, přihlaste se do partnerského centra a pak přejděte na stránku [**ceny a nabídky**](https://partnercenter.microsoft.com/pcv/sales) .  
+Partneři Microsoftu v programu Cloud Solution Provider (CSP) mají rostoucí katalog nabídek, které jsou jim k dispozici. Můžete prodávat celou škálu [cloudových služeb Microsoftu](https://partner.microsoft.com/cloud-solution-provider/products-and-services)a různé další nabídky, které se často mění. Pokud si chcete zobrazit nabídky CSP pro aktuální měsíc, přihlaste se do partnerského centra a pak přejděte na stránku [**ceny a nabídky**](https://partnercenter.microsoft.com/pcv/sales) .  
 
 Ještě není zaregistrované v programu Cloud Solution Provider? Další podrobnosti o tom, jak se zaregistrovat, najdete v tématu [Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider) . 
 
@@ -117,10 +113,10 @@ Některé nabídky založené na licencích se dají koupit jenom za určitých 
 
 Pokud nemůžete v katalogu najít požadovanou nabídku, může to mít různé příčiny. Níže jsou uvedené věci, které vám pomůžou zjistit, jestli nemůžete najít očekávanou nabídku.
 
-- **Ověřte, jestli zákazník splňuje podmínky:** Prodej mnoha nabídek vyžaduje, aby zákazníci měli speciální kvalifikaci. Mezi tyto speciální segmenty patří oblast vzdělávání, neziskový sektor a Government Community Cloud (GCC). Před nahlášením problému nejdřív ověřte, jestli je kvalifikace zákazníka nastavená odpovídajícím způsobem. Můžete to ověřit kliknutím na zákazníka v seznamu a kontrolou jeho účtu. Pokud se to vyžaduje, měla by být u účtu speciální kvalifikace nastavená. Pokud byste chtěli pro zákazníka bez příslušné kvalifikace koupit produkt určený pro vzdělávací instituce, pak se příslušné nabídky v katalogu vůbec nezobrazí. Další informace o tom, jak tyto zákazníky kvalifikovat, najdete ve [zvláštních segmentech documenation](get-special-pricing-for-offers.md) .
-- **Rozhodněte, jestli se pokoušíte koupit doplněk, nebo základní nabídku:** Řada služeb na bázi licencí, jako je například Microsoft 365 a Dynamics 365, umožňuje z katalogu nakupovat základní nabídky, ale nabízí i doplňky. V katalogu je možné nakupovat jen základní nabídky. Pokud chcete pořídit doplňky, musíte si nejdřív v katalogu koupit základní nabídku, následně vybrat zákazníka ze seznamu, a nakonec pro základní nabídku vybrat předplatné. Na této stránce pro správu předplatných můžete k základní nabídce přiřadit doplňky. 
+- **Ověřte, jestli zákazník splňuje podmínky:** Prodej mnoha nabídek vyžaduje, aby zákazníci měli speciální kvalifikaci. Mezi tyto speciální segmenty patří vzdělávání, neziskové a státní komunitní Cloud (RSZ). Před nahlášením problému nejdřív ověřte, jestli je kvalifikace zákazníka nastavená odpovídajícím způsobem. Můžete to ověřit tak, že vyberete zákazníka ze seznamu Zákazník a zobrazíte účet. Pokud se to vyžaduje, měla by být u účtu speciální kvalifikace nastavená. Pokud byste chtěli pro zákazníka bez příslušné kvalifikace koupit produkt určený pro vzdělávací instituce, pak se příslušné nabídky v katalogu vůbec nezobrazí. Další informace o tom, jak zařazovat zákazníky, najdete v [dokumentaci ke speciálním segmentům](get-special-pricing-for-offers.md).
+- **Rozhodněte, jestli se pokoušíte koupit doplněk, nebo základní nabídku:** Řada služeb založených na licencích, jako je například Microsoft 365 a Dynamics 365, umožňuje nákup katalogu základních nabídek a doplňků. V katalogu je možné nakupovat jen základní nabídky. Pokud chcete koupit doplňky, ujistěte se, že jste nejdřív nakoupili základní nabídku v katalogu, a pak vyberte zákazníka ze seznamu Zákazník a pak vyberte předplatné pro základní nabídku. Na této stránce pro správu předplatných můžete k základní nabídce přiřadit doplňky. 
 - **Ověřte, jestli jsou produkty dostupné na vašem trhu:** Řada produktů a služeb je nakonfigurovaná tak, aby je bylo možné prodávat jen zákazníkům v konkrétních zemích. Seznam podporovaných zemí najdete v různých ceníkových souborech. V tabulce nabídek na stránce cen a nabídek najdete podporované země, pokud jde o služby na bázi licencí.
-- **Ověřte, jestli jsou nabídky dostupné v ceníku:** Seznam dostupných nabídek se může měnit z měsíce na měsíc. Pokud v katalogu nemůžete určitou nabídku najít, ujistěte se, že je k dispozici v aktuálních cenících, a to na stránce **Prodej > Ceny a nabídky**.
+- **Ověřte, jestli jsou nabídky dostupné v ceníku:** Seznam dostupných nabídek se může měnit z měsíce na měsíc. Pokud nabídku v katalogu nemůžete najít, ověřte, že je k dispozici v seznamech aktuální ceny na stránce **prodej > ceny a nabídky** .
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Doporučené dokumenty související s nákupem položek v partnerském centru
 

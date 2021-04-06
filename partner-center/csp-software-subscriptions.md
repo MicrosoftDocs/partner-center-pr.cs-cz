@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475190"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502548"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Prodej předplatných softwaru prostřednictvím programu Cloud Solution Provider (CSP)
-
-**Platí pro**
-
-- Poskytovatelé cloudových řešení
 
 **Příslušné role**
 
@@ -31,7 +27,7 @@ Díky rezervacím a předplatným serveru (předplatná pro Windows Server a SQL
 
 Můžete teď získat, zřídit a spravovat rezervace a odběry Azure jménem komerčních zákazníků prostřednictvím partnerského centra a Azure Portal využitím Zvýhodněné hybridní využití Azure.
 
-Zvýhodněné hybridní využití Azure vám pomůže získat větší hodnotu z licencí Windows serveru a ušetřit až 40 procent na virtuálních počítačích. Výhody s licencemi na Windows Server Datacenter a Standard Edition, které jsou součástí programu Software Assurance, můžete využívat. V závislosti na edici můžete licence převést nebo znovu použít ke spouštění virtuálních počítačů s Windows serverem v Azure a platit nižší základní výpočetní sazbu (například sazby za virtuální počítače Linux).
+Zvýhodněné hybridní využití Azure vám pomůže získat větší hodnotu z licencí Windows serveru a ušetřit až 40 procent na virtuálních počítačích. Výhody s licencemi na Windows Server Datacenter a Standard Edition, které jsou součástí programu Software Assurance, můžete využívat. V závislosti na edici můžete licence převést nebo znovu použít pro spouštění virtuálních počítačů s Windows serverem v Azure a platit nižší základní výpočetní sazbu (například sazby za virtuální počítače Linux).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Nedostupné trhy Azure rezervací
 
@@ -101,7 +97,7 @@ Jakmile zakoupíte software, vy nebo vaši zákazníci si ho budete muset stáhn
 
 2. Zvolte možnost **verze** produktu, **jazyk**, **bit** a vyberte **získat klíče a soubory ke stažení**. 
 
-3. Vyberte **získat klíč** , ve kterém se zobrazí 32ý produkt v automaticky otevíraném dialogu, který můžete zkopírovat a poslat zákazníkovi. 
+3. Zvolením možnosti **získat klíč** zobrazíte 32ý produkt v automaticky otevíraném okně, které můžete zkopírovat a odeslat zákazníkovi. 
 
 4. Pro stažení bitů klikněte na **Stáhnout** . 
 

@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1521f9b14f6ae01a69d625f308f9eed9d677a45e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 6ae63c2cacbdea7a1aa2bf08ffff8a3cde512668
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92527012"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502743"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Jak můžou partneři programu CSP prodávat předplatná zákazníkům
-
-**Platí pro**
-
--  Partnerské centrum
 
 **Příslušné role**
 
@@ -33,11 +29,11 @@ Jedním z nejdůležitějších věcí jako partner CSP je nabídnout vašim zá
 
 |**K tomu**   |**Přečtěte si:**   |
 |----------------------|:----------------------|
-|Vytváření a Správa předplatných pro stávající zákazníky v partnerském centru|[Vytvoření nového předplatného](create-a-new-subscription.md)|
+|Vytvářejte a spravujte odběry stávajících zákazníků v partnerském centru.|[Vytvoření nového předplatného](create-a-new-subscription.md)|
 |Po přidání předplatného můžete přiřadit licence zaměstnancům zákazníka.  |[Přiřazení licencí k uživatelům](assign-licenses-to-users.md)|
 |Můžete také spravovat hromadné aktualizace licencí.   |[Přiřazení licencí několika uživatelům nebo jejich odvolání](bulk-license-provisioning-for-multiple-users.md)|
 |Když zákazník přidá nové zaměstnance, můžete do stávajících předplatných přidat další licence.   |[Přidání licencí nebo služeb do stávajícího předplatného](add-licenses-or-services-to-an-existing-subscription.md)|
-|Zákazník může chtít vyzkoušet software před jeho potvrzením, takže nabídka zkušebního předplatného    |[Nabídnout zákazníkům zkušební verze produktů Microsoftu](offer-your-customers-trials-of-microsoft-products.md)|
+|Zákazník může chtít vyzkoušet software před jeho potvrzením, takže nabízí zkušební předplatné.    |[Nabídka zkušebních verzí produktů Microsoftu zákazníkům](offer-your-customers-trials-of-microsoft-products.md)|
 |Proces předplatného Azure můžete spustit v partnerském centru.   |[Přiřazení předplatných Azure v partnerském centru](assign-azure-subscriptions.md)|
-|Přečtěte si o speciálních cenách nabídek.   |[Získat speciální ceny pro nabídky](get-special-pricing-for-offers.md)|
-|Naučte se, jak zákazníci používají svůj software, aby jim usnadnili efektivitu.   | [Zvýšení přijetí a spokojenosti](increasing-adoption-and-satisfaction.md)   |
+|Přečtěte si o speciálních cenách pro nabídky.   |[Získat speciální ceny pro nabídky](get-special-pricing-for-offers.md)|
+|Naučte se, jak zákazníci používají software, aby jim usnadnili efektivnější využití.   | [Zvýšení míry přijetí a spokojenosti](increasing-adoption-and-satisfaction.md)   |

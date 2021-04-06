@@ -10,19 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 2171e2b10101e99bdd8d415a936ba98af65c2a1b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92527664"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502566"
 ---
-# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Pokyny pro konsolidaci tenanta regionální autorizace CSP
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Pokyny ke konsolidaci tenantů s regionální autorizací CSP
 
 **Platí pro**
 
--  Partnerské centrum
--  Partnerské centrum pro Microsoft Cloud pro státní správu USA
+- Partnerské centrum pro Microsoft Cloud for US Government
 
 **Příslušné role**
 
@@ -48,7 +47,7 @@ Můžete konsolidovat klienty pro vaši firmu. Tyto pokyny slouží ke konsolida
 
 2. Vyberte **Zákazníci**.
 
-3. Klikněte na **požádat o vztah prodejce**. Zobrazí se výchozí e-mailová zpráva, která se odešle vašim zákazníkům. Tato zpráva obsahuje adresu URL s ID organizace, které je pro nový účet partnerského centra jedinečné.
+3. Vyberte **požádat o vztah prodejce**. Zobrazí se výchozí e-mailová zpráva, která se odešle vašim zákazníkům. Tato zpráva obsahuje adresu URL s ID organizace, které je pro nový účet partnerského centra jedinečné.
 
 4. **Akce zákazníka:** Ujistěte se, že každý z aktivních zákazníků, které chcete migrovat, navštíví tuto adresu URL. Při otevření adresy URL se zobrazí výzva, abyste se přihlásili na portál Office 365. Zákazník se přihlásí pomocí stejného ID organizace, které používají pro přístup k portálům pro správu Azure a Office 365.
 
@@ -60,7 +59,7 @@ Zákazníci se zobrazí v seznamu zákazníků partnera po odeslání smlouvy, j
 
 1. Jakmile zákazník smlouvu podepíše, můžete znovu vytvořit své odběry v rámci centralizovaného partnerského tenanta.
 
-2. Z **partnerského centra** vyberte možnost **zákazníci**.
+2. Z **partnerského centra** vyberte **zákazníci**.
 
 3. Otevřete název společnosti pro zákazníka, kterého chcete migrovat.
 
@@ -70,7 +69,7 @@ Zákazníci se zobrazí v seznamu zákazníků partnera po odeslání smlouvy, j
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="seznam zákazníků":::
 
-6. Klikněte na **Odeslat.**
+6. Vyberte **Odeslat.**
 
    Služby jsou nyní poskytovány zákazníkovi z **přechodu na** Partnerský účet.
 
@@ -89,7 +88,7 @@ Zakázáním předplatného CSP v rámci **přechodu z** partnerských účtů z
 
 2. Otevřete zákazníka s předplatnými, které chcete zakázat, a pak vyberte první nabídku, kterou chcete zakázat.
 
-3. Nastavte předplatné na **pozastaveno** a pak klikněte na **Odeslat**.
+3. Nastavte předplatné na **pozastaveno** a pak vyberte **Odeslat**.
 
    >[!Note]
    >Pozastavení předplatného zajistí, že nedojde k dvojímu vyúčtování.
@@ -102,7 +101,7 @@ Zakázáním předplatného CSP v rámci **přechodu z** partnerských účtů z
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migrace předplatných na základě využití Azure
 
-Na rozdíl od předplatných CSP pro Office 365 se nemusíte migrovat ručně pomocí Azure, předplatných CSP na základě využití. Služba Microsoft Azure Support provede migraci předplatných Azure i všech nasazených služeb nebo prostředků z **přechodu z** účtů prodejců CSP na **Přechod na** účet prodejce CSP. Během tohoto přechodu nebudete mít k dispozici žádné přerušení služby pro zákazníka.
+Na rozdíl od předplatných CSP pro Office 365 se nemusíte migrovat ručně pomocí Azure, předplatných CSP na základě využití. Služba Microsoft Azure Support migruje předplatná Azure a všechny nasazené služby nebo prostředky z **přechodu z** účtů prodejců CSP na **převod na** účet prodejce CSP. Během tohoto přechodu nebudete mít k dispozici žádné přerušení služby pro zákazníka.
 
 1. Ujistěte se, že účty zákazníků, které budou mít migrované předplatné Azure, přijaly smlouvu, která bude přidružená k novému **přechodu na** účet CSP.
 
@@ -134,11 +133,11 @@ Na rozdíl od předplatných CSP pro Office 365 se nemusíte migrovat ručně po
 
 Pomocí **funkce exportu** můžete zachytit odběry, které je třeba použít v nové konsolidované struktuře:
 
-1. Pokud chcete zobrazit seznam zákazníků, klikněte na tlačítko **zákazníci** v partnerském centru. 
+1. Pokud chcete zobrazit seznam zákazníků, vyberte **zákazníky** v partnerském centru. 
 
 2. Otevřete požadované jméno zákazníka.
 
-3. Na stránce **předplatná** kliknutím na **exportovat odběry** exportujte podrobnosti o předplatných do excelového souboru.
+3. Na stránce **předplatná** vyberte **exportovat odběry** a exportujte tak podrobnosti předplatných do excelového souboru.
 
 4. Pomocí tohoto seznamu můžete znovu vytvořit odběry ve vašem novém konsolidovaném tenantovi.
 

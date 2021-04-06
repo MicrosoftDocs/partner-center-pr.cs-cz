@@ -4,25 +4,23 @@ ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Naučte se prodávat předplatné vašich zákazníků k produktům publikovaným společností Microsoft a produktům SaaS zveřejněným nezávislým výrobcům softwaru.
+description: Přečtěte si, jak prodávat předplatná vašim zákazníkům pro produkty publikované Microsoftem a také pro produkty SaaS publikované třetí stranou nezávislého výrobce softwaru.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038876"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502931"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Vytváření, pozastavování nebo rušení zákaznických předplatných
 
 **Platí pro**
 
-- Partnerské centrum
 - Partnerské centrum pro Microsoft Cloud for US Government
-- Partneři CSP
 
 **Příslušné role**
 
@@ -32,7 +30,7 @@ ms.locfileid: "96038876"
 - Agent helpdesku
 - Agent prodeje
 
-Až vytvoříte záznam o zákazníkovi v partnerském centru, můžete si ho prodávat do produktů v katalogu. To zahrnuje produkty publikované společností Microsoft i produkty SaaS (software jako služba), které publikovali nezávislí výrobci softwaru (ISV) třetích stran na [komerčním tržišti](https://azuremarketplace.microsoft.com/marketplace).
+Až vytvoříte záznam o zákazníkovi v partnerském centru, můžete si ho prodávat do produktů v katalogu. To zahrnuje produkty publikované produkty Microsoft a software jako služba (SaaS), které publikovali nezávislí výrobci softwaru (ISV) třetích stran na [komerčním tržišti](https://azuremarketplace.microsoft.com/marketplace).
 
 Některé nabídky jsou omezené na jedno předplatné na zákazníka. Pokud chcete zobrazit seznam nabídek, které jsou omezené, navštivte stránku ceny a nabídky partnerského centra.
 
@@ -80,7 +78,7 @@ Některé nabídky jsou omezené na jedno předplatné na zákazníka. Pokud chc
    
 ## <a name="update-subscriptions-with-add-ons"></a>Aktualizace předplatných o doplňky 
 
-Aby si zákazník mohl koupit doplněk, musí nejprve mít aktivní základní předplatné.  Doplňky není možné kupovat prostřednictvím katalogu.
+K nákupu doplňku musí zákazník nejdřív mít aktivní základní předplatné.  Doplňky není možné kupovat prostřednictvím katalogu.
 
 1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
 
@@ -93,7 +91,7 @@ Aby si zákazník mohl koupit doplněk, musí nejprve mít aktivní základní p
 5. Aktualizujte množství licencí pro každý požadovaný doplněk. Pak změny **odešlete**.
 
 Možnost zakoupit doplňky prostřednictvím partnerského centra je dostupná jenom pro přímé faktury a nepřímé poskytovatele.
-Na základě základních požadavků a regionální dostupnosti se zobrazují jenom opravňující doplňky. Další informace o cenách a nabídkách najdete v tabulce nabídek pro prodejce cloudových řešení.  Pozastavením základního předplatného se pozastaví také všechny přidružené doplňky.
+Na základě základních požadavků a regionální dostupnosti se zobrazují jenom opravňující doplňky. Další informace o cenách a nabídkách najdete v tématu matice nabídky prodejce cloudu. Pozastavením základního předplatného se pozastaví také všechny přidružené doplňky.
 
 Počáteční datum doplňků odpovídá základnímu předplatnému a poplatky se u první faktury účtují poměrně a následně se účtují na základě počátečního a koncového data účtování poplatků. Další informace najdete v tématu [fakturace na základě licencí](license-based-billing.md).
 
@@ -120,7 +118,7 @@ Když pozastavíte předplatné, datum zobrazené pod tlačítkem **pozastavit**
 
 ### <a name="cancel-a-subscription"></a>Zrušení předplatného
 
-Máte možnost zrušit si předplatné SaaS založené na licencích od třetích stran vydavatelů ISV v rámci [obchodního tržiště](csp-commercial-marketplace-overview.md)partnerského centra. Pokud zrušíte v rámci období zrušení, obdržíte plnou refundaci.
+Předplatné SaaS na základě licencí můžete zrušit od třetích stran vydavatelů ISV v rámci [obchodního tržiště](csp-commercial-marketplace-overview.md)partnerského centra. Pokud zrušíte v rámci období zrušení, obdržíte plnou refundaci.
 
 U nezávislých výrobců softwaru nabízíme fakturaci za měsíc:
 

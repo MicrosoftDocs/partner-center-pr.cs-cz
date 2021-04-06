@@ -9,26 +9,25 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979562"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502897"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Platí pro prodej v národních cloudech Microsoftu v rámci programu CSP.
 
 **Platí pro**
 
-- Partnerské centrum pro oficiální Cloud Microsoftu
+- Partnerské centrum pro Microsoft Cloud for US Government
 - Partnerské centrum pro Microsoft Cloud Německo
-
 
 **Příslušné role**
 
 - Globální správce
 
-Kromě prodejů zákazníkům v rámci programu globální Cloud Solution Provider můžou kvalifikovaní partneři Microsoftu také prodávat cloudová řešení zákazníkům ve třech samostatných národních cloudech. Národní cloudy jsou fyzické a logické izolované instance podnikových cloudových služeb společnosti Microsoft, které jsou omezeny v rámci geografického ohraničení konkrétních zemí a provozovány místními zaměstnanci. 
+Kromě prodejů zákazníkům v rámci programu globální Cloud Solution Provider můžou kvalifikovaní partneři Microsoftu také prodávat cloudová řešení zákazníkům ve třech samostatných národních cloudech. Národní cloudy jsou fyzické a logické izolované instance podnikových cloudových služeb společnosti Microsoft, které jsou omezeny v rámci geografického ohraničení konkrétních zemí a provozovány místními zaměstnanci.
 
 Další informace o národních cloudových nabídkách Microsoftu najdete v tématu věnovaném národním cloudům [Microsoftu](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud).
 
@@ -56,7 +55,7 @@ Kvalifikovaní partneři mohou prodávat cloudová řešení Microsoftu zákazn�
     
 -   [**Azure a Office 365 provozovaný společností 21Vianet v Číně**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Společnost Microsoft poskytuje cloudové služby v Číně prostřednictvím jedinečného partnerství s Shanghai Blue Cloud Technology Co., Ltd. (21Vianet), plně vlastněná dceřiná společnost v rámci programu Peking 21Vianet Broadband Data Center je co., Ltd. 21Vianet je největší nosný poskytovatel internetových služeb Datacenter, hostující, spravované sítě a Cloud computingové služby infrastruktury v Číně. 
 
-    Microsoft je poskytovatel technologie, ale neprovozuje službu. 21Vianet nezávisle provozuje, poskytuje a spravuje doručování cloudových služeb Microsoftu. Díky licencování technologií Microsoftu může společnost 21Vianet nabízet služby Azure a Office 365 a provozovat datová centra Azure a Office 365, která udržují data v Číně. 21Vianet taky poskytuje předplatné a fakturační služby a také podporu.
+    Microsoft je poskytovatel technologie, ale neprovozuje službu. 21Vianet nezávisle provozuje, poskytuje a spravuje doručování cloudových služeb Microsoftu. Díky licencování technologií Microsoftu může společnost 21Vianet nabízet služby Azure a Office 365 a provozovat datová centra Azure a Office 365, která udržují data v Číně. 21Vianet taky poskytuje předplatné a fakturační služby a podporu.
 
     Informace o tom, jak se zaregistrovat a prodávat zákazníkům v Azure a Office 365 provozovaných společností 21Vianet v Číně, najdete v tématu [Partnerská centra provozovaná společností 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
 

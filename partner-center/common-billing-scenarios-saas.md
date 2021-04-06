@@ -2,17 +2,19 @@
 title: Fakturace – SaaS transakce založené na licencích
 ms.topic: article
 ms.date: 05/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Přečtěte si o běžných scénářích fakturace v partnerském centru pro transakce založené na licencích a SaaS (software-as-a-Service).
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d63e8345bf127cb91f1812193b1f0311cd569b3
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: e317cb58e9ebf4b0efad2933f866d5db19d8dc1a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92527681"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502459"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Běžné scénáře fakturace pro transakce SaaS založené na licencích v partnerském centru
 
@@ -61,7 +63,7 @@ V tomto scénáři jste v rámci produktu zakoupili jednu skladovou jednotku (st
 
 Soubor rekognoskaci bude obsahovat následující poplatky:
 
-| Datum nákupu | Skladová položka | Počáteční datum platby | Koncové datum zpoplatnění | Jednotková cena | Množství jednotek | Total amount | Typ poplatku | Popis předplatného |
+| Datum nákupu | SKU | Počáteční datum platby | Koncové datum zpoplatnění | Jednotková cena | Množství jednotek | Total amount | Typ poplatku | Popis předplatného |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | $20 | 1 | $20 | Nová | Předplatné Custom měřič SaaS |
 | 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | $20 | 1 | -$20 | Převést | Poměrné přeúčtování pro vlastní předplatné měřičů SaaS |
@@ -73,7 +75,7 @@ Tento scénář popisuje fakturaci pro předplatné měřiče zákazníka, kter�
 
 V tomto scénáři jste si zakoupili vlastní předplatné měření SaaS na Azure Portal. Pak jste zrušili předplatné na stejné datum.
 
-| Datum nákupu | Skladová položka | Počáteční datum platby | Koncové datum zpoplatnění | Jednotková cena | Množství jednotek | Total amount | Typ poplatku | Popis předplatného |
+| Datum nákupu | SKU | Počáteční datum platby | Koncové datum zpoplatnění | Jednotková cena | Množství jednotek | Total amount | Typ poplatku | Popis předplatného |
 | ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | Bronzová | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | Nová | Předplatné Custom měřič SaaS |
 | 06/10/2019 | Bronzová | 06/10/2019 | 06/10/2019 | $10 | 1 | -$10 | CancelImmediate | Předplatné Custom měřič SaaS |

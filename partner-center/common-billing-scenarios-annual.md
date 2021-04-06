@@ -2,17 +2,19 @@
 title: Roční fakturace – běžné scénáře
 ms.topic: article
 ms.date: 05/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Roční fakturace z partnerského centra – když přidáváte nové odběry, přidáte licence před datum fakturace, změníte množství licencí nebo pozastavit/znovu aktivujete odběry.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086a7d359e1b903684af4ecddac37eda584e55f8
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7494fd7cc003d1179c0ed959b21e1be2cbcc3255
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92527022"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502476"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>Běžné roční fakturační scénáře v partnerském centru
 
@@ -27,7 +29,7 @@ Tyto příklady [běžných fakturačních scénářů](common-billing-scenarios
 
 ## <a name="new-annual-subscription"></a>Nové roční předplatné
 
-Datum fakturace je 15. den v měsíci. 13. ledna zakoupíte nové předplatné s jednou licencí pro $4 měsíčně a vyberete roční fakturaci. 15. ledna se souborem odsouhlasení na základě licencí bude obsahovat následující fakturační řádek:
+Datum fakturace je 15. den v měsíci. 13. ledna jste si koupili nové předplatné s jednou licencí pro $4 měsíčně a vybrali roční fakturaci. 15. ledna se souborem odsouhlasení na základě licencí bude obsahovat následující fakturační řádek:
 
 |Počáteční datum platby |Koncové datum zpoplatnění |Typ poplatků |Cena za jednotku |Množství |Částka |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -39,7 +41,7 @@ Koupíte nové předplatné na 2/11/17 s jednou licencí pro $211.20/year. Před
 
 - $211,20 poplatek za období 2/11/17 – 2/10/18.
 
-2/12/17 si koupíte druhou licenci. Datum fakturace je 2/14/17. Vygeneruje se soubor faktury a odsouhlasení. Soubor pro odsouhlasení bude obsahovat následující fakturační řádky:
+Na 2/12/17 si koupíte druhou licenci. Datum fakturace je 2/14/17. Vygeneruje se soubor faktury a odsouhlasení. Soubor pro odsouhlasení bude obsahovat následující fakturační řádky:
 
 |Počáteční datum platby  |Koncové datum zpoplatnění  |Typ poplatků  |Cena za jednotku |Množství | Částka |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
@@ -48,13 +50,13 @@ Koupíte nové předplatné na 2/11/17 s jednou licencí pro $211.20/year. Před
 V rámci vašeho předplatného, 3/11/17, fakturační systém Microsoftu vytvoří následující fakturační řádky pro zvýšení licence na 2/12/17:
 
 - $211,20 kredit za období 2/11/17 – 2/10/18.
-- $0,58 sazba za licenci na 1 licenci za období 2/11/17 – 2/11/17.
-- $15,62 sazba za licenci na 2 licence za období 2/12/17 – 3/10/2017.
-- $195,00 sazba za licenci na 2 licence za období 3/11/2017 – 2/10/2018.
+- $0,58 sazba za licenci na jednu licenci pro období 2/11/17 – 2/11/17.
+- $15,62 sazba za licenci na dvě licence za období 2/12/17 – 3/10/2017.
+- $195,00 sazba za licenci na dvě licence za období 3/11/2017 – 2/10/2018.
 
-2/11/17 zakoupíte předplatné. 2/12/17 můžete přidat licenci. Datum fakturace je 2/14/17. V 2/11/18 se vaše předplatné obnovuje.
+Na 2/11/17 si koupíte předplatné. V 2/12/17 můžete přidat licenci. Datum fakturace je 2/14/17. V 2/11/18 se vaše předplatné obnovuje.
 
-Vaše další datum fakturace je 3/14/17 a vygeneruje se soubor pro odsouhlasení & faktury. Soubor pro odsouhlasení bude obsahovat následující fakturační řádky:
+Vaše další datum fakturace je 3/14/17 a vygeneruje se soubor faktury a odsouhlasení. Soubor pro odsouhlasení bude obsahovat následující fakturační řádky:
 
 |Počáteční datum platby  |Koncové datum zpoplatnění  |Typ poplatků  |Cena za jednotku |Množství | Částka |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
@@ -65,15 +67,15 @@ Vaše další datum fakturace je 3/14/17 a vygeneruje se soubor pro odsouhlasen�
 
 V 2/11/18 se předplatné obnovuje na další 12 měsíců.
 
-## <a name="change-license-quantity"></a>Změnit počet licencí
+## <a name="change-license-quantity"></a>Změnit množství licencí
 
-Datum fakturace je 15. den v měsíci. 13. ledna zakoupíte nové předplatné s jednou licencí pro $4 měsíčně a vyberete roční fakturaci. 15. ledna se souborem odsouhlasení na základě licencí bude obsahovat následující fakturační řádek:
+Datum fakturace je 15. den v měsíci. 13. ledna jste si koupili nové předplatné s jednou licencí pro $4 měsíčně a vybrali roční fakturaci. 15. ledna se souborem odsouhlasení na základě licencí bude obsahovat následující fakturační řádek:
 
 |Počáteční datum platby |Koncové datum zpoplatnění |Typ poplatků |Cena za jednotku |Množství |Částka |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Poměrné poplatky při nákupu|48,00|1|48,00
 
-1. února zvýšíte počet licencí z jedné na dvě. Soubor odsouhlasení založený na licencích z února v únoru bude obsahovat následující fakturační řádky:
+1. února zvýšíte počet licencí z jedné na dvě. Soubor odsouhlasení založený na licencích se 15. února bude obsahovat následující fakturační řádky:
 
 |Počáteční datum platby |Koncové datum zpoplatnění |Typ poplatků |Cena za jednotku |Množství |Částka |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -95,13 +97,13 @@ Proto Jednotková cena = 44,98 (346x 0.13 X2)
 
 ## <a name="suspend-before-30-days"></a>Pozastavit před 30 dny
 
-Datum fakturace je 15. den v měsíci. 13. ledna zakoupíte nové předplatné s jednou licencí pro $4 měsíčně a vyberete roční fakturaci. 15. ledna se souborem odsouhlasení na základě licencí bude obsahovat následující fakturační řádek:
+Datum fakturace je 15. den v měsíci. 13. ledna jste si koupili nové předplatné s jednou licencí pro $4 měsíčně a vybrali roční fakturaci. 15. ledna se souborem odsouhlasení na základě licencí bude obsahovat následující fakturační řádek:
 
 |Počáteční datum platby |Koncové datum zpoplatnění |Typ poplatků |Cena za jednotku |Množství |Částka |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Poměrné poplatky při nákupu|48,00|1|48,00
 
-1. února vaše předplatné zastavíte. Soubor odsouhlasení založený na licencích z února v únoru bude obsahovat následující fakturační řádek:
+1. února vaše předplatné zastavíte. Soubor odsouhlasení založený na licencích bude obsahovat následující fakturační řádek:
 
 |Počáteční datum platby |Koncové datum zpoplatnění |Typ poplatků |Cena za jednotku |Množství |Částka |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -109,14 +111,14 @@ Datum fakturace je 15. den v měsíci. 13. ledna zakoupíte nové předplatné s
 
 ## <a name="suspend-after-30-days"></a>Pozastavit po 30 dnech
 
-Datum fakturace je 15. den v měsíci. 13. ledna zakoupíte nové předplatné s jednou licencí pro $4 měsíčně a vyberete roční fakturaci. 15. ledna se souborem odsouhlasení na základě licencí bude obsahovat následující fakturační řádek:
+Datum fakturace je 15. den v měsíci. 13. ledna jste si koupili nové předplatné s jednou licencí pro $4 měsíčně a vybrali roční fakturaci. 15. ledna se souborem odsouhlasení na základě licencí bude obsahovat následující fakturační řádek:
 
 |Počáteční datum platby |Koncové datum zpoplatnění |Typ poplatků |Cena za jednotku |Množství |Částka |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Poměrné poplatky při nákupu|48,00|1|48,00
 
-Soubor odsouhlasení založený na licencích s únorem v únoru nebude obsahovat žádné fakturační řádky pro toto předplatné.
-1. března vaše předplatné zastavíte. Ne15. března soubor odsouhlasení s licencí bude obsahovat následující fakturační řádek:
+Soubor odsouhlasení založený na licencích v únoru + únor nebude obsahovat žádné fakturační řádky pro toto předplatné.
+1. března vaše předplatné zastavíte. 15. března soubor odsouhlasení na základě licence bude obsahovat následující fakturační řádek:
 
 |Počáteční datum platby |Koncové datum zpoplatnění |Typ poplatků |Cena za jednotku |Množství |Částka |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -132,19 +134,19 @@ Proto Jednotková cena = 41,34 (318x 0.13 x1). Vzhledem k tomu, že se jedná o 
 
 ## <a name="suspend-and-reactivate"></a>Pozastavit a znovu aktivovat
 
-Datum fakturace je 15. den v měsíci. 13. ledna zakoupíte nové předplatné s jednou licencí pro $4 měsíčně a vyberete roční fakturaci. 15. ledna se souborem odsouhlasení na základě licencí bude obsahovat následující fakturační řádek:
+Datum fakturace je 15. den v měsíci. 13. ledna jste si koupili nové předplatné s jednou licencí pro $4 měsíčně a vybrali roční fakturaci. 15. ledna se souborem odsouhlasení na základě licencí bude obsahovat následující fakturační řádek:
 
 |Počáteční datum platby |Koncové datum zpoplatnění |Typ poplatků |Cena za jednotku |Množství |Částka |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Poměrné poplatky při nákupu|48,00|1|48,00
 
-1. února vaše předplatné zastavíte. Soubor odsouhlasení založený na licencích z února v únoru bude obsahovat následující fakturační řádek:
+1. února vaše předplatné zastavíte. Soubor odsouhlasení založený na licencích bude obsahovat následující fakturační řádek:
 
 |Počáteční datum platby |Koncové datum zpoplatnění |Typ poplatků |Cena za jednotku |Množství |Částka |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Zrušit poplatek|-48,00|1|-48,00
 
-1. března znovu aktivujete své předplatné. Ne15. března soubor odsouhlasení s licencí bude obsahovat následující fakturační řádek:
+1. března znovu aktivujete své předplatné. 15. března soubor odsouhlasení na základě licence bude obsahovat následující fakturační řádek:
 
 |Počáteční datum platby |Koncové datum zpoplatnění |Typ poplatků |Cena za jednotku |Množství |Částka |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |

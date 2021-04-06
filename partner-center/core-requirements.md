@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 645b07fe7ccdc550cba252507962a5a82ae708af
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92527240"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502948"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Základní požadavky na aktivity v programu motivačních programů
-
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
@@ -46,7 +42,7 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 
 | Kategorie | Ověření provedení    |
 | ------ | ----------- |
-| Základní požadavky | Není k dispozici |
+| Základní požadavky | NA |
 | Požadavky na komunikaci | Snímek obrazovky s digitální reklamou<br><br>A<br><br>Adresa URL cílové stránky s informacemi o základních požadavcích specifických pro program |
 | Metriky     | Souhrn výsledků (například sestava po kliknutí) |
 |Oprávněné výdaje    | Umístění médií třetích stran<br><br>Poplatky – agentura: marketing a Creative Services, včetně poplatků za agenturu |
@@ -55,7 +51,7 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 
 | Kategorie | Ověření provedení    |
 | ------ | ----------- |
-| Základní požadavky    | Není k dispozici |
+| Základní požadavky    | NA |
 | Požadavky na komunikaci | 1) kopie finálního komunikačního kusu zobrazujícího základní požadavky specifické pro program<br><br>2) kontrola distribuce může zahrnovat obálku pro expedici postmarked nebo jiné ověření pošty (přímý e-mail), finální e-mail s hlavičkou nebo jinou kontrolu e-mailu (e-mailu) nebo fotografii na telefonním čísle (SMS). |
 | Metriky     | Odhadované oslovení zákazníků (nebo partnerů) |
 |Oprávněné výdaje    | Získání databáze<br><br>Tištěný materiál<br><br>Vyúčtování<br><br>Poplatky – agentura: marketing a Creative Services, včetně poplatků za agenturu |
@@ -64,7 +60,7 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 
 | Kategorie | Ověření provedení    |
 | ------ | ----------- |
-| Základní požadavky    | Není k dispozici |
+| Základní požadavky    | NA |
 | Požadavky na komunikaci | Adresa URL a snímky obrazovky pro stránky webu zobrazující adresu URL<br><br>Prohlášení o pracovní nebo servisní smlouvě pro projekt SEO (jenom aktivita SEO) |
 | Metriky     | Souhrn výsledků (například sestava po kliknutí) |
 |Oprávněné výdaje    | Poplatky – agentura: marketingové služby, včetně poplatků za agenturu<br><br>Programování a vývoj: poplatky za programování a vývoj<br><br>Poplatek – SEO: poplatky za optimalizaci a údržbu  |
@@ -73,7 +69,7 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 
 | Kategorie | Ověření provedení    |
 | ------ | ----------- |
-| Základní požadavky    | Není k dispozici |
+| Základní požadavky    | NA |
 | Požadavky na komunikaci | Adresa URL a snímky obrazovky stránek webu zobrazující adresu URL |
 | Metriky     | Souhrn výsledků (například sestava po kliknutí) |
 |Oprávněné výdaje    | Skutečné náklady až do USD18, 750 za období použití pro: poplatky – marketingové služby pro úřady, včetně poplatků za agenturu<br><br>Poplatky za programování a vývoj<br><br>Umístění médií  |
@@ -82,9 +78,9 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 
 | Kategorie | Ověření provedení    |
 | ------ | ----------- |
-| Základní požadavky    |Není k dispozici |
+| Základní požadavky    |NA |
 | Požadavky na komunikaci | Veškerá kontrola spuštění, jak je popsáno na stránce příslušná aktivita, je povinná.<br><br>Digitální inzerce<br><br>Přímý E-mail<br><br>Web partnerského serveru a optimalizace vyhledávače<br><br>Telemarketing  |
-| Metriky     | Není k dispozici |
+| Metriky     | NA |
 |Oprávněné výdaje    | Umístění médií třetích stran<br><br>Poplatky – agentura: marketing a Creative Services, včetně poplatků za agenturu<br><br>Získání databáze<br><br>Programování a vývoj: poplatky za programování a vývoj<br><br>Poplatek – SEO: poplatky za optimalizaci a údržbu<br><br>Poplatek – poplatky za volání na základě třetích stran |
 
 ## <a name="market-development"></a>Vývoj na trhu
@@ -140,7 +136,7 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 | ------ | ----------- |
 | Základní požadavky    | Služby zaměřené na 100% v produktech Microsoftu | 
 | Požadavky na komunikaci | Ukázka dodávek (na základě toho, co je popsáno ve formuláři Champ na webu) |
-| Metriky     | Není k dispozici |
+| Metriky     | NA |
 |Oprávněné výdaje    | Skutečné náklady až do 100% pro Surface a 50% pro všechny ostatní programy získaných souběžných prostředků na období použití pro: poplatky – služby: služby poskytované na základě prostředků Champ na pracovišti |
 
 ### <a name="proof-of-concept"></a>Testování konceptu
@@ -156,10 +152,10 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 
 | Kategorie | Ověření provedení    |
 | ------ | ----------- |
-| Základní požadavky    | Není k dispozici |
+| Základní požadavky    | NA |
 | Požadavky na komunikaci | Cílová stránka URL nebo snímek obrazovky stránek webu. Není vhodné pro přidání povrchu |
 | Metriky     | Poplatky – agentura: marketingové služby, včetně poplatků za agenturu<br><br>Programování a vývoj: poplatky za programování a vývoj<br><br>Poplatky za službu: Work Services poskytovaná partnerem nebo dodavatelem třetí strany v rámci podpory nastavení webu |
-|Oprávněné výdaje    | Není k dispozici |
+|Oprávněné výdaje    | NA |
 
 ## <a name="partner-readiness"></a>Připravenost partnerů
 
@@ -168,8 +164,8 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 | Kategorie | Ověření provedení    |
 | ------ | ----------- |
 | Základní požadavky    | Původní faktura Microsoftu |
-| Požadavky na komunikaci | Není k dispozici |
-| Metriky     | Není k dispozici |
+| Požadavky na komunikaci | NA |
+| Metriky     | NA |
 |Oprávněné výdaje    | Poplatek – roční zápis: poplatky za roční registraci MPN<br><br>Štítek a disk DVD (první sada): člen MPN a první sada DVD<br><br>Sada nástrojů pro další výhody |
 
 ### <a name="microsoft-exams-and-tuition"></a>Zkoušky a tuition Microsoftu
@@ -196,7 +192,7 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 | ------ | ----------- |
 | Základní požadavky    | Konference hostované Microsoftem. Náklady na letenky/Hotel jsou omezené až do 5 000 USD na osobu na konferenci, omezené na 3 účastníky, s celkovým limitem USD 45 000 pro letenky/vlakové výdaje za Hotel za období na program. Hostování může mít jiné příspěvky. |
 | Požadavky na komunikaci | Kopie pozvánky na konferenci nebo pozvání k události nebo potvrzení registrace s informacemi o tom, že konference je hostována společností Microsoft<br><br>Cestovní trasa s daty o cestování (jenom cestovní výdaje letenky) |
-| Metriky     | Není k dispozici |
+| Metriky     | NA |
 |Oprávněné výdaje    | Registrace poplatků: po dobu až 3 účastníků na konferenci<br><br>Cestovné – letenky/Hotel: přeprava (letenky nebo vlak cestovné a příslušné daně) a Hotel (jenom sazby za místnost a příslušné daně)<br><br>Poznámka: cestovní náklady na letenky/Hotel jsou omezené až do 5 000 USD na osobu na konferenci a omezená na 3 účastníky s celkovým limitem USD 45 000 pro letenky/vlakové výdaje za Hotel za období na program. Hostování může mít jiné příspěvky. |
 
 ### <a name="product-seedingdemo-units"></a>Počáteční a demonstrační jednotky produktu
@@ -205,11 +201,11 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 | ------ | ----------- |
 | Základní požadavky    | Můžete uplatnit až 10% celkových kumulovaných prostředků souběžného zpracování nebo 3 000 USD, podle toho, co je více nebo za každé období. Partneři Surface PC & hub nemají limit deklarací identity. |
 | Požadavky na komunikaci | Specifikace systémů pro demonstrační jednotky vestavěné interně.<br><br>Důkaz doručení pro demonstrační jednotku třetí strany.<br><br>Kontrola demonstrační jednotky třetích stran. |
-| Metriky     | Není k dispozici |
-|Oprávněné výdaje    | Není k dispozici |
+| Metriky     | NA |
+|Oprávněné výdaje    | NA |
 
  Pokud si chcete zobrazit podrobnosti, Stáhněte si [Guidebooka partner – pobídka pro spolupráci](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (vyžaduje se přihlášení).
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Správa souběžných deklarací identity](incentives-managing-co-op-claims.md)
+- [Správa žádostí o spolupráci](incentives-managing-co-op-claims.md)
