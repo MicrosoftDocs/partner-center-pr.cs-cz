@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527296"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441995"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Jak postupovat, pokud jediný správce programu MPN opustil společnost?
 
-**Platí pro**
+**Příslušné role**
 
-- Partnerské centrum
+- Správce partnera MPN
+- Správce účtu
+- Globální správce
 
 Následující článek vás provede třemi typickými scénáři týkajícími se toho, co dělat, když váš správce programu MPN opustil společnost.
 
@@ -28,7 +30,7 @@ Následující článek vás provede třemi typickými scénáři týkajícími 
 
 V takovém případě může být jiná osoba ve společnosti přiřazena role správce partnerů MPN. Má být přiřazená role konkrétní role správce účtu MPN partner/správce účtu:
 
-1. Přihlaste se k účtu partnerského centra pomocí svého pracovního účtu (například tom@contoso.com ).
+1. Přihlaste se k účtu partnerského centra pomocí pracovního účtu (například tom@contoso.com ).
 1. Z filtru stránky **správy uživatelů** u globálního správce Zjistěte, kdo jsou globální správci vaší společnosti. 
 1. Obraťte se na jednoho z globálních správců a požádejte ho, aby vám přiřadil určitou roli MPN, kterou potřebujete. 
 

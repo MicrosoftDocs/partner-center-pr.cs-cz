@@ -1,6 +1,6 @@
 ---
 title: Správa uživatelů a licencí
-titleSuffix: Microsoft Government Cloud - Partner Center
+titleSuffix: Microsoft Cloud for US Government - Partner Center
 description: Naučte se, jak a kde spravovat partnerské Centrum pro Microsoft Cloud pro státní partnery, zákazníky a licence USA, jakož i resetování hesel.
 ms.topic: article
 ms.date: 03/15/2019
@@ -10,18 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0fce25dc07f5cd07138cde2619cdf0989cd17251
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9eb0a1f221f9dd7e938fb43334543801c94c3181
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086562"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441451"
 ---
-# <a name="user-and-license-management-in-partner-center-for-government-microsoft-cloud"></a>Správa uživatelů a licencí v partnerském centru pro státní správu Microsoft Cloud
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Správa uživatelů a licencí v partnerském centru pro Microsoft Cloud pro státní správu USA
 
 **Platí pro**
 
-- Partnerské centrum pro oficiální Cloud Microsoftu
+- Partnerské centrum pro Microsoft Cloud for US Government
 
 **Příslušné role**
 
@@ -29,9 +29,9 @@ ms.locfileid: "106086562"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Jak spravovat uživatele v Azure Portal pro Microsoft Cloud pro státní správu USA
 
-Pokud jste přihlášeni k partnerskému centru pro státní správu USA Microsoft Cloud, můžete Azure Portal otevřít pro státní správu Microsoft pro státní správu, aniž byste se museli znovu přihlašovat. Pokud se ale potřebujete přihlásit přímo k Azure Portal pro oficiální Cloud Microsoft, přečtěte si ( https://portal.azure.us/) a přihlaste se pomocí přihlašovacích údajů globálního správce pro tenanta Azure AD pro oficiální Cloud Microsoftu.
+Pokud jste přihlášeni k partnerskému centru pro státní správu USA Microsoft Cloud, můžete Azure Portal pro státní správu USA otevřít Microsoft Cloud, aniž byste se museli znovu přihlašovat. Pokud se ale potřebujete přihlašovat přímo k Azure Portal Microsoft Cloud pro státní správu USA, přečtěte si ( https://portal.azure.us/) a přihlaste se pomocí přihlašovacích údajů globálního správce pro vašeho tenanta Azure AD pro státní správu usa Microsoft Cloud.
 
-Po úspěšném přihlášení do Azure Portal pro cloudovou službu Microsoft pro státní správu otevřete stránku Přehled služby Azure Active Directory (Azure AD) a pak postupujte podle pokynů v těchto tématech:
+Po úspěšném přihlášení k Azure Portal pro Microsoft Cloud pro státní správu USA otevřete stránku Přehled služby Azure Active Directory (Azure AD) a postupujte podle pokynů v těchto článcích:
 
 > [!NOTE]  
 > Výběrem následujících odkazů přejdete na jiný web. 
@@ -42,8 +42,8 @@ Po úspěšném přihlášení do Azure Portal pro cloudovou službu Microsoft p
 
 -  [**Resetování hesla uživatele v Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**Příbuzná témata**
+## <a name="next-steps"></a>Další kroky
 
--  [**Partnerské centrum pro oficiální Cloud Microsoftu**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Partnerské centrum pro Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**Registrace do programu Cloud Solution Provider pro oficiální Cloud Microsoftu**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**Registrace do programu Cloud Solution Provider pro Microsoft Cloud pro státní správu USA**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

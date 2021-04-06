@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "92527238"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441485"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Regionální daně, předpisy pro služby PTSN (Public Switched Telephone Network)
 
-**Platí pro**
-
-- Partnerské centrum
-- Partneři Office 365 s podporou Microsoft 365ch hlasových produktů
-
 **Příslušné role**
--    Globální správce
--    Správce uživatelů
--    Agent správce
+
+- Globální správce
+- Správce uživatelů
+- Agent správce
 
 Služby veřejné komutované telefonní sítě (PSTN) v některých jurisdikcích mohou podléhat zvláštním daňovým a zákonným požadavkům, které mohou ovlivnit pořadí a fakturace partnerských serverů. V USA, včetně Portoriko, služeb PSTN, které zahrnují zvukové konference, volání plánů a komunikační kredity, se vztahují speciální daňové a zákonné požadavky. V USA a Portoriko jsou služby Microsoft cenami PSTN jako daně včetně.  Jedinečné daně a předpisy v PSTN budou mít vliv na partnery Office 365, kteří se Microsoft 365 hlasové produkty.  Pokud partner uvede cenu služby PSTN společnosti Microsoft, může být zodpovědná za výpočet a přesměrování daní a poplatků v síti PSTN.
 
@@ -34,7 +30,7 @@ Zapojte se do svého daňového a právního poradce a pochopte zodpovědnost va
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Prezentace faktury a soubor pro odsouhlasení s partnerským serverem
 
-Soubory faktury CSP a odsouhlasení CSP v USA, Portoriko a Kanadě, které zahrnují službu Skype pro firmy a Microsoft 365 hlasové služby, poskytují samostatné položky řádku pro součásti veřejné sítě a jiné než PSTN.
+Soubory faktur CSP a odsouhlasení CSP v USA, Portoriko a Kanadě, které zahrnují službu Skype pro firmy pro veřejné telefonní hovory a Microsoft 365 hlasové služby, budou poskytovat samostatné položky řádku pro součásti veřejné sítě a jiné než veřejné telefonní služby.
 
 Ve fakturách CSP se navíc zobrazí následující poznámka pod čarou:
 
@@ -48,13 +44,13 @@ Office 365 Enterprise E5 prezentuje soubor pro odsouhlasení jako dvě řádkov�
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Poplatek za cyklus   |28,40   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Poplatek za cyklus   |28.40   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Poplatek za cyklus   |2,00   |
 
 **Příklad odsouhlasení partnerů #2**
 
 Microsoft 365 Business hlas dostupný v Kanadě má další komponenty zdanitelné na veřejné síti, které jsou konsolidovány na faktuře CSP (podobně jako u Office 365 E5, jsou uvedeny dvě řádkové položky, jeden pro součásti PSTN a druhý pro jiné součásti než PSTN).  Soubor pro odsouhlasení CSP pro Microsoft 365 Business hlas zobrazí všechny komponenty s zdanitelným odkazem na síť PSTN jednotlivě (jednotlivé komponenty veřejné sítě PSTN nebudou konsolidovány. Soubor CSV nebo nástroj rozhraní API).  Souhrn podrobností objednávky a fakturované částky pro zákazníky nalezené v souboru pro odsouhlasení budou odpovídat faktuře CSP.
 
-## <a name="additional-resources"></a>Další zdroje
+## <a name="additional-resources"></a>Další materiály
 Další podrobnosti najdete na webu [Microsoft 365 pro partnery](https://www.microsoft.com/microsoft-365/partners/) .
 

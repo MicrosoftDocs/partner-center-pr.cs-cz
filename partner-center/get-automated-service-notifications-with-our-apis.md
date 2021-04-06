@@ -9,23 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7bb97c696c4694c9052403444eec0e27f65d325c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bdcc9feb9f6f022642ece217aa1ba17e24bd20da
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527366"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441434"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Použití rozhraní API pro automatizovaná oznámení služby pro Azure Insights & komunikace se službou Office 365
-
-**Platí pro**
-
--  Partnerské centrum
 
 **Příslušné role**
 
 - Agent správce
-- Globální 
+- Globální správce
 - Agent prodeje
 - Agent helpdesku
 
@@ -33,11 +29,9 @@ Sady Office 365 a Microsoft Azure poskytují rozhraní API, které mohou partne�
 
 Tato rozhraní API jsou k dispozici pro vaše vývojáře:
 
-[Rozhraní API pro komunikaci se službou Office 365](/office/office-365-management-api/office-365-service-communications-api-reference)
+- [Rozhraní API pro komunikaci se službou Office 365](/office/office-365-management-api/office-365-service-communications-api-reference)
+- [Referenční informace k rozhraní REST API](/rest/api/monitor/) pro Azure Insights
 
+ 
 
-[Referenční informace k rozhraní REST API](/rest/api/monitor/) pro Azure Insights
-
- 
-
- 
+ 

@@ -1,7 +1,7 @@
 ---
 title: Správa umístění v partnerském účtu
 ms.topic: how-to
-ms.date: 02/08/2021
+ms.date: 04/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se, jak přidat nové umístění a jak se v programu motivačních programů, v obchodních předplatných, předplatných a dalších transakcích používá umístění MPN ID.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005903"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441319"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Správa umístění účtu MPN a přidání (odstranění) umístění
 
@@ -26,9 +26,9 @@ ms.locfileid: "100005903"
 
 ID MPN umístění identifikuje každé konkrétní umístění vaší společnosti. K registraci v programu motivačních programů použijete umístění MPN ID, a to za transakčního poskytovatele řešení cloudu (CSP) a další obchodní transakce. Globální ID MPN se používá pro netransakční aktivity, například žádosti o podporu.
 
-## <a name="the-following-is-a-typical-scenario"></a>Následuje typický scénář:
+## <a name="the-following-scenario-is-typical"></a>Typický je následující scénář:
 
-Společnost Contoso má svůj partnerský globální účet (PGA) ve Spojeném království. Jedná se o své registrované právní firmy a globální ID MPN se používá ke správě všech netransakčních obchodních činností. Společnost Contoso má také partnerské účty partnera (PLA) rovnocenné dceřiným společnostem nebo divizím v jiném umístění v USA, Francii a USA. Ve struktuře účtu MPN se tyto PLAs reprezentují jako jedinečná ID MPN. PLAs se používají pro transakční firmy, jako je CSP nebo pobídky programů. Výběry jsou vázané na konkrétní umístění. 
+Společnost Contoso má svůj partnerský globální účet (PGA) ve Spojeném království. PGA je jejich registrovaný právní podnik a globální ID MPN se používá ke správě všech netransakčních obchodních činností. Společnost Contoso má také partnerské účty partnera (PLA) rovnocenné dceřiným společnostem nebo divizím v jiném umístění v USA, Francii a USA. Ve struktuře účtu MPN se tyto PLAs reprezentují jako jedinečná ID MPN. PLAs se používají pro transakční firmy, jako je CSP nebo pobídky programů. Výběry jsou vázané na konkrétní umístění. 
 
 >[!NOTE]
 >Mezi klientem CSP a ID umístění MPN je 1-1 vztah.
@@ -56,13 +56,32 @@ Pokud chcete přidat nový obchodní účet CSP, začněte tím, že ověříte,
  
 1. V ikoně **Nastavení** vyberte **Nastavení účtu**, **Profil organizace**, **právní**. 
 
-1. Na kartě **partner** ověřte, že není k dispozici zpráva banneru s výzvou k opravě umístění migrace z PMC. Pokud je, postupujte podle pokynů a opravte tato umístění. 
+1. Na kartě **partner** ověřte, že se nezobrazí chybová zpráva banneru s výzvou k opravě umístění migrace z PMC.  Pokud vaše umístění nebyla správně nastavena v PMC a zatím nebyla převedena do počítačů PC, je nutné aktualizovat Tato umístění.
 
-3. Pokud není k dispozici žádná chybová zpráva, pak z  **Nastavení** vyberte  **Nastavení účtu**, **Profil organizace**, **identifikátory**.
+:::image type="content" source="images/locations/location-two.png" alt-text="Snímek obrazovky videa ukazuje, jak aktualizovat polohu.":::
+ 
+4.  Na obrazovce **zkontrolovat umístění PMC** vyberte **aktualizovat**.
+Aktualizujte následující pole:
 
-4. Vyhledejte ID MPN s typem "umístění", které odpovídá zemi tohoto účtu CSP, a použijte ji k vyhledávání níže a dokončení přidružení.
+- **Pole Name (název**): Ujistěte se, že název umístění společnosti je správný. Pokud se zobrazí duplicitní Chyba, zkuste se změnit z, například contoso na contoso, Inc.
 
-5. Pokud nemůžete najít umístění MPN ID, které odpovídá účtu CSP, který chcete použít, můžete přidat nové umístění, ve kterém se vytvoří nové ID MPN. Viz téma **Přidání umístění MPN** níže.
+- **Pole právnické osoby**: Ujistěte se, že jste zvolili právnickou entitu, se kterou je umístění svázáno.
+
+- **Řádková adresa 1 & 2 pole**: Ujistěte se, že je adresa správná.
+
+- **Města & země/provincie**: Ujistěte se, že je kombinace mezi městem a okresem správná. K dispozici jsou země, kde se použije rozevírací nabídka pro výběr státu nebo provincie, a v ostatních zemích bude nutné ručně vložit pole.
+
+- **PSČ – pole** poštovního směrovacího čísla: Ujistěte se, že pole PSČ odpovídá vaší zadané zemi, oblasti, města nebo adrese.
+
+- **Pole primárních kontaktních informací**: Ujistěte se, že pole jméno a příjmení jsou vyplněna a že e-mailová adresa je pracovní e-mailová adresa, nikoli osobní (například,, @outlook.com @live.com atd.).
+
+- **Pole telefonní číslo**: Ujistěte se, že telefonní číslo neobsahuje speciální znaky, mezery ani kód země. Hodnota zadaná v poli telefonní číslo bude vždycky obsahovat maximálně 10 znaků.
+
+5. Pokud není k dispozici žádná chybová zpráva, pak z  **Nastavení** vyberte  **Nastavení účtu**, **Profil organizace**, **identifikátory**.
+
+6. Vyhledejte ID MPN s typem "umístění", které odpovídá zemi tohoto účtu CSP, a použijte ji k dokončení přidružení.
+
+7. Pokud nemůžete najít umístění MPN ID, které odpovídá účtu CSP, který chcete použít, můžete přidat nové umístění, ve kterém se vytvoří nové ID MPN. Viz téma **Přidání umístění MPN** níže.
 
 ## <a name="add-an-mpn-location"></a>Přidat umístění MPN
 
@@ -81,9 +100,10 @@ Pokud chcete přidat nový obchodní účet CSP, začněte tím, že ověříte,
 > [!NOTE]
 > Jakmile je umístění přidané v partnerském centru, nemůžete ho odebrat. Pokud jste pro přihlášení použili správné ID **MPN, zobrazí se v levé** nabídce centra pro partnery v nabídce vlevo.
 
+
 ## <a name="delete-a-location"></a>Odstranit umístění
 
-Pokud chcete odstranit umístění z vašeho účtu, budete muset kontaktovat [podporu partnerů](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Ujistěte se, že rozumíte dopadu, který tato akce má. Odstraněná umístění nelze načíst a veškerá vázaná ID MPN již nebudou rozpoznána nebo bude pro vaši společnost aktivní.
+Pokud chcete odstranit umístění z vašeho účtu, budete se muset obrátit na [podporu partnerů](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Ujistěte se, že rozumíte dopadu, který tato akce má. Odstraněná umístění nelze načíst a veškerá vázaná ID MPN již nebudou rozpoznána nebo bude pro vaši společnost aktivní.
 
 ## <a name="change-country-of-partner-global-account"></a>Změnit zemi globálního účtu partnera 
 

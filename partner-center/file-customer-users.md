@@ -9,18 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07a28e5310716f3df11caa36e51339e877e65627
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92527107"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441417"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Přidání více uživatelů na účet zákazníka vytvořením souboru. csv
-
-**Platí pro**
-
-- Partnerské centrum
 
 **Příslušné role**
 
@@ -44,7 +40,7 @@ V datovém souboru zadejte následující data:
 |:-------- |:------  |:----- |
 | Jméno  | Křestní jméno uživatele (volitelné pole)  | 50 – limit znaků  |
 | Příjmení  | Poslední jméno uživatele (volitelné pole)  | 50 – limit znaků  |
-| Zobrazovaný název    | Název zobrazený v partnerském centru (povinné pole)                            | 50 – limit znaků                         |
+| Zobrazované jméno    | Název zobrazený v partnerském centru (povinné pole)                            | 50 – limit znaků                         |
 | E-mail   | Obchodní e-mailová adresa uživatele na zákaznické firmě (povinné pole)           | Každý uživatel musí mít jedinečnou e-mailovou adresu. |
 | Aktualizace stavu   | Slouží k označení, zda byl záznam nového uživatele úspěšně vytvořen. | \*\*Ponechat prázdné\*\*                        |
 

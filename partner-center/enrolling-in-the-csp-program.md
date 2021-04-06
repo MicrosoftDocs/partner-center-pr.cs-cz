@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712269"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441808"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrace do programu Cloud Solution Provider
-
-**Platí pro**
-
-- Partnerské centrum  
 
 **Příslušné role**
 
@@ -73,7 +69,7 @@ Jako partner s přímým přístupem jste vlastníkem ucelený vztah se zákazn�
 |**ID MPN**   |Aktivní členství v Microsoft Partner Network a MPN ID pro umístění, ve kterém chcete prodávat.    |
 |**Doporučení**   |Autorita přijmout a podepsat právní smlouvy jménem vaší organizace.|
 |**Podpora**   |Možnost poskytnout zákazníkům první úroveň podpory cloudových produktů. <br>Plán podpory společnosti Microsoft, ať už pokročilá podpora pro partnery (ASfP) nebo Premier Support pro partnery (smlouvou psfp můžou), podle vašich potřeb. [Porovnejte plány podpory](https://partner.microsoft.com/support/partnersupport).<br> Důležité: než si koupíte plán podpory, musíte před nákupem plánu předat kontrolu kreditu. Po úspěšné kontrole kreditu vás pošleme e-mailem. |
-|**Požadavek na výnosy**|Musí splňovat minimálně USD300K v programu Cloud Solution Provider roční tržby během posledních dvanácti měsíců jako nepřímý prodejce. Partneři si můžou prohlédnout na konci dvanácti měsíců výnosů na partnerském centru.<br/>Tržby, které tvoří USD300K na 12 měsíců, podléhají kontrole a ověřování od Microsoftu a můžete být vyzváni k zadání dalších informací. Požadavek na příjmy USD300K se vypočítá na základě výnosů z cloudu a vyloučí trvalé software v CSP.|
+|**Požadavek na výnosy**|Musí splňovat minimálně USD300K v programu Cloud Solution Provider roční tržby během posledních 12 měsíců jako nepřímý prodejce. Partneři si můžou prohlédnout na konci 12 měsíců příjmů na partnerském centru.<br/>Tržby, které tvoří USD300K na 12 měsíců, podléhají kontrole a ověřování od Microsoftu a můžete být vyzváni k zadání dalších informací. Požadavek na příjmy USD300K se vypočítá na základě výnosů z cloudu a vyloučí trvalé software v CSP.|
 |**Účty – pohledávky** |Podniková infrastruktura, která umožňuje správu fakturace a zřizování zákazníků.|
 |**Doporučení**|             |
 |**Spravovaná služba**   |Alespoň jedna spravovaná služba, služba IP nebo aplikace pro řešení zákazníků. Přečtěte si další informace o přidávání [spravovaných služeb](https://partner.microsoft.com/business-opportunities/managed-services-provider).|

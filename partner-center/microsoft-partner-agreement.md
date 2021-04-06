@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880799"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441264"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Další informace o smlouvě Microsoft Partner Agreement (MPA) pro partnery programu CSP
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880799"
 
 Partnerská smlouva Microsoftu poskytuje partnerům Microsoftu jednotnou, digitálně přijatou partnerskou smlouvu. Partnerská smlouva Microsoftu obsahuje základní sadu trvalo používaných podmínek, které pomáhají Microsoftu, partnerům a zákazníkům podporovat ochranu osobních údajů a zabezpečení dat, povzbuzovat dodržování předpisů a podporovat postupy, které se týkají zdravého podnikání.
 
-Všichni partneři programu Cloud Solution Provider (včetně nepřímých zprostředkovatelů, nepřímých prodejců a přímých partnerů) můžou v partnerském centru podepsat aktivaci online. Poskytovatelé přímých faktur a nepřímých poskytovatelů, kteří pracují v cloudu pro státní správu, můžou také v rámci partnerského centra podepsat aktivaci.
+Všichni partneři programu Cloud Solution Provider (včetně nepřímých zprostředkovatelů, nepřímých prodejců a přímých partnerů) můžou v partnerském centru podepsat aktivaci online. Přímé vyúčtování a partneři nepřímých poskytovatelů, kteří provozují Microsoft Cloud pro státní správu USA, můžou také v rámci partnerského centra podepsat aktivaci.
 
 Abyste se mohli i nadále zúčastnit programu CSP, musíte si před 31. ledna 2020 podepsat smlouvu o partnerovi Microsoftu. Partnerské centrum vám připomene, že teď můžete jednoduše podepsat smlouvu v rámci partnerského centra.
 
@@ -41,7 +41,7 @@ Abyste se mohli i nadále zúčastnit programu CSP, musíte si před 31. ledna 2
  
 1. V **Nastavení** vyberte [partnerský profil](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
 
-1. Podívejte se na část **informace o programu** . Pokud je stav programu MPN **aktivní** , pak jste aktivní partner MPN v partnerském centru.
+1. Podívejte se na část **informace o programu** . Pokud je stav programu MPN **aktivní**, pak jste aktivním partnerem MPN v partnerském centru.
  
 1. Pokud je stav programu MPN **zamítnuto/zamítnuto** nebo **čeká na vyřízení**, ověření účtu se nezdařilo. Přečtěte si [proces ověření](verification-responses.md) a zjistěte, jak vyřešit problém s ověřením.
 
@@ -60,11 +60,11 @@ Abyste se mohli i nadále zúčastnit programu CSP, musíte si před 31. ledna 2
 
 1. Podívejte se na část **informace o programu** . Pokud vaše informace nezobrazuje **nepřímý stav prodejce** , musíte se [zaregistrovat jako nepřímý prodejce](indirect-reseller-tasks-in-partner-center.md).
 
-1. Pokud je stav  **nepřímý prodejce** **aktivní** , pak jste v partnerském centru aktivní nepřímý prodejce.
+1. Pokud je stav  **nepřímý prodejce** **aktivní**, pak jste v partnerském centru aktivní nepřímý prodejce.
  
 4. Pokud je stav  **nepřímého prodejce** **kvalifikovaný**, pak v části [**Přehled řídicího panelu**](https://partner.microsoft.com/pcv/dashboard/overview) přijměte aktivaci svého účtu.
  
-1. Pokud je stav nepřímý prodejce **odmítnut** nebo **odmítnut** , ověření účtu se nezdařilo. Přečtěte si [proces ověření](verification-responses.md) a zjistěte, jak vyřešit problém s ověřením.
+1. Pokud je stav nepřímého prodejce **zamítnutý** nebo **odmítnutý**, ověření účtu se nezdařilo. Přečtěte si [proces ověření](verification-responses.md) a zjistěte, jak vyřešit problém s ověřením.
 
 1. Pokud jste už dříve přesunuli do partnerského centra jako nepřímý prodejce, přijměte na řídicím panelu partnerského centra na stránce Přehled pomocí přihlašovacích údajů globálního správce smlouvu s partnerem Microsoftu. Můžete potvrdit, jestli už je Partnerská smlouva Microsoftu podepsaná z **informací o programu** [partnerského profilu](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) nebo oznámení na stránce Přehled CSP.
 
@@ -75,7 +75,7 @@ Nezapomeňte přijmout žádost o vztah CSP k vašemu nepřímému poskytovateli
 1. Přihlaste se k partnerskému centru pomocí účtu nepřímých prodejců CSP. Musíte být globálním správcem.
 1. Přejít na stránku **[Přehled CSP](https://partner.microsoft.com/pcv/dashboard/overview)** .  Pokud se vám nezobrazí možnost **přijmout a pokračovat** nebo zelená banner oznamuje, že technologie aktivace je podepsaná, nemáte správnou roli pro podepsání aktivace. Obraťte se na svého globálního správce, který vám umožní podepsat aktivaci.
 
-1. Pokud chcete před podepsáním zobrazit a stáhnout **smlouvu partnera Microsoftu** , klikněte na odkaz Microsoft Partner Agreement, jak je uvedeno níže.
+1. Pokud chcete před podepsáním zobrazit a stáhnout **smlouvu partnera Microsoftu** , vyberte odkaz Microsoft Partner Agreement, jak je uvedeno níže.
 
 :::image type="content" source="images/agreement-three.png" alt-text="Nové umístění smlouvy o aktivaci":::
 
