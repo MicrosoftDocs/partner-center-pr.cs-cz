@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474134"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557745"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Poradci: Vytvoření nabídky nákupu
 
  
 **Příslušné role**
 
-- Poradci
+- Advisor
 
 
 > [!NOTE]
@@ -48,7 +48,7 @@ Pokud váš klient potřebuje jiný počet licencí, odešle jim novou nabídku 
     - **Počet licencí**: po výběru předplatného zadejte počet licencí, které chcete zahrnout do nabídky koupit.
     - **Delegovaná Správa**: Tato možnost je k dispozici pouze partnerům, kteří jsou certifikováni k poskytování delegované správy. Tuto možnost vyberte, pokud chcete nabízet delegovanou správu klienta. Pokud tak učiníte, může klient přijmout nabídku nákupu s nebo bez přijetí delegované správy.
 
-3. Klikněte na **Next** (Další).
+3. Vyberte **Další**.
 
 4. Na stránce **Odeslat** zkopírujte informace nabídky nákupu a adresu URL a pak ji vložte do e-mailu, dokumentu nebo webové stránky, abyste vytvořili přizpůsobenou nabídku nákupu.
 

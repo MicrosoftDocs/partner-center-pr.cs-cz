@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474168"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557728"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Poradci: sestavení vaší klientské základny pomocí zkušebních pozvánek Office 365 a nabídek nákupů
 
 
 **Příslušné role**
 
-- Poradci
+- Advisor
 
 
 **Partnerské centrum** vám jako autorizovaného Microsoft Advisor nabízí možnost rozšířit vaši základnu klientů a vytvořit trvalé vztahy s vašimi klienty. S partnerským centrem můžete odesílat zkušební pozvánky klientů a nabídky nákupu a nabízet jim delegované služby správy, a to v závislosti na službách, které máte oprávnění poskytovat.
@@ -45,7 +45,7 @@ Další informace o zkušebních pozvánkách najdete v tématu [Vytvoření zku
 > [!NOTE]
 > Tato funkce je k dispozici pouze partnerům společnosti Microsoft, kteří mají autorizované Poradce pro odběr.
 
-Po odeslání pozvánky ke zkušební verzi vašim zákazníkům Sledujte nabídku nákupu. Nabídku můžete přizpůsobit tak, aby zahrnovala konkrétní služby, které vaši zákazníci potřebují, a také správný počet uživatelských licencí. Pokud máte certifikaci a chcete nabízet delegovanou správu, můžete do nabídky nákup přidat možnost, která vám umožní spravovat předplatné jménem svého zákazníka.
+Po odeslání pozvánky ke zkušební verzi vašim zákazníkům Sledujte nabídku nákupu. Nabídku můžete přizpůsobit tak, aby zahrnovala konkrétní služby, které vaši zákazníci potřebují, a správný počet uživatelských licencí. Pokud máte certifikaci a chcete nabízet delegovanou správu, můžete do nabídky nákup přidat možnost, která vám umožní spravovat předplatné jménem svého zákazníka.
 
 Když vytvoříte nabídku nákup, vytvoří se pro vás vlastní adresa URL. Adresa URL obsahuje vložený kód, který vás identifikuje jako poradce pro předplatné. Tuto adresu URL můžete použít pro jednoho zákazníka nebo mnoho zákazníků. Odešlete adresu URL zákazníkovi v e-mailu nebo ji pošlete na svůj web.
 

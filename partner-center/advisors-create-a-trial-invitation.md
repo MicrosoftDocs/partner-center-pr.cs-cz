@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474151"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557711"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Poradci: vytvoření a odeslání pozvánky k vyzkoušení klientů k vyzkoušení Office 365
 
 
 **Příslušné role**
 
-- Poradci
+- Advisor
 
 > [!NOTE]
 > Tato funkce je k dispozici pouze partnerům společnosti Microsoft, kteří mají autorizované Poradce pro odběr.
@@ -44,7 +44,7 @@ Pokud máte certifikaci a chcete nabízet delegovanou správu, můžete na pozv�
     - **Zkušební verze předplatného**: seznam předplatných, která si můžete vybrat, je určený umístěním využití v zemi nebo oblasti klienta.
     - **Delegovaná Správa**: Tato možnost je k dispozici pouze partnerům, kteří jsou certifikováni k poskytování delegované správy. Tuto možnost vyberte, pokud chcete nabízet delegovanou správu klienta. Pokud tak učiníte, může klient přijmout pozvánku k vyzkoušení nebo bez přijetí delegované správy. Další informace o delegované správě najdete v tématu [Nabídka delegovaná Správa](customers-revoke-admin-privileges.md).
 
-3. Klikněte na **Next** (Další).
+3. Vyberte **Další**.
 
 4. Na stránce **vaše Pozvánka zkušební verze** zkopírujte informace a adresu URL pozvánky a vložte ji do e-mailu, dokumentu nebo webové stránky, abyste vytvořili přizpůsobenou zkušební pozvánku.
 
