@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215811"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964353"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Seznamte se s fakturací a souborem pro odsouhlasení – Zjistěte, jak je najít v partnerském centru.
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215811"
 
 
 Vaše **Faktura** je **souhrnem všech poplatků za partnerské Centrum** (v rámci programu, všech produktů a všech zákazníků). 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>Vyhledat soubor fakturace a odsouhlasení 
+
+Fakturu můžete najít na stránce fakturace řídicího panelu v partnerském centru. Na této stránce můžete také najít historii fakturace, trendy útraty a soubory pro odsouhlasení. 
+
+1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard/home)partnerského centra. 
+
+2. V nabídce na levé straně vyberte **fakturace**. 
+
+3. Na stránce stavu fakturace vyberte fakturu nebo soubor vyúčtování, o kterých chcete zobrazit podrobnější informace. 
+
+Odkaz na svou nejnovější fakturu najdete v horní části stránky v části zůstatek účtu k datu poslední faktury. 
+
+Předchozí faktury najdete v části Historie fakturace. Zvolte příslušný rok a potom vyberte šipku rozevíracího seznamu vedle příslušného fakturačního období. Pro stažení faktury této tečky vyberte odkaz vedle faktury (. PDF). 
 
 ## <a name="invoice-types"></a>Typy faktur
 
@@ -52,19 +66,6 @@ Třeba
 
 - Partner dostane další fakturační PDF a soubor pro odsouhlasení, který pokrývá své poplatky za 145p nabídku v EUR (nebo fakturační měně partnera). 
 
-## <a name="find-your-bill"></a>Hledání faktury 
-
-Fakturu můžete najít na stránce fakturace řídicího panelu v partnerském centru. Na této stránce můžete také najít historii fakturace, trendy útraty a soubory pro odsouhlasení. 
-
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum. 
-
-2. V nabídce na levé straně vyberte **fakturace**. 
-
-3. Na stránce fakturace vyberte fakturu, kterou chcete stáhnout. 
-
-Odkaz na svou nejnovější fakturu najdete v horní části stránky v části zůstatek účtu k datu poslední faktury. 
-
-Předchozí faktury najdete v části Historie fakturace. Zvolte příslušný rok a potom vyberte šipku rozevíracího seznamu vedle příslušného fakturačního období. Pro stažení faktury této tečky vyberte odkaz vedle faktury (. PDF). 
 
 ## <a name="understanding-invoice-pdf"></a>Porozumění formátu PDF faktury 
 

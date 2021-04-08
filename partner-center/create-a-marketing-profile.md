@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570154"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964386"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Vytvořte si obchodní profil, který vám umožní získat potenciální zákazníky Microsoftu a pomáhat zákazníkům.
 
@@ -84,16 +84,7 @@ Začněte přidáním vlastních značek do části odbornosti partnera. Značky
 
 Další značky používané v hledání:
 
--  **Značky kompetence** jsou realizované označení, které předvádí možnosti vaší společnosti.
--  **Ověřovací značky** se získají, když Microsoftu nebo vaši zákazníci, kteří s vámi pracovali, vaši práci schválí.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Umožněte Microsoftu, aby potvrdil mé oblasti odbornosti.
-
-Doporučujeme ponechat toto nastavení zaškrtnuté. 
-
-Jak provedete úspěch se zákazníky prostřednictvím partnerského centra nebo se účastníte dalších certifikačních autorit nebo programů Microsoftu, přidáme automaticky potvrzení pro vaše konkrétní produkty, služby a obory, které přispívají k tomuto úspěchu. Potvrzení jsou ve výsledcích hledání důležitým faktorem.
-
-Pokud jsou k dispozici produkty, které byste pro vás nezobrazovali v profilu, můžete toto políčko zrušit a spravovat profil ručně. Tato potvrzení budou skrytá ze zobrazení vašich zákazníků, ale můžete je kdykoli později přidat zpátky do svého profilu.
+- **Značky kompetence** jsou realizované označení, které předvádí možnosti vaší společnosti.
 
 ### <a name="customer-preferences"></a>Předvolby zákazníka
 
@@ -121,13 +112,12 @@ Pokud jste v 5 hlavních umístěních a potřebujete je změnit, nejprve **odst
 
 Po publikování profilu se aktualizace zobrazí v hledání [poskytovatele řešení](https://www.microsoft.com/solution-providers/home) během 24 hodin.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Vylepšení viditelnosti vašeho profilu 
+## <a name="improve-the-visibility-of-your-profile"></a>Vylepšení viditelnosti vašeho profilu
 
 - **[Rychlé reagování na požadavky](manage-leads.md)**. Když obdržíte odkaz na zákazníka, rychlejší reakce může vést k lepším výsledkům na stránkách hledání pro budoucí zákazníky.
 
 - **Vybírejte podle vašich značek**.  Je lepší mít méně značek, které nejlépe představují nabídky vaší společnosti, řešení, jejich umístění a jedinečné pozice, kde můžete konzistentně Ukázat úspěch.  To bude platit dividendy v budoucích výsledcích hledání.
 - Získejte **značky kompetence** prostřednictvím Microsoftu, abyste předvedli své znalosti v našich produktech.
-- Získejte **ověřovací značky** od zákazníků, kteří vaši práci ocení.
 
 ## <a name="next-steps"></a>Další kroky
 

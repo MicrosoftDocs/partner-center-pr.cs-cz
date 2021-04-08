@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502863"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964336"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Přehled partnerských nabídek v programu Cloud Solution Provider
 
@@ -105,6 +105,15 @@ Pokud chcete koupit produkty a služby jménem svých zákazníků CSP, vyberte 
 
 8. Podrobnosti o vaší objednávce, včetně čísla objednávky, se zobrazí na další stránce. Výběrem možnosti **Hotovo** přejdete na stránku **Historie objednávky** .
 
+### <a name="customer-order-history"></a>Historie objednávek zákazníků
+
+Zobrazení historie objednávek zákazníka:
+
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
+2. V nabídce na levé straně vyberte **zákazníci**.
+3. Na stránce **zákazníci** vyhledejte zákazníka, jehož historii objednávek chcete zobrazit. Výběrem šipky dolů rozbalte záznam zákazníka.
+4. Zvolením možnosti **Zobrazit objednávky** zobrazíte historii objednávek zákazníka.
+ 
 ## <a name="rules-for-special-segments"></a>Pravidla pro speciální segmenty
 
 Některé nabídky založené na licencích se dají koupit jenom za určitých podmínek. Mezi speciální nabídky segmentů patří vzdělávání, neziskové nebo státní komunitní Cloud (RSZ). Podrobnosti o těchto podmínkách nákupu najdete v [tématu pravidla nákupu pro speciální segmenty](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).

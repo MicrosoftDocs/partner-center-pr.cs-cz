@@ -390,8 +390,6 @@
     - name: Základní informace o fakturaci
       href: billing-basics.md
       displayName: invoice
-    - name: Typy fakturace v Partnerském centru
-      href: billing-different-types.md
     - name: Vysvětlení informací na faktuře
       href: read-your-bill.md
       displayName: invoice

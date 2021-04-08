@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633756"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964421"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Ceny a nabídky pro Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure a další
 
@@ -28,7 +28,7 @@ ms.locfileid: "105633756"
 - Agent prodeje
 - Správce fakturace
 
-Nejnovější programy a nabídky poskytovatele Cloud Solution Provider najdete na portálu pro partnery, přejděte na **prodej > ceny a nabídky**. Pro různé typy produktů, které jsou k dispozici, najdete samostatné ceníky. Následující ceníky jsou k dispozici na stránce **ceny a nabídky** :
+Nejnovější programy a nabídky poskytovatele Cloud Solution Provider si můžete prohlédnout na řídicím panelu portálu pro partnery a přejít na **prodej > ceny a nabídky**. Pro různé typy produktů, které jsou k dispozici, najdete samostatné ceníky. Následující ceníky jsou k dispozici na stránce **ceny a nabídky** :
 
 - **Služby založené na licencích** zahrnují informace o cenách pro Office 365, Enterprise mobility a Security E3 a také Dynamics 365. V části s cenami na základě licencí patří aktuální ceny a verze Preview i matice seznamu nabídek. Ceníky zahrnují Ceník a odhadované maloobchodní ceny (ERP) pro nabídky ve všech podporovaných měnách. Matice seznamu nabídek zahrnuje dostupnost trhu a další důležité informace o nabídkách. Tyto soubory se aktualizují poprvé dne v každém měsíci.
 - **Služby založené na využití** zahrnují cenové informace pro Microsoft Azure a Visual Studio. Můžete také použít [službu Azure v cenové kalkulačkě CSP](https://azure.microsoft.com/pricing/calculator/). Stažení založené na využívání zahrnuje jak ceníky CSP pro všechny podporované měny, tak i cenové soubory sdílených služeb v ERP. Tyto soubory se aktualizují poprvé dne v každém měsíci.

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502442"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964403"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Běžné scénáře fakturace pro partnery programu CSP pracující v partnerském centru
 
@@ -26,6 +26,22 @@ ms.locfileid: "106502442"
 - Agent prodeje
 
 Tyto články vysvětlují, co byste měli očekávat na faktuře po přidání nových předplatných, úpravě počtu licencí na předplatné nebo zrušení předplatného. Další [typy fakturace z partnerského centra](billing-different-types.md), jako jsou například předplatná založená na využití a licence, se účtují jinak.
+
+
+## <a name="change-billing-frequency"></a>Změna četnosti fakturace
+
+Frekvence účtování se mění na úrovni objednávky a po změně frekvence se bude revidovaný fakturační cyklus použít pro všechna předplatná v tomto pořadí. 
+
+Změna četnosti fakturace online služby pro zákazníka:
+
+1. [Přihlaste se k řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/home).
+2. V nabídce vlevo vyberte možnost **zákazníci**.
+3. Vyberte zákazníka, jehož četnost fakturace předplatného chcete změnit.
+4. Na stránce **předplatná** zákazníka vyberte předplatné, které chcete změnit.
+5. Na stránce **Podrobnosti** vyberte v části **četnost fakturace** možnost **měsíčně** nebo **roční**. Zobrazí se stránka s potvrzením s důležitými informacemi o změně četnosti fakturace a seznam předplatných, která se má změnit.
+6. Kliknutím na **tlačítko OK** provedete změnu ( **kliknutím na zrušit ji zrušíte** ).
+
+## <a name="billing-scenarios"></a>Scénáře fakturace
 
 | Typ fakturace | Zahrnuté scénáře |
 | --------------- | ----------------- |
