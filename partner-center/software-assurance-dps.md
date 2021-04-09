@@ -1,31 +1,43 @@
 ---
-title: Software Assurance Planning Services
+title: Vyřazení služby Software Assurance pro Plánovací služby
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Naučte se registrovat a kvalifikovat v rámci zapojení služeb Microsoft Planning Services, abyste mohli poskytovat školení a další služby zákazníkům se Software Assurance.
+description: Probíhá vyřazení služeb Microsoft Planning Services.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028217"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024989"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance Planning Services v Partnerském centru
+# <a name="software-assurance-planning-services-retirement"></a>Vyřazení služby Software Assurance pro Plánovací služby
 
 **Příslušné role**
 
 - Globální správce
 - Správce partnera MPN
 
-Jako schválený partner pro Plánovací služby vám Microsoft kompenzuje poskytování připravenosti plánování před nasazením pro podnikové zákazníky. Účast v tomto programu vám může pomáhat přilákat větší zákazníky, stát se svým důvěryhodným plánovacím partnerem a vést k dalším zákaznickým zapojením.
 
-## <a name="get-started"></a>Začínáme
+Plánování služeb je plně vyřazeno od výhod programu Software Assurance, ale zákazníci mohou i nadále pracovat s partnery, aby používali dny služby plánování pro zapojení, zatímco jsou doklady platné. Jedná se o významná data, která vedou k vyřazení programu: 
+
+- 1. února 2020: plánovací služby Cloud Engagement byly vyřazeny.  
+- 1. února 2020: školicí doklady se už nedají převést na dny plánování služeb.  
+- 1. února 2021: zákazníci už neplánují výhody plánování služeb. 
+- 30. června 2021: poslední den pro zákazníky, kteří si můžou vytvořit nebo přiřadit doklady pro Plánovací služby. Všechny zbývající dny plánovací služby se odeberou od 1. července 2021.
+- 1. ledna 2022: poslední den pro partnery pro uplatnění dokladů plánovací služby. Pro dokončení procesu žádosti o platbu bude mít partner 60 dní po uplatnění.  
+
+>[!NOTE]
+>Životní cyklus dokladů se nemění. Jakmile se doklad vytvoří nebo přiřadí, rezervace dokladů, zapojení zákazníka a uplatnění dokladu musí být dokončené do 180 dnů před vypršením platnosti dokladu.  Další informace o vyřazení programu ze služby Planning Services najdete v nejčastějších dotazech, které najdete [tady](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (vyžaduje se přihlášení).  Nasměrujte prosím všechny otázky na tým podpory pro regionální partnery: [Podpora partnerů EMEA](mailto:savoucher@msdirectservices.com); [Podpora pro obecné partnery](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>Do 30. června 2021
+
+### <a name="get-started"></a>Začínáme
 
 Pokud se službou Software Assurance pro plánování začínáte, postupujte podle následujících kroků. Pokud už jste v rámci programu pro plánování služby aktivní, zahajte každou novou rezervaci v kroku 4 (4) níže.
 
@@ -62,8 +74,6 @@ Jakmile vaše společnost splní požadavky na nárok, budete připraveni podeps
 
 Nejdřív se ujistěte, že jste zkontrolovali všechny [zásady programu plánovací služby](https://go.microsoft.com/fwlink/?linkid=2115984). Pak postupujte podle pokynů v [kroku 2](https://go.microsoft.com/fwlink/?linkid=2115983) pracovního postupu a dokončete proces registrace plánovací služby v partnerském centru.
 
->[!NOTE]
-> Budete muset prodloužit požadavky a znovu provést registraci v programech pro plánování služeb každý rok.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Vytvořit nebo aktualizovat obchodní profil vaší společnosti (noví partneři)
 

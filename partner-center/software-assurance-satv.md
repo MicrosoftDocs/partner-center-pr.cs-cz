@@ -1,28 +1,37 @@
 ---
-title: Programový doklad o školení Software Assurance
+title: Vyřazení programu pro doklad o školení programu Software Assurance
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Naučte se, jak se zaregistrovat v programu doklad školení Software Assurance, abyste mohli doručovat školení a plánování pro podnikové zákazníky.
+description: Probíhá vyřazení programu pro doklad o školení Software Assurance.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926617"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024972"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Program Software Assurance Training Voucher (SATV) v Partnerském centru
+# <a name="training-vouchers-program-retirement"></a>Vyřazení programu z dokladů školení
 
-Zaregistrujte své podnikání zaregistrováním v partnerských programech Software Assurance. Microsoft kompenzuje partnery pro poskytování školení, plánování a dalších služeb zákazníkům, kteří mají Software Assurance.
+Školicí doklady se úplně vyřadí z výhod programu Software Assurance, ale zákazníci můžou dál používat dny v dokladech pro školení zaměřené na instruktora, zatímco jsou doklady platné. Jedná se o významná data, která vedou k vyřazení programu: 
 
-Jako schválený partner pro školení Software Assurance vám Microsoft kompenzuje poskytování technického školení zákazníkům v systému Exchange pro doklady, které získají se Software Assurance. Účast v tomto programu vám může pomáhat přilákat více zákazníkům a stát se jejich důvěryhodným partnerem pro učení.
+- 1. února 2020: školení Azure vyřazené z katalogu školicích dokladů.
+- 1. února 2020: školicí doklady se už nedají převést na dny plánování služeb.  
+- 1. února 2021: zákazníci už nedosáhnou výhod školení. 
+- 30. června 2021: poslední den pro zákazníky, kteří budou vytvářet nebo přiřazovat školicí doklady. Všechny zbývající dny studijního dokladu budou odebrány od 1. července 2021.
+- 1. ledna 2022: poslední den pro partnery uplatnit školicí doklady. Pro dokončení procesu žádosti o platbu bude mít partner 60 dní po uplatnění.  
 
-## <a name="get-started"></a>Začínáme
+>[!NOTE]
+>Životní cyklus dokladů se nemění. Jakmile se doklad vytvoří nebo přiřadí, rezervace dokladů, školicí cvičení a uplatnění dokladu musí být dokončené do 180 dnů před vypršením platnosti dokladu.  Další informace o školicím vyřazení dokladů najdete v nejčastějších dotazech, které najdete [tady](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (vyžaduje se přihlášení).  Podívejte se na úplný seznam SATV školicích kurzů, které jsou vhodné pro školení v katalogu produktů.  Nasměrujte prosím všechny otázky na tým podpory pro regionální partnery: [Podpora partnerů EMEA](mailto:savoucher@msdirectservices.com); [Podpora pro obecné partnery](https://partner.microsoft.com/dashboard/support/servicerequests).
+
+## <a name="until-june-30-2021"></a>Do 30. června 2021
+
+### <a name="get-started"></a>Začínáme
 
 Pokud se službami školení pro Software Assurance začínáte, postupujte podle následujících kroků. Pokud už jste v programu školicích dokladů aktivní, začněte v kroku 4 (4) níže. 
 
