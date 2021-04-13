@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132277"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315894"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Správa účtu partnerského centra – profil společnosti, informace o bance, role, oprávnění a další
 
@@ -42,7 +42,7 @@ Tím se zobrazí stránka nastavení účtu.
 
 ### <a name="locate-your-mpn-id"></a>Vyhledání ID MPN
 
-Bez ohledu na to, jestli jste partnerem nebo vývojářem, použijte své ID MPN pro tyto věci jako protokolování lístků podpory. ID MPN se nachází na stránce **právní informace** Thee. Můžete ji také najít v **profilu identity**.
+Bez ohledu na to, jestli jste partnerem nebo vývojářem, použijte své ID MPN pro tyto věci jako protokolování lístků podpory. Vaše ID MPN se nachází na stránce **právní informace** . Můžete ji také najít v **profilu identity**.
 
 ## <a name="account-settings---partners-resellers"></a>Nastavení účtu – partneři, prodejci
 

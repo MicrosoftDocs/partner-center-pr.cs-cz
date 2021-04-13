@@ -6,15 +6,15 @@ description: Zjistěte, jak ověřit podrobnosti společnosti, například prim�
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/10/2021
+ms.date: 04/12/2021
 ms.localizationpriority: medium
-ms.custom: contperf-fy21q3
-ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.custom: contperf-fy21q4
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712592"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315863"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Ověření nebo aktualizace informací o profilu společnosti 
 
@@ -92,6 +92,17 @@ Aktualizace ID MPN přidruženého k vašemu účtu CSP:
 ## <a name="update-your-csp-legal-billing-address"></a>Aktualizujte si platnou fakturační adresu CSP.
 
 Pokud jste globálním správcem, správcem fakturace nebo agentem pro správu, můžete adresu, která se zobrazí na vaší faktuře, změnit ve vydaných **a daňových profilech**. Kvůli omezení fakturačního systému však nemůžete změnit název společnosti na faktuře.
+
+:::image type="content" source="images/billing-profile.png" alt-text="Snímek obrazovky oblasti, do které se přidají fakturační informace":::
+
+|**Pole**  |**Popis**|  
+|---------------------|:------------------|
+|Název vyúčtování společnosti|Název společnosti, který se zobrazí v informacích o Bill-To na faktuře CSP.  V partnerském centru to není editovatelné.  Pokud chcete aktualizovat, vytvořte lístek podpory.|
+|Adresa pro fakturaci|Adresa pro fakturaci uvedená na faktuře CSP. Aktualizace – možné z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Kontakt pro fakturaci|Podrobnosti o fakturačním kontaktu (křestní jméno, příjmení, primární číslo) pro účet CSP.  Aktualizace – možné z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Číslo nákupní objednávky|Číslo nákupní objednávky zobrazené na faktuře partnera.  Aktualizace – možné z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Daňové ID společnosti|Firmy v některých zemích můžou poskytovat [daň za daň z přidané hodnoty (DPH) nebo místní ekvivalent](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Pokud chcete své DIČ aktualizovat, musíte být globálním správcem, správcem fakturace nebo agentem správce.|
+|Fakturační měna|Fakturační měna pro váš účet CSP se stanoví v poli právnická země účtu CSP.  Po vytvoření účtu CSP ho nelze změnit.|
 
 
 ## <a name="next-steps"></a>Další kroky
