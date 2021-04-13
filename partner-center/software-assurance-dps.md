@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024989"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266499"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Vyřazení služby Software Assurance pro Plánovací služby
 
@@ -35,7 +35,6 @@ Plánování služeb je plně vyřazeno od výhod programu Software Assurance, a
 >[!NOTE]
 >Životní cyklus dokladů se nemění. Jakmile se doklad vytvoří nebo přiřadí, rezervace dokladů, zapojení zákazníka a uplatnění dokladu musí být dokončené do 180 dnů před vypršením platnosti dokladu.  Další informace o vyřazení programu ze služby Planning Services najdete v nejčastějších dotazech, které najdete [tady](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (vyžaduje se přihlášení).  Nasměrujte prosím všechny otázky na tým podpory pro regionální partnery: [Podpora partnerů EMEA](mailto:savoucher@msdirectservices.com); [Podpora pro obecné partnery](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>Do 30. června 2021
 
 ### <a name="get-started"></a>Začínáme
 

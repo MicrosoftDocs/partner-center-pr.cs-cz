@@ -10,17 +10,51 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374429"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266516"
 ---
 # <a name="april-2021-announcements"></a>Oznámení z dubna 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu pro duben 2021.
+
+________________
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Připomenutí: zastaralost získat kvalifikaci na 4. května 2021
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-04-09
+- Možnosti
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři, kteří prodávají akademické a neziskové a státní komunitní Cloud (RSZ) prostřednictvím programu Cloud Solution Provider pomocí rozhraní API partnerského centra
+
+### <a name="details"></a>Podrobnosti
+
+Toto oznámení je následná vylepšení partnerského centra [vydané v prosinci](https://docs.microsoft.com/partner-center/announcements/2020-december#1). V rámci této verze se nasadila nová rozhraní API GET a POST a v důsledku toho se stávající kvalifikace GET vyřadí do 4. května 2021. V tuto chvíli se budete muset převést na použití nového rozhraní API pro POST Center v nabídce koupit vzdělávání a nové rozhraní API získat kvalifikaci k zakoupení předdefinovaných nezisků a nabídek RSZ.
+
+### <a name="next-steps"></a>Další kroky
+
+- Aktualizujte nové rozhraní API pro úspěšný a včasný přechod.
+
+- Projděte si nové změny a příručka k rozhraní API partnerského centra v prostředcích připravenosti operací: [vylepšení procesu ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci a prodejci, kteří jim pomůžou tyto změny připravit.
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud máte dotazy související s tímto oznámením, obraťte se na [podporu partnerského centra](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Protokol změn
+
+- Duben: připomenutí nadcházejícího zastaralosti získat kvalifikaci 
+- Únor: aktualizované časové osy pro vyřazení získání kvalifikace & PUT
+- Leden: připomenutí nadcházejících zastaralosti získání & kvalifikací
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nový formát nové faktury na Commerce PDF v CSP

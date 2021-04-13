@@ -1,7 +1,7 @@
 ---
 title: Vytvoření účtu MPN v partnerském centru
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Přečtěte si, jak Microsoft Partner Network členové mohou vytvořit účet partnerského centra za účelem správy svých síťových výhod a kompetencí.
@@ -9,23 +9,23 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712915"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266533"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Vytvoření účtu MPN v partnerském centru pro správu výhod a kompetencí sítě
 
 
 Pokud s Microsoft Partner Network (MPN) začínáte a nemáte ID MPN, můžete zahájit registraci podle [pokynů k registraci](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
-## <a name="prerequisites"></a>Předpoklady 
+## <a name="prerequisites"></a>Požadavky 
 
 Až budete připraveni vytvořit účet v partnerském centru, budete muset mít k dispozici následující položky.  Než začnete, může trvat několik minut, než se shromáždí tyto položky:
 
-- Firemní pracovní e-mail nebo pracovní účet Office 365. Další informace najdete v článku [pracovní účet společnosti a partnerské Centrum](azure-active-directory-tenants-and-partner-center.md) . 
+- Firemní pracovní e-mail nebo pracovní účet Office 365. Vaše společnost může potřebovat koupit e-mailovou doménu, aby bylo možné nastavit pracovní e-mailové adresy pro zaměstnance. Další informace najdete v článku [pracovní účet společnosti a partnerské Centrum](azure-active-directory-tenants-and-partner-center.md). 
  
 - Právní jméno a obchodní firmu vaší společnosti.
 

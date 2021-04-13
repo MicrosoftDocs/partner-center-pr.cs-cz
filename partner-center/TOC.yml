@@ -12,8 +12,6 @@
     - name: Vytvoření účtu MPN v partnerském centru
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: Získání pracovní e-mailové adresy
-      href: buy-email-domain.md
     - name: Řešení potíží s nastavením účtu
       href: troubleshoot-account-sign-n.md
     - name: Přesuny do Partnerského centra
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: Resetování hesla
           href: reset-my-pasword.md
-        - name: Uživatel se nemůže přihlásit
+        - name: Řešení potíží s přihlašováním
           href: unable-to-sign-in.md
         - name: Uživatel nemá žádného správce MPN
           href: no-mpn-admin.md

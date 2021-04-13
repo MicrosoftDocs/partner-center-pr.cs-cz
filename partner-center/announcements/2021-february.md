@@ -10,48 +10,52 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/08/2021
+ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280900"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266465"
 ---
 # <a name="february-2021-announcements"></a>Oznámení z února 2021
 
 Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu na únor 2021.
 
 ________________
-## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> Rozhraní API kvalifikace pro vložení je vyřazeno, může se stát, že se vyřadí
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Připomenutí: zastaralost získat kvalifikaci na 4. května 2021
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 25. února 2021
+- Datum: 2021-04-09
 - Možnosti
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Partneři, kteří prodávají akademické, neziskové a RSZ nabídky pomocí programu Cloud Solution Provider prostřednictvím rozhraní API partnerského centra
+Partneři, kteří prodávají akademické a neziskové a státní komunitní Cloud (RSZ) prostřednictvím programu Cloud Solution Provider pomocí rozhraní API partnerského centra
 
 ### <a name="details"></a>Podrobnosti
 
-Toto oznámení je následná vylepšení partnerského centra [vydané v prosinci](2020-december.md#1). V rámci této verze byla nasazena nová rozhraní API GET a POST kvalifikace a v důsledku toho jsou **vyřazena existující rozhraní API kvalifikace PUT a získání kvalifikace je vyřazeno ze 4. května 2021**. Jakmile k tomu dojde, budete se muset převést na použití nového rozhraní API pro POST Center, abyste mohli zakoupit nabídky vzdělávání. Stejně tak budete muset použít nové rozhraní API získat kvalifikaci k nákupu předem kvalifikovaných nabídek, které nezisková a RSZ nabízí.
+Toto oznámení je následná vylepšení partnerského centra [vydané v prosinci](https://docs.microsoft.com/partner-center/announcements/2020-december#1). V rámci této verze se nasadila nová rozhraní API GET a POST a v důsledku toho se stávající kvalifikace GET vyřadí do 4. května 2021. V tuto chvíli se budete muset převést na použití nového rozhraní API pro POST Center v nabídce koupit vzdělávání a nové rozhraní API získat kvalifikaci k zakoupení předdefinovaných nezisků a nabídek RSZ.
 
 ### <a name="next-steps"></a>Další kroky
 
-- **Aktualizace nových rozhraní API** pro úspěšný a včasný přechod
-- **Projděte si nové změny a příručka rozhraní API partnerského centra** v prostředcích připravenosti operací: [vylepšení procesu ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) .
-- Tyto **informace můžete sdílet s příslušnými týmy** v rámci vaší organizace a s prodejci, aby se mohli připravit na tyto změny.
+- Aktualizujte nové rozhraní API pro úspěšný a včasný přechod.
+
+- Projděte si nové změny a příručka k rozhraní API partnerského centra v prostředcích připravenosti operací: [vylepšení procesu ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci a prodejci, kteří jim pomůžou tyto změny připravit.
 
 ### <a name="questions"></a>Máte otázky?
 
-Všechny otázky související s tímto oznámením vám poskytne [Podpora partnerského centra](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+Pokud máte dotazy související s tímto oznámením, obraťte se na [podporu partnerského centra](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ### <a name="change-log"></a>Protokol změn
 
+- Duben: připomenutí nadcházejícího zastaralosti získat kvalifikaci 
 - Únor: aktualizované časové osy pro vyřazení získání kvalifikace & PUT
 - Leden: připomenutí nadcházejících zastaralosti získání & kvalifikací
+
 
 ________________
 ## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Sdílení obchodů ve společném prodeji pomocí funkce hromadné operace v partnerském centru
