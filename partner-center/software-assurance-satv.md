@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024972"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266482"
 ---
 # <a name="training-vouchers-program-retirement"></a>Vyřazení programu z dokladů školení
 
@@ -29,7 +29,7 @@ ms.locfileid: "107024972"
 >[!NOTE]
 >Životní cyklus dokladů se nemění. Jakmile se doklad vytvoří nebo přiřadí, rezervace dokladů, školicí cvičení a uplatnění dokladu musí být dokončené do 180 dnů před vypršením platnosti dokladu.  Další informace o školicím vyřazení dokladů najdete v nejčastějších dotazech, které najdete [tady](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (vyžaduje se přihlášení).  Podívejte se na úplný seznam SATV školicích kurzů, které jsou vhodné pro školení v katalogu produktů.  Nasměrujte prosím všechny otázky na tým podpory pro regionální partnery: [Podpora partnerů EMEA](mailto:savoucher@msdirectservices.com); [Podpora pro obecné partnery](https://partner.microsoft.com/dashboard/support/servicerequests).
 
-## <a name="until-june-30-2021"></a>Do 30. června 2021
+
 
 ### <a name="get-started"></a>Začínáme
 
