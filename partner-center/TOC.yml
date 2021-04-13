@@ -14,14 +14,6 @@
       displayName: mpn
     - name: Řešení potíží s nastavením účtu
       href: troubleshoot-account-sign-n.md
-    - name: Přesuny do Partnerského centra
-      items:
-        - name: Přesun z PAC – Přehled
-          href: pac-to-pc-overview.md
-        - name: Porovnání úloh v PAC a Partnerském centru
-          href: moving-from-pac-to-pc.md
-        - name: Provádění úloh PAC v Partnerském centru
-          href: o365-partner-admin-center-to-partner-center.md
     - name: Přesuny z PMC
       items:
         - name: Příprava k migraci z PMC
@@ -159,8 +151,6 @@
     - name: 'Smlouvy, ceníky, nabídky v CSP'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Azure Cost Management by Cloudyn pro poskytovatele CSP
-      href: azure-cost-management-app-for-csp-partners.md
     - name: Regionální trhy a měny v CSP
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
