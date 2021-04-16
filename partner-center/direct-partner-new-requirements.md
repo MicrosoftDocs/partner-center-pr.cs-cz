@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 12/15/2020
-ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/15/2021
+ms.openlocfilehash: 2f6fd9ef3fdcc88627b2eb2d257a837d28e097ee
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712202"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528587"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Požadavky na registraci jako partner CSP s přímým vyúčtováním
 
@@ -33,7 +33,8 @@ Jako partner s přímým přístupem jste vlastníkem ucelený vztah se zákazn�
 |**ID MPN**   |Aktivní členství v Microsoft Partner Network a MPN ID pro umístění, ve kterém chcete prodávat.   |
 |**Doporučení**   |Autorita přijmout a podepsat právní smlouvy jménem vaší organizace.|
 |**Podpora**   |Možnost poskytnout zákazníkům první úroveň podpory cloudových produktů. <br/>Plán podpory společnosti Microsoft, ať už pokročilá podpora pro partnery (ASfP) nebo Premier Support pro partnery (smlouvou psfp můžou), podle vašich potřeb. [Porovnejte plány podpory](https://partner.microsoft.com/support/partnersupport).<br/>Důležité: než budete moct koupit plán podpory, musíte před tím, než budete chtít zakoupit plán podpory, projít kontrolu. Po úspěšné kontrole kreditu vás pošleme e-mailem. |
-|**Požadavek na výnosy**|Musí splňovat minimálně USD300K v programu Cloud Solution Provider roční tržby během posledních dvanácti měsíců jako nepřímý prodejce. Partneři si můžou prohlédnout na konci dvanácti měsíců výnosů na partnerském centru.<br/>Tržby, které tvoří USD300K na 12 měsíců, podléhají kontrole a ověřování od Microsoftu a můžete být vyzváni k zadání dalších informací. Požadavek na příjmy USD300K se vypočítá na základě výnosů z cloudu a vyloučí trvalé software v CSP.|
+|**Požadavek na výnosy**|Musí splňovat minimálně USD300K v programu Cloud Solution Provider roční tržby během posledních dvanácti měsíců jako nepřímý prodejce. Ověřte, že vaše organizace splňuje požadavek na tržby v [partnerském centru pro analýzy](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). Partneři si můžou prohlédnout na konci dvanácti měsíců výnosů na partnerském centru.<br/>Tržby, které tvoří USD300K na 12 měsíců, podléhají kontrole a ověřování od Microsoftu a můžete být vyzváni k zadání dalších informací. Požadavek na příjmy USD300K se vypočítá na základě výnosů z cloudu a vyloučí trvalé software v CSP.|
+|**Požadavek CSP**|Musí se jednat o nepřímý prodejce, který je minimálně 12 měsíců.| 
 |**Účty – pohledávky** |Podniková infrastruktura, která umožňuje správu fakturace a zřizování zákazníků.|
 |**Doporučení**|             |
 |**Spravovaná služba**   |Alespoň jedna spravovaná služba, služba IP nebo aplikace pro řešení zákazníků. Přečtěte si další informace o přidávání [spravovaných služeb](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
@@ -41,9 +42,10 @@ Jako partner s přímým přístupem jste vlastníkem ucelený vztah se zákazn�
 
 ### <a name="verify-direct-bill-eligibility"></a>Ověřit nárok na přímé vyúčtování
 
-Po ověření, že splňujete minimální požadavky pro registraci jako přímý účet pro fakturaci, můžete přejít na [formulář pro zápis](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
+Po ověření, že splňujete minimální požadavky pro registraci jako přímý účet pro fakturaci, můžete přejít na [formulář pro zápis](https://forms.office.com/r/0fP4fFT8n8).
 
 Až ověříte, že vaše společnost splňuje požadavky na nárok na registraci jako přímý poštovní partner, a Vy jste dokončili aplikaci pro registraci, prověříme a ověříte obchodní informace, které jste zadali v procesu registrace. V rámci této recenze zkontrolujeme kredit vaší společnosti. Po úspěšném ověření vaší společnosti vám pošleme informace e-mailem.
+
 >[!IMPORTANT]
 >Kontrola kreditu vaší společnosti může trvat několik dní nebo i déle. Během této doby je důležité, abyste nekoupili plán podpory společnosti Microsoft. Plán podpory Microsoftu si můžete koupit až po informování o tom, že jste prošli kontrolou kreditu.
 

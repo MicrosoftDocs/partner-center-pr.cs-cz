@@ -1,7 +1,7 @@
 ---
 title: Globální trhy CSP
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Podívejte se na země, oblasti a měny, kde můžete prodávat nabídky CSP na základě umístění vaší společnosti.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926657"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528601"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Poskytovatel řešení cloudu a místní trhy a měny, kde můžete prodávat nabídky CSP
 
@@ -24,10 +24,15 @@ Pokud se například vaše společnost nachází v USA, můžete zákazníkům n
 
 Než budete moct jménem zákazníka objednat nabídky CSP, zákazník musí podepsat smlouvu o zákaznících Microsoftu. Příslušné smlouvy o zákaznících Microsoftu pro vaši oblast/zemi najdete [tady](agreements.md).
 
+## <a name="azure-plan-for-csp-region-availability"></a>Plán Azure pro dostupnost oblasti CSP  
+
+Plán Azure pro CSP je k dispozici v méně oblastech než software Azure pro CSP.  Seznamte se s nejnovějšími aktualizacemi pro plán Azure v oblasti dostupnosti, kde si můžete  [koupit plán Azure](purchase-azure-plan.md) . 
+
 >[!IMPORTANT]
 > Musíte potvrdit, že zákazník přijal zákaznickou smlouvu od Microsoftu zadáním informací o osobě, která ji podepsala. Další podrobnosti najdete v článku [potvrzení souhlasu zákazníka s zákaznickou smlouvou Microsoftu](confirm-consent.md) .
 
 Pokud chcete zjistit, kde můžete prodávat nabídky CSP, najděte umístění vaší společnosti v jednom ze seznamu níže. Musíte mít aktivní Microsoft Partner Network (MPN) ID pro umístění, ve kterém chcete prodávat.  
+
 
 ## <a name="for-unsupported-countries"></a>Pro nepodporované země
 
@@ -131,7 +136,7 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Fidži                  |   AUD    |
 |  Francouzská jižní území| AUD |
 |  Guam                  |  AUD     |
-|  Heardův ostrov a MacDonaldovy ostrovy| AUD |
+|  Heardův ostrov a McDonaldovy ostrovy| AUD |
 |  Kiribati              |   AUD    |
 |  Marshallovy ostrovy      |   AUD    |
 |  Mikronésie            |   AUD    |
@@ -165,7 +170,7 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Země/oblast | Měna |
 |  -------------- |:--------:|
 |  Kanada         |   CAD    |
-|  Saint-Pierre a Miquelon|  CAD   |
+|  Saint Pierre a Miquelon|  CAD   |
 |
 
 ## <a name="europe-region-and-market"></a>Oblast a trh Evropa
@@ -399,5 +404,5 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Země/oblast       | Měna |
 |  -------------        |:--------:|
 |  USA        |   USD    |
-|  Menší odlehlé ostrovy USA|   USD    |
+|  Odlehlé ostrovy USA|   USD    |
 |

@@ -1,19 +1,19 @@
 ---
 title: Platební a daňový profil v Partnerském centru
 ms.topic: how-to
-ms.date: 02/24/2021
+ms.date: 04/15/2021
 description: Vytvořte a spravujte svůj výběr a daňový profil, abyste se mohli vyplatit za práci s vašimi pobídkami. Zahrnuje vytváření, správu a používání různých profilů.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5079649746d673ea4dee40264afe4ea61671a9a2
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 4a931f1d971ea3e3bc288f70e85a6600596761cc
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179526"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528548"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Vytváření a Správa pobídek pro výběr a daňové profily v partnerském centru
 
@@ -25,7 +25,7 @@ ms.locfileid: "106179526"
 
 Než budete moct začít přijímat platby za vaše programy pobídek pro určitou oblast MPN, musíte nejprve dokončit svou registraci tím, že k programu a umístění MPN přidružíte platný platební a daňový profil. Microsoft bude tento platební a daňový profil používat k odesílání plateb. V závislosti na pravidlech konkrétního programu pobídek možná můžete přijímat platby elektronickým bankovním převodem nebo dobropisem. 
 
-## <a name="roles-currencies-and-other-microsoft-programs"></a>Role, měny a další programy společnosti Microsoft
+## <a name="roles-currencies-and-multiple-microsoft-incentive-programs"></a>Role, měny a několik programů pro motivaci od Microsoftu
 
 Než začnete s vaším a daňovým profilem, je důležité porozumět níže uvedeným informacím.
 
@@ -50,19 +50,19 @@ Pokud je vaše společnost zaregistrovaná v několika aplikacích pro motivaci,
 V následujících částech se dozvíte, jak vytvořit a spravovat platební a daňové profily v partnerském centru.
 
 >[!IMPORTANT]
->Abyste mohli vytvářet nebo spravovat platební profily v partnerském centru, musíte být motivačním správcem. Role motivačních rolí je potřeba přiřadit ke každému umístění MPN v rámci každého motivačního programu. Další informace o tom, jak přidat motivační správce v partnerském centru, najdete v tématu [Vytvoření uživatelských účtů](create-user-accounts-and-set-permissions.md).
+>Abyste mohli vytvářet a spravovat platební a daňové profily v partnerském centru, musíte být motivačním správcem. Role motivačních rolí je potřeba přiřadit ke každému umístění MPN v rámci každého motivačního programu. Další informace o tom, jak přidat motivační správce v partnerském centru, najdete v tématu [Vytvoření uživatelských účtů](create-user-accounts-and-set-permissions.md).
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Přístup k části Výběr a daň v partnerském centru
 
 1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/) pomocí účtu Azure Active Directory (Azure AD) (účet společnosti) nebo příslušné e-mailové adresy, pokud byla přiřazena.
 
    - V jednom účtu Azure AD se dá zaregistrovat víc domén. Chcete-li zjistit, které domény jsou přidruženy, obraťte se na svého globálního správce.
-   - Pokud se přihlašujete jenom k @onmicrosoft.com doméně, obraťte se na správce účtu a přidejte další domény k účtu Azure AD.
+   - Pokud se přihlašujete pouze k @onmicrosoft.com doméně a potřebujete další domény, obraťte se na správce účtu a přidejte další domény k účtu služby Azure AD.
    - Pokud budete vyzváni k výběru **pracovního nebo školního** účtu nebo **osobního účtu**, vyberte **pracovní nebo školní účet**.
 
 2. Výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** a pak vyberte **Nastavení účtu**.
 
-3. V nabídce **Nastavení účtu** vyberte **Výběr a daň**. 
+3. V nabídce **Nastavení účtu** vyberte **Výběr a daň**.
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Přiřadit výběr a daňové profily jednotlivým programům
 
@@ -72,7 +72,7 @@ V následujících částech se dozvíte, jak vytvořit a spravovat platební a 
    
    Zobrazí se seznam vašich programů. Výběrem šipky vedle programu zobrazíte podrobnosti o profilu. 
 
-3. V rozevírací nabídce **daňový profil** vyberte požadovaný daňový profil nebo vyberte možnost vytvoření nového profilu. Když vyberete možnost vytvoření nového profilu, budete odpovídajícím způsobem přesměrováni.  V automaticky otevíraném okně vyberte pokračovat. Postup vytvoření nového daňového profilu byl uveden níže.
+3. V rozevírací nabídce **daňový profil** vyberte požadovaný daňový profil nebo vyberte možnost vytvoření nového profilu. Když vyberete možnost vytvoření nového profilu, budete odpovídajícím způsobem přesměrováni.  V automaticky otevíraném okně vyberte **pokračovat** . Postup vytvoření nového daňového profilu je uvedený níže.
 
 4. Vyberte **způsob platby**.
 
@@ -94,17 +94,37 @@ V následujících částech se dozvíte, jak vytvořit a spravovat platební a 
    
       V zemích, které vyžadují, aby partneři požádali o uplatnění daňové úlevy, bude existovat možnost použít osvobození od daně vedle daňového profilu v části daňový profil v programu motivační program a umístění MPN. Zaškrtnutím tohoto políčka uplatníte výhody osvobození od daně na svůj finanční dobropis. 
    
-      V současné době je tento způsob platby k dispozici pouze pro Austrálii, Nového Zélandu a partnery Kanady pro program Microsoft Commerce motivační. Pokud jste přímým partnerem nebo nepřímým poskytovatelem v těchto třech zemích zaregistrovaným pro program MCI a jako dostupný způsob platby nevidíte LRDou platební poznámku, potvrďte, že ID tenanta je přidružené k příslušnému účtu umístění MPN partnera. Další informace o tomto postupu najdete v článku [jak aktualizovat profil vaší organizace](update-your-partner-profile.md).
+      V současné době je metoda platby na dobropis LRD k dispozici pouze pro Austrálii, Nového Zélandu a partnery Kanady pro program Microsoft Commerce motivační. Pokud jste přímým partnerem nebo nepřímým poskytovatelem v těchto třech zemích zaregistrovaným pro program MCI a jako dostupný způsob platby nevidíte LRDou platební poznámku, potvrďte, že ID tenanta je přidružené k příslušnému účtu umístění MPN partnera. Další informace o tomto postupu najdete v článku [jak aktualizovat profil vaší organizace](update-your-partner-profile.md).
 
     
 5. Vyberte **měnu**.
 
 6. Po dokončení všech platebních polí vyberte **Odeslat**.
 
+## <a name="set-up-a-default-bank-profile"></a>Nastavení výchozího profilu banky
+
+Můžete nastavit výchozí profily banky a přiřadit je do umístění MPN. Tyto výchozí profily bude společnost Microsoft používat pro další registrace pro příslušné umístění programu MPN. 
+
+1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/)a výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení**   . 
+
+2. Vyberte **Nastavení účtu**, rozbalte část **Výběr a daň** a pak vyberte **Výběr a daňové profily**. 
+
+3. V části **profily plateb** vyberte **Spravovat výchozí profily** . 
+
+4. Pokud chcete vytvořit výchozí profily banky, vyberte **Přidat výchozí profil banky**. 
+
+5. Vyberte profil banky ze seznamu dostupných bankovních profilů vaší společnosti, vyberte měnu, která se má použít s tímto profilem banky, a pak vyberte seznam umístění MPN, pro které chcete použít tento výchozí profil.
+
+6. Pokud jste dokončili výběr, vyberte **Hotovo** . Tlačítko Hotovo nebude možné, dokud nebudou všechna povinná pole dokončena. 
+
+>[!NOTE]
+>Stejné párování v bance a měně lze použít pro více umístění. Pokud byl umístění MPN přiřazen výchozí profil a kombinace měny jednou, nebude se už zobrazovat v rozevíracím seznamu umístění pro budoucí přiřazení výchozích profilů. Pokud se výchozí výběr odstraní, umístění MPN se znovu zobrazí pro budoucí výchozí přiřazení profilu. Jednotlivé profily bank a kombinace měn se přidají jako jedinečný a upravitelný řádek.
+
+7. Po přidání všech požadovaných změn vyberte **Uložit**.  
 
 ## <a name="create-your-bank-profile"></a>Vytvořit profil banky
 
-Profily banky se vytvářejí na úrovni organizace. Tím umožníte, aby jeden bankovní profil byl přiřazený mezi několik programů MPN ID a motivů v rámci organizace. Při použití profilu bankovnictví v různých zemích může dojít k výjimkám, protože mohou platit různá bankovní a daňová pravidla.
+Profily banky se vytvářejí na úrovni společnosti. Tím umožníte, aby se jeden bankovní profil přidělil mezi několik programů MPN ID a motivů v rámci společnosti. Při použití profilu bankovnictví v různých zemích může dojít k výjimkám, protože mohou platit různá bankovní a daňová pravidla.
 
 >[!NOTE]
 >Na následujících stránkách jsou vyžadovány pole s hvězdičkou. Pokud si nejste jisti, co pole je, vyberte informační ikonu. 
@@ -157,6 +177,20 @@ Pokud pro partnerské společnosti v Severní Americe potřebujete informace o d
 8. Pokud chcete uložit a pokračovat, vyberte **Dokončit**.
 
 9. V místní zprávě vyberte **Potvrdit** . Vrátíte se na stránku **Výběr a daňové nastavení** .
+ 
+## <a name="update-expired-tax-profiles"></a>Aktualizace daňových profilů s vypršenou platností
+
+1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/)a výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** .
+
+1. Vyberte **Nastavení účtu**, rozbalte část **Výběr a daň** a pak vyberte **Výběr a daňový profil**.
+
+1. Vyberte **daňový profil**.
+
+1. Ověřte **Datum vypršení platnosti** sloupce a přejděte do vyprší platnost daňového profilu, jehož platnost vypršela nebo brzy vyprší.
+
+1. Vyberte **Upravit**.
+
+1. V části daňový formulář aktualizujte daňové formuláře zadáním nových podrobností. 
 
 ## <a name="next-steps"></a>Další kroky
 
