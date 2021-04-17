@@ -10,17 +10,111 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.date: 04/16/2021
+ms.openlocfilehash: 68635b4c02ddbbcaa6cbf02166a7cf123aaf2c6e
+ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266516"
+ms.lasthandoff: 04/17/2021
+ms.locfileid: "107584179"
 ---
 # <a name="april-2021-announcements"></a>Oznámení z dubna 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu pro duben 2021.
+
+________________
+## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Nyní Live: Průvodce globální propagační připravenosti
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-04-16
+- Možnosti
+
+### <a name="summary"></a>Souhrn
+
+Připravenost na spuštění publikovala nový [Průvodce globální propagační připravenosti](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) v galerii prostředků připravenosti na operace. Tato příručka nabízí konsolidované zobrazení všech aktivních [globálních propagačních akcí](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/).
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Všechny multilicenční partneři (VL), Dynamics ceníků (DPL) a poskytovatelé Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Podrobnosti
+
+Partneři Microsoftu sdíleli s námi potřebu získat konsolidované zobrazení všech globálních propagačních akcí s podpůrnými podrobnostmi. Chtěli jste mít k dispozici tuto konsolidovanou příručku, která vám pomůže s tím, že všechny dostupné informace budou snadno přístupné v centrálním a praktickém umístění.
+
+Od dubna 2021 Microsoft tuto příručku po měsících aktualizuje a bude k dispozici v galerii prostředků připravená globální akce v galerii prostředků připravenosti na operace.
+
+Odkazy na tento průvodce budou také zahrnuty v následujících kolekcích:
+
+- [Spustit kolekci kalendáře](https://partner.microsoft.com/resources/collection/csp-announcement-calendar#/), která poskytuje centralizované zobrazení nadcházejících změn a spuštění.
+
+- [Komunitní kolekce](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/), které obsahují podpůrné materiály pro naše měsíční hovory, zvýrazňování nadcházejících změn a včasných témat o provozu.
+
+- [Partnerské zpravodaje](https://partner.microsoft.com/resources/collection/csp-monthly-update#/), jako je měsíční aktualizace CSP
+
+V rámci měsíčního připomenutí zveřejníme také oznámení partnerského centra s každým novým problémem Průvodce globální propagační akce.
+
+### <a name="next-steps"></a>Další kroky
+
+Na začátku každého měsíce najdete nejnovější [Průvodce globálními propagačními](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) akcemi v [galerii prostředků připravenosti na operace](https://partner.microsoft.com/resources).
+
+Sdílejte tyto informace s příslušnými kontakty ve svých organizacích a sdělte nám, jak je tato stránka užitečná? tlačítko na konci každé stránky.
+
+________________
+## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Aktualizace a připomenutí komunity Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-04-16
+- Komunita | Pozvánky a připomenutí
+
+### <a name="summary"></a>Souhrn
+
+Prostředky komunity CSP jsou dostupné na vyžádání a aktualizují se měsíčně, aby bylo možné v programu CSP informovat a připravit se na změnu.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři poskytovatele CSP a nepřímá zprostředkovatelé
+
+### <a name="details"></a>Podrobnosti
+
+Tento měsíc obsahuje následující klíčová témata:
+
+- [Aktualizace pro vývoj programu CSP a Open License změny programu](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
+
+- [Změny v některých oblastech pro požadavky na registraci zprostředkovatele CSP pro zákazníky](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
+
+- [Nový formát nové faktury v Commerce PDF v programu CSP](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)
+
+V rámci [kolekce komunit CSP](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/)najdete tyto informace:
+
+- Bulletin pro [měsíční aktualizace](https://partner.microsoft.com/resources/detail/csp-monthly-update-april-2021-global)ke stažení, který agreguje nedávné oznámení, aktualizace, události a připomenutí CSP v snadno čitelném dokumentu.
+
+- [Kalendář oznámení CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-april-2021), který poskytuje zobrazení časové osy o nadcházejících změnách ovlivňujících program.
+
+- Nový [Kalendář spouštějící produkt](https://partner.microsoft.com/resources/detail/product-launch-calendar-april-pdf), kde můžete zobrazit nadcházející spuštění produktu a nabídky.
+
+- [CSP spustí aktualizaci prostředků](https://partner.microsoft.com/resources/collection/april-2021-csp-launch-topics-collection#/) s snadnou spotřebou obsahu při klíčových změnách.
+
+- [Aktualizační programy a připomenutí](https://partner.microsoft.com/resources/detail/csp-april-2021-refreshers-and-reminders-pdf) klíčových témat pro CSP, která přijímají zájmu a dotazy.
+
+#### <a name="csp-community-call-qas"></a>&volání komunity poskytovatele CSP jako
+
+K dispozici je&volání komunity, které vám pomůžou s otázkami souvisejícími s nadcházejícími změnami. Zaregistrujte se hned&volání komunity CSP, jak se provádí v dubnu, květen a červnu. Budou se soustředit na nejnovější spuštění, důležité aktualizace a připomenutí.
+
+[Zaregistrujte se sem](https://globalpbocomm.eventbuilder.com/GlobalCSP).
+
+### <a name="next-steps"></a>Další kroky
+
+Projděte si materiály komunity a zaregistrujte se na dotaz&pro komunitu.
+
+Abyste se ujistili, že získáte maximum z&, přečtěte si obsah komunity na vyžádání a odešlete své dotazy až 48 hodin před voláním.
+
+### <a name="questions"></a>Máte otázky?
+
+Toto je nejlepší místo pro otázky související se změnami v programu CSP, který představuje měsíční volání&komunity poskytovatele CSP. Každý měsíc si Projděte materiál a odešlete své otázky předem, abychom mohli strávit relaci v tématech, která jsou pro vás nejdůležitější.
+
+Pokud chcete získat další informace, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 ________________
 ## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Připomenutí: zastaralost získat kvalifikaci na 4. května 2021
