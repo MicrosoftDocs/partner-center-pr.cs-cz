@@ -10,17 +10,85 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/16/2021
-ms.openlocfilehash: 68635b4c02ddbbcaa6cbf02166a7cf123aaf2c6e
-ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
+ms.date: 04/19/2021
+ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/17/2021
-ms.locfileid: "107584179"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728925"
 ---
 # <a name="april-2021-announcements"></a>Oznámení z dubna 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu pro duben 2021.
+
+________________
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Otevřený licenční program: přechod prodejců do programu Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-04-19
+- Rozšiřte svou firmu
+
+### <a name="summary"></a>Souhrn
+
+Tato komunikace podrobně popisuje, jak připravit změny, které se připravují do programu Open Licensing.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+CSP a Open License partneři
+
+### <a name="details"></a>Podrobnosti
+
+V 2020 společnost Microsoft [oznámila](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) , že trvalé licence k softwaru budou široce dostupné partnerům a zákazníkům prostřednictvím programu Cloud Solution Provider (CSP). První milník byl dosažen v lednu 2021, kdy byly k dispozici komerční nabídky s trvalou dostupností softwaru. Další klíčový milník bude probíhat v červenci 2021, když budou nabídky [veřejného sektoru](https://aka.ms/openlicensepublicsector) k dispozici. Také jsme [komunikovali](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) s účinností od 1. ledna 2022, žádného nového nákupu licence k softwaru ani obnovení programu Software Assurance nebo online služby lze provést prostřednictvím Open License programu.
+
+Přechod trvalého softwaru do programu CSP v novém prostředí pro obchod pomůže partnerům rozšířit příležitosti, aby nabídli různá řešení a spravované služby. Tím se také urychlí převod zákazníků do cloudu.  Abychom zajistili hladký přechod jak pro naše partnery, tak pro zákazníky, provedli jsme tyto úpravy a materiály k urychlení této digitální transformace:
+
+#### <a name="april-2021"></a>Duben 2021
+
+[Nyní k dispozici](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/): přechodové materiály Open License-to-CSP pro prodejce
+
+#### <a name="july-2021"></a>Červenec 2021
+
+##### <a name="csp"></a>CSP
+
+- 1. července: pro zákazníky ve veřejném sektoru jsou k dispozici trvalé softwarové licence
+
+- 7. července pro sadu Visual Studio pro a získejte pro všechny segmenty trvalé licenční licence pro Windows
+
+##### <a name="open-value"></a>Otevřená hodnota
+
+- 1. července: další SKU dostupné v programu Open Value pro vzdělávání a nezisk a poskytování podobných nabídek Open License programu
+
+##### <a name="open-license"></a>Open License
+
+- 1. července: Společnost Microsoft již nebude spouštět nové nabídky v programu Open License.
+
+#### <a name="january-2022"></a>Leden 2022
+
+- 1. ledna: pomocí Open License programu nelze provést žádné nové nákupy ani obnovení.
+
+### <a name="next-steps"></a>Další kroky
+
+#### <a name="csp-indirect-providers"></a>Nepřímá zprostředkovatelé CSP
+
+Pomocí nadcházejících měsíců můžete Open License prodejcům, kteří se účastní událostí partnerských komunit a používají přechodové materiály Open License-to-CSP pro prodejce:
+
+- [Přechodové materiály Open License-to-CSP pro prodejce](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/)– přizpůsobitelné prezentace s přehledem, e-mailová šablona, průvodce připojováním nepřímým prodejcům CSP a další informace, které vám pomůžou zajistit škálování vašich prodejců.
+
+- [Události komunity partnera CSP](https://globalpbocomm.eventbuilder.com/GlobalCSP) hostované obchodními operacemi Microsoftu  Připojte se k různým relacím a Naučte se základy CSP (základy CSP) nebo Udržujte aktuální informace a položte otázky týkající se softwaru v CSP (Q&A relace).
+
+- (Už brzy) Nepřímý prodejce CSP – prioritní cvičení, které hostuje obchodní operace Microsoftu.
+
+#### <a name="open-license-resellers"></a>Open License prodejci
+
+- Pokud vaše organizace není v tuto chvíli zaregistrovaná v programu CSP, obraťte se na svého distributora, kde najdete informace o tom, jak začít. [Tady](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)se připojte přímo k poskytovateli.
+
+- Pokud je vaše organizace už zaregistrovaná v programu CSP, další informace o trvalém softwaru v CSP najdete [tady](https://partner.microsoft.com/resources/collection/software-in-csp).
+
+### <a name="questions"></a>Máte otázky?
+
+Další otázky k těmto nabídkám najdete v příslušných komunitách Yammeru.
 
 ________________
 ## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Nyní Live: Průvodce globální propagační připravenosti

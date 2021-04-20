@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
-ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
+ms.date: 04/19/2021
+ms.openlocfilehash: b96832fe4450cadd2da83e4cf9697f1f16bc81a3
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/17/2021
-ms.locfileid: "107584193"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728942"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z dubna 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Rozšiřte svou firmu|[Otevřený licenční program: přechod prodejců do programu Cloud Solution Provider (CSP)](2021-april.md#7)|19. dubna|
 |Možnosti|[Nyní Live: Průvodce globální propagační připravenosti](2021-april.md#6)|16. dubna|
 |Komunita: pozvánky a připomenutí|[Aktualizace a připomenutí komunity Cloud Solution Provider (CSP)](2021-april.md#5)|16. dubna|
 |Možnosti|[Připomenutí: zastaralost získat kvalifikaci na 4. května 2021](2021-april.md#4)|9. dubna|
