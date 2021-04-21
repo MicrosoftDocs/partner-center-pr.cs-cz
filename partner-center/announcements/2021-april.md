@@ -10,17 +10,61 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728925"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823380"
 ---
 # <a name="april-2021-announcements"></a>Oznámení z dubna 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu pro duben 2021.
+
+________________
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Zásady pro vracení softwaru pro poskytovatele Cloud Solution Provider (CSP) a stáhnout oznámení o vypršení platnosti odkazu
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-04-21
+- Možnosti
+
+### <a name="summary"></a>Souhrn
+
+Existují změny v zásadách pro návratové období softwaru CSP a vypršení platnosti odkazu ke stažení.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři, kteří se dotýkají trvalé nabídky softwaru nebo softwaru pro předplatné v CSP
+
+### <a name="details"></a>Podrobnosti
+
+Všimněte si následujících důležitých oznámení týkajících se trvalého nákupu předplatného softwaru a softwaru prostřednictvím partnerského centra:
+
+#### <a name="software-return-period-policy"></a>Zásady pro návratové období softwaru
+
+Od 1. června 2021 se doba vrácení pro nabídky softwaru v CSP, jak je uvedeno v části Microsoft Partner Agreement (MPA), změní ze 60 dnů od data objednávky na 30 dní od data objednávky.
+
+Po odeslání objednávky na softwarovou nabídku budou mít partneři 30 dnů od data objednávky, aby odeslali jakékoli revize do tohoto pořadí:
+
+- Veškerá Trvalá softwarová licence, která se vrátila během 30denní zpáteční lhůty, obdrží plný kredit placené nákupní ceny.
+
+- Veškerý produkt pro předplatné softwaru vrácený během 30denní zpáteční lhůty obdrží poměrný kredit placené nákupní ceny.
+
+Tato zpráva je následná pro naši e-mailovou komunikaci odeslanou od prosince 2020 do dubna 2021 všem partnerům CSP v souvislosti s návratovou dobou a dalšími aktualizacemi aktivace. V těchto oznámeních najdete úplné podrobnosti o změnách, které mají vliv na aktivaci.
+
+#### <a name="software-download-link-expiry"></a>Vypršení platnosti odkazu na stažení softwaru
+
+Od 3. června 2021 budou odkazy na stažení softwaru pro trvalé nákupy softwaru a softwaru prostřednictvím partnerského centra mít datum vypršení platnosti 5 dní od prvotního stažení. Doba platnosti se bude vztahovat na všechny nákupy do 3. června 2021 a taky do 3. června 2021.
+
+### <a name="next-steps"></a>Další kroky
+
+Přečtěte si [Nejčastější dotazy k návratové době CSP a Stáhněte si informace o vypršení platnosti odkazů](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf)a informujte všechny příslušné týmy ve vaší organizaci s těmito změnami:
+
+### <a name="questions"></a>Máte otázky?
+
+Otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru.
 
 ________________
 ## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Otevřený licenční program: přechod prodejců do programu Cloud Solution Provider (CSP)
