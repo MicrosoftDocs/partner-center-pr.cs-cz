@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: fcd3905777cd69665158ebff73f115bf6dd00b9d
-ms.sourcegitcommit: 1f090ea858b25d1d0664d6e94cb4a6898e91dd85
+ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
+ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107715914"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "107894056"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Podrobnosti o daních pro vydavatele na komerčním marketplace
 
@@ -39,16 +39,16 @@ V **zemích prodejce** se společnost Microsoft chová jako prodejce, nikoli jak
 |   |    |    |   |
 |---------------|:------------------|:--------|:----------|
 |Americké Panenské ostrovy|Konžská demokratická republika|Jersey|Norfolk|
-|Afghánistán|Cookovy ostrovy|Jordánsko|Ukrajina|
-|Albánie|Kostarika|Kazachstán|Vanuatu|
-|Alžírsko|Côte d'Ivore|Keňa|Vatikán|
-|Americká Samoa|Curaçao|Kiribati|Venezuela|
-|Andorra|Dübouti|Kuvajt|Vietnam|
-|Angola|Dominika|Kyrgyzstán|Wallis & Futuna|
-|Anguilla|Dominikánská republika|Laos|Jemen|
-|Antarktida|Ekvádor|Libanon|Zambie|
-|Antigua & Barbuda|Egypt|Lesotho|Uruguay||Severní Makedonie|
-|Aruba|Salvador|Libérie|
+|Afghánistán|Cookovy ostrovy|Jordánsko|Severní Makedonie|
+|Albánie|Kostarika|Kazachstán|Ukrajina|
+|Alžírsko|Côte d'Ivore|Keňa|Vanuatu|
+|Americká Samoa|Curaçao|Kiribati|Vatikán|
+|Andorra|Dübouti|Kuvajt|Venezuela|
+|Angola|Dominika|Kyrgyzstán|Vietnam|
+|Anguilla|Dominikánská republika|Laos|Wallis & Futuna|
+|Antarktida|Ekvádor|Libanon|Jemen|
+|Antigua & Barbuda|Egypt|Lesotho|Zambie|
+|Aruba|Salvador|Libérie|Uruguay|
 |Ázerbájdžán|Rovníková Guinea|Libye|
 |Bangladéš|Eritrea|Macao |
 |Barbados|Etiopie|Madagaskar|
