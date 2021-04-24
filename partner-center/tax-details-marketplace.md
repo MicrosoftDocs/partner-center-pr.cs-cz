@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
-ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
+ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
+ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107894056"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107927743"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Podrobnosti o daních pro vydavatele na komerčním marketplace
 
@@ -36,7 +36,7 @@ V **zemích prodejce** se společnost Microsoft chová jako prodejce, nikoli jak
 
 ### <a name="publisherdeveloper-managed-countries"></a>Země spravované vydavatelem nebo vývojářem: 
 
-|   |    |    |   |
+| Země | Země (pokračování) | Země (pokračování) | Země (pokračování) |
 |---------------|:------------------|:--------|:----------|
 |Americké Panenské ostrovy|Konžská demokratická republika|Jersey|Norfolk|
 |Afghánistán|Cookovy ostrovy|Jordánsko|Severní Makedonie|
@@ -72,14 +72,14 @@ V **zemích prodejce** se společnost Microsoft chová jako prodejce, nikoli jak
 |Středoafrická republika|Heardův ostrov & MacDonaldovy ostrovy|Nauru|
 |Čad|Honduras|Nepál|
 |Vánoční ostrov|Irák|Nikaragua|
-|Kokosové (Keelingovy) ostrovy|Izrael|Niger|
+|Kokosové ostrovy|Izrael|Niger|
 |Komory|Jamajka|Nigérie|
 |Kongo|Japonsko|Niue|
 
 
 ### <a name="microsoft-managed-countries"></a>Země spravované společností Microsoft
 
-| | |  |  |
+| Země | Země (pokračování) | Země (pokračování) | Země (pokračování) |
 |---------|-----------|--------|----|
 |Arménie|Finsko|Lucembursko|Singapur|
 |Rakousko|Francie|Malajsie|Slovensko|
