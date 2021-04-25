@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 410ee9bee307f78cc93dabbafab147bb725a8d02
+ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549256"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "107941806"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Získejte přehledy odkazů v partnerském centru a zjistěte, jak dělají vaše odkazy.
 
@@ -23,7 +23,7 @@ Stránka s **příležitostmi k prodeji** v části **Analýza** v tématu odkaz
 Pokud chcete zobrazit data o společném prodeji příležitostí, přejděte v nabídce partnerského centra do části **references > Analytics > možnosti společného prodeje**.
 
 > [!Important]
-> Filtr typu obchodu je předem použit s typem **společného prodeje** vybraného pro všechna data. Odeberte filtr, pokud chcete anlayze data související s soukromými obchody.
+> Filtr typu obchodu je předem použit s typem **společného prodeje** vybraného pro všechna data. Odeberte filtr, pokud chcete anlayze data související s privátními a partnerskými obchody.
 
 ## <a name="apply-filters"></a>Použití filtrů
 
@@ -33,10 +33,10 @@ Můžete vybrat tlačítko **filtry** a otevřít panel, který vám umožní fi
 
 - **Název zákazníka**: výchozí hodnota je **vše**, ale můžete omezit data na jednoho nebo více zákazníků, které vyberete.
 - **Country (země**): výchozí hodnota je **All**, ale data můžete omezit na jednu nebo více zemí zákazníka, které vyberete.
-- **Typ kouposti**: výchozí hodnota je **vše**, ale data můžete omezit na buď možnosti společného prodeje, nebo soukromé obchody na základě vašeho výběru.
+- **Typ kouposti**: ve výchozím nastavení se používá **společný prodej** , ale můžete buď vybrat všechna nebo omezit data na soukromá nebo na základě vašeho výběru.
 - **Směr obchodu** Výchozí hodnota je **vše**, ale můžete omezit data na **příchozí** odkazy (ty, které jste přijali), nebo na **odchozí** odkazy (ty, které jste odeslali).
 - **Název řešení**: výchozí hodnota je **vše**, ale můžete omezit data na odkazy, které obsahují jedno nebo více vybraných řešení.
-- **Stav**: výchozí hodnota je **vše**, ale můžete omezit data na referenční údaje, které obsahují jeden nebo více typů stavu odkazů, jako přijaté, odmítnuté, prošlé, ztracené a získaná, která jste vybrali.
+- **Stav**: výchozí hodnota je **vše**, ale můžete omezit data na referenční údaje, které obsahují jeden nebo více typů stavů odkazů, jako je například vytvořeno, přijato, odmítnuto, vypršela platnost, ztraceno a získaná vybraná.
 
 Informace ve všech grafech uvedených níže budou odrážet rozsah dat a všechny filtry, které jste vybrali, s tím rozdílem, že jsou uvedeny níže. Některé oddíly také umožňují použít další filtry, například filtrování na konkrétní řešení.
 
@@ -54,17 +54,25 @@ Procentuální metrika změny (zobrazená červeně nebo zeleně s indikátorem 
 
 V této části se zobrazuje vizuální indikátor toho, jak se vaše obchody pohybují z jednoho stavu do druhého prostřednictvím jejich životního cyklu. Celý životní cyklus můžete zobrazit na základě objemu koupě, jakož i hodnoty koupě v USD na základě hlavního pivotu pro tuto část. První část je označena stavem i typem obchodu, který vám poskytne vizuální indikátor objemu nebo hodnoty podle typu. K dispozici je také část s **odkazy z minulosti**, která označuje obchody, pro které jste provedli akci přijetí nebo odmítnutí nebo jejich označení jako získanou nebo ztracenou v časovém období, které bylo vybráno pro sestavu. Filtry můžete použít k zobrazení průběhu obchodů v různých fázích jejich životního cyklu.
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Obrázek znázorňující trychtýř převodů pro referenční seznamy":::
+Příchozí obchody se můžou sloučit do přijetí, odmítnutí nebo vypršení platnosti, protože partneři musí buď přijmout nebo odmítnout příchozí obchody v rámci prodeje.
+
+:::image type="content" source="images/referrals/inbound.png" alt-text="Obrázek znázorňující stavy příchozích odkazů":::
+
+Odchozí obchody, které jsou v partnerském režimu, se sloučí do vytvoření, protože tyto typy obchodů vytvoří partneři.
+
+:::image type="content" source="images/referrals/outbound.png" alt-text="Obrázek ukazující stavy odchozích odkazů.":::
+
+:::image type="content" source="images/referrals/cosell-analytics-funnel-v2.png" alt-text="Obrázek znázorňující trychtýř převodů pro referenční seznamy":::
 
 ## <a name="deals-by-geography"></a>Obchody podle geografie
 
 V této části najdete země nebo oblasti, ze kterých pocházejí obchody, spolu s podrobnostmi pro každou zemi nebo oblast. K dispozici je zobrazení tabulky podrobností o obchodu pro každou zemi spolu s zobrazením mapy všech zemí. V tabulce můžete vybrat konkrétní zemi nebo vybrat zobrazení mapy, které chcete zvětšit na konkrétní zemi.
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Obrázek znázorňující geografickou distribuci odkazů.":::
+:::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Obrázek znázorňující geografickou distribuci odkazů.":::
 
 ## <a name="deals-by-solutions"></a>Obchody podle řešení
 
-Tento graf vám umožní zjistit, které z vašich řešení řídí nejvíce odkazů a nejvyšší hodnotu obchodu. Tabulka má dvě kontingenční tabulky – společný prodej a soukromé.
+Tento graf vám umožní zjistit, které z vašich řešení řídí nejvíce odkazů a nejvyšší hodnotu obchodu. Tabulka obsahuje tři kontingenční tabulky – společný prodej, partnerský partner a soukromý.
 Na základě vašeho výběru kontingenčního programu vidíte výkon souhrnných řešení.
 
 > [!NOTE]
@@ -72,7 +80,7 @@ Na základě vašeho výběru kontingenčního programu vidíte výkon souhrnný
 
 V tabulce jsou celkem obchody, které obsahují řešení, které obsahuje, a odpovídající stavy, jako je výhra, ztráty, počet neúspěšných obchodů spolu s celkovými obchody a jejich ztráty v měně USD. Napravo od tabulky obsahuje také graf trendů, který zobrazuje celkový počet obchodů a hodnotu obchodu získanou v měně USD v závislosti na vybraném řešení. Výchozím výběrem jsou všechna řešení.
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Obrázek znázorňující výkon řešení":::
+:::image type="content" source="images/referrals/cosell-analytics-solutions-v2.png" alt-text="Obrázek znázorňující výkon řešení":::
 
 ## <a name="declined--lost-reasons"></a>Odmítnuté důvody ztráty &
 
@@ -89,9 +97,9 @@ Pro porovnání dat se dají vybrat tři dimenze.
 - Trhy
 - Řešení
 
-Když vyberete typ kouposti, můžete porovnat výkon odkazů s ohledem na možnosti společného prodeje a soukromé obchody. U obou trhů i řešení můžete pro porovnání výkonu vybrat až tři různé možnosti. První graf, který je pruhový graf, bude mít data uvedená v měsíci trendu v měsíci, který je založený na hlavním pivotu, což je objem nebo získaná hodnota obchodů. Napravo od pruhového grafu je také výsečový graf, který ukazuje rozdělení podle procenta pro stejná data.
+Když vyberete typ kouposti, můžete porovnat jeho výkon s ohledem na možnosti společného prodeje, řízení partnerů a soukromé obchody. U obou trhů i řešení můžete pro porovnání výkonu vybrat až tři různé možnosti. První graf, který je pruhový graf, bude mít data uvedená v měsíci trendu v měsíci, který je založený na hlavním pivotu, což je objem nebo získaná hodnota obchodů. Napravo od pruhového grafu je také výsečový graf, který ukazuje rozdělení podle procenta pro stejná data.
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Obrázek znázorňující část porovnání":::
+:::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Obrázek znázorňující část porovnání":::
 
 ## <a name="raw-data-table"></a>Tabulka nezpracovaných dat
 
