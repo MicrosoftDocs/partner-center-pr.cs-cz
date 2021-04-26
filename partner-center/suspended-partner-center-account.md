@@ -9,16 +9,14 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441553"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002820"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Obnovení pozastaveného účtu v Partnerském centru – Informace o příčinách a možných postupech
-
-Tento článek vysvětluje, co dělat v případě, že dojde k pozastavení účtu v Partnerském centru.
 
 **Platí pro**
 
@@ -28,6 +26,7 @@ Tento článek vysvětluje, co dělat v případě, že dojde k pozastavení ú�
 
 - Globální správce
 
+Tento článek vysvětluje, co dělat v případě, že dojde k pozastavení účtu v Partnerském centru.
 
 > [!IMPORTANT]  
 > I když je váš účet v Partnerském centru pozastavený, můžete dál spravovat stávající nasazení, licence a služby. Dokud však váš učet nebude opět v pořádku, nemůžete autorizovat ani prodávat nové licence ani služby.

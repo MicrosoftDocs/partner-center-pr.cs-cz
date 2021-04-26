@@ -9,14 +9,18 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: f395987ef647fa6f7ed264c6476ddae419eabc34
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028413"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002854"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrace předplatných Online Skypu pro firmy (plán 1) na novější verze Office 365
+
+**Příslušné role**
+
+- Agent prodeje
 
 Plán 1 pro Online Skype pro firmy bude vyřazený, platí od 1. srpna 2018. Po tomto datu si zákazníci už nebudou moct koupit nové předplatné pro Skype pro firmy Plan 1 a stávající odběry se po vypršení platnosti nebudou automaticky obnovovat a nenabídnou možnost obnovení. Na stránce s podrobnostmi o předplatném se stav předplatného pro Skype for Business Online plánu 1 změnil na "vyprší dne [Date]" z "automatické obnovy" v [datum] ".  
 
@@ -76,3 +80,8 @@ Po přesunutí uživatelské licence na novou službu můžete zrušit vyřazen�
 
 Staré předplatné je pozastavené a nové předplatné je aktivní. Pozastavený odběr bude po 120 dnech automaticky zřízen. Zákazník nevzniká žádné další poplatky za původní předplatné.
 
+## <a name="next-steps"></a>Další kroky
+
+- [Poradci: vytvoření a odeslání pozvánky k vyzkoušení klientů k vyzkoušení Office 365](advisors-create-a-trial-invitation.md)
+- [Poradci: sestavení vaší klientské základny pomocí zkušebních pozvánek Office 365 a nabídek nákupů](advisors-build-your-business.md)
+- [Poradci: Vytvoření nabídky nákupu](advisor-create-a-purchase-offer.md)

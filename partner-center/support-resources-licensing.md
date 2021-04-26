@@ -8,15 +8,18 @@ description: Jako partner Microsoftu máte dotazy týkající se používání r
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756814"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002890"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Průvodce licencováním prostředků pro partnery Microsoftu 
 
+**Příslušné role**
+
+- Agent pro podporu
 
 Tento článek sdílí prostředky, které můžou přispět k zodpovězení dotazů na licencování partnerů.
 
@@ -94,6 +97,6 @@ Pokud chcete zobrazit možnosti podpory nebo spustit lístek podpory, přečtět
 ## <a name="next-steps"></a>Další kroky
 
 - [Zobrazit další prostředky podpory](https://partner.microsoft.com/support/?stage=1)
-- [Vyhledání partnera](find-a-partner.md)
+- [Najít partnera](find-a-partner.md)
 - [Další informace nebo registrace v programu MPN](https://partner.microsoft.com/membership)
 - [Další informace nebo registrace v programu CSP](https://partner.microsoft.com/membership/cloud-solution-provider)

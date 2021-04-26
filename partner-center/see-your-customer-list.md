@@ -9,18 +9,23 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 244a8cfc661b371b611a19a5c90ddf131b42a46a
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 1791d415d0004520e8c7dc950decf540c91cf003
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441961"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002837"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Správa seznamu zákazníků – hledání, aktualizace nebo export zákazníků v partnerském centru
 
 **Platí pro**
 
 - Partnerské centrum pro Microsoft Cloud for US Government
+
+**Příslušné role**
+
+- Agent správce
+- Globální správce
 
 Záznamy zákazníků jsou mezi nejdůležitějšími informačními prostředky v partnerském centru. Můžete hledat v databázi zákaznických účtů, exportovat celou zákaznickou databázi nebo exportovat podmnožinu, do formátu souboru hodnot oddělených čárkami (. csv) kompatibilním s Excelem. Informace o předplatných zákazníka taky můžete exportovat do souboru. csv.
 

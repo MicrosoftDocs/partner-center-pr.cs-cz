@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f90162ce7d3848fc930c956077ae96994848696
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: b339c0eec72d2184e15301270633305682799461
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028447"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002871"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Použití partnerského centra k prodeji předplatných zákazníků z komerčních produktů na webu Marketplace
+
+**Příslušné role**
+
+- Agent prodeje
 
 Jako partner v programu CSP můžete použít Partnerské centrum k prodeji předplatných produktů SaaS (software jako služba), které byly publikovány na komerčním webu Marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) a [Azure Marketplace](https://azuremarketplace.microsoft.com/)) nezávislými dodavateli softwaru (ISV).
 
