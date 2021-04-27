@@ -8,14 +8,19 @@ description: Vyžádejte si vztah se zákazníkem pro Multi-Channel nebo více k
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548967"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018131"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Jak požádat zákazníka o navázání vztahu na úrovni prodejce v Partnerském centru
+
+**Příslušné role**
+
+- Agent správce
+- Globální správce
 
 Pokud chcete svým jménem spravovat službu nebo předplatné zákazníka, musíte zákazníkovi udělit oprávnění správce k této službě nebo předplatnému a podepsat smlouvu o zákaznících Microsoftu.
 
@@ -38,7 +43,7 @@ Můžete požádat o vztah prodejce se zákazníkem ve vaší zemi nebo ve stejn
 
 4. Odešlete e-mail zákazníkovi.
 
-5. Jakmile zákazník vaši pozvánku přijme, zobrazí se na stránce vaši **zákazníci** a vy budete moci zřídit a spravovat službu pro zákazníka.
+5. Jakmile zákazník vaši pozvánku přijme, zobrazí se na stránce vaši **zákazníci** a může službu pro zákazníka zřídit a spravovat.
 
    > [!NOTE]
    > Pokud zákazník smlouvu o zákaznících Microsoftu ještě nepřijal, zobrazí se jim výzva k tomu, aby si pozvánku přijali. Aby zákazník mohl přijmout pozvánku, musí být globálním správcem.

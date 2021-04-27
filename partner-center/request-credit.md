@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d33188510b127873864260199ff92018e1a4d995
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103821"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018148"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Jak a kdy požádat o kredit smlouvy o úrovni služeb (SLA) od Microsoftu
 
-Můžete požádat o **kredity smlouvy o úrovni služeb (SLA)** od Microsoftu v případě výpadku služby, kterou poskytujete pro vaše zákazníky.
+**Příslušné role**
+
+- Agent správce
+- Globální správce
+
+**Kredity smlouvy o úrovni služeb (SLA)** si můžete vyžádat od Microsoftu, pokud služba, kterou poskytujete pro vaše zákazníky, má výpadek.
 
 ## <a name="sla-credit-calculation"></a>Výpočet kreditu SLA
 
@@ -29,7 +34,7 @@ Kredity SLA od Microsoftu se stanovují na základě toho, které služby byly o
 
 ## <a name="request-an-sla-credit"></a>Požádat o kredit smlouvy SLA
 
-*Partner poskytovatele Cloud Solution Provider (CSP) musí podat žádost a všechny požadované informace na konci kalendářního měsíce následujícího po měsíci, kdy došlo k incidentu.* Pokud například k incidentu došlo 15. února, společnost Microsoft musí tuto deklaraci identity a všechny požadované informace získat 31. Koncoví zákazníci a nepřímí prodejci nemůžou odesílat deklarace identity kreditu SLA; buď nepřímý poskytovatel, nebo přímý fakturační partner, musí za jeho jménem odesílat deklarace identity.
+*Partner poskytovatele Cloud Solution Provider (CSP) musí podat žádost a všechny požadované informace na konci kalendářního měsíce následujícího po měsíci, kdy došlo k incidentu.* Například pokud k incidentu došlo 15. února, společnost Microsoft musí tuto deklaraci identity a všechny požadované informace získat do 31. března. Koncoví zákazníci a nepřímí prodejci nemůžou odesílat deklarace identity kreditu SLA; buď nepřímý poskytovatel, nebo přímý fakturační partner, musí za jeho jménem odesílat deklarace identity.
 
 >[!NOTE]
 >Poradenské incidenty ([Jak kontrolovat Microsoft 365 Service Health](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)) nemají nárok na kredity smlouvy SLA.

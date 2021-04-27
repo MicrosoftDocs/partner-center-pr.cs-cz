@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315843"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018183"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Obnovit oprávnění správce pro předplatná Azure CSP zákazníka  
 
@@ -29,7 +29,7 @@ Jako partner CSP vaši zákazníci často očekávají, že budete spravovat jej
 
 Pro Azure v CSP jsou k dispozici dvě úrovně oprávnění správce.
 
-**Oprávnění správce na úrovni tenanta** (**delegovaná oprávnění správce**) – partneři CSP získají tato oprávnění při zřizování vztahů prodejců CSP se zákazníky. Delegovaná oprávnění správce dává partnerům CSP přístup k svým klientům, kteří jim umožní provádět funkce správy, jako je například přidání nebo Správa uživatelů, resetování hesel a Správa uživatelských licencí.
+**Oprávnění správce na úrovni tenanta** (**delegovaná oprávnění správce**) – partneři CSP získají tato oprávnění při zřizování vztahů prodejců CSP se zákazníky. Delegovaná oprávnění správce dávají partnerům CSP přístup k svým klientům, kteří jim umožní provádět funkce správy, jako je například přidání nebo Správa uživatelů, resetování hesel a Správa uživatelských licencí.
 
 **Oprávnění správce na úrovni předplatného** – partneři CSP získají tato oprávnění při vytváření předplatných Azure CSP pro své zákazníky. Tato oprávnění poskytují partnerům CSP úplný přístup k těmto předplatným, která jim umožní zřídit a spravovat prostředky Azure.
 
@@ -39,7 +39,7 @@ Zákazník může přiřazení role CSP znovu vytvořit, pokud zadáte ID objekt
 
 1. Přihlaste se k řídicímu panelu partnerského centra a v nabídce partnerské Centrum vyberte **zákazníci**.
 
-2. Vyberte zákazníka, se kterým pracujete, a **požádejte o něj vztah prodejce.** Tím se vygeneruje odkaz na zákazníka, který má práva správce tenanta.
+2. Vyberte zákazníka, se kterým pracujete, a **požádejte o něj vztah prodejce.** Tato akce vygeneruje odkaz na zákazníka, který má práva správce tenanta.
 
 3. Zákazník musí vybrat odkaz a schválit žádost o vztah prodejce.
 
@@ -79,7 +79,7 @@ Zákazník může přiřazení role CSP znovu vytvořit, pokud zadáte ID objekt
     ```
 
 
-Pokud je potřeba udělit oprávnění role vlastníka na úrovni skupiny prostředků nebo na úrovni prostředku místo oboru předplatného, můžou fungovat tyto příkazy:
+Pokud chcete udělit oprávnění role vlastníka na úrovni skupiny prostředků nebo na úrovni prostředku místo oboru předplatného, můžou fungovat tyto příkazy:
 
 
 ```powershell

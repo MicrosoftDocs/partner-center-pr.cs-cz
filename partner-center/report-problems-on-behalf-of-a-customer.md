@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441944"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018114"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Nahlášení problému služby jménem zákazníka – včetně toho, kdy a jak postupovat
 
@@ -24,7 +24,7 @@ ms.locfileid: "106441944"
 
 **Příslušné role**
 
-- Nepřímý poskytovatel
+- Globální správce
 
 Pokud má zákazník nějaký problém se službou, který nelze vyřešit a který splňuje kritéria popsaná v tématu [Eskalace problémů společnosti Microsoft](escalate-problems-to-microsoft.md), váš nepřímý poskytovatel může pro ně vytvořit lístek podpory. Tento proces je také užitečný pro eskalaci problémů fakturace nebo sporů a pro otázky týkající se podvodů.
 
@@ -109,7 +109,7 @@ V následujících nejčastějších dotazech o žádostech o služby, které m�
 
 Žádosti o služby by se měly archivovat prostřednictvím partnerského centra. Jsou k dispozici pro Azure, systém Microsoft Office 365, Microsoft Dynamics CRM Online a Enterprise Mobility Suite. Jako partner, který se účastní programu Cloud Solution Provider, můžete očekávat prioritní dobu odezvy na vaše hlavní problémy.
 
-Podpora pro vašeho vlastního tenanta partnera není zahrnutá v rámci výhody podpory CSP. Office 365, Microsoft Dynamics CRM Online a Enterprise Mobility Suite ale neúčtují samostatné poplatky za předplatné podpory pro partnery nebo zákazníky. Azure účtuje poplatek, ale pokud máte nárok na podpisovou podporu cloudu nebo jiné výhody Microsoft Partner Network (MPN), můžete je použít k placení tohoto poplatku.
+Podpora pro vašeho vlastního tenanta partnera není zahrnutá v rámci výhody podpory CSP. Office 365, Microsoft Dynamics CRM Online a Enterprise Mobility Suite ale neúčtují samostatné poplatky za předplatné podpory pro partnery nebo zákazníky. Azure účtuje poplatek, ale pokud máte nárok na podpisovou podporu cloudu nebo jiné výhody Microsoft Partner Network (MPN), můžete tyto výhody využít k placení tohoto poplatku.
 
 Tato výhoda se vztahuje na všechny partnery, kteří se účastní programu Cloud Solution Provider, ať už placeného, nebo zkušebního období. Podpora fakturace a správy předplatného je také součástí bezplatné komponenty tohoto balíčku.
 

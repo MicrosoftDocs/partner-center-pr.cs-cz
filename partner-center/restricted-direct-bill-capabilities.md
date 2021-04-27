@@ -9,14 +9,18 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623979"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018063"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Omezené možnosti přímého vyúčtování a požadavky, které jsou potřeba pro partnery poskytovatele CSP Direct  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Omezené možnosti přímého vyúčtování a požadavky, které jsou potřeba pro partnery poskytovatele CSP Direct
+
+**Příslušné role**
+
+- Globální správce
 
 ## <a name="overview"></a>Přehled
 
@@ -29,7 +33,7 @@ Partneři s přímým účtováním musí splňovat nové [požadavky](direct-pa
 
 Chcete-li potvrdit, zda byl omezen přístup z partnerského klienta přímé fakturace na možnost přímé vyúčtování, postupujte podle těchto kroků.
 
-1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard).
+1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard).
 
 2. Přejít na **Nastavení účtu**  ->  **právní profil**.
 
@@ -58,8 +62,8 @@ Existujícím předplatným přímých fakturování nejsou ovlivněny. Zůstáv
 - Upravit počet licencí stávajících předplatných založených na licencích
 
 - Upravte počet licencí existujících doplňků v předplatném. 
- 
-    >[!Note] 
+
+    >[!Note]
     >Do stávajících předplatných nemůžete přidávat nové doplňky, protože se považují za nové nákupy.
 
 - Nasaďte nové prostředky Azure a spravujte stávající prostředky Azure v rámci stávajících předplatných Azure. To zahrnuje prostředky, které jsou k dispozici prostřednictvím Azure Marketplace a předplatných sady Visual Studio.
@@ -73,7 +77,7 @@ Kromě nových nákupů nemůžete získat přístup k následujícím možnoste
     >[!NOTE]
     >V rámci přechodu z přímého poštovního partnera na nepřímý prodejce, pokud jste už zaregistrovali svého tenanta partnera pro fakturaci jako nepřímý prodejce, můžete místo toho vygenerovat pozvánku pro zákazníka žádajícího o nepřímý vztah prodejců.
 
-- Nemůžete vytvořit nového tenanta izolovaného prostoru (sandbox). Každý partnerský partner pro přímé faktury může vytvořit jednoho tenanta izolovaného prostoru (sandbox) pro účely přímé integrace služby API. Pokud jste ho ještě nevytvořili, nemusíte to udělat, až budete mít k možnost směrování na straně serveru.  
+- Nemůžete vytvořit nového tenanta izolovaného prostoru (sandbox). Každý partnerský partner s přímým přístupem může vytvořit jednoho tenanta izolovaného prostoru (sandbox) pro přímou integraci služby API. Pokud jste to ještě nevytvořili, nebudete se moct tak učinit, až se vám bude omezovat vaše přímá funkce pro partnery z poštovního účtu.  
 
 ## <a name="next-steps"></a>Další kroky
 
