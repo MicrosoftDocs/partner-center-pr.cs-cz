@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712796"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067503"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Propojení nebo zrušení propojení ID certifikačního profilu (MCID) Microsoftu s účtem Microsoft Partner Network (MPN)
 
@@ -73,9 +73,9 @@ Uživatel musí propojit své MCID se společností B podle výše uvedeného po
 
 Správce by měl nejdřív ověřit použitou e-mailovou adresu a pak by se měl obrátit na uživatele, kterému byly informace o účtu poskytnuty.
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited"></a>Uživatel se pokusí přidružit svůj účet MCP Learning ke svému profilu v partnerském centru a obdrží zprávu, že jejich přidružení je omezené.
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>Uživatel se pokusí přidružit svůj účet MCP Learning ke svému profilu v partnerském centru a obdrží zprávu, že jejich přidružení je omezené. Například jste se pokusili přidružit k partnerské organizaci. Nicméně vyžadujeme období 30 dní mezi přidruženími. Nejbližší dostupné datum pro následné přidružení je XXX "
 
-Pro ochranu před zneužitím má jednotlivec MCP omezený počet sdružení povolených každý rok. Každý uživatel může zjistit datum v profilu a zjistit, kdy mohou začít nové přidružení. Pokud má uživatel problémy, které se k tomuto datu přiřadí, obraťte se na podporu.  
+Pro ochranu proti zneužívání má jednotlivec MCP omezený počet 3 přidružení povolený každým rokem a mezi jednotlivými přidruženími začíná 30 dnů a dobu trvání, která začíná na začátku přidružení. Každý uživatel může zjistit datum v profilu a zjistit, kdy mohou začít nové přidružení. Pokud má uživatel problémy, které se k tomuto datu přiřadí, obraťte se na podporu.  
 
 ## <a name="how-to-get-support"></a>Jak získat podporu
 

@@ -5,13 +5,13 @@ ms.topic: conceptual
 ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/16/2021
-ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
-ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
+ms.date: 04/26/2021
+ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "107927743"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067392"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Podrobnosti o daních pro vydavatele na komerčním marketplace
 
@@ -124,6 +124,39 @@ Společnost Microsoft shromažďuje daňové poplatky za Store v následujícíc
 |Nový Zéland|Daň za poplatek za služby|Daň za poplatek za služby|
 |Singapur|Daň za poplatek za služby|Daň za poplatek za služby|
 
+## <a name="commercial-marketplace-payout-scenarios"></a>Scénáře výběrů komerčního tržiště
+
+### <a name="end-customer-taxation"></a>Zdanění koncových zákazníků
+
+- Scénář 1: zákazník v nabídce správy země spravované vydavatelem
+
+  :::image type="content" source="images/tax/scenario-one.png" alt-text="Graf znázorňující, jak Vydavatel platí":::
+
+- Scénář 2: zákazník v nabídce země spravované společností Microsoft (země vydavatele je nerelevantní)
+
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="Graf znázorňující zdanění v zemi spravované společností Microsoft":::
+
+- Scénář tři: cizí Vydavatel poskytuje přeshraniční prodej k registrovanému zákazníkovi, který se nachází v zemi spravované společností Microsoft.
+
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="Graf ukazující, jak EU – DPH ovlivňuje daň"::: 
+
+- Scénář 4: cizí Vydavatel vytvoří domácí prodej zákazníkovi umístěnému v zemi spravované společností Microsoft nebo nedomácím prodeji zákazníkovi ve Švýcarsku.
+
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="Graf znázorňující způsob zpracování DPH":::
+
+- Scénář 5: zákazník v nabídce země spravované společností Microsoft, kde se účtují poplatky za službu Store
+
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="Graf znázorňující, jak poplatky za službu Store ovlivňují daň":::
+
+### <a name="withholding-tax"></a>Srážková daň
+
+- Scénář 1: cizí Vydavatel (bez relevantních výhod daňové smlouvy na daňovém profilu) dává zákazníkům v USA prodej. 
+
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="Graf ukazující srážkovou daň bez daňové smlouvy":::
+
+- Scénář dva: cizí Vydavatel (s platnými výhodami daňové smlouvy na základě daňového profilu s nulovou procentní sazbou) se smlouvou prodává zákazníka na nás. 
+
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="Graf ukazující srážkovou daň s daňovou smlouvou":::
 
 ## <a name="next-steps"></a>Další kroky
 
