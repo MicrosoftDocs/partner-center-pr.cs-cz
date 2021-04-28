@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62bb526d1eab17a13e70b147a318b6e6fdaa84fb
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964438"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172179"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Aktivace technických výhod Microsoft Partner Network mimo partnerské Centrum
 
@@ -27,7 +27,7 @@ Tento článek je určen pro členy Microsoft Partner Network (MPN), kteří st�
 
 Mnoho členů Microsoft Partner Network (MPN) již bylo [migrováno z partnerského centra členství v partnerském centru](prepare-pmc-pc-migration.md) , které vám pomůžou spravovat své uživatele, zákazníky a výhody programu MPN.
 
-Pokud je vaše členství v programu MPN stále v partnerském centru pro členství (PMC), může být potřeba pomáhat s aktivací některých výhod programu MPN.
+Pokud je vaše členství v programu MPN stále v centru pro členství v partnerovi (PMC), budete potřebovat pomáhat s aktivací některých výhod programu MPN.
 
 ## <a name="activate-technical-benefits-by-region"></a>Aktivace technických přínosů podle oblastí
 
@@ -43,7 +43,7 @@ Pokud jste uživatelem PMC, přečtěte si v této tabulce nápovědu s aktivac�
 |Austrálie, Nový Zéland a Tchaj-wan  | [Podpora partnerů prvotní](https://partner.microsoft.com/support?issueid=300-0042)  |
 |Asie a Tichomoří a větší Čína  | Technická podpora  |
 
-\***Pro partnery v Evropě, Střední východ a Afrika:** Při posílání e-mailů RegForm uveďte: ID partnera, e-mailová adresa přidružené k programu MPN, název, název společnosti, telefon, město a země. Pro pomoc s vytvářením a aktivací smluv o podpoře použijte RegForm. Pokud máte další problémy související se službou MPN, obraťte se na [podporu partnera prvotní](https://partner.microsoft.com/support?issueid=300-0042).
+\***Pro partnery v Evropě jenom Střední východ a Afrika (EMEA):** Při posílání e-mailů RegForm uveďte: ID partnera, e-mailová adresa přidružené k programu MPN, název, název společnosti, telefon, město a země. Pro pomoc s vytvářením a aktivací smluv o podpoře použijte RegForm. Pokud máte další problémy související se službou MPN, obraťte se na [podporu partnera prvotní](https://partner.microsoft.com/support?issueid=300-0042).
 
 Jakmile je vaše zvýhodnění aktivované, kontakt programu, který je přidružený k základním výhodám vaší společnosti, bude dostávat ID podpory produktu pro tuto výhodu. Tato ID budou zahrnovat **ID přístupu** a **ID smlouvy**. 
 

@@ -8,18 +8,18 @@ description: Jako partner Microsoftu máte dotazy ohledně toho, jak zákazník�
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b056d21fd1581c9fa478f720addec0c1d4c3c87
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "92527162"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172332"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Vyhledání partnera nebo poskytovatele řešení pro zodpovězení otázek týkajících se programů, licencí nebo zákaznických obchodů 
 
-**Platí pro**
+**Příslušné role**
 
-- Partneři programu Microsoft MPN, partneři CSP a další
+- Všichni partneři Microsoftu
 
 V tomto článku se dozvíte, jak mohou partneři Microsoftu najít další partnery, kteří jim můžou a jejich zákazníci pomůžou být s produkty a službami společnosti Microsoft.
 

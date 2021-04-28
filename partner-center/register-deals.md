@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120745"
+ms.locfileid: "108172422"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Zaregistrujte obchody, které jste vyhráli v partnerském centru, abyste později mohli získat další příležitosti.
+
+**Příslušné role**
+
+- Správce odkazů
 
 Obchody, které jste vyhráli v partnerském centru, můžete zaregistrovat poskytnutím dalších informací o smlouvě. Tyto informace nám pomáhají zajistit další příležitosti v budoucnu.
 

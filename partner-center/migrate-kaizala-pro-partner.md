@@ -1,20 +1,25 @@
 ---
-title: Migrace předplatných Kaizala sady pro do Microsoft365
-description: Naučte se migrovat předplatná Kaizala pro na verze Microsoft365 nebo Office 365. Přečtěte si tento článek, kde najdete další podrobnosti o přechodu zákazníků.
+title: Migrace předplatných Kaizala Pro na Microsoft 365
+description: Přečtěte si, jak migrovat odběry Kaizala pro do Microsoft 365 nebo verzí Office 365. Přečtěte si tento článek, kde najdete další podrobnosti o přechodu zákazníků.
 ms.topic: article
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92527753"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172400"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Migrace Kaizala pro samostatné odběry do verzí Microsoft365 nebo Office 365
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrace samostatného předplatného Kaizala pro na verze Microsoft 365 nebo Office 365
+
+**Příslušné role**
+
+- Agent prodeje
 
 Od 1. července 2020 společnost Microsoft ukončuje prodej samostatné služby Kaizala pro. Zákazníci už nebudou moct koupit nové předplatné Kaizala pro po tomto datu a stávající předplatné Kaizala pro se po uplynutí této doby nebudou automaticky obnovovat.
 

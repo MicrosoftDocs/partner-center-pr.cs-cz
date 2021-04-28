@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: 97e7e19f54e3dd98a37409747cfac5464080c86e
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c6625e2e35cee5d410a22c4a384012a294a97b5d
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441468"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172366"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Nejčastější dotazy k partnerskému centru pro státní správu USA Microsoft Cloud
 
@@ -21,17 +21,21 @@ ms.locfileid: "106441468"
 
 - Partnerské centrum pro Microsoft Cloud for US Government
 
+**Příslušné role**
+
+- Globální správce
+
 ## <a name="general-questions"></a>Obecné otázky
 
 Pomocí těchto nejčastějších dotazů se dozvíte víc o programu Cloud Solution Provider (CSP) pro Microsoft Cloud pro státní správu USA. Další informace vám poskytne správce účtu.
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>Co je Microsoft Cloud pro státní správu USA?
 
-Microsoft Cloud pro státní správu USA od základů umožňuje zákazníkům s veřejnými sektory v USA – od velkých federálních úřadů až po malé města, vybírat z řady služeb cloud computingu. Společnost Microsoft v datových centrech významně vystavila významné investice a je vyhrazená pro splnění souladu se federálními a státními zásadami USA, předpisy a požadavky, které nejlépe řeší.
+Microsoft Cloud pro státní správu USA od základů umožňuje zákazníkům s veřejnými sektory v USA – od velkých federálních úřadů až po malé města, vybírat z řady služeb cloud computingu. Za účelem vyřešení konkrétních potřeb zákazníků společnost Microsoft významně investovala do datových center a je vyhrazená pro splnění dodržování federálních a státních zásad Spojených států, mandátů a požadavků.
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>Kdo má nárok na program CSP pro Microsoft Cloud pro státní správu USA?
 
-Partneři v USA, kteří obsluhují federální, státní a místní instituce státní správy v rámci svých státních kapacit, mají nárok na program CSP pro Microsoft Cloud pro státní správu USA. Microsoft má přísný ověřovací program k určení nároku, než partneři budou moci získat přístup k Microsoft Cloud pro státní správu USA. Chcete-li zajistit nárok, je nutné prokázat, že pracujete se zákazníky z oblasti státní správy. Proces registrace pro program CSP v Microsoftu, který se může zřídit pro vládu USA, se rozšířil za účelem zachycení dalších dat k provedení ověření. Typy důkazů můžou zahrnovat, ale nejsou omezené na čísla smluv státní správy a jejich sponzorství od zákazníka vlády.
+Partneři v USA, kteří obsluhují federální, státní a místní instituce státní správy v rámci svých státních kapacit, mají nárok na program CSP pro Microsoft Cloud pro státní správu USA. Microsoft má přísný ověřovací program k určení nároku, než partneři budou moci získat přístup k Microsoft Cloud pro státní správu USA. Chcete-li zajistit nárok, je nutné prokázat, že pracujete se zákazníky z oblasti státní správy. Proces registrace pro program CSP v Microsoftu, který se může zřídit pro vládu USA, se rozšířil za účelem zachycení dalších dat k ověření. Typy důkazů můžou zahrnovat, ale nejsou omezené na čísla smluv státní správy a jejich sponzorství od zákazníka vlády.
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>Jsou ceny zákazníků stejné jako u komerčního zprostředkovatele CSP?
 
@@ -93,7 +97,7 @@ MCDA Microsoft Cloud pro státní správu USA se liší od standardních MCDA a 
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>Jaké jsou podmínky pro prodej Microsoft Cloud pro státní správu USA?
 
-Kritéria kvalifikace pro prodej programu CSP pro Microsoft Cloud pro státní správu USA jsou stejná jako kritéria kvalifikace pro komerčního zprostředkovatele CSP, která se otevírají přímo partnerům i nepřímým prodejcům. Nemusíte být znovu jmenováni jako nepřímý prodejce pro program CSP pro Microsoft Cloud pro státní správu USA, pokud jste schváleni jako nepřímý prodejce pro komerčního zprostředkovatele CSP.
+Kritéria kvalifikace pro prodej programu CSP pro Microsoft Cloud pro státní správu USA jsou stejná jako kritéria kvalifikace pro komerčního zprostředkovatele CSP, která se otevírají přímo partnerům i nepřímým prodejcům. Pokud jste jako nepřímý prodejce pro komerčního cloudu schválili jako nepřímý prodejce, nemusíte být přejmenováni jako nepřímý prodejce pro program CSP pro Microsoft Cloud pro státní správu USA.
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>Jsem stávající partner. Co potřebuji k prodeji Microsoft Cloud pro státní správu USA?
 
@@ -119,11 +123,11 @@ Azure Government Cloud nabízí cloudovou platformu založenou na základních z
 
 ### <a name="does-the-csp-program-for-microsoft-cloud-for-us-government-offer-all-azure-services"></a>Nabízí program CSP pro Microsoft Cloud pro státní správu USA všechny služby Azure?
 
-Infrastruktura jako služba (IaaS) a základní platforma a data jsou nyní k dispozici. Plán se aktualizuje průběžně a poskytujeme dokumentaci podobnou dokumentaci k poskytovateli CSP komerčnímu v rámci partnerského centra (vyžaduje se ověření). Tady můžete zkontrolovat Azure Government služby, které jsou teď k dispozici, ale Upozorňujeme, že některé služby, jako jsou klasické výpočetní prostředí, sítě, úložiště a cloudové služby, nejsou navržené pro CSP a nefungují pro něj.
+Infrastruktura jako služba (IaaS) a základní platforma a data jsou nyní k dispozici. Plán se aktualizuje průběžně a poskytujeme dokumentaci podobnou dokumentaci k poskytovateli CSP komerčnímu v rámci partnerského centra (vyžaduje se ověření). Tady můžete zkontrolovat Azure Government služby, které jsou teď dostupné, ale Upozorňujeme, že některé služby, jako jsou klasické výpočetní prostředky, sítě, úložiště a cloudové služby, nejsou navržené pro CSP a nefungují.
 
 ### <a name="what-do-i-need-to-do-to-develop-with-the-csp-program-for-microsoft-cloud-for-us-government"></a>Co je potřeba udělat pro vývoj pomocí programu CSP pro Microsoft Cloud pro státní správu USA?
 
-Další informace o vývoji s partnerským centrem pro Microsoft Cloud pro státní správu USA najdete v tématu [vývoj s partnerským centrem Microsoftu pro oficiální Cloud](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS).
+Další informace o vývoji s partnerským centrem pro Microsoft Cloud pro státní správu USA najdete v tématu [vývoj v partnerském centru pro oficiální Cloud Microsoftu](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS).
 
 ### <a name="are-there-any-differences-in-apis"></a>Existují nějaké rozdíly v rozhraních API?
 
@@ -150,7 +154,7 @@ Požadavky na rozhraní API a integraci pro program CSP pro Microsoft Cloud pro 
 
 ### <a name="is-there-a-workaround-for-apis-not-available-in-the-csp-program-for-microsoft-cloud-for-us-government"></a>Existuje alternativní řešení pro rozhraní API, které není k dispozici v programu CSP pro Microsoft Cloud pro státní správu USA?
 
-Partneři můžou použít Azure Portal, Azure AD PowerShell nebo Graph API pro správu partnerských uživatelských účtů. Další technické informace najdete v tématu [vývoj s partnerským cloudem pro státní správu v partnerském centru](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud).
+Partneři můžou použít Azure Portal, Azure AD PowerShell nebo Graph API pro správu partnerských uživatelských účtů. Další technické informace najdete v tématu [vývoj s partnerským centrem pro státní](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)správu.
 
 ## <a name="questions-about-other-resources"></a>Dotazy týkající se dalších prostředků
 

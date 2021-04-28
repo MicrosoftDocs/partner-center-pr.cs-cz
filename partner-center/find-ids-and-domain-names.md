@@ -9,14 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439231"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172247"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Vyhledat důležitá ID pro uživatele
+
+**Příslušné role**
+
+- Globální správce
 
 Tento článek popisuje, jak pomocí [Azure Portal](https://portal.azure.com/) najít pro uživatele následující informace:
 
@@ -33,7 +37,7 @@ Při hledání ID tenanta Azure AD nebo názvu primární domény v rámci Azure
 > [!NOTE]
 > ID tenanta se může v různých aplikacích a prostředcích volat jako jiné názvy. ID klienta může být například označováno jako ID adresáře, tenant Azure Active Directory (Azure AD), Microsoft ID nebo pro určité sestavy, a to i pro *tenantguid*.
 
-1. Přihlaste se k [portálu Azure Portal](https://portal.azure.com/).
+1. Přihlaste se na [Azure Portal](https://portal.azure.com/).
 
 2. V nabídce vyberte **Azure Active Directory** .
 
@@ -53,7 +57,7 @@ Při hledání ID tenanta Azure AD nebo názvu primární domény v rámci Azure
 
 Stačí najít název domény a ID tenanta nemusí být vždy dostatek. Může být také nutné vyhledat konkrétní ID objektu přiřazené uživateli. Pomocí těchto kroků můžete najít ID objektu uživatele v Azure Portal:
 
-1. Přihlaste se k [portálu Azure Portal](https://portal.azure.com/).
+1. Přihlaste se na [Azure Portal](https://portal.azure.com/).
 
 2. V nabídce vyberte **Azure Active Directory** .
 

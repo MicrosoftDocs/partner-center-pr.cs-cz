@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: e8f99028fbb26003c0f18a85c5a6d7e416fecd60
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133025"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172196"
 ---
 # <a name="technical-support-benefits"></a>Výhody technické podpory
 
@@ -76,6 +76,17 @@ Libovolný uživatelský účet (AAD nebo MSA) může používat technickou podp
 
 Vyberte [Podpora pro firmy](https://support.serviceshub.microsoft.com/supportforbusiness/create) a vytvořte žádost o podporu pro místní produkt.
 
+## <a name="how-many-partner-support-incidents-are-remaining"></a>Kolik incidentů podpory partnerů je zbývajících
+Tyto informace můžete získat pouze na portálu podpory místní podpory pro firmy. Cloudové portály, jako je Azure, LCS atd. Tyto informace nezobrazují.
+
+Je potřeba použít podporu pro firmy a zahájit proces vytvoření místního incidentu podpory. Nevytvoříme žádost o podporu, protože nedokončíte proces. Informace, které potřebujeme, se zobrazí v kroku 2.
+
+Krok 1 vyberte Windows 10 a zadejte fiktivní informace.
+
+Krok 2 přidejte smlouvu o podpoře pomocí ID přístupu a ID smlouvy. U místních podpor se zobrazí zobrazená smlouva Partner Support a ta obsahuje datum zahájení, datum ukončení a zbývající incidenty. Rozbalte "chcete zobrazit nedostupné plány podpory?" část, kde najdete informace o podpisech partnerů. V případě vypršení platnosti kontraktů se zobrazí pouze partnerská podpora, nezbývá žádný incident nebo jste vybrali starý místní produkt (viz [aka.MS/n-1](https://aka.ms/n-1) for support products).
+
+**Podrobnější informace najdete v článku [o tom, kolik incidentů podpory partnerů je ještě zbývá?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
+
 ## <a name="signature-cloud-support-cloud-only"></a>Podpisová podpora cloudu (jenom Cloud)
 
 Partneři Gold nebo stříbrné kompetence můžou používat **signatury cloudové podpory** pro technickou podporu u cloudových produktů. 
@@ -85,6 +96,22 @@ Při prvním použití výhody budete potřebovat přístupové ID a ID smlouvy.
 Partneři CSP vytvářející požadavky Azure můžou používat plán podpory "poskytovatel Cloud Solution Provider" bez přidání smlouvy o podpoře.
 
 Uživatelé s rolí **agenta správce** můžou v navigační nabídce vlevo vybrat možnost [zákazníci](https://partner.microsoft.com/commerce/customers/list) v části CSP, vybrat možnost **Správa služeb** a vybrat **nový požadavek**.  Když vyberete relevantní úlohu, otevře se portál specifický pro úlohy a přidáte kontrakt podpory a vytvoříte žádost.
+
+## <a name="azure-portal-error-access-id-is-already-associated-"></a>Chyba Azure Portal: ID přístupu už je přidružené...
+Když použijete Azure Portal, použijete podporu Signature cloudu, a to tak, že vyberete možnosti podpora a podpora, plány podpory, potom "propojit výhody podpory" a zadáte ID přístupu a ID smlouvy.
+
+> [!NOTE]
+> Pokud máte Microsoft Action Pack, nebudete mít cloudovou podporu, protože nezahrnuje signatury signatur podpory – jenom Podpora produktů Microsoftu (místní)
+
+Může se zobrazit chybová zpráva *"Toto ID přístupu už je přidružené k účtu. Pokud chcete získat nové ID přístupu, obraťte se prosím na svého obchodního* zástupce. **Tato chybová zpráva není platná a měla by být ignorována.** Požádali jsme, aby byla chyba zakázaná a nahrazena užitečnou chybovou chybovou zprávou. 
+
+Zobrazí se výše uvedené "přístupové ID je už přidružené..." Chyba při přidružení smlouvy o podpoře k účtu více než jednou při použití Azure Portal. Podívejte se na následující scénáře:
+
+1. Pokud máte technické výhody Gold nebo stříbrného a dříve jste přidali smlouvu pro místní podporu, pak použijete Azure Portal a druhý čas do stejného účtu přidáte. Smlouvu o podpoře je potřeba přidružit jenom jednou k účtu, takže v Azure nemusíte připojovat výhody podpory. Pokud používáte výhody podpory v případě, že je smlouva už přidružená k účtu, zobrazí se chyba a měla by se ignorovat. Použijte + nový Support request a vytvořte incident podpory jako normální a zobrazí se plán podpory.
+
+2. Pokud platnost smlouvy na podporu vypršela nebo signatura 10pack (Gold Hybrid kompetence) nebo signatura 5pack (stříbrná kompetence), nezbývá žádný incident, protože Smlouva o podpoře bude skrytá, protože je neplatná. Pokud propojíte výhody podpory znovu, zobrazí se chyba, protože kontrakt je již přidružen. Pokud chcete získat incidenty podpory Azure, musíte si koupit nový plán podpory. 
+
+Nabídky podpory placené pro partnery najdete níže v článku plány podpory partnerů.
 
 ## <a name="partner-support-plans"></a>Plány podpory partnerů
 

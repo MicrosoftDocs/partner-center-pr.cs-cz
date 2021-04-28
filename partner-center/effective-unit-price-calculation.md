@@ -9,14 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528568"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172213"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Efektivní výpočet jednotkové ceny pro spotřebu plánu Azure
+
+**Příslušné role**
+
+- Správce fakturace
 
 ## <a name="the-effective-unit-price"></a>Efektivní Jednotková cena
 

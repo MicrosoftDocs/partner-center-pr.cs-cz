@@ -10,17 +10,49 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/27/2021
+ms.openlocfilehash: 99fcf5ae00458b890d6ed3b16849d6cb253e6cbe
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823380"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172315"
 ---
 # <a name="april-2021-announcements"></a>Oznámení z dubna 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu pro duben 2021.
+
+_______________
+## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Nová poloha pro dokumentaci k rozhraní API partnerského centra pro Swagger
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-04-26
+- Možnosti
+
+### <a name="summary"></a>Souhrn
+
+Dokumenty Swagger služby API pro Partnerský portál byly migrovány z [předchozího webu dokumentace Swagger](https://apidocs.microsoft.com/services/partnercenter) do [nového webu dokumentace k Swagger](https://docs.microsoft.com/rest/api/partner-center-rest/).
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Poskytovatelé přímých faktur a nepřímá poskytovatelé účastnící se programu Cloud Solution Provider (CSP), kteří používají rozhraní API partnerského centra
+
+### <a name="details"></a>Podrobnosti
+
+Od 26. dubna 2021 dokumentace k rozhraní API pro partnerského centra, včetně obsahu rozhraní REST API, je umístěná na [nové lokalitě](https://docs.microsoft.com/rest/api/partner-center-rest/). Po několika týdnech bude starý web nepřístupný.
+
+### <a name="benefits"></a>Výhody
+
+Dokumentace k rozhraní API pro partnerských Center vám poskytne funkci **vyzkoušet** . Chcete-li použít tuto funkci, budete muset mít nosný token, který můžete vygenerovat podle kroků uvedených v [partnerském centru ověřování](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication).
+
+### <a name="next-steps"></a>Další kroky
+
+Tyto informace můžete sdílet v rámci organizace, aby mohl příslušný tým zkontrolovat a aktualizovat své procesy.
+
+### <a name="questions"></a>Máte otázky?
+
+Otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru.
 
 ________________
 ## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Zásady pro vracení softwaru pro poskytovatele Cloud Solution Provider (CSP) a stáhnout oznámení o vypršení platnosti odkazu
