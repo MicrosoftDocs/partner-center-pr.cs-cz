@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528601"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120762"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Poskytovatel řešení cloudu a místní trhy a měny, kde můžete prodávat nabídky CSP
+
+**Příslušné role**
+
+- Globální správce
 
 Váš trh určuje umístění vaší společnosti. Váš trh zahrnuje oblasti a/nebo země, kde můžete prodávat nabídky programu Cloud Solution Provider (CSP).
 
@@ -26,7 +30,7 @@ Než budete moct jménem zákazníka objednat nabídky CSP, zákazník musí pod
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Plán Azure pro dostupnost oblasti CSP  
 
-Plán Azure pro CSP je k dispozici v méně oblastech než software Azure pro CSP.  Seznamte se s nejnovějšími aktualizacemi pro plán Azure v oblasti dostupnosti, kde si můžete  [koupit plán Azure](purchase-azure-plan.md) . 
+Plán Azure pro CSP je k dispozici v méně oblastech než software Azure pro CSP. Nejnovější aktualizace regionální dostupnosti pro plán Azure najdete v tématu [Nákup plánu Azure](purchase-azure-plan.md).
 
 >[!IMPORTANT]
 > Musíte potvrdit, že zákazník přijal zákaznickou smlouvu od Microsoftu zadáním informací o osobě, která ji podepsala. Další podrobnosti najdete v článku [potvrzení souhlasu zákazníka s zákaznickou smlouvou Microsoftu](confirm-consent.md) .
@@ -40,7 +44,7 @@ Pokud vaše země není podporovaná, vytvořte vztah zákaznického zprostředk
 
 - Partneři s přímým účtováním používají následující adresu URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Nahraďte **partnertenantguid** svým ID tenanta. 
 
-- Adresa URL pro nepřímé prodejce je: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . **IRtenantguid** nahradíte svým ID tenanta. Nahraďte **IRMPNID** číslem MPN ID a nahraďte **IPtenantguid** ID tenanta nepřímého poskytovatele.
+- Adresa URL pro nepřímé prodejce je: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Nahraďte **IRtenantguid** svým ID tenanta. Nahraďte **IRMPNID** číslem MPN ID a nahraďte **IPtenantguid** ID tenanta nepřímého poskytovatele.
 
 ## <a name="africa-region-and-market"></a>Oblast a trh pro Afriku
 

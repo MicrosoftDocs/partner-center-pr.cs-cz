@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 410ee9bee307f78cc93dabbafab147bb725a8d02
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941806"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120847"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Získejte přehledy odkazů v partnerském centru a zjistěte, jak dělají vaše odkazy.
+
+**Příslušné role**
+
+- Správce odkazů
 
 Stránka s **příležitostmi k prodeji** v části **Analýza** v tématu odkazy vám umožní zjistit, jak probíhá vaše reference. Pravidelně kontrolujte tyto metriky a Identifikujte trendy nebo oblasti, které vyžadují pozornost, a začněte přispívat k vašim obchodním cílům.
 
@@ -52,13 +56,13 @@ Procentuální metrika změny (zobrazená červeně nebo zeleně s indikátorem 
 
 ## <a name="conversion-funnel"></a>Trychtýř převodů
 
-V této části se zobrazuje vizuální indikátor toho, jak se vaše obchody pohybují z jednoho stavu do druhého prostřednictvím jejich životního cyklu. Celý životní cyklus můžete zobrazit na základě objemu koupě, jakož i hodnoty koupě v USD na základě hlavního pivotu pro tuto část. První část je označena stavem i typem obchodu, který vám poskytne vizuální indikátor objemu nebo hodnoty podle typu. K dispozici je také část s **odkazy z minulosti**, která označuje obchody, pro které jste provedli akci přijetí nebo odmítnutí nebo jejich označení jako získanou nebo ztracenou v časovém období, které bylo vybráno pro sestavu. Filtry můžete použít k zobrazení průběhu obchodů v různých fázích jejich životního cyklu.
+V této části se zobrazuje vizuální indikátor toho, jak se vaše obchody pohybují z jednoho stavu do druhého prostřednictvím jejich životního cyklu. Celý životní cyklus můžete zobrazit na základě objemu koupě a hodnoty obchodu v USD na základě hlavního pivotu pro tuto část. První oddíl je označený se stavem a typem obchodu, který vám poskytne vizuální indikátor objemu nebo hodnoty podle typu. K dispozici je také část s **odkazy z minulosti**, která označuje obchody, pro které jste provedli akci přijetí nebo odmítnutí nebo jejich označení jako získanou nebo ztracenou v časovém období, které bylo vybráno pro sestavu. Filtry můžete použít k zobrazení průběhu obchodů v různých fázích jejich životního cyklu.
 
 Příchozí obchody se můžou sloučit do přijetí, odmítnutí nebo vypršení platnosti, protože partneři musí buď přijmout nebo odmítnout příchozí obchody v rámci prodeje.
 
 :::image type="content" source="images/referrals/inbound.png" alt-text="Obrázek znázorňující stavy příchozích odkazů":::
 
-Odchozí obchody, které jsou v partnerském režimu, se sloučí do vytvoření, protože tyto typy obchodů vytvoří partneři.
+Odchozí obchody směrující se k partnerům, soukromým a spoluprodejně se vytvoří, protože tyto typy obchodů vytvoří partneři.
 
 :::image type="content" source="images/referrals/outbound.png" alt-text="Obrázek ukazující stavy odchozích odkazů.":::
 
@@ -103,7 +107,7 @@ Když vyberete typ kouposti, můžete porovnat jeho výkon s ohledem na možnost
 
 ## <a name="raw-data-table"></a>Tabulka nezpracovaných dat
 
-Níže uvedená tabulka se všemi nezpracovanými daty týkajícími se příležitostí společného prodeje vám pomůže rychle **exportovat** data pro všechny podrobné nebo vlastní analýzy, které chcete provést.
+V následující tabulce se všemi nezpracovanými daty, která souvisejí s příležitostmi k prodeji, vám pomůžou rychle **exportovat** data pro všechny podrobné nebo vlastní analýzy, které chcete provést.
 
 :::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Obrázek znázorňující tabulku nezpracovaných dat pro odkazy":::
 

@@ -9,14 +9,21 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980c086a2ab1ee0a21592ceb1e2e018c0e1159ae
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "92527225"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120779"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Řízení přístupu na základě role na řídicí panel přehledů partnerského centra Insights
+
+**Příslušné role**
+
+- Globální správce
+- Agent správce
+- Prohlížeč sestav
+- Prohlížeč sestav Executive
 
 Řídicí panel Insights používá dvě nové role v partnerském centru ke správě přístupu zaměstnanců do sestav – manažer sestav pro sestavy a Prohlížeč sestav.  Uživatelé v roli manažer sestav vedoucí mají přístup ke všem datovým sadám pro vytváření sestav, zatímco uživatelé v roli prohlížeče sestav nebudou mít přístup k citlivým datovým sadám, jako jsou výnosy a osobní údaje zákazníka/zaměstnance.  
 

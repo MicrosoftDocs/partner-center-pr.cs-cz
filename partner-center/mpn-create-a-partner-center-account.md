@@ -9,15 +9,18 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266533"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120796"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Vytvoření účtu MPN v partnerském centru pro správu výhod a kompetencí sítě
 
+**Příslušné role**
+
+- Správce partnera MPN
 
 Pokud s Microsoft Partner Network (MPN) začínáte a nemáte ID MPN, můžete zahájit registraci podle [pokynů k registraci](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 

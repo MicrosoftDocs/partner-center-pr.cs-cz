@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 263211fc03d7579a229d8a6df8ed4ad7ca59ed93
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549188"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120745"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Zaregistrujte obchody, které jste vyhráli v partnerském centru, abyste později mohli získat další příležitosti.
 
@@ -37,9 +37,9 @@ Na stránce **nový obchod** zadejte následující informace.
 - **Hodnota řešení**: celková hodnota cloudového řešení, které se bude používat pro obchod. Nezapomeňte zahrnout všechny náklady spojené s poplatky za software a údržbu, ale Nezahrnovat nenávratové položky, poplatky za vlastní nastavení nebo přímo přidružené licenční poplatky za CSP placené Microsoftem.
 - **Nasazeno**: vyberte **Azure** nebo **jiný**.
 - **Kde bude řešení nasazeno?**: vyberte **tenanta zákazníka** nebo **partnerský tenant**.
-- **Počáteční datum smlouvy**: datum zahájení smlouvy.
-- **Datum ukončení smlouvy**: Pokud bude smlouva ukončena na konkrétní datum, vyberte **má datum ukončení** a zadejte datum. Pokud ne, vyberte možnost **trvalá**.
-- **Datum podpisu smlouvy**: datum, kdy byl poslední kontrakt podepsán vaší organizací a zákazníkem.
+- **Počáteční datum smlouvy**: datum zahájení smlouvy. Pro obchody s průběžnými platbami (PAYG) použijte datum první faktury.
+- **Datum ukončení smlouvy**: Pokud bude smlouva ukončena na konkrétní datum, vyberte **má datum ukončení** a zadejte datum. Pokud kontrakt nemá konkrétní datum ukončení, vyberte možnost **trvalá**. V případě obchodů s průběžnými platbami (PAYG) použijte datum poslední nebo poslední faktury.
+- **Datum podpisu smlouvy**: datum, kdy byl poslední kontrakt podepsán vaší organizací a zákazníkem. Pro obchody s průběžnými platbami (PAYG) použijte datum první faktury.
 - **Kontakt na registraci**: **křestní jméno**, **příjmení**, **telefonní číslo** a **e-mail** pro osobu ve vaší organizaci, které můžeme kontaktovat, pokud potřebujeme další podrobnosti o jakékoli z informací, které tady poskytneme.
 
 Po dokončení všech sekcí stránky vyberte možnost **Registrovat**. Registrace do obchodu se pak přesune **na stránku probíhá** . Společnost Microsoft pak zkontroluje informace, které jste zadali.

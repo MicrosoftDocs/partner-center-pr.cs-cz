@@ -9,14 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30032a9b396a82f530c9497f96e4a9b1f6b46e00
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92527179"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120830"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Sestavy řídicího panelu zákazníkům z centra pro partnery – přehled
+
+**Příslušné role**
+
+- Globální správce
+- Agent správce
+- Prohlížeč sestav
+- Prohlížeč sestav Executive
 
 Řídicí panel zákazníci prezentuje údaje o zákaznících, kteří si buď nakoupili cloudové produkty, jako je Office, Azure, Dynamics atd., nebo jste je použili k nasazení a správě těchto produktů ve svých klientech. 
  
@@ -56,7 +63,7 @@ V části Souhrn se zobrazuje snímek různých klíčových ukazatelů výkonu,
 
 ### <a name="customers-churned"></a>Změny zákazníků
 - Počet všech zákazníků v průběhu vybraného časového období v každém měsíci. Zákazník se považuje za ztracené, pokud zákazník nemá jedno předplatné s aktivním stavem. 
-- procento zákazníků, které bylo v průběhu vybraného období změněno 
+- Procento zákazníků, které bylo v průběhu vybraného období změněno 
 - Mikrograf prezentuje trend od zákazníků po měsících, který se v rámci vybraného časového období převzal za měsíc. 
  
 ### <a name="customers-by-products"></a>Zákazníci podle produktů
@@ -77,7 +84,7 @@ Trend zákazníků s rozpisem nových, stávajících a nezměněných pro vybra
 
 ## <a name="customer-distribution"></a>Distribuce zákazníků
 
-Rozpis aktuálních zákazníků podle umístění MPN, zákaznických segmentů, cenového modelu prodejního kanálu/Azure a typu přidělení (např. partnera DPOR, DAP atd.). Pokud chcete zobrazit rozpis podle těchto kategorií, klikněte na příslušné karty nad grafem. Graf můžete znovu sestavit tak, že vyberete nebo zrušíte výběr konkrétní dimenze výběrem položek legendy. 
+Rozpis aktuálních zákazníků podle umístění MPN, zákaznických segmentů, prodejních kanálů/cenového modelu Azure a typu přidělení (například partnera DPOR, DAP). Vyberte příslušné karty nad grafem a zobrazte rozpis podle těchto kategorií. Graf můžete znovu sestavit tak, že vyberete nebo zrušíte výběr konkrétní dimenze výběrem položek legendy. 
 
 ## <a name="customers-by-products"></a>Zákazníci podle produktů
 
@@ -87,7 +94,7 @@ Rozpis aktuálních zákazníků se počítá podle produktů a skladů nebo pl�
 
 ## <a name="customer-distribution-trend"></a>Trend distribuce zákazníků 
 
-Měsíční trend distribuce vašich zákazníků v průběhu vybraného období podle trhů, segmentů, vašich umístění MPN a produktů, které získali. Kliknutím na příslušné karty v grafu zobrazíte trend podle těchto kategorií. Osa X představuje měsíce pro rozsah kalendářních dat, které jste vybrali, a osa Y má počet zákazníků pro vybranou kategorii (výběr karty). Po najetí myší na sloupce grafu můžete zobrazit hodnoty rozložení jednotlivých zásobníků. Pomocí posuvníku nad grafem můžete přiblížit určité období.   
+Měsíční trend distribuce vašich zákazníků v průběhu vybraného období podle trhů, segmentů, vašich umístění MPN a produktů, které získali. Vyberte příslušné karty v grafu, abyste zobrazili trend podle těchto kategorií. Osa X představuje měsíce pro rozsah kalendářních dat, které jste vybrali, a osa Y má počet zákazníků pro vybranou kategorii (výběr karty). Po najetí myší na sloupce grafu můžete zobrazit hodnoty rozložení jednotlivých zásobníků. Pomocí posuvníku nad grafem můžete přiblížit určité období.   
 
 :::image type="content" source="images/pci/customerdistri.png" alt-text="Snímek sestavy trendů distribuce zákazníka znázorňující pruhové grafy, které můžete zobrazit podle trhu, segmentu, umístění partnera nebo produktů.":::
 

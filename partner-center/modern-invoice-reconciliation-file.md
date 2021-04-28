@@ -8,14 +8,19 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103770"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120711"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pole souboru pro odsouhlasení s jedním časovým nákupem CSP
+
+**Příslušné role**
+
+- Správce účtu
+- Fakturační Agent
 
 ## <a name="using-the-recon-file"></a>Použití souboru rekognoskaci
 V následující tabulce jsou uvedeny popisy a ukázkové hodnoty pro pole v souboru odsouhlasení pro jednorázové nákupy CSP.
@@ -55,7 +60,7 @@ Další informace o souborech pro odsouhlasení najdete v tématu [použití sou
 | ChargeEndDate | Datum konce fakturačního období předplatného. | *30. září 2020* |
 | TermAndBillingCycle | Doba trvání závazku v době nákupu pokračovat v předplatném. | *Uložená data (GB/měsíc)* |
 | EffectiveUnitPrice | Poměrná cena za jednotku pro výpočet nákladů na fakturační cyklus. Slevy, úpravy ve fakturačních dnech a další faktory určují efektivní jednotkovou cenu. Další informace najdete v tématu [efektivní kalkulace jednotkové ceny](./effective-unit-price-calculation.md).  | *0,03825* |
-| Jednotkách UnitType | Typ jednotky, ve které se měřič účtuje. | *1 GB/měsíc* |
+| Jednotkách UnitType | Typ jednotky, ve které se měřič účtuje | *1 GB/měsíc* |
 | AlternateId | Alternativní ID položky odkazovaného řádku objednávky | *6dc5c039750a* |
 | BillableQuantity | Celkové fakturované množství.  | *0,005001* |
 | BillingFrequency | Plán fakturace vybraný v době nákupu. | *NA*  |

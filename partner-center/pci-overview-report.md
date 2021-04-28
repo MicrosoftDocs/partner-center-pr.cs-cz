@@ -4,21 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Podívejte se na snímek toho, jak provádíte s prodejem a nasazením, růstem zákazníků a růstem výnosů s licencemi, předplatnými a spotřebou Azure.
+description: Podívejte se na snímek toho, jak provádíte s prodejem a nasazením, růstem zákazníků a růstem výnosů s licencemi, předplatnými a využitím Azure.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92527180"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120813"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Přehled sestav řídicích panelů dostupných ve službě partner Center – přehledy
  
-Řídicí panel přehled Insights nabízí zobrazení snímků klíčových ukazatelů výkonu, jako jsou zákazníci, předplatná, výnosy za využití Azure, licence atd. V sestavě přehledu můžete vizualizovat následující grafy.
+**Příslušné role**
+
+- Globální správce
+- Agent správce
+- Prohlížeč sestav
+- Prohlížeč sestav Executive
+
+Řídicí panel přehled Insights nabízí zobrazení snímků klíčových ukazatelů výkonu, jako jsou zákazníci, předplatná, výnosy za využití Azure a licence. V sestavě přehledu můžete vizualizovat následující grafy.
 
 - Souhrn  
 - Geografické rozšiřování vašich zákazníků, předplatných a licencí  
@@ -33,7 +40,7 @@ Souhrn obsahuje informace o zákaznících, výnosech spotřebovaných v Azure (
 
 :::image type="content" source="images/pci/summary.png" alt-text="Souhrnné licence":::
 
-Další informace o jednotlivých oddílech souhrnu najdete níže.
+Další informace o jednotlivých částech souhrnu najdete v tématu.
 
 ### <a name="customers"></a>Zákazníci
 
@@ -80,7 +87,7 @@ Oblast **nasazených licencí** zahrnuje tyto informace:
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Geografické rozšiřování vašich zákazníků, předplatných a licencí
 
-Toto zobrazení je geografickou distribucí celkových zákazníků, předplatných a licencí podle země zákazníka. Kliknutím na různé karty zobrazíte všechny tyto přehledy na mapě. Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Kliknutím na tlačítko domů na mapě se vraťte k původnímu zobrazení. Kliknutí na jednotlivé karty (například zákazníci, předplatná) zobrazuje hodnotu metriky pro každou zemi a také% celku pro danou zemi.  
+Toto zobrazení je geografickou distribucí celkových zákazníků, předplatných a licencí podle země zákazníka. Výběrem různých karet zobrazíte všechny tyto přehledy na mapě. Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Kliknutím na tlačítko domů na mapě se vraťte k původnímu zobrazení. Po kliknutí na jednotlivé karty (například zákazníci, předplatná) se zobrazí hodnota metriky pro každou zemi a procento celku pro danou zemi.  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="Zeměpisný souhrn":::
 
