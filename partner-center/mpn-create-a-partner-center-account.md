@@ -1,7 +1,7 @@
 ---
 title: Vytvoření účtu MPN v partnerském centru
 ms.topic: article
-ms.date: 04/08/2021
+ms.date: 04/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Přečtěte si, jak Microsoft Partner Network členové mohou vytvořit účet partnerského centra za účelem správy svých síťových výhod a kompetencí.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 2b4c96f2099d50d05360320070d7c0d96f4590f6
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120796"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213393"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Vytvoření účtu MPN v partnerském centru pro správu výhod a kompetencí sítě
 
@@ -64,6 +64,41 @@ Můžete buď vyhledat profil společnosti, nebo zadat informace společnosti ru
 Pokud je vaše společnost umístěná v **Arménii**, **Maďarsku**, **Kyrgyzstánu**, **Moldávie**, **Uzbekistánu** nebo **Rusku** a Vy zadáte adresu ručně, budeme vaši adresu ověřit za vás. Pokud se ten, který zadáte, liší od ověřeného, doporučujeme použít ověřenou adresu. Tím se zajistí, že prvky adresy budou standardizované podle definice poštovní autority země, správného formátování a přípravné.  
 
 Jakmile poskytnete informace o společnosti, zadejte primární kontaktní informace. Primární kontakt by měl být osoba ve vaší společnosti, kterou můžeme kontaktovat o vaší aplikaci (Tento kontakt vám může být vy nebo jiný uživatel ve vaší společnosti).
+
+## <a name="registration-id-numbers-by-country"></a>Registrační čísla ID podle země
+
+Pokud jste nepřímý poskytovatel, přímý účet pro fakturaci nebo nepřímý prodejce a obchodujete s novými nebo stávajícími zákazníky v následujících zemích, musíte pro svůj podnik zadat registrační čísla ID. Pokud země, ve které obchodujete, není uvedená níže, ID registrace je volitelné.
+
+Následující tabulka obsahuje ukázky registračních čísel shromážděných pro každou zemi. V případech, kdy je v seznamu uvedeno více identifikátorů, je vyžadována pouze jedna.
+
+| **Země nebo oblast** | **Podrobnosti** | 
+|:--|:--|:--|:--|:--|:--|
+| **Arménie** | DIČ – daňové identifikační číslo<br>Číslo DPH, označované také jako registrační číslo DPH. Toto je jedinečné číslo identifikující osobu (obchodní) nebo nezdanitelnou právnickou osobu, která je zaregistrovaná pro DPH.<br>Číslo veřejné služby |  |  | |  |
+| **Ázerbájdžán**  | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – daňové identifikační číslo<br>DIČ – daňové identifikační číslo |  |  |  |  |
+| **Bělorusko**  | UNP – Toto je devět číslic (číselné pro organizace, alfanumerické pro jednotlivce), který obsahuje identifikátor oblasti, sérii na oblast a kontrolní číslici. |  |  |  |  |
+|**Brazílie** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa jurídica nebo národní registr platných entit). Toto je identifikační číslo vydané brazilským společnostem oddělení federálních příjmů Brazílie.  |  |  |  |  |
+| **Čína** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – daňové identifikační číslo |  |  |  |  |
+| **Maďarsko**  | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – daňové identifikační číslo |  |  |  |  |
+| **Indie** | Daňové ID<br>[Pan](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – zapojení do sítě pan Indie znamená, že jedna organizace pracuje na několika místech v Indii. |  |  |  |  |
+| **Irák** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |  |  |  |  |
+| **Kazachstán**  | PŘIHRÁDKA – identifikační číslo banky<br>PROFILACE – identifikační číslo vystavitele |  |  |  |  |
+| **Kyrgyzstán**  | DIČ – daňové identifikační číslo |  |  |  |  |
+| **Moldavsko**  | IDNO – jedinečné identifikační číslo stavu přiřazené k právní entitě (známé také jako. Fiskální kód).<br>IDNP – osobní kód pro narození ("Numarul de Identificare") |  |  |  |  |
+| **Myanmar** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |  |  |  |  |
+| **Polsko**  | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – daňové identifikační číslo<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – národní identifikační číslo používané v Polsku (polský Powszechny Elektroniczny System Ewidencji Ludności, univerzální elektronický systém pro registraci populace) |  |  |  |  |
+| **Rusko**  | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – daňové identifikační číslo (ruština "Individualiy nomer Nalogoplatelshika") |  |  |  |  |
+| **Saúdská Arábie** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – daňové identifikační číslo |  |  |  |  |
+| **Jižní Afrika** | TRN – registrační číslo provozu |  |  |  |  |
+| **Jižní Súdán** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |  |  |  |  |
+| **Tádžikistán**  | DIČ – daňové identifikační číslo<br>EIN – identifikační číslo zaměstnavatele<br>KPP – jedná se o kód, který odráží důvod registrace organizace. |  |  |  |  |
+| **Thajsko** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |  |  |  |  |
+| **Turecko** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – daňové identifikační číslo<br>NZA |  |  |  |  |
+| **Ukrajina**  | EGRPOU<br>EDRPOU – místní ID |  |  |  |  |
+| **Spojené arabské emiráty** | Daňové ID<br>[Číslo DPH](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – také označované jako DIČ. Toto je jedinečné číslo identifikující osobu (obchodní) nebo nezdanitelnou právnickou osobu, která je zaregistrovaná pro DPH. |  |  |  |  |
+| **Spojené státy** | [Ein](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – identifikační číslo zaměstnavatele |  |  |  |  |
+| **Uzbekistán**  | DIČ – daňové identifikační číslo |  |  |  |  |
+| **Vietnam** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |  |  |  |  |
+| **Venezuela** | RIF – je daňové číslo ("Registro de Identificación fiskální"). |  |  |  |  |
 
 4. Vyberte možnost **zaregistrovat nyní**.
 

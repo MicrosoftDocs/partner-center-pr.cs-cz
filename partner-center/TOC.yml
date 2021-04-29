@@ -151,6 +151,8 @@
     - name: 'Smlouvy, ceníky, nabídky v CSP'
       href: csp-documents-and-learning-resources.md
       displayName: csp
+    - name: Registrační identifikační číslo – informace
+      href: reg-number-id.md
     - name: Regionální trhy a měny v CSP
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'

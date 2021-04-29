@@ -1,7 +1,7 @@
 ---
 title: Registrace do programu Cloud Solution Provider
 ms.topic: how-to
-ms.date: 11/29/2020
+ms.date: 04/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Naučte se, jak se zaregistrovat v programu Cloud Solution Provider (CSP), který je nejvhodnější pro vaši firmu, jako je například nepřímý prodejce nebo partner s přímým fakturací.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441808"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213376"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrace do programu Cloud Solution Provider
 
@@ -92,6 +92,38 @@ Informace o přechodu od přímého prodejce k nepřímému prodejci najdete v t
 
 Váš trh určuje umístění vaší společnosti. Váš trh zahrnuje oblasti a země, ve kterých můžete prodávat nabídky CSP. Další informace najdete v tématu věnovaném [cloudovým poskytovatelům řešení na trzích](regional-authorization-overview.md) a měnách pro trhy a umístění na trhu.
 Aby bylo možné [Přidat nové umístění pro firmy CSP](manage-locations.md), nezapomeňte si přečíst požadavky.
+
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Zadejte číslo ID registrace partnera pro konkrétní země.
+
+Pokud jste nepřímý poskytovatel, přímý účet pro fakturaci nebo nepřímý prodejce a obchodujete s novými nebo stávajícími zákazníky v následujících zemích, musíte pro svůj podnik zadat registrační čísla ID. Pokud země, ve které obchodujete, není uvedená níže, ID registrace je volitelné.
+
+- Arménie 
+- Ázerbájdžán 
+- Bělorusko 
+- Brazílie 
+- Maďarsko 
+- Indie 
+- Irák 
+- Kazachstán 
+- Kyrgyzstán 
+- Moldavsko 
+- Myanmar 
+- Polsko 
+- Rusko 
+- Saúdská Arábie 
+- Jižní Afrika 
+- Jižní Súdán  
+- Tádžikistán 
+- Thajsko
+- Turecko 
+- Ukrajina 
+- Spojené arabské emiráty 
+- Uzbekistán 
+- Venezuela
+- Vietnam 
+
+
+Další informace najdete v tématu [ID registrace – informace o čísle](reg-number-id.md) .
 
 ## <a name="next-steps"></a>Další kroky
 
