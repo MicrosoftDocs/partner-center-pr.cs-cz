@@ -1,7 +1,7 @@
 ---
 title: Správa licencování v nabídkách Marketplace
 ms.topic: how-to
-ms.date: 04/29/2021
+ms.date: 04/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Naučte se, jak nastavit a spravovat licencování pro vaše nabídky ISV komerčního tržiště.
@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f049ffda4c3d9476c09257fc814e5acac393cb54
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 3b2281696a2fe69253cd033eb2a7eef7fb3046f3
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328011"
+ms.locfileid: "108284885"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Správa licencování v nabídkách Marketplace
 
@@ -30,26 +30,25 @@ Tento článek vás provede procesem nastavení nabídky v partnerském centru, 
 
 ## <a name="before-you-begin"></a>Než začnete
 
-### <a name="commercial-marketplace-basics"></a>Základy komerčního tržiště
+Před zahájením tohoto procesu byste se měli seznámit s informacemi uvedenými níže.
 
-Než zahájíte tento proces, měli byste se seznámit se základy komerčního tržiště. Články v následující tabulce vám pomůžou začít. 
+### <a name="review-the-azure-marketplace-documentation"></a>Přečtěte si dokumentaci k Azure Marketplace
 
-| Téma  | Článek  |
-|-------|--------|
-|Plány komerčního tržiště | [Plány a ceny pro komerční nabídky na webu Marketplace](/azure/marketplace/plans-pricing)    |
-|Nabídky komerčních Marketplace  | [Typy seznamů](/azure/marketplace/determine-your-listing-type)    |
-|Účty komerčního tržiště |  [Vytvoření účtu obchodního tržiště v partnerském centru](/azure/marketplace/create-account) |
+Níže uvedené články obsahují informace, které byste měli znát, než budete pokračovat. 
 
-### <a name="determine-your-offer-id"></a>Určení ID vaší nabídky
+- [Vytvoření nabídky Dynamics 365 for Customer Engagement a PowerApps](https://docs.microsoft.com/azure/marketplace/dynamics-365-customer-engage-offer-setup)
+- [Vytvoření účtu obchodního tržiště v partnerském centru](https://docs.microsoft.com/azure/marketplace/create-account)
+
+### <a name="create-your-offer-id"></a>Vytvoření ID nabídky
 
 V níže uvedených postupech budete vyzváni k zadání ID nabídky. Pořiďte si čas, který vám umožní začít s vhodným ID nabídky. Pamatujte na tyto body:
 
 - Toto ID je viditelné pro zákazníky na webové adrese pro nabídku webu Marketplace a šablony Azure Resource Manager, pokud jsou k dispozici.
 - ID nabídky v kombinaci s ID vydavatele musí být kratší než 40 znaků.
-- Použijte při tom jenom malá písmena a číslice. ID nabídky může zahrnovat pomlčky a podtržítka, ale ne mezery. Pokud je například vaším vydavatelem ID `testpublisherid` a zadáte `test-offer-1` , bude webová adresa nabídky `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
+- Použijte při tom jenom malá písmena a číslice. ID nabídky může zahrnovat pomlčky a podtržítka, ale ne mezery. Pokud je například ID vydavatele testpublisherid a zadáte test-nabídka-1, bude webová adresa nabídky https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1 .
 - Toto ID se po výběru **vytvořit** nedá změnit.
 
-### <a name="determine-your-offer-alias"></a>Určení aliasu nabídky
+### <a name="create-your-offer-alias"></a>Vytvoření aliasu nabídky
 
 Alias nabídky je název, který se používá pro nabídku v partnerském centru. Budete také potřebovat příslušný alias nabídky, který bude postupovat podle níže uvedených pokynů:
 
@@ -117,9 +116,9 @@ Nabídka bude živá během 4-6 hodin.
 
     - **U nabídek s povolenými licencemi s možností bezplatné instalace**: Pokud vaše nabídka nevyžaduje kontrolu licencí, uživatelům s oprávněními správce se zobrazí tlačítko **získat nyní** , aby se **mi kontaktovalo**. Uživatelé, kteří chtějí vyzkoušet možnost bezplatné instalace, by měli kliknout na **získat hned**, což jim umožní nainstalovat nabídku do centra pro správu Power Platform. Pokud mají uživatelé nějaké dotazy nebo pokud chtějí upgradovat na placený plán, můžou pořád použít **kontakt** .
 
-## <a name="register-isv-connect-deal-in-deal-registration"></a>Registrace ISV Connect v registraci koupí
+## <a name="register-isv-connect-deal-in-dealreg"></a>Registrace ISV Connect v DealReg
 
-Než budete moct přiřadit licence k zákazníkovi, musíte každý prodej zaregistrovat v partnerském centru. Postup najdete v tématu [registrace vašich obchodů](register-deals.md).
+Dalším krokem je registrace vaší koupě. Postup najdete v tématu [registrace vašich obchodů](https://docs.microsoft.com/partner-center/register-deals).
 
 ## <a name="invite-the-customer"></a>Pozvat zákazníka
 
@@ -127,19 +126,18 @@ Následující postup slouží k pozvání zákazníka k účasti v této koupi.
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 2. V levé navigační nabídce vyberte **komerční Marketplace/přehled**.
-3. V navigační nabídce vlevo vyberte **odkazy** a pak vyberte **registrace koupek**.
-4. Filtr pro **odeslané** obchody vyberte kartu **probíhá** a pak vyberte obchod, kterou chcete.
-5. Na stránce Přehled této práce vyberte **spravovat licence**.
-6. V okně **spravovat licence** vyberte zákazníka v rozevíracím seznamu **Podrobnosti o zákazníkovi** . Pokud ještě neexistuje vztah zákazníka, vyberte **+ pozvat nového zákazníka k souhlasu**.
-7. Zkopírujte zobrazený odkaz.
-8. Tento odkaz odešlete e-mailem zákazníkovi nebo globálnímu správci fakturace zákazníka a požádejte ho, aby používali tento odkaz k přístupu k admin.microsoft.com a přijetí a autorizaci vztahu, který vytváříte.
+3. Filtr pro **odeslané** obchody vyberte kartu **probíhá** a pak vyberte obchod, kterou chcete.
+4. Na stránce Přehled této práce vyberte **spravovat licence**.
+5. V okně **spravovat licence** vyberte zákazníka v rozevíracím seznamu **Podrobnosti o zákazníkovi** . Pokud ještě neexistuje vztah zákazníka, vyberte **+ pozvat nového zákazníka k souhlasu**.
+6. Zkopírujte zobrazený odkaz.
+7. Tento odkaz odešlete e-mailem zákazníkovi nebo globálnímu správci fakturace zákazníka a požádejte ho, aby používali tento odkaz k přístupu k admin.microsoft.com a přijetí a autorizaci vztahu, který vytváříte.
 
     >[!NOTE]
     >Relace nebude navázána, dokud zákazník neprovede tento krok.
 
 ## <a name="activate-manage-and-remove-your-licenses"></a>Aktivace, Správa a odebírání licencí
 
-Jakmile se vám s vámi zákazník autorizuje, můžete začít přidávat plány z nabídky a přiřazovat licence k jednotlivým plánům.
+Po navázání zákazníka můžete začít přidávat plány z nabídky a přiřazovat licence k jednotlivým plánům.
 
 1. V okně Spravovat licence pro tento obchod vyberte **+ Přidat plán**.
 2. Dokončete **plány pro toto řešení** a **počet licencí** a pak vyberte **aktualizovat licence**. Licence budou k dispozici na adrese admin.microsoft.com, aby si zákazníci mohli spravovat a přiřazovat k zaměstnancům.
@@ -147,7 +145,3 @@ Jakmile se vám s vámi zákazník autorizuje, můžete začít přidávat plán
     - Pokud chcete změnit počet licencí pro existující plán, zadejte nové číslo do pole **počet licencí** a pak vyberte **aktualizovat licence**.
 
     - Pokud chcete deaktivovat nebo odebrat licence pro určitý obchod, vyberte v poli **Akce** ikonu odpadkového koše a pak vyberte **aktualizovat licence**.
-
-## <a name="next-steps"></a>Další kroky
-
-[Zdroje informací o licencování](support-resources-licensing.md)
