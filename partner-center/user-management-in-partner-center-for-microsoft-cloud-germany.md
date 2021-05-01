@@ -10,18 +10,23 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92527607"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284515"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Správa uživatelů a licencí v partnerském centru pro Microsoft Cloud Německo
 
 **Platí pro**
 
--  Partnerské centrum pro Microsoft Cloud Německo
+- Partnerské centrum pro Microsoft Cloud pro Německo
+
+**Příslušné role**
+
+- Globální správce
+- Správce účtu
 
 > [!IMPORTANT]
 > Naše cloudová strategie pro Německo se na základě vývoje potřeb zákazníků zaměřuje na doručování nových oblastí cloudu v Německu, které jsou konzistentní s naší cloudovou nabídkou. S tímto zaostřením už nebudeme přijímat nové zákazníky ani nasazovat žádné nové služby z aktuálně dostupné Microsoft Cloud Německo. Stávající zákazníci můžou dál využívat aktuálně dostupné současné cloudové služby, které budeme udržovat s potřebnými aktualizacemi zabezpečení.
@@ -41,7 +46,7 @@ Správa licencí | Centrum pro správu Office 365 nebo portál pro Microsoft Clo
 
 Pokud jste přihlášeni do partnerského centra pro Microsoft Cloud Německo, můžete Azure Portal pro Microsoft Cloud Německo otevřít, aniž byste se museli znovu přihlašovat. Pokud se ale potřebujete přihlašovat přímo k Azure Portal pro Microsoft Cloud Německu, pokračujte na [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
-Po úspěšném přihlášení do Azure Portal pro Microsoft Cloud Německo otevřete stránku Přehled služby Azure Active Directory (Azure AD) a pak postupujte podle pokynů v těchto tématech:
+Po úspěšném přihlášení do Azure Portal pro Microsoft Cloud Německo otevřete stránku Přehled služby Azure Active Directory (Azure AD) a pak postupujte podle pokynů v těchto článcích:
 
 > [!NOTE]  
 > Výběrem následujících odkazů přejdete na jiný web.
@@ -55,4 +60,4 @@ Po úspěšném přihlášení do Azure Portal pro Microsoft Cloud Německo otev
 ## <a name="next-steps"></a>Další kroky
 
 -  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
--  [Partnerské centrum pro Microsoft Cloud Německo](partner-center-for-microsoft-cloud-germany.md)
+-  [Partnerské centrum pro Microsoft Cloud pro Německo](partner-center-for-microsoft-cloud-germany.md)

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/27/2021
-ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: b6b16a8453d9e93e2600c53bedcef7dc29c14e16
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172418"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328028"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z dubna 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Připravenost|[Aktualizované rozhraní API pro ověření adresy zákazníka zprostředkovatele CSP v červnu; možnost testování je teď dostupná.](2021-april.md#10)|30. dubna|
 |Možnosti|[Nová poloha pro dokumentaci k rozhraní API partnerského centra pro Swagger](2021-april.md#9)|26. dubna|
 |Možnosti|[Zásady pro vracení softwaru pro poskytovatele Cloud Solution Provider (CSP) a stáhnout oznámení o vypršení platnosti odkazu](2021-april.md#8)|21. dubna|
 |Rozšiřte svou firmu|[Otevřený licenční program: přechod prodejců do programu Cloud Solution Provider (CSP)](2021-april.md#7)|19. dubna|

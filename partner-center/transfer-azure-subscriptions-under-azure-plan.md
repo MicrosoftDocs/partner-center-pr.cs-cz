@@ -9,18 +9,20 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
-ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
+ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97893202"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284498"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Přenos předplatných plánu Azure pro zákazníka na jiného partnera
 
 **Příslušné role**
 
-- Partneři v programu Cloud Solution Provider (CSP)
+- Správce účtu
+- Agent prodeje
+- Fakturační Agent
 
 Tento článek popisuje, jak může zákazník přepnout svoje předplatné Azure v rámci plánu Azure z jednoho Cloud Solution Provider (CSP) na jiný.
 
@@ -42,7 +44,7 @@ Před využitím tohoto nástroje se zákazník musí nacházet v konverzaci s o
 - Produkty z Marketplace třetích stran se přenesou, dokud produkty nespravují kontrolu nároků na Marketplace.
     - Neexistují žádné zvláštní slevy ani oblastní omezení.
     - Produkty nejsou založené na předplatném
-    - Budoucí partner by měl spolupracovat s vydavatelem, aby se ujistil, že se nachází v seznamu povolených pro nasazení produktu.
+    - Budoucí partner by měl spolupracovat s vydavatelem, aby se ujistil, že jsou na povolených pro nasazení produktu.
     - Pokud nejsou splněné všechny tyto podmínky, aby bylo možné přenést produkty z webu Marketplace, je třeba přenášet předplatné Azure a pak znovu koupit produkty z Marketplace novým partnerem.
 
 **Požadavky:**

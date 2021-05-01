@@ -9,15 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247674"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284464"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Přečtěte si o daních a podrobnostech o osvobození od daně podle oblasti nebo země pro partnery v programu CSP.
 
+**Příslušné role**
+
+- Globální správce
 
 Program poskytovatele Cloud Solution Provider (CSP) je prodejní kanál zaměřený na opětovné prodeje produktů v partnerovi. V důsledku toho nemusí společnost Microsoft vždy vyžadovat poplatky za DPH u partnerských faktur. Pravidla se liší podle země a oblasti. [Pro daňovou odchylku můžete zkontrolovat podrobnosti specifické pro danou zemi a oblast](#country-and-region-tax-details).
 
@@ -38,7 +41,7 @@ Pro výjimku v souboru. BC PST Zaregistrujte daňové výjimky, jak je popsáno 
 
 ### <a name="united-states"></a>USA
 
-U všech prodejců v USA se očekává, že budou poskytovat dokumentaci pro osvobození od DPH do 30 dnů od přijetí smlouvy pro prodejce Microsoftu. Každý stav má jiné certifikáty pro výjimku k dalšímu prodeji. Pokud chcete zjistit, co je pro vaši právní adresu a registrovaný stav relevantní, obraťte se na svého daňového poradce.
+U všech prodejců v USA se očekává, že budou poskytovat dokumentaci pro osvobození od DPH do 30 dnů od přijetí smlouvy pro prodejce Microsoftu. Každý stav má jiné certifikáty pro výjimku k dalšímu prodeji. V souvislosti s vaším daňovým poradcem můžete určit, co je důležité pro vaši platnou adresu a zaregistrované stavy.
 
 To může zahrnovat certifikáty pro odnětí z prodeje, které fungují ve více stavech, jako je *zjednodušení prodeje* a *používání daňového certifikátu s daňovou výjimkou* nebo *MTCí jednotného prodeje & použít certifikát pro osvobození od daně*.
 

@@ -1,7 +1,7 @@
 ---
 title: Získání přehledů o referencích
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Pravidelně kontrolujte data referenčních přehledů v partnerském centru, abyste viděli trendy v oblasti adres nebo vylepšení, které vám pomůžou dosáhnout obchodních cílů.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120847"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328079"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Získejte přehledy odkazů v partnerském centru a zjistěte, jak dělají vaše odkazy.
 
@@ -27,7 +27,7 @@ Stránka s **příležitostmi k prodeji** v části **Analýza** v tématu odkaz
 Pokud chcete zobrazit data o společném prodeji příležitostí, přejděte v nabídce partnerského centra do části **references > Analytics > možnosti společného prodeje**.
 
 > [!Important]
-> Filtr typu obchodu je předem použit s typem **společného prodeje** vybraného pro všechna data. Odeberte filtr, pokud chcete anlayze data související s privátními a partnerskými obchody.
+> Filtr typu obchodu je předem použit s typem **spoluprodejní** vybraným pro všechna data. Odeberte filtr, pokud chcete analyzovat data související s privátními a partnerskými potřebami.
 
 ## <a name="apply-filters"></a>Použití filtrů
 
@@ -94,14 +94,13 @@ Tato část vám pomůže analyzovat důvody, proč jsou obchody označeny jako 
 
 ## <a name="comparison-charts"></a>Grafy porovnání
 
-Část porovnání vám pomůže porovnat data týkající se odkazů na základě více dimenzí na svazku i v případě, že je hodnota obchodů získaná v rámci aplikace USD Pivot.
-Pro porovnání dat se dají vybrat tři dimenze.
+Část porovnání vám pomůže porovnat data týkající se odkazů na základě více dimenzí na svazku i v případě, že je hodnota obchodů získaná v rámci aplikace USD Pivot. K porovnání dat se dají vybrat tyto tři dimenze:
 
 - Typ kouposti
 - Trhy
 - Řešení
 
-Když vyberete typ kouposti, můžete porovnat jeho výkon s ohledem na možnosti společného prodeje, řízení partnerů a soukromé obchody. U obou trhů i řešení můžete pro porovnání výkonu vybrat až tři různé možnosti. První graf, který je pruhový graf, bude mít data uvedená v měsíci trendu v měsíci, který je založený na hlavním pivotu, což je objem nebo získaná hodnota obchodů. Napravo od pruhového grafu je také výsečový graf, který ukazuje rozdělení podle procenta pro stejná data.
+Když vyberete typ kouposti, můžete porovnat výkon referenčních seznamů s ohledem na možnosti společného prodeje, a to na základě partnerů a soukromých obchodů. U obou trhů i řešení můžete pro porovnání výkonu vybrat až tři různé možnosti. První graf, který je pruhový graf, bude mít data uvedená v měsíci trendu v měsíci, který je založený na hlavním pivotu, což je objem nebo získaná hodnota obchodů. Napravo od pruhového grafu je také výsečový graf, který ukazuje rozdělení podle procenta pro stejná data.
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Obrázek znázorňující část porovnání":::
 
@@ -128,3 +127,8 @@ K dispozici je několik důvodů, proč při přístupu k analýzám společnéh
 
 > [!TIP]
 > Pokud chcete zjistit, jak váš obchodní profil funguje v prostředí [Najít poskytovatele řešení](https://www.microsoft.com/solution-providers/home) , přečtěte si [stránku Přehled obchodních profilů](analyze-your-marketing-profile.md).
+
+## <a name="next-steps"></a>Další kroky
+
+- [Rozšiřte své podnikání pomocí odkazů Microsoftu](referrals.md)
+- [Analýza potenciálních zákazníků](analyze-your-marketing-profile.md)

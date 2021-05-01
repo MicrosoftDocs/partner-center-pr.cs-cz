@@ -9,20 +9,24 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92527710"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284294"
 ---
 # <a name="view-digitally-signed-invoices"></a>Zobrazit digitálně podepsané faktury
 
 **Platí pro**
 
-- Partnerské centrum
 - Partnerské centrum Indie
 
+**Příslušné role**
+
+- Správce účtu
+- Fakturační Agent
+- Agent prodeje
 
 Partneři v Indii nyní uvidí, že společnost Microsoft má digitálně podepsané faktury. K zobrazení podpisu je nutné použít Cloud pro dokumenty aplikace Adobe Acrobat Reader (DC).
 
@@ -36,7 +40,7 @@ Partneři v Indii nyní uvidí, že společnost Microsoft má digitálně podeps
  
  :::image type="content" source="images/digitalsig/digital1.png" alt-text="Ukázka faktury s platnou hlavičkou oznámení signatury, která zobrazuje zelený podpis zaškrtnutí a fráze, podepsané a všechny signatury jsou platné.":::
 
-3. Klikněte na podpis. Zobrazí se zpráva o platnosti certifikátu.
+3. Vyberte podpis. Zobrazí se zpráva o platnosti certifikátu.
 
 :::image type="content" source="images/digitalsig/digital2.png" alt-text="Podepsaná faktura s polem oprávněného podepisujícího a stav ověření podpisu s podrobnostmi, vlastnostmi podpisu a možností zrušit."::: 
 

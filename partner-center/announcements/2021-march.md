@@ -9,53 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374380"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328062"
 ---
 # <a name="march-2021-announcements"></a>Oznámení z března 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu na březen 2021.
 
-________________
-## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>Aktualizované rozhraní API pro ověřování zákaznických adres poskytovatele CSP je nyní k dispozici pro testování
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>Připravenost: změny v rozhraní API pro ověřování adres zákazníka v červnu v provozu poskytovatele Cloud Solution Provider (CSP) možnost testování je teď dostupná.
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-31
-- Možnosti
+- Datum: 2021-04-30
+- Připravenost
 
 ### <a name="summary"></a>Souhrn
 
-V rámci našeho závazku pomáhat partnerům a zákazníkům, kteří provozují své podnikání na základě důvěry, budeme zvát partneři po celém světě, aby otestovali změny v rozhraní ValidateAddress API.
+Abychom svým partnerům a zákazníkům usnadnili provoz na základě důvěry, budeme zvát partnery, aby otestovali změny v rozhraní API pro ověřování adres pro všechny země po celém světě.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Všichni partneři poskytovatele CSP Direct účtují a nepřímá poskytovatelé, kteří vytvářejí nové nebo aktualizují podrobnosti stávajících adres zákazníka
+Poskytovatelé služeb CSP Direct účtují a nepřímá zprostředkovatelé, kteří vytvářejí nové nebo aktualizují podrobnosti o adresách zákazníků.
 
 ### <a name="details"></a>Podrobnosti
 
-Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat kompatibilní, bezpečnou a zabezpečenou metodu odesílání ověření zákaznické adresy pro účely transakcí předplatných zákazníků v programu CSP. V dnešní době 31. března 2021 jsme zavedli změny rozhraní ValidateAddress API, které bychom Vás pozvali k testování, před tím, než budete moct začít pracovat se změnami v červnu 2021. 
+Microsoft běží na důvěryhodnosti. Pro účely transakce zákaznických předplatných v programu CSP jsme zajistili poskytování kompatibilní, bezpečné a zabezpečené metody ověřování adres zákazníků. Od 31. března 2021 jsme představili změny v rozhraní API pro ověřování adres, které pozvaní partneři k testování ještě před tím, než budou v provozu změny v červnu 2021.
 
-Všimněte si, že tyto změny mají vliv pouze na rozhraní ValidateAddress API. Rozhraní API CreateCustomer a UpdateBillingProfile nejsou ovlivněná.
+Změny mají vliv pouze na ověřování adres API. Vytváření zákazníků a aktualizace rozhraní API fakturačních profilů nejsou ovlivněny.
 
 Odpověď vrátí jednu z následujících stavových zpráv:
 
-| Status | Popis | Počet vrácených navrhovaných adres |
-|----------|-------------|-------------------|
-| VerifiedShippable | Adresa je ověřena a může být expedována. | Jednoduché |
-| Ověřují | Adresa je ověřena. | Jednoduché |
-| InteractionRequired | Navrhované adresy byly významně změněny a potřebuje potvrzení uživatele. | Jednoduché |
-| StreetPartial | Daná ulice v adrese je částečně a potřebuje další informace. | Více – maximálně tři|
-| PremisesPartial | Daný prostor (stavební číslo, číslo sady atd.) je částečný a potřebuje další informace. | Více – maximálně tři |
-| Několik | Adresa obsahuje několik polí, která jsou v této adrese částečně (případně také včetně StreetPartial a PremisesPartial). | Více – maximálně tři |
-| Žádné | Adresa je nesprávná. | Žádné |
-| NotValidated | Adresu nelze odeslat prostřednictvím procesu ověřování.  | Žádné |
+| Status     | Popis |    Počet vrácených navrhovaných adres |
+|-------|---------------|-------------------|
+|Ověřené pro přepravce | Adresa je ověřena a může být expedována. | Jednoduché |
+|Ověřují | Adresa je ověřena. | Jednoduché |
+|Je vyžadována interakce | Navrhovaná adresa se významně změnila a potřebuje potvrzení uživatele. | Jednoduché |
+|Částečně ulice | Daná ulice v adrese je částečně a potřebuje další informace. | Více – maximálně tři |
+|Částečně místní | Dané prostory (stavební číslo, číslo sady a další) jsou částečné a vyžadují další informace. | Více – maximálně tři |
+|Několik | Adresa obsahuje několik polí, která jsou v této adrese částečně (případně i částečně a částečně v ulici). | Více – maximálně tři |
+|Žádné | Adresa je nesprávná. | Žádné |
+|Není ověřeno. | Adresu nelze odeslat prostřednictvím procesu ověřování. | Žádné |
 
-Po odeslání adresy, která se má ověřit prostřednictvím rozhraní ValidateAddress API, se vrátí následující schéma odpovědi:
+PSČ US vrátí další 4 číslice + spojovník – například 12345-6789.
+
+Jakmile je adresa odeslána k ověření prostřednictvím rozhraní API pro ověření adresy, vrátí se následující schéma odpovědi:
 
 ```csharp
 
@@ -103,18 +104,18 @@ Podívejte se na tuto ukázkovou odpověď. Všimněte si, že pro nás odpově�
 ```csharp
 
 "suggested_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Microsoft Way",
-    "postal_Code": "98052-8300"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Microsoft Way",
+              "postal_Code": "98052-8300"
 },
 "original_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Micro Way",
-    "postal_Code": "98052"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Micro Way",
+              "postal_Code": "98052"
 },
 "status":  "InteractionRequired",
 "validation_message": "Address field invalid for property: ‘Street’"
@@ -123,13 +124,19 @@ Podívejte se na tuto ukázkovou odpověď. Všimněte si, že pro nás odpově�
 
 ### <a name="next-steps"></a>Další kroky
 
-- Sdílejte své ID tenanta izolovaného prostoru s naším odborníkem na danou problematiku (MSP), Ali pískově, který se má zahrnout do testovacího letu, abyste mohli začít připravovat aktualizaci.
+- Sdílejte své ID tenanta izolovaného prostoru s odborníkem na danou problematiku (Ali pískově), abyste mohli začít připravovat aktualizaci.
 
 - Pokud používáte řešení v rámci ovládacího panelu (CPV), obraťte se na CPV.
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud máte nějaké dotazy nebo potřebujete podporu pro vaše operace s Microsoftem, obraťte se na svého partnera, který podporuje Yammer.
+Pokud potřebujete podporu pro vaše operace s Microsoftem, obraťte se na svého partnera, který podporuje skupinu Yammer.
+
+### <a name="change-log"></a>Protokol změn:
+
+- 31. března 2020: původní publikace
+
+- 30. dubna 2021: aktualizace pro ukázkovou odpověď a podrobnosti o PSČ
 
 ________________
 ## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Nové prostředí v centru pro správu Exchange (EAC)

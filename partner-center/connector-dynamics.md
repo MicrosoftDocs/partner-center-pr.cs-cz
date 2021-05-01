@@ -8,16 +8,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 2082424f8203f0d9c50726e1e5ef7b3e3c39d6c2
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: c399e00394208ec29dd59a41afe7cce1b1d07253
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768767"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284328"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Přehled konektoru pro Dynamics 365 CRM pro předprodej
 
-### <a name="appropriate-roles"></a>Příslušné role
+**Příslušné role**
 
 - Správce odkazů
 - Správce systému nebo úpravce systému v CRM
@@ -26,7 +26,7 @@ Konektory pro spoluprodej v partnerském centru umožňují prodejcům v rámci 
 
 Řešení je založené na automatizaci Power and používá rozhraní API partnerského centra.
 
-## <a name="prerequisites"></a>Předpoklady
+## <a name="prerequisites"></a>Požadavky
 
 Před instalací řešení se ujistěte, že splňujete následující požadavky.
 
@@ -110,7 +110,7 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
    :::image type="content" source="images/connection-reference-video.gif" alt-text="Snímek obrazovky, který zobrazuje úpravu připojení.":::
 
-1. Každé připojení jedním kliknutím vyberte ikonu se třemi tečkami. Přidejte příslušná připojení.
+1. Jednotlivá připojení upravte jednotlivě výběrem ikony se třemi tečkami. Přidejte příslušná připojení.
 
    :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Snímek obrazovky zobrazující uvedená připojení":::
 
@@ -198,7 +198,7 @@ Aktualizace hodnoty proměnné prostředí:
 
 Po instalaci, konfiguraci a přizpůsobení řešení Power Automate můžete testovat synchronizaci odkazů mezi produkty Dynamics 365 a Partnerským centrem společně prodávat.
 
-### <a name="prerequisites"></a>Předpoklady
+### <a name="prerequisites"></a>Požadavky
 
 Aby bylo možné synchronizovat odkazy v rámci partnerského centra a Dynamics 365 CRM, řešení Power automat jasně vymezuje pole odkazů specifická pro společnost Microsoft. Tato identifikace dává prodejcům možnost rozhodnout se, které odkazy chce sdílet se společností Microsoft pro souběžný prodej.
 

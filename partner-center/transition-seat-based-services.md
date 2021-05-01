@@ -9,14 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768682"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284447"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Přesunout zákazníky na základě licencí z jiných kanálů & partnerů do programu Cloud Solution Provider
+
+**Příslušné role**
+
+- Správce účtu
+- Agent prodeje
+- Fakturační Agent
 
 Pokud chce zákazník najmout více partnerů, převést jejich předplatné na jiného partnera nebo si můžete svoje předplatné koupit jinde, můžete je přesunout ručně. Zákazníky můžete také přesunout do partnerského centra z jiného kanálu.
 

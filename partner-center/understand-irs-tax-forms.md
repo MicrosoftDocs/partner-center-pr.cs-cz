@@ -8,14 +8,18 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 38d0748548dca4f46eb60d5d36e1a55ad5fa1d67
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712813"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284430"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Vysvětlení daňových formulářů IRS vydaných Microsoftem
+
+**Příslušné role**
+
+- Globální správce
 
 Každý rok může obdržet jednu nebo více daňových formulářů od společnosti Microsoft. To závisí na vašem umístění a objemu prodejů nebo plateb, které obdržíte. Společnost Microsoft je nutná k vystavení těchto formulářů a jejich podávání pomocí služby interního výnosu (finančního úřadu).
 
@@ -69,7 +73,7 @@ Daňové formuláře vám budou odesílány z následujících adres:
 | **Otázka** | **Odpověď** |
 |---|---|
 | **Obdržel (a) jsem formu 1042-S od Microsoftu. K čemu slouží?** | Společnost Microsoft vám poskytla formulář nebo formuláře ve formátu 1042, protože jsme vám zaplaceni výnosy, které se považují za hlášení USA daňovým úřadům a měla by se vztahovat na srážkovou daň.  Pro tento požadavek vytváření sestav se používá formulář 1042-S. | 
-| **Co mám dělat s formuláři?** | Obecně platí, že žádná konkrétní akce není na vaší straně nutná. Pokud chcete pro své místní daňové úřady požádat o jakoukoli formu daňového kreditu, může vám být užitečná forma 1042-S.  Další informace o tomto tématu vám poskytne vlastní Poradce pro daně. | 
+| **Co mám dělat s formuláři?** | Obecně platí, že žádná konkrétní akce není na vaší straně nutná. Pokud chcete pro své místní daňové úřady požádat o jakoukoli formu daňového kreditu, může vám být užitečná forma 1042-S.  Pokud chcete získat další informace o tomto tématu, Projděte si vlastní daňové poradce. | 
 | **Proč se při dokončování formuláře W8 vyvolala daň na moje platby?** | Daně se zamítne, pokud:<br/><br/>1. nedokončili jste oddíl daňové smlouvy v W8 správně nebo <br/>2. jste rezidenti v zemi, která nemá daňovou smlouvu s USA.<br/><br/>Partnerské centrum můžete kdykoli navštívit a odeslat aktualizovaný W8 formulář.<br/><br/> **Poznámka:** Ne všechny výnosy podléhají srážkám daně. | 
 | **Odeslal (a) jsem aktualizovaný W8 formulář s platnými informacemi o smlouvě. Dá se Microsoft vrátit k dani, která byla odmítnutá?** | Po zablokování daně není možné ji znovu vyfinancovat. Řekněte svým daňovým poradcům, aby projednali, jestli pro tyto daně můžete uplatnit nárok na místní kredit, nebo jestli můžete požádat o refundaci v rámci finančního úřadu. | 
 | **Jaké prodeje jsou hlášeny na formuláři 1042-S?** | Pouze prodeje provedené **pro kupující nacházející se ve USA, které byly klasifikovány jako podléhající srážkám daně** .  Všechny ostatní prodeje nejsou považovány za sestavy. | 

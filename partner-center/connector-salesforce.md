@@ -8,16 +8,16 @@ description: Synchronizujte své odkazy v partnerském centru se službou Salesf
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
-ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
+ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "97960947"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284379"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Konektor pro společný prodej pro Salesforce CRM – přehled
 
-### <a name="appropriate-roles"></a>Příslušné role
+**Příslušné role**
 
 - Správce odkazů
 - Správce systému nebo úpravce systému v CRM
@@ -39,7 +39,7 @@ Konektor pro spoluprodej v partnerském centru umožňuje prodejcům v rámci sv
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Instalace balíčku Salesforce pro vlastní pole Microsoftu 
 
-Aby bylo možné synchronizovat odkazy v rámci partnerského centra a Salesforce CRM, musí řešení Power automat jasně identifikovat konkrétní pole odkazů specifická pro společnost Microsoft. Tato vymezená část poskytuje partnerům partnerských prodejců možnost rozhodnout se, které referenční seznamy chtějí sdílet se společností Microsoft pro souběžný prodej.
+Aby bylo možné synchronizovat odkazy v rámci partnerského centra a Salesforce CRM, musí řešení Power automat jasně identifikovat pole odkazů specifická pro společnost Microsoft. Tato vymezená část poskytuje partnerům partnerských prodejců možnost rozhodnout se, které referenční seznamy chtějí sdílet se společností Microsoft pro souběžný prodej.
 
 1. V Salesforce aktivujte **poznámky** a přidejte je do seznamu souvisejících příležitostí. 
 [Odkaz](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
@@ -49,14 +49,12 @@ Aby bylo možné synchronizovat odkazy v rámci partnerského centra a Salesforc
     - Podle potřeby definujte nastavení.
 [Odkaz](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. V Salesforce nainstalujte vlastní pole a objekty pomocí instalačního programu balíčků níže.
-  
-Chcete-li nainstalovat balíček do libovolné společnosti, pokračujte [zde](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) .
+3. V Salesforce nainstalujte vlastní pole a objekty pomocí [instalačního programu balíčku](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Tento balíček použijte k instalaci balíčku do libovolné společnosti.
 
+>[!NOTE]
+>Pokud instalujete do izolovaného prostoru (sandbox), je nutné nahradit počáteční část adresy URL http://test.salesforce.com
 
-Poznámka: Pokud instalujete do izolovaného prostoru (sandbox), musíte nahradit počáteční část adresy URL. http://test.salesforce.com
-
-4. V Salesforce přidejte řešení Microsoftu do seznamu souvisejících **příležitostí** . Po přidání klikněte na ikonu **klíče** a aktualizujte vlastnosti.
+4. V Salesforce přidejte řešení Microsoftu do seznamu souvisejících **příležitostí** . Po přidání vyberte ikonu **klíče** a aktualizujte vlastnosti.
 
 ## <a name="best-practice-test-before-you-go-live"></a>Osvědčené postupy: test před zahájením provozu
 
@@ -78,7 +76,7 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
 3. Na levém navigačním panelu vyberte **řešení** .
 
-4. V horní nabídce klikněte na odkaz **otevřít AppSource** .
+4. V horní nabídce vyberte odkaz **otevřít AppSource** .
 
    :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Otevřít AppSource":::
 
@@ -86,7 +84,7 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
    :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. Klikněte na tlačítko **získat nyní** a potom **pokračujte**.
+6. Vyberte tlačítko **získat nyní** a potom **pokračujte**.
 
 7. Otevře se stránka, kde můžete vybrat prostředí Salesforce CRM k instalaci aplikace.  Vyjádřit souhlas s podmínkami a ujednáními.
 
@@ -135,7 +133,7 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
  
 :::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Zahájit úpravu konektoru":::
 
-2. Každé připojení jednu po jedné upravte výběrem ikony tři tečky. Přidejte příslušná připojení.
+2. Jednotlivá připojení upravte jednotlivě výběrem ikony tři tečky. Přidejte příslušná připojení.
 
 :::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Upravit konektory":::
 
@@ -177,7 +175,7 @@ Rozhraní API Webhooku partnerského centra vám umožní registrovat se na udá
 
 8. Nyní vyberte možnost "automatické registrace Webhooku partnerského centra (Insider Preview)" a vyberte **Spustit**.
 
-9. Ujistěte se, že se v pravém podokně otevře okno spustit tok a klikněte na **pokračovat**.
+9. Ujistěte se, že se v pravém podokně otevře okno spustit tok a vyberte **pokračovat**.
 
 10. Zadejte následující podrobnosti:
 
@@ -209,9 +207,9 @@ V závislosti na vašich potřebách je možné přizpůsobit více kroků každ
 
 2. Pokud chcete přizpůsobit mapování polí CRM pro události vytvoření, vyberte, **jestli je nová sdílená příležitost, a pak**. Vyberte dílčí krok, **Pokud ano** , a pak rozbalte **vytvořit novou příležitost v CRM**. Mapování v této části můžete upravit pomocí Průvodce mapováním polí.
 
-   1. Pokud chcete přizpůsobit mapování polí CRM pro události aktualizace, klikněte na krok (obor) synchronizovat zájemce nebo příležitost.
+   1. Pokud chcete přizpůsobit mapování polí CRM pro události aktualizace, vyberte krok (obor) synchronizovat zájemce nebo příležitost.
 
-   2. Vyberte **, jestli se jedná o aktualizaci příležitosti, a pak**. Vyberte dílčí krok, **Pokud ano** , a pak rozbalte **rozdíl mezi objekty příležitostí v partnerském centru a CRM a pak**.  
+   2. Vyberte **, jestli se jedná o aktualizaci příležitosti, a pak**. Pokud ano, vyberte dílčí krok, **Pokud ano** , a pak rozbalte **rozdíl mezi objekty příležitostí v partnerském centru a CRM a pak**.  
 
    3. Vyberte, **jestli ano** , a pak **aktualizovat existující příležitost** .
 
@@ -306,4 +304,4 @@ Následující vlastní pole by měla být součástí části CRM:
 
 - [Správa příležitostí ke spoluprodeji](manage-co-sell-opportunities.md)
 
-- [Webhooky partnerského centra](/partner-center/develop/partner-center-webhooks)
+- [Webhooky Partnerského centra](/partner-center/develop/partner-center-webhooks)

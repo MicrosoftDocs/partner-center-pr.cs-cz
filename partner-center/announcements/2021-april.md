@@ -10,17 +10,64 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/27/2021
-ms.openlocfilehash: 99fcf5ae00458b890d6ed3b16849d6cb253e6cbe
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.date: 04/29/2021
+ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172315"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328045"
 ---
 # <a name="april-2021-announcements"></a>Oznámení z dubna 2021
 
 Tato stránka poskytuje oznámení pro partnerské Centrum Microsoftu pro duben 2021.
+
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>Připravenost: aktualizované rozhraní API pro ověření adresy zákazníka zprostředkovatele CSP v červnu; možnost testování je teď dostupná.
+
+### <a name="categories"></a>Kategorie
+
+- Datum: 2021-04-30
+- Připravenost
+
+### <a name="summary"></a>Souhrn
+
+Abychom svým partnerům a zákazníkům usnadnili provoz na základě důvěry, budeme zvát partnery, aby otestovali změny v rozhraní API pro ověřování adres pro všechny země po celém světě.
+
+### <a name="impacted-audience"></a>Ovlivněná cílová skupina
+
+Partneři s přímým přístupem CSP a nepřímá poskytovatelé, kteří vytvářejí nové nebo aktualizovat podrobnosti o adrese stávajících zákazníků
+
+### <a name="details"></a>Podrobnosti
+
+Microsoft běží na důvěryhodnosti. Pro účely transakce zákaznických předplatných v programu CSP jsme zajistili poskytování kompatibilní, bezpečné a zabezpečené metody ověřování adres zákazníků. Od 31. března 2021 jsme představili změny v rozhraní API pro ověřování adres. Po skončení tohoto dne od června 2021 vyzveme partnery k otestování rozhraní API před přechodem do provozu. 
+
+Všimněte si, že tyto změny mají vliv pouze na ověřování adres API. Vytváření zákazníků a aktualizace rozhraní API pro fakturační profily nejsou ovlivněné. I když navrhovaná adresa není v tuto chvíli potřeba použít s rozhraním API pro vytvoření zákazníka, důrazně se doporučuje.
+
+Odpověď vrátí jednu z následujících stavových zpráv:
+
+| Status     | Popis |    Počet vrácených navrhovaných adres |
+|-------|---------------|-------------------|
+|Ověřené pro přepravce | Adresa je ověřena a může být expedována. | Jednoduché |
+|Ověřují | Adresa je ověřena. | Jednoduché |
+|Je vyžadována interakce | Navrhovaná adresa se významně změnila a potřebuje potvrzení uživatele. | Jednoduché |
+|Částečně ulice | Daná ulice v adrese je částečně a potřebuje další informace. | Více – maximálně tři |
+|Částečně místní | Dané prostory (stavební číslo, číslo sady a další) jsou částečné a vyžadují další informace. | Více – maximálně tři |
+|Několik | Adresa obsahuje několik polí, která jsou v této adrese částečně (případně i částečně a částečně v ulici). | Více – maximálně tři |
+|Žádné | Adresa je nesprávná. | Žádné |
+|Není ověřeno. | Adresu nelze odeslat prostřednictvím procesu ověřování. | Žádné |
+
+PSČ US vrátí další čtyři číslice a pomlčku, například 12345-6789.
+
+### <a name="next-steps"></a>Další kroky
+
+- Podrobnější pokyny najdete v technické dokumentaci a nejčastější dotazy v [kolekci vyhrazených partnerů](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) .
+- Připravte se na začlenění změn pomocí rozhraní API partnerského centra a uživatelského prostředí pro web. 
+- Sdílejte své ID tenanta izolovaného prostoru s odborníkem na danou problematiku (Ali pískově), abyste mohli začít připravovat aktualizaci. 
+- Pokud používáte řešení v rámci ovládacího panelu (CPV), obraťte se na CPV.
+
+### <a name="questions"></a>Máte otázky?
+
+Pokud potřebujete podporu pro vaše operace s Microsoftem, obraťte se na svého partnera, který podporuje Yammer, nebo otevřete [žádost o služby](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 _______________
 ## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Nová poloha pro dokumentaci k rozhraní API partnerského centra pro Swagger

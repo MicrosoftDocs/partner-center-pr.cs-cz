@@ -8,16 +8,16 @@ description: Přečtěte si odpovědi na běžné dotazy týkající se použív
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354538"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284209"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Řešení potíží s konektory pro souběžné vyprodejní reference
 
-**Platí pro:**
+**Platí pro**
 
 - Dynamics 365 CRM
 - Salesforce CRM
@@ -39,7 +39,7 @@ Uživatelé, kteří jsou systémový správce nebo úpravce systému, mohou pou
 
 3. Potřebují prodejci v partnerském centru pracovat s dalšími rolemi?
  
-Prodejcům partnera musí být přiřazena role Správce odkazů. Další informace najdete v následujícím článku [Přehled oprávnění) (Create-User-Accounts-and-set-Permissions).
+Prodejcům partnera musí být přiřazena role Správce odkazů. Další informace najdete v tématu [Přehled oprávnění](create-user-accounts-and-set-permissions.md).
 
 4. Jaká pole je třeba nejprve nastavit v prostředí CRM? 
 
@@ -131,7 +131,7 @@ E. V registraci Webhooku partnerského centra toku vyberte **Spustit**. Zadejte 
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Otázky a odpovědi týkající se spuštění/údržby
 
-1. Jak řešit problémy v případě selhání při automatizovaném provádění toku napájení?
+1. Jak řešit chyby při automatizaci automatizace výkonu při automatizovaném zpracování?
 
 Chcete-li zajistit, aby toky automatizovaného automatizace běžely, jak očekáváte, a chcete-li vyřešit chyby během provádění, přečtěte si téma [Oprava selhání toku](/power-automate/fix-flow-failures)
 
@@ -163,7 +163,7 @@ Proveďte následující kroky:
 
 - Ujistěte se, že je v prostředí Salesforce nakonfigurované pole Měna reference. 
 
-4. Co byste měli dělat v případě, že se konektor odpojí a Vy jste nedostali synchronizaci referenčních informací. 
+4. Co byste měli dělat v případě, že se konektor odpojí a Vy jste nedostali synchronizaci referenčních informací?
 
 Níže jsou uvedené některé z možností, které můžete vyzkoušet:
 
@@ -191,17 +191,17 @@ Do účtu zákazníka v aplikaci CRM budete muset přidat kód země o dvou pís
 
 Aby bylo možné vytvořit odkaz pro spoluprodej, potřebujete řešení připravené pro spoluprodejní účely Microsoftu. 
 
-8. Co byste měli dělat v případě, že se zobrazí příležitosti pro spoluprodejy vytvořené v partnerském centru, které nejsou synchronizované s CRM, i když nedochází k chybám toků:
+8. Co byste měli dělat v případě, že se v partnerském centru zobrazují příležitosti pro prodej, které nejsou synchronizované s CRM, i když nedochází k chybám toků?
 
 Postupujte následovně:
 
 - Po vytvoření nového společného prodeje v partnerském centru ověřte, jestli se má vyvolávat tok partnerského centra na Dynamics 365 (může se vyvolávat víckrát).
 
-- Pokud se tok vyvolá, zaregistrujte všechny vyvolané toky a Identifikujte běh toku, který by aktualizoval CRM. Můžete postupovat podle těchto akcí a ověřit, jestli aktualizace CRM aktualizovala nebo nastala nějaký problém.
+- Pokud se tok vyvolá, zkontroluje všechny vyvolané toky a určí běh toku, který by aktualizoval CRM. Můžete postupovat podle těchto akcí a ověřit, jestli aktualizace CRM aktualizovala nebo nastala nějaký problém.
 
-- Zkontrolujte *novou rozdat** v partnerském centru, abyste viděli, jestli se naplní pomocí ID CRM.
+- V partnerském centru pro kontrolu **nové koupě** zjistíte, jestli se naplní ID CRM.
 
-- Ujistěte se, že se nechtěně neuzavřelo jako "výhra" nebo "ztraceno" v partnerském centru.
+- Ujistěte se, že obchod se nechtěně neuzavřel v partnerském centru jako **získaná** nebo **ztracená** .
 
 ## <a name="next-steps"></a>Další kroky
 
