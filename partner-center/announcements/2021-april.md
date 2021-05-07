@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328045"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702820"
 ---
 # <a name="april-2021-announcements"></a>Oznámení z dubna 2021
 
@@ -308,11 +308,12 @@ Toto je nejlepší místo pro otázky související se změnami v programu CSP, 
 Pokud chcete získat další informace, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Připomenutí: zastaralost získat kvalifikaci na 4. května 2021
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>Konečné připomenutí: vyřazení získání kvalifikace z května 6, 2021
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-04-09
+- Datum: 2021-05-04
+
 - Možnosti
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
@@ -321,13 +322,13 @@ Partneři, kteří prodávají akademické a neziskové a státní komunitní Cl
 
 ### <a name="details"></a>Podrobnosti
 
-Toto oznámení je následná vylepšení partnerského centra [vydané v prosinci](https://docs.microsoft.com/partner-center/announcements/2020-december#1). V rámci této verze se nasadila nová rozhraní API GET a POST a v důsledku toho se stávající kvalifikace GET vyřadí do 4. května 2021. V tuto chvíli se budete muset převést na použití nového rozhraní API pro POST Center v nabídce koupit vzdělávání a nové rozhraní API získat kvalifikaci k zakoupení předdefinovaných nezisků a nabídek RSZ.
+Toto oznámení je následná vylepšení partnerského centra [vydané v prosinci](https://docs.microsoft.com/partner-center/announcements/2020-december#1). V rámci této verze se nasadila nová rozhraní API GET a POST a v důsledku toho se **stávající kvalifikace Get vyřadí do 6. května 2021**. V tuto chvíli se budete muset převést na použití nového rozhraní API pro POST Center. Nová rozhraní API pro odesílání vám umožní koupit nabídky vzdělávání, zatímco nové rozhraní API pro získání vám umožní koupit předem kvalifikované nabídky a nabídky RSZ.
 
 ### <a name="next-steps"></a>Další kroky
 
-- Aktualizujte nové rozhraní API pro úspěšný a včasný přechod.
+- **Aktualizujte nové rozhraní API** pro úspěšný a včasný přechod.
 
-- Projděte si nové změny a příručka k rozhraní API partnerského centra v prostředcích připravenosti operací: [vylepšení procesu ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- **Projděte si nové změny a příručka k rozhraní API partnerského centra** v prostředcích připravenosti operací: [vylepšení procesu ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
 
 - Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci a prodejci, kteří jim pomůžou tyto změny připravit.
 
@@ -337,8 +338,12 @@ Pokud máte dotazy související s tímto oznámením, obraťte se na [podporu p
 
 ### <a name="change-log"></a>Protokol změn
 
-- Duben: připomenutí nadcházejícího zastaralosti získat kvalifikaci 
+- 4. května 2021: závěrečné připomenutí nadcházejícího vyřazení získat kvalifikaci
+
+- 9. dubna 2021: připomenutí nadcházejícího vyřazení získat kvalifikaci 
+
 - Únor: aktualizované časové osy pro vyřazení získání kvalifikace & PUT
+
 - Leden: připomenutí nadcházejících zastaralosti získání & kvalifikací
 
 ________________

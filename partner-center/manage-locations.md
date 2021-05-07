@@ -1,7 +1,7 @@
 ---
 title: Správa umístění v partnerském účtu
 ms.topic: how-to
-ms.date: 04/05/2021
+ms.date: 05/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Naučte se, jak přidat nové umístění a jak se v programu motivačních programů, v obchodních předplatných, předplatných a dalších transakcích používá umístění MPN ID.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441319"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702888"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Správa umístění účtu MPN a přidání (odstranění) umístění
 
@@ -50,7 +50,7 @@ Pokud chcete přidat nový obchodní účet CSP, začněte tím, že ověříte,
 
 1. Pokud se chcete zaregistrovat jako přímý fakturační Server, [požadavky na čtení pro přímé partnery z fakturace](direct-partner-new-requirements.md)
 
-## <a name="view-your-mpn-locations"></a>Zobrazení umístění MPN
+## <a name="view-and-update-your-mpn-locations"></a>Zobrazení a aktualizace umístění MPN
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) partnerského centra s přihlašovacími údaji k účtu MPN. (Vaše přihlašovací údaje programu MPN se můžou lišit od vašich přihlašovacích údajů CSP.) 
  
@@ -100,6 +100,37 @@ Aktualizujte následující pole:
 > [!NOTE]
 > Jakmile je umístění přidané v partnerském centru, nemůžete ho odebrat. Pokud jste pro přihlášení použili správné ID **MPN, zobrazí se v levé** nabídce centra pro partnery v nabídce vlevo.
 
+## <a name="add-the-registration-number-id"></a>Přidat ID registračního čísla
+
+Pokud jste nepřímý poskytovatel, přímý účet pro fakturaci nebo nepřímý prodejce a obchodujete s novými nebo stávajícími zákazníky v následujících zemích, musíte pro svůj podnik zadat registrační čísla ID. Pokud země, ve které obchodujete, není uvedená níže, ID registrace je volitelné.
+
+- Arménie 
+- Ázerbájdžán 
+- Bělorusko 
+- Brazílie 
+- Maďarsko 
+- Indie 
+- Irák 
+- Kazachstán 
+- Kyrgyzstán 
+- Moldavsko 
+- Myanmar 
+- Polsko 
+- Rusko 
+- Saúdská Arábie 
+- Jižní Afrika 
+- Jižní Súdán  
+- Tádžikistán 
+- Thajsko
+- Turecko 
+- Ukrajina 
+- Spojené arabské emiráty 
+- Uzbekistán 
+- Venezuela
+- Vietnam 
+
+
+Další informace najdete v tématu [ID registrace – informace o čísle](reg-number-id.md) .
 
 ## <a name="delete-a-location"></a>Odstranit umístění
 

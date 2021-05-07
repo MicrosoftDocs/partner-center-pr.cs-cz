@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028430"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702803"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Nastavení platebního účtu a daňových formulářů
 
@@ -145,7 +145,7 @@ Ve vybraných zemích a oblastech můžete vytvořit platební účet tím, že 
 
 Běžné dotazy týkající se používání služby PayPal jako způsobu platby:
 
-- **Jaká nastavení PayPal je potřeba mít, aby se daly přijímat platby?** Ujistěte se, že váš účet PayPal neblokuje platby eCheck. Toto nastavení se spravuje na stránce předvolby pro příjem plateb v PayPal. Další informace najdete na [stránce nastavení účtu pro účet PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139) .
+- **Jaká nastavení PayPal je potřeba mít, aby se daly přijímat platby?** Ujistěte se, že váš účet PayPal neblokuje platby eCheck. Toto nastavení se spravuje na stránce předvolby pro příjem plateb v PayPal. Další informace najdete na [stránce nastavení účtu pro účet PayPal](https://go.microsoft.com/fwlink/?linkid=2162542) .
 
 - **Je moje země/oblast podporovaná?** V tématu [prahové hodnoty plateb, metody a časové rámce](payment-thresholds-methods-timeframes.md) zjistíte, kde je PayPal podporovaným způsobem platby.
 

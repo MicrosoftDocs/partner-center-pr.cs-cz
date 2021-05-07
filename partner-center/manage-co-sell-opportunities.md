@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
-ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
+ms.openlocfilehash: 4e0f8834523770e5780395e685ca4ef45f5d2535
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "99480064"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702922"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Správa příležitostí společného prodeje v partnerském centru
 
@@ -175,11 +175,13 @@ Níže je uvedená tabulka s prodejními fázemi a odpovídajícími procentním
 
 Až budete hotovi, můžete provést jednu ze dvou akcí, což označuje, že se jednalo o **získanou** nebo **ztracenou** práci k nahlášení výsledku.
 
+Není nutné, aby vaše společnost měla stejné prodejní fáze. To je způsob, jakým Partnerská centra rozpoznává fáze Sales pro prodej a automaticky namapuje fáze vaší společnosti na tyto standardní fáze, pokud tyto hodnoty předáte pomocí rozhraní API. Pokud používáte uživatelské rozhraní partnerského centra, procenta uvedená v tabulce se používají k označení fází prodeje.
+
 > [!Note]
-> Není nutné, aby vaše společnost měla stejné prodejní fáze. To je způsob, jakým Partnerská centra rozpoznává fáze Sales pro prodej a automaticky namapuje fáze vaší společnosti na tyto standardní fáze, pokud tyto hodnoty předáte pomocí rozhraní API. Pokud používáte uživatelské rozhraní partnerského centra, procenta uvedená v tabulce se používají k označení fází prodeje.
+> Po výběru získaného řešení budete požádáni o zadání dalších informací k registraci vašeho obchodu. Společnost Microsoft si přezkoumá informace, které tady zadáte, a může požádat o další podrobnosti během procesu kontroly. Další informace najdete v tématu [registrace vašich obchodů](register-deals.md).
 
 > [!Important]
-> Po výběru získaného řešení budete požádáni o zadání dalších informací k registraci vašeho obchodu. Společnost Microsoft si přezkoumá informace, které tady zadáte, a může požádat o další podrobnosti během procesu kontroly. Další informace najdete v tématu [registrace vašich obchodů](register-deals.md).
+> Pokud máte nárok na registraci koupě, ujistěte se, že je mezi tvorbou obchodu a vyhodnocena jako získaná mezera 72 hodin. Uzavření obchodu, jak bylo získáno dříve, může způsobit zamítnutí registrace.
 
 Obchod bude způsobilý k registraci koupě pouze v případě, že splňuje všechna níže uvedená kritéria.
 

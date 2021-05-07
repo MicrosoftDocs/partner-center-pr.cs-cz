@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120711"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702786"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pole souboru pro odsouhlasení s jedním časovým nákupem CSP
 
@@ -38,7 +38,7 @@ Další informace o souborech pro odsouhlasení najdete v tématu [použití sou
 | MpnId | Identifikátor MPN partnera CSP. Další informace najdete v tématu [How to itemize by partner](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identifikátor MPN prodejce záznamu pro předplatné. | *6048879* |
 | OrderId | Jedinečný identifikátor pro objednávku na platformě fakturace Microsoftu. Může být užitečné k identifikaci objednávky při kontaktování podpory. Nepoužívá se pro odsouhlasení. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | Datum, kdy byla objednávka umístěna. | *10/3/2020* |
+| OrderDate | Datum v UTC, kdy bylo pořadí umístěno. | *10/3/2020* |
 | ProductId | Jedinečný identifikátor produktu | *DZH318Z0BNZ5* |
 | SkuId | Jedinečný identifikátor SKU | *006G* |
 | AvailabilityId | Jedinečný identifikátor dostupnosti. | *DZH318Z08B80* |

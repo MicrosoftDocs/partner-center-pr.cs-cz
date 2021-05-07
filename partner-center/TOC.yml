@@ -30,8 +30,11 @@
         - name: Aktivace výhod pro PMC
           href: partner-membership-center-tech-benefits-activate.md
           displayName: mpn
-    - name: Nabídky členství
+    - name: Výhody členství
       items:
+        - name: Přehled výhod
+          href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Akční balíček
           href: mpn-get-action-pack.md
           displayName: 'renew, mpn'
@@ -44,50 +47,21 @@
         - name: Vyhledání výhod programu MPN
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Poplatky za kompetenci
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-    - name: Kompetence
+        - name: Zásady a používání výhod – Nejčastější dotazy
+          href: benefits-faq-new.md
+        - name: Nejčastější dotazy k výhodám
+          href: benefits-faq.md
+          displayName: 'renew, license,'
+        - name: Zobrazení nebo stažení faktury MPN
+          href: mpn-view-print-maps-invoice.md
+    - name: Dostupné výhody
       items:
-        - name: Informace o kompetencích
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: Zaregistrovat jako vzdělávacího partnera
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: Nejčastější dotazy ke kompetencím
-          href: competencies-faq.md
-          displayName: 'renew, mpn'
-        - name: Výjimka z kompetence Application Development
-          href: app-dev-isv.md
-        - name: Použití sestavy dovedností
-          href: mpn-skills-report.md
-    - name: Rozšířené specializace
-      items:
-        - name: Předvedení vaší odbornosti
-          href: advanced-specializations.md
-          displayName: mpn
-        - name: Žádost nebo kontrola stavu
-          href: advanced-specializations-apply.md
-          displayName: mpn
-    - name: Staňte se Poskytovatelem spravovaných služeb Azure Expert
-      href: azure-expert-msp.md
-    - name: Výhody
-      items:
-        - name: Přehled výhod
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
         - name: Výhody pro vstup na trh
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
         - name: Ukázky pro partnery MPN
           href: mpn-demos.md
           displayName: mpn
-        - name: Zásady a používání výhod – Nejčastější dotazy
-          href: benefits-faq-new.md
-        - name: Nejčastější dotazy k výhodám
-          href: benefits-faq.md
-          displayName: 'renew, license,'
         - name: Výhody Azure a cloudu
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
@@ -118,11 +92,33 @@
           items:
             - name: Požadavky na nárok
               href: software-assurance-dps-requirements.md
-    - name: Faktury a daně
-      href: mpn-view-print-maps-invoice.md
-      displayName: 'invoice, mpn'
-    - name: Testovací verze nových funkcí
-      href: test-drive-new-features.md
+    - name: Kompetence
+      items:
+        - name: Informace o kompetencích
+          href: learn-about-competencies.md
+          displayName: mpn
+        - name: Zaregistrovat jako vzdělávacího partnera
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
+        - name: Nejčastější dotazy ke kompetencím
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
+        - name: Poplatky za kompetenci
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
+        - name: Výjimka z kompetence Application Development
+          href: app-dev-isv.md
+        - name: Použití sestavy dovedností
+          href: mpn-skills-report.md
+    - name: Rozšířené specializace
+      items:
+        - name: Předvedení vaší odbornosti
+          href: advanced-specializations.md
+        - name: Žádost nebo kontrola stavu
+          href: advanced-specializations-apply.md
+          displayName: mpn
+    - name: Staňte se Poskytovatelem spravovaných služeb Azure Expert
+      href: azure-expert-msp.md
 - name: CSP (Cloud Solution Provider)
   href: csp-overview.md
   displayName: csp
@@ -141,7 +137,7 @@
       displayName: 'indirect, reseller, csp'
     - name: Smlouvy se zákazníkem Microsoftu (podle oblasti a jazyka)
       href: agreements.md
-      displayName: 'regio, region, MPA'
+      displayName: 'region, MPA'
     - name: Omezený přístup k přímému vyúčtování
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
@@ -579,6 +575,8 @@
         - name: Přenos předplatných Azure
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
+        - name: Přenos předplatných plánu Azure pro zákazníka na jiného partnera
+          href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Předplatná softwaru
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'

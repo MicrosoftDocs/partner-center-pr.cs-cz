@@ -2,19 +2,19 @@
 title: Prodej specializovaným odvětvím
 description: Přečtěte si o zvláštních a snížených cenách Microsoftu pro určité skupiny zákazníků, včetně vzdělávacích zákazníků, neziskových zákazníků a uživatelů z oblasti státní správy.
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 05/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: bff69796cb753f93225bb44324629180d981a721
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281280"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702684"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Prodej ve specializovaných oblastech, jako je vzdělávání, neziskový sektor a státní správa
 
@@ -61,17 +61,21 @@ Jakmile budete vy a váš zákazník kvalifikováni pro speciální nabídku pro
 Partneři můžou zákazníkům prodávat speciální nabídky, pouze pokud splní určitá kritéria. 
 
 - Nabídky vzdělávání se dají koupit jenom v případě, že je zákazník autorizovaný pro vzdělávací instituce. Zákazník pro vzdělávání může přijímat jenom vzdělávání a komerční nabídky, ale ne neziskové a státní cloudové cloudy (RSZ).
-- Partneři můžou zakoupit jenom předplatná v RSZ pro zákazníky v RSZ. Jakmile má zákazník předplatné RSZ, partneři nemůžou koupit komerční, vzdělávací ani neziskové předplatné. 
+- Partneři můžou zakoupit jenom předplatná v RSZ pro zákazníky v RSZ. Jakmile má zákazník předplatné RSZ, partneři nemůžou koupit komerční, vzdělávací ani neziskové předplatné.
 - Partneři můžou koupit jenom komerční nebo neziskové předplatné pro zákazníky, kteří nejsou ziskové. Partneři nemůžou koupit RSZ ani vzdělávací předplatné pro zákazníky, kteří nejsou ziskové.
+- Entity vlastněné příslušně musí splňovat [kritéria způsobilosti](https://www.microsoft.com/legal/compliance/anticorruption/criteria).
 
 Pravidla nákupu pro prodej zvláštních nabídek zákazníkům:
 
 |**Typ zákazníka**   |**Lze prodat**   |**Nejde prodat**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
-| Komerční |Komerční | Cloud pro neziskové, vzdělávací nebo státní komunity pro státní správu |
+| Komerční |Komerční | Cloud Community pro neziskové, školní vzdělávání a státní správu |
 | Bez zisku |Komerční, nezisková | Cloudová nebo státní komunita pro vzdělávání |
 | Vzdělávání |Komerční, vzdělávací | Cloud Community pro neziskové nebo státní správu |
 | Cloud Community pro státní správu |Cloud Community pro státní správu | Neziskové, vzdělávací nebo komerční |
+| Vlastní entita State  | Komerční  | Cloud Community pro neziskové, školní vzdělávání a státní správu  |
+| Pokud vlastní entita vzdělávání a State | Komerční, vzdělávací | Cloud Community pro neziskové nebo státní správu |
+| Pokud se jedná o vlastněnou entitu a cloudovou komunitu státní správy | Cloud Community pro státní správu | Neziskové, vzdělávací nebo komerční |
 
 ## <a name="next-steps"></a>Další kroky
 

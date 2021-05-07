@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284498"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702718"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Přenos předplatných plánu Azure pro zákazníka na jiného partnera
 
@@ -44,7 +44,7 @@ Před využitím tohoto nástroje se zákazník musí nacházet v konverzaci s o
 - Produkty z Marketplace třetích stran se přenesou, dokud produkty nespravují kontrolu nároků na Marketplace.
     - Neexistují žádné zvláštní slevy ani oblastní omezení.
     - Produkty nejsou založené na předplatném
-    - Budoucí partner by měl spolupracovat s vydavatelem, aby se ujistil, že jsou na povolených pro nasazení produktu.
+    - Budoucí partner musí spolupracovat s vydavatelem, aby se ujistil, že se nachází v seznamu povolených pro nasazení produktu.
     - Pokud nejsou splněné všechny tyto podmínky, aby bylo možné přenést produkty z webu Marketplace, je třeba přenášet předplatné Azure a pak znovu koupit produkty z Marketplace novým partnerem.
 
 **Požadavky:**
@@ -130,6 +130,7 @@ Pokud chcete dokončit přenos předplatného, přečtěte si a přijměte formu
 >U nepřímých zprostředkovatelů: Informujte prosím svého nepřímý prodejce o přijetí žádosti o přenos.
 
 ### <a name="managing-your-transferred-customer-subscriptions"></a>Správa přenesených zákaznických předplatných
+
 - Převod nebude mít vliv na přístup ke stávajícím uživatelům, skupinám nebo instančním objektům přiděleným pomocí řízení přístupu na základě role v Azure (RBAC). Řízení přístupu na základě role Azure [(Azure RBAC)](/azure/role-based-access-control/overview) pomáhá zákazníkům spravovat, kdo má přístup k prostředkům Azure, co s těmito prostředky může dělat a k jakým oblastem mají přístup. Jako nový partner jste nedostali přístup k prostředkům vašeho zákazníka po převodu předplatného. Předchozí partner vašeho zákazníka si zachová přístup RBAC. Spolupracujte se svým zákazníkem a zjistěte, kdo má ve svých předplatných nějaké informace a jakým způsobem je možné provést požadované změny.
 
 - V důsledku toho je důležité, aby váš zákazník odebral přístup k Azure RBAC pro svého předchozího partnera a přidal přístup pro nového partnera. Další informace o zákazníkovi, který poskytuje nový přístup, najdete v tématu [co je řízení přístupu na základě role Azure (Azure RBAC)?](/azure/role-based-access-control/overview) Další informace o tom, jak zákazník odebírá přístup k organizaci RBAC z předchozího partnera, najdete v tématu [Odebrání přiřazení role](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).
