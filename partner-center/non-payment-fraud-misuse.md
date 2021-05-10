@@ -1,6 +1,6 @@
 ---
 title: Správa neplacení, podvodů nebo zneužití
-description: Přečtěte si o různých rizicích souvisejících s online transakcemi a s osvědčenými postupy pro správu a zmírnění těchto rizik v partnerském centru.
+description: Přečtěte si o různých rizicích spojených s online transakcemi a osvědčených postupech pro správu a zmírnění těchto rizik v Partnerské centrum.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,46 +9,46 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 9b3beef70052ad204327dd53c4aa9f477056bbcb
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441859"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686292"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Řešení nezaplacení, podvodu nebo zneužití v Partnerském centru
 
-Platí pro:
+**Platí pro**
 
 - Partnerské centrum pro Microsoft Cloud for US Government
 
-**Příslušné role**
+**Odpovídající role**
 
 - Globální správce
 - Správce správy uživatelů
-- Agent správce
+- Agent pro správu
 - Správce fakturace
 
-Máte finančně odpovědnost za podvodné nákupy zákazníků a/nebo zákazníky, kteří si zakoupili koupené služby. Proto *důrazně doporučujeme, abyste provedli řízení prevence podvodů a detekci rizik*.
+Finančně zodpovídáte za podvodné nákupy ze strany zákazníků nebo zákazníků za nezaplacení zakoupených služeb. Proto důrazně *doporučujeme, abyste zasadili řízení* rizik před podvody a jejich odhalování.
 
-Aby nedocházelo k podvodné aktivitě nebo zneužití adres, je důležité pochopit potenciální rizika a vyvíjet zásady a postupy, které mohou snížit vaši expozici.
+Pokud se chcete vyhnout podvodným aktivitám nebo zneužití nebo je řešit, je důležité porozumět potenciálním rizikům a vyvinout zásady a postupy, které by snížily riziko ohrožení.
 
-## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Vynucování zásad přijatelného použití Microsoftu
+## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Vynucování zásad přijatelného použití od Microsoftu
 
-Pokud společnost Microsoft zjistí, že se partner nebo aktivita zákazníka domnívá nebo podezření porušuje přijatelné zásady použití, budeme postupovat podle kroků pro vynucení. Zákazník může být okamžitě pozastaven. Budete upozorněni na akce vynucení nebo aktualizovány na základě vašich požadavků od Microsoftu.
+Pokud Microsoft zjistí aktivitu partnera nebo zákazníka a potvrdí nebo se domnívá, že porušuje zásady přijatelného použití, podnikáme kroky pro vynucení. Zákazník může být okamžitě pozastavený. Microsoft vás upozorní na akce vynucení nebo aktualizuje na vaše žádosti.
 
 ## <a name="abuse-of-service-risks"></a>Zneužití rizik služeb
 
-**Zneužití rizik služeb** znamená, že zákazníci, kteří používají cloudové služby, jsou v rozporu s podmínkami přijatelného používání společnosti Microsoft.
+**Zneužití rizik služeb** znamená zákazníky, kteří používají cloudové služby v rozporu se zásadou přijatelného použití společnosti Microsoft.
 
 ### <a name="examples-of-abuse-of-service"></a>Příklady zneužití služby
 
-Příklady těchto porušení zásad přijatelného používání společnosti Microsoft můžou zahrnovat:
+Mezi příklady těchto porušení zásad přijatelného použití společnosti Microsoft patří:
 
-- Spamem
-- Kusů
-- Distribuované útoky s cílem odepření služeb (DDoS)
-- Bitcoin dolování
+- Spam
+- Hacking
+- Distribuované útoky na odepření služeb (DDoS)
+- Bitcoin mining
 - Distribuce malwaru
 - Další prodej kradených předplatných
 
@@ -79,24 +79,24 @@ Návrhy na snížení rizik online při připojování nových zákazníků zahr
 - Během registrace použijte vícefaktorové ověřování (například ověření SMS), abyste minimalizovali vystavení automatickému vytváření a nákupu účtů.
 - Spravujte a sledujte identity pomocí služeb (třeba služeb Digital identity).
 - Vyhodnoťte finanční sílu zákazníka prostřednictvím přísných systémů pro detekci podvodných platebních karet.
-- Vytvořte zásadu zrušení kolekce. Podrobné informace o procesu sběru a o přístupu k předplatným budou ovlivněny neplatbou. (Můžete zakázat přístup nebo [pozastavit předplatná zákazníka](create-a-new-subscription.md#suspend-a-subscription) pro neplatbu.)
+- Vytvořte zásadu jasných kolekcí. Podrobnosti o procesu kolekcí a o tom, kdy bude mít nezaplacení vliv na přístup k předplatným. (Můžete zakázat přístup nebo [pozastavit předplatná](create-a-new-subscription.md#suspend-a-subscription) zákazníka pro nezaplacení.)
 
 ### <a name="managing-customer-accounts"></a>Správa zákaznických účtů
 
-Návrhy správy zákaznických účtů po nákupu zahrnují:
+Mezi návrhy pro správu zákaznických účtů po nákupu patří:
 
-- Implementací procesu můžete rychle přijímat, kontrolovat, reagovat na oznámení Microsoftu a reagovat na ně.
-- Spolupracujte se zákazníky, abyste porozuměli obchodním potřebám využití cloudu a nastavení vhodné prahové hodnoty monitorování. (Můžete například [nastavit měsíční rozpočet Azure útraty](set-an-azure-spending-budget-for-your-customers.md) v partnerském centru. Díky tomuto porozumění můžete sledovat využití zákazníků v průběhu měsíce a informovat se o tom, že se zákazníci blíží jejich rozpočtu.)
-- Pravidelně monitorujte [protokoly aktivit zákazníků](activity-logs.md) , abyste mohli včas detekovat podvod.
-- Provede rychlou akci při zjištění podezřelých aktivit.
-- Vyhněte se tomu, aby zákazníci měli úplný přístup správce k předplatným bez prvotní implementace řízení zmírnění rizik.
+- Implementujte proces pro rychlé přijímání, reagování na oznámení Microsoftu, reagování na ně a jejich reagování.
+- Spolupracujte se zákazníky, abyste porozuměli firemním potřebám využívání cloudu při nastavení vhodných prahových hodnot monitorování. (Můžete například nastavit měsíční [rozpočet útraty Azure](set-an-azure-spending-budget-for-your-customers.md) v Partnerské centrum. Toto porozumění vám umožní monitorovat využití zákazníků v průběhu měsíce a být informováni, když se zákazníci blíží jejich rozpočtu.)
+- Pravidelně [monitorujte protokoly aktivit zákazníků,](activity-logs.md) abyste podvody včas odhalovat.
+- Rychlá akce při zjištění podezřelých aktivit
+- Vyhněte se poskytování úplného přístupu pro správu k předplatným bez první implementace kontrol omezení rizik.
 
 ### <a name="managing-customer-billing"></a>Správa fakturace zákazníků
 
-Návrhy pro správu fakturace zákazníků na základě nákupu zahrnují:
+Mezi návrhy pro správu fakturace zákazníků po nákupu patří:
 
-- Před počátečními transakcemi a fakturací si vyžádejte platby.
-- Nepřijímejte vysoce rizikové platební nástroje (například předem placené karty nebo karty uložených hodnot).
-- Sledovat platby zákazníků a účty pro vztahy se stárnutím Agresivní vymáhání standardizovaných upomínky procesů pro pozdní platby nebo nedoplatk.
+- Vyžádejte si zálohy před počátečními transakcemi a fakturací.
+- Nepřijímá vysoce rizikové platební nástroje (například předplacené karty nebo karty uložené hodnoty).
+- Monitorujte platby zákazníků a stárnoucí účty v rámci závazků. Agresivně vynucovat standardizované procesy dunningu pro pozdní platby nebo nezaplacení.
 
-Podrobnější strategie pro zmírnění rizika online najdete v tématu [Průvodce správou rizik online transakcí.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)
+Podrobnější strategie pro zmírnění online rizik najdete v průvodci [řízením rizik online transakcí.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)

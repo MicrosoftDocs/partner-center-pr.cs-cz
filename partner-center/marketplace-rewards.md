@@ -9,16 +9,16 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: e279ad8299def820287207c36c670c6051e26f2f
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624251"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686241"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Správa odměn na webu Marketplace v partnerském centru & aktivovat marketing, prodej a technické výhody
 
-Příslušné role:
+**Příslušné role**
 
 - Správce partnera MPN
 - Globální správce
@@ -56,17 +56,17 @@ Nárok na tržiště na webu Marketplace se počítá na základě všech profil
 
 Informace o vydaných Marketplace jsou k dispozici prostřednictvím tenanta Azure AD a ID MPN, které jste použili k vytvoření účtu partnerského centra. Tento účet se nazývá globální účet partnera (PGA) vaší společnosti. Pokud je váš tenant Azure AD jiný než ten, který se používá pro registraci MPN, budete ho muset přidružit k PGA vaší společnosti.
 
-### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Přidružení tenanta Azure AD k PGA vaší společnosti
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Přidružení tenanta Azure AD ke pga vaší společnosti
 
-1. Jako správce globálního správce nebo účtu se přihlaste k PGA v partnerském centru.
+1. Jako globální správce nebo správce účtu se přihlaste ke pga v Partnerské centrum.
 
-2. Vyberte **Nastavení** (vpravo nahoře), **Nastavení účtu**, **klienti**. 
+2. Vyberte **Nastavení** (vpravo nahoře), **Nastavení účtu**, **Tenanti.** 
 
-3. Vyberte **přidružit jiného tenanta Azure AD** a vyberte TENANTA Azure AD, kterého chcete přidružit k PGA.
+3. Vyberte **Přidružit dalšího tenanta Azure AD** a vyberte tenanta Azure AD, kterého chcete přidružit ke pga.
 
-4. Přidejte uživatelské jméno a heslo libovolného uživatele v tenantovi Azure AD, kterého chcete přidružit, a vyberte **Odeslat**.
+4. Přidejte uživatelské jméno a heslo libovolného uživatele v tenantovi Azure AD, kterého chcete přidružit, a vyberte **Odeslat.**
 
-5. Odhlaste se z partnerského centra a pak se přihlaste pomocí uživatelského jména a hesla pro tenanta, kterého jste právě přidružili k PGA.
+5. Odhlásit se z Partnerské centrum a pak se přihlásit pomocí uživatelského jména a hesla pro tenanta, který jste právě přidruženi ke pga.
 
-6. V levé navigační nabídce si teď budete moct zobrazit informace o komerčním programu Marketplace.
+6. V levé navigační nabídce teď uvidíte informace o programu Commercial Rewards Marketplace.
 

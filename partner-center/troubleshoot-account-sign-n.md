@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: f34adc57e668caecb69af37afc72b5153f667335
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768699"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686258"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Řešení potíží s nastavením účtu nebo problémy s obnovením MPN
 
@@ -22,7 +22,7 @@ ms.locfileid: "104768699"
 **Příslušné role**
 
 - Globální správce
-- Správce partnera MPN 
+- Správce partnera MPN
  
 Tady jsou některé návrhy řešení běžných potíží, které vznikají při nastavování účtu partnerského centra.
 
@@ -45,31 +45,31 @@ Další informace najdete v tématu věnovaném [registraci pro samoobslužné s
 
 ## <a name="you-forgot-your-password"></a>Zapomněli jste heslo
 
-Pokud jste zapomněli heslo, vyberte odkaz **nemáte přístup k účtu?** na přihlašovací stránce. Tato možnost umožňuje resetovat heslo nebo požádat globálního správce, aby vám přiřadil nové přihlašovací údaje.
+Pokud jste zapomněli heslo, vyberte odkaz **nemáte přístup k účtu?** na přihlašovací stránce. Tato možnost umožňuje resetovat heslo nebo požádat globálního správce o přiřazení nových přihlašovacích údajů.
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Na obrazovce řekněte nám o vaší firmě se zobrazí chyba "něco se pokazilo".
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Na obrazovce Řekněte nám o vaší společnosti se zobrazí chyba Něco se pokazilo
 
-Tato chybová zpráva se obvykle zobrazuje, pokud nechtěně používáte v telefonním čísle vaší společnosti speciální znaky, mezery nebo kód země. Hodnota zadaná v poli telefonní číslo může obsahovat jenom maximálně 10 znaků.
-
-
-### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Nákup vaší platební karty obdržíte chybovou zprávu s oznámením, že vaše objednávka byla zamítnuta. Ověřte prosím vaše informace.
+Tato chybová zpráva se obvykle zobrazí, pokud na firemním telefonním čísle neúmyslně použijete speciální znaky, mezery nebo kód země. Hodnota zadaná do pole Telefonní číslo může obsahovat maximálně 10 znaků.
 
 
-Vždy používejte adresu odpovídající vaší kreditní kartě, nikoli vaší právní entitu. Také se ujistěte, že je poštovní směrovací číslo správné a odpovídá adrese, kterou používáte.
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Při nákupu platební karty se zobrazí chybová zpráva s oznámením, že vaše objednávka byla zamítnuta. Ověřte své informace.
+
+
+Vždy používejte adresu odpovídající vaší platební kartě, a ne právnickou osobu. Také se ujistěte, že je PSČ správné a odpovídá adrese, kterou používáte.
 
 ## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Chcete přepnout z offline platby na online způsob platby 
 
-Původní objednávku bude nutné zrušit a znovu zakoupit pomocí preferovaného způsobu platby.
+Budete muset zrušit původní objednávku a znovu ji zakoupit pomocí upřednostňovaného způsobu platby.
 
-Postup zrušení objednávky:
+Zrušení objednávky:
 
-1. Na řídicím panelu vyberte kartu **nabídky členství** .
+1. Na **řídicím panelu** vyberte kartu Nabídky členství.
 
-2. Vyberte možnost **zrušit pořadí** .
+2. Vyberte **Zrušit objednávku.**
 
-3. Zobrazí se potvrzovací okno, které je nutné potvrdit, aby bylo možné původní pořadí zrušit.
+3. Zobrazí se potvrzovací okno, které musíte potvrdit, abyste mohli zrušit počáteční objednávku.
 
 ## <a name="next-steps"></a>Další kroky
 
 - [Správa účtu v Partnerském centru](partner-center-account-setup.md)
-- [Jak číst váš soubor fakturace a rekognoskaci](read-your-bill.md)
+- [Čtení souboru faktury a odsoučtu](read-your-bill.md)

@@ -9,18 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 2c44581b1c2d7fcf2e4a10de9194a8c7288791a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172264"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686139"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Poskytování různých typů podpory zákazníkům
 
 **Platí pro**
 
--  Partnerské centrum pro Microsoft Cloud for US Government
+- Partnerské centrum pro Microsoft Cloud for US Government
 
 **Příslušné role**
 
@@ -40,18 +40,18 @@ Zákazníci CSP nemůžou vytvářet lístky podpory sami. Budou se muset obrát
 
   - [Premier Support pro partnery](https://partner.microsoft.com/support/microsoft-services-premier-support) (základ poplatků, použití pro všechny produkty)
 
-  - [Rozšířená podpora pro partnery](https://partner.microsoft.com/support/advanced-cloud-support) (základ poplatků za použití jenom pro cloudové produkty)
+  - [Pokročilá podpora pro partnery](https://partner.microsoft.com/support/advanced-cloud-support) (základ poplatků, použití pouze pro cloudové produkty)
 
-  - [Podpisová podpora cloudu](manage-your-partner-network-benefits.md) (zahrnutá s výhodami programu MPN pro zlaté nebo stříbrné kompetence, jenom pro cloudové produkty)
+  - [Signature Cloud Support](manage-your-partner-network-benefits.md) (součástí výhod PROGRAMU MPN pro kompetence Gold nebo Silver, použijte pouze pro cloudové produkty)
 
-  - [Incidenty podpory produktu](manage-your-partner-network-benefits.md) (dodávané s výhodami programu MPN pro partnery Gold, stříbrného a Microsoft Action Pack, použití jenom pro poslední místní produkty)
+  - [Incidenty podpory produktů](manage-your-partner-network-benefits.md) (součástí výhod programu MPN pro partnery programu Gold, Silver nebo Microsoft Action Pack, použití pouze pro nejnovější místní produkty)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Poskytování fakturace, správy předplatných a technické podpory 
 
-Každá online služba má konkrétní a podrobné požadavky na poskytování fakturace, správy předplatných a technické podpory zákazníkům. Další informace najdete v následujících dokumentech.
+Každá online služba má specifické a podrobné požadavky na poskytování fakturace, správy předplatných a technické podpory zákazníkům. Další informace najdete v následujících dokumentech.
 
-- [Předplatná Dynamics 365 prodávaná prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [Předplatná Dynamics 365 prodávaných prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
-- [Předplatná Azure prodávaná prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+- [Předplatná Azure prodávané prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Předplatná systém Microsoft Office 365 prodaná prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [systém Microsoft Office 365 předplatných prodaných prostřednictvím CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)

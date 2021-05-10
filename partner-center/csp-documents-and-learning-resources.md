@@ -1,20 +1,20 @@
 ---
-title: Smlouvy CSP, ceníky a nabídky
+title: Smlouvy, ceníky a nabídky CSP
 ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Najdete zde odkazy na Příručky k programům Cloud Solution Provider, partnerské smlouvy, smlouvy zákazníka, ceníky a nabídky.
+description: Vyhledejte odkazy na Cloud Solution Provider programu, smlouvy s partnery, smlouvy se zákazníkem, ceníky a nabídky.
 author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77d56a22e12b369b5df6fc50a8ee28b7db73192b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502880"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686224"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Průvodce, smlouvy, ceníky a nabídky pro program Cloud Solution Provider
 
@@ -22,62 +22,66 @@ ms.locfileid: "106502880"
 
 - Partnerské centrum pro Microsoft Cloud for US Government
 
+**Odpovídající role**
 
-Přečtěte si informace v tomto článku, abyste pochopili požadavky na účast v programu Cloud Solution Provider (CSP) společnosti Microsoft.
+- Globální správce
+- Agent pro správu
+
+V tomto článku najdete informace, které vám porozumí požadavkům na účast v programu Microsoftu Cloud Solution Provider (CSP).
 
 ## <a name="cloud-solution-provider-program-guide"></a>Průvodce programem Cloud Solution Provider
 
-Projděte si požadavky, které se stanou partnerem v programu Cloud Solution Provider.
+Zkontrolujte požadavky pro stávají se partnerem v Cloud Solution Provider programu.
 
-[Příručka programu pro partnery poskytovatele Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100)
+[Průvodce programem pro Cloud Solution Provider partnery](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Pokud v programu Cloud Solution Provider požadujete obchodní dopis potvrzující nebo potvrzující váš stav jako schválený partner Microsoftu, obraťte se na [podporu a požádejte](https://partner.microsoft.com/pcv/servicerequests/create) ho o pomoc.
+>Pokud potřebujete pracovní dopis potvrzující nebo certifikující váš stav schváleného partnera [](https://partner.microsoft.com/pcv/servicerequests/create) Microsoftu v programu Cloud Solution Provider, požádejte o to podporu.
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Další licenční smlouvy k partnerovi Microsoftu
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Další podmínky nabídky pro Smlouva s partnerem Microsoftu
 
-[Příručky k předplatným služeb Online Services a autorizaci softwarového kanálu poskytují doplňkové výrazy.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[Doplňkový průvodce podmínkami nabídky k předplatným online služeb a autorizaci softwarového kanálu](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-customer-agreement-customer-templates"></a>Šablony zákaznických smluv pro zákazníky společnosti Microsoft
+## <a name="microsoft-customer-agreement-customer-templates"></a>Smlouva se zákazníkem Microsoftu šablon zákazníků
 
-Předtím, než můžete uvést objednávku jménem zákazníka, musí zákazník přijmout a podepsat příslušné smlouvy o zákaznících Microsoftu. Zákaznické smlouvy Microsoftu jsou specifické pro oblast. Ujistěte se, že jste vybrali správnou zemi na základě umístění zákazníka.
+Před tím, než můžete objednávku hlásit jménem zákazníka, musí zákazník přijmout a podepsat příslušné Smlouva se zákazníkem Microsoftu. Smlouvy se zákazníkem Microsoftu jsou specifické pro jednotlivé oblasti. Nezapomeňte vybrat správnou zemi na základě polohy zákazníka.
 
-Chcete-li ručně stáhnout nejnovější verzi šablony zákaznických smluv od společnosti Microsoft, vyberte tuto [adresu URL](https://aka.ms/customeragreement).
+Pokud chcete ručně stáhnout nejnovější verzi šablony Smlouva se zákazníkem Microsoftu, vyberte tuto adresu [URL.](https://aka.ms/customeragreement)
 
 >[!IMPORTANT]
->Musíte potvrdit, že zákazník přijal zákaznickou smlouvu Microsoftu. Můžete potvrdit buď potvrzením, že zákazník smlouvu přijal, nebo pozváním zákazníka, aby smlouvu přijal přímo. Přečtěte si téma [potvrzení souhlasu zákazníka s zákaznickou smlouvou Microsoftu](confirm-customer-agreement.md).
+>Musíte potvrdit, že zákazník přijal Smlouva se zákazníkem Microsoftu. Můžete to potvrdit buď potvrzením, že zákazník smlouvu přijal, nebo tak, že zákazníka vyzvete, aby smlouvu přijal přímo. Viz [Potvrzení souhlasu zákazníka s Smlouva se zákazníkem Microsoftu](confirm-customer-agreement.md).
 
-### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Změna profesního tajemství na Microsoft Cloud smlouvu (Německo)
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Dodatek o profesním tajemství Smlouva o službách Microsoft Cloud (Německo)
 
-V Německu může kód v trestním řízení (oddíl 203) a profesní kodex chování vyžadovat, aby určité vztahy klientů byly důvěrné, například vztah mezi pacienty a jejich zdravotnickými lékaři a vztah mezi právními a jejich klienty. Tyto skupiny povolání musí zajistit služební tajemství. Aby tato a další povolání mohla koupit cloudové služby od poskytovatelů cloudových řešení, musí poskytovatel cloudových služeb uzavřít písemnou smlouvu se zákazníkem, který zajistí služební tajemství.
+V Německu vyžaduje trestní řád (oddíl 203) a etický kodex, že určité vztahy mezi klienty musí být důvěrné, například vztah mezi pacienty a jejich lékaři a vztah mezi lékaři a jejich klienty. Tyto pracovní skupiny musí zajistit profesní tajemství. Pro tyto a další profesionály, kteří si kupují cloudové služby od poskytovatelů cloudových řešení, musí poskytovatel cloudových služeb uzavřít se zákazníkem smlouvu, která zajistí profesionální tajemství.
 
-Pokud obchodujete v Německu, možná budete muset poskytnout zákazníkům kromě Microsoft Cloud smlouvy tuto změnu v profesionálním tajnosti.
+Pokud podnikáte v Německu, možná budete muset poskytnout tento dodatek o profesním tajemství svým zákazníkům v tomto Smlouva o službách Microsoft Cloud.
 
-[Změna smlouvy na profesní tajemství pro Německo (EN) Microsoft Cloud](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[Smlouva o službách Microsoft Cloud dodatek o profesním tajemství pro Německo (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[Dodatek Microsoft Cloud smlouvy o změně profesního tajemství pro Německo (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[Smlouva o službách Microsoft Cloud dodatek o profesním tajemství pro Německo (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 ## <a name="pricing"></a>Ceny
 
-Podrobnosti o cenách pro licence založené na licencích a na základě využití a jednorázové nákupy najdete na stránce **ceny a nabídky** , která je dostupná v nabídce vašeho **partnerského centra** .
+Stáhněte si podrobnosti o cenách pro nákupy na základě  licencí, na základě využití a pro nákupy na základě využití na stránce Ceny a nabídky, která je k **dispozici Partnerské centrum** nabídky.
 
-Ceník založený na licencích se aktualizuje měsíčně a společnost Microsoft vydává nové ceny po dobu 30 dnů, než se projeví. Příklady služeb založených na licencích zahrnují Office 365, Enterprise Mobility Suite a Microsoft Dynamics CRM. 
+Ceník založený na licencích se aktualizuje každý měsíc a Microsoft vydává nové ceny 30 dní před tím, než se projeví. Mezi příklady služeb založených na licencích patří Office 365, Enterprise Mobility Suite a Microsoft Dynamics CRM. 
 
-Ceny založené na využití jsou dynamické a často se mění. Mezi příklady služeb založených na používání patří Microsoft Azure.
+Ceny založené na využití jsou dynamické a často se mění. Mezi příklady služeb založených na využití patří Microsoft Azure.
 
-Ceny za jednorázové nákupy jsou také dynamické. Příklady jednorázových nákupů zahrnují Microsoft Azure rezervacích a odpovídajících předplatných pro Windows Server a software SQL.
+Dynamické jsou také ceny při jednom nákupu. Příklady nákupů jednou zahrnují Microsoft Azure rezervací a odpovídající předplatná windows Serveru a softwaru SQL.
 
-Informace o cenách Azure Marketplace nabídek najdete na **webu Marketplace** v nabídce navigace v partnerském centru vlevo. Vyberte produkt pro zobrazení informací o vydavateli, SKU a cenách. Ceny těchto Azure Marketplace produktů se můžou často měnit. Pokud chcete získat aktuální informace o cenách pro všechny produkty na webu Marketplace, vyberte **exportovat Ceník** a vygenerujte tabulku se všemi údaji o cenách. Tyto informace se aktualizují každý den, takže je můžete v takovém případě kontrolovat tak často, jak chcete.
+Informace o cenách Azure Marketplace nabídek najdete na **Webu Marketplace** v Partnerské centrum navigační nabídce. Výběrem produktu zobrazíte informace o vydavateli, SKU a cenách. Ceny za tyto Azure Marketplace se mohou často měnit. Pokud chcete získat aktuální informace o cenách všech produktů Marketplace, vyberte **Exportovat ceník** a vygenerujte tabulku se všemi daty o cenách. Tyto informace se aktualizují každý den, takže je můžete kontrolovat tak často, jak chcete.
 
 ## <a name="offers"></a>Nabídky
 
-Jako partner v CSP můžete prodávat řadu produktů, služeb a řešení od Microsoftu, včetně Office 365, Enterprise Mobility Suite, Microsoft Dynamics a Microsoft Azure. Další informace o tom, které nabídky jsou k dispozici pro prodej v rámci těchto rodin produktů, najdete na stránce s cenami a nabídkami zprostředkovatele CSP na stránce **ceny a nabídky** , která je dostupná v nabídce vašeho **partnerského centra** . Tento dokument se aktualizuje měsíčně.
+Jako partner v CSP můžete prodávat širokou škálu produktů, služeb a řešení Microsoftu, včetně Office 365, Enterprise Mobility Suite, Microsoft Dynamics a Microsoft Azure. Další informace o tom, které nabídky můžete v rámci těchto produktových rodin  prodávat, najdete v matici nabídek CSP na stránce Ceny a nabídky, která je k dispozici **Partnerské centrum** nabídky. Tento dokument se aktualizuje každý měsíc.
 
-Pro partnery CSP, kteří používají rozhraní API záznamu využití Crest, společnost Microsoft také zveřejňuje seznam služeb Azure ve zprostředkovateli CSP na stránce **ceny a nabídky** .
+Pro partnery CSP, kteří používají rozhraní API Crest pro záznam o využití, publikuje Microsoft také seznam služeb Azure v CSP na stránce **Ceny** a nabídky.
 
-Další informace o Azure Marketplace nabídkách publikovaných nezávislými dodavateli softwaru (ISV) najdete na stránce **Marketplace** v levém navigačním panelu. V současné době lze v partnerském centru zakoupit pouze typy produktů SaaS (software as a Service). Pokud chcete získat další typy Azure Marketplace nabídek, musíte navštívit Azure Portal.
+Další informace o Azure Marketplace publikovaných nezávislými výrobci softwaru najdete na stránce **Marketplace** v levé navigační nabídce. V současné době je možné zakoupit pouze typy produktů SaaS (software jako služba) v Partnerské centrum. Pokud chcete získat další typy nabídek Azure Portal, budete muset navštívit Azure Marketplace.
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Seznamte se s dohodou o partnerovi Microsoftu.](microsoft-partner-agreement.md)
+- [Další informace o Smlouva s partnerem Microsoftu](microsoft-partner-agreement.md)
 - [Registrace do programu Cloud Solution Provider](enrolling-in-the-csp-program.md)

@@ -9,17 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 5ad30c83381e03cf26304092a7e291495cf4342c
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492649"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686190"
 ---
 # <a name="connect-with-customers"></a>Spojení se zákazníky
 
 
- **Příslušné role**
+**Příslušné role**
 
 - Globální správce
 - Agent správce
@@ -69,26 +69,26 @@ Pokud chcete získat oprávnění správce ke správě předplatných a služeb 
 
    Text e-mailu můžete upravit. Nezapomeňte přidat odkaz tak, jak je přizpůsobený, aby propojí zákazníka přímo s vaším účtem i účtem vašeho poskytovatele. Po dokončení tohoto kroku vyberte **Hotovo** .
 
-4. Po tom, co vám zákazník autorizuje a poskytovatele, aby byli prodejci záznamů, budete mít oprávnění správce ke správě svých předplatných, licencí a uživatelů jménem. Váš nepřímý poskytovatel může také odesílat objednávky jménem.
+4. Jakmile zákazník udělí vám a vašemu poskytovateli oprávnění k záznamu, budete mít oprávnění správce ke správě jejich předplatných, licencí a uživatelů jejich jménem. Váš nepřímý poskytovatel může také za něj odesílat objednávky.
 
-5. Pokud chcete spravovat účet, služby, uživatele a licence zákazníka, rozbalte záznam zákazníka tak, že vyberete šipku dolů v blízkosti jeho názvu.
+5. Pokud chcete spravovat účet zákazníka, služby, uživatele a licence, rozbalte záznam zákazníka výběrem šipky dolů vedle jeho jména.
 
-## <a name="remove-a-relationship-with-a-customer"></a>Odebrat relaci se zákazníkem
+## <a name="remove-a-relationship-with-a-customer"></a>Odebrání vztahu se zákazníkem
 
-Chcete-li odebrat vztah se zákazníkem, proveďte následující kroky:
+Pokud chcete odebrat relaci se zákazníkem, proveďte následující kroky:
 
-1.  V partnerském centru klikněte na **zákazníci** a vyberte zákazníka, jehož relaci chcete odebrat.
+1.  V Partnerské centrum přejděte na **Zákazníci a** vyberte zákazníka, jehož vztah chcete odebrat.
 
 2.  Vyberte **účet**.
 
-3.  Vyberte možnost **odebrat vztah zákazníka**.
+3.  Vyberte **Odebrat vztah se zákazníkem.**
 
 4.  Zákazník se už nebude zobrazovat v seznamu zákazníků.
 
 >[!IMPORTANT]
->Pokud jste navázali vztah se zákazníkem a odeberete tuto relaci, všechna delegovaná oprávnění správce zůstanou beze změny.
->Zastupujete, že rozhodnutí ukončit váš vztah se zákazníkem v dobré víře, pro legitimní obchodní účely a v souladu s vaší smlouvou se zákazníkem nebo partnerem a souhlasíte s tím, že zabráníte v rozporu s jinými nároky jiných výrobců na ochranu a ochranu proti nim neškodně.
->Pokud to vaše smlouva vyžaduje, musíte poskytnout právní oznámení o ukončení u zákazníka nebo partnera. Tento nástroj negeneruje oznámení pro zákazníka nebo partnera.
+>Pokud jste na navázat vztah se zákazníkem a odeberete tento vztah, nebudou udělená delegovaná oprávnění správce zachována.
+>Vy zastupujete, že rozhodnutí o ukončení vašeho vztahu se zákazníkem bylo učiněno v dobré důvěry, pro oprávněné obchodní účely a v souladu s vaší smlouvou se zákazníkem nebo partnerem a souhlasíte s tím, že budete bránit společnosti Microsoft před opačným tvrzením a v rozporu s nimi.
+>Pokud to vaše smlouva vyžaduje, musíte zákazníkovi nebo partnerovi poskytnout právní oznámení o ukončení. Tento nástroj zákazníkovi nebo partnerovi nevygeneruje oznámení.
 
 ## <a name="next-steps"></a>Další kroky
 
