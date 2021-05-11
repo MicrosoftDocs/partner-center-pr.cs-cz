@@ -1,6 +1,6 @@
 ---
 title: Oznámení z ledna 2021
-description: Ledna 2021 oznámení pro partnerské Centrum Microsoftu, včetně nových možností, propagačních akcí, nabídek, trhů nebo změn stávajících nabídek.
+description: Oznámení microsoftu z ledna 2021 Partnerské centrum, včetně nových možností, propagačních akcí, nabídek, trhů nebo změn stávajících nabídek.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,51 +9,51 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2021
-ms.openlocfilehash: 9f0292efc6646e4abd85a6fab1e53ac9e139a915
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: bd081c190b3bccb151c2c0cd5e470ad869eb78dd
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280832"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740297"
 ---
 # <a name="january-2021-announcements"></a>Oznámení z ledna 2021
 
-Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu za leden 2021.
+Tato stránka podrobně obsahuje oznámení pro Microsoft Partnerské centrum za leden 2021.
 
-oznámení 2021: leden
+Oznámení z roku 2021: Leden
 
-2020 oznámení: [květen](2020-may.md)  |  [](2020-june.md)  |  [od 1](2020-july.md). června do  |  [](2020-august.md)  |  [září](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [prosinec](2020-december.md)  
+Oznámení z června 2020: [květen](2020-may.md)  |  [červenec](2020-june.md)  |  [](2020-july.md)  |  [červenec, září](2020-august.md)  |  [2020,](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [listopadová prosinec](2020-december.md)  
 
 _____________ 
 
-## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Fáze 1: Dnes: v rámci EU/ESVO & Velká Británie v měně pro nové nabídky obchodu
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Fáze 1 Nyní živě: EU/EFTA & Měna fakturace pro nové obchodní nabídky ve Spojeném království
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-01-28
+- Datum: 28. 1. 2021
 - Možnosti
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-- Všichni partneři s podporou programu Cloud Solution Provider v EU/ESVO & UK
+- Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider v rámci programu EU/EFTA & Uk
 
 ### <a name="details"></a>Podrobnosti
 
-V rámci Evropské unie (EU)/European volný obchod (ESVO) a Spojené království (UK) budou všechny nové nabídky obchodu v programu Cloud Solution Provider místo fakturačního umístění zákazníka používat místo pro fakturaci partnerského oddělení. V takovém případě se partneři účtují společností Microsoft na základě jejich měny umístění, nikoli podle měny jejich zákazníků. Tyto změny budou provedeny ve dvou fázích:
+V Rámci Evropské unie (EU) / Evropské asociace pro volný obchod (EFTA) a Spojeného království (Spojené království) budou všechny nové obchodní nabídky v programu Cloud Solution Provider místo místa fakturace zákazníků používat místo místa fakturace zákazníků. Proto bude Microsoft fakturovat partnery na základě jejich měny polohy, nikoli podle měny polohy jejich zákazníků. Tyto změny budou provedeny ve dvou fázích:
 
 **Fáze 1:**
 
-- Nový zákazník, který si koupí novou nabídku obchodování v CSP
+- Noví zákazníci, kteří kupují novou obchodní nabídku v CSP
 
-- Stávající zákazníci, kteří poprvé kupují nové nabídky obchodu – tenant vytvořený před 11. května 2020
+- Stávající zákazníci poprvé kupují nové obchodní nabídky – tenant vytvořený před 11. květnem 2020
 
-Od 28. ledna 2021 partneři, kteří mají čisté nové zákazníky, nakupují novou nabídku obchodu, nebo stávající zákazníci s klienty vytvořenými před 11. května 2020 a jejich první nákup nových nabídek obchodu se bude účtovat za tyto nákupy v měně partnera umístění.  
+Od 28. ledna 2021 se partnerům, kteří mají nové zákazníky, kteří kupují novou obchodní nabídku, nebo stávající zákazníci s tenanty vytvořenými před 11. květnem 2020, kteří poprvé zakoupili nové obchodní nabídky, budou tyto nákupy účtovat v měně umístění partnera.  
 
-Partneři se stávajícími zákazníky, kteří si už zakoupili nové nabídky pro obchod v CSP, se v této fázi budou dál účtovat v měně fakturačního umístění zákazníka. Kromě toho partneři se stávajícími zákazníky, kteří si chtějí koupit novou nabídku obchodu, jejíž klienti byli vytvořeni v nebo po 11. května 2020, se budou nadále účtovat v měně zákazníka.
+Partneři se stávajícími zákazníky, kteří si už zakoupili nové obchodní nabídky v CSP, se budou během této fáze dál účtovat v měně fakturačního umístění zákazníka. Partneři se stávajícími zákazníky, kteří si poprvé kupují novou obchodní nabídku, jejíž tenanti se vytvořili 11. května 2020 nebo po tomto datu, se budou dál účtovat v měně zákazníka.
 
 **Fáze 2:**
 
-- Stávající zákazníci, kteří si už koupili novou nabídku pro obchodování ve zprostředkovateli CSP před fází 1
+- Stávající zákazníci, kteří si už zakoupili novou obchodní nabídku v CSP před fází 1
 - Stávající zákazníci, kteří poprvé kupují nové nabídky obchodu – tenant se vytvořil nebo později než 11. května 2020
 
 Po fázi 1 a v kalendářním roce 2021 bude Microsoft převádět účtování nových nabídek obchodu pro partnery se stávajícími zákazníky, kteří si zakoupili novou nabídku pro obchodování ve zprostředkovateli CSP před fází 1, a také zákazníky, kteří mají své klienty vytvořenou v nebo později než 11. května 2020 z měny zákazníka na měnu umístění partnera. Před implementací této změny budou partneři předem upozorněni.
@@ -82,35 +82,35 @@ Všechny otázky související s tímto oznámením kontaktují [podporu partner
 
 ### <a name="change-log"></a>Protokol změn
 
-- 17. listopadu 2020: původní publikace
-- 7. ledna 2021: další scénář zahrnutý ve fázi 1 a fázi 2
+- 17. listopadu 2020: Původní publikace
+- 7. ledna 2021: Další scénář zahrnutý pro fáze 1 a 2
 - 28. ledna 2021: 
-    -    Fáze 1 je v provozu. 
-    -    Objasnění, že Velká Británie není zahrnutá v EU/ESVO, je součástí [evropské oblasti a trhu Microsoftu](../regional-authorization-overview.md) a bude ovlivněná.
+    -    Oznamuje, že fáze 1 je aktivní 
+    -    Objasnění, i když spojené království není součástí EU/EFTA, je součástí evropské oblasti a trhu [Microsoftu](../regional-authorization-overview.md) a bude to mít vliv na
 
 ________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Změny požadavků na registraci zákazníků poskytovatele Cloud Solution Provider (CSP)
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Změny požadavků na Cloud Solution Provider (CSP) zákazníků
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-04-02
-- Zvýšené zabezpečení a dodržování předpisů
+- Datum: 2. 4. 2021
+- Rozšířené zabezpečení a dodržování předpisů
 
 ### <a name="summary"></a>Souhrn
 
-V rámci našeho závazku pomáhat partnerům a zákazníkům, kteří provozují své podnikání na základě důvěry, budeme požadovat další informace o zákaznících, účinnost 25. března 2021.
+V rámci našeho závazku pomáhat partnerům a zákazníkům s provozem firmy na základě důvěry si vyžádáme další informace o zákaznících s účinností od 25. března 2021.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Partneři poskytovatele CSP a nepřímá poskytovatelé, kteří mají nové nebo existující zákazníky v zemích uvedených v další části
+Partneři CSP s přímým vyúčtováním a nepřímí poskytovatelé, kteří mají nové nebo stávající zákazníky v zemích uvedených v další části
 
 ### <a name="details"></a>Podrobnosti
 
-Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečné a zabezpečené metody ověřování zákazníků pro transakce předplatných zákazníka v programu CSP. 25. března 2021 budeme zavádět vylepšení rozhraní API partnerského centra a uživatelského rozhraní, které bude mít vliv na partnery, kteří splňují obě následující kritéria:
+Microsoft běží na vztahu důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečnou a zabezpečenou metodu ověřování zákazníků pro transakce zákaznických předplatných v programu CSP. 25. března 2021 představíme vylepšení rozhraní Partnerské centrum API Partnerské centrum uživatelského rozhraní, která ovlivní partnery, kteří splňují obě následující kritéria:
 
-1. Partner má přímý fakturační vztah s Microsoftem (to znamená, že partner je buď přímým partnerem, nebo nepřímým poskytovatelem).
+1. Partner má vztah přímé fakturace s Microsoftem (to znamená, že partner je partner s přímým vyúčtováním nebo nepřímý poskytovatel).
 
-2. Partner pracuje s novými nebo stávajícími zákazníky v těchto zemích:
+2. Partner spolupracuje s novými nebo stávajícími zákazníky v následujících zemích:
 
     - Thajsko
     - Vietnam
@@ -126,11 +126,11 @@ Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující
     - Spojené arabské emiráty
     - Venezuela
 
-Partneři, kteří splňují kritéria, budou muset odeslat registrační ID společnosti zákazníka (označované také jako DIČ organizace zákazníka) a telefonní číslo při příští aktualizaci nebo vytvoření předplatného pro daného zákazníka. Tito partneři můžou volitelně zadat také druhé jméno zákazníka.
+Partneři, kteří splňují tato kritéria, budou muset při příští aktualizaci nebo vytvoření předplatného pro tohoto zákazníka odeslat ID registrace společnosti zákazníka (označované také jako INN organizace zákazníka) a telefonní číslo. Tito partneři můžou volitelně zadat také druhé jméno zákazníka.
 
-Všimněte si, že při přidání registračního ID vaší společnosti byste měli použít své obchodní daňové ID, nikoli osobní ID zákazníka.
+Upozorňujeme, že když přidáte ID registrace společnosti, měli byste použít své DIČ, a ne osobní ID zákazníka.
 
-Partneři, kteří pracují s novými nebo stávajícími zákazníky v následujících zemích, už jsou připojení k předchozí verzi v listopadu 2020.
+Partneři, kteří podniká s novými nebo stávajícími zákazníky v následujících zemích, jsou už v listopadu 2020 onboardované s předchozím vydáním.
 
 - Arménie
 - Ázerbájdžán
@@ -144,7 +144,7 @@ Partneři, kteří pracují s novými nebo stávajícími zákazníky v následu
 - Ukrajina
 - Uzbekistán
 
-Partneři se zákazníky ve zbývající části světa budou mít na konci března 2021 možnost zadat ID registrace společnosti, telefonní číslo a prostřední jméno pro zákazníky jako volitelné podrobnosti.
+Partneři se zákazníky ve zbytku světa budou mít na konci března 2021 možnost zadat jako volitelné podrobnosti ID registrace společnosti, telefonní číslo a prostřední jméno pro zákazníky.
 
 ### <a name="next-steps"></a>Další kroky
 
@@ -185,24 +185,24 @@ Všichni nepřímí prodejci & nepřímými poskytovateli transakcí prostředni
 
 ### <a name="details"></a>Podrobnosti
 
-Právě probíhá implementace partnerské smlouvy Microsoftu pro nepřímé prodejce. Abychom mohli dál podporovat poskytovatele a prodejce, slyšeli jsme vaši zpětnou vazbu a teď si konsolidujete společné dotazy o tom, jak přijmout aktivaci na nové [stránce s nejčastějšími dotazy](../mpa-indirect-provider-faq.md).
+Právě probíhá implementace partnerské smlouvy Microsoftu pro nepřímé prodejce. Pro další poskytovatele podpory a prodejce jsme [vyslyšeli](../mpa-indirect-provider-faq.md)vaši zpětnou vazbu a konsolidovali jsme běžné dotazy týkající se přijetí mpa na novou stránku Nejčastější dotazy.
 
 ### <a name="next-steps"></a>Další kroky
 
-**Nepřímí prodejci:** Pokud jste nepřijali aktivaci, přečtěte si [Nejčastější dotazy](../mpa-indirect-provider-faq.md) týkající se aktivace a postupujte podle podrobných pokynů, [abyste mohli](../microsoft-partner-agreement.md) aktivaci povolit.
+**Nepřímí prodejci:** Pokud jste mpa nepřijali, prohlédněte si nejčastější dotazy k [MPA](../mpa-indirect-provider-faq.md) a přijměte ho podle podrobných pokynů, které jsou zde k dispozici. [](../microsoft-partner-agreement.md)
 
-**Nepřímí zprostředkovatelé:** Zapojte se do svých nepřímých prodejců a využijte je v [nejčastějších](../mpa-indirect-provider-faq.md) dotazech o aktivaci a podrobný návod, který je k dispozici [tady](../microsoft-partner-agreement.md).
+**Nepřímí poskytovatelé:** Obraťte se na nepřímé prodejce a podpořete je s využitím nejčastějších dotazů k [MPA](../mpa-indirect-provider-faq.md) a podrobných pokynů, které jsou k dispozici [tady.](../microsoft-partner-agreement.md)
 
 ### <a name="questions"></a>Máte otázky?
 
-Všechny otázky související s tímto oznámením kontaktuje [partnerská podpora partnerského centra](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) .
+V případě jakýchkoli dotazů souvisejících s tímto oznámením kontaktujte [Partnerské centrum podporu.](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4)
 
 ________________
-## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> Změny protokolu auditu partnerského centra pro zahrnutí dvou nových typů operací pro DAP
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> Partnerské centrum protokolu auditu tak, aby zahrnovaly dva nové typy operací pro DAP
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-01-25
+- Datum: 25. 1. 2021
 - Možnosti
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
@@ -211,35 +211,35 @@ Všichni partneři CSP
 
 ### <a name="details"></a>Podrobnosti
 
-Informování dnešního dne oznamujeme, že jsme v protokolech aktivit partnerského centra nastavili dva nové typy operací, které těmto partnerům poskytují přehled o partnerech, když zákazník schválí nebo odebere vztahy delegovaného správce.
+Jak jsme oznámili dnes, s radostí vás informujeme, že jsme v protokolech aktivit Partnerské centrum zveřejnili dva nové typy operací, které partnerům poskytují přehled, když zákazník schválí nebo odebere delegované vztahy správců.
 
 Níže jsou uvedené nové typy operací:
 
-"typem operace OperationType": "dap_admin_relationship_terminated"
+"operationType": "dap_admin_relationship_terminated"
 
-"typem operace OperationType": "dap_admin_relationship_approved",
+"operationType": "dap_admin_relationship_approved",
 
 ### <a name="next-steps"></a>Další kroky
 
-- Využijte nové typy operací ke sledování událostí, když ho zákazník schválil a ukončil.  
-- [Získání záznamu aktivity partnerského centra – vývojář aplikace pro partnery | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [Prostředky auditování – vývojář aplikací pro partnerských Center | Microsoft Docs](/partner-center/develop/auditing-resources)
+- Využijte nové typy operací ke sledování událostí, kdy zákazník schválil DAP a ukončil ho.  
+- [Získání záznamu o aktivitě Partnerské centrum – Partnerské centrum aplikace pro | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Prostředky auditování – Partnerské centrum aplikací pro | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>Máte otázky?
 
-Jakékoli další otázky vám poskytne příslušné komunity zprostředkovatele CSP pro Yammer.
+Další dotazy najdete v příslušných komunitách CSP Yammer.
 
 ________________
-## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> Změny nabídky Azure v cloudu, které souvisejí s novým prostředím Commerce pro Azure
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> Změny dostupnosti nabídek Azure v CSP související s novým komerčním prostředím v CSP pro Azure
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-01-21
+- Datum: 21. 1. 2021
 - Možnosti
  
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Všichni partneři procházejí prostřednictvím programu Cloud Solution Provider (CSP).
+Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider (CSP).
 
 ### <a name="details"></a>Podrobnosti:
 
@@ -278,49 +278,49 @@ Předchozí nabídka Azure bude mít tři fáze změny. V dnešní době sdílí
 Ve fázi 1 budou všechny nové Azure Cloud Solution Provider program Business na nové nabídce plánu Azure. Použijí se následující pokyny:
 
 - U všech stávajících vztahů prodejců mezi partnery a zákazníky v programu Cloud Solution Provider se může stát, že si zákazník už koupil předchozí nabídku Azure, a zákazník může dál zakoupit předchozí nabídku Azure od tohoto partnera.
-- Předchozí nabídka Azure už nebude k dispozici pro nové partnery, kteří se v cloudu nepoužívají pro transakce.
-- Předchozí nabídka Azure už nebude k dispozici pro nové zákazníky, kteří se kupují prostřednictvím partnera v CSP.
-- U všech nových vztahů prodejců nebo nových zákaznických nákupů můžou partneři jenom v rámci nové nabídky Azure (plán Azure).
-- U všech stávajících vztahů prodejců mezi partnery a zákazníky se může stát, že zákazník ještě nezakoupil Azure dřív, a zákazník může zakoupit jenom novou nabídku Azure od tohoto partnera.
+- Předchozí nabídka Azure už nebude dostupná pro net-nové partnery, kteří provádí transakce v CSP.
+- Předchozí nabídka Azure už nebude dostupná pro netnové zákazníky, kteří nakupují přes partnera v CSP.
+- V případě všech nových vztahů s prodejci nebo získání nových zákazníků mohou partneři provést transakce pouze s novou nabídkou Azure (plán Azure).
+- U všech existujících vztahů mezi partnery a zákazníky platí, že pokud zákazník nikdy předtím nekupuje Azure, partner může provádět transakce pouze a zákazník může koupit novou nabídku Azure pouze od tohoto partnera.
 
 **Fáze 2 – během kalendářního roku 2022**
 
-Ve fázi 2, která začínat během kalendářního roku 2022, se z předchozí nabídky Azure odebere motiv a příležitost pro partnerský marže. Počáteční datum fáze 2 budeme předem informovat partnerům o 6 měsíců.
+Ve fázi 2, která začne v průběhu kalendářního roku 2022, se pobídky a příležitosti k marži partnera z předchozí nabídky Azure odstraní. Počáteční datum fáze 2 sdělíme partnerům 6 měsíců předem.
 
-**Fáze 3 – datum TBD**
+**Fáze 3 – datum tbd**
 
-Ve fázi 3 se všechny zbývající zákazníky předchozí nabídky Azure migrují na novou nabídku Azure v programu Cloud Solution Provider (plán Azure). Stejně jako v předchozích fázích budeme předem informovat o počátečním datu fáze 3 k partnerům 6 měsíců.
+Ve fázi 3 se zbývající zákazníci předchozí nabídky Azure budou migrovat na novou nabídku Azure v Cloud Solution Provider (plán Azure). Stejně jako v předchozích fázích předáme partnerům počáteční datum fáze 3 6 měsíců předem.
 
-#### <a name="partner-earned-credit-pec"></a>Získaný kredit partnera (PEC)
+#### <a name="partner-earned-credit-pec"></a>Kredit získaný partnerem (PEC)
 
-S novým prostředím pro obchod se partneři uznávají za průběžně přidávané služby prostřednictvím modelu realizovaného kreditu partnerů. Partneři, kteří získali kredity, se zaměřuje na řízení úspěchů zákazníků prostřednictvím služeb přidaných hodnot, které generují udržitelnou ziskovost.
+Díky novému komerčnímu prostředí se partneři průběžně uznávají za služby s rozlišenou přidanou hodnotou prostřednictvím modelu kreditu získaného partnerem. Partneři, kteří získali kredity, se zaměřují na řízení úspěchu zákazníků prostřednictvím služeb s přidanou hodnotou, které generují udržitelnou ziskovost.
 
 ### <a name="next-steps"></a>Další kroky:
 
-Partneři se velmi doporučuje seznámit s následujícími zdroji:
+Důrazně doporučujeme partnerům, aby se seznámili s následujícími zdroji informací:
 
-#### <a name="partner-earned-credit-pec"></a>Získaný kredit partnera (PEC)
+#### <a name="partner-earned-credit-pec"></a>Kredit získaný partnerem (PEC)
 
-- [Principy získaného kreditu pro partnery (Průvodce) (Microsoft. com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [Získaný kredit partnerů – přehled – Partnerská centra | Microsoft Docs](../partner-earned-credit.md?branch=main)
-- [Získaný kredit partnerů pro spravované služby – partnerské Centrum | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
-- [Role, oprávnění pro partnery, kteří získali kredit – partnerské Centrum | Microsoft Docs](../azure-roles-perms-pec.md)
-- [Školicí modul na vyžádání na kredit získaný partnerem v Azure v modulech CSP (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+- [Vysvětlení kreditu získaného partnerem (průvodce)(microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [Kredit získaný partnerem – přehled – Partnerské centrum | Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [Kredit získaný partnerem za spravované služby – Partnerské centrum | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
+- [Role, oprávnění pro kredit získaný partnerem – Partnerské centrum | Microsoft Docs](../azure-roles-perms-pec.md)
+- [Školicí modul na vyžádání o kreditu získaném partnerem v Azure v CSP modulech (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
-#### <a name="the-new-commerce-experience"></a>Nové prostředí pro obchod
+#### <a name="the-new-commerce-experience"></a>Nové obchodní prostředí
 
-- [Galerie prostředků partnerů: nové prostředí pro obchod v CSP pro Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+- [Galerie prostředků pro partnery: Nové komerční prostředí v PROGRAMU CSP pro Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="questions"></a>Máte otázky?
 
-Všechny otázky související s tímto oznámením vám poskytne [Podpora partnerského centra](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+V případě jakýchkoli dotazů souvisejících s tímto oznámením [kontaktujte Partnerské centrum podporu](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a> Software pro Cloud Solution Provider je teď všeobecně dostupný pro program.
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a> Časově časově neomezené software je teď pro Cloud Solution Provider k dispozici
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-01-19
+- Datum: 19. 1. 2021
 - Podpora růstu vaší firmy
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
@@ -330,21 +330,21 @@ Všichni partneři CSP
 ### <a name="details"></a>Podrobnosti
 
 >[!NOTE]
->Kvůli názorům na partnery aktualizujeme možnost plnění partnerského centra a získáte tak software a licenční klíče pro trvalé objednávky softwaru a předplatného serveru. Před odstraněním 19. ledna 2021 se obnoví do předchozího stavu. Další informace najdete v oznámení z [března 2021](./2021-march.md#4).
+>Z důvodu zpětné vazby od partnerů obnovujeme schopnost Partnerské centrum získávání softwaru a licenčních klíčů pro trvalé objednávky softwaru a objednávky softwaru předplatného serveru. Před odebráním se 19. ledna 2021 obnoví do předchozího stavu. Další informace najdete v oznámení [z března 2021.](./2021-march.md#4)
 
-Informování [o tom, že dnes](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) oznamujeme, že komerční trvalé licence k softwaru jsou teď obecně dostupné všem PARTNERům CSP, aby je mohli prodávat. Seznam ceníků pro partnerský software partnerského centra CSP byl publikován a teď obsahuje další produkty a geografické oblasti.
+Jak [jsme oznámili](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) dnes, s radostí vás informujeme, že komerční časově neomezené softwarové licence jsou teď obecně dostupné pro všechny partnery CSP k prodeji. Znovu Partnerské centrum časově neomezeného softwarového ceníku CSP, který teď obsahuje další produkty a geografické oblasti.
 
-Všimněte si také, že v dnešní době bylo vyřazení softwaru partnerského centra a funkce plnění licenčního klíče vyřazeno a že partneři předávají zákazníkům odkaz na centrum pro správu Microsoft 365 pro tento účel. Další podrobnosti a další kroky najdete níže.
+Všimněte si také, že od dnešního dne se funkce plnění licenčního klíče a softwaru Partnerské centrum vyřazena z provozu a že do budoucna by partneři měli zákazníky k tomuto účelu nasa Microsoft 365 Admin Center. Další podrobnosti a další kroky najdete níže.
 
 ### <a name="next-steps"></a>Další kroky
 
-- Stáhněte si seznam ceníků **trvalého softwaru CSP** v části **software** stránky [ceny &](https://partnercenter.microsoft.com/pcv/sales) služby partner Center. Seznam nově přidaných produktů a geografických oblastí najdete [tady](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
-- Přečtěte si [článek Microsoft 365 centra pro správu s trvalou licencí software a produkt, Stáhněte si článek s postupem](/microsoft-365/admin/setup/download-software-licenses-csp) a sdílejte je s vašimi zákazníky, když jsou připraveni ke stažení softwaru a licenčních klíčů.
-- Projděte si [trvalá softwaru v materiálech připravenosti programu poskytovatele Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Pomocí této [mapy připravenosti](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) můžete rychle najít správné informace pro vaši roli.
+- Stáhněte **si ceník časově neomezeného** softwaru CSP v části **Software** na Partnerské centrum ceny [& nabídky.](https://partnercenter.microsoft.com/pcv/sales) Seznam nově přidaných produktů a geografických lokalit najdete [tady.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
+- Pokud jsou [Microsoft 365 software](/microsoft-365/admin/setup/download-software-licenses-csp) a licenční klíče ke stažení, stáhněte si článek s návody ke stažení a sdílejte je se zákazníky.
+- Přečtěte [si o časově neomezeném softwaru v Cloud Solution Provider připravenosti](https://partner.microsoft.com/resources/collection/software-in-csp#/) programu. Pomocí této [mapy připravenosti](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) můžete rychle najít správné informace pro vaši roli.
 
 ### <a name="questions"></a>Máte otázky?
 
-Jakékoli další otázky vám poskytne příslušné komunity zprostředkovatele CSP pro Yammer.
+Další dotazy najdete v příslušných komunitách CSP Yammer.
 
 ### <a name="change-log"></a>Protokol změn:
 
@@ -383,7 +383,7 @@ Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků,
 
 | Operace | Dokumentace k Partnerskému centru |
 | ------ | ------- |
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions  | [Get-All-of-Customer](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions  | [Get-All-of-Customer](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Získání předplatného podle ID](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/Customers/{customer_id}/Orders  | [Získat všechny zákaznické objednávky](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}  | [Získání objednávky podle ID](/partner-center/develop/get-an-order-by-id) |
@@ -417,24 +417,24 @@ Několik spuštění Microsoft 365 bude zahrnuto v ceníku Preview v lednu a bud
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Podrobnosti
 
-#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[SKU součásti dodržování předpisů pro státní správu v Microsoft 365 G5](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Microsoft 365 SKU komponent dodržování předpisů G5 pro státní instituce](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
-Budeme spouštět tři nové nabídky součástí pro komunitní služby pro státní správu a finanční cloudy (RSZ) a RSZ, které budou k dispozici od 1. února 2021. Tyto SKU budou ekvivalentem Microsoft 365 E5 Information Protection a zásad správného řízení, M365 E5 pro řízení rizik v programu Insider a Microsoft 365 E5 eDiscovery & audit, který je v současné době dostupný v komerčním oddělení. 
+Budeme zahajovat tři nové nabídky komponent pro zákazníky Government Community Cloud (GCC) a GCC High, které budou k dispozici od 1. února 2021. Tyto skladové hodnoty budou stejné jako Microsoft 365 E5 Information Protection and Governance, M365 E5 Insider Risk Management a Microsoft 365 E5 eDiscovery & Audit, které jsou aktuálně dostupné v komerčním prostředí. 
 
    |**Název nabídky**|**ID nabídky**|**ID materiálu**|
    |-------------------|:------|:------|
-   |Microsoft 365 E5 Information Protection a zásady správného řízení pro RSZ|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
-   |Microsoft 365 E5 eDiscovery a audit pro RSZ|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
-   |Microsoft 365 E5 Insider pro RSZ|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
-   |Microsoft 365 E5 Information Protection a DLP (doplněk) pro RSZ|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+   |Microsoft 365 E5 Information Protection a zásady správného řízení pro GCC|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |Microsoft 365 E5 eDiscovery a Audit pro GCC|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |Microsoft 365 E5 Insider Risk Management for GCC|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |Microsoft 365 GCC Information Protection E5 a DLP (doplněk)|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
 
-#### <a name="10-year-audit-log-retention-add-on"></a>[doplněk pro uchování protokolu auditu na 10 let](/microsoft-365/compliance/)
+#### <a name="10-year-audit-log-retention-add-on"></a>[10letý doplněk uchovávání protokolů auditu](/microsoft-365/compliance/)
 
-K dispozici je doplněk s předpokladem Microsoft 365 E5, aby si zákazníci mohli uchovávat data po dobu 10 let. 
+Doplněk, který je k dispozici s předpokladem Microsoft 365 E5 umožní zákazníkům uchovat data po dobu 10 let. 
 
    |**Název nabídky**|**ID nabídky**|**ID materiálu**|
    |-------------------|:------|:------|
@@ -456,92 +456,92 @@ Tyto programové nabídky nahradí aktuální zvýšení [zabezpečení a dodrž
    
 ### <a name="next-steps"></a>Další kroky
 
-Podívejte se na náhled ceníku a sdílejte ho s příslušnými zúčastněnými stranami ve vaší organizaci. Další informace najdete na webu [Microsoft Security a dodržování předpisů – technická komunita Microsoftu](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
+Zkontrolujte náhled ceníku a podělte se s příslušnými účastníky ve vaší organizaci. Další informace najdete na webu [Microsoft Security and Compliance – Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
 
 ### <a name="questions"></a>Máte otázky?
 
-Další otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru. 
+Pokud máte další dotazy k těmto nabídekm, podívejte se na příslušné komunity Yammeru. 
 
 _____________ 
 
-## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>DocuSign migrace do Adobe Signing pro partnery v rámci smluv o partnerech Microsoftu (MPAs) 
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>Migrace DocuSign na Adobe Sign pro partnery v rámci Smluv s partnerem Microsoftu (MPA) 
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-01-15
+- Datum: 15. 1. 2021
 - Možnosti
 
 ### <a name="summary"></a>Souhrn
 
-Microsoft převede všechny e-mailové zpracování podpisů z DocuSign na symbol Adobe.
+Microsoft přechází veškeré zpracování elektronických podpisů z DocuSign na Adobe Sign.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Stávající poskytovatelé přímých a nepřímých cloudových řešení (CSP) v rámci technologie aktivace. Partneři na Ukrajině, Rusku a Kazachstánu budou muset každý rok fyzicky nebo e-mailem znovu podepsat.
+Stávající přímo a nepřímí Cloud Solution Provider partnery (CSP) v rámci MPA. Partneři v Šedě, Návštuku a Vsudě budou muset každý rok fyzicky nebo elektronicky znovu podepsat Smlouvu.
 
 ### <a name="details"></a>Podrobnosti
 
-V únoru 2021 začne Microsoft přecházet všemi elektronickými zpracováními podpisů od DocuSign do Adobe signers pro partnery CSP. 
+V únoru 2021 začne Microsoft přechází veškeré zpracování elektronických podpisů z DocuSign na Adobe Sign pro partnery CSP. 
 
-Měli byste očekávat hladký přechod. Po migraci obdržíte od společnosti DocuSign e-mail, a adobesign@adobesign.com to vždy, když je vyžadován elektronický podpis. Tento e-mail vám poskytne odkaz na přihlašovací webovou stránku Adobe, kde se budete muset podepsat. Partneři Microsoftu nebudou muset znovu podepisovat stávající smlouvy, jenom dohody o budoucích kanálech. 
+Měli byste očekávat hladký přechod. Při migraci obdržíte e-mail z adobesign@adobesign.com adresy místo DocuSign, kdykoli se vyžaduje elektronický podpis. Tento e-mail vám poskytne odkaz na webovou stránku Adobe Sign, na kterou budete muset podepsat. Partneři Microsoftu nebudou muset znovu podepisovat existující smlouvy, pouze budoucí smlouvy o kanálu. 
 
-Příklad e-mailu s požadavkem na podpis Adobe můžete najít v [galerii prostředků](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf). 
+Příklad e-mailu s žádostí o podpis Adobe Sign najdete v [galerii prostředků](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf). 
 
-**Pro dosažení co nejlepších výsledků se ujistěte, že jste provedli následující akce:**
+**Pokud chcete zajistit co nejlepší prostředí, nezapomeňte provést následující:**
 
-1. Přidejte adobesign@adobesign.com do seznamu bezpečných odesílatelů, abyste zabránili e-mailům z tohoto účtu přejít přímo do složky Nevyžádaná pošta.
-2. Spolupracovat s vaším IT oddělením na:
-   - Přidejte adobesign@adobesign.com e-mailovou adresu do seznamu bezpečných odesílatelů, abyste se ujistili, že nejsou zahrnutá v žádném předem zavedeném pravidlu phishing.
-   - Aktualizujte stávající zásady zabezpečení a zajistěte, aby všichni povinní příjemci mohli podepsat dokumentaci v rámci licence společnosti Adobe pro podpis Enterprise.
+1. Přidejte do seznamu bezpečných odesílatelů, abyste zabránili tomu, že e-maily z tohoto adobesign@adobesign.com účtu budou přímo ve složce nevyžádané pošty.
+2. Spolupracujte se svým IT oddělením na:
+   - Přidejte e-mailovou adresu do seznamu bezpečných odesílatelů, abyste zajistili, že nebude součástí žádného předem adobesign@adobesign.com zavedeného pravidla útoku phishing.
+   - Aktualizujte stávající zásady zabezpečení tak, aby všichni požadovaní příjemci mohli podepisovat dokumentaci v rámci vaší licence Adobe Sign Enterprise.
 
-Adobe signed je preferované řešení elektronické signatury Microsoftu (ESS) od Microsoftu. Přechod na symbol Adobe zajišťuje zabezpečené a efektivní prostředí elektronického podpisu, které našim zákazníkům a partnerům poskytne větší hodnotu.
+Adobe Sign je preferované řešení MICROSOFTu pro elektronické podpisy (ESS). Přechod na Adobe Sign zajistí zabezpečené a efektivní prostředí pro elektronické podpisy, které zákazníkům a partnerům zajistí větší hodnotu.
 
-Další informace o tom, jak elektronicky podepisovat dokumenty a delegovat elektronický podpis, najdete v následujících **kurzech**: 
-- [Elektronický podpis dokumentu | Adobe – posílané kurzy](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
-- [Pro podepsání dokumentu delegovat někoho jiného Adobe – posílané kurzy](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+Další informace o tom, jak elektronicky podepisovat dokumenty a delegování elektronických podpisů, najdete v následujících **kurzech:** 
+- [Elektronické podepsání dokumentu | Kurzy k Adobe Sign](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delegování jiného uživatele pro podepsání | Kurzy k Adobe Sign](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
 
 ### <a name="next-steps"></a>Další kroky
 
-Tyto informace sdílejte s příslušnými zúčastněnými stranami ve vaší organizaci.
+Tyto informace můžete sdílet s příslušnými účastníky ve vaší organizaci.
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud máte nějaké dotazy, obraťte se na centrum pro místní provoz pomocí [Nástroje pro protokolování volání (CLT)](https://clt.partners.extranet.microsoft.com/CLT) nebo v části [prozkoumat MS](https://www.explore.ms/). Sledujte standardní proces CLT, abyste mohli co nejrychleji vyřešit váš dotaz.
+Pokud máte nějaké dotazy, obraťte se na Oblastní provozní středisko pomocí nástroje pro protokolování volání [(CLT)](https://clt.partners.extranet.microsoft.com/CLT) nebo na adrese [Explore MS](https://www.explore.ms/). Pečlivě postupujte podle standardního procesu CLT, abychom mohli váš dotaz co nejrychleji vyřešit.
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>Komerční aktualizace cen pro norské koruna 
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>Aktualizace komerčních cen pro norský kron 
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-01-14
+- Datum: 14. 1. 2021
 - Nabídky/trhy
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Poskytovatelé cloudových řešení, kteří používají norské koruna.
+Cloud Solution Provider partneři používají norský kron.
 
 ### <a name="details"></a>Podrobnosti
 
-Od 1. března 2021 se norské ceny koruna pro komerční software v místním softwaru a online služby se změní, aby se v oblasti znovu zarovnaly s převládajícími cenovými úrovněmi.
-Úplné oznámení je dostupné jenom pro partnery Microsoftu. [Přihlaste se, abyste měli přístup k celému oznámení](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).
+Od 1. března 2021 se ceny norských kronů pro komerční místní software a online služby změní tak, aby se znovu vyrovnaly s převládajícími cenovou úrovní v oblasti.
+Úplné oznámení je k dispozici pouze pro partnery Microsoftu. [Pokud chcete získat přístup k úplnému oznámení, přihlaste se.](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf)
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>Aktualizace komerčních cen pro indickou Rupie 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>Aktualizace komerčních cen pro indickou rupee 
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-01-08
+- Datum: 8. 1. 2021
 - Nabídky/trhy
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Partneři CSP pro transakce v Indii
+Partneři CSP, kteří provádí transakce v Indii.
 
 ### <a name="details"></a>Podrobnosti 
 
-Microsoft provádí změny v ceníku indických Rupie za účelem zarovnání cen za komerční software a online služby v Indii a v asijské oblasti.
+Microsoft v ceníku indickou rupee mění ceny komerčního softwaru a online služby v Indii a oblasti Asie.
 
 Úplné oznámení je dostupné jenom pro partnery Microsoftu. [Přihlaste se, abyste měli přístup k celému oznámení](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).
 
@@ -573,12 +573,12 @@ Tyto nabídky budou k dispozici komerčním, studentům, učitelům, státnímu 
    |Týmy Microsoftu, které volají základy pro USA a Kanadu|1ee81de6-4d8b-4cf1-b926-2fd2a774a4ca|8N2-00010|
    |Týmy Microsoftu, které volají základy pro USA a Kanadu (ceny za neziskové zaměstnance)|0c2ece0d-39b7-40ec-8c08-87c2b6c75d62|8N2-00011|
    |Týmy Microsoftu, které volají základy pro nás a Kanadu pro vyučující|b8baa3b8-8cc2-4f26-a212-7fbeb28e7895|8N3-00003|
-   |Microsoft teams, který volá základy pro USA a Kanadu pro studenty|26956da8-eeb5-44e3-aa79-d36e0e42b930|8N3-00004|
-   |Týmy Microsoftu, které volají základy pro USA a Kanadu pro RSZ|7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1|8N4-00002|
-   |Microsoft 365 vnitrostátního volání plánu pro USA a Kanadu|60d2919e-427a-46c9-bd03-89cbad27d53f|TK2-00050|
-   |Microsoft 365 vnitrostátního volání plánu pro vyučujícího a Kanadu|602e7548-375b-4e01-bf79-a9a8b8ff16d4|LM7-00006|
-   |Microsoft 365 vnitrostátního volání plánu pro studenty a Kanadu|1f4b4375-3185-40cf-b044-117fe3b102c6|LM7-00007|
-   |Microsoft 365 domácím voláním pro RSZ pro USA a Kanadu|594ed84e-ddf8-4e40-9726-76c04bd29e3b|LM9-00023|
+   |Základy volání Microsoft Teams pro USA a Kanadu pro studenty|26956da8-eeb5-44e3-aa79-d36e0e42b930|8N3-00004|
+   |Základy volání Microsoft Teams pro USA a Kanadu pro GCC|7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1|8N4-00002|
+   |Microsoft 365 Domestic Calling Plan for US and Canada|60d2919e-427a-46c9-bd03-89cbad27d53f|TK2-00050|
+   |Microsoft 365 Domestic Calling Plan for faculty for US and Canada|602e7548-375b-4e01-bf79-a9a8b8ff16d4|LM7-00006|
+   |Microsoft 365 Domestic Calling Plan pro studenty v USA a Kanadě|1f4b4375-3185-40cf-b044-117fe3b102c6|LM7-00007|
+   |Microsoft 365 Domestic Calling Plan for GCC for US and Canada|594ed84e-ddf8-4e40-9726-76c04bd29e3b|LM9-00023|
 
 ### <a name="next-steps"></a>Další kroky
 
@@ -665,45 +665,45 @@ Microsoft oznamuje nadcházející nové změny nabídky Dynamics 365, které se
 - Přehled služeb zákazníkům Dynamics 365 – konec životního cyklu
 - Změna ID nabídek migrace cloudové aplikace Dynamics 365
 
-**Další odpověď zákaznického hlasu pro Dynamics 365**
+**Dynamics 365 Customer Voice – Další odpověď**
 
-Od 1. února 2021 vytvoří Microsoft novou nabídku "Další odpověď" s nárokem na odezvu 1 – k nahrazení stávající nabídky odpověďmi na otázky průzkumu 2-K, konec prodeje, který bude od 1. února 2021.
+1. února 2021 Microsoft vytvoří novou nabídku Additional Response (Další reakce) s nárokem na odpověď 1 K, která nahradí stávající nabídku odpověďmi na průzkum o 2 K, jejichž konec bude 1. února 2021.
 
-Podrobnosti o SKU najdete v dokumentu karta "Customer Voice Další ODP" v [dokumentu Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) . Další informace najdete na [domovské stránce hlasu pro zákazníky Microsoft Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/) .
+Podrobnosti o SKU najdete na kartě Customer Voice Addl Resp v dokumentu [Dynamics CSP Offers-February 2021 Excel.](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) Další informace najdete na domovské stránce [Microsoft Dynamics 365 Customer Voice.](https://dynamics.microsoft.com/customer-voice/overview/)
 
-**Přehled služeb zákazníkům Dynamics 365 – konec životního cyklu**
+**Konec životnosti Dynamics 365 Customer Service Insights**
 
-Od 1. února 2021 budou následující produkty změněny na konec životnosti:
+1. února 2021 se na konec životnosti změní následující produkty:
 
-- Přehled služeb zákazníkům Dynamics 365 (včetně "dalších případů")
-- Virtual agent Dynamics 365 pro služby zákazníkům
+- Dynamics 365 Customer Service Insights (včetně "dalších případů")
+- Dynamics 365 Virtual Agent for Customer Service
 
-Samostatné prostředí "Customer Service Insights" se přesouvá do zákaznických služeb Dynamics 365, kde zákazníci můžou najít stejné funkce hluboko vložené v prostředí služeb zákazníkům.  
+Samostatné prostředí Customer Service Insights se přesouvá do Dynamics 365 Customer Service, kde zákazníci najdou stejné funkce hluboko integrované v prostředí služeb zákazníkům.  
 
-Podrobnosti o SKU najdete v dokumentu karta Přehled služeb zákazníkům v [dokumentu Dynamics CSP Offers-February 2021 Excelu](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) . Další informace najdete na [domovské stránce služby Microsoft Dynamics Customer](https://dynamics.microsoft.com/customer-service/overview/) .
+Podrobnosti o SKU najdete na kartě Customer Service Insights v dokumentu [Dynamics CSP Offers-February 2021 Excel.](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) Další informace najdete na domovské stránce Služby zákazníkům [Microsoft Dynamics.](https://dynamics.microsoft.com/customer-service/overview/)
 
-**ID nabídky migrace v cloudu Dynamics 365**
+**ID nabídek migrace Dynamics 365 Cloud AX**
 
-Tyto SKU se odebraly od 1. ledna 2021 konečného ceníku a v tuto chvíli nebude možné je objednat. 
+Tyto skladové položky byly odebrány z konečného ceníku 1. ledna 2021 a v tuto chvíli nebudou k dispozici pro objednávky. 
 
    |**Název nabídky**|**ID nabídky**|
    |-------------------|:------|
-   |Program Migrace Dynamics 365 finance pro AX|7fbd1115-a4c1-4cf9-b881-40c4187ca581|
-   |Správa dodavatelských řetězců v Dynamics 365 pro migrační program AX|a3c62c0e-4f8a-4fc9-a47e-dec3310529d0|
-   |Migrační program Dynamics 365 Commerce for AX|97e98de6-24a8-4282-bad6-9d1a874e90a4|
-   |Dynamics 365 finance připojit k opravňujícímu programu Dynamics 365 Base Offer for AX Migration program|69d789e8-1e93-4dee-86b2-3ddfb03c08b9|
-   |Dynamics 365 – Správa dodavatelských řetězců se připojí k opravňujícímu programu Dynamics 365 Base nabídky pro migraci AX.|c897adce-2964-4d24-abc3-7f7ad4b6a80d|
-   |Dynamics 365 Commerce – připojit k opravňujícímu programu Dynamics 365 Base Offer for AX Migration program|ba1fe561-cfda-405a-a25d-ecda3bd3cba7|
-   |Operace Dynamics 365 – aktivita pro migrační program AX|177e954e-1fff-4941-8967-55a47e36e1ce|
-   |Operace Dynamics 365 – zařízení pro migraci v programu AX|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
-   |Členové týmu Dynamics 365 pro program Migrace AX|1eb3ad0b-9de3-419d-8bfe-0d61bdd945b2|
+   |Dynamics 365 Finance for AX Migration Program|7fbd1115-a4c1-4cf9-b881-40c4187ca581|
+   |Dynamics 365 Supply Chain Management for AX Migration Program|a3c62c0e-4f8a-4fc9-a47e-dec3310529d0|
+   |Dynamics 365 Commerce for AX Migration Program|97e98de6-24a8-4282-bad6-9d1a874e90a4|
+   |Dynamics 365 Finance Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program|69d789e8-1e93-4dee-86b2-3ddfb03c08b9|
+   |Dynamics 365 Supply Chain Management Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program|c897adce-2964-4d24-abc3-7f7ad4b6a80d|
+   |Dynamics 365 Commerce Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program|ba1fe561-cfda-405a-a25d-ecda3bd3cba7|
+   |Dynamics 365 Operations – Aktivita pro program migrace AX|177e954e-1fff-4941-8967-55a47e36e1ce|
+   |Dynamics 365 Operations – Program migrace zařízení pro AX|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
+   |Členové týmu Dynamics 365 pro program migrace AX|1eb3ad0b-9de3-419d-8bfe-0d61bdd945b2|
 
 ### <a name="next-steps"></a>Další kroky
 
-Projděte si materiály k tomuto tématu a sdílejte je s příslušnými zúčastněnými stranami ve vaší organizaci. 
+Prohlédněte si materiály k tomuto tématu a podělte se o ně s příslušnými účastníky ve vaší organizaci. 
 
 ### <a name="questions"></a>Máte otázky?
 
-Další otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru.
+Pokud máte další dotazy k těmto nabídekm, podívejte se na příslušné komunity Yammeru.
 
 ________________

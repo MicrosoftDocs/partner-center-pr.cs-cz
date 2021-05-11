@@ -1,51 +1,51 @@
 ---
-title: Najít ID tenanta, název domény, ID objektu uživatele
+title: Vyhledání ID tenanta, názvu domény, ID objektu uživatele
 ms.topic: how-to
 ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si, jak najít ID v Azure Portal-ID tenanta služby Azure AD, název domény nebo konkrétní ID objektu uživatele v organizaci. Tyto informace vyžadují některé úlohy.
+description: Zjistěte, jak najít ID v Azure Portal – ID tenanta Azure AD organizace, název domény nebo KONKRÉTNÍ ID objektu uživatele. Některé úlohy tyto informace potřebují.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172247"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740280"
 ---
-# <a name="locate-important-ids-for-a-user"></a>Vyhledat důležitá ID pro uživatele
+# <a name="locate-important-ids-for-a-user"></a>Vyhledání důležitých ID pro uživatele
 
-**Příslušné role**
+**Odpovídající role**
 
 - Globální správce
 
 Tento článek popisuje, jak pomocí [Azure Portal](https://portal.azure.com/) najít pro uživatele následující informace:
 
-- ID tenanta Microsoft Azure Active Directory (Azure AD) organizace nebo společnosti uživatele
+- ID Microsoft Azure Active Directory (Azure AD) organizace nebo společnosti uživatele
 
 - Primární název domény organizace nebo společnosti přidružené k tenantovi Azure AD
 
 - ID objektu uživatele
 
-## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Najít ID tenanta Microsoft Azure AD a název primární domény
+## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Vyhledání ID Microsoft Azure AD tenanta a názvu primární domény
 
-Při hledání ID tenanta Azure AD nebo názvu primární domény v rámci Azure Portal postupujte podle těchto kroků. (Pokud chcete ID tenanta najít programově, přečtěte si téma [Vyhledání ID tenanta pomocí PowerShellu nebo](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)rozhraní příkazového řádku.)
+Pomocí následujícího postupu vyhledejte ID tenanta azure AD nebo název primární domény v rámci Azure Portal. (Pokud chcete ID tenanta najít programově, podívejte se na stránku Vyhledání ID tenanta pomocí [PowerShellu nebo rozhraní příkazového řádku](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell).)
 
 > [!NOTE]
-> ID tenanta se může v různých aplikacích a prostředcích volat jako jiné názvy. ID klienta může být například označováno jako ID adresáře, tenant Azure Active Directory (Azure AD), Microsoft ID nebo pro určité sestavy, a to i pro *tenantguid*.
+> ID tenanta se v různých aplikacích nebo zdrojích může nazývat různé názvy. ID tenanta může být například označováno jako ID adresáře, tenant Azure Active Directory (Azure AD), MICROSOFT ID nebo pro určité sestavy, a to i *tenantguid*.
 
 1. Přihlaste se na [Azure Portal](https://portal.azure.com/).
 
-2. V nabídce vyberte **Azure Active Directory** .
+2. V **Azure Active Directory** vyberte Další.
 
-   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Zobrazuje Azure Portal výběru možnosti Azure Active Directory z nabídky.":::
+   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Zobrazuje Azure Portal výběrem Azure Active Directory v nabídce.":::
 
-3. Zobrazí se stránka s **přehledem** Azure Active Directory. Pokud chcete najít ID tenanta služby Azure AD nebo název primární domény, vyhledejte pole **ID tenanta** a **Primární doména** . Tato pole se zobrazí v části informace o Tenantovi.
+3. Zobrazí Azure Active Directory **přehledu.** Pokud chcete zjistit ID tenanta Azure AD nebo název primární domény, vyhledejte pole **ID tenanta** a **pole Primární** doména. Tato pole se zobrazí v části Informace o tenantovi.
 
-   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Zobrazí stránku s přehledem se dvěma zvýrazněnými poli, ID tenanta a názvem primární domény.":::
+   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Zobrazuje stránku Přehled se dvěma zvýrazněných poli: ID tenanta a název primární domény.":::
 
 4. ID tenanta můžete najít v Azure Portal několika dalšími způsoby. V nabídce vyberte **Azure Active Directory** . Pak v nabídce Najděte oddíl **Spravovat** a vyberte **vlastnosti**.
 
@@ -80,6 +80,6 @@ Stačí najít název domény a ID tenanta nemusí být vždy dostatek. Může b
 ## <a name="next-steps"></a>Další kroky
 
 - [Programové zjištění ID tenanta pomocí PowerShellu nebo rozhraní příkazového řádku](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
-- [Další informace o uživatelských profilech v Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
-- [Zjistěte, jak můžou partneři zobrazit nebo exportovat podrobnosti o zákaznících v partnerském centru.](see-your-customer-list.md)
+- [Další informace o profilech uživatelů v Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Zjistěte, jak mohou partneři zobrazit nebo exportovat podrobnosti o zákazní Partnerské centrum](see-your-customer-list.md)
 

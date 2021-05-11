@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315894"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740382"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Správa účtu partnerského centra – profil společnosti, informace o bance, role, oprávnění a další
 
@@ -46,31 +46,31 @@ Bez ohledu na to, jestli jste partnerem nebo vývojářem, použijte své ID MPN
 
 ## <a name="account-settings---partners-resellers"></a>Nastavení účtu – partneři, prodejci
 
-Když vyberete ikonu **Nastavení** a otevřete nabídku **Nastavení účtu** , výchozí zobrazení, pokud je vaše společnost součástí programu Cloud Solution Provider, je **právní informace** , které se zobrazují na dvou kartách, **partnerech** a **prodejci**. Každá karta obsahuje aspekty vaší firmy.
+Když vyberete  ikonu Nastavení  a otevřete nabídku Nastavení účtu, zobrazí se ve výchozím zobrazení, pokud je vaše společnost součástí programu Cloud Solution Provider, právní informace se dvěma kartami: **Partner** a **Prodejce.**  Každá karta obsahuje aspekty vaší firmy.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Nabídka zobrazuje karty pro partnery a prodejce":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Nabídka zobrazuje karty pro partnery a prodejce.":::
 
-Karta partner obsahuje všechny právní informace o společnosti, jako jsou třeba registrované právní jméno a adresa pro vaši společnost, a také primární kontaktní a firemní umístění. Karta prodejce pro partnery, kteří provádějí CSP, zahrnuje **profil zákaznické podpory**.
+Karta Partner obsahuje všechny právní obchodní informace, jako je zaregistrovaný právní název a adresa vaší společnosti, stejně jako primární kontakt a obchodní umístění. Karta Reseller (Prodejce) pro partnery, kteří podniká v CSP, zahrnuje **profil zákaznické podpory.**
 
-Pokud se vaše společnost nepodílí na CSP, výchozí zobrazení zobrazí jenom kartu **partner** , která bude obsahovat **profil zákaznická podpora**.
+Pokud se vaše společnost neúčastní programu CSP,  ve výchozím zobrazení se zobrazí pouze karta Partner, která bude zahrnovat **profil zákaznické podpory**.
 
-### <a name="when-you-are-in-more-than-one-account"></a>Pokud jste ve více než jednom účtu
+### <a name="when-you-are-in-more-than-one-account"></a>Když jste ve více než jednom účtu
 
-Můžete být součástí více než jednoho účtu. V levé navigační nabídce můžete zjistit, jestli je v rámci více účtů součástí více účtů.
+Můžete být součástí více než jednoho účtu. To, jestli jste součástí více účtů, můžete zkontrolovat pomocí výběru účtu v levé navigační nabídce.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifikace pro výběr účtu":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifikace výběru účtu":::
 
-Pokud se nezobrazuje výběr účtu, budete pouze součástí jednoho účtu. 
+Pokud nevidíte výběr účtu, jste součástí pouze jednoho účtu. 
 
-Po výběru tohoto výběru budou všechny účty, které jste součástí, zobrazeny jako seznam. Pak můžete vybrat libovolnou z nich a přepnout na tento účet. Vše, co se zobrazuje v kontextu tohoto účtu.  
+Když vyberete tento výběr, zobrazí se všechny účty, které jste součástí, jako seznam. Pak můžete vybrat kterýkoli z nich a přepnout na tento účet. Všechno za tím se zobrazí v kontextu tohoto účtu.  
 
-V následujícím příkladu je přihlášený uživatel součástí tří zvýrazněných účtů. Uživatel může mezi nimi přepínat kliknutím na účet.
+V následujícím příkladu je přihlášený uživatel součástí tří zvýrazněných účtů. Uživatel mezi nimi může přepínat kliknutím na účet.
 
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Účty, jejichž součástí jste":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Účty, ke které jste součástí":::
 
 ## <a name="organization-profile"></a>Profil organizace
 
-Tyto stránky můžete použít ke správě podrobných oblastí vaší firmy, včetně platného obchodního profilu, partnerského profilu a klientů. Spravujte jednotlivé oblasti samostatně. Jsou popsány níže. 
+Na těchto stránkách můžete spravovat podrobné oblasti vaší firmy, včetně právní obchodního profilu, partnerského profilu a tenantů. Spravujte jednotlivé oblasti samostatně. Jsou popsány níže. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Nabídka právní informace":::
 
@@ -92,27 +92,27 @@ Přečtěte si další informace o [ověřování a informacích o vašem účtu
 
 ### <a name="tenants-profile"></a>Profil tenantů
 
-Tato stránka obsahuje všechny informace o klientech Azure AD a jejich komerčních i vývojářích. Tento profil je, kde globální správce může přidružit nové klienty k globálnímu účtu partnera.
+Tato stránka obsahuje všechny informace o vašich tenantech Azure AD, komerčních i vývojářských. V tomto profilu může globální správce přidružit nové tenanty ke globálnímu účtu partnera.
 
 ### <a name="identifiers"></a>Identifikátory
 
-Tato stránka obsahuje identity partnerského centra pro vaši společnost: ID MPN, ID vydavatelů, ID vydavatelů Windows a další.  Jednotlivé oblasti je možné rozbalit a upravit tak, aby se například mohl snadno najít primární kontakt pro vaši firmu pro publikování.
+Tato stránka obsahuje Partnerské centrum identit pro vaši společnost: ID MPN, ID vydavatelů, ID vydavatelů Windows a další.  Každou oblast je možné rozbalit a upravit tak, aby byl například primární kontakt pro vaši firmu publikování snadno umístěný.
 
 ### <a name="company-profile"></a>Profil společnosti
 
-Tato stránka určuje typ partnerství s Microsoftem, například nezávislého výrobce softwaru nebo partnera programu CSP. Zobrazuje počet zákazníků, se kterými pracujete, roční tržby a aktuální velikost vaší společnosti. Rozbalte informace společnosti na stránce s **informacemi o společnosti** a sdělte Microsoftu typ práce, kterou chcete dělat s Microsoftem, třeba sestavování aplikací, prodej softwaru od Microsoftu a jiných výrobců, nebo systémový integrátor. Volitelně můžete definovat, kde v tuto chvíli obchodujete s místními prostředími, kde byste chtěli své podnikání v budoucnu rozšířit.
+Tato stránka identifikuje typ partnerství, které máte se společností Microsoft, například nezávislého dodavatele softwaru nebo programového partnera CSP. Zobrazuje počet zákazníků, se které pracujete, roční výnosy a aktuální velikost vaší společnosti. Rozbalte informace  o společnosti na stránce Podrobnosti o společnosti a sdělte Microsoftu, jaký typ práce chcete s Microsoftem dělat, například sestavovat aplikace, dále prodávat software Microsoftu a softwaru třetích stran nebo být integrátorem systémů. Volitelně můžete definovat, kde aktuálně podnikáte, a národní prostředí, ve kterých chcete svou firmu v budoucnu rozšiřovat.
 
 ### <a name="account-merge-profile"></a>Profil sloučení účtů
 
-Když v partnerském centru vydáte společnost, která má aktivní účet pro sloučení svého účtu s vámi, tyto informace se spravují na stránce **Sloučení účtů** . Vyhledejte ID MPN společnosti, kterou chcete pozvat ke sloučení s vašimi změnami, zobrazit aktuální fúze a poslat pozvánky společnostem. Přijměte nebo odmítněte pozvánku ke sloučení účtu společnosti do účtu jiné společnosti. Podrobnosti najdete v tématu [sloučení partnerského účtu s jiným partnerským účtem](merge-accounts.md).
+Když pozvete společnost, která má aktivní účet v Partnerské centrum, aby sloučí svůj účet s vaším účtem, tyto informace se spravují na **stránce sloučení** účtu. Vyhledejte ID MPN společnosti, kterou chcete pozvat ke sloučení s vaší společností, zobrazte aktuální fúze a odešlete pozvánky společnostem. Tady můžete přijmout nebo odmítnout pozvánku ke sloučení firemního účtu do účtu jiné společnosti. Podrobnosti najdete v tématu [Sloučení partnerského účtu s jiným partnerským účtem.](merge-accounts.md)
 
-## <a name="payout-and-tax"></a>Výběr a daň
+## <a name="payout-and-tax"></a>Výplata a daň
 
-Tato stránka obsahuje údaje o **vyčíslení** a daních, včetně informací o fakturaci, **číslu objednávky**, údajů o daňovém ID vaší společnosti, ID DPH, pokud máte nějakou, a používané měně.
+Tato stránka obsahuje podrobnosti o platbách a daních, včetně informací o **vyúčtování,** čísla OBJEDNÁVKY, informací o DIČ vaší společnosti, DIČ, pokud nějaké máte, a měny, kterou používáte. 
 
 ## <a name="user-management"></a>Správa uživatelů
 
-Co pracujete v partnerském centru, a oblasti, které můžete aktualizovat nebo viz, závisí na vaší roli a oprávněních připojených k této roli. Pokud nejste správcem pobídek, nebudete moct na stránkách pobídek měnit cokoli, když možná budete moct data zobrazit. Další informace o [rolích a oprávněních](permissions-overview.md)
+To, na čem v Partnerské centrum a na oblastech, které můžete aktualizovat nebo zobrazit, závisí na vaší roli a oprávněních připojených k této roli. Pokud nejste správcem pobídek, nebudete moct na stránkách pobídek měnit cokoli, když možná budete moct data zobrazit. Další informace o [rolích a oprávněních](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Aktualizace preferovaného e-mailu
 
@@ -145,23 +145,23 @@ Tady je jeden příklad. Předpokládejme, že uživatel má přístup ke třem 
 
 ### <a name="enrolling-in-programs"></a>Registrace v programech
 
-K dispozici je mnoho programů partnerského centra. Každý program má různé požadavky, které vaše společnost musí splnit, než se bude moct zaregistrovat v tomto programu.
+K dispozici je mnoho programů partnerského centra. Každý program má jiné požadavky, které vaše společnost potřebuje splnit, než se do tohoto programu může zaregistrovat.
 
-Další informace o registraci v určitých programech partnerského centra najdete v následujícím částečném seznamu:
+Další informace o registraci v určitých Partnerské centrum najdete v následujícím částečném seznamu:
 
-- [Program pro komerční tržiště](/azure/marketplace/partner-center-portal/create-account)
-- [Výhody Microsoft Partner Networkho členství](mpn-overview.md)
+- [Program komerčního marketplace](/azure/marketplace/partner-center-portal/create-account)
+- [Microsoft Partner Network výhody členství](mpn-overview.md)
 - [Program CSP](./enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
-Další informace o registraci v aplikacích partnerského centra najdete v tématu také o [síťových prostředcích partnerů](https://partner.microsoft.com/).
+Další informace o registraci v Partnerské centrum najdete také v tématu Prostředky [partnerské sítě](https://partner.microsoft.com/).
 
 ## <a name="next-steps"></a>Další kroky
 
 - [Aktualizace partnerského profilu](update-your-partner-profile.md)
-- [Vytváření uživatelských účtů a nastavení oprávnění](create-user-accounts-and-set-permissions.md)
+- [Vytvoření uživatelských účtů a nastavení oprávnění](create-user-accounts-and-set-permissions.md)
 - [Přiřazování uživatelských rolí a oprávnění](permissions-overview.md)
-- [Správa účtu MPN: umístění](manage-locations.md)
+- [Správa účtu MPN: Umístění](manage-locations.md)
 - [Resetování hesla uživatele](reset-a-user-password.md)
-- [Rozhraní API: Získejte oficiální obchodní profil partnera](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
-- [Seznamte se s nabídkami a cenami na komerčním tržišti partnerského centra](csp-commercial-marketplace-discover.md)
+- [Rozhraní API: Získání partnerského právního obchodního profilu](/partner-center/develop/get-legal-business-profile)
+- [Objevte nabídky a ceny na komerčním Partnerské centrum marketplace](csp-commercial-marketplace-discover.md)

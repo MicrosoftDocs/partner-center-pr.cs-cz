@@ -1,6 +1,6 @@
 ---
 title: Oznámení z února 2021
-description: Února 2021 oznámení pro partnerské Centrum Microsoftu, včetně nových možností, propagačních akcí, nabídek, trhů nebo změn stávajících nabídek.
+description: Oznámení microsoftu z února 2021 Partnerské centrum, včetně nových možností, propagačních akcí, nabídek, trhů nebo změn stávajících nabídek.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -11,58 +11,58 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 0b8938004bb15f1fc58a15333e97297627fa9b24
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266465"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740331"
 ---
 # <a name="february-2021-announcements"></a>Oznámení z února 2021
 
-Tato stránka podrobně popisuje oznámení pro partnerské Centrum Microsoftu na únor 2021.
+Tato stránka podrobně obsahuje oznámení pro Microsoft Partnerské centrum pro únor 2021.
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Připomenutí: zastaralost získat kvalifikaci na 4. května 2021
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Připomenutí: Vyněcování kvalifikace GET 4. května 2021
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-04-09
+- Datum: 9. 4. 2021
 - Možnosti
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Partneři, kteří prodávají akademické a neziskové a státní komunitní Cloud (RSZ) prostřednictvím programu Cloud Solution Provider pomocí rozhraní API partnerského centra
+Partneři, kteří prodávají nabídky Academic, Nonprofit a Government Community Cloud (GCC) prostřednictvím Cloud Solution Provider prostřednictvím rozhraní Partnerské centrum API
 
 ### <a name="details"></a>Podrobnosti
 
-Toto oznámení je následná vylepšení partnerského centra [vydané v prosinci](https://docs.microsoft.com/partner-center/announcements/2020-december#1). V rámci této verze se nasadila nová rozhraní API GET a POST a v důsledku toho se stávající kvalifikace GET vyřadí do 4. května 2021. V tuto chvíli se budete muset převést na použití nového rozhraní API pro POST Center v nabídce koupit vzdělávání a nové rozhraní API získat kvalifikaci k zakoupení předdefinovaných nezisků a nabídek RSZ.
+Toto oznámení následuje po vylepšeních Partnerské centrum [vydaných v prosinci](2020-december.md#1). V rámci této verze se nasadila nová rozhraní API pro kvalifikace GET a POST a v důsledku toho se stávající kvalifikace GET do 4. května 2021 vyřazena. Do té doby budete muset přejít na používání nových rozhraní POST Partnerské centrum API v nákupech nabídek pro vzdělávání a nové rozhraní API pro kvalifikace GET pro nákup nekvalifikovaných nabídek Nonprofit a GCC.
 
 ### <a name="next-steps"></a>Další kroky
 
-- Aktualizujte nové rozhraní API pro úspěšný a včasný přechod.
+- Pokud chcete zajistit úspěšný a včasný přechod, aktualizujte na nová rozhraní API.
 
-- Projděte si nové změny a příručka k rozhraní API partnerského centra v prostředcích připravenosti operací: [vylepšení procesu ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- Projděte si nové změny Partnerské centrum API a průvodce v nárocích provozní připravenosti: vylepšení procesu ověřování zákazníků [Partnerské centrum Education.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-- Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci a prodejci, kteří jim pomůžou tyto změny připravit.
+- Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci a s prodejci, aby se na tyto změny připravili.
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud máte dotazy související s tímto oznámením, obraťte se na [podporu partnerského centra](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+Pokud máte jakékoli dotazy související s tímto oznámením, [kontaktujte Partnerské centrum podporu.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
 ### <a name="change-log"></a>Protokol změn
 
-- Duben: připomenutí nadcházejícího zastaralosti získat kvalifikaci 
-- Únor: aktualizované časové osy pro vyřazení získání kvalifikace & PUT
-- Leden: připomenutí nadcházejících zastaralosti získání & kvalifikací
+- Duben: Připomenutí nadcházejícího vyněcování kvalifikace GET 
+- Únor: Aktualizace časových os pro vyněcování kvalifikace GET & PUT
+- Leden: Připomenutí nadcházejícího vynětu kvalifikace GET & PUT
 
 
 ________________
-## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Sdílení obchodů ve společném prodeji pomocí funkce hromadné operace v partnerském centru
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Sdílení dohod o spoluprodát ve velkém měřítku s využitím Partnerské centrum hromadného provozu
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-02-25
+- Datum: 25. 2. 2021
 - Zvýšené zabezpečení a dodržování předpisů
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
@@ -169,9 +169,9 @@ Partneři poskytovatele CSP a nepřímá poskytovatelé, kteří mají nové neb
 
 Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečné a zabezpečené metody ověřování zákazníků pro transakce předplatných zákazníka v programu CSP. 25. března 2021 budeme zavádět vylepšení rozhraní API partnerského centra a uživatelského rozhraní, které bude mít vliv na partnery, kteří splňují obě následující kritéria:
 
-1. Partner má přímý fakturační vztah s Microsoftem (to znamená, že partner je buď přímým partnerem, nebo nepřímým poskytovatelem).
+1. Partner má vztah přímé fakturace s Microsoftem (to znamená, že partner je partner s přímým vyúčtováním nebo nepřímý poskytovatel).
 
-2. Partner pracuje s novými nebo stávajícími zákazníky v těchto zemích:
+2. Partner spolupracuje s novými nebo stávajícími zákazníky v následujících zemích:
 
     - Thajsko
     - Vietnam
@@ -187,11 +187,11 @@ Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující
     - Spojené arabské emiráty
     - Venezuela
 
-Partneři, kteří splňují kritéria, budou muset odeslat registrační ID společnosti zákazníka (označované také jako DIČ organizace zákazníka) a telefonní číslo při příští aktualizaci nebo vytvoření předplatného pro daného zákazníka. Tito partneři můžou volitelně zadat také druhé jméno zákazníka.
+Partneři, kteří splňují tato kritéria, budou muset při příští aktualizaci nebo vytvoření předplatného pro tohoto zákazníka odeslat ID registrace společnosti zákazníka (označované také jako INN organizace zákazníka) a telefonní číslo. Tito partneři můžou volitelně zadat také druhé jméno zákazníka.
 
-Všimněte si, že při přidání registračního ID vaší společnosti byste měli použít své obchodní daňové ID, nikoli osobní ID zákazníka.
+Upozorňujeme, že když přidáte ID registrace společnosti, měli byste použít své DIČ, a ne osobní ID zákazníka.
 
-Partneři, kteří pracují s novými nebo stávajícími zákazníky v následujících zemích, už jsou připojení k předchozí verzi v listopadu 2020.
+Partneři, kteří podniká s novými nebo stávajícími zákazníky v následujících zemích, jsou už v listopadu 2020 onboardované s předchozím vydáním.
 
 - Arménie
 - Ázerbájdžán
@@ -205,68 +205,68 @@ Partneři, kteří pracují s novými nebo stávajícími zákazníky v následu
 - Ukrajina
 - Uzbekistán
 
-Partneři se zákazníky ve zbývající části světa budou mít na konci března 2021 možnost zadat ID registrace společnosti, telefonní číslo a prostřední jméno pro zákazníky jako volitelné podrobnosti.
+Partneři se zákazníky ve zbytku světa budou mít na konci března 2021 možnost zadat jako volitelné podrobnosti ID registrace společnosti, telefonní číslo a prostřední jméno pro zákazníky.
 
 ### <a name="next-steps"></a>Další kroky
 
-- Podrobnější pokyny najdete v technické dokumentaci a nejčastější dotazy v [kolekci](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) vyhrazených partnerů.
-- Připravte se na začlenění změn pomocí rozhraní API partnerského centra a uživatelského prostředí pro web. Pro testování bude k dispozici rozhraní API/sady SDK.
-- Nezapomeňte odeslat další data při připojování nových zákazníků nebo úpravách stávajících informací o zákaznících.
-- Pokud používáte řešení v rámci ovládacího panelu (CPV), obraťte se na CPV.
+- Podrobnější pokyny najdete v technické dokumentaci [](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) a nejčastějších dotazech ve vyhrazené kolekci partnerů.
+- Připravte se na začlenění změn pomocí Partnerské centrum API a webového uživatelského prostředí. Rozhraní API nebo sdk budou k dispozici pro testování.
+- Nezapomeňte odeslat další data při onboardingu nových zákazníků nebo úpravě stávajících podrobností o zákaznících.
+- Pokud používáte řešení dodavatele ovládacích panelů (CPV), obraťte se na svého dodavatele CPV.
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud máte dotazy související s ID registrace společnosti (označované také jako DIČ nebo DIČ), kontaktujte daňového poradce nebo místní finanční kancelář. Microsoft nemůže poskytnout pokyny k daňovým aspektům.
+Pokud máte nějaké dotazy související s ID registrace společnosti (nazývaným také "INN" nebo "TIN"). Microsoft nemůže poskytnout pokyny k daňovým záležitostem.
 
-Pokud potřebujete podporu s vašimi operacemi s Microsoftem, otevřete [žádost o služby](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Pokud potřebujete podporu k operacím s Microsoftem, otevřete žádost [o služby.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 ### <a name="change-log"></a>Protokol změn:
 
-17. prosince 2020: původní publikace
+17. prosince 2020: Původní publikace
 
-28. ledna 2021: republicing – žádné změny
+28. ledna 2021: Republika se nemění
 
-25. února 2021: oznámeno konkrétní datum spuštění
+25. února 2021: Oznámení konkrétního data startu
 
-2. dubna 2021: aktualizace obsahují následující:
+2. dubna 2021: Mezi aktualizace patří:
 
 - Zadané datum spuštění
-- Název DIČ organizace byl aktualizován na ID registrace společnosti. 
-- Přidali jsme poznámku, která poskytuje objasnění ID registrace společnosti.
+- Název zařízení ORGANIZATION INN byl aktualizován na ID registrace společnosti. 
+- Přidání poznámky pro objasnění ID registrace společnosti
 
 
 ________________
-## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Nyní Live: DocuSign migrace do Adobe Signing pro partnery v rámci smluv partnerů Microsoftu (MPAs)
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Nyní živě: Migrace DocuSign na Adobe Sign pro partnery v rámci Smluv s partnerem Microsoftu (MPA)
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-02-16
+- Datum: 16. 2. 2021
 - Možnosti
 
 ### <a name="summary"></a>Souhrn
 
-Microsoft převede všechny e-mailové zpracování podpisů z DocuSign na symbol Adobe.
+Microsoft přechází veškeré zpracování elektronických podpisů z DocuSign na Adobe Sign.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Stávající poskytovatelé přímých a nepřímých cloudových řešení (CSP) v rámci technologie aktivace.
+Stávající přímo a nepřímí Cloud Solution Provider partnery (CSP) v rámci MPA.
 
 ### <a name="details"></a>Podrobnosti
 
-V únoru 2021 začne Microsoft přecházet všemi elektronickými zpracováními podpisů od DocuSign do Adobe signers pro partnery CSP.
+V únoru 2021 začne Microsoft přechází veškeré zpracování elektronických podpisů z DocuSign na Adobe Sign pro partnery CSP.
 
-Měli byste očekávat hladký přechod. Po migraci obdržíte od společnosti DocuSign e-mail, a adobesign@adobesign.com to vždy, když je vyžadován elektronický podpis. Tento e-mail vám poskytne odkaz na přihlašovací webovou stránku Adobe, kde se budete muset podepsat. Partneři Microsoftu nebudou muset znovu podepisovat stávající smlouvy, jenom dohody o budoucích kanálech. Partneři na Ukrajině, Rusku a Kazachstánu budou muset každý rok fyzicky nebo e-mailem znovu podepsat.
+Měli byste očekávat hladký přechod. Při migraci obdržíte e-mail z adobesign@adobesign.com adresy místo DocuSign, kdykoli se vyžaduje elektronický podpis. Tento e-mail vám poskytne odkaz na webovou stránku Adobe Sign, na kterou budete muset podepsat. Partneři Microsoftu nebudou muset znovu podepisovat existující smlouvy, pouze budoucí smlouvy o kanálu. Partneři v Šedě, Návštuku a Vsudě budou muset každý rok fyzicky nebo elektronicky znovu podepsat Smlouvu.
 
-Příklad e-mailu s požadavkem na podpis Adobe můžete najít v [galerii prostředků](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).
+Příklad e-mailu s žádostí o podpis Adobe Sign najdete v [galerii prostředků](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).
 
-Pro dosažení co nejlepších výsledků se ujistěte, že jste provedli následující akce:
+Pokud chcete zajistit co nejlepší prostředí, nezapomeňte provést následující:
 
-1. Přidejte adobesign@adobesign.com do seznamu bezpečných odesílatelů, abyste zabránili e-mailům z tohoto účtu přejít přímo do složky Nevyžádaná pošta.
-2. Spolupracovat s vaším IT oddělením na:
-    - Přidejte adobesign@adobesign.com e-mailovou adresu do seznamu bezpečných odesílatelů, abyste se ujistili, že nejsou zahrnutá v žádném předem zavedeném pravidlu phishing.
-    - Aktualizujte stávající zásady zabezpečení a zajistěte, aby všichni povinní příjemci mohli podepsat dokumentaci v rámci licence společnosti Adobe pro podpis Enterprise.
+1. Přidejte do seznamu bezpečných odesílatelů, abyste zabránili tomu, že e-maily z tohoto adobesign@adobesign.com účtu budou přímo ve složce nevyžádané pošty.
+2. Spolupracujte se svým IT oddělením na:
+    - Přidejte e-mailovou adresu do seznamu bezpečných odesílatelů, abyste zajistili, že nebude součástí žádného předem adobesign@adobesign.com zavedeného pravidla útoku phishing.
+    - Aktualizujte stávající zásady zabezpečení tak, aby všichni požadovaní příjemci mohli podepisovat dokumentaci v rámci vaší licence Adobe Sign Enterprise.
 
-Prostředky vztahující se k registraci, funkcím a otázkám obchodního procesu můžete najít na [stránce partner pro migraci podpisů Adobe](https://aka.ms/eSignature/External).
+Zdroje informací o onboardingu, funkčnosti a obchodních procesech najdete na stránce adobe [sign migration partner .](https://aka.ms/eSignature/External)
 
 Adobe signed je preferované řešení elektronické signatury Microsoftu (ESS) od Microsoftu. Přechod na symbol Adobe zajišťuje zabezpečené a efektivní prostředí elektronického podpisu, které našim zákazníkům a partnerům poskytne větší hodnotu.
 
@@ -313,25 +313,25 @@ Od února 2021 bude společnost Microsoft implementovat omezování rozhraní AP
 
 Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků, ale pokud je zahlceno více požadavků několika partnery, omezování vám pomůže udržet optimální výkon a spolehlivost pro všechny partnery.  
 
-- Omezování zajišťuje minimální výpadky.
-- Omezování omezuje počet požadavků na vysoké objemy, což pomáhá zajistit konzistentní výkon pro všechny partnery.
+- Omezení zajišťuje minimální prostoje.
+- Omezování snižuje počet požadavků vysokých objemů, což pomáhá zajistit konzistentní výkon pro všechny partnery.
 
-**Rozhraní API, která se mají omezit:**
+**Omezení rozhraní API:**
 
 | Operace | Dokumentace k Partnerskému centru |
 | ------ | ------- |
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions  | [Get-All-of-Customer](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Získání předplatného podle ID](/partner-center/develop/get-a-subscription-by-id) |
-|{baseURL}/v1/Customers/{customer_id}/Orders  | [Získat všechny zákaznické objednávky](/partner-center/develop/get-all-of-a-customer-s-orders) |
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}  | [Získání objednávky podle ID](/partner-center/develop/get-an-order-by-id) |
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus  | [Získání stavu zřizování předplatných](/partner-center/develop/get-subscription-provisioning-status) |
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Správa objednávek a Správa předplatného](/partner-center/develop/manage-orders#manage-a-subscription) |
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons  | [Získání seznamu doplňků pro předplatné](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements | [Získat seznam nároků na Azure pro předplatné](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus  | [Získání stavu registrace předplatných](/partner-center/develop/get-subscription-registration-status) |
-|{baseURL}/v1/Customers/{Customer-tenant-ID}/Transfers  | [Získat všechny přenosy zákazníka](/partner-center/develop/get-all-of-a-customer-s-transfers) |
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Získání stavu upgradu produktů](/partner-center/develop/get-product-upgrade-status) |
-|{baseURL}/v1/Customers/{Customer-ID}/Subscriptions/{Subscription-ID}/Conversions   | [Získání seznamu nabídek převod zkušebních verzí](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+|{baseURL}/v1/customers/{customer_id}/předplatná  | [Získání všech předplatných zákazníka](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Získání předplatného podle ID](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders  | [Získání všech objednávek zákazníků](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Získání objednávky podle ID](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [Získání stavu zřizování předplatných](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Správa objednávek a správa předplatného](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [Získání seznamu doplňků pro předplatné](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntiments | [Získání seznamu oprávnění Azure pro předplatné](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [Získání stavu registrace předplatných](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{ID_tenanta_zákazníka}/transfers  | [Získání všech převodů zákazníka](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{id_upgradu}/stav  | [Získání stavu upgradu produktů](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{ID_zákazníka}/předplatná/{ID_předplatného}/převody   | [Získání seznamu nabídek převod zkušebních verzí](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
  
 Důrazně doporučujeme, aby partneři zvážili použití rozhraní API protokolu aktivit pro vyšší efektivitu a zabránili omezování.Další informace o této funkci najdete [v podrobnostech](/partner-center/develop/api-throttling-guidance).  
 
@@ -404,7 +404,7 @@ Partneři by si měli stáhnout nejnovější soubory ceníku z partnerského ce
 
 _______________
 
-## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>Aktualizovaný ceník verze Preview založený na licencích pro norské koruna
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>Aktualizace ceníku na základě licencí ve verzi Preview pro norštinu
 
 ### <a name="categories"></a>Kategorie
 
@@ -413,23 +413,23 @@ _______________
 
 ### <a name="affected-audience"></a>Ovlivněná cílová skupina
 
-Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider (CSP)
 
 ### <a name="summary"></a>Souhrn
 
-Ceník pro verzi Preview založený na licencích se aktualizoval pro norské ceny koruna pro 1. března 2021.
+Ceník založený na licencích byl aktualizován na ceny norských kronů očekávané 1. března 2021.
 
 ### <a name="details"></a>Podrobnosti
 
-Změny míry FX v březnu nebyly zahrnuty do ceníků na základě licencí uvedených v březnu. Tento soubor byl aktualizován tak, aby odrážel očekávané cenové změny norského koruna. Partneři by měli získat nejnovější verzi aktuální verze Preview, aby viděli tyto změny, které se očekávají od 1. března 2021. Tyto změny jsou jen pro norské ceny za koruna měnu.
+Změny sazeb FX pro březen nebyly zahrnuty v ceníkech založených na licencích z předchozího března. Tento soubor se aktualizoval tak, aby odrážel očekávané změny ceny norských kronů. Partneři by měli získat nejnovější aktuální soubor s cenami Preview, aby viděli tyto změny očekávané pro 1. březen 2021. Tyto změny jsou jenom pro ceny v norské měně.
 
 ### <a name="next-steps"></a>Další kroky
 
-Partneři by si měli stáhnout aktuální soubor Preview ceníku pro očekávané změny pro 1. března 2021.
+Partneři by si měli stáhnout aktuální soubor ceníku verze Preview pro očekávané změny pro 1. březen 2021.
 
 _______________
 
-## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Posouzení úrovně Premium, doplněk ke Správci dodržování předpisů, přichází 1. března 2021
+## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Posouzení úrovně Premium, doplněk správce dodržování předpisů, se bude 1. března 2021
 
 ### <a name="categories"></a>Kategorie
 
@@ -438,19 +438,19 @@ _______________
 
 ### <a name="affected-audience"></a>Ovlivněná cílová skupina
 
-Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider (CSP)
 
 ### <a name="summary"></a>Souhrn
 
-Posouzení úrovně Premium bude zahrnuto do ceníku Preview v únoru a bude k dispozici od 1. března 2021.
+Posouzení úrovně Premium budou součástí verze Preview ceníku v únoru a budou k dispozici od 1. března 2021.
 
 ### <a name="details"></a>Podrobnosti
 
-Posouzení Premium je volitelný doplněk Správce dodržování předpisů a může pomáhat zákazníkům v souladu s vnitrostátními, regionálními a oborovými požadavky, které řídí shromažďování a používání dat. Posuzování Premium jsou vyhrazena pro Office 365 E5, A5 a G5 a pro zákazníky Microsoft 365 E5, A5 a G5.
+Hodnocení úrovně Premium jsou volitelným doplňkem správce dodržování předpisů a můžou zákazníkům pomoct s dodržováním požadavků na národní, regionální a oborové požadavky, které řídí shromažďování a používání dat. Posouzení úrovně Premium jsou vyhrazená pro zákazníky Office 365 E5, A5 a G5 a Microsoft 365 zákazníkům typu E5, A5 a G5.
 
 |**Název nabídky**|**ID nabídky**|**ID materiálu**|
 |------------------|:--------------------|:------------------|
-|CSP – Corp – doplněk|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
+|CSP – Corp – Doplněk|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
 |CSP – Corp – zkušební verze|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
 |CSP – vzdělávací – vyučující – doplněk|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
 |CSP – vzdělávací – vyučující – zkušební verze|[828cecbd-8728-4339-B0C2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
@@ -488,40 +488,40 @@ ________________
  
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-- Partneři, kteří mají k dispozici nabídky společně s prodejem
-- Partneři s podporou transakcí, které využívají řešení Azure s motivací na úrovni obchodu na komerčním webu Marketplace
-- Všichni partneři používající modul odkazy v partnerském centru.
+- Partneři s nabídkami připravenými ke spoluprodání
+- Partneři s nabídkou s možností transakce s využitím řešení s nárokem na pobídky Azure na komerčním marketplace
+- Všichni partneři používají modul Referenční Partnerské centrum.
 
 ### <a name="details"></a>Podrobnosti
 
-Po přechodu k novému roku přidáváme funkce pro rozšířené a rozšířené možnosti společného prodeje v partnerském centru. Tyto nové funkce vám pomůžou zrychlit rychlost obchodování, rozšířit přístup prodejců a lépe škálovat vaše podnikání. Tyto nové doplňky, které jsou představené v modulu Customer References, vám pomůžou kontaktovat další zákazníky prostřednictvím jiných partnerů Microsoftu nebo prodejců Microsoftu, a to všechno při správě kanálu s Microsoftem na jednom místě.  
+Při přechodu na nový rok přidáváme možnosti, které vylepšují a obohacují prostředí spoluprodádání v Partnerské centrum. Tyto nové funkce vám pomůžou zrychlit obchody, rozšířit přístup prodejce a lépe škálovat vaše podnikání. Tyto nové doplňky, které jsou představené v modulu referenčních seznamu, vám pomůžou oslovit více zákazníků prostřednictvím jiných partnerů Microsoftu nebo prodejců Microsoftu, a to vše při správě vašeho kanálu s Microsoftem na jednom místě.  
 
-Tady je co je nový v modulu odkazy v partnerském centru:
+V modulu referenčních Partnerské centrum referenčních hodnocení:
 
-#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Všichni partneři používající modul odkazy v partnerském centru  
+#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Všichni partneři, kteří používají modul Referenční Partnerské centrum  
 
-- [Vytvořit nová připojení SMB](../connect-with-your-customers.md): společně prodávat a spolupracovat s prodejci Microsoftu za účelem získání příchozích příležitostí souvisejících se zákazníky s protokolem SMB.
+- [Vytváření nových připojení SMB:](../connect-with-your-customers.md)Spoluprodávači Microsoftu a spolupracují s prodejci Microsoftu, aby získali příchozí příležitosti související se zákazníky SMB.
 
-- [Rozbalte položku oprávnění k odkazům](../permissions-overview.md#manage-referrals): přiřadit přístup k uživatelům na základě toho, jestli mají mít oprávnění správce (přístup k všem příležitostem společného prodeje), nebo uživatelská oprávnění (přístup k konkrétním možnostem společného prodejního uživateli).
+- [Rozbalte](../permissions-overview.md#manage-referrals)oprávnění k referenčním seznamům: Přiřaďte oprávnění k referenčním seznamům uživatelů podle toho, jestli chcete, aby měli oprávnění správce (přístup ke všem příležitostem ke spoluproduování) nebo uživatelských oprávnění (přístup ke konkrétním příležitostem spoluproduování uživatele).
 
-- [Migrace uživatele partner Sales Connect](../psc-to-pc.md#user-migration): namapujte uživatelská oprávnění partner Sales Connect na odpovídající oprávnění správce odkazů partnerského centra a uživatele s odkazem a pak pro použití nových oprávnění pro uživatele. Další informace o správě odkazů najdete v [dokumentaci k referenčním oprávněním](../permissions-overview.md#manage-referrals) .  
+- [Migrace uživatelů Partner Sales Connect:](../psc-to-pc.md#user-migration)Namapujte stávající uživatelská oprávnění Partner Sales Connect na odpovídající oprávnění správce referenčních Partnerské centrum referenčních seznamu a uživatele referenčních seznamu a pak na uživatele hromadně aplikujte nová oprávnění. Další [informace o správě](../permissions-overview.md#manage-referrals) referenčních seznamů najdete v dokumentaci k oprávněním k referenčním seznamům.  
 
-#### <a name="partners-with-co-sell-ready-offers"></a>Partneři, kteří mají k dispozici nabídky společně s prodejem
+#### <a name="partners-with-co-sell-ready-offers"></a>Partneři s nabídkami připravenými ke spoluprodání
 
-- [Spoluprodejní s ostatními partnery](../manage-co-sell-opportunities.md): Pozvěte jiného partnera z našeho výkonného partnerského ekosystému pro spoluprodej a odemkněte přístup k dalším cílovým skupinám zákazníků.  
+- [Spolu sell with other partners](../manage-co-sell-opportunities.md)(Spoluprodávat s ostatními partnery): Pozvěte jiného partnera z našeho výkonného partnerského ekosystému, abyste ho spoluprodali a odemkli přístup více cílovým skupinám zákazníků.  
 
-#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partneři s podporou transakcí, které využívají řešení Azure s motivací na úrovni obchodu na komerčním webu Marketplace
+#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partneři s nabídkou s možností transakce s využitím řešení s nárokem na pobídky Azure na komerčním marketplace
 
-- [Použití registrace automatické koupě](../register-deals.md): Ušetřete čas a zajistěte přesnost tím, že si zaregistrujete transakční nabídky Microsoft komerčního tržiště z Azure pomocí zaškrtávacího políčka. Tento obchod/Win byl nebo se bude projednávat prostřednictvím Azure Marketplace nebo AppSource. Pokud je datum transakce správné, informace pro registraci koupí budou vyžádány přímo z komerčního tržiště společnosti Microsoft.
+- [Použití automatické](../register-deals.md)registrace dohody: Úspora času a zajištění přesnosti registrací transakčních nabídek Azure komerčního marketplace Microsoftu pomocí zaškrtávacího políčka "Tato dohoda/výhra byla nebo bude provedena transakce prostřednictvím Azure Marketplace nebo AppSource". Pokud je datum transakce správné, informace o registraci dohody se načtou přímo z komerčního marketplace Microsoftu.
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud potřebujete pomoc s používáním některé z nových funkcí, podívejte se do [části REFERENCES](../referrals.md) v naší znalostní bázi nebo v článku o podpoře postupů, které jsou dostupné v naší [galerii možností společného prodeje](https://aka.ms/CoSellExperience) (vyžaduje se přihlášení).
+Pokud potřebujete pomoc s používáním jakékoli nové [](../referrals.md) funkce, podívejte se do části Referenční seznam v naší znalostní bázi nebo v našich materiálech pro podporu s postupy, které jsou k dispozici v naší galerii prostředí pro [spoluprodávku](https://aka.ms/CoSellExperience) (vyžaduje se přihlášení).
 
-Pro podporu můžete [otevřít lístek s naším týmem podpory pro partnery](https://partner.microsoft.com/support/?stage=1) .
+Lístek podpory [můžete otevřít u našeho týmu partnerské](https://partner.microsoft.com/support/?stage=1) podpory.
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Vyřazení a vyřazení rozhraní API kvalifikace pro vzdělávání pro proces ověření zákazníka od 25. února 2021 a získání kvalifikace podle 4. května 2021.
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Vyřazení a vyřazení kvalifikačních rozhraní API PUT pro proces ověřování zákazníků v oblasti vzdělávání do 25. února 2021 a kvalifikace GET do 4. května 2021.
 
 ### <a name="categories"></a>Kategorie
 
@@ -530,17 +530,17 @@ ________________
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Partneři, kteří prodávají akademické, neziskové a RSZ nabídky pomocí programu Cloud Solution Provider prostřednictvím rozhraní API partnerského centra
+Partneři, kteří prodávají nabídky Academic, Non-Profit a GCC prostřednictvím Cloud Solution Provider s využitím rozhraní Partnerské centrum API
 
 ### <a name="details"></a>Podrobnosti
 
-Toto oznámení je následná vylepšení partnerského centra [vydané v prosinci](./2020-december.md#1). V rámci této verze byla nasazena nová rozhraní API GET a POST a v důsledku toho se stávající rozhraní API **partnerského centra rozhraní API vyřadí do 25. února 2021 a získají kvalifikaci 4. května 2021**. V tuto chvíli se budete muset převést na použití nového rozhraní API pro POST Center, aby bylo možné zakoupit nabídky vzdělávání a nové rozhraní API získat kvalifikaci k nákupu předběžně kvalifikovaných nabídek a nabídek RSZ.
+Toto oznámení následuje po vylepšeních Partnerské centrum [vydaných v prosinci](./2020-december.md#1). V rámci této verze se nasadila nová rozhraní API pro kvalifikace GET a POST a v důsledku toho se stávající rozhraní API kvalifikace PUT Partnerské centrum vyřazena do 25. února 2021 a kvalifikace GET do **4. května 2021.** V tu chvíli budete muset přejít na používání nových rozhraní POST Partnerské centrum API, abyste mohli nakupovat nabídky pro vzdělávání a nové rozhraní API pro kvalifikace GET, abyste mohli nakupovat předběžně kvalifikované nabídky neziskových organizací a nabídek GCC.
 
 ### <a name="next-steps"></a>Další kroky
 
-- **Aktualizace nových rozhraní API** pro úspěšný a včasný přechod
-- **Projděte si nové změny a příručka rozhraní API partnerského centra** v prostředcích připravenosti operací: [vylepšení procesu ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) .
-- Tyto **informace můžete sdílet s příslušnými týmy** v rámci vaší organizace a s prodejci, aby se mohly připravit na tyto změny.
+- **Aktualizace na nová rozhraní API pro** zajištění úspěšného a včasného přechodu
+- **Projděte si nové změny Partnerské centrum API** a průvodce v nárocích k provozní připravenosti: vylepšení procesu ověřování zákazníků [Partnerské centrum Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Tyto informace můžete sdílet s příslušnými týmy** ve vaší organizaci a s prodejci, aby se na tyto změny připravili.
 
 ### <a name="questions"></a>Máte otázky?
 
