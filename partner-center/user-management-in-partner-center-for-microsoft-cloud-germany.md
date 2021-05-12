@@ -10,23 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284515"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794968"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Správa uživatelů a licencí v partnerském centru pro Microsoft Cloud Německo
 
-**Platí pro**
+**Platí pro**: partnerské Centrum | Partnerské centrum pro Microsoft Cloud Německo
 
-- Partnerské centrum pro Microsoft Cloud pro Německo
-
-**Příslušné role**
-
-- Globální správce
-- Správce účtu
+**Příslušné role**: globální správce | Správce účtu
 
 > [!IMPORTANT]
 > Naše cloudová strategie pro Německo se na základě vývoje potřeb zákazníků zaměřuje na doručování nových oblastí cloudu v Německu, které jsou konzistentní s naší cloudovou nabídkou. S tímto zaostřením už nebudeme přijímat nové zákazníky ani nasazovat žádné nové služby z aktuálně dostupné Microsoft Cloud Německo. Stávající zákazníci můžou dál využívat aktuálně dostupné současné cloudové služby, které budeme udržovat s potřebnými aktualizacemi zabezpečení.
@@ -42,20 +37,20 @@ Zákaznická Správa uživatelů | Centrum pro správu Office 365 nebo Azure pro
 Resetování hesla uživatele | Portál pro správu Azure pro Microsoft Cloud Německo
 Správa licencí | Centrum pro správu Office 365 nebo portál pro Microsoft Cloud Německo Azure Active Directory licencování
 
-## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Správa uživatelů v Azure Portal pro Microsoft Cloud Německo 
+## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Správa uživatelů ve službě microsoft Azure Portal pro Microsoft Cloud (Německo) 
 
-Pokud jste přihlášeni do partnerského centra pro Microsoft Cloud Německo, můžete Azure Portal pro Microsoft Cloud Německo otevřít, aniž byste se museli znovu přihlašovat. Pokud se ale potřebujete přihlašovat přímo k Azure Portal pro Microsoft Cloud Německu, pokračujte na [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
+Pokud jste přihlášení ke službě Partnerské centrum Microsoft Cloud Germany, můžete otevřít Azure Portal pro Microsoft Cloud Germany, aniž byste se museli znovu přihlašovat. Pokud se ale potřebujete přihlásit přímo k webu Azure Portal Microsoft Cloud Germany, přejděte na [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
-Po úspěšném přihlášení do Azure Portal pro Microsoft Cloud Německo otevřete stránku Přehled služby Azure Active Directory (Azure AD) a pak postupujte podle pokynů v těchto článcích:
+Po úspěšném přihlášení ke službě Azure Portal pro Microsoft Cloud Germany otevřete stránku přehledu služby Azure Active Directory (Azure AD) a postupujte podle pokynů v těchto článcích:
 
 > [!NOTE]  
-> Výběrem následujících odkazů přejdete na jiný web.
+> Výběrem následujících odkazů se zobrazí jiný web.
 
 -  [Přidání nových uživatelů do služby Azure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [Přiřazení uživatele k rolím správce v Azure Active Directory](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Resetování hesla uživatele v Azure Active Directory](/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Resetování hesla pro uživatele v Azure Active Directory](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 ## <a name="next-steps"></a>Další kroky
 

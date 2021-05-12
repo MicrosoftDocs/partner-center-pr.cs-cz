@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ce5baddcc6d598ec4d926e74a6f4a85a3b4cbbbe
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: d8370b213a3d0fd96a4d2ef457de1140ee4549f6
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712558"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794883"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Různé způsoby, kterými můžete pracovat s ostatními partnery v partnerském centru
 
-**Příslušné role**
-
-- Správce účtu
+**Příslušné role**: správce účtu
 
 Program poskytovatele Cloud Solution Provider (CSP) od Microsoftu nabízí příležitosti pro vzájemné spolupráci těchto způsobů.
 
@@ -44,15 +42,15 @@ Nemusíte si ověřit, jestli se má jako nepřímý prodejce nebo jako přímý
 
 ## <a name="multi-partner-support"></a>Podpora více partnerů
 
-Funkce pro více partnerů partnerského centra podporuje scénáře, kdy zákazník potřebuje pracovat s více než jedním partnerem. Můžou například chtít, aby jeden partner mohl najmout v Office 365, ale také najmout jiného partnera, který se specializuje na Microsoft Azure. Další informace najdete v tématu [Podpora více partnerů](multipartner.md) .
+Funkce pro více partnerů partnerského centra podporuje scénáře, kdy zákazník potřebuje pracovat s více než jedním partnerem. Může například chtít najmout jednoho partnera pro své odborné znalosti v Office 365, ale také jiného partnera, který se specializuje na Microsoft Azure. Další [informace najdete v tématu Podpora více](multipartner.md) partnerů.
 
-Podpora více partnerů je také k dispozici v rámci národních cloudových nabídek společnosti Microsoft.
+Podpora více partnerů je dostupná také v nabídkách národních cloudů Microsoftu.
 
 ## <a name="multi-channel-support"></a>Vícekanálová podpora
 
-Funkce pro více kanálů partnerského centra podporuje scénáře, když chce zákazník nakoupit partnera, aby zřídil a podporoval předplatné, které si koupili jinde. Další informace najdete v tématu Podpora pro více [kanálů](multichannel.md) .
+Partnerské centrum více kanálů podporuje scénáře, kdy chce zákazník najmout partnera pro zřízení a podporu předplatného zakoupeného jinde. Další [informace najdete v tématu Podpora](multichannel.md) více kanálů.
 
-Podpora více kanálů je dostupná taky v rámci národních cloudových nabídek Microsoftu.
+Podpora více kanálů je dostupná také v nabídkách národních cloudů Microsoftu.
 
 > [!IMPORTANT]  
-> Partner v programu CSP nemůže v současnosti doprodávat online služby k jinému partnerovi v programu CSP. Toto omezení platí jenom pro tenanta, který se používá pro provádění transakcí CSP. Partneři CSP, kteří používají klienta jiného typu než CSP pro své podnikové využití, mohou zakoupit online služby od jiného partnera CSP. Microsoft nepřetržitě kontroluje zásady a možnosti všech programů. Všechny novinky o vydáních funkcí nebo změnách zásad budou oznámeny prostřednictvím obvyklých komunikačních kanálů, včetně [oznámení z partnerského centra](announcements/index.md).
+> Partner v programu CSP v současné době nemůže online služby jiného partnera v programu CSP. Toto omezení platí pouze pro tenanta používaného k provádění transakcí CSP. Partneři CSP, kteří ke svému firemnímu využití používají tenanta jiného poskytovatele než CSP, si online služby koupit od jiného partnera CSP. Microsoft nepřetržitě posouvisí se zásadami a možnostmi všech programů. Všechny zprávy o vydání funkcí nebo změnách zásad budou oznámeny prostřednictvím obvyklých komunikačních kanálů, včetně [Partnerské centrum oznámení](announcements/index.md).

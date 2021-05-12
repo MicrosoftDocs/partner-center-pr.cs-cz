@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 63aea520279dc6d126253969cb3175a253b9b3c6
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755717"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109795019"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Získat kredit na účet partnerského centra pro srážku daně
 
-**Příslušné role**
-
-- Správce účtu
-- Správce fakturace
+**Příslušné role**: správce účtu | Správce fakturace
 
 ## <a name="overview"></a>Přehled
 
@@ -46,28 +43,28 @@ Pomocí těchto kroků můžete odeslat nové daňové odmítnutí:
 
 4. Přečtěte si podrobnosti o faktuře a ujistěte se, že posíláte žádost o správnou fakturu.
 
-   :::image type="content" source="images/wht2.png" alt-text="Úplné podrobnosti o odmítnutí daně pro fakturu":::
+   :::image type="content" source="images/wht2.png" alt-text="Úplné podrobnosti o srážkách daně pro fakturu":::
 
-5. V části **Podrobnosti o odmítnutí daně** zadejte "srážka celkem". Hodnota "srážka celkem" je množství, které očekáváte k kreditu.
+5. Do pole Podrobnosti o srážkách daně zadejte součet **srážkové daně.** Celková srážka je částka, kterou očekáváte připsání.
 
-6. **Připojte** daňový certifikát. Do žádosti o srážku daně budete muset zahrnout **digitální kopii** **certifikátu srážkové daně** . Tento certifikát jste dostali od své místní daňové agentury, když platíte poplatky vašemu místnímu finančnímu úřadu. Částka daně faktury v certifikátu srážkové daně musí odpovídat celkovému množství žádosti o srážku daně.
+6. **Připojte** potvrzení o dani. Do žádosti o  srážku daně  budete muset zahrnout digitální kopii potvrzení o srážkové dani. Tento certifikát jste obdrželi od místního daňového úřadu, když platíte daně místnímu daňovému úřadu. Částka daně z faktury v potvrzení o srážkové dani musí odpovídat celkové částce v žádosti o srážku daně.
 
    > [!IMPORTANT]
-   > Celkové množství, které partner poskytne, by se měl shodovat s položkou řádku faktury z připojeného daňového certifikátu. Soubory připojených daňových certifikátů musí být v jednom z následujících formátů souborů:. Pouze PDF nebo obrázek (. JPEG,. PNG a. GIF). Názvy souborů by navíc neměly obsahovat mezery ani speciální znaky. Velikost souboru nemůže být větší než 1 MB.
+   > Celkové částky, které partner poskytuje, by měly odpovídat položce řádku faktury z připojeného daňového certifikátu. Připojené soubory s potvrzením o dani musí být v jednom z následujících formátů souborů: . Pouze PDF nebo Obrázek (. Jpeg. PNG a . GIF). Názvy souborů by navíc neměly obsahovat mezery ani speciální znaky. Velikost souborů nesmí překročit 1 MB.
 
 7. **Odešlete** žádost o srážku daně.
 
-   Po odeslání bude požadavek do schvalovacího procesu, kde bude schválen pro dokončení nebo bude odeslán zpět, pokud budete potřebovat opravy. Zobrazte si ID a stav žádosti a v **historii fakturace** , kde jste odeslali novou žádost z.
+   Po odeslání se žádost přehodí do schvalovacího procesu, kde bude schválena k dokončení, nebo vám bude odeslána zpět v případě potřeby oprav. Zobrazte ID a stav žádosti a v historii **fakturace,** ze které jste odeslali novou žádost.
 
-   Pokud se vám vaše žádost pošle zpátky, budete moct změnit částku odmítnutí a certifikát nahradit, pokud k němu dojde nějaký problém.
+   Pokud se vám vaše žádost vrátí zpět, budete moct změnit částku srážky a nahradit certifikát, pokud s ním dojde k problému.
 
-## <a name="update-request-and-resubmit"></a>Aktualizovat žádost a znovu odeslat
+## <a name="update-request-and-resubmit"></a>Aktualizace žádosti a opětovného odběru
 
-Tým recenze může vyžadovat, abyste provedli opravy a znovu odeslali žádost, aby ji bylo možné schválit. Změní stav na **Nedokončená Partnerská akce**. Opravte a znovu odešlete požadavek:
+Tým pro resouhlasy může vyžadovat, abyste před schválením žádosti opravě a znovu žádost schválili. Změní stav na Čeká **na akci partnera.** Oprava a opětovné odešlete požadavek:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 
-2. V nabídce na levé straně vyberte **fakturace** .
+2. V nabídce vlevo zvolte **Fakturace.**
 
 3. V **historii fakturace fakturační** **stránky Najděte** požadavek na srážku daně. Požadavky, které vyžadují vaši pozornost, budou mít stav "čeká na akci partnera".
 
@@ -98,17 +95,17 @@ Pokud máte dotazy týkající se procesu žádosti o kredit srážkové daně, 
 
 ## <a name="german-tax-withholding"></a>Německé daňové odmítnutí
 
-Partneři, kteří odesílají žádosti o odmítnutí daně z němčiny, by měli pamatovat na odeslání pevně daných certifikátů srážkové daně na následující adresu:
+Partneři, kteří zakládají žádosti o srážku daně v Německu, by si měli zapamatovat odeslání pevných kopií vašeho potvrzení o srážkové dani na následující adresu:
 
-- ATTN: EOC daňový tým Marianne Gannon
-- Provozní středisko Microsoft EMEA
-- Jedno místo na Microsoftu,
-- Jižní okres – obchodní Park
-- Leopardstown, Dublin 18, Irsko
+- ATTN: EOC Tax Team Vene G entita
+- Microsoft EMEA Operations Centre
+- One Microsoft Place,
+- South County Business Park
+- Předků, Dublin 18, Irsko
 
-### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Otázky a podpora pro žádosti o odmítnutí daně
+### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Dotazy a pomoc s žádostmi o srážku daně
 
-Partneři by měli pomocí nového procesu popsaného výše odesílat nové žádosti a už nepoužívají vytváření žádostí o podporu pro nové žádosti o srážku daně. [Žádosti o podporu mohou odesílat](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed)partneři s dalšími dotazy týkajícími se žádostí o odmítnutí daně. Žádosti o podporu jsou určené k tomu, aby pomohly partnerům pro existující požadavky, aby mohli odeslat novou lístek s **ID žádosti** . Pokud partneři nemůžou odeslat žádost pomocí nového procesu, musí do formuláře žádosti o podporu zadat nějaké číslo (vše 1). 
+Partneři by měli použít nový proces podrobně uvedený výše k odesílání nových žádostí a už by neměli používat vytváření žádostí o podporu pro nové žádosti o srážku daně. Partneři s dalšími dotazy ohledně žádostí o srážku daně mohou [odesílat žádosti o podporu.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Účelem žádostí o podporu je pomoct partnerům s existujícími žádostmi, aby k odeslání nového lístku potřebovali **ID** žádosti. Pokud partneři nemohou odeslat žádost pomocí nového procesu, měli by do formuláře žádosti o podporu zadat nějaké číslo (všechny 1). 
 
    > [!IMPORTANT]
-   > Pokud je stav žádosti **dokončený**, partneři nepotřebují kontaktovat podporu. Tento stav se zobrazí v **historii fakturace** vedle faktury pro odeslání. Částky za **Poslední platbu** u faktury by měly odrážet částku srážku daně v rámci 10 dní od označení, že je žádost označena jako **Dokončená**.
+   > Partneři nemusí kontaktovat podporu, pokud je jejich stav žádosti **Dokončeno.** Tento stav se zobrazí v **historii fakturace** vedle faktury za odeslání. **Částka posledních** plateb vedle faktury by měla odrážet částku srážky daně do deseti dnů od označení žádosti jako **Dokončeno.**
