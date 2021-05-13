@@ -10,22 +10,17 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 15ee391d6b748b6499700aee321ff4abd85e75d2
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633688"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854481"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalace a vyzkoušení aplikace Analýzy v Partnerském centru pro Microsoft Power BI
 
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
-- Agent prodeje
-- Agent správce
+**Příslušné role**: globální správce | Správce správy uživatelů | Prodejní agent | Agent správce
 
 ## <a name="before-you-begin"></a>Než začnete
 
@@ -63,27 +58,27 @@ Než nainstalujete verzi Preview partnerského centra pro analýzu, ujistěte se
 
 6. Nainstalujte pracovní prostor zadáním názvu pracovního prostoru.
 
-7. Nainstalovanou šablonu aplikace můžete najít v části aplikace.
+7. Nainstalované aplikace šablon najdete v části Aplikace.
 
-8. Vyberte **aplikace** a zvolte nainstalované aplikace.
+8. Vyberte **Aplikace a** zvolte nainstalované aplikace.
 
-9. Začněte tím, že otevřete obrazovku nové aplikace.
+9. Otevře se obrazovka Začínáme s novou aplikací.
 
-10. Pokud se chcete připojit k datům, vyberte **připojit**.
+10. Pokud se chcete připojit k datům, vyberte **Připojit.**
 
-11. V místním okně **připojit k partnerskému centru Analytics** ověřte, že je **metoda ověřování** nastavená na **oAuth2** , nebo vyberte **oAuth2** ze seznamu, pokud není. 
+11. V automaticky **otevíraně otevřeném okně Připojit** k  Partnerské centrum Analytics ověřte, že je metoda ověřování nastavená na oAuth2, nebo v seznamu vyberte **oAuth2,** pokud není.  
 
 > [!NOTE]  
 >  Zobrazení tohoto okna může trvat několik minut.
 
-12. Na stránce **konektor Datacenter Center Analytics** se přihlaste pomocí účtu globálního správce, agenta správce nebo přihlašovacích údajů správce fakturace pro TENANTA Azure AD vaší společnosti a pak vyberte **Přihlásit** se.
+12. Na stránce **Partnerské centrum Analytics Connector** se přihlaste pomocí globálního správce, agenta pro správu nebo přihlašovacích údajů správce fakturace pro tenanta Azure AD vaší společnosti a pak vyberte **Přihlásit se.**
  
-13. Po zobrazení výzvy k zadání přístupu vyberte **přijmout**. 
+13. Po zobrazení výzvy k zadání přístupu vyberte **Přijmout.** 
 
-Jakmile je služba pro analýzu partnerského centra připojená k Power BI, začnou se data načíst. V závislosti na množství dat může to trvat až 10 minut. 
+Jakmile je Partnerské centrum Analytics připojená k Power BI, začnou se načítat data. V závislosti na množství dat to může trvat až 10 minut. 
 
-Po načtení dat můžete začít používat řídicí panel aplikace a sestavy partnerského centra pro analytiky v Power BI.
+Po dokončení načítání dat můžete začít používat řídicí panel aplikace Partnerské centrum Analytics a sestavy v Power BI.
 
 ## <a name="next-steps"></a>Další kroky
 
-[Zobrazení obchodních dat pomocí aplikace Datacenter Center Analytics pro Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Zobrazení obchodních dat pomocí aplikace Partnerské centrum Analytics pro Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

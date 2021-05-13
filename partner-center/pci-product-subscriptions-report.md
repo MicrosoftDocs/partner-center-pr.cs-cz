@@ -1,55 +1,50 @@
 ---
-title: Sestava předplatných služby partner Center Insights
+title: Partnerské centrum odběrů přehledů
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Podívejte se, co dobře děláte, a kde můžete vylepšit cloudová předplatná, která obchodujete nebo spravujete pro vaše zákazníky.
+description: Podívejte se, co si vedete dobře a kde můžete zlepšit cloudová předplatná, která pro své zákazníky prodáváte nebo spravujete.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 89806b08485bc4bd286c2e14a19924ca0e281b6d
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086188"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854464"
 ---
-# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Sestava předplatných produktů dostupná na řídicím panelu přehledy partnerského centra
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Sestava předplatných produktů dostupná na řídicím panelu Partnerské centrum Insights
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Agent správy | Prohlížeč sestav | Prohlížeč výkonných sestav
 
-- Globální správce
-- Agent správce
-- Prohlížeč sestav
-- Prohlížeč sestav Executive
+Sestava Předplatná produktů představuje analýzy cloudových předplatných, která jste prodali nebo která spravujete pro své zákazníky. Jedná se o sestavu specifickou pro produkt, která zahrnuje výkon předplatných přidružených ke cloudovým produktům, jako jsou Office 365, Azure, Dynamics a další.
 
-Sestava odběry produktů představuje analýzy cloudových předplatných, které jste prodali nebo které spravujete pro vaše zákazníky. Jedná se o konkrétní produktovou zprávu, která zahrnuje výkon předplatných přidružených ke cloudovým produktům, jako je například Office 365, Azure, Dynamics a další.
-
-Následující části můžete zobrazit v sestavě odběry produktů.
+Následující části si můžete prohlédnout v sestavě Předplatná produktů.
 
 - Souhrn
-- Geografické rozšiřování předplatných
-- Trend přidání a změn předplatných
-- Distribuce předplatného podle umístění partnera, prodejní kanál, SKU, typ připojení partnera, segment
+- Zeměpisné rozpětí předplatných
+- Trend přidávání/četnosti předplatných
+- Distribuce předplatného podle umístění partnerů, prodejního kanálu, skladových tržeb, typu připojení partnera, segmentu
 - Trend podle stavů předplatného
 - Trend produktů
 
  > [!NOTE]
- > Tato sestava je k dispozici na řídicím panelu Insights. Pokud chcete zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav v nástroji Executive. Další informace najdete v tématu globální správce vaší společnosti. konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními správce sestav nástroje Executive.
+ > Tato sestava je k dispozici na řídicím panelu Přehledy. Pokud chcete tuto sestavu zobrazit, musíte mít přiřazenou konkrétní roli v Partnerské centrum, jako je například globální správce, správce účtu, prohlížeč sestav nebo prohlížeč sestav vedoucího pracovníka. Další informace najdete v tématu Globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být dostupné také pro uživatele s oprávněními Executive Report Viewer.
 
 ## <a name="summary"></a>Souhrn
 
-V části Souhrn najdete zobrazení snímků klíčových ukazatelů výkonu (KPI) souvisejících s předplatným, která se prodávají nebo spravují pro vaše zákazníky.  
+V souhrnné části najdete snímek klíčových ukazatelů výkonu (KPI) souvisejících s předplatným, která prodáváte nebo spravujete pro vaše zákazníky.  
 
-:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Souhrn sestavy předplatných":::
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="souhrn sestavy předplatných":::
 
-Další informace o jednotlivých částech souhrnu najdete níže:
+Další informace o jednotlivých oddílech souhrnu najdete níže:
 
 - Předplatná:
-  - Aktuální počet předplatných cloudových produktů, které jste prodali nebo spravovali vámi.
-  - Procentuální nárůst nebo odmítnutí předplatných během vybraného rozsahu kalendářních dat.
+  - Aktuální počet předplatných cloudových produktů, která prodáváte nebo spravujete.
+  - Procentuální růst nebo pokles předplatných během vybraného rozsahu dat
   - Mikrograf prezentuje trend počtu předplatných předplatných v průběhu vybraného rozsahu dat měsíčně.
 
 - Aktivní předplatná:
@@ -73,23 +68,23 @@ Další informace o jednotlivých částech souhrnu najdete níže:
 
 Zobrazení **předplatná podle geografického** zobrazení zobrazuje geografickou distribuci celkových předplatných na trzích zákazníků. Celková částka předplatného zahrnuje prodané předplatné i aktivní předplatná.
 
-V tabulce **počet zemí/oblastí** je uvedena celková země/oblasti, ve kterých máte předplatná, a částku za zemi celkových a aktivních předplatných.
+V tabulce Number of countries/region (Počet **zemí/oblastí)** se zobrazuje celkový počet zemí/oblastí, ve kterých máte předplatná, a částka za zemi celkového a aktivního předplatného.
 
-Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Stisknutím možnosti **Domů** na mapě se vraťte k původnímu zobrazení. Pokud chcete zobrazit všechna předplatná a aktivní předplatná podle země, najeďte myší na mapu. Obě pole v mřížce lze seřadit.
+Země v mřížce můžete vyhledat a vybrat a přiblížit tak umístění na mapě. Pokud se **chcete vrátit** k původnímu zobrazení, stiskněte na mapě možnost Domů. Najeďte myší na mapu a zobrazte všechna předplatná a aktivní předplatná podle země. Obě pole v mřížce jsou seřaditelná.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="předplatná podle geografického":::
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="subscriptions by geography":::
 
-## <a name="subscription-addschurns"></a>Přidání a změny předplatného
+## <a name="subscription-addschurns"></a>Přidání nebo četnost změn předplatného
 
-Toto zobrazení představuje trend předplatných. Ty jsou rozdělené do různých kategorií (nové, existující, změny) pro vybraný rozsah dat. Osa X představuje měsíce vybraného rozsahu kalendářních dat. Osa Y představuje počet předplatných. Ovlivněné odběry jsou reprezentovány na záporném měřítku osy Y. 
+Toto zobrazení představuje trend předplatných. Ty jsou rozdělené do různých kategorií (Nové, Existující, Četnost změn) pro vybraný rozsah dat. Osa X představuje měsíce vybraného rozsahu dat. Osa Y představuje počet předplatných. Churned subscriptions are represented on the negative scale of the Y-axis. 
 
-Skládaný sloupcový graf prezentuje rozpis nových, stávajících a změněných předplatných v daném měsíci. Můžete znovu sestavit sloupcový graf, rozdělený dolů s konkrétními položkami zásobníku. Provedete to tak, že vyberete tyto konkrétní položky v legendě. K přiblížení konkrétního období můžete použít také posuvník v horní části grafu.
+Skládaný sloupcový graf zobrazuje rozpis nových, stávajících a churnedovaných předplatných pro měsíc. Můžete znovu sestavit sloupcový graf rozdělený podle konkrétních položek zásobníku. Pokud to chcete udělat, vyberte tyto konkrétní položky v legendě. Pomocí posuvníku v horní části grafu můžete také přiblížit konkrétní období.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="Přidání a změny předplatného":::
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="přidání a četnost změn předplatného":::
 
 ## <a name="subscription-distribution"></a>Distribuce předplatného
 
-Toto zobrazení představuje rozpis vašich aktuálních předplatných podle umístění MPN, zákaznických segmentů, prodejních kanálů/cenového modelu Azure a typu přidělení (například partnera DPOR, DAP a dalších). Vyberte příslušné karty pro zobrazení rozpisu podle těchto kategorií. Chcete-li vytvořit výsečový graf s rozpisem konkrétních kategorií položek, vyberte tyto kategorie položek v legendě.
+Toto zobrazení obsahuje rozpis vašich aktuálních předplatných podle umístění MPN, segmentů zákazníků, prodejního kanálu nebo cenového modelu Azure a typu atribuce (například DPOR, DAP a další). Výběrem příslušných karet zobrazíte rozpis podle těchto kategorií. Chcete-li vytvořit výsečový graf s rozpisem konkrétních kategorií položek, vyberte tyto kategorie položek v legendě.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribuce předplatného":::
 

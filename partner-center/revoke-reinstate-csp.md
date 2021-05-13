@@ -1,45 +1,42 @@
 ---
-title: Obnovit oprávnění správce pro zprostředkovatele CSP Azure
+title: Obnovení oprávnění správce pro Azure CSP
 ms.topic: how-to
 ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Naučte se, jak zákazníkům pomáhat obnovit oprávnění správce partnera, aby partner mohl spravovat předplatná Azure CSP zákazníka.
+description: Zjistěte, jak zákazníkům pomoct obnovit oprávnění správce partnera, aby partner mohl pomoci spravovat předplatná Azure CSP předplatného zákazníka.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: ad29283001ec542944da4f0cac835c6a5d339251
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018183"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855416"
 ---
-# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Obnovit oprávnění správce pro předplatná Azure CSP zákazníka  
+# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Obnovení oprávnění správce pro předplatná Azure CSP zákazníka  
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Agent pro správu
 
-- Globální správce
-- Agent správce
-
-Jako partner CSP vaši zákazníci často očekávají, že budete spravovat jejich využití Azure a jejich systémy. K tomu je potřeba mít oprávnění správce. Některá oprávnění se udělují v případě, že je vytvořen vztah prodejce se zákazníkem. Další vám je uděleno vaším zákazníkem.
+Jako partner CSP vaši zákazníci často očekávají, že za ně budete spravovat jejich využití Azure a jejich systémy. To vyžaduje, abyste měli oprávnění správce. Některá oprávnění jsou udělena, když se nastane vztah prodejce se zákazníkem. Jiné vám udělí váš zákazník.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>Oprávnění správce pro Azure v CSP
 
-Pro Azure v CSP jsou k dispozici dvě úrovně oprávnění správce.
+Existují dvě úrovně oprávnění správce pro Azure v CSP.
 
-**Oprávnění správce na úrovni tenanta** (**delegovaná oprávnění správce**) – partneři CSP získají tato oprávnění při zřizování vztahů prodejců CSP se zákazníky. Delegovaná oprávnění správce dávají partnerům CSP přístup k svým klientům, kteří jim umožní provádět funkce správy, jako je například přidání nebo Správa uživatelů, resetování hesel a Správa uživatelských licencí.
+**Oprávnění správce na úrovni tenanta** **(delegovaná** oprávnění správce) – Partneři CSP těmto oprávněním při navazování vztahu prodejce CSP se zákazníky. Delegovaná oprávnění správce poskytují partnerům CSP přístup k tenantům jejich zákazníků, což jim umožňuje provádět funkce správy, jako je přidávání a správa uživatelů, resetování hesel a správa uživatelských licencí.
 
-**Oprávnění správce na úrovni předplatného** – partneři CSP získají tato oprávnění při vytváření předplatných Azure CSP pro své zákazníky. Tato oprávnění poskytují partnerům CSP úplný přístup k těmto předplatným, která jim umožní zřídit a spravovat prostředky Azure.
+**Oprávnění správce na úrovni předplatného** – partneři CSP těmto oprávněním při vytváření Azure CSP předplatných pro své zákazníky. Díky těmto oprávněním mají partneři CSP úplný přístup k těmto předplatným, což jim umožňuje zř vytvářet a spravovat prostředky Azure.
 
-## <a name="reinstate-csp-partners-admin-privileges"></a>Obnovit oprávnění správce pro partnery CSP
+## <a name="reinstate-csp-partners-admin-privileges"></a>Obnovení oprávnění správce partnerů CSP
 
-Zákazník může přiřazení role CSP znovu vytvořit, pokud zadáte ID objektu skupiny AdminAgents vašemu zákazníkovi. Chcete-li znovu získat oprávnění delegovaného správce, je nutné pracovat se zákazníkem.
+Zákazník může přiřazení role CSP vytvořit znovu, pokud zákazníkovi poskytnete ID objektu skupiny AdminAgents. Pokud chcete znovu získat delegovaná oprávnění správce, musíte spolupracovat se zákazníkem.
 
-1. Přihlaste se k řídicímu panelu partnerského centra a v nabídce partnerské Centrum vyberte **zákazníci**.
+1. Přihlaste se k Partnerské centrum a v nabídce Partnerské centrum vyberte **Zákazníci.**
 
-2. Vyberte zákazníka, se kterým pracujete, a **požádejte o něj vztah prodejce.** Tato akce vygeneruje odkaz na zákazníka, který má práva správce tenanta.
+2. Vyberte zákazníka, se který **pracujete, a požádejte o vztah prodejce.** Tato akce vygeneruje odkaz na zákazníka, který má práva správce tenanta.
 
 3. Zákazník musí vybrat odkaz a schválit žádost o vztah prodejce.
 

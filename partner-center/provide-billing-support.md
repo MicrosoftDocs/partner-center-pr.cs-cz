@@ -1,48 +1,42 @@
 ---
-title: Poskytněte zákazníkům podporu fakturace.
+title: Poskytnout zákazníkům podporu k fakturaci
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Seznamte se s zákaznickou podporou pro fakturaci potřebnou od partnerů programu CSP. Tato podpora zahrnuje vlastnictví fakturačního vztahu zákazníka a zodpovězení otázek fakturace.
+description: Seznamte se s potřebnou zákaznickou fakturační podporou od partnerů programu CSP. Tato podpora zahrnuje vlastnící fakturační vztah zákazníka a odpovídání na otázky k fakturaci.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633654"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854124"
 ---
-# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Poskytněte zákazníkům podporu pro fakturaci a pomůžou odpovědět na dotazy související s fakturací.
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Poskytování podpory fakturace pro vaše zákazníky a pomoc s zodpovězení jejich dotazů k fakturaci
 
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Správce správy uživatelů | Agent helpdesku | Správce fakturace | Agent prodeje
 
-- Globální správce
-- Správce správy uživatelů
-- Agent helpdesku
-- Správce fakturace
-- Agent prodeje
+Fakturační vztah vlastníte se zákazníky a zodpovídáte za zodpovězení otázek souvisejících s fakturací, které vaši zákazníci můžou mít.
 
-Fakturační vztah se svými zákazníky je váš a zodpovídáte za zodpovězení otázek souvisejících s fakturací, které vaše zákazníci mohou mít.
+- Zodpovídáte za včasné platby microsoftu.
 
-- Zodpovídáte za to, že budete mít k disčase platby do Microsoftu.
+- Doporučujeme vytvořit jasné zásady kolekcí se zákazníky, kteří podrobně prochodují proces kolekcí a kdy bude ovlivněn přístup k předplatným, službám nebo softwaru zákazníka.
 
-- Doporučujeme vytvořit zásadu jasného inkasa se zákazníky, kteří si budou pořídit proces vašich kolekcí a kdy bude mít vliv na přístup k předplatným, službám nebo softwaru zákazníka.
+- V případě potřeby můžete zakázat zákazníkovi přístup k produktu pro nezaplacení.
 
-- V případě potřeby můžete zakázat přístup zákazníka k produktu pro neplatbu.
+## <a name="microsoft-partner-support-guidance"></a>Pokyny k podpoře partnerů Microsoftu
 
-## <a name="microsoft-partner-support-guidance"></a>Doprovodné materiály k podpoře partnerů Microsoftu
+Partneři, kteří provádí transakce v modelu CSP, jsou důvěryhodným poradcem pro své zákazníky a vlastní vztah od konce, včetně podpory v případě, že má zákazník dotaz nebo problém. Prostřednictvím kontaktních bodů podpory mohou partneři získat další informace o zákazníkovi a jeho podnikání a identifikovat nové služby a řešení, které podporují hodnotu.
 
-Partneři, kteří se dodávají v modelu CSP, jsou důvěryhodným poradcem pro zákazníky a vlastními vztahy mezi nimi, včetně podpory, když jejich zákazník má dotaz nebo problém. Prostřednictvím podpory se partneři dotykového ovládání mohou dozvědět více o zákaznících a jejich podnikání, identifikovat nové služby a řešení, které mají hodnotu jednotky.
-
-Aby mohl partner splnit požadavek na podporu, může znovu prodávat podporu z jiné entity, ale může ji uplatnit v rámci své struktury podpory a/nebo může nastavit strukturu pro poskytování podpory přímo.  Partner může účtovat veškerou podporu poskytovanou zákazníkům nebo jejich část. Partner by se měl vyjadřují svým zákazníkům, kteří budou poskytovat podporu, dobu poskytování služeb a kontaktní metodu a ceny (Pokud je zpoplatněná podpora). 
+Aby partner splnil požadavek na podporu, může znovu prodávat podporu od jiné entity, může předávat na externího zákazníka celou strukturu podpory nebo část své struktury podpory nebo může nastavit strukturu, která bude poskytovat podporu přímo.  Partner může účtovat poplatky za celou podporu nebo část podpory poskytované zákazníkům. Partner by měl zákazníkům poskytnout podporu, hodiny a způsob kontaktování a ceny (pokud se za podporu bude účtovat). 
 
 >[!Note]
->Pokud nejste CSP a máte dotazy k fakturaci na zákazníky, podívejte se prosím na konkrétní produkty nebo služby na konkrétní portál.
+>Pokud nejste csp a máte dotazy ohledně fakturace zákazníků, projděte si konkrétní portál pro příslušné produkty nebo služby.
 
 Partneři musí dostávat příchozí žádosti o podporu od zákazníků, diagnostikovat problémy pro nejlepší schopnost partnera a pak vyřešit problémy, které spadají do oboru standardních hodnot podpory. Pokud partner nedokáže problém vyřešit, může zvýšit problémy společnosti Microsoft prostřednictvím následujících vozidel podpory:
 

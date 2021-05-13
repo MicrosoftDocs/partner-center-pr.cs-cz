@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172179"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818639"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Aktivace technických výhod Microsoft Partner Network mimo partnerské Centrum
 
@@ -25,7 +25,7 @@ ms.locfileid: "108172179"
 
 Tento článek je určen pro členy Microsoft Partner Network (MPN), kteří stále používají partnerské Centrum členství (PMC). Tito členové potřebují pomáhat s aktivací určitých výhod členství v programu MPN, jako jsou technické výhody, mimo aktuální [řídicí panel partnerského centra](https://partner.microsoft.com/dashboard).
 
-Mnoho členů Microsoft Partner Network (MPN) již bylo [migrováno z partnerského centra členství v partnerském centru](prepare-pmc-pc-migration.md) , které vám pomůžou spravovat své uživatele, zákazníky a výhody programu MPN.
+**Většina Microsoft Partner Network (MPN) členů již [migrovali z partnerského centra členství v partnerském centru](prepare-pmc-pc-migration.md) , které vám pomůžou spravovat své uživatele, zákazníky a výhody programu MPN.**
 
 Pokud je vaše členství v programu MPN stále v centru pro členství v partnerovi (PMC), budete potřebovat pomáhat s aktivací některých výhod programu MPN.
 
@@ -33,7 +33,7 @@ Pokud je vaše členství v programu MPN stále v centru pro členství v partne
 
 Pokud jste uživatelem PMC, přečtěte si v této tabulce nápovědu s aktivací technických výhod.
 
-(Pokud už máte účet partnerského centra s přístupem globálního správce nebo programu MPN partner admin, najdete informace v tématu [Správa technických výhod](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits#manage-technical-benefits)
+(Pokud už máte účet partnerského centra s přístupem globálního správce nebo programu MPN partner admin, najdete informace v tématu [zobrazení a aktivace výhod technické podpory.](mpn-benefits-technical-support.md#view-and-activate-your-technical-support-benefits))
 
 |Pro tuto oblast  | Kontakt |
 |:--------|:------------|
@@ -43,15 +43,15 @@ Pokud jste uživatelem PMC, přečtěte si v této tabulce nápovědu s aktivac�
 |Austrálie, Nový Zéland a Tchaj-wan  | [Podpora partnerů prvotní](https://partner.microsoft.com/support?issueid=300-0042)  |
 |Asie a Tichomoří a větší Čína  | Technická podpora  |
 
-\***Pro partnery v Evropě jenom Střední východ a Afrika (EMEA):** Při posílání e-mailů RegForm uveďte: ID partnera, e-mailová adresa přidružené k programu MPN, název, název společnosti, telefon, město a země. Pro pomoc s vytvářením a aktivací smluv o podpoře použijte RegForm. Pokud máte další problémy související se službou MPN, obraťte se na [podporu partnera prvotní](https://partner.microsoft.com/support?issueid=300-0042).
+\***Pro partnery v Evropě jenom Střední východ a Afrika (EMEA):** Při posílání e-mailů RegForm uveďte: ID partnera, e-mailová adresa přidružené k programu MPN, název, název společnosti, telefon, město a země. Pro pomoc s vytvářením a aktivací smluv o podpoře použijte RegForm. Pokud máte další problémy související s MPN, obraťte se na [podporu front-line partnera](https://partner.microsoft.com/support?issueid=300-0042).
 
-Jakmile je vaše zvýhodnění aktivované, kontakt programu, který je přidružený k základním výhodám vaší společnosti, bude dostávat ID podpory produktu pro tuto výhodu. Tato ID budou zahrnovat **ID přístupu** a **ID smlouvy**. 
+Po aktivaci výhody obdrží programový kontakt přidružený k základním výhodám vaší společnosti ID podpory produktů pro tuto výhodu. Tato ID budou zahrnovat **přístupové ID** a **ID smlouvy**. 
 
-Při prvním odeslání žádosti o podporu pro určité typy produktů nebo služeb může být nutné, abyste vy nebo vaši uživatelé společnosti nasdíleli tyto ID podpory produktu.
+Vy nebo uživatelé vaší společnosti možná budete muset tato ID podpory produktů sdílet při prvním odeslání žádosti o podporu pro určité typy produktů nebo služeb.
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Migrace z partnerského centra členství v partnerském centru](prepare-pmc-pc-migration.md)
-- [Další informace o kompetencích a výhodách MPN](learn-about-competencies.md)
-- [Naučte se spravovat výhody programu MPN v partnerském centru.](manage-your-partner-network-benefits.md)
-- [Vyhledání výhod MPN a ID podpory v partnerském centru](mpn-find-benefits.md)
+- [Migrace z Partner Membership Center na Partnerské centrum](prepare-pmc-pc-migration.md)
+- [Další informace o kompetencích a výhodách PROGRAMU MPN](learn-about-competencies.md)
+- [Zjistěte, jak spravovat výhody programu MPN v Partnerské centrum](manage-your-partner-network-benefits.md)
+- [Vyhledejte své výhody a ID podpory programu MPN v Partnerské centrum](mpn-find-benefits.md)

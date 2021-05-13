@@ -4,41 +4,37 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Pokud máte problémy se službou Microsoftu nebo s partnerským centrem, můžete postoupit do Microsoftu a vyřešit problém, dokud ho nevyřešíte.
+description: Pokud máte problémy se službou Microsoftu nebo s Partnerské centrum, můžete problém eskalovat microsoftu o pomoc a sledovat ho, dokud se nevyřeší.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284141"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854770"
 ---
 # <a name="support-from-microsoft"></a>Podpora od Microsoftu
 
-**Platí pro**
+**Platí pro**: Partnerské centrum | Partnerské centrum pro Microsoft Cloud for US Government
 
-- Partnerské centrum pro Microsoft Cloud for US Government
+**Odpovídající role:** Agent helpdesku
 
-**Příslušné role**
+Pokud máte problémy se službou Microsoftu nebo se službou Partnerské centrum, můžete problém nahlásit Microsoftu, předáte problém Microsoftu, aby vám pomohl, a sledovat problém, dokud se nevyřeší.
 
-- Agent helpdesku
+[Partnerské centrum podpory –](report-problems-with-partner-center.md) Získání nápovědy a vytvoření lístků pro všechny Partnerské centrum programy.
 
-Pokud máte problémy se službou Microsoftu nebo s partnerským centrem, můžete problém nahlásit společnosti Microsoft, vyřešit problém společnosti Microsoft a sledovat problém, dokud nebude vyřešen.
+[Podpora jménem zákazníků –](report-problems-on-behalf-of-a-customer.md) Získejte pomoc a nahlásit problémy u zákazníka.
 
-[Podpora partnerského centra](report-problems-with-partner-center.md) – Získejte nápovědu a vytvořte lístky pro všechny programy partnerského centra.
+[Zkontrolujte stav služby](check-service-health.md) – Zkontrolujte, jestli v současném stavu neskončení služeb Partnerské centrum.
 
-[Podpora pro zákazníky](report-problems-on-behalf-of-a-customer.md) – získáte pomoc a nahlásit problémy u svého zákazníka.
-
-[Ověřit stav služby](check-service-health.md) – ověřte, jestli v partnerském centru nejsou žádné aktuální známé výpadky služeb.
-
-[Získejte automatizovaná oznámení o službách pomocí našich rozhraní API](get-automated-service-notifications-with-our-apis.md) – Poskytovatelé cloudových řešení můžou získat automatizovaná oznámení o službách pro své služby zákazníka.
+[Získejte automatizovaná oznámení o službách](get-automated-service-notifications-with-our-apis.md) s našimi rozhraními API – Poskytovatelé cloudových řešení mohou dostávat automatizovaná oznámení služeb pro služby svých zákazníků.
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Zobrazit další prostředky podpory](https://partner.microsoft.com/support/?stage=1)
-- [Najít partnera](find-a-partner.md)
-- [Další informace nebo registrace v programu MPN](https://partner.microsoft.com/membership)
-- [Další informace nebo registrace v programu CSP](https://partner.microsoft.com/membership/cloud-solution-provider)
+- [Zobrazení dalších zdrojů podpory](https://partner.microsoft.com/support/?stage=1)
+- [Vyhledání partnera](find-a-partner.md)
+- [Informace o programu MPN nebo jeho registrace](https://partner.microsoft.com/membership)
+- [Informace o programu CSP nebo jeho registrace](https://partner.microsoft.com/membership/cloud-solution-provider)

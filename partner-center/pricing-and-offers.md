@@ -9,45 +9,38 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 1cf69258b507258e1186514c54fa11ebf8a57d36
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964421"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854515"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Ceny a nabídky pro Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure a další
 
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
-- Agent správce
-- Správce partnera MPN
-- Agent prodeje
-- Správce fakturace
+**Příslušné role**: globální správce | Správce správy uživatelů | Agent správce | Správce partnerského programu MPN | Prodejní agent | Správce fakturace
 
 Nejnovější programy a nabídky poskytovatele Cloud Solution Provider si můžete prohlédnout na řídicím panelu portálu pro partnery a přejít na **prodej > ceny a nabídky**. Pro různé typy produktů, které jsou k dispozici, najdete samostatné ceníky. Následující ceníky jsou k dispozici na stránce **ceny a nabídky** :
 
 - **Služby založené na licencích** zahrnují informace o cenách pro Office 365, Enterprise mobility a Security E3 a také Dynamics 365. V části s cenami na základě licencí patří aktuální ceny a verze Preview i matice seznamu nabídek. Ceníky zahrnují Ceník a odhadované maloobchodní ceny (ERP) pro nabídky ve všech podporovaných měnách. Matice seznamu nabídek zahrnuje dostupnost trhu a další důležité informace o nabídkách. Tyto soubory se aktualizují poprvé dne v každém měsíci.
 - **Služby založené na využití** zahrnují cenové informace pro Microsoft Azure a Visual Studio. Můžete také použít [službu Azure v cenové kalkulačkě CSP](https://azure.microsoft.com/pricing/calculator/). Stažení založené na využívání zahrnuje jak ceníky CSP pro všechny podporované měny, tak i cenové soubory sdílených služeb v ERP. Tyto soubory se aktualizují poprvé dne v každém měsíci.
 - **Microsoft Azure rezervované instance** obsahují informace o cenách pro všechny podporované měny rezervovaných instancí Azure. Stažení ceny zahrnuje i ceny sdílených služeb v ERP. Tyto soubory se aktualizují poprvé dne v každém měsíci.
-- **Předplatné softwaru** zahrnuje ceny za předplatná softwarových předplatných pro všechny podporované měny. Soubor s cenami zahrnuje všechny podporované měny se seznamem Price a MSRP. Tyto soubory se aktualizují poprvé dne v každém měsíci.
-- **Ceny plánu Azure** zahrnují informace o cenách pro služby spotřeby plánu Azure a také ceny za rezervace plánu Azure. Ceny jsou přímé ceny nebo ERP a dají se načíst pro libovolný podporovaný trh. Data v těchto souborech se aktualizují každý den.
-- **Sazby za cizí směny** se používají ke kalkulaci fakturace účtované mezi USD a místní měnou partnerů. Sazby se aktualizují každý den každý měsíc a pro daný měsíc platí sazby dostupné. Tyto soubory se aktualizují poprvé dne v každém měsíci.
-- **Marketplace** zahrnuje ceny řešení ISV z komerčního tržiště Microsoftu. Ceny se načítají na trh. Data v těchto souborech se aktualizují každý den.
+- **Předplatné softwaru** zahrnuje ceny za předplatná softwarových předplatných pro všechny podporované měny. Soubor s cenami zahrnuje všechny podporované měny se ceníkovou cenou a protokolem MSRP. Tyto soubory se aktualizují první den v každém měsíci.
+- **Ceny plánu Azure** zahrnují informace o cenách služeb Azure Plan Consumption a také ceny rezervací plánu Azure. Ceny jsou přímé ceny nebo ERP a lze je načíst pro jakýkoli podporovaný trh. Data v těchto souborech se aktualizují každý den.
+- **Směnné kurzy se** používají k výpočtu fakturace účtované mezi USD a místní měnou partnerů. Sazby se aktualizují první den v měsíci a platí pro daný měsíc, kdy jsou sazby k dispozici. Tyto soubory se aktualizují první den v každém měsíci.
+- **Marketplace** zahrnuje ceny řešení ISV z komerčního marketplace Microsoftu. Ceny se načítá na trhu. Data v těchto souborech se aktualizují každý den.
 
 > [!Note] 
-> Jenom partneři CSP, kteří mají schopnost Transact, můžou zobrazit a stáhnout ceníky. Nepřímí prodejci by měli [kontaktovat svého poskytovatele CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) , aby si vyžádali podrobnosti o cenách.
+> Ceníky si mohou zobrazit a stáhnout jenom partneři CSP, kteří mají možnost transakce. Nepřímí prodejci by se [měli obrátit na svého poskytovatele CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) a požádat o podrobnosti o cenách.
 
-## <a name="price-list-preview-and-change-frequency"></a>Náhled ceníku a četnost změn 
+## <a name="price-list-preview-and-change-frequency"></a>Náhled ceníku a frekvence změn 
 
-Služby založené na licencích zahrnují ceník v ceníku, který je poskytnutý za 30 dní předem při jakýchkoli změnách. Pokud chcete zobrazit náhled ceníku, přejděte na **prodej > ceny a nabídky**. Neexistují žádné cenové verze Preview pro služby založené na využívání, protože tyto služby jsou dynamické. Následující tabulka vysvětluje, jak si přečíst tabulku ceníku.
+Součástí licenčních služeb je verze Preview ceníku, která je k dispozici 30 dnů předem a všechny změny. Pokud chcete zobrazit náhled ceníku, přejděte na **stránku Sell (Prodej) > Pricing and offers (Ceny** a nabídky). Pro služby založené na využití neexistuje žádná verze Preview, protože tyto služby jsou dynamické. Následující tabulka vysvětluje, jak si přečíst tabulku ceníku.
 
 |**Položka**        |**Definition**      |
 |:-----------   |:-----------   |
-|PŘIDÁVÁNÍ   |Nová položka do ceníku|
+|Přidat   |Nová položka v ceníku|
 |ZDR   |Změny v seznamu ceny z měsíce na měsíc. Mohou nastat další změny, které nesouvisí se seznamem cen, a partneři by měli porovnat ceníky mezi měsíci a určit změny dalších vlastností.|
 |DEL   |Položka se odebrala z ceníku.|
 |UNC   |Ceník nezměněný v ceníku předchozího měsíce  |
@@ -57,20 +50,20 @@ Služby založené na licencích zahrnují ceník v ceníku, který je poskytnut
 |ID nabídky   |Interní identifikátor nabídky   |
 |Typ licenční smlouvy   |Typy licenčních smluv můžou být firemní, státní nebo školní. Typ smlouvy určuje, ke kterým typům zákazníků se nabídka dá prodávat.|
 |Jednotka nákupu   |Doba nákupu nabídky Nákupní jednotky jsou obvykle jeden měsíc.   |
-|Typ sekundární licence   |Sekundární typy licencí budou buď nekonkrétní, doplněk, nebo zkušební verze. Doplněk znamená, že před nákupem doplňku musí zákazník koupit nějaké požadované produkty.|
-|Typ koncového zákazníka   |Vztah zpátky na typ licenční smlouvy: podniková licence – podnikový prodejce v cloudu, licence pro státní správu, státní úřad pro maloobchodní prodej nebo akademická licence – student pro prodejce v cloudu nebo studenta pro prodejce v cloudu   |
-|Ceník   |Cena, kterou bude partner platit   |
-|Cena ERP   |Odhadované nebo doporučené maloobchodní ceny na zákazníka   |
+|Typ sekundární licence   |Sekundární typy licencí budou buď nekonkrétní, doplněk, nebo zkušební verze. Doplněk znamená, že existují požadované produkty, které zákazník musí koupit, než si doplněk koupí.|
+|Typ koncového zákazníka   |Vztahuje se zpět k typu licenční smlouvy: podniková licence – podnikový prodejce cloudu, licence státní správy – státní správa cloudových prodejců nebo akademické licence – učitelský sbor nebo student cloudového prodejce   |
+|Ceníková cena   |Cena, kterou partner platí   |
+|Cena ERP   |Odhadovaná nebo doporučená maloobchodní cena pro zákazníka   |
 
 ## <a name="price-changes"></a>Změny cen
 
-Cenové změny jsou běžné výskyty. Partneři mohou předpokládat cenové změny pro nabídky založené na licencích, a to tak, že si prohlížíte ve verzi Preview ceníku. Na řídicím panelu partnerského centra otevřete stránku ceny a nabídky, kde uvidíte náhled ceníku.
+Změny cen jsou běžným výskytem. Partneři mohou očekávat změny cen nabídek založených na licencích na základě verze Preview ceníku. Na řídicím Partnerské centrum otevřete stránku Ceny a nabídky, na které se zobrazí náhled ceníku.
 
-Ceny na základě využití Azure ale nemají verzi Preview. Partneři můžou s využitím rozhraní RateCard API zachovávat ceny za spotřebu za Azure, které vrátí cenu za daný den.
+Ceny založené na využití Azure ale nemají verzi Preview. Partneři mohou držet přehled o změnách cen za využití Azure pomocí rozhraní API RateCard, které vrací ceny měřičů za tento den.
 
-|**Typ produktu**   |**Příklady produktů**  |**Dostupná verze Preview** |**Změnit podrobnosti**|
+|**Typ produktu**   |**Příklady produktů**  |**K dispozici verze Preview** |**Podrobnosti o změně**|
 |-----------------------|:-----------------------|:-------------------|------------------|
-|Na základě licence|Office, Dynamics, Intune, Windows Enterprise|30 dní|Vypíše změny cen označené CHNG ve verzi Preview ceníků.|
+|Na základě licencí|Office, Dynamics, Intune, Windows Enterprise|30 dní|Změny ceníkových cen označené jako CHNG v ceníkech preview|
 |Na základě využití|Prostředky Azure|Není k dispozici|Karta Změna protokolu změn k dispozici na kartě **historie změn** ceníku v předchozím měsíci|
 |Software||Není k dispozici|Porovnat ceníky ručně z měsíce na měsíc|
 |Reservations|Virtuální počítače, předem placené|Není k dispozici|Porovnat ceníky ručně z měsíce na měsíc|
@@ -86,18 +79,18 @@ CSP nabízí některé služby pro speciální segmenty trhu, jako je napříkla
 
 |**Segment**   |**Kdo musí kvalifikovat**   |**Partner má nárok na zákazníky.**|**Povolené typy produktů**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Vzdělávání|Zákazník|Ne, kvalifikace od zákazníka provede Microsoft |Jenom na základě licence|
-|Bez zisku|Zákazník|Ne, zákazník vypadá mimo Partnerské centrum.|Jenom na základě licence|
-|Komunitní cloud státní správy (Government Community Cloud, GCC)|Partner a zákazník|Po povolení RSZ může partner vytvářet zákazníky v RSZ.| Jenom na základě licence|
-|Azure Government|Partner|Po kvalifikaci partner funguje v tenantovi CSP, které je specifické pro Azure Government|Prostředky Azure|
+|Vzdělávání|Zákazník|Ne, kvalifikace od zákazníka provede Microsoft |Pouze na základě licencí|
+|Neziskové|Zákazník|Ne, zákazník se kvalifikuje mimo Partnerské centrum|Pouze na základě licencí|
+|Komunitní cloud státní správy (Government Community Cloud, GCC)|Partner a zákazník|Po povolení GCC může partner vytvářet zákazníky GCC.| Pouze na základě licencí|
+|Azure Government|Partner|Po kvalifikaci partner funguje v tenantovi CSP specifickém pro Azure Government|Prostředky Azure|
 
-U partnerských marží se může rozdíl mezi ceníkem a odhadovanou maloobchodní cenou lišit od segmentů po segmentaci. Obecně platí, že vzdělávání a neziskové organizace mají pro partnery CSP nižší nebo žádné marže. Přesné hodnoty najdete v ceníku založeném na licencích. 
+Marže partnerů, rozdíl mezi ceníkovou cenou a odhadovanou maloobchodní cenou, se může v jednotlivých segmentech lišit. Pro partnery CSP má vzdělávání a neziskové organizace obvykle nižší nebo žádnou marži. Přesné hodnoty najdete v ceníku založeném na licencích. 
 
-## <a name="add-on-offer-types"></a>Typy nabídek doplňku
+## <a name="add-on-offer-types"></a>Typy nabídek doplňků
 
-Služby založené na licencích můžete získat buď jako základní nabídky, nebo jako doplňky. Jenom základní nabídky se zjišťují a účtují prostřednictvím katalogu partnerského centra. Je nutné použít doplňky po zakoupení základních nabídek. Sloupec **typu sekundární licence** podle ceníku založený na licencích obsahuje informace o každé nabídce a jejím typu. Základní nabídky mají **nespecifické** hodnoty ve sloupci typ sekundární licence na Ceník a můžou být zakoupeny v katalogu. Hodnoty typu sekundární licence **doplňku** nejde koupit v katalogu. Pokud si chcete koupit tyto doplňky:
+Služby založené na licencích je možné získat buď jako základní nabídky, nebo jako doplňky. Prostřednictvím katalogu produktů je možné zjistit a zakoupit pouze základní Partnerské centrum katalogu. Po zakoupení základních nabídek musíte použít doplňky. Sloupec ceníku na základě licencí **Typ sekundární licence** obsahuje informace o jednotlivých nabídkách a jejich typech. Základní nabídky mají **ve sloupci** price list secondary license type (Typ sekundární licence) nestandstandární hodnoty, které je možné zakoupit v katalogu. Hodnoty sekundárního typu **licence doplňku** není možné zakoupit v katalogu. Zakoupení těchto doplňků:
 
-1. Chcete-li zobrazit seznam ID nabídek, které je třeba zakoupit před nákupem doplňku, Projděte si seznam nabídek.
+1. Seznam ID nabídek, které je potřeba zakoupit před nákupem doplňku, najdete v matici seznamu nabídek.
 2. Koupit základní nabídku z katalogu
 3. Přejděte k zákazníkovi ze seznamu zákazníků. Klikněte na předplatné pro základní nabídku, kterou jste právě koupili. Na stránce Spravovat předplatné uvidíte dostupné doplňky, které se dají použít pro základní nabídku.
 
@@ -112,23 +105,23 @@ Rezervace Azure jsou na základě termínu nákupy pro konkrétní typ prostřed
 
 ## <a name="offers-matrix"></a>Matice nabídek
 
-Na stránce ceny a nabídky si prohlédněte matrici nabídky pro prodejce v cloudu, abyste si přečetli informace o různých SKU a dostupných produktových produktech pro prodej. Matice nabídky obsahuje dostupné nabídky podle národního prostředí. Pokud je položka uvedená na ceníku, ale ne na matrici nabídky, znamená to, že produkty ještě nelze objednat. Jakmile budou k dispozici pro pořadí, je aktualizována matice nabídky.
+Na stránce ceny a nabídky si prohlédněte matrici nabídky pro prodejce v cloudu, abyste si přečetli informace o různých SKU a dostupných produktových produktech pro prodej. Matice nabídek zahrnuje, které nabídky jsou k dispozici pro národní prostředí. Pokud je položka uvedená v ceníku, ale ne v matici nabídek, znamená to, že produkty ještě není možné objednat. Jakmile budou k dispozici k objednávce, aktualizuje se matice nabídek.
 
-Pro partnery CSP, kteří používají sady SDK (Software Development Kit). Microsoft také zveřejňuje seznam služeb Azure v CSP na stránce s cenami a nabídkami.
+Pro partnery CSP, kteří používají Partnerské centrum SDK (Software Development Kit). Microsoft také publikuje seznam služeb Azure v CSP na stránce Ceny a nabídky.
 
-### <a name="offers-matrix-and-price-list-questions"></a>Nabízí otázky k maticům a ceníkům.
+### <a name="offers-matrix-and-price-list-questions"></a>Dotazy k matici nabídek a ceníku
 
-Pokud máte dotazy týkající se ceníku nebo nabídky nabídek, odešlete žádost o služby prostřednictvím partnerského centra.
+Pokud máte dotazy ohledně ceníku nebo matice nabídek, odešlete žádost o služby prostřednictvím Partnerské centrum.
 
-## <a name="offer-limits"></a>Omezení nabídky
+## <a name="offer-limits"></a>Limity nabídek
 
-Některé nabídky založené na licencích mají určitá pravidla a omezení, která zakazují více nákupů pro stejného zákazníka. Tato pravidla se vztahují na většinu zkušebních verzí a na mnohé z malých obchodních nabídek. **Nabídky malých firem** jsou definované pomocí těchto nabídek, které mají maximální počet licencí menší než 300.
+Některé nabídky založené na licencích mají určitá pravidla a omezení, která zakazují více nákupů pro stejného zákazníka. Tato pravidla platí pro většinu zkušebních procesů a řadu nabídek pro malé firmy. **Nabídky pro malé** firmy jsou definovány nabídkami, které mají maximální počet licencí menší než 300.
 
-Tato nákupní omezení jsou definovaná jako součást konfigurace nabídky a dají se najít tak, že se vyhledají v matici seznam nabídek. Existují dva sloupce dat společně pro definování vynucování: 1. Rozsah omezení nabídky a 2. Omezení nabídky. Omezení se vynutila při nákupu. Katalog v partnerském centru zabrání partnerovi kupovat další nabídky než pravidla povolují. Případný pokus o porušení omezení způsobí chybu.
+Tato nákupní omezení jsou definována jako součást konfigurace nabídky a najdete je v matici seznamu nabídek. Při definování vynucení spolupracují dva sloupce dat: 1. Rozsah limitu nabídek a 2. Limit nabídek. Omezení se vynucuje během nákupu. Katalog v Partnerském centru zakáže partnerovi nakupovat více nabídek, než umožňují pravidla. Jakýkoli pokus o porušení omezení bude mít za následek chybu.
 
-Rozsah omezení nabídky se zaznamenává jako sloupec v matici seznamu nabídek a může mít hodnoty žádné, doba života nebo souběžné. 
+Rozsah limitu nabídek se zaznamená jako sloupec v matici seznamu nabídek a může mít hodnoty None (Žádný), Lifetime (Doba života) nebo Concurrent (Souběžné). 
 
-- Nabídky s **žádnými** se dají koupit bez omezení.
+- Nabídky s **žádnou je** možné zakoupit bez omezení.
 - Nabídky **životnosti** se dají koupit jenom jednou.
 - **Souběžné** nabídky lze zakoupit tolikrát, kolik povoluje hodnota **limitu nabídky** pro tuto nabídku. Většina zkušebních verzí má omezení nabídky životnosti s limitem nabídky "1". Většina malých podnikových nabídek má omezení souběžné nabídky s limitem nabídky "2".
 
@@ -148,27 +141,27 @@ K dispozici jsou přibližně 50 Dynamics nabídek, které mají tříleté obdo
 - Výrazy jsou 36 měsíců a předplatné se po třech letech prodlouží automaticky.
 - Partneři můžou v průběhu období předplatného zrušit nebo změnit počet licencí.
 - Roční obnovení bude v ceně za rok nákupu za tříleté období.
-- Četnost fakturace je stále roční nebo měsíční.
+- Frekvence fakturace je stále roční nebo měsíční
 
-### <a name="72-month-offers"></a>nabídky 72 měsíců
+### <a name="72-month-offers"></a>Nabídky na 72 měsíců
 
-Základní nabídka Microsoft 365 a1 má šest let.  Doplňky Office 365 a1 jsou k dispozici po zakoupení této základní nabídky. 
+Microsoft 365 A1 má šestileté období.  Doplňky Office 365 A1 jsou k dispozici po zakoupení této základní nabídky. 
 
 |**Název nabídky**   |**ID nabídky**   |**Typ**|
 |-------------------|-----------------------|----------------------------|
-|Microsoft 365 a1|778a4dce-0014-4d53-8647-314ef2b091d2|Základní nabídka|
-|Office 365 a1 pro vyučující (pro zařízení)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Doplněk|
-|Office 365 a1 pro studenty (pro zařízení)|bae285a9-d56b-4384-b02f-38adc61a6f12|Doplněk|
+|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Základní nabídka|
+|Office 365 A1 pro učitelské sbory (pro zařízení)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Doplněk|
+|Office 365 A1 pro studenty (pro zařízení)|bae285a9-d56b-4384-b02f-38adc61a6f12|Doplněk|
 
-Níže je uveden přehled toho, jak tyto nabídky fungují:
+Níže je uvedeno shrnutí toho, jak tyto nabídky fungují:
 
-- Termín platí pro 72 měsíců nebo šest let.
-- Předplatné se neobnovilo a platnost platnosti nekončí po šesti letech.
-- Četnost fakturace na této nabídce se zobrazí jako roční, ale po získání předplatného se partner účtuje na první faktuře předem.
-- Předplatná nabídek a1 72-month jsou po nákupu uzamčena a nelze je zrušit a počty licencí nelze do předplatného přidat po počátečním nákupu.
-- Toto předplatné je nevratné a nevratné.
+- Období je 72 měsíců nebo šest let.
+- Předplatné se neobnoví a po šesti letech vyprší jeho platnost
+- Frekvence fakturace nabídky se zobrazuje jako roční, ale partner se fakturuje předem na první faktuře po získání předplatného.
+- Předplatná nabídek A1 na 72 měsíců jsou po nákupu uzamčená a není možné je zrušit a po počátečním nákupu není možné do předplatného přidat počty licencí.
+- Toto předplatné není možné zrušit a nelze ho vrátit.
 
-## <a name="estimated-retail-price-erp"></a>Odhad maloobchodní ceny (ERP)
+## <a name="estimated-retail-price-erp"></a>Odhadovaná maloobchodní cena (ERP)
 
 Většina ceníků zahrnuje ceník, cenu, za kterou se partner účtuje, a odhadovanou prodejní cenu. Odhadovaná maloobchodní cena (ERP) se označuje také jako prodejní cena doporučená pro společnost Microsoft nebo MSRP. Tyto dvě hodnoty, ERP a MSRP, reprezentují odhadovanou tržní hodnotu produktů, pokud si zákazník koupil produkty přímo od Microsoftu. Níže najdete informace o ERP/MSRP pro každý typ produktu nebo služby. 
 

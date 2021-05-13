@@ -9,20 +9,16 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0c8812683a038ce1f869cb3cb6750424d49ec05
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028363"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855399"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Jak prodávat nabídky zákazníkům pro vzdělávání a jak vytvořit zákazníka vzdělávání v partnerském centru
 
-**Příslušné role**
-
-- Globální správce
-- Agent správce
-- Agent prodeje
+**Příslušné role**: globální správce | Agent správce | Agent prodeje
 
 ## <a name="create-an-education-customer"></a>Vytvoření zákazníka v oblasti vzdělávání
 
@@ -41,42 +37,42 @@ Tento článek vysvětluje, jak vytvořit zákazníka vzdělávání v partnersk
    - **Kontaktní údaje zákazníka**: tyto podrobnosti se budou používat jako součást procesu ověřování.
    - **Primární název domény**: používá se k vytvoření účtu zákazníka a e-mailových adres.  Vyberte název podobný názvu společnosti bez mezer nebo speciálních znaků.  Tento název nelze později změnit.
 
-3. Až budete hotovi, vyberte **zkontrolovat**.
+3. Až budete hotovi, vyberte **Review (Zkontrolovat).**
 
-   :::image type="content" source="images/eduaccountinfo.png" alt-text="Účet zákazníka pro vzdělávání":::
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Účet zákazníka v oblasti vzdělávání":::
 
-4. Po potvrzení **Revize** obdržíte stav informování, pokud jsou odeslané informace platné.  
+4. Po potvrzení **recenze se** zobrazí stav **Zobrazení,** pokud jsou odeslané informace platné. 
 
-    :::image type="content" source="images/edu/create-review.png" alt-text="Vzdělávání zákaznického účtu na revizi"lightbox="images/edu/create-review-expanded.png":::
+    :::image type="content" source="images/edu/create-review.png" alt-text="Kontrola účtu zákazníka v oblasti vzdělávání"lightbox="images/edu/create-review-expanded.png":::
 
-### <a name="confirm-your-education-customers-verification-status"></a>Potvrďte stav ověření zákazníka ve vzdělávání.
+### <a name="confirm-your-education-customers-verification-status"></a>Potvrzení stavu ověření zákazníka v oblasti vzdělávání
 
-Na stránce **účet** zákazníka se podívejte na **stav speciální kvalifikace**.
+Na stránce Account (Účet) **zákazníka si** prohlédněte stav **zvláštní kvalifikace.**
 Příklady stavu:
 
-- Pokud zákazník prošel ověřením: vzdělávání
+- Pokud zákazník prošel ověřením: Vzdělávání
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Ověření vzdělávání bylo úspěšné.":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Ověření v oblasti vzdělávání bylo úspěšné":::
 
-- Pokud zákazník neuspěl při ověřování: nejedná se o zákazníka vzdělávání.
+- Pokud zákazník neprojde ověřením: Není to zákazník v oblasti vzdělávání
 
-   :::image type="content" source="images/edu/fail-reason.png" alt-text="Ověření vzdělávání nebylo úspěšné." lightbox="images/edu/fail-reason-expanded.png":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="Ověření vzdělání bylo neúspěšné" lightbox="images/edu/fail-reason-expanded.png":::
 
-- Pokud zákazník není označený jako zákazník pro vzdělávání: žádné
+- Pokud zákazník nebyl označený jako zákazník v oblasti vzdělávání: Žádný
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="Zákazník pro vzdělávání není označený jako" lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="zákazník v oblasti vzdělávání není takto označený" lightbox="images/edu/account-one-expanded.png":::
 
-- Pokud zákazník přezkoumáte jako zákazník pro vzdělávání: Projděte si
+- Pokud se zákazník zhodnotí jako zákazník v oblasti vzdělávání: Kontrola
 
-    :::image type="content" source="images/edu/in-review.png" alt-text="Zákazník pro vzdělávání je právě přezkoumáván." lightbox="images/edu/in-review-expanded.png":::
+    :::image type="content" source="images/edu/in-review.png" alt-text="zákazník v oblasti vzdělávání je v přehledu" lightbox="images/edu/in-review-expanded.png":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Opravte informace o účtu zákazníka a znovu odešlete pro ověření.
+## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Opravte informace o zákaznickém účtu a znovu odešlete k ověření.
 
-Pokud zákazník neprojde počátečním ověřením, můžete si teď opravit informace a znovu ho odeslat.
+Pokud zákazník selže při počátečním ověření, můžete teď opravit informace a odeslat je znovu.
 
 ### <a name="correct-the-customer-account-information"></a>Oprava informací o účtu zákazníka
 
-Chcete-li aktualizovat informace o zákazníkovi, je nutné mít oprávnění globálního správce. Informace na portálu Office 365 aktualizujete, protože tato data nejde aktualizovat z portálu partnerského centra.
+K aktualizaci informací o zákazníkovi musíte mít oprávnění globálního správce. Informace aktualizujete na portálu služeb Office 365, protože tato data nelze aktualizovat z portálu Partnerské centrum Portal.
 
 1. Na stránce **účet** se zobrazí informace o tom, že kvalifikace zákazníka se považuje za zákazníka, který není zákazníkem pro vzdělávání.
 

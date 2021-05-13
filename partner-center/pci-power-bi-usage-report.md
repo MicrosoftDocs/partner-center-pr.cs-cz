@@ -1,55 +1,50 @@
 ---
-title: Sestava využití Power BI služby partner Center Insights
+title: Přehledy Partnerského centra Power BI využití
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Podívejte se, co dobře děláte, a kde můžete vylepšit využití Power BI předplatných, která pro vaše zákazníky prodáváte nebo spravujete.
+description: Podívejte se, co si vedete dobře a kde můžete zlepšit využití Power BI předplatných, která pro své zákazníky prodáváte nebo spravujete.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086290"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854583"
 ---
-# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Power BI k dispozici na řídicím panelu přehledů partnerského centra
+# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI využití dostupná na řídicím panelu Partnerské centrum Insights
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Agent správy | Prohlížeč sestav | Prohlížeč výkonných sestav
 
-- Globální správce
-- Agent správce
-- Prohlížeč sestav
-- Prohlížeč sestav Executive
-
-Sestava využití Power BI poskytuje data o využití Power BI předplatných, která jste pro zákazníky prodali nebo spravovali. Následující části můžete zobrazit v sestavě využití Power BI.
+Sestava Power BI využití poskytuje data o využití pro Power BI předplatná, která prodáte nebo spravujete pro své zákazníky. Následující části si můžete prohlédnout v sestavě Power BI využití.
 
 - Souhrn
-- Využití Power BI podle geografie
-- Využití Power BI podle SKU
+- Power BI využití podle zeměpisné oblasti
+- Power BI využití podle SKU
 - Výkon předplatných
-- Distribuce využití Power BI
+- Power BI využití
 
  > [!NOTE]
- > Tato sestava je k dispozici na řídicím panelu Insights. Pokud chcete zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav v nástroji Executive. Další informace najdete v tématu globální správce vaší společnosti. konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními správce sestav nástroje Executive.
+ > Tato sestava je k dispozici na řídicím panelu Přehledy. Pokud chcete tuto sestavu zobrazit, musíte mít přiřazenou konkrétní roli v Partnerské centrum, jako je například globální správce, správce účtu, prohlížeč sestav nebo prohlížeč sestav vedoucího pracovníka. Další informace najdete v tématu Globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být dostupné také pro uživatele s oprávněními Executive Report Viewer.
 
 ## <a name="summary"></a>Souhrn
 
-V části Souhrn najdete zobrazení snímků klíčových ukazatelů souvisejících s předplatnými Power BI využití, která jste prodali nebo spravovali pro vaše zákazníky. 
+V souhrnné části najdete snímek klíčových indikátorů souvisejících s předplatným Power BI využití, která jste prodali nebo spravují pro své zákazníky. 
 
-- Dostupné křesla: celkový počet licencí prodaných během vybraného časového rámce.
+- Dostupné licence: Celkový počet licencí prodaných během vybraného časového rámce.
 
-   Mikrograf prezentuje trend dostupného počtu pracovních míst pro vybraný rozsah dat po měsících.
+   Mikro chart představuje trend počtu dostupných licencí pro vybraný rozsah dat od měsíce.
 
-- Přiřazené křesla: celkový počet licencí přiřazených během vybraného časového rámce.
+- Přiřazené licence: Celkový počet licencí přiřazených během vybraného časového rámce.
 
-   Mikrograf prezentuje trend měsíčního počtu přiřazených míst v průběhu vybraného období.
+   Mikro chart představuje trend počtu přiřazených licencí ve vybraném rozsahu dat od měsíce.
 
-- Aktivní křesla: celkový počet licencí, které měly využití během vybraného časového rámce. 
+- Aktivní licence: Celkový počet licencí, které se ve vybraném časovém rámci spotřebovály. 
 
-   Mikrograf prezentuje měsíční trend aktivních míst v rámci vybraného časového období.
+   Mikro chart představuje měsíční trend měsíčních aktivních licencí za vybrané časové období.
 
 - Aktivní použití%: celkový počet aktivních míst vyjádřených jako procento dostupných míst pro vybraný časový rámec. 
 
@@ -83,10 +78,10 @@ Výkon předplatných znázorňuje měsíční trend aktivního využití podle 
 
 Distribuce využití Power BI znázorňuje rozdělení dostupných míst, aktivních sedadel a přiřazených míst na SKU.
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Distribuce využití Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI využití":::
 
 ## <a name="next-steps"></a>Další kroky
 
-- Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).
+- Další sestavy najdete v tématu [Partnerské centrum Insights.](partner-center-insights.md)
 
-- Nezpracovaných dat v této sestavě si můžete stáhnout z oddílu stažení sestav na řídicím panelu Insights. [Další informace](pci-download-reports.md) 
+- Nezpracovaná data pohánějící tuto sestavu si můžete stáhnout z části Stažení sestav na řídicím panelu Přehledy. [Další informace](pci-download-reports.md) 

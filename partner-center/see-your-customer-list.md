@@ -4,45 +4,40 @@ ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Záznamy zákazníků jsou mezi nejdůležitějšími informačními prostředky. Naučte se zobrazovat, Hledat, aktualizovat & informace o exportu v seznamu zákazníků partnerského centra.
+description: Záznamy zákazníků patří mezi nejdůležitější informační prostředky. Zjistěte, jak zobrazit, hledat, aktualizovat & exportovat informace ze seznamu Partnerské centrum zákazníků.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1791d415d0004520e8c7dc950decf540c91cf003
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 6e73aa98e0cfaf82521a5fe63e34ebf0b44363fb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002837"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854498"
 ---
-# <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Správa seznamu zákazníků – hledání, aktualizace nebo export zákazníků v partnerském centru
+# <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Správa seznamu zákazníků – vyhledávání, aktualizace nebo export zákazníků v Partnerské centrum
 
-**Platí pro**
+**Platí pro**: Partnerské centrum | Partnerské centrum pro Microsoft Cloud for US Government
 
-- Partnerské centrum pro Microsoft Cloud for US Government
+**Odpovídající role:** Agent pro správu | Globální správce
 
-**Příslušné role**
+Záznamy zákazníků patří mezi nejdůležitější informační prostředky v Partnerské centrum. Můžete prohledávat databázi zákaznických účtů, exportovat celou databázi zákazníků nebo exportovat podmnožinu do formátu souboru s oddělovači kompatibilního s Excelem (CSV). Informace o předplatných zákazníka můžete také exportovat do souboru .csv.
 
-- Agent správce
-- Globální správce
+Protokoly aktivit také poskytují exportovatelná data o transakcích a akcích správy pro zákazníky. Další informace najdete v tématu [Zobrazení protokolů aktivit zákazníků.](activity-logs.md)
 
-Záznamy zákazníků jsou mezi nejdůležitějšími informačními prostředky v partnerském centru. Můžete hledat v databázi zákaznických účtů, exportovat celou zákaznickou databázi nebo exportovat podmnožinu, do formátu souboru hodnot oddělených čárkami (. csv) kompatibilním s Excelem. Informace o předplatných zákazníka taky můžete exportovat do souboru. csv.
+## <a name="search-for-a-customer"></a>Vyhledání zákazníka
 
-Protokoly aktivit také poskytují exportovaná data o transakcích a akcích správy pro zákazníky. Další informace najdete v tématu [zobrazení protokolů aktivit zákazníků](activity-logs.md).
-
-## <a name="search-for-a-customer"></a>Hledání zákazníka
-
-1. V nabídce **Partnerské centrum** vyberte **zákazníci**.
-2. Pokud chcete hledat zákazníka, zadejte do vyhledávacího pole název zákazníka nebo název domény.
-3. Vyberte **šipku dolů** na konci řádku zákazníka, abyste viděli své ID Microsoftu a jejich přidružené a rychlé odkazy na odběry a služby.
+1. V **nabídce Partnerské centrum** vyberte **Zákazníci.**
+2. Pokud chcete vyhledat zákazníka, zadejte do vyhledávacího pole jméno zákazníka nebo název domény.
+3. Výběrem **šipky dolů** na konci řádku zákazníka zobrazíte jeho ID Microsoftu a přidružené rychlé odkazy na předplatná a služby.
 
 ## <a name="update-a-customers-company-name"></a>Aktualizace názvu společnosti zákazníka
 
-V nabídce **Partnerské centrum** vyberte **zákazníci**.
-2. Pokud chcete hledat zákazníka, zadejte do vyhledávacího pole název zákazníka nebo název domény.
-3. Vyberte **šipku dolů** na konci řádku zákazníka, abyste viděli své ID Microsoftu a jejich přidružené a rychlé odkazy na odběry a služby.
-4. V části informace o **fakturaci** zákazníka aktualizujte název společnosti. Když uložíte novou hodnotu, projeví se v seznamu zákazníků. Tím se změní jenom název faktury na společnost a hodnota seznamu zákazníků. Neprojeví se nikde jinde.
+V **nabídce Partnerské centrum** vyberte **Zákazníci.**
+2. Pokud chcete vyhledat zákazníka, zadejte do vyhledávacího pole jméno zákazníka nebo název domény.
+3. Výběrem **šipky dolů** na konci řádku zákazníka zobrazíte jeho ID Microsoftu a přidružené rychlé odkazy na předplatná a služby.
+4. V části **Bill-to information (Vyúčtování)** zákazníka aktualizujte název společnosti. Když uložíte novou hodnotu, projeví se v seznamu zákazníků. Tím se změní jenom název faktury na společnost a hodnota seznamu zákazníků. Neprojeví se nikde jinde.
 
 ## <a name="export-your-customer-list"></a>Exportovat seznam zákazníků
 
@@ -65,14 +60,14 @@ V nabídce **Partnerské centrum** vyberte **zákazníci**.
 
 1. V nabídce **Partnerské centrum** vyberte **zákazníci**.
 
-2. Vyberte **název společnosti** pro každého zákazníka. Otevře se stránka **předplatná** zákazníka se zobrazeným úplným seznamem předplatných produktů.
+2. Vyberte **název společnosti** pro každého zákazníka. Otevře se stránka **Předplatná** zákazníka s úplným seznamem předplatných produktů.
 
-3. Vyberte **exportovat odběry**. Partner Center převede data předplatného zákazníka na soubor. csv a nahraje ho do výchozí složky pro stažení v počítači. Mezi datové sloupce patří následující:
-   - **ID předplatného**;
+3. Vyberte **Exportovat předplatná.** Partnerské centrum data předplatného zákazníka do souboru .csv a nahraje je do výchozí složky pro stahování ve vašem počítači. Mezi datové sloupce patří:
+   - **ID předplatného;**
    - **Předplatné**– název produktu pro předplatné;
-   - **Množství**– počet zakoupených licencí;
-   - **Stav**;
-   - **Prodejce**– ID prodejce, který vlastní a spravuje předplatné.
+   - **Quantity**(Množství) – počet zakoupených licencí
+   - **Stav;**
+   - **Reseller**– ID prodejce, který vlastní a spravuje předplatné.
 
 > [!NOTE]  
-> Další informace o správě předplatného najdete v tématu [předplatné zákazníka](customer-subscriptions.md).
+> Další informace o správě předplatných najdete v tématu [Předplatná zákazníků.](customer-subscriptions.md)

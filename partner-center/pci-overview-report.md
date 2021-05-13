@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: e274b0a637c7fd4944a395ba7e38154e36d2a9e3
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120813"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855195"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Přehled sestav řídicích panelů dostupných ve službě partner Center – přehledy
  
-**Příslušné role**
-
-- Globální správce
-- Agent správce
-- Prohlížeč sestav
-- Prohlížeč sestav Executive
+**Příslušné role**: globální správce | Agent správce | Prohlížeč sestav | Prohlížeč sestav Executive
 
 Řídicí panel přehled Insights nabízí zobrazení snímků klíčových ukazatelů výkonu, jako jsou zákazníci, předplatná, výnosy za využití Azure a licence. V sestavě přehledu můžete vizualizovat následující grafy.
 
@@ -54,36 +49,36 @@ Oblast **zákazníci** zahrnuje:
 
 Oblast **Azure spotřebované tržby (ACR)** na souhrnu zahrnuje:
 
-- Celkový počet spotřebovaných výnosů za Azure (v USD), které se přiřadí k vybranému rozsahu kalendářních dat.
-- Procentuální nárůst nebo pokles v ACR v atributu (v US $) v průběhu vybraného rozsahu kalendářních dat.
-- Mikrograf prezentuje měsíční trend ACR US $, na který jste v rámci vybraného rozsahu kalendářních dat. 
+- Celkový počet výnosy z využití Azure (v USD $) přisuzovaný vám za vybraný rozsah dat.
+- Procento růstu nebo poklesu atribuce ACR (v USD) během vybraného rozsahu dat
+- Mikro chart představuje měsíční trend ACR US$ přidělovaný vám ve vybraném rozsahu dat. 
 
 > [!NOTE]
-> Data využívání výnosů v Azure (ACR) jsou k dispozici uživatelům, kteří mají přiřazenou roli vedoucího prohlížeče sestav. 
+> výnosy z využití Azure (ACR) jsou dostupná pro uživatele, kteří mají přiřazenou roli Prohlížeče výkonných sestav. 
  
-### <a name="subscriptions-sold"></a>Prodávaná předplatná
+### <a name="subscriptions-sold"></a>Prodané předplatná
 
-Vydaná oblast **předplatných** obsahuje tyto informace:
+Oblast **Subscriptions sold** (Prodané předplatná) v části Summary (Souhrn) zahrnuje:
 
-- Celkový aktuální počet předplatných cloudových produktů (aktivních a neaktivních) prodaných nebo spravovaných vámi.  
-- Procentuální nárůst nebo pokles předplatných během vybraného rozsahu kalendářních dat.
-- Mikrograf prezentuje trend celkového počtu předplatných v rámci vybraného rozsahu dat v měsíci.
+- Celkový aktuální počet předplatných cloudových produktů (aktivních a neaktivních), která prodáváte nebo spravujete vy.  
+- Procentuální růst nebo pokles předplatných během vybraného rozsahu dat
+- Mikro chart představuje trend celkového počtu předplatných za měsíc v rámci vybraného rozsahu dat.
 
 ### <a name="active-subscriptions"></a>Aktivní předplatná
 
-Oblast **aktivních předplatných** na souhrnu zahrnuje:
+Oblast **Aktivní předplatná** v části Souhrn zahrnuje:
 
-- Aktuální počet odběrů cloudových produktů s aktivním využitím měřený na základě telemetrie produktů. Tím se vyloučí všechna zkušební předplatná v případě předplatných Azure.  
-- Procentuální nárůst aktivních předplatných v rámci vybraného rozsahu kalendářních dat.
-- Mikrograf prezentuje trend aktivních předplatných za měsíc v průběhu vybraného období.
+- Aktuální počet předplatných cloudových produktů s aktivním využitím měřený na základě telemetrie produktů. V případě předplatných Azure se vyloučí všechna zkušební předplatná.  
+- Procentuální růst aktivních předplatných ve vybraném rozsahu dat
+- Mikro chart představuje trend aktivních předplatných od měsíce po měsících ve vybraném rozsahu dat.
  
 ### <a name="licenses-deployed"></a>Nasazené licence
 
-Oblast **nasazených licencí** zahrnuje tyto informace:
+Oblast **Licence nasazené** v souhrnu zahrnuje:
  
-- Počet všech licencí cloudových produktů nasazených ve vašich zákaznických předplatných za vybrané časové období. 
-- Procentuální nárůst nebo pokles těchto licencí v průběhu vybraného rozsahu dat. 
-- Mikrograf znázorňuje trend měsíčního měsíčního počtu přiřazených licencí v rámci vybraného rozsahu dat.
+- Počet všech licencí cloudových produktů nasazených ve vašich předplatných zákazníků během vybraného časového období. 
+- Procentuální růst nebo pokles těchto licencí během vybraného rozsahu dat. 
+- Mikro graf ukazuje trend těchto přiřazených licencí po měsících v průběhu vybraného rozsahu dat.
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Geografické rozšiřování vašich zákazníků, předplatných a licencí
 
@@ -114,10 +109,10 @@ Měsíční trend využívání Azure s využitím výnosů, který je na vás z
 
 ## <a name="licenses-growth-trend"></a>Trend růstu licencí
  
-Trend licencí přidaných všemi zákazníky během vybraného rozsahu kalendářních dat. Osa X představuje měsíce vybraného rozsahu kalendářních dat a osu Y představuje počet licencí vybraného produktu. Posuňte se přes posuvník nad grafem, aby se graf zvětšil na konkrétní časové období.  
+Trend licencí přiřazených všemi zákazníky během vybraného rozsahu dat Osa X představuje měsíce vybraného rozsahu dat a osa Y představuje počet licencí vybraného produktu. Posouváním posuvníku v horní části grafu můžete graf přiblížit ke konkrétnímu časovému období.  
 
 :::image type="content" source="images/pci/licensesgrowth.png" alt-text="licence":::
 
 ## <a name="next-steps"></a>Další kroky
 
-Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).
+Další sestavy najdete v tématu [Partnerské centrum Insights.](partner-center-insights.md)

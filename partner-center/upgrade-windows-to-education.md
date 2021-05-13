@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 806ddcd6e55a72ac2e1d15bdbec7c27c604917dc
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022736"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818690"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Upgradujte některé zákazníky pro vzdělávání z Windows 10 Home na Windows 10 vzdělávání.
 
-**Příslušné role**
-
-- Agent správce
-- Správce fakturace
+**Příslušné role**: Agent správce | Správce fakturace
 
 ## <a name="overview"></a>Přehled
 
@@ -49,31 +46,31 @@ Partneři by měli vytvořit žádost o podporu a získat klíče z podpory. Par
 
 4. Vyberte **nový požadavek** a pak vyberte **Office 365 a Enterprise Mobility Suite**.
 
-5. Přejdete na portál Office 365, kde se potřebujete přihlásit pomocí přihlašovacích údajů partnerského centra.
+5. Budete na portálu Office 365, kde se musíte přihlásit pomocí svých přihlašovacích Partnerské centrum účtu.
 
-6. V nabídce na levé straně vyberte **Podpora, nový požadavek služby** .
+6. V **nabídce vlevo vyberte Podpora,** Nová žádost o služby.
 
-7. V Support request zahrňte níže uvedené podrobnosti:
+7. Do následujícího seznamu Support request:
 
-- **Název:** Kód Product Key pro Windows 10 Home na Windows 10 pro upgrade vzdělávání
-- **Popis:** Vyžadování klíčů [insert number] pro povolení upgradu na vzdělávání s Windows 10. (Všimněte si, že počet požadovaných klíčů nesmí být větší než vaše Microsoft 365 licence k předplatnému Windows 10 Enterprise a3/a5.) ID předplatného zákazníka [vložit identifikátor GUID ID předplatného pro zákazníky pro svoje předplatné Microsoft 365 a3/a5 nebo Windows 10 Enterprise a3/a5.]
-- **Kontaktní číslo:** Tato akce bude předem vyplněna. Zkontrolujte a potvrďte nebo aktualizujte.
-- **E-mail:** Tato akce bude předem vyplněna a měla by se jednat o e-mail, který použijete jako správce portálu Microsoft (globální správce nebo správce fakturace).
-- **Preferovaný způsob kontaktu**: vyberte **telefon** nebo **Naplánujte zpětné volání**.
+- **Název:** Windows 10 Home upgradu Windows 10 Education kód Product Key
+- **Popis:** Vyžádání klíčů [insert number] pro povolení upgradu na Windows 10 Education. (Všimněte si, že požadovaný počet klíčů nesmí být větší než vaše licence předplatného Microsoft 365 A3/A5 nebo Windows 10 Enterprise předplatného A3/A5.) ID předplatného zákazníka [vložte GUID ID předplatného zákazníka pro Microsoft 365 předplatné A3/A5 nebo Windows 10 Enterprise předplatné A3/A5.]
+- **Kontaktní číslo:** Toto bude předem vyplněno. zkontrolujte, zda chcete tuto aktualizaci potvrdit nebo aktualizovat.
+- **E-mail:** Bude předem vyplněný a měl by to být e-mail, který používáte jako správce portálu Microsoft Portal (jenom globální správce nebo správce fakturace).
+- **Upřednostňovaný způsob kontaktování:** Zvolte **Telefon** nebo **Naplánovat volání zpět.**
 
-8. Vyberte **kontakt mi**. Očekávaná čekací doba je uvedena v podokně **Potřebuji Help?** .
+8. Vyberte **Kontaktujte mě.** Očekávaná doba čekání je uvedená v **podokně Potřebujete pomoc?**
 
-9. **Podpora Microsoftu** zkontroluje požadavek, aby zajistil, že zákazník bude vyhodnocen. Po schválení žádosti pošle partnerovi e-mail s pokyny, jak přistupovat ke klíčům.
+9. **Podpora Microsoftu** žádost zkontrolovat a zajistit, že zákazník splňuje požadavky. Po schválení žádosti odešle partnerovi e-mail s pokyny, jak získat přístup ke klíčům.
 
-10. **Partneři** sdílí klíče a další pokyny se svými zákazníky.
+10. **Partneři** sdílejí klíče a další pokyny se svými zákazníky.
 
-### <a name="customer-applies-the-upgrade"></a>Zákazník používá upgrade:
+### <a name="customer-applies-the-upgrade"></a>Zákazník upgradu použije:
 
-Pokud chcete upgradovat Windows 10 Home pomocí kódu Product Key pro Windows 10 pro vzdělávání, musí zákazník udělat toto:  
+Pokud Windows 10 Home pomocí Windows 10 Pro Education kód Product Key, musí zákazník provést následující akce:  
 
-1. Vyberte **Start** a pak vyberte **nastavení > aktualizovat & > aktivace**. Vyberte **změnit kód Product Key** a pak zadejte 25místný kód Product Key pro Windows 10 pro. Kliknutím na tlačítko **Další** zahájíte upgrade na Windows 10 pro.
+1. Vyberte **Start** a pak vyberte **Nastavení > Update & Security > Activation**. Vyberte **Změnit kód Product Key** a pak zadejte 25 znaků Windows 10 Pro Kód Product Key. Výběrem **možnosti** Další spusťte upgrade na Windows 10 Pro.
 
-2. Když je zařízení připojené k doméně tenanta (přes AAD), bude se zařízení automaticky upgradovat na vzdělávání s Windows 10.  
+2. Když je zařízení připojené k doméně tenanta (prostřednictvím AAD), automaticky se upgradune na Windows 10 Education.  
 
 ## <a name="frequently-asked-questions"></a>Nejčastější dotazy
 

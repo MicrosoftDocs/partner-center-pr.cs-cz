@@ -9,31 +9,24 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 1d8e59ea2d2e8d40163ea06b305845c37a356f16
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686292"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818656"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Řešení nezaplacení, podvodu nebo zneužití v Partnerském centru
 
-**Platí pro**
+**Platí pro**: Partnerské centrum | Partnerské centrum pro Microsoft Cloud for US Government
 
-- Partnerské centrum pro Microsoft Cloud for US Government
+**Odpovídající role:** Globální správce | Správce správy uživatelů | Agent pro správu | Správce fakturace
 
-**Odpovídající role**
-
-- Globální správce
-- Správce správy uživatelů
-- Agent pro správu
-- Správce fakturace
-
-Finančně zodpovídáte za podvodné nákupy ze strany zákazníků nebo zákazníků za nezaplacení zakoupených služeb. Proto důrazně *doporučujeme, abyste zasadili řízení* rizik před podvody a jejich odhalování.
+Finančně zodpovídáte za podvodné nákupy zákazníků nebo zákazníků za nezaplacení zakoupených služeb. Proto důrazně *doporučujeme, abyste zasadili řízení* rizik před podvody a jejich odhalování.
 
 Pokud se chcete vyhnout podvodným aktivitám nebo zneužití nebo je řešit, je důležité porozumět potenciálním rizikům a vyvinout zásady a postupy, které by snížily riziko ohrožení.
 
-## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Vynucování zásad přijatelného použití od Microsoftu
+## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Vynucení zásad přijatelného použití od Microsoftu
 
 Pokud Microsoft zjistí aktivitu partnera nebo zákazníka a potvrdí nebo se domnívá, že porušuje zásady přijatelného použití, podnikáme kroky pro vynucení. Zákazník může být okamžitě pozastavený. Microsoft vás upozorní na akce vynucení nebo aktualizuje na vaše žádosti.
 
@@ -50,7 +43,7 @@ Mezi příklady těchto porušení zásad přijatelného použití společnosti 
 - Distribuované útoky na odepření služeb (DDoS)
 - Bitcoin mining
 - Distribuce malwaru
-- Další prodej kradených předplatných
+- Znovu se chyste předplatná
 
 ## <a name="theft-of-service-risks"></a>Krádež rizik služeb
 
@@ -79,14 +72,14 @@ Návrhy na snížení rizik online při připojování nových zákazníků zahr
 - Během registrace použijte vícefaktorové ověřování (například ověření SMS), abyste minimalizovali vystavení automatickému vytváření a nákupu účtů.
 - Spravujte a sledujte identity pomocí služeb (třeba služeb Digital identity).
 - Vyhodnoťte finanční sílu zákazníka prostřednictvím přísných systémů pro detekci podvodných platebních karet.
-- Vytvořte zásadu jasných kolekcí. Podrobnosti o procesu kolekcí a o tom, kdy bude mít nezaplacení vliv na přístup k předplatným. (Můžete zakázat přístup nebo [pozastavit předplatná](create-a-new-subscription.md#suspend-a-subscription) zákazníka pro nezaplacení.)
+- Vytvořte zásadu zrušení kolekce. Podrobně popisuje proces kolekcí a to, kdy bude mít nezaplacení vliv na přístup k předplatným. (Můžete zakázat přístup nebo [pozastavit předplatná](create-a-new-subscription.md#suspend-a-subscription) zákazníka pro nezaplacení.)
 
 ### <a name="managing-customer-accounts"></a>Správa zákaznických účtů
 
 Mezi návrhy pro správu zákaznických účtů po nákupu patří:
 
 - Implementujte proces pro rychlé přijímání, reagování na oznámení Microsoftu, reagování na ně a jejich reagování.
-- Spolupracujte se zákazníky, abyste porozuměli firemním potřebám využívání cloudu při nastavení vhodných prahových hodnot monitorování. (Můžete například nastavit měsíční [rozpočet útraty Azure](set-an-azure-spending-budget-for-your-customers.md) v Partnerské centrum. Toto porozumění vám umožní monitorovat využití zákazníků v průběhu měsíce a být informováni, když se zákazníci blíží jejich rozpočtu.)
+- Spolupracujte se zákazníky, abyste porozuměli firemním potřebám využití cloudu a zároveň na nastavení vhodných prahových hodnot monitorování. (Můžete například nastavit měsíční [rozpočet útraty Azure](set-an-azure-spending-budget-for-your-customers.md) v Partnerské centrum. Toto porozumění vám umožní monitorovat využití zákazníků v průběhu měsíce a být informováni, když se zákazníci blíží jejich rozpočtu.)
 - Pravidelně [monitorujte protokoly aktivit zákazníků,](activity-logs.md) abyste podvody včas odhalovat.
 - Rychlá akce při zjištění podezřelých aktivit
 - Vyhněte se poskytování úplného přístupu pro správu k předplatným bez první implementace kontrol omezení rizik.

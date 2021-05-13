@@ -10,23 +10,18 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edc6469693e8dc8dcc93f9a4df66c9a232b29738
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 28fb6e9a963228f45a927089e0bb8ae3ecd452ff
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633671"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854532"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Přehled a nejčastější dotazy k aplikaci partner Center Analytics pro Power BI (přímé partnery v CSP)
 
 
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
-- Agent prodeje
-- Agent správce
+**Příslušné role**: globální správce | Správce správy uživatelů | Prodejní agent | Agent správce
 
 Získejte vizuální reprezentaci obchodních dat pomocí aplikace Datacenter Center Analytics pro Power BI. Aplikace navržená pro přímé partnery v programu Cloud Solution Provider (CSP) se připojí ke známému Power BI Frameworku.
 
@@ -66,4 +61,4 @@ Doporučujeme, abyste si před instalací aplikace proložili odpovědi na nejč
 
 [Instalace a vyzkoušení aplikace Analýzy v Partnerském centru pro Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
 
-[Zobrazení obchodních dat pomocí aplikace Datacenter Center Analytics pro Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Zobrazení obchodních dat pomocí aplikace Partnerské centrum Analytics pro Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

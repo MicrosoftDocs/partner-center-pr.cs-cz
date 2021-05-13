@@ -1,39 +1,34 @@
 ---
-title: Přístup na základě role v partnerském centru – přehled
+title: Partnerské centrum Insights na základě role
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si o konkrétních rolích potřebných pro zobrazení sestav služby partner Center Insights. Patří mezi ně role manažera sestav a Prohlížeč sestav.
+description: Přečtěte si o konkrétních rolích potřebných k zobrazení Partnerské centrum Insights. Patří mezi ně role Executive Report Viewer (Prohlížeč sestav vedoucího pracovníka) a Report Viewer (Prohlížeč sestav).
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 803c299311f129c4842a92a27abd9b9addb49f17
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120779"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854430"
 ---
-# <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Řízení přístupu na základě role na řídicí panel přehledů partnerského centra Insights
+# <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Řízení přístupu na základě role k řídicímu panelu Partnerské centrum Insights
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Agent správy | Prohlížeč sestav | Prohlížeč výkonných sestav
 
-- Globální správce
-- Agent správce
-- Prohlížeč sestav
-- Prohlížeč sestav Executive
+Řídicí panel Přehledy používá dvě nové role v Partnerské centrum ke správě přístupu zaměstnanců k sestavám – Executive Report Viewer a Report Viewer.  Uživatelé v roli Executive Report Viewer mají přístup ke všem datovým sadám sestav, zatímco uživatelé s rolí Prohlížeče sestav nebudou mít přístup k citlivým datovým sadám, jako jsou výnosy a osobní údaje zákazníků a zaměstnanců.  
 
-Řídicí panel Insights používá dvě nové role v partnerském centru ke správě přístupu zaměstnanců do sestav – manažer sestav pro sestavy a Prohlížeč sestav.  Uživatelé v roli manažer sestav vedoucí mají přístup ke všem datovým sadám pro vytváření sestav, zatímco uživatelé v roli prohlížeče sestav nebudou mít přístup k citlivým datovým sadám, jako jsou výnosy a osobní údaje zákazníka/zaměstnance.  
+Stejně jako u Partnerské centrum rolí bude moct globální správce nebo správce účtu přiřazovat uživatelům tyto role na stránce Správa uživatelů. Role je možné použít pro celou společnost nebo pro konkrétní umístění MPN. Role přiřazené pro konkrétní umístění MPN omezují uživatele na zobrazení dat vytváření sestav přidružených pouze k vybraným umístěním MPN. Partner může v následujícím zobrazení vybrat jedno nebo více umístění.
 
-Stejně jako u jiných rolí partnerského centra bude globální správce nebo správce účtu moct uživatelům přiřadit tyto role na stránce správy uživatelů. Role lze použít napříč celou společností nebo pro konkrétní umístění programu MPN. Role přiřazené konkrétním místům MPN omezují uživateli zobrazení dat vytváření sestav pouze s vybranými místy programu MPN. Partner může z následujícího zobrazení vybrat jedno nebo více umístění.
-
-:::image type="content" source="images/pci/roles.png" alt-text="Zobrazuje nastavení rolí partnerského centra pro konkrétní umístění pro Prohlížeč sestav a Prohlížeč sestav pro manažery.":::
+:::image type="content" source="images/pci/roles.png" alt-text="Zobrazuje nastavení rolí přehledů Partnerské centrum pro prohlížeč sestav a prohlížeč sestav Executive pro konkrétní umístění.":::
 
 >[!Note]
-> Uživatelé, kteří jsou správci programu MPN od 20. ledna 2020, jsou automaticky přidáni do role správce **sestav vedoucího** pro celou firmu pro všechna umístění tohoto tenanta. Tito uživatelé tak mají přístup k sestavám jako vedoucí v prohlížeči sestav, aniž by museli provádět explicitní akce, kterou vyžaduje správce globálního správce nebo účtu. Správci globálních správců a účtů můžou k dalšímu zvýšení nebo omezení schopností potlačit automaticky přiřazené role těchto uživatelů.
+> Uživatelé, kteří jsou od 20. ledna 2020 správci PROGRAMU MPN, se automaticky přidávají do role Executive **Report Viewer** pro všechna umístění pro tohoto tenanta. Tito uživatelé tak mají přístup k sestavě jako prohlížeč výkonných sestav bez explicitní akce, kterou vyžaduje globální správce nebo správce účtu. Globální správci a správci účtů mohou potlačit automaticky přiřazené role těchto uživatelů, aby se jejich možnosti dále zvýšily nebo omezily.
 
 ## <a name="next-steps"></a>Další kroky
 
-- Přečtěte si další informace o [přehledech partnerského centra](partner-center-insights.md) a o různých sestavách.
+- Další informace o [Partnerské centrum Insights](partner-center-insights.md) a jejích různých sestavách.

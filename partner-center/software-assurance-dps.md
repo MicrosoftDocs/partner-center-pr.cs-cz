@@ -1,71 +1,68 @@
 ---
-title: Vyřazení služby Software Assurance pro Plánovací služby
+title: Software Assurance planning services vyřazení služeb plánování
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Probíhá vyřazení služeb Microsoft Planning Services.
+description: Služba Microsoft Planning Services se vyřazena z provozu.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 8d5154ad63066cb9d1d3eda8cf78fc059217ca99
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266499"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854787"
 ---
-# <a name="software-assurance-planning-services-retirement"></a>Vyřazení služby Software Assurance pro Plánovací služby
+# <a name="software-assurance-planning-services-retirement"></a>Software Assurance planning services vyřazení služeb plánování
 
-**Příslušné role**
-
-- Globální správce
-- Správce partnera MPN
+**Odpovídající role:** Globální správce | Správce partnera MPN
 
 
-Plánování služeb je plně vyřazeno od výhod programu Software Assurance, ale zákazníci mohou i nadále pracovat s partnery, aby používali dny služby plánování pro zapojení, zatímco jsou doklady platné. Jedná se o významná data, která vedou k vyřazení programu: 
+Služby plánování se z výhod Software Assurance úplně vyřazené, ale zákazníci mohou i nadále pracovat s partnery, aby během platnosti poukazů mohli využít pracovní dny služby plánování. Toto jsou významná data vedoucí k vyřazení programu z programu: 
 
-- 1. února 2020: plánovací služby Cloud Engagement byly vyřazeny.  
-- 1. února 2020: školicí doklady se už nedají převést na dny plánování služeb.  
-- 1. února 2021: zákazníci už neplánují výhody plánování služeb. 
-- 30. června 2021: poslední den pro zákazníky, kteří si můžou vytvořit nebo přiřadit doklady pro Plánovací služby. Všechny zbývající dny plánovací služby se odeberou od 1. července 2021.
-- 1. ledna 2022: poslední den pro partnery pro uplatnění dokladů plánovací služby. Pro dokončení procesu žádosti o platbu bude mít partner 60 dní po uplatnění.  
+- 1. února 2020: Zapojení služeb plánování do cloudu bylo vyřazeno.  
+- 1. února 2020: Poukazy na školení už není možné převést na dny služeb plánování.  
+- 1. února 2021: Zákazníkům se už nečtou výhody služby Planning Services. 
+- 30. června 2021: Poslední den, kdy zákazníci mohou vytvářet/přiřazovat poukazy na plánovací služby. Všechny zbývající dny plánovacích služeb budou odebrány 1. července 2021.
+- 1. ledna 2022: Poslední den pro partnery, kteří mohou uplatnit poukazy na služby Planning Services. Partner bude mít 60 dnů od uplatnění k dokončení procesu žádosti o platbu.  
 
 >[!NOTE]
->Životní cyklus dokladů se nemění. Jakmile se doklad vytvoří nebo přiřadí, rezervace dokladů, zapojení zákazníka a uplatnění dokladu musí být dokončené do 180 dnů před vypršením platnosti dokladu.  Další informace o vyřazení programu ze služby Planning Services najdete v nejčastějších dotazech, které najdete [tady](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (vyžaduje se přihlášení).  Nasměrujte prosím všechny otázky na tým podpory pro regionální partnery: [Podpora partnerů EMEA](mailto:savoucher@msdirectservices.com); [Podpora pro obecné partnery](https://partner.microsoft.com/dashboard/support/servicerequests)
+>Životní cyklus poukazu se nemění. Po vytvoření nebo přiřazení poukazu je nutné do 180 dnů před vypršením platnosti poukazu dokončit rezervaci poukazu, zapojení zákazníků a uplatnění poukazu.  Další informace o vyřazení programu Planning [](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) Services najdete v nejčastějších dotazech, které najdete tady (vyžaduje se přihlášení).  V případě jakýchkoli dotazů se obraťte na tým podpory partnerů v oblasti: Podpora [partnerů EMEA;](mailto:savoucher@msdirectservices.com) [Obecná podpora partnerů](https://partner.microsoft.com/dashboard/support/servicerequests)
 
 
 ### <a name="get-started"></a>Začínáme
 
-Pokud se službou Software Assurance pro plánování začínáte, postupujte podle následujících kroků. Pokud už jste v rámci programu pro plánování služby aktivní, zahajte každou novou rezervaci v kroku 4 (4) níže.
+Pokud s plánováním služeb Software Assurance, postupujte podle následujících kroků. Pokud už jste v programu Plánovací služby aktivní, zahajte každé nové zapojení ve čtvrtém (4) kroku níže.
 
 1. Ověření způsobilosti (noví partneři)
-2. Registrovat (noví partneři)
-3. Vytvořit nebo aktualizovat obchodní profil vaší společnosti (noví partneři)
-4. Zákazník vytvoří a přiřadí doklad (stávající partneři)
-5. Ověřit a rezervovat doklad (existující partneři)
-6. Kompletní zapojení a poskytování dodávek vašemu zákazníkovi (stávající partneři)
-7. Uplatnit doklad v partnerském centru (stávající partneři)
-8. Požádat o platbu od Microsoftu (stávající partneři)
+2. Registrace (noví partneři)
+3. Vytvoření nebo aktualizace obchodního profilu vaší společnosti (noví partneři)
+4. Zákazník vytvoří a přiřadí poukaz (stávající partneři).
+5. Poukaz na ověření a rezervaci (stávající partneři)
+6. Kompletní zapojení a poskytování dodávek zákazníkům (stávajícím partnerům)
+7. Uplatnit poukaz na Partnerské centrum (stávající partneři)
+8. Žádost o platbu od Microsoftu (stávající partneři)
 
-Tento článek vysvětluje, jak tento krok provést.
+Tento článek vysvětluje, jak dokončit jednotlivé kroky.
 
 ## <a name="verify-eligibility-new-partners"></a>Ověření způsobilosti (noví partneři)
 
-Předtím, než se můžou partnerské společnosti a konzultanti zaregistrovat v rámci nabídek služeb plánování, musí splňovat požadavky na kompetenci, a to takto:
+Aby se partnerské společnosti a konzultanti mohli zaregistrovat do jedné z nabídek služeb plánování, musí splňovat požadavky na kompetence následujícím způsobem:
 
-**Požadavky na kompetenci.** Požadavky na kompetenci jsou specifické pro doručení zapojení. Například vaše společnost může být zaregistrovaná v nabídce služby plánování nasazení desktopu (DDPS). Budete ale mít nárok jenom na poskytování konkrétního zapojení v rámci nabídky DDPS, pokud vaše společnost má také opravňující kompetenci pro tuto konkrétní zapojení.
+**Požadavky na kompetence.** Požadavky na kompetence jsou specifické pro zapojení, které se má doručit. Vaše společnost může být například zaregistrovaná v nabídku Služby plánování nasazení plochy (DDPS). Nárok na zajištění konkrétního zapojení v rámci nabídky DDPS ale budete mít jen v případě, že vaše společnost má také kvalifikující kompetence pro toto konkrétní zapojení.
 
 >[!NOTE]
-> Další informace o požadavcích na způsobilost pro konkrétní zapojení najdete v [požadavcích na způsobilost pro zapojení služeb plánování](software-assurance-dps-requirements.md).
+> Další informace o požadavcích na způsobilost pro konkrétní zapojení najdete v článku o požadavcích na způsobilost [pro zapojení služeb plánování.](software-assurance-dps-requirements.md)
 
-Abychom mohli ověřit, jestli má vaše společnost nárok na registraci konkrétního zapojení služeb pro plánování:
+Pomoc s ověřením způsobilosti vaší společnosti k registraci do konkrétního zapojení služeb plánování:
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard/home)partnerského centra.
-2. V nabídce vyberte **MPN** a pak vyberte **programy**.
-3. Vyberte **registrace Software Assurance**.
-4. V horní části stránky vyberte kartu **Registrace programu plánovací služby** . Vedle všech požadavků nebo kompetencí, které jste již dokončili, se zobrazí zelená značka zaškrtnutí.
+1. Přihlaste se k řídicímu [Partnerské centrum.](https://partner.microsoft.com/dashboard/home)
+2. V **nabídce vyberte MPN** a pak **programy.**
+3. Vyberte **Registrace Software Assurance.**
+4. V horní části stránky vyberte kartu Registrace programu Planning **Services.** Vedle všech požadavků nebo kompetencí, které jste již dokončili, se zobrazí zelená značka zaškrtnutí.
 
 ## <a name="enroll-new-partners"></a>Registrovat (noví partneři)
 
@@ -95,25 +92,25 @@ Když máte podrobnosti o dokladu, můžete si ho rezervovat a naplánovat zapoj
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Kompletní zapojení a poskytování dodávek vašemu zákazníkovi (stávající partneři)
 
-Aby bylo možné doručovat zapojení služby Planning Services, konzultant musí dokončit jedno nebo více technických posouzení nebo zkoušek potřebných pro kompetenci opravňující v rámci zapojení. (Další informace o vyhodnocování nebo požadovaných zkoušek najdete v požadavcích na [způsobilost pro zapojení služeb plánování](software-assurance-dps-requirements.md).)
+Aby konzultant mohl mít nárok na zajištění zapojení služeb plánování, musí dokončit jedno nebo více technických hodnocení nebo zkoušek požadovaných pro kvalifikující kompetence zapojení. (Další informace o požadovaných posouzeních nebo zkouškách najdete v požadavcích na způsobilost pro zapojení [služeb](software-assurance-dps-requirements.md)plánování.)
 
-Poté, co vaše společnost dokončí zapojení a poskytne konečné, dokončené dodání pro zákazníka, je nutné vyplnit a odeslat zprávu o dokončení online.
+Jakmile vaše společnost dokončí spolupráci a zákazníkovi poskytla konečné a dokončené dodávky, musíte vyplnit a odeslat online sestavu dokončení.
 
-Podrobné pokyny najdete v [kroku 6](https://go.microsoft.com/fwlink/?linkid=2115983) pracovního postupu.
+Podrobné pokyny najdete v kroku [6](https://go.microsoft.com/fwlink/?linkid=2115983) pracovního postupu.
 
-## <a name="redeem-voucher"></a>Uplatnit doklad
+## <a name="redeem-voucher"></a>Uplatnit poukaz
 
-Předtím, než budete moci fakturovat Microsoftu za doručenou rezervaci, musíte nejdřív uplatnit svůj doklad. Podrobné pokyny najdete v [kroku 7](https://go.microsoft.com/fwlink/?linkid=2115983) pracovního postupu.
+Před fakturou Microsoftu za doručenou platbu za zapojení musíte nejprve uplatnit poukaz. Podrobné pokyny najdete v kroku [7](https://go.microsoft.com/fwlink/?linkid=2115983) pracovního postupu.
 
-## <a name="request-payment-from-microsoft-existing-partners"></a>Požádat o platbu od Microsoftu (stávající partneři)
+## <a name="request-payment-from-microsoft-existing-partners"></a>Žádost o platbu od Microsoftu (stávající partneři)
 
-Po uplatnění dokladů pro plánování služeb musíte Microsoft fakturovat za platby. Platby jsou zpracovávány prostřednictvím online platebního nástroje pro zvýhodnění SAVB (Software Assurance doklad).
+Po uplatnění poukazů na plánovací služby musíte Microsoft fakturovat za platbu. Platby se zpracovávají prostřednictvím online platebního Software Assurance SAVB (Online Payment Tool).
 
-Pokud chcete odeslat fakturu Microsoftu prostřednictvím SAVB, postupujte podle pokynů v [kroku 8](https://go.microsoft.com/fwlink/?linkid=2115983) pracovního postupu.
+Pokud chcete Microsoftu odeslat fakturu prostřednictvím SAVB, postupujte podle pokynů v [kroku 8](https://go.microsoft.com/fwlink/?linkid=2115983) pracovního postupu.
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Pracovní postup služby Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2115983)
-- [Služby Software Assurance pro plánování služeb – Nejčastější dotazy](https://go.microsoft.com/fwlink/?linkid=2116077)
-- [Zásady služby Software Assurance pro plánování služeb](https://go.microsoft.com/fwlink/?linkid=2115984)
-- [Vyřazení služby Software Assurance pro plánování rezervací](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
+- [Software Assurance pracovního postupu služby Plánování](https://go.microsoft.com/fwlink/?linkid=2115983)
+- [Software Assurance nejčastější dotazy ke službám plánování](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [Software Assurance planning services](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Software Assurance o vyřazení služeb plánování](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

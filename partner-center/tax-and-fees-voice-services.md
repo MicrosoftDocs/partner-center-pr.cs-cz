@@ -7,20 +7,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441485"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854719"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Regionální daně, předpisy pro služby PTSN (Public Switched Telephone Network)
 
-**Příslušné role**
-
-- Globální správce
-- Správce uživatelů
-- Agent správce
+**Příslušné role**: globální správce | Správce uživatelů | Agent správce
 
 Služby veřejné komutované telefonní sítě (PSTN) v některých jurisdikcích mohou podléhat zvláštním daňovým a zákonným požadavkům, které mohou ovlivnit pořadí a fakturace partnerských serverů. V USA, včetně Portoriko, služeb PSTN, které zahrnují zvukové konference, volání plánů a komunikační kredity, se vztahují speciální daňové a zákonné požadavky. V USA a Portoriko jsou služby Microsoft cenami PSTN jako daně včetně.  Jedinečné daně a předpisy v PSTN budou mít vliv na partnery Office 365, kteří se Microsoft 365 hlasové produkty.  Pokud partner uvede cenu služby PSTN společnosti Microsoft, může být zodpovědná za výpočet a přesměrování daní a poplatků v síti PSTN.
 
@@ -34,13 +30,13 @@ Soubory faktur CSP a odsouhlasení CSP v USA, Portoriko a Kanadě, které zahrnu
 
 Ve fakturách CSP se navíc zobrazí následující poznámka pod čarou:
 
-* Zobrazená cena je poplatek za službu audio Conferencing a službu pro plánování volání.  Jakékoli použitelné transakční daně se účtují výhradně na zobrazené množství, s výjimkou prodejů provedených v rámci USA.  V USA je zobrazená cena DPH včetně poplatků za volání plánu a služeb zvukové konference a poplatků za daně a poplatky, které se musí účtovat.  Služby zvukového konferenčního a služeb pro naplánování se účtují podle afilace společnosti Microsoft autorizované k jejich poskytování.  Podrobnosti najdete v [multilicenčním programu společnosti Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247).
+* Zobrazená cena je poplatek za službu audio Conferencing a službu pro plánování volání.  Jakékoli použitelné transakční daně se účtují výhradně na zobrazené množství, s výjimkou prodejů provedených v rámci USA.  V USA je zobrazená cena DPH včetně poplatků za volání plánu a služeb zvukové konference a poplatků za daně a poplatky, které se musí účtovat.  Služba audiokonference a služby volajícího plánu zajišťuje přidružená společnost Microsoft, která je oprávněna je poskytnout.  Podrobnosti najdete v [multilicenčním programu společnosti Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247).
 
-## <a name="reconciliation-file-example"></a>Příklad souboru pro odsouhlasení
+## <a name="reconciliation-file-example"></a>Příklad souboru s vyrovnáním
 
-Office 365 Enterprise E5 prezentuje soubor pro odsouhlasení jako dvě řádkové položky se stejnými názvy a stejnými ID, ale každá položka řádku má jedinečnou jednotkovou cenu (například: $28,40 a $2,00). Tím se oddělí komponenta konferenčních konferencí Skypu pro firmy v rámci nabídky Office 365, takže můžete správně použít daně.
+Office 365 Enterprise E5 se v souboru s vyrovnáním prezentuje jako dvě řádkové položky se stejnými názvy a identickými ID, ale každá položka řádku má jedinečnou jednotkovou cenu (například 28,40 USD a 2,00 USD). Tím se oddělí komponentakonferenční složka skype pro firmy– konference v síti PSTN v nabídce Office 365, abyste mohli správně uplatnit daně.
 
-**Příklady odsouhlasení partnerů #1 (výběr sloupců):**
+**Příklad odsouhlasení partnerů #1 (vybrané sloupce):**
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|

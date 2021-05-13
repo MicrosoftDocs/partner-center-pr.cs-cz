@@ -1,48 +1,45 @@
 ---
-title: Řídicí panel školení pro přehledy
+title: Řídicí panel pro trénování přehledů
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Prozkoumejte řídicí panel školení pro partnerské Centrum. Školení je jedna ze sestav, které jsou k dispozici v oblasti služby partner Center Insights (PCI).
+description: Prozkoumejte Partnerské centrum trénování. Školení je jedna ze sestav dostupných v oblasti Partnerské centrum Insights (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086239"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854549"
 ---
-# <a name="trainings-dashboard"></a>Řídicí panel školení
+# <a name="trainings-dashboard"></a>Řídicí panel Trénování
 
-**Příslušné role**
+**Odpovídající role:** Prohlížeč sestav executive | Prohlížeč sestav
 
-- Prohlížeč sestav Executive
-- Prohlížeč sestav
-
-Řídicí panel školení poskytuje přehled o certifikaci, posouzení a prošetřeních, která vaše společnost zaměstnane zaměstnanci. Řídicí panel školení obsahuje následující oddíly:
+Řídicí panel Školení poskytuje přehled o certifikacích, hodnoceních a zkoumáních provedených vaší společností zaměstnanců společnosti. Řídicí panel Trénování obsahuje následující části:
 
 - Souhrn
-- Rozdělení výkonu na základě certifikace, posouzení, zkoušek
-- Jednotlivci podle přihlašovacích údajů, jako jsou certifikace, posouzení, zkoušky
+- Výkon školení rozdělený podle certifikací, hodnocení, zkoušek
+- Jednotlivci podle přihlašovacích údajů, jako jsou certifikace, hodnocení, zkoušky
 - Podrobnosti o aktivitách
 
 >[!NOTE] 
->Tato sestava je k dispozici v centru Insights v partnerském centru. Chcete-li zobrazit tuto sestavu, měla by být přiřazena role prohlížeče sestav nebo vedoucího prohlížeče sestav. Některé části této sestavy budou viditelné pouze pro uživatele, kteří jsou správci sestav pro vedení. Další informace o řízení přístupu pro sestavy Insights najdete v tématu [role PCI](pci-roles.md).
+>Tato sestava je dostupná v centru Přehledy v Partnerské centrum. Pokud chcete tuto sestavu zobrazit, měli byste mít přiřazenou roli Prohlížeče sestav nebo Prohlížeče výkonných sestav. Několik částí této sestavy bude viditelných jenom pro uživatele, kteří jsou diváky výkonných sestav. Další informace týkající se řízení přístupu pro sestavy Přehledy najdete v tématu Role [PCI.](pci-roles.md)
 
 ## <a name="summary"></a>Souhrn
 
-V části Souhrn se zobrazuje číselná zobrazení snímků různých ukazatelů výkonu, které souvisejí s vašimi kurzy. Různé ukazatele výkonu jsou certifikované jednotlivci, certifikace, jednotlivci s přihlašovacími údaji, přihlašovací údaje pro zkoušku, jednotlivci a pověření pro vyhodnocení a přihlašovací údaje pro vyhodnocení. Data v této části se aktualizují v závislosti na vybraném časovém rozsahu, který může být tři měsíce (3M), šest měsíců (6 min) a 12 měsíců (1Y) nebo vlastní rozsah dat (vlastní). 
+Souhrnná část představuje číselný snímek různých ukazatelů výkonu souvisejících s vašimi trénováními. Různými ukazateli výkonu jsou certifikovaní jednotlivci, certifikace, jednotlivci s přihlašovacími údaji ke zkouškám, pověření zkoušky, jednotlivci s přihlašovacími údaji pro posouzení a přihlašovací údaje pro posouzení. Data v této části se aktualizují na základě vybraného rozsahu dat, což mohou být tři měsíce (3 m), šest měsíců (6 m) a 12 měsíců (1Y) nebo vlastní rozsah dat (Vlastní). 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Souhrn":::
 
-- **Jednotlivci s certifikací**: představuje počet různých jednotlivců s certifikací ve vaší společnosti.
-- **Počet certifikace**: představuje celkový počet certifikace, které jednotliví uživatelé ve vaší společnosti mají.
-- **Jednotlivci s posouzením**: představuje počet různých jednotlivců s pověřením pro vyhodnocení ve vaší společnosti. 
-- **Počet posouzení**: představuje celkový počet hodnocení provedených jednotlivci ve vaší společnosti.
+- **Jednotlivci s certifikacemi:** představuje počet jedinečných jednotlivců s certifikacemi ve vaší společnosti.
+- **Počet certifikací:** představuje celkový počet certifikací pořízených jednotlivci ve vaší společnosti.
+- **Osoby s posouzeními:** představuje počet jedinečných jednotlivců s přihlašovacími údaji pro posouzení ve vaší společnosti. 
+- **Assessments count**(Počet posouzení): Představuje celkový počet posouzení pořízených jednotlivci ve vaší společnosti.
 - **Jednotlivci s testy**: představuje počet různých jednotlivců s pověřením pro kontrolu ve vaší společnosti. 
 - **Počet testů**: představuje celkový počet testů pořízených jednotlivci ve vaší společnosti.
 

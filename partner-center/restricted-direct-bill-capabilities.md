@@ -9,18 +9,16 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018063"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855484"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Omezené možnosti přímého vyúčtování a požadavky, které jsou potřeba pro partnery poskytovatele CSP Direct
 
-**Příslušné role**
-
-- Globální správce
+**Příslušné role**: globální správce
 
 ## <a name="overview"></a>Přehled
 
@@ -53,31 +51,31 @@ Pokud jsou možnosti přímých faktur omezené, nebudete už moct zákazníkům
 
 - Vytvořte jednorázové nákupy softwaru a rezervací produktů (například odběry softwaru, trvalého softwaru a instance rezervovaných virtuálních počítačů Azure).
 
-V rámci programu CSP nemůžete použít [nabídku Azure partner Shared Services](shared-services.md) k nákupu nových předplatných Azure pro vlastní použití.
+Nemůžete také využít nabídku [sdílených služeb](shared-services.md) partnerů Azure v rámci programu CSP k nákupu nových předplatných Azure pro vlastní použití.
 
-Existujícím předplatným přímých fakturování nejsou ovlivněny. Zůstávají platné a jsou automaticky obnovovány. Společnost Microsoft bude nadále účtována přímo, dokud nebudou zrušeny. Stávající odběry můžete spravovat následujícími způsoby:
+Stávající předplatná s přímým vyúčtováním nejsou ovlivněná. Zůstanou platné a automaticky se obnovují. Microsoft vám bude dál účtovat fakturu, dokud je nezrušíte. Stávající předplatná můžete spravovat následujícími způsoby:
 
-- Pozastavit existující předplatná
+- Pozastavení stávajících předplatných
 
-- Upravit počet licencí stávajících předplatných založených na licencích
+- Úprava počtu licencí u stávajících předplatných založených na licencích
 
-- Upravte počet licencí existujících doplňků v předplatném. 
+- Upravte počet licencí stávajících doplňků k předplatnému. 
 
     >[!Note]
-    >Do stávajících předplatných nemůžete přidávat nové doplňky, protože se považují za nové nákupy.
+    >K existujícím předplatným nemůžete přidávat nové doplňky, protože se s nimi zachází jako s novým nákupem.
 
-- Nasaďte nové prostředky Azure a spravujte stávající prostředky Azure v rámci stávajících předplatných Azure. To zahrnuje prostředky, které jsou k dispozici prostřednictvím Azure Marketplace a předplatných sady Visual Studio.
+- Nasaďte nové prostředky Azure a spravujte stávající prostředky Azure v rámci stávajících předplatných Azure. To zahrnuje prostředky, které jsou k dispozici prostřednictvím Azure Marketplace a Visual Studio předplatných.
 
-Kromě nových nákupů nemůžete získat přístup k následujícím možnostem přímého vyúčtování v partnerském centru:
+Kromě nových nákupů nemůžete získat přístup k následujícím funkcím přímého vyúčtování v Partnerské centrum:
 
-- Nemůžete vytvářet nové klienty zákazníka. Možnost **vytvořit zákazníka** na stránce **zákazníci** v partnerském centru nebude k dispozici.
+- Nemůžete vytvářet nové tenanty zákazníků. Možnost **Vytvořit zákazníka** na stránce **Zákazníci** v Partnerské centrum nebude dostupná.
 
-- Nemůžete vygenerovat pozvánku pro zákazníka žádajícího o přímý vztah prodejce. Možnost **požadavek na vztah prodejce** na stránce **zákazníci** v partnerském centru nebude k dispozici.
+- Nemůžete vygenerovat pozvánku pro zákazníka, který žádá o vztah přímého prodejce. Možnost **Požádat o vztah prodejce** na **stránce** Zákazníci v Partnerské centrum nebude dostupná.
 
     >[!NOTE]
-    >V rámci přechodu z přímého poštovního partnera na nepřímý prodejce, pokud jste už zaregistrovali svého tenanta partnera pro fakturaci jako nepřímý prodejce, můžete místo toho vygenerovat pozvánku pro zákazníka žádajícího o nepřímý vztah prodejců.
+    >Pokud jste v rámci přechodu z partnera s přímým vyúčtováním na nepřímého prodejce už zaregistrovali tenanta partnera s přímým vyúčtováním jako nepřímý prodejce, můžete místo toho vygenerovat pozvánku pro zákazníka, který žádá o vztah nepřímého prodejce.
 
-- Nemůžete vytvořit nového tenanta izolovaného prostoru (sandbox). Každý partnerský partner s přímým přístupem může vytvořit jednoho tenanta izolovaného prostoru (sandbox) pro přímou integraci služby API. Pokud jste to ještě nevytvořili, nebudete se moct tak učinit, až se vám bude omezovat vaše přímá funkce pro partnery z poštovního účtu.  
+- Nemůžete vytvořit nového tenanta sandboxu. Každý tenant partnera s přímým vyúčtováním může vytvořit jednoho tenanta sandboxu pro integraci rozhraní API s přímým vyúčtováním. Pokud jste si ho ještě nevytá vytvořili, po omezení možností partnera s přímým vyúčtováním to nebude možné.  
 
 ## <a name="next-steps"></a>Další kroky
 

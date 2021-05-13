@@ -9,19 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9c85ff428fd6ffb6ced38be16f4bd163c2b0b548
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086868"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855212"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Insights – Nejčastější dotazy
 
-**Příslušné role**
-
-- Prohlížeč sestav
-- Prohlížeč sestav Executive
+**Příslušné role**: Prohlížeč sestav | Prohlížeč sestav Executive
 
 Tento článek popisuje známé problémy pro zobrazení nebo vykreslování sestav přidružených k Insights.
 
@@ -41,18 +38,18 @@ Otázka) **země uvedená pro zákazníka pravděpodobně není správná. Proč
 
 A) zákaznická země je odvozena od země globální nadřazené organizace tohoto zákazníka. Tato země se může lišit od země zákazníka, se kterou jste se mohli vyřizovat transakce. Proto se může stát, že se země hlášené zákazníky liší od toho, co očekáváte.
 
-Dotaz) **v sestavách je zakódováno několik názvů zákazníků. Očekává se?**
+Otázka: V sestavách je zahlceno několik **jmen zákazníků. Je to očekávané?**
 
-A) názvy zákazníků jsou pro určitá předplatná zakódovány z důvodu dodržování předpisů. Zákazník TPID je ale k dispozici a můžete ho použít k vyhledání názvů zákazníků.
+A) Názvy zákazníků jsou pro určitá předplatná z důvodu dodržování předpisů zahlcené. K dispozici je však TPID zákazníka a můžete z něj použít vyhledávání jmen zákazníků.
 
-Dotaz) **Jaká je obvyklá latence sestavování?**
+Otázka: **Jaká je typická latence sestav?**
 
-A) předplatná a zákaznická data se aktualizují každý den a data se oznamují s latencí v týdnu. Data o využití Azure se hlásí s latencí v jednom týdnu. Data o využití Office 365, týmů, Dynamic365, EMS a Power BI se nahlásí s jednou měsícovou latencí.
+A) Data předplatných a zákazníků se aktualizují každý den a data se hlásí s týdenní latencí. Data o využití Azure se hlásí s týdenní latencí. Data o využití Office 365, Teams, Dynamic365, EMS a Power BI se hlásí s latencí za jeden měsíc.
 
-Dotaz) sestavy nejsou vykreslovat **v aplikaci Internet Explorer – je očekáváno?**
+Otázka: **Sestavy se nevykresluje v Internet Explorer – je to očekávané?**
 
-A) sestavy obsahují problémy vykreslování v aplikaci Internet Explorer. Dobře fungují s Microsoft Edge a dalšími prohlížeči.
+A) Sestavy mají problémy s vykreslováním Internet Explorer. Fungují dobře s Microsoft Edge a dalšími prohlížeči.
 
 **Další kroky**
 
-- Přečtěte si další informace o [službě partner Center – přehled](partner-center-insights.md).
+- Další informace o [Partnerské centrum Insights.](partner-center-insights.md)

@@ -8,21 +8,16 @@ description: Podívejte se, co dobře děláte, a kde můžete vylepšit využí
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086715"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855178"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití týmů dostupná na řídicím panelu přehledů partnerského centra
 
-**Příslušné role**
-
-- Globální správce
-- Agent správce
-- Prohlížeč sestav
-- Prohlížeč sestav Executive
+**Příslušné role**: globální správce | Agent správce | Prohlížeč sestav | Prohlížeč sestav Executive
 
 Sestava využití týmů prezentuje metriky související s úlohami vašich týmů, které jste prodali nebo spravovali pro vaše zákazníky. Následující části můžete zobrazit v sestavě využití týmů.
 
@@ -52,24 +47,24 @@ V části Souhrn najdete zobrazení snímků klíčových ukazatelů souvisejíc
 
 ## <a name="conversations-trend"></a>Trend konverzací
 
-Sestava trendu konverzací zobrazuje měsíční trend setkání týmů, volání a telefonní systémy spolu s průměrnou dobou trvání schůzky v řádu minut.
+Sestava trendu konverzací ukazuje měsíční trend schůzek, hovorů a telefonních systémů Teams a průměrnou dobu trvání schůzky v minutách.
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="týmy využití trendů konverzací":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="trendy konverzace využití teams":::
 
-## <a name="teams-usage-by-workloads"></a>Využití týmů podle úloh
+## <a name="teams-usage-by-workloads"></a>Využití Teams podle úloh
 
-Sestava využití týmů podle úloh ukazuje měsíční rozdělení stolních, mobilních a webových uživatelů týmů rozdělených podle úloh.
+Sestava Využití Teams podle úloh ukazuje měsíční rozdělení desktopových, mobilních a webových uživatelů Teams rozdělených podle úloh.
 
-:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Využití týmů podle úloh":::
+:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Využití Teams podle úloh":::
 
-## <a name="top-customers-by-usage"></a>Hlavní zákazníci podle využití
+## <a name="top-customers-by-usage"></a>Nejčtení zákazníci podle využití
 
-Sestava hlavní zákazníci podle využití zobrazuje využití hlavních zákazníků pro týmy, hovory a telefonní systémy a aplikace třetích stran.
+Sestava Top customers by usage (Hlavní zákazníci podle využití) ukazuje využití špičkových zákazníků pro schůzky, hovory, telefonní systémy a aplikace třetích stran.
 
-:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Hlavní zákazníci podle využití":::
+:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Nejčtení zákazníci podle využití":::
 
 ## <a name="next-steps"></a>Další kroky
 
-- Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).
+- Další sestavy najdete v tématu [Partnerské centrum Insights.](partner-center-insights.md)
 
-- Nezpracovaných dat v této sestavě si můžete stáhnout z oddílu stažení sestav na řídicím panelu Insights. [Další informace](pci-download-reports.md) 
+- Nezpracovaná data pohánějící tuto sestavu si můžete stáhnout z části Stažení sestav na řídicím panelu Přehledy. [Další informace](pci-download-reports.md) 
