@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172422"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855739"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Zaregistrujte obchody, které jste vyhráli v partnerském centru, abyste později mohli získat další příležitosti.
 
-**Příslušné role**
-
-- Správce odkazů
+**Příslušné role**: Správce odkazů
 
 Obchody, které jste vyhráli v partnerském centru, můžete zaregistrovat poskytnutím dalších informací o smlouvě. Tyto informace nám pomáhají zajistit další příležitosti v budoucnu.
 
@@ -38,21 +36,21 @@ Na stránce **nový obchod** zadejte následující informace.
 - **Řešení**: vyberte řešení, které se bude používat pro obchod. Pokud nevidíte správné řešení v seznamu, obraťte se na podporu.
 - **Typ kontraktu**: Určete, jestli se jedná o **Nový** kontrakt nebo **obnovení** předchozí smlouvy.
 - **Celková hodnota kontraktu**: celková očekávaná hodnota pro zapojení. To by mělo zahrnovat všechny poplatky za software a služby, ale ne hardwarové náklady. Nezapomeňte vybrat příslušnou měnu.
-- **Hodnota řešení**: celková hodnota cloudového řešení, které se bude používat pro obchod. Nezapomeňte zahrnout všechny náklady spojené s poplatky za software a údržbu, ale Nezahrnovat nenávratové položky, poplatky za vlastní nastavení nebo přímo přidružené licenční poplatky za CSP placené Microsoftem.
-- **Nasazeno**: vyberte **Azure** nebo **jiný**.
-- **Kde bude řešení nasazeno?**: vyberte **tenanta zákazníka** nebo **partnerský tenant**.
-- **Počáteční datum smlouvy**: datum zahájení smlouvy. Pro obchody s průběžnými platbami (PAYG) použijte datum první faktury.
-- **Datum ukončení smlouvy**: Pokud bude smlouva ukončena na konkrétní datum, vyberte **má datum ukončení** a zadejte datum. Pokud kontrakt nemá konkrétní datum ukončení, vyberte možnost **trvalá**. V případě obchodů s průběžnými platbami (PAYG) použijte datum poslední nebo poslední faktury.
-- **Datum podpisu smlouvy**: datum, kdy byl poslední kontrakt podepsán vaší organizací a zákazníkem. Pro obchody s průběžnými platbami (PAYG) použijte datum první faktury.
-- **Kontakt na registraci**: **křestní jméno**, **příjmení**, **telefonní číslo** a **e-mail** pro osobu ve vaší organizaci, které můžeme kontaktovat, pokud potřebujeme další podrobnosti o jakékoli z informací, které tady poskytneme.
+- **Hodnota řešení**: celková hodnota cloudového řešení, které se bude používat pro obchod. Nezapomeňte zahrnout všechny náklady spojené s poplatky za software a údržbu, ale nezahrnujte znovu fakturovatelné položky, opakující se poplatky za přizpůsobení ani přímo přidružené licenční poplatky CSP placené Microsoftem.
+- **Nasazeno v**: Vyberte **Azure** nebo **Jiné.**
+- **Kde se řešení nasadí?**: Vyberte **tenanta zákazníka** nebo **partnerského tenanta**.
+- **Počáteční datum smlouvy:** Datum, od kterého bude kontrakt začínat. V případě nabídek s platbou podle aktuálních dat použijte datum první faktury.
+- **Koncové datum smlouvy:** Pokud kontrakt skončí ke konkrétnímu datu, vyberte **Má koncové datum** a zadejte toto datum. Pokud kontrakt nemá konkrétní koncové datum, vyberte **Časově neomezené**. V případě nabídek s platbou s platbou (PAYG) použijte datum poslední nebo nejnovější faktury.
+- **Datum podpisu smlouvy:** Datum, kdy byla finální smlouva podepsána vaší organizací a zákazníkem. V případě nabídek s platbou podle aktuálních dat použijte datum první faktury.
+- **Registrační kontakt:** **Jméno,** **Příjmení,** Telefonní číslo  a E-mail pro osobu ve vaší organizaci, na kterou se můžeme obrátit, pokud potřebujeme další podrobnosti o kterékoli z zde uvedených informací. 
 
-Po dokončení všech sekcí stránky vyberte možnost **Registrovat**. Registrace do obchodu se pak přesune **na stránku probíhá** . Společnost Microsoft pak zkontroluje informace, které jste zadali.
+Po dokončení všech částí stránky vyberte **Zaregistrovat.** Registrace dohody se pak přesune na **stránku Probíhá.** Microsoft si pak proše jako informace, které jste poskytli.
 
-Pokud obchod vznikl z odkazu a ještě jste ho ještě nezaregistrovali, uvidíte, že je uvedený na stránce **požadována akce** . Tady se zobrazují i registrace, které se vytvořily a zaregistrovaly, ale vyžadují další aktualizace. Pomocí filtrů můžete zobrazit jenom **neúplné** nebo **Aktualizovat požadované** registrace obchodu.
+Pokud dohoda pocházela z referenčního seznamu a ještě jste ji nezaregistrili, uvidíte dohodu uvedenou na **stránce Vyžaduje se** akce. Tady jsou uvedeny také registrace dohody, které byly vytvořeny a zaregistrovány, ale vyžadují další aktualizace. Pomocí filtrů můžete zobrazit  pouze neúplné nebo **aktualizovat požadované** registrace dohody.
 
 ## <a name="viewing-active-and-closed-deal-registrations"></a>Zobrazení aktivních a uzavřených registrací zakázek
 
-Nové, aktivní a uzavřené registrace koupě můžete zkontrolovat na různých stránkách v části **referenčních > registraci koupek**.
+Nové, aktivní a uzavřené registrace dohody můžete zkontrolovat na různých stránkách v části Referenční > **registrace dohody.**
 
 ### <a name="action-required"></a>Požadovaná akce
 

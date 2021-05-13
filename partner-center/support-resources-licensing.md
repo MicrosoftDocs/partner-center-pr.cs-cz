@@ -8,18 +8,16 @@ description: Jako partner Microsoftu máte dotazy týkající se používání r
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 7343e6b234fed9107689f451d23cd3a74c0c389f
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002890"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856079"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Průvodce licencováním prostředků pro partnery Microsoftu 
 
-**Příslušné role**
-
-- Agent pro podporu
+**Příslušné role**: Agent helpdesku
 
 Tento článek sdílí prostředky, které můžou přispět k zodpovězení dotazů na licencování partnerů.
 
@@ -57,21 +55,21 @@ Tyto další prostředky můžete najít užitečné. Aby bylo možné získat p
 |Akce  | Přečtěte si:  |
 |:------------------|:--------------- |
 |V programu multilicencí společnosti Microsoft si můžete přečíst nebo stáhnout aktuální verzi produktových podmínek společnosti Microsoft pro produkty nebo služby. | [Vyhledejte svůj produkt nebo službu](https://www.microsoft.com/licensing/terms/) nebo [vyhledejte](http://www.microsoftvolumelicensing.com/) tuto službu.  |
-|Přečtěte si další informace o programu Software Assurance a související licenci spolu s tím, jak platby a doklady fungují.  | [Přehled programu Software Assurance](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) nebo [výhody a požadavky programu Software Assurance](software-assurance-lp.md) |
-|Přečtěte si podrobnosti o právech a výhodách interního použití programu MPN.  | [Průvodce Microsoft Partner Network programy](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
-|Vyhledání partnerských materiálů OEM, jako jsou předinstalační nebo školicí sestavy.  | [Centrum partnerů pro zařízení Microsoftu](https://devicepartner.microsoft.com/)  |
-|Odpovězte na otázky týkající se používání pro zákazníky s výrobci OEM nebo maloobchodní zákazníky (označované také jako úplný zabalený produkt nebo FPP zákazníci). Je to pro zákazníky, jejichž software získal licenci Microsoftu nebo výrobce počítače. *(Tyto podmínky se nevztahují na zákazníky v programu Volume Licensing.)*  | [Maloobchodní (FPP) – použití podmínek](https://www.microsoft.com/useterms)  |
+|Přečtěte si další informace o programu Software Assurance a související licenci spolu s tím, jak platby a doklady fungují.  | [Přehled nebo požadavky](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) [Software Assurance](software-assurance-lp.md) Software Assurance |
+|Zkontrolujte podrobnosti o právech nebo výhodách interního použití programu MPN.  | [Microsoft Partner Network programy](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
+|Najděte materiály pro partnery OEM, jako jsou předinstalační sady nebo školení.  | [Microsoft Device Partnerské centrum](https://devicepartner.microsoft.com/)  |
+|Odpovědi na otázky ohledně využití pro zákazníky OEM nebo maloobchodní zákazníky (označované také jako zákazníci s úplným zabaleném produktem nebo FPP) To je pro zákazníky, jejichž software jim byl licencován společností Microsoft nebo výrobcem počítače. *(Tyto podmínky se nevztahují na zákazníky v multilicenčním programu.)*  | [Podmínky použití maloobchodního prodeje (FPP)](https://www.microsoft.com/useterms)  |
 
-## <a name="resources-associated-with-license-fulfillment-or-financing-options"></a>Prostředky spojené s plněním licence nebo finančními možnostmi
+## <a name="resources-associated-with-license-fulfillment-or-financing-options"></a>Zdroje informací související s plněním licencí nebo možnostmi plnění licencí
 
-Pokud máte konkrétní otázky týkající se splnění licencí, platby nebo financování, váš první kontaktní bod je váš nepřímý poskytovatel (pro program CSP) nebo distributor programu. Můžete také najít užitečné následující zdroje informací.
+Pokud máte konkrétní dotazy ohledně plnění licencí, plateb nebo ujednání, vaším prvním kontaktním bodem je nepřímý poskytovatel (pro program CSP) nebo distributor programu. Může vám také pomoct následující zdroje informací.
 
 |Akce  | Seznamte se s   |
 |:------------------|:--------------- |
-|Odpovězte na otázky ohledně instalačních médií v programu Volume Licensing. | [Stránka splnění licenčních licencí](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
-|Odpovězte na otázky splnění online služby pro následující programy registrace: smlouva Enterprise (EA), server a Cloud Enrollment (SCE) a OVS (Open Value Subscription).  | [Školicí materiály a materiály ke službě multilicenčního programu společnosti Microsoft](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
-|Odpovězte na otázky splnění online služby přidružených k smlouvě o produktech a službách společnosti Microsoft (MPSA).  | [Školení a materiály pro Microsoft Business Center](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) nebo [Přehled licencování MPSA](https://www.microsoft.com/licensing/mpsa/default)  |  
-|Odpovězte na otázky splnění online služby přidružených k programu Cloud Solution Provider (CSP).  | [Jak prodávat předplatná CSP zákazníkům](customer-subscriptions.md)  |
+|Odpovězte na otázky ke splnění podmínek instalace médií v multilicenčním programu. | [Stránka plnění licencování](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
+|Zodpovězení otázek týkajících se online služby pro následující programy registrace: smlouva Enterprise (EA), serverová a cloudová registrace (SCE) a předplatné OVS (Open Value Subscription).  | [Školení a zdroje informací ke službě Microsoft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
+|Zodpovězení otázek týkajících se online služby které jsou přidružené ke Smlouvě MPSA (Microsoft Products and Services Agreement).  | [Školení a zdroje informací k Microsoft Business Center](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) nebo přehled [licencování MPSA](https://www.microsoft.com/licensing/mpsa/default)  |  
+|Zodpovězení otázek týkajících se online služby souvisejících s programem Cloud Solution Provider (CSP).  | [Jak zákazníkům prodávat předplatná CSP](customer-subscriptions.md)  |
 |Odpovězte na otázky týkající se platební a finanční možnosti Microsoftu.  | [Nejčastější dotazy k programu Microsoft pro financování](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |
 
 ## <a name="more-resources-to-help-with-price-lists-customer-deals-license-activation-or-credits"></a>Další materiály, které vám pomůžou s ceníky, zákaznickými obchody, aktivací licencí nebo kredity
@@ -90,13 +88,13 @@ Váš nepřímý poskytovatel (pro program CSP) nebo distributor programu by mě
 
 ## <a name="help-from-microsoft-support"></a>Help z podpora Microsoftu
 
-Jako partner Microsoftu můžete požádat o pomoc od jiných partnerů, kteří se účastní úspěchu. Můžete také požádat o pomoc z podpora Microsoftu. K dispozici jsou odborníci podpory, kteří vám pomůžou s problémy s partnerskými programy, s předprodejní, problémy s produkty Microsoftu, dotazy k fakturaci a dalšími.
+Jako partner Microsoftu můžete požádat o pomoc od jiných partnerů zapojených do vašeho úspěchu. Můžete také požádat o pomoc od Podpora Microsoftu. K dispozici jsou odborníci na podporu, kteří vám pomůžou s problémy s partnerským programem, předprodejní podporou, problémy s produkty Microsoftu, fakturačními dotazy a další.
 
-Pokud chcete zobrazit možnosti podpory nebo spustit lístek podpory, přečtěte si [podporu pro partnery Microsoftu](https://partner.microsoft.com/support/?stage=1) .
+Pokud chcete [zobrazit možnosti podpory](https://partner.microsoft.com/support/?stage=1) nebo zahájit lístek podpory, přejděte na podporu partnerů Microsoftu.
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Zobrazit další prostředky podpory](https://partner.microsoft.com/support/?stage=1)
-- [Najít partnera](find-a-partner.md)
-- [Další informace nebo registrace v programu MPN](https://partner.microsoft.com/membership)
-- [Další informace nebo registrace v programu CSP](https://partner.microsoft.com/membership/cloud-solution-provider)
+- [Zobrazení dalších zdrojů podpory](https://partner.microsoft.com/support/?stage=1)
+- [Vyhledání partnera](find-a-partner.md)
+- [Další informace o programu MPN nebo jeho registraci](https://partner.microsoft.com/membership)
+- [Další informace o programu CSP nebo jeho registrace](https://partner.microsoft.com/membership/cloud-solution-provider)

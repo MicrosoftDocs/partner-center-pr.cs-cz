@@ -9,18 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 149897c0afa12c4c45df974dafb5c47826274174
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 2f37a14cd8987b6bddc96594ebf622f8e7be59b0
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120726"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855858"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Rozvoj podnikání s využitím referenčních seznamů od Microsoftu
 
-**Příslušné role**
-
-- Správce odkazů
+**Příslušné role**: Správce odkazů
 
 Mnoho zákazníků hledá kvalifikované odborníky na pomoc s implementací technologií a podnikových řešení společnosti Microsoft. V Microsoftu často získáváme přímé požadavky na pomoc od zákazníků prostřednictvím našich marketingových aktivit a z našich interních obchodních agentů Microsoftu. Zákazníci si také můžou vyhledat společnosti, které jim pomůžou plnit své obchodní potřeby, pomocí [prostředí **Najít poskytovatele řešení**](https://www.microsoft.com/solution-providers/search) . 
 

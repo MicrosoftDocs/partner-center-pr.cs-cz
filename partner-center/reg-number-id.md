@@ -9,18 +9,16 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d84f67edd38b9e8f665a18699fb1f03c9888549d
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712494"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855824"
 ---
 # <a name="registration-id-number-information"></a>Registrační identifikační číslo – informace
 
-**Příslušné role**
-
-- Globální správce
+**Příslušné role**: globální správce
  
 Pokud jste nepřímý poskytovatel, přímý účet pro fakturaci nebo nepřímý prodejce a obchodujete s novými nebo stávajícími zákazníky v následujících zemích, musíte pro svůj podnik zadat registrační čísla ID. K posouzení podrobností o vašem účtu používáme ID registrace. Pokud země, ve které obchodujete, není uvedená níže, ID registrace je volitelné.
 
@@ -28,10 +26,10 @@ Pokud jste nepřímý poskytovatel, přímý účet pro fakturaci nebo nepřím�
 
 | **Země nebo oblast** | **Podrobnosti** |
 |:--|:--|
-| **Arménie** | DIČ – daňové identifikační číslo<br>Číslo DPH, označované také jako registrační číslo DPH. Toto je jedinečné číslo identifikující osobu (obchodní) nebo nezdanitelnou právnickou osobu, která je zaregistrovaná pro DPH.<br>Číslo veřejné služby |
+| **Arménie** | DIČ – daňové identifikační číslo<br>Číslo DPH, označované také jako registrační číslo DPH. Tato hodnota je jedinečné číslo identifikující osobu (obchodní) zdanitelnou nebo nezdanitelnou právnickou osobu, která je zaregistrovaná pro DPH.<br>Číslo veřejné služby |
 | **Ázerbájdžán**  | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – daňové identifikační číslo<br>DIČ – daňové identifikační číslo |
-| **Bělorusko**  | UNP – Toto je devět číslic (číselné pro organizace, alfanumerické pro jednotlivce), který obsahuje identifikátor oblasti, sérii na oblast a kontrolní číslici. |
-|**Brazílie** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa jurídica nebo národní registr platných entit). Toto je identifikační číslo vydané brazilským společnostem oddělení federálních příjmů Brazílie.  |
+| **Bělorusko**  | UNP – tato hodnota je devět číslic (číselné pro organizace, alfanumerické pro jednotlivce), která obsahuje identifikátor oblasti, sérii na oblast a kontrolní číslici. |
+|**Brazílie** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa jurídica nebo národní registr platných entit). Tato hodnota je identifikační číslo vydané pro brazilské společnosti ministerstvem federálních příjmů Brazílie.  |
 | **Čína** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – daňové identifikační číslo |
 | **Maďarsko**  | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – daňové identifikační číslo |
 | **Indie** | Daňové ID<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – zapojení PAN do indie (presence across neschůdné) znamená, že existuje jedna organizace, která pracuje na několika místech v Indii. |
@@ -45,11 +43,11 @@ Pokud jste nepřímý poskytovatel, přímý účet pro fakturaci nebo nepřím�
 | **Saúdská Arábie** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – daňové identifikační číslo |
 | **Jižní Afrika** | TRN – číslo registrace provozu |
 | **Jižní Súdán** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |
-| **Tádžikistán**  | INN – daňové identifikační číslo<br>EIN – identifikační číslo zaměstnance<br>KPP – jedná se o kód, který odráží důvod registrace organizace. |
+| **Tádžikistán**  | INN – daňové identifikační číslo<br>EIN – identifikační číslo zaměstnance<br>KPP – Tato hodnota je kód, který odráží důvod registrace organizace. |
 | **Thajsko** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |
 | **Turecko** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – daňové identifikační číslo<br>NZA |
 | **Ukrajina**  | EGRPOU<br>EDRPOU – místní ID |
-| **Spojené arabské emiráty** | Daňové ID<br>[Číslo DPH](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – také označované jako DIČ. Toto je jedinečné číslo identifikující osobu (obchodní) nebo nezdanitelnou právnickou osobu, která je zaregistrovaná pro DPH. |
+| **Spojené arabské emiráty** | Daňové ID<br>[Číslo DPH](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – také označované jako DIČ. Tato hodnota je jedinečné číslo identifikující osobu (obchodní) zdanitelnou nebo nezdanitelnou právnickou osobu, která je zaregistrovaná pro DPH. |
 | **Spojené státy** | [Ein](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – identifikační číslo zaměstnavatele |
 | **Uzbekistán**  | DIČ – daňové identifikační číslo |
 | **Vietnam** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |

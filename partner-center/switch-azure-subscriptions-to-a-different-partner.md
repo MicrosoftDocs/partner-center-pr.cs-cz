@@ -1,57 +1,53 @@
 ---
-title: Přenos předplatného Azure na jiného partnera
+title: Převod předplatného Azure na jiného partnera
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Naučte se změnit partnera programu Cloud Solution Provider přidružený k předplatným Azure zákazníka.
+description: Zjistěte, jak změnit Cloud Solution Provider programu přidruženého k předplatným Azure zákazníka.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b21bfcae4472763c19481ad506ae1c72d238e8f0
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 94f79762e7fabb377b8d7b559ff9ba2623b135fe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002893"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856062"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Přesun předplatných Azure zákazníka k jinému partnerovi
 
-**Platí pro**
+**Platí pro**: Partnerské centrum | Partnerské centrum pro Microsoft Cloud for US Government
 
-- Partnerské centrum pro Microsoft Cloud for US Government
+**Odpovídající role:** Globální správce
 
-**Příslušné role**
+Tento článek popisuje, jak může zákazník přepnout své Microsoft Azure služby z jednoho Cloud Solution Provider (CSP) na jiný.
 
-- Globální správce
-
-Tento článek popisuje, jak může zákazník přepnout své Microsoft Azure služby od jednoho poskytovatele Cloud Solution Provider (CSP) na jiný.
-
-Pokud chcete přepnout služby Azure nebo předplatné Azure na jiného partnera, postupujte podle těchto kroků ručně. Partner i zákazník musí provést kroky.
+Pokud chcete služby nebo předplatná Azure zákazníka přepnout na jiného partnera, postupujte podle těchto ručních kroků. Tento postup musí provést partner i zákazník.
 
 >[!Note]  
->V současné době můžou předplatná přenášet jenom přímá nebo nepřímá zprostředkovatelé.
->Nemůžete změnit partnery pro předplatné Cloud Solution Provider přidružená k plánu Azure, Office 365, Enterprise Mobility Suite nebo předplatným Microsoft Dynamics CRM.
+>V současné době mohou předplatná převádět pouze nepřímí nebo nepřímí poskytovatelé.
+>Nemůžete měnit partnery pro předplatná Cloud Solution Provider přidružených k plánu Azure, Office 365, enterprise mobility suite nebo předplatným Microsoft Dynamics CRM.
 
-## <a name="switch-partners-for-azure-subscriptions"></a>Přepnout partnery na předplatná Azure
+## <a name="switch-partners-for-azure-subscriptions"></a>Přepnutí partnerů pro předplatná Azure
 
-1. Aby bylo možné přenést předplatné Azure na nového partnera, zákazník musí tento proces zahájit a kontaktovat svého současného partnera s psaním záznamu.
+1. Pokud chcete převést předplatné Azure na nového partnera, zákazník musí zahájit proces a v zápisu kontaktovat aktuálního partnera.
 
    >[!Note]
-   > Jedná se o zodpovědnost aktuálního partnera, který vytvoří lístek služby, který zahájí proces přenosu. Společnost Microsoft se nemůže zasáhnout jménem zákazníka ani nového partnera. Zákazník by měl naplánovat úzce spolupracovat s aktuálním partnerem, aby přechod přešel plynule.
+   > Za vytvoření lístku služby, který zahájí proces převodu, zodpovídá aktuální partner. Microsoft nemůže jednat jménem zákazníka ani nového partnera. Zákazník by měl naplánovat úzkou spolupráci s aktuálním partnerem, aby přechod plynule fungoval.
 
-2. Partner pro předplatné musí provádět následující úlohy:
+2. Partner předplatného musí provádět následující úlohy:
 
-   Vytvoření lístku služby Azure z partnerského centra pro vyžádání přenosu předplatného:
+   Vytvořte lístek služby Azure z Partnerské centrum a požádejte o převod předplatného:
 
-   1. V nabídce partnerské Centrum vyberte **zákazníky**, ze seznamu vyberte zákazníka a potom vyberte **Správa služeb**.
+   1. V Partnerské centrum vyberte **Zákazníci,** v seznamu vyberte zákazníka a pak vyberte **Správa služeb**.
 
-   2. V části **lístky podpory** vyberte rozevírací seznam **nový lístek** a zvolte možnost **Microsoft Azure**.
+   2. V části **Lístky podpory** vyberte rozevírací seznam **Nový lístek** a zvolte **Microsoft Azure**.
    
-   3. V [Azure Portal](https://portal.azure.com)vyberte **nový požadavek na podporu**.
+   3. Na [Azure Portal](https://portal.azure.com)vyberte Nová **žádost o podporu.**
    
-   4. V kroku 1 Zvolte jako typ problému možnost **Správa předplatného** , zadejte ID předplatného, které chcete přenést, a jako plán podpory zvolte **Cloud Solution Provider** .
+   4. V kroku 1 jako typ problému zvolte **Správa** předplatného, zadejte ID předplatného, které chcete převést, a **Cloud Solution Provider** jako plán podpory.
    
    5. V kroku 2 vyberte **C – minimální dopad** a jako typ problému zvolte **Další obecné otázky** .
    
@@ -81,28 +77,28 @@ Pokud chcete přepnout služby Azure nebo předplatné Azure na jiného partnera
 
 5. Aktuální partner:
 
-   Ujistěte se, že formulář obsahuje kontaktní informace pro správce partnerů. Podpora Microsoftu bude kontaktovat oba správce, aby ověřili přenos. Ujistěte se, že máte všechny tři podpisy. Pak pomocí možnosti **nahrání souboru** připojte dokončený formulář k vaší stávající žádosti o služby. Pracovník podpory Microsoftu se vám pošle zpátky během osmi pracovních hodin, aby se ověřilo přijetí a dokončení.
+   Ujistěte se, že formulář obsahuje kontaktní informace pro oba správce partnerů. Podpora Microsoftu o ověření přenosu budete kontaktovat oba správce. Ujistěte se, že máte všechny tři podpisy. Potom pomocí možnosti **Nahrání** souboru připojte vyplněný formulář ke stávající žádosti o služby. Technik podpory Microsoftu se k vám do osmi pracovních hodin vrátí a ověří příjem a dokončení.
 
 6. Nový partner:
 
-   Aktualizujte nastavení předplatného Azure, aby se odebral starý partner z účtu. Pokud chcete zjistit, která přiřazení rolí se zřídí, spusťte dva prostředí PowerShell rutin.
+   Aktualizujte nastavení předplatného Azure a odeberte starého partnera z účtu. Pokud chcete zobrazit, která přiřazení rolí jsou zřízená, spusťte dvě rutiny PowerShellu.
 
-   - Přidejte nového partnera jako prodejce na účet:
+   - Přidejte nového partnera jako prodejce do účtu:
 
      ```powershell
      Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
      ```
 
      >[!NOTE]
-     > **ID tenanta** zákazníka se zobrazí v partnerském centru jako **ID Microsoftu** zákazníka. Pokud chcete najít ID (ID tenanta) Microsoftu pro konkrétního zákazníka, přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra. Pak z nabídky vyberte **zákazníci** . Vyhledejte zákazníka na seznamu. Výběrem šipky dolů rozbalte seznam zákazníka. Zobrazí se informace o *názvu domény* zákazníka a **ID Microsoftu** zákazníka. Použijte 16bitový **identifikátor Microsoft ID** v prostředí PowerShell rutiny.
+     > ID tenanta zákazníka **se** Partnerské centrum jako ID **Microsoftu zákazníka.** Pokud chcete najít ID Microsoftu (ID tenanta) pro konkrétního zákazníka, přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard) Pak v **nabídce** vyberte Customers (Zákazníci). Vyhledejte zákazníka v seznamu. Výběrem šipky dolů rozbalte výpis zákazníka. Zobrazí se informace o názvu  domény zákazníka a ID **Microsoftu zákazníka.** V rutině PowerShellu použijte 16místné ID Microsoftu. 
 
-   - Zobrazit role na účtu, včetně předchozích partnerů CSP:
+   - Zobrazení rolí v účtu, včetně předchozích partnerů CSP:
 
      ```powershell
      Get-AzRoleAssignment
      ```
 
-7. Odebrat zastaralá přístupová oprávnění:
+7. Odebrání zastaralých přístupových oprávnění:
 
    - V nabídce partnerské Centrum vyberte **zákazníci**.
    - Vyhledejte zákazníka na seznamu. Vyberte (dvakrát klikněte) jejich název společnosti. Tato akce otevře stránku **odběry** zákazníka.

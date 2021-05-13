@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328079"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855944"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Získejte přehledy odkazů v partnerském centru a zjistěte, jak dělají vaše odkazy.
 
-**Příslušné role**
-
-- Správce odkazů
+**Příslušné role**: Správce odkazů
 
 Stránka s **příležitostmi k prodeji** v části **Analýza** v tématu odkazy vám umožní zjistit, jak probíhá vaše reference. Pravidelně kontrolujte tyto metriky a Identifikujte trendy nebo oblasti, které vyžadují pozornost, a začněte přispívat k vašim obchodním cílům.
 
@@ -38,25 +36,25 @@ Můžete vybrat tlačítko **filtry** a otevřít panel, který vám umožní fi
 - **Název zákazníka**: výchozí hodnota je **vše**, ale můžete omezit data na jednoho nebo více zákazníků, které vyberete.
 - **Country (země**): výchozí hodnota je **All**, ale data můžete omezit na jednu nebo více zemí zákazníka, které vyberete.
 - **Typ kouposti**: ve výchozím nastavení se používá **společný prodej** , ale můžete buď vybrat všechna nebo omezit data na soukromá nebo na základě vašeho výběru.
-- **Směr obchodu** Výchozí hodnota je **vše**, ale můžete omezit data na **příchozí** odkazy (ty, které jste přijali), nebo na **odchozí** odkazy (ty, které jste odeslali).
-- **Název řešení**: výchozí hodnota je **vše**, ale můžete omezit data na odkazy, které obsahují jedno nebo více vybraných řešení.
-- **Stav**: výchozí hodnota je **vše**, ale můžete omezit data na referenční údaje, které obsahují jeden nebo více typů stavů odkazů, jako je například vytvořeno, přijato, odmítnuto, vypršela platnost, ztraceno a získaná vybraná.
+- **Směr dohody** Výchozí hodnota je **Vše,** ale můžete se  rozhodnout omezit data na Příchozí  referenční odkazy (ty, které jste dostali) nebo Odchozí referenční odkazy (ty, které jste odeslali).
+- **Název řešení:** Výchozí hodnota je **Vše,** ale můžete se rozhodnout omezit data na referenční seznam, který obsahuje jedno nebo více řešení, která vyberete.
+- **Stav:** Výchozí hodnota je **Vše,** ale můžete se rozhodnout omezit data na referenční seznam, který obsahuje jeden nebo více typů stavu referenčních odkazů, jako jsou vytvořené, přijaté, zamítnuté, prošlé, ztracené a wonované.
 
-Informace ve všech grafech uvedených níže budou odrážet rozsah dat a všechny filtry, které jste vybrali, s tím rozdílem, že jsou uvedeny níže. Některé oddíly také umožňují použít další filtry, například filtrování na konkrétní řešení.
+Informace ve všech níže uvedených grafech budou odrážet rozsah dat a všechny filtry, které jste vybrali, s výjimkou těch, které jsou uvedené níže. Některé části také umožňují použít další filtry, například filtrování pro konkrétní řešení.
 
-## <a name="referrals-summary"></a>Souhrn referenčních údajů
+## <a name="referrals-summary"></a>Souhrn referenčních odkazů
 
-Tato karta obsahuje přehled o tom, jak dělají příležitosti společného prodeje.
+Tato karta zobrazuje přehled toho, jak si vede vaše příležitosti ke spoluprodátu.
 
-Graf zobrazuje celkový počet obchodů, počet získaných, počet ztracených a celkový objem operací koupě (v USD) pro vybrané časové období.
+Graf zobrazuje celkový počet nabídek, počet wonů, počet ztracených obchodů a celkový objem dohody (v USD) pro vybrané časové období.
 
-Procentuální metrika změny (zobrazená červeně nebo zeleně s indikátorem šipky) značí rozdíl mezi **posledním celým měsícem ve vybraném rozsahu kalendářních dat** a **prvním plným měsícem v daném rozsahu**. Řekněme například, že aktuální datum je 15. června a vybrali jste filtr **3m** , který zobrazí data za poslední tři měsíce. V takovém případě by tyto metriky ukázaly rozdíl mezi Květenem (poslední celý měsíc ve vybraném časovém období) a březen (první celý měsíc ve vybraném časovém období). vybraný rozsah dat je poslední **3m**, porovnání by mohlo být mezi daty a data v březnu.
+Metriky procentuální změny (zobrazené červeně nebo zeleně s indikátorem  šipky) označují rozdíl mezi posledním celým měsícem ve vybraném rozsahu dat a prvním celým měsícem v **tomto rozsahu**. Řekněme například, že aktuální datum je 15. června a vybrali jste **filtr 3M,** který zobrazí data za poslední tři měsíce. V tomto případě by tyto metriky ukázaly rozdíl mezi květnem (posledním celým měsícem ve vybraném časovém období) a březnovou (první celý měsíc ve vybraném časovém období) je vybraný rozsah dat **posledních 3m,** porovnání bude mezi daty pro květen a daty pro březen.
 
-:::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Obrázek znázorňující kartu Souhrn příležitostí pro obchod s příležitostmi k prodeji.":::
+:::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Obrázek znázorňující souhrnnou kartu analýzy příležitostí ke spoluprodávce":::
 
-## <a name="conversion-funnel"></a>Trychtýř převodů
+## <a name="conversion-funnel"></a>Trychtýř převodu
 
-V této části se zobrazuje vizuální indikátor toho, jak se vaše obchody pohybují z jednoho stavu do druhého prostřednictvím jejich životního cyklu. Celý životní cyklus můžete zobrazit na základě objemu koupě a hodnoty obchodu v USD na základě hlavního pivotu pro tuto část. První oddíl je označený se stavem a typem obchodu, který vám poskytne vizuální indikátor objemu nebo hodnoty podle typu. K dispozici je také část s **odkazy z minulosti**, která označuje obchody, pro které jste provedli akci přijetí nebo odmítnutí nebo jejich označení jako získanou nebo ztracenou v časovém období, které bylo vybráno pro sestavu. Filtry můžete použít k zobrazení průběhu obchodů v různých fázích jejich životního cyklu.
+Tato část ukazuje vizuální indikátor toho, jak se vaše obchody v průběhu jejich životního cyklu přesouvají z jednoho státu do druhého. Celý životní cyklus můžete zobrazit na základě objemu koupě a hodnoty obchodu v USD na základě hlavního pivotu pro tuto část. První oddíl je označený se stavem a typem obchodu, který vám poskytne vizuální indikátor objemu nebo hodnoty podle typu. K dispozici je také část s **odkazy z minulosti**, která označuje obchody, pro které jste provedli akci přijetí nebo odmítnutí nebo jejich označení jako získanou nebo ztracenou v časovém období, které bylo vybráno pro sestavu. Filtry můžete použít k zobrazení průběhu obchodů v různých fázích jejich životního cyklu.
 
 Příchozí obchody se můžou sloučit do přijetí, odmítnutí nebo vypršení platnosti, protože partneři musí buď přijmout nebo odmítnout příchozí obchody v rámci prodeje.
 
@@ -80,29 +78,29 @@ Tento graf vám umožní zjistit, které z vašich řešení řídí nejvíce od
 Na základě vašeho výběru kontingenčního programu vidíte výkon souhrnných řešení.
 
 > [!NOTE]
-> V případě zahrnutí více řešení do obchodu se v tabulce zobrazí stejná operace, která se počítá se všemi těmito řešeními. Neměli byste přidávat hodnoty týkající se řešení a porovnat je s jinými metrikami svazků odkazů. Toto zobrazení vám pomůže pochopit výkon obchodu s Pivotem řešení.
+> V případě zahrnutí více řešení do obchodu se v tabulce zobrazí stejná operace, která se počítá se všemi těmito řešeními. Neměli byste přidávat hodnoty týkající se řešení a porovnat je s jinými metrikami svazků odkazů. Toto zobrazení vám pomůže pochopit výkon řešení s pivotem řešení.
 
-V tabulce jsou celkem obchody, které obsahují řešení, které obsahuje, a odpovídající stavy, jako je výhra, ztráty, počet neúspěšných obchodů spolu s celkovými obchody a jejich ztráty v měně USD. Napravo od tabulky obsahuje také graf trendů, který zobrazuje celkový počet obchodů a hodnotu obchodu získanou v měně USD v závislosti na vybraném řešení. Výchozím výběrem jsou všechna řešení.
+Tabulka obsahuje celkové obchody, které mají zahrnuté řešení, a odpovídající státy, jako jsou wony dohody, propadlé obchody, obchody, jejichž platnost vypršela, spolu s celkovou hodnotou zísek a propadlých obchodů v měně USD. Napravo od tabulky je také graf trendu dohod, který zobrazuje celkový počet obchodů a hodnotu dohody, kterou jste získali v měně USD na základě vybraného řešení. Výchozím výběrem jsou všechna řešení.
 
 :::image type="content" source="images/referrals/cosell-analytics-solutions-v2.png" alt-text="Obrázek znázorňující výkon řešení":::
 
-## <a name="declined--lost-reasons"></a>Odmítnuté důvody ztráty &
+## <a name="declined--lost-reasons"></a>Zamítnuté & důvody ztráty
 
-Tato část vám pomůže analyzovat důvody, proč jsou obchody označeny jako **odmítnuté** nebo **ztracené** vaší společností. Možnosti v těchto reprezentacech jsou tytéž důvody, proč si prodejci zvolili při uzavírání obchodování jako zamítnutých nebo ztracených.
+Tato část vám pomůže analyzovat důvody, proč  vaše společnost obchody označila jako zamítnuté nebo **ztracené.** Možnosti v těchto reprezentacích jsou stejné jako důvody, které si vaši prodejci zvolili při uzavírání dohody, jako když došlo k zamítnutí nebo ztrátě.
 
-:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Obrázek znázorňující důvody vybrané partnerem při odmítnutí nebo provedení obchodování jako ztraceno.":::
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Obrázek znázorňující důvody vybrané partnerem při klesajícím nebo udělování dohody jako ztracené":::
 
-## <a name="comparison-charts"></a>Grafy porovnání
+## <a name="comparison-charts"></a>Srovnávací grafy
 
-Část porovnání vám pomůže porovnat data týkající se odkazů na základě více dimenzí na svazku i v případě, že je hodnota obchodů získaná v rámci aplikace USD Pivot. K porovnání dat se dají vybrat tyto tři dimenze:
+Oddíl porovnání vám pomůže porovnat data související s referenčními doporučeními na základě více dimenzí objemu i hodnoty obchody, kterou jste získali v pivotu v USD. K porovnání dat můžete zvolit tyto tři dimenze:
 
-- Typ kouposti
+- Typ dohody
 - Trhy
 - Řešení
 
-Když vyberete typ kouposti, můžete porovnat výkon referenčních seznamů s ohledem na možnosti společného prodeje, a to na základě partnerů a soukromých obchodů. U obou trhů i řešení můžete pro porovnání výkonu vybrat až tři různé možnosti. První graf, který je pruhový graf, bude mít data uvedená v měsíci trendu v měsíci, který je založený na hlavním pivotu, což je objem nebo získaná hodnota obchodů. Napravo od pruhového grafu je také výsečový graf, který ukazuje rozdělení podle procenta pro stejná data.
+Když vyberete typ dohody, můžete porovnat výkon referenčních seznamu s ohledem na příležitosti ke spoluproduování, dohody vedené partnery a soukromé dohody. Pro trhy i řešení můžete získat až tři různé možnosti porovnání jejich výkonu. První graf, což je pruhový graf, bude mít data, která budou prezentovat trend měsíce na základě hlavního pivotu, což je objem nebo hodnota obchody, která vyhrála. Napravo od pruhového grafu je také výsečový graf, který zobrazuje rozdělení podle procent pro stejná data.
 
-:::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Obrázek znázorňující část porovnání":::
+:::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Obrázek znázorňující oddíl porovnání":::
 
 ## <a name="raw-data-table"></a>Tabulka nezpracovaných dat
 

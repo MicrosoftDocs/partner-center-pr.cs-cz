@@ -1,58 +1,54 @@
 ---
-title: Postup čtení souboru rekognoskaci vy& účtování
+title: Čtení souboru s vyúčtováním & odsoustavy
 ms.topic: article
 ms.date: 06/05/2020
-description: Přečtěte si informace o souborech pro odsouhlasení & faktury. Na faktuře se v rámci programu, produktů a zákazníků zobrazí poplatky za partnerské Centrum za toto měsíční období.
+description: Přečtěte si o fakturách a & odsouhlasení. Na vyúčtování se Partnerské centrum poplatky za program, produkty a zákazníky za toto měsíční období.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964353"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855909"
 ---
-# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Seznamte se s fakturací a souborem pro odsouhlasení – Zjistěte, jak je najít v partnerském centru.
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Seznamte se se souborem vyúčtování a odsouhlasení – zjistěte, jak je najít v Partnerské centrum
 
 
-**Příslušné role**
-
-- Globální správce
-- Správce fakturace
-- Agent správce
+**Odpovídající role:** Globální správce | Správce fakturace | Agent pro správu
 
 
-Vaše **Faktura** je **souhrnem všech poplatků za partnerské Centrum** (v rámci programu, všech produktů a všech zákazníků). 
+Vaše **faktura** obsahuje **souhrn všech poplatků za Partnerské centrum** poplatky (v rámci programu, všech produktů a všech zákazníků). 
 
-## <a name="find-your-bill-and-reconciliation-file"></a>Vyhledat soubor fakturace a odsouhlasení 
+## <a name="find-your-bill-and-reconciliation-file"></a>Vyhledání vyúčtování a souboru s vyrovnáním 
 
-Fakturu můžete najít na stránce fakturace řídicího panelu v partnerském centru. Na této stránce můžete také najít historii fakturace, trendy útraty a soubory pro odsouhlasení. 
+Fakturu najdete na stránce Fakturace na řídicím panelu v Partnerské centrum. Na této stránce také najdete historii fakturace, trendy útraty a soubory s vyrovnáním. 
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard/home)partnerského centra. 
+1. Přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard/home) 
 
-2. V nabídce na levé straně vyberte **fakturace**. 
+2. V nabídce vlevo vyberte **Fakturace.** 
 
 3. Na stránce stavu fakturace vyberte fakturu nebo soubor vyúčtování, o kterých chcete zobrazit podrobnější informace. 
 
-Odkaz na svou nejnovější fakturu najdete v horní části stránky v části zůstatek účtu k datu poslední faktury. 
+Odkaz na nejnovější fakturu najdete v horní části stránky v části Zůstatek účtu k datu poslední faktury. 
 
-Předchozí faktury najdete v části Historie fakturace. Zvolte příslušný rok a potom vyberte šipku rozevíracího seznamu vedle příslušného fakturačního období. Pro stažení faktury této tečky vyberte odkaz vedle faktury (. PDF). 
+Předchozí faktury najdete v části Historie fakturace. Zvolte odpovídající rok a pak vyberte šipku rozevíracího seznamu vedle příslušného fakturačního období. Výběrem odkazu vedle možnosti Faktury (.pdf) stáhněte fakturu za toto období. 
 
 ## <a name="invoice-types"></a>Typy faktur
 
-Microsoft bude vydávat jednu fakturu za všechny poplatky založené na licencích (například na Office 365) a poplatky za využití (například Azure) a samostatnou fakturu pro jednorázové poplatky (například Azure CAL, Marketplace nebo plán Azure).
+Microsoft vydá jednu fakturu za všechny poplatky založené na licencích (například Office 365) a poplatky na základě využití (například Azure) a samostatnou fakturu za poplatky za jednotlivé poplatky (jako je azure RI, Marketplace nebo plán Azure).
 
 Třeba  
 
-**Scénář 1 [jediná měna]**: partner má nákupy pro nabídku 145P a licence O365,  
+**Scénář 1 [Jedna měna]**: Partner má nákupy pro nabídku 145P a licence O365.  
 
-- Partner získá jednu fakturu soubory PDF a 2 odsouhlasení pokrývající poplatky za O365 i Azure (145p).  
+- Partner dostane jednu fakturu ve formátu PDF a 2 soubory s vyrovnáním pokrývající poplatky za O365 i Azure (145p).  
 
-**Scénář 2 [jediná měna]**: partner nabízí nákupy pro plán Azure rezervovaných, Marketplace a/nebo Azure společně s nákupy v 145p.
+**Scénář 2 [Jedna měna]**: Partneři mají nákupy rezervovaných tržišť Azure, marketplace nebo plánu Azure společně s nákupy s 145 000 000 000 000 000 000 000.
 
 - Partner dostane pro Azure (145p) jednu fakturu a soubor pro odsouhlasení. 
 
@@ -89,12 +85,12 @@ Níže jsou uvedená některá klíčová pole v dokumentu PDF faktury –
 
 **Pokyny pro platbu**: Popis způsobu platby faktury na základě vaší oblasti. Při platbě vždycky nezapomeňte zahrnout číslo vaší faktury. 
 
-Podrobný popis všech polí v souboru faktury (včetně polí pro jednorázové poplatky) naleznete v tématu [pole souboru faktury](invoice-file.md). 
+Podrobný popis všech polí v souboru faktury (včetně polí pro jednofakturové poplatky) najdete v tématu [Pole souboru faktur.](invoice-file.md) 
 
-## <a name="understand-reconciliation-files"></a>Pochopení souborů pro odsouhlasení
+## <a name="understand-reconciliation-files"></a>Principy souborů odsouhlasení
 
- Soubory pro odsouhlasení, které poskytují podrobné informace o vašich nákladech a jejich podrobnostech, jsou k dispozici ke stažení spolu s PDF faktury. Soubory pro odsouhlasení zahrnují identifikátory zákazníků a identifikátory předplatných, které můžete použít k vytvoření faktur zákazníků. Další informace o souborech rekognoskaci najdete v článku  [Jak používat soubory pro odsouhlasení](use-the-reconciliation-files.md) . 
+ Soubory s vyrovnáním, které poskytují podrobnosti o podrobnostech o poplatcích nebo podrobnostech o položkách, si můžete stáhnout spolu s fakturou PDF. Soubory s vyrovnáním zahrnují identifikátory zákazníků a identifikátory předplatného, které můžete použít k vytváření faktur zákazníků. Další podrobnosti  [o souborech](use-the-reconciliation-files.md) odsouhlasení najdete v tématu Jak používat soubory s vyrovnáním. 
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Jak používat soubory pro odsouhlasení](use-the-reconciliation-files.md)
+- [Jak používat soubory s vyrovnáním](use-the-reconciliation-files.md)

@@ -1,57 +1,54 @@
 ---
-title: Vyžádání vztahu se zákazníkem
+title: Žádost o vztah se zákazníkem
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vyžádejte si vztah se zákazníkem pro Multi-Channel nebo více kanálů, nebo pokud se musí obnovit vaše delegovaná oprávnění správce pro zákazníka.
+description: Požádejte zákazníka o vztah ve scénářích s více partnery nebo ve více kanálech nebo pokud je potřeba obnovit delegovaná oprávnění správce pro zákazníka.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018131"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856113"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Jak požádat zákazníka o navázání vztahu na úrovni prodejce v Partnerském centru
 
-**Příslušné role**
+**Odpovídající role:** Agent pro správu | Globální správce
 
-- Agent správce
-- Globální správce
+Pokud chcete spravovat službu nebo předplatné zákazníka jejich jménem, zákazník vám musí udělit oprávnění správce pro službu nebo předplatné a podepsat Smlouva se zákazníkem Microsoftu.
 
-Pokud chcete svým jménem spravovat službu nebo předplatné zákazníka, musíte zákazníkovi udělit oprávnění správce k této službě nebo předplatnému a podepsat smlouvu o zákaznících Microsoftu.
-
-Pokud chcete zřídit vztah prodejce se zákazníkem a spravovat jenom předplatná Azure, která zřídíte, nemusíte získávat oprávnění správce.
+Pokud chcete vytvořit vztah prodejce se zákazníkem a spravovat pouze předplatná Azure, která zřídíte, nemusíte získat oprávnění správce.
 
 >[!NOTE] 
->Možnost nevyžadující oprávnění není dostupná pro partnery, kteří provozují Microsoft Cloud pro státní správu USA nebo Microsoft Cloud Německo. Další informace najdete v tématu [delegování oprávnění pro správu partnerům pro zákazníky](customers-revoke-admin-privileges.md).
+>Možnost nevyžádá si oprávnění není dostupná pro partnery provozující Microsoft Cloud for US Government Microsoft Cloud Germany. Další informace najdete v tématu Zákazníci [delegují oprávnění pro správu na partnery.](customers-revoke-admin-privileges.md)
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Pozvání zákazníka k navázání vztahu prodejce s vámi
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Pozvání zákazníka k navázání vztahu prodejce s váma
 
-Můžete požádat o vztah prodejce se zákazníkem ve vaší zemi nebo ve stejné oblasti.
+Můžete požádat o vztah prodejce se zákazníkem ze své země nebo stejné oblasti.
 
-1. V nabídce **partnerského centra** vyberte **zákazníci** a pak vyberte **požádat o vztah prodejce**.
+1. V **nabídce** služby **vyberte Partnerské centrum** a pak vyberte **Požádat o vztah prodejce.**
 
-2. Pokud chcete požádat o oprávnění správce od tohoto zákazníka, vyberte **zahrnout oprávnění delegované správy pro Azure Active Directory a Office 365**. Pokud chcete navázat vztah bez vyžadování oprávnění správce, zrušte výběr této možnosti.
+2. Pokud chcete od tohoto zákazníka požádat o oprávnění správce, vyberte Zahrnout delegovaná oprávnění správce pro Azure Active Directory a **Office 365.** Pokud chcete navázat vztah bez vyžadování oprávnění správce, zrušte výběr této možnosti.
 
 3. Na další stránce zkontrolujte koncept e-mailové zprávy. Koncept zprávy můžete otevřít ve výchozí e-mailové aplikaci nebo můžete zprávu zkopírovat do schránky a vložit do e-mailu.
 
-   Text e-mailu můžete upravit, ale nezapomeňte do něj zahrnout přizpůsobený odkaz, který propojí zákazníka přímo z vaším účtem. Po dokončení tohoto kroku vyberte **Hotovo** .
+   Text e-mailu můžete upravit, ale nezapomeňte do něj zahrnout přizpůsobený odkaz, který propojí zákazníka přímo z vaším účtem. Po **dokončení** tohoto kroku vyberte Hotovo.
 
 4. Odešlete e-mail zákazníkovi.
 
-5. Jakmile zákazník vaši pozvánku přijme, zobrazí se na stránce vaši **zákazníci** a může službu pro zákazníka zřídit a spravovat.
+5. Jakmile zákazník vaši pozvánku přijme, zobrazí  se na stránce Vašich zákazníků a může tam pro zákazníka zřídit a spravovat službu.
 
    > [!NOTE]
-   > Pokud zákazník smlouvu o zákaznících Microsoftu ještě nepřijal, zobrazí se jim výzva k tomu, aby si pozvánku přijali. Aby zákazník mohl přijmout pozvánku, musí být globálním správcem.
+   > Pokud zákazník ještě nepřijal Smlouva se zákazníkem Microsoftu, zobrazí se výzva k přijetí vaší pozvánky. Aby zákazník přijal pozvánku, musí být globálním správcem.
 
-6. Pokud chcete spravovat účet, služby, uživatele a licence zákazníka, rozbalte záznam zákazníka tak, že vyberete šipku dolů v blízkosti jeho názvu.
+6. Pokud chcete spravovat účet zákazníka, služby, uživatele a licence, rozbalte záznam zákazníka výběrem šipky dolů vedle jeho jména.
 
 > [!IMPORTANT]  
-> Zákazníci můžou na portálu pro správu služby změnit přiřazení nebo odebrání oprávnění správce. Nicméně pokud a dokud nebudete smlouvu se zákazníkem znovu vyjednávat, budete mít i nadále odpovědnost za poskytování zákaznické podpory a dodržování podmínek v rámci smlouvy o partnerovi společnosti Microsoft, i když zákazník znovu přiřadí nebo odebere oprávnění správce. V takové situaci, pokud zákazník vyžaduje pomoc, můžete zavolat podporu Microsoftu a otevřít žádost o služby jménem zákazníka.
+> Zákazníci mohou změnit přiřazení nebo odebrání oprávnění správce na portálu pro správu služby. Nicméně pokud a dokud nebudete smlouvu se zákazníkem znovu vyjednávat, budete mít i nadále odpovědnost za poskytování zákaznické podpory a dodržování podmínek v rámci smlouvy o partnerovi společnosti Microsoft, i když zákazník znovu přiřadí nebo odebere oprávnění správce. V takové situaci, pokud zákazník vyžaduje pomoc, můžete zavolat podporu Microsoftu a otevřít žádost o služby jménem zákazníka.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Změny v prostředí pozvánky zákazníka
 

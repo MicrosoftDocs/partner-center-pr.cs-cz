@@ -4,45 +4,43 @@ ms.topic: article
 ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Podívejte se na země, oblasti a měny, kde můžete prodávat nabídky CSP na základě umístění vaší společnosti.
+description: Podívejte se na země, oblasti a měny, ve kterých můžete prodávat nabídky CSP na základě umístění vaší společnosti.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120762"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855773"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Poskytovatel řešení cloudu a místní trhy a měny, kde můžete prodávat nabídky CSP
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider regionální trhy a měny, kde můžete prodávat nabídky CSP
 
-**Příslušné role**
+**Odpovídající role:** Globální správce
 
-- Globální správce
+Váš trh určuje umístění vaší společnosti. Váš trh zahrnuje oblasti nebo země, ve kterých můžete prodávat Cloud Solution Provider (CSP).
 
-Váš trh určuje umístění vaší společnosti. Váš trh zahrnuje oblasti a/nebo země, kde můžete prodávat nabídky programu Cloud Solution Provider (CSP).
+Pokud se například vaše společnost nachází v USA, můžete prodávat nabídky CSP zákazníkům v USA a na odleských ostrůvcích USA. Pokud se vaše společnost nachází v Brazílii, můžete zákazníkům v Brazílii prodávat nabídky CSP. Pokud se vaše společnost nachází v oblasti Afrika, můžete prodávat nabídky CSP zákazníkům ve všech 18 zemích v oblasti Afrika.
 
-Pokud se například vaše společnost nachází v USA, můžete zákazníkům nabízet zákazníky v USA a v USA mimo odlehlé ostrovy. Pokud je vaše společnost umístěná v Brazílii, můžete zákazníkům prodávat nabídky jenom v Brazílii. Pokud se vaše společnost nachází v oblasti Afrika, můžete zákazníkům prodávat nabídky za všechny 18 zemí v oblasti Afrika.
+Před objednání nabídek CSP jménem zákazníka musí zákazník podepsat Smlouva se zákazníkem Microsoftu. Příslušné informace o Smlouva se zákazníkem Microsoftu oblasti nebo zemi najdete [tady.](agreements.md)
 
-Než budete moct jménem zákazníka objednat nabídky CSP, zákazník musí podepsat smlouvu o zákaznících Microsoftu. Příslušné smlouvy o zákaznících Microsoftu pro vaši oblast/zemi najdete [tady](agreements.md).
+## <a name="azure-plan-for-csp-region-availability"></a>Plán Azure pro dostupnost oblastí CSP  
 
-## <a name="azure-plan-for-csp-region-availability"></a>Plán Azure pro dostupnost oblasti CSP  
-
-Plán Azure pro CSP je k dispozici v méně oblastech než software Azure pro CSP. Nejnovější aktualizace regionální dostupnosti pro plán Azure najdete v tématu [Nákup plánu Azure](purchase-azure-plan.md).
+Plán Azure pro CSP je k dispozici v menším počtu oblastí než Azure Software for CSP. Nejnovější aktualizace regionální dostupnosti plánu Azure najdete v tématu [Zakoupení plánu Azure.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
-> Musíte potvrdit, že zákazník přijal zákaznickou smlouvu od Microsoftu zadáním informací o osobě, která ji podepsala. Další podrobnosti najdete v článku [potvrzení souhlasu zákazníka s zákaznickou smlouvou Microsoftu](confirm-consent.md) .
+> Musíte potvrdit, že zákazník přijal Smlouva se zákazníkem Microsoftu tím, že poskytne informace o osobě, která ji podepsala. Další podrobnosti najdete v tématu Potvrzení [souhlasu](confirm-consent.md) zákazníka Smlouva se zákazníkem Microsoftu zákazníka.
 
-Pokud chcete zjistit, kde můžete prodávat nabídky CSP, najděte umístění vaší společnosti v jednom ze seznamu níže. Musíte mít aktivní Microsoft Partner Network (MPN) ID pro umístění, ve kterém chcete prodávat.  
+Pokud chcete zjistit, kde můžete prodávat nabídky CSP, najděte umístění vaší společnosti v jednom z následujících seznamů. Musíte mít aktivní ID Microsoft Partner Network (MPN) pro umístění, ve které chcete prodávat.  
 
 
 ## <a name="for-unsupported-countries"></a>Pro nepodporované země
 
-Pokud vaše země není podporovaná, vytvořte vztah zákaznického zprostředkovatele CSP pomocí adresy URL správce Office. 
+Pokud se vaše země nepodporuje, vytvořte vztah CSP zákazníka pomocí adresy URL správce Office. 
 
-- Partneři s přímým účtováním používají následující adresu URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Nahraďte **partnertenantguid** svým ID tenanta. 
+- Partneři s přímým vyúčtováním používají následující adresu URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Nahraďte **partnertenantguid** svým ID tenanta. 
 
 - Adresa URL pro nepřímé prodejce je: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Nahraďte **IRtenantguid** svým ID tenanta. Nahraďte **IRMPNID** číslem MPN ID a nahraďte **IPtenantguid** ID tenanta nepřímého poskytovatele.
 
@@ -230,36 +228,36 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Vatikán   |          |
 |
 
-## <a name="india-region-and-market"></a>Oblast a trh Indie
+## <a name="india-region-and-market"></a>Indie – oblast a trh
 
-Pokud je umístění vaší společnosti Indie, můžete zákazníkům v Indii prodávat nabídky CSP.
+Pokud se vaše společnost nachází v Indii, můžete zákazníkům v Indii prodávat nabídky CSP.
 
 |  Země/oblast | Měna |
 |  -------------- |:--------:|
 |  Indie          |   INR    |
 |
 
-## <a name="japan-region-and-market"></a>Oblast a trh Japonska
+## <a name="japan-region-and-market"></a>Japonsko – oblast a trh
 
-Pokud je umístění vaší společnosti Japonsko, můžete zákazníkům v Japonsku prodávat nabídky CSP.
+Pokud se vaše společnost nachází v Japonsku, můžete zákazníkům v Japonsku prodávat nabídky CSP.
 
 |  Země/oblast | Měna |
 |  -------------- |:--------:|
 |  Japonsko          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>Korea, oblast a trh
+## <a name="korea-republic-of-region-and-market"></a>Korea, Oblastní republika a trh
 
-Pokud je umístění vaší společnosti Korea, republika, můžete zákazníkům prodávat nabídky v Koreji, republice.
+Pokud se vaše společnost nachází v Koreji v Koreji, můžete zákazníkům v Koreji prodávat nabídky CSP.
 
 |  Země/oblast    | Měna |
 |  --------------    |:--------:|
 |  Korejská republika|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>Latinská Amerika a oblast karibské oblasti a trh
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>Latinská Amerika a oblast a trh Na sněmu
 
-Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníkům nabízet nabídky na všech místech v seznamu.
+Pokud je umístění vaší společnosti uvedené v seznamu níže, můžete zákazníkům prodávat nabídky CSP ve všech umístěních v seznamu.
 
 |  Země/oblast | Měna |
 |  -------------- |:--------:|
@@ -318,9 +316,9 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Americké Panenské ostrovy| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Střední východ, střední Evropa a oblast východní Evropa a trh
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Střední východ, Střední Evropa a oblast a trh východní Evropa
 
-Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníkům nabízet nabídky na všech místech v seznamu.
+Pokud je umístění vaší společnosti uvedené v seznamu níže, můžete zákazníkům prodávat nabídky CSP ve všech umístěních v seznamu.
 
 |  Země/oblast | Měna |
 |  -------------- |:--------:|
@@ -345,7 +343,7 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Libanon        |   USD    |
 |  Lesotho        |   USD    |
 |  Libye          |   USD    |
-|  Makedonie – republika|   |
+|  Kaská republika|   |
 |  Mauritánie     |   USD    |
 |  Moldavsko        |   USD    |
 |  Mongolsko       |   USD    |
@@ -354,7 +352,7 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Mosambik     |   USD    |
 |  Omán           |   USD    |
 |  Pákistán       |   USD    |
-|  Palestinská území, obsazená |        |
+|  Zasněžovaná oblast |        |
 |  Katar          |   USD    |
 |  Saúdská Arábie   |   USD    |
 |  Srbsko         |   USD    |
@@ -371,9 +369,9 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Zimbabwe       |   USD    |
 |
 
-## <a name="new-zealand-region-and-market"></a>Oblast a trh Nového Zélandu
+## <a name="new-zealand-region-and-market"></a>Novozélandská oblast a trh
 
-Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníkům nabízet nabídky na všech místech v seznamu.
+Pokud je vaše společnost v seznamu níže, můžete zákazníkům prodávat nabídky CSP ve všech umístěních v seznamu.
 
 |  Země/oblast | Měna |
 |  -------------- |:--------:|
@@ -383,27 +381,27 @@ Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníků
 |  Vanuatu        |   NZD    |
 |
 
-## <a name="russia-region-and-market"></a>Oblast Rusku a trh
+## <a name="russia-region-and-market"></a>Oblast a trh v Skoku
 
-Pokud je umístění vaší společnosti Rusko, můžete zákazníkům v Rusku prodávat nabídky CSP.
+Pokud se vaše společnost nachází v Kovaně, můžete prodávat nabídky CSP zákazníkům v Nárku.
 
 |  Země/oblast | Měna |
 |  -------------- |:--------:|
 |  Rusko         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Oblast a trh pro Tchaj-wan
+## <a name="taiwan-region-and-market"></a>Tchaj-wan – oblast a trh
 
-Pokud je umístění vaší společnosti na Taiwanu, můžete zákazníkům v Tchaj-wanu prodávat nabídky CSP.
+Pokud se vaše společnost nachází na Tchaj-wanu, můžete zákazníkům v Tchaj-wanu prodávat nabídky CSP.
 
 |  Země/oblast | Měna |
 |  -------------- |:--------:|
 |  Tchaj-wan         |   TWD    |
 |
 
-## <a name="united-states-region-and-market"></a>USA oblast a trh
+## <a name="united-states-region-and-market"></a>USA oblasti a trhu
 
-Pokud je umístění vaší společnosti v seznamu níže, můžete zákazníkům nabízet nabídky na všech místech v seznamu.
+Pokud je umístění vaší společnosti uvedené v seznamu níže, můžete zákazníkům prodávat nabídky CSP ve všech umístěních v seznamu.
 
 |  Země/oblast       | Měna |
 |  -------------        |:--------:|

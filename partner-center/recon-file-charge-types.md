@@ -9,24 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441589"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855875"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Pochopení různých typů poplatků v souborech pro odsouhlasení partnerského centra
 
-**Platí pro**
+**Platí pro**: partnerské Centrum | Partnerské centrum pro Microsoft Cloud pro státní správu USA
 
-- Partnerské centrum pro Microsoft Cloud for US Government
-
-**Příslušné role**
-
-- Agent správce
-- Správce fakturace
-- Globální správce
+**Příslušné role**: Agent správce | Správce fakturace | Globální správce
 
 Tento článek popisuje mapování mezi oddílem faktury a typy přidružených poplatků, které mohou být na vašem souboru pro odsouhlasení. Vaše faktura poskytuje souhrn poplatků. Váš soubor pro odsouhlasení poskytuje podrobný rozpis transakcí položek řádků, včetně typů poplatků. Další informace o souborech pro odsouhlasení najdete v tématu [Jak používat soubory pro odsouhlasení](use-the-reconciliation-files.md).
 
@@ -46,17 +40,17 @@ Chcete-li namapovat tyto poplatky na základě licencí na fakturu, sečtěte sl
 | Popis poplatku (sloupec ChargeType v souboru pro odsouhlasení) | Vysvětlení poplatků |
 | ------------------------------------------------------------- | ------------------ |
 | Aktivační poplatek | Částka, která se účtuje zákazníkovi při použití předplatného po nákupu |
-| Zrušit poplatek | Poměrné náklady se účtují zákazníkovi při změně přidružených licencí. |
-| Zrušit poměr instancí | Poměrné poplatky se zrušily, když zákazník s měsíčním předplatným má předplatné pozastaveno a přidružené licence se v rámci stejného měsíce změnily. |
-| Poplatek za cyklus | Pravidelné poplatky za předplatné |
-| Poměr instance cyklu | Poměrné poplatky se od zákazníka vyhodnotily při změně přidružených licencí. |
-| Poměr poplatků při zrušení | Poměrná refundace nevyužité části služby při zrušení. |
-| Poměrné poplatky při převodu z aktuální nabídky | Poměrné náklady po převodu od aktuálního měsíčního předplatného na roční předplatné |
-| Poměrné poplatky při převodu na novou nabídku | Poměrné náklady po převodu měsíčního předplatného na nové roční předplatné. |
-| Poměrné poplatky při nákupu | Typ poplatků pro předplatné při použití měsíčního nebo ročního účtování. |
-| Poplatek za prodlužování | Poměrné poplatky při obnovení předplatného. |
-| Prodloužit poplatek | Poplatek za obnovení předplatného |
-| Poplatky za rychlost při aktivaci | Poměrné poplatky od aktivace až do konce fakturačního období. |
+| Zrušit poplatek | Po změně přidružených licencí se zákazníkovi vrátí zaceněné poplatky. |
+| Zrušení přenosové rychlosti instancí | Poplatky za předplatná se zruší v případě, že u zákazníka s měsíčním předplatným je předplatné pozastavené a přidružené licence se během stejného měsíce změnily. |
+| Poplatek za cyklus | Pravidelné poplatky za předplatné. |
+| Cyklické přenosy instancí | Poplatky rozceněné zákazníkem posuzované při změně přidružených licencí. |
+| Poplatky za přenos při zrušení | Naceněná refundace za nevyužitou část služby po zrušení. |
+| Poplatky za přenos při převodu z aktuální nabídky | Přeceněné poplatky po převodu z aktuálního měsíčního předplatného na roční předplatné. |
+| Poplatky za přenos při převodu na novou nabídku | Přehodnocené poplatky po převodu měsíčního předplatného na nové roční předplatné. |
+| Poplatky za přenos při nákupu | Typ poplatku za předplatné při použití měsíční i roční fakturace. |
+| Poplatek za přenos při prodloužení platnosti | Poplatky na základě předplatných při prodloužení platnosti předplatného. |
+| Poplatek za prodloužení platnosti | Poplatek za prodloužení platnosti předplatného |
+| Poplatky za přenos při aktivaci | Poměrné poplatky od aktivace až do konce fakturačního období. |
 
 ## <a name="one-time-charges"></a>Jednorázové poplatky
 
@@ -83,26 +77,26 @@ Pokud chcete namapovat tyto poplatky za použití na fakturu, sečtěte sloupec 
 
 Chcete-li namapovat tyto kredity na vaši fakturu:
 
-- Sečtěte **TotalForCustomer** ze souboru založeného na licencích.
-- Sečtěte sloupec **PostTaxTotal** ze souboru založeného na využití.
+- Sečte **totalForCustomer** ze souboru založeného na licencích.
+- Sečte **sloupec PostTaxTotal** ze souboru založeného na využití.
 
-| Popis poplatku (sloupec ChargeType v souboru pro odsouhlasení) | Vysvětlení poplatků |
+| Popis poplatku (sloupec ChargeType v souboru s vyrovnáním) | Vysvětlení poplatků |
 | ------------------------------------------------------------- | ------------------ |
-| Posunutí položky řádku | Částečná nebo celá náhrada za položku na řádku, včetně daní. |
+| Posun řádkové položky | Částečná nebo celá refundace řádkové položky, včetně daní. |
 
-### <a name="usage-based-discounts"></a>Slevy na základě využití
+### <a name="usage-based-discounts"></a>Slevy založené na využití
 
-Pokud chcete tyto slevy na základě využití namapovat na fakturu, sečtěte sloupec **PretaxCharges** ze souboru založeného na využití.
+Pokud chcete tyto slevy založené na využití namapovat na fakturu, sečtete sloupec **PretaxCharges** ze souboru založeného na využití.
 
-| Popis poplatku (sloupec ChargeType v souboru pro odsouhlasení) | Vysvětlení poplatků |
+| Popis poplatku (sloupec ChargeType v souboru s vyrovnáním) | Vysvětlení poplatků |
 | ------------------------------------------------------------- | ------------------ |
-| Aktivační sleva | Sleva použitá při aktivaci předplatného |
-| Sleva na cyklus | Zvýhodněná sleva se účtuje na základě pravidelných poplatků. |
-| Prodloužit slevu | Sleva použitá při obnovení předplatného |
-| Zrušit slevu | Poplatky se účtují při zrušení slev. |
+| Sleva za aktivaci | Sleva uplatněná při aktivaci předplatného |
+| Sleva za cyklus | Sleva uplatněná na pravidelné poplatky. |
+| Sleva za prodloužení platnosti | Sleva uplatněná při prodloužení platnosti předplatného |
+| Zrušení slevy | Poplatky uplatněné při zrušení slev |
 
-### <a name="license-based-discounts"></a>Slevy na základě licencí
+### <a name="license-based-discounts"></a>Slevy založené na licencích
 
-Chcete-li namapovat slevy na základě licencí na fakturu, sečtěte sloupec **TotalOtherDiscount** ze souboru založeného na licencích.
+Pokud chcete na svou fakturu mapovat slevy založené na licencích, sečtete sloupec **TotalOtherDiscount** ze souboru založeného na licencích.
 
 *Slevy založené na licencích mohou být uplatněny na více typů poplatků.*
