@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 30639725c0a852046251e83c3791f56d788931c1
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179206"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152167"
 ---
 # <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problémy s deklarovaným partnerem pro zákazníky záznamů (CPOR)
 
-**Příslušné role**
-
-- Správce fakturace
-- Globální správce
-- Motivace správce
+**Příslušné role**: správce fakturace | Globální správce | Motivace správce
 
 Následující obsah vám pomůže vyřešit problémy, které se můžou při práci se zákaznickými přidruženími.
 
@@ -48,21 +44,21 @@ Pokud tato trasa problém nevyřeší, obraťte se na [podporu](https://partner.
 
 ## <a name="when-subscriptions-will-be-available-to-claim"></a>Když budou předplatná k dispozici pro nárok
 
-Při deklaracích identity pro předplatné se zobrazí chyba, pokud předplatné ještě není zřízené. K dispozici je několik kroků, které zákazník potřebuje k tomu, aby předplatné mohlo být dostupné pro platformu CPOR, aby ji bylo možné vybrat a zpřístupnit. Pokud při pokusu o vyzkoušení předplatného dojde k chybě, obraťte se na zákazníka, aby se zajistilo, že je zřízené a že předplatné, které vyžádáte, je správné. Pokud jste tuto trasu již provedli, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Při deklaracích identity pro předplatné se zobrazí chyba, pokud předplatné ještě není zřízené. K dispozici je několik kroků, které zákazník potřebuje k tomu, aby předplatné mohlo být dostupné pro platformu CPOR, aby ji bylo možné vybrat a zpřístupnit. Pokud se vám při pokusu o deklaraci předplatného zobrazí chyba, obraťte se na zákazníka a ujistěte se, že je zřízené a že předplatné, o které se pokoušíte, je správné. Pokud jste tuto trasu už probrali, kontaktujte [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
-## <a name="which-activity-do-i-choose"></a>Jakou aktivitu mám zvolit?
+## <a name="which-activity-do-i-choose"></a>Kterou aktivitu mám zvolit?
 
-Platforma pro nárokování na CPOR umožňuje deklarace CPOR přidružení souvisejících s oblastmi řešení Business Applications a Microsoft 365. Aktivity, které platí pro jednotlivé oblasti řešení, jsou uvedené níže. Vyberte správnou aktivitu na základě popisů, abyste se vyhnuli nutnosti v budoucnu znovu vymáhat. Nárokování s nesprávnou aktivitou může mít za následek zmeškaný zisk a finanční zisky.
+Platforma CPOR pro nárokování umožňuje žádosti o přidružení CPOR související s Business Applications a Microsoft 365 oblastmi řešení. Aktivity, které se vztahují na jednotlivé oblasti řešení, jsou uvedené níže. Na základě popisů vyberte správnou aktivitu, abyste se vyhnuli budoucímu opětovnému získání. Nárok na nesprávnou aktivitu může mít za následek vynechání způsobilosti a příjmů v rámci pobídek.
 
 
 | Oblast řešení | Aktivita | Platí pro |
 | ------ | ----------- | ----------- |
-| Obchodní aplikace      | Předprodejní   | Tuto možnost vyberte, pokud si nejste ovlivnili nákup opravňujícího produktu a chcete ho použít pro pobídky předběžného prodeje. Tato možnost se vztahuje jenom v případě, že zákazník tyto produkty koupil prostřednictvím multilicenční smlouvy nebo na webu. |
-|    |  Využití  | Tuto možnost vyberte, pokud chcete, aby jejich přijetí a použití způsobilých úloh bylo vhodné a aby se dalo použít k motivaci využití. Tato možnost se vztahuje jenom v případě, že zákazník tyto produkty koupil prostřednictvím multilicenční smlouvy nebo na webu. |
-|    | Přiřazení výnosů   | Tuto možnost vyberte, pokud jste ovlivnili výběr oprávněného produktu jako jeho vliv na firmu. Tato možnost je určena pouze pro sdružení příjmů, nikoli pro pobídkové platby. Tato možnost se vztahuje jenom v případě, že zákazník tyto produkty koupil prostřednictvím multilicenční smlouvy nebo na webu.   |
-| Microsoft 365   | Využití   | Tuto možnost vyberte, pokud chcete, aby jejich přijetí a použití způsobilých úloh bylo vhodné a aby se dalo použít k motivaci využití. |
+| Obchodní aplikace      | Předprodej   | Tuto možnost vyberte, pokud jste ovlivnili nákup způsobilého produktu a chcete požádat o pobídky před prodejem. Tato možnost je platná jenom v případě, že zákazník tyto produkty zakoupil prostřednictvím multilicenční smlouvy nebo programu Web-Direct. |
+|    |  Využití  | Tuto možnost vyberte, pokud chcete řídit jejich přijetí a využití oprávněné úlohy a chcete požádat o pobídky využití. Tato možnost je platná jenom v případě, že zákazník tyto produkty zakoupil prostřednictvím multilicenční smlouvy nebo programu Web-Direct. |
+|    | Revenue association   | Tuto možnost vyberte, pokud jste ovlivnili výběr vhodného produktu jako obchodního vlivového. Tato možnost se používá pouze pro přidružení výnosů, nikoli pro platby v rámci pobídek. Tato možnost je platná jenom v případě, že zákazník tyto produkty zakoupil prostřednictvím multilicenční smlouvy nebo programu Web-Direct.   |
+| Microsoft 365   | Využití   | Tuto možnost vyberte, pokud chcete řídit jejich přijetí a využití oprávněné úlohy a chcete požádat o pobídky využití. |
 
-## <a name="which-mpn-do-i-choose"></a>Který MPN si vyberu?
+## <a name="which-mpn-do-i-choose"></a>Které MPN zvolím?
 
 V toku deklarace identity přidružení CPOR se zobrazí výzva k výběru MPN společnosti, který by se měl přidružit k práci, kterou na koncovém zákazníkovi připravujete. Vaše společnost může mít spoustu MPNs, z nichž některé můžou být zaregistrované v rámci motivačních programů, a další související s typem partnera, jako je FRP FastTrack. Tok deklarace identity CPOR identifikuje, které MPNs jsou zaregistrované v programu pro podnět, ale neupozorní vás, pokud se jedná o konkrétní partnerský typ MPN. Je důležité si vybrat správný MPN, abyste se vyhnuli nutnosti v budoucnu znovu vymáhat. Nárokování na nesprávný MPN může mít za následek zmeškaný zisk a finanční zisky.
 
@@ -84,10 +80,10 @@ Pokud vytváříte deklaraci CPOR přidružení pro zákazníka a jejich produkt
 
 3. Od obou partnerů můžou být požadovány další informace, které by mohly způsobit zpoždění při zpracování žádosti o přidružení.
 
-4. Vaše deklarace identity přidružení CPOR bude i nadále přezkoumána během pěti pracovních dnů, i když jeho stav může zůstat _pod kontrolou_ po delší dobu. K tomuto scénáři může dojít, když Microsoft spolupracuje s partnerem aktuálně vlastnícím produkt nebo úlohu. V případě, že se jedná o případ, budete upozorněni v části komentáře vaší deklarace. 
+4. Vaše deklarace identity přidružení CPOR bude i nadále přezkoumána během pěti pracovních dnů, i když jeho stav může zůstat _pod kontrolou_ po delší dobu. K tomuto scénáři může dojít, když Microsoft spolupracuje s partnerem aktuálně vlastnícím produkt nebo úlohu. V takovém případě budete upozorněni v části komentáře vaší žádosti. 
 
 >[!IMPORTANT]
->Pokud budeme potřebovat další informace k ověření CPOR provádění (PoE), budeme vás kontaktovat v části komentáře deklarace identity CPOR.
+>Pokud k ověření důkazu o provedení přidružení CPOR potřebujeme další informace, budeme vás kontaktovat v části Komentáře k žádosti o přidružení CPOR.
 
 ## <a name="next-steps"></a>Další kroky
 

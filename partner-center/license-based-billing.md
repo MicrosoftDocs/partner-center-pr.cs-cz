@@ -9,23 +9,18 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179407"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151827"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Fakturace na základě licencí v partnerském centru
 
-**Příslušné role**
+**Příslušné role**: globální správce | Správce správy uživatelů | Správce fakturace | Agent správce
 
-- Globální správce
-- Správce správy uživatelů
-- Správce fakturace
-- Agent správce
-
-Při nákupu produktů nebo online služby v partnerském centru, které vyžaduje **licence**, se vám bude účtovat každá zakoupená *licence* . Používání těchto licencí *se vám neúčtuje* . (Informace o fakturaci na základě využití a dalších typech fakturace najdete [v tématu typy fakturace v partnerském centru](billing-different-types.md).)
+Při nákupu produktů nebo online služby v partnerském centru, které vyžaduje **licence**, se vám bude účtovat každá zakoupená *licence* . Používání těchto licencí *se vám neúčtuje* . (Informace o fakturaci na základě využití a dalších typech fakturace najdete [v tématu typy fakturace v partnerském centru](./billing-basics.md).)
 
 ## <a name="license-billing-frequency"></a>Četnost fakturace licencí
 
@@ -58,8 +53,8 @@ Všechna předplatná založená na licencích automaticky prodlouží 12 měsí
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Přehled fakturace partnerského centra](billing-basics.md)
+- [Přehled fakturace Partnerské centrum dat](billing-basics.md)
 
-- [Typy fakturace v Partnerském centru](billing-different-types.md)
+- [Typy fakturace v Partnerském centru](./billing-basics.md)
 
-- [Hlavní fakturační a daňové články](billing.md)
+- [Hlavní články o fakturaci a daních](billing.md)

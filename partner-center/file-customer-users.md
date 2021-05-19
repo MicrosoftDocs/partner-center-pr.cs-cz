@@ -9,18 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 152daadde25a9325937797f7a3daa90dfb59a9b4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441417"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150977"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Přidání více uživatelů na účet zákazníka vytvořením souboru. csv
 
-**Příslušné role**
-
-- Globální správce
+**Příslušné role**: globální správce
 
 Přidejte více uživatelů na účet zákazníka najednou, a to tak, že do partnerského centra nahrajete datový soubor ve formátu textový soubor s oddělovači (. csv). Ukázkový datový soubor si můžete stáhnout z partnerského centra a pak ho upravit pro vaše použití, nebo můžete vytvořit nový datový soubor pomocí datového modelu definovaného níže.
 
@@ -40,10 +38,10 @@ V datovém souboru zadejte následující data:
 |:-------- |:------  |:----- |
 | Jméno  | Křestní jméno uživatele (volitelné pole)  | 50 – limit znaků  |
 | Příjmení  | Poslední jméno uživatele (volitelné pole)  | 50 – limit znaků  |
-| Zobrazované jméno    | Název zobrazený v partnerském centru (povinné pole)                            | 50 – limit znaků                         |
-| E-mail   | Obchodní e-mailová adresa uživatele na zákaznické firmě (povinné pole)           | Každý uživatel musí mít jedinečnou e-mailovou adresu. |
-| Aktualizace stavu   | Slouží k označení, zda byl záznam nového uživatele úspěšně vytvořen. | \*\*Ponechat prázdné\*\*                        |
+| Zobrazované jméno    | Název zobrazený v Partnerské centrum (povinné pole)                            | Limit 50 znaků                         |
+| E-mail   | Obchodní e-mailová adresa uživatele ve společnosti zákazníka (povinné pole)           | Každý uživatel musí mít jedinečnou e-mailovou adresu. |
+| Aktualizace stavu   | Slouží k určení, jestli se nový záznam uživatele úspěšně vytvořil. | \*\*Ponechte prázdné.\*\*                        |
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Postup přidání více uživatelů pro zákazníka](adding-multiple-users-to-a-customer-account.md)
+- [Přidání více uživatelů pro zákazníka](adding-multiple-users-to-a-customer-account.md)

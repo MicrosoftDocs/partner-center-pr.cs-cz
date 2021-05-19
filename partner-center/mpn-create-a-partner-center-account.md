@@ -9,18 +9,16 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8177222d2c39732ac36543e523f268313fb8c4e
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 3f5ef67372b0472212943d29dfcd4212f453a15e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795053"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152456"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Vytvoření účtu MPN v partnerském centru pro správu výhod a kompetencí sítě
 
-**Příslušné role**
-
-- Správce partnera MPN
+**Příslušné role**: správce partnerů MPN
 
 Pokud s Microsoft Partner Network (MPN) začínáte a nemáte ID MPN, můžete zahájit registraci podle [pokynů k registraci](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
@@ -39,7 +37,7 @@ Až budete připraveni vytvořit účet v partnerském centru, budete muset mít
 - Informace o procesu ověřování najdete v tématu [ověření účtu](verification-responses.md).
 
 >[!NOTE]
->Pokud je vaše Microsoft Partner Network stále v partnerském centru pro členství v organizaci (PMC), budete muset svůj účet hned migrovat do partnerského centra. Stáhněte [si podrobného průvodce migrací .](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+>Pokud je vaše Microsoft Partner Network stále v partnerském centru pro členství v organizaci (PMC), budete muset svůj účet hned migrovat do partnerského centra. Stáhněte si [podrobný průvodce migrací](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
 
 ## <a name="get-started"></a>Začínáme
 
@@ -47,9 +45,9 @@ Až budete připraveni vytvořit účet v partnerském centru, budete muset mít
 
     a.  E-mailová adresa musí být platná a přístupná, protože na tento e-mail odešleme ověřovací kód, abyste mohli pokračovat.
 
-    b.  E-mailová adresa by neměla obsahovat slova jako "info", "admin", email@ "." Nebo . marketing@.. Tyto formáty adres se nepodporují.
+    b.  E-mailová adresa by neměla obsahovat slova jako "info", "admin", email@ "." Nebo " marketing@.. ."; tyto formáty adres nejsou podporovány.
 
-    c.  Pokud si chcete koupit MAPS nebo spravovat kompetence, [](become-global-admin.md) musíte tento účet upgradovat tak, že ověříte doménu a stanete se správcem. 
+    c.  Pokud si chcete koupit MAPS nebo spravovat kompetence, [](become-global-admin.md) budete muset tento účet upgradovat tak, že ověříte doménu a stanete se správcem. 
 
 2. Můžete se přihlásit pomocí pracovního účtu Office 365, například you@contoso.onmicrosoft.com .
 
@@ -60,14 +58,14 @@ Až budete připraveni vytvořit účet v partnerském centru, budete muset mít
 
     Profil společnosti můžete buď vytvořit, nebo zadat informace o společnosti ručně. Pokud je vaše společnost zaregistrovaná [u Duna & Bradpsaného,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)vyhledejte informace o vaší společnosti pomocí ID DUNS. Pokud chcete podrobnosti o vaší společnosti zadat sami, vyberte **Ruční**.
 
-    Pokud se vaše společnost nachází v Arménii,  **Naně,**  **Stánsku,** Nastánu, Nasaně nebo Zélandu a zadáte svou adresu ručně, vaši adresu ověříme za vás.   Pokud se zadáte liší od ověřené adresy, doporučujeme použít ověřenou adresu. Tím se zajistí, že prvky adresy jsou standardizované tak, jak je definováno poštovním úřadem země, správně naformátované a doručitelné.  
+    Pokud se vaše společnost nachází v Arménii, **Naaru,** **Stánsku,** Nasai, Kašarí, Nebo Skoku, a zadáte svou adresu ručně, ověříme vaši adresu za vás.   Pokud se zadáte liší od ověřené adresy, doporučujeme použít ověřenou adresu. Tím se zajistí, že prvky adresy budou standardizované tak, jak je definováno poštovním úřadem země, správně naformátované a doručitelné.  
 
     Jakmile zadáte informace o společnosti, zadejte primární kontaktní údaje. Primárním kontaktem by měla být osoba ve vaší společnosti, kterou můžeme kontaktovat ohledně vaší aplikace (tímto kontaktem můžete být vy nebo jiná osoba ve vaší společnosti).
 
 4. Vyberte **Zaregistrovat.**
 
     >[!IMPORTANT]
-    >Za účelem zajištění zabezpečení a ochrany osobních údajů vaší společnosti pošleme e-mail vašemu primárnímu kontaktu, abyste ověřili e-mailovou adresu a zajistili, že e-mailová adresa patří vaší společnosti. Když primární kontakt ověří e-mailovou adresu, budeme pokračovat v naší kontrole informací, které jste zadali. Ověření obvykle trvá 3-5 pracovních dnů. 
+    >Za účelem zajištění zabezpečení a ochrany osobních údajů vaší společnosti pošleme e-mail vašemu primárnímu kontaktu, abyste ověřili e-mailovou adresu a zajistili, že e-mailová adresa patří vaší společnosti. Jakmile primární kontakt e-mailovou adresu ověří, budeme pokračovat v naší recenzi informací, které jste poskytli. Ověření obvykle trvá 3-5 pracovních dnů. 
 
 ## <a name="registration-id-numbers-by-country"></a>Registrační čísla ID podle země
 
@@ -84,19 +82,19 @@ Následující tabulka obsahuje ukázky registračních čísel shromážděnýc
 | **Čína** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – daňové identifikační číslo |
 | **Maďarsko**  | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – daňové identifikační číslo |
 | **Indie** | Daňové ID<br>[Pan](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – zapojení do sítě pan Indie znamená, že jedna organizace pracuje na několika místech v Indii. |
-| **Irák** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |
-| **Kazachstán**  | BIN – identifikační číslo banky<br>IIN – identifikační číslo vystavitele |
-| **Kyrgyzstán**  | INN – daňové identifikační číslo |
-| **Moldavsko**  | IDNO – jedinečné identifikační číslo stavu přiřazené právnímu subjektu (označované také jako . Fiskální kód).<br>IDNP – rodný osobní kód ("Numarul de Identifi ne identifikátor") |
-| **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo | 
-| **Polsko**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – daňové identifikační číslo<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – národní identifikační číslo používané v Indu (polština Powszechny Elektroniczny System Usedidencji Powszechny, Universal Electronic System for Registration of the Population) |
-| **Rusko**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – daňové identifikační číslo (ruština "Individualiy Nomer Nalogoplatel jejich") |
-| **Saúdská Arábie** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – daňové identifikační číslo |
-| **Jižní Afrika** | TRN – číslo registrace provozu |
-| **Jižní Súdán** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |
-| **Tádžikistán**  | INN – daňové identifikační číslo<br>EIN – identifikační číslo zaměstnance<br>KPP – jedná se o kód, který odráží důvod registrace organizace. |
-| **Thajsko** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |
-| **Turecko** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – daňové identifikační číslo<br>Nin |
+| **Irák** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |
+| **Kazachstán**  | PŘIHRÁDKA – identifikační číslo banky<br>PROFILACE – identifikační číslo vystavitele |
+| **Kyrgyzstán**  | DIČ – daňové identifikační číslo |
+| **Moldavsko**  | IDNO – jedinečné identifikační číslo stavu přiřazené k právní entitě (známé také jako. Fiskální kód).<br>IDNP – osobní kód pro narození ("Numarul de Identificare") |
+| **Myanmar** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo | 
+| **Polsko**  | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – daňové identifikační číslo<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – národní identifikační číslo používané v Polsku (polský Powszechny Elektroniczny System Ewidencji Ludności, univerzální elektronický systém pro registraci populace) |
+| **Rusko**  | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – daňové identifikační číslo (ruština "Individualiy nomer Nalogoplatelshika") |
+| **Saúdská Arábie** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – daňové identifikační číslo |
+| **Jižní Afrika** | TRN – registrační číslo provozu |
+| **Jižní Súdán** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |
+| **Tádžikistán**  | DIČ – daňové identifikační číslo<br>EIN – identifikační číslo zaměstnavatele<br>KPP – jedná se o kód, který odráží důvod registrace organizace. |
+| **Thajsko** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – daňové identifikační číslo |
+| **Turecko** | [DIČ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – daňové identifikační číslo<br>NZA |
 | **Ukrajina**  | EGRPOU<br>EDRPOU – místní ID |
 | **Spojené arabské emiráty** | Daňové ID<br>[Číslo DPH](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – také označované jako DIČ. Toto je jedinečné číslo identifikující osobu (obchodní) nebo nezdanitelnou právnickou osobu, která je zaregistrovaná pro DPH. |
 | **Spojené státy** | [Ein](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – identifikační číslo zaměstnavatele |

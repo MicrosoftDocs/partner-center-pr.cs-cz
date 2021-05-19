@@ -1,44 +1,41 @@
 ---
-title: Motivace – Nejčastější dotazy
+title: Incentives – nejčastější dotazy
 ms.topic: how-to
 ms.date: 02/05/2021
-description: Nejčastější dotazy k motivům Microsoftu Tento článek obsahuje otázky týkající se uživatelských rolí, postupu při registraci nebo k tomu, co dělat s chybovými zprávami.
+description: Nejčastější dotazy týkající se pobídek Microsoftu Tento článek obsahuje otázky týkající se rolí uživatelů, způsobu registrace nebo co dělat s chybových zpráv.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a917f3648447ac273fae839d32a4b4d3ce80ae35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179492"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152014"
 ---
-# <a name="frequently-asked-questions-on-incentives"></a>Nejčastější dotazy k motivům
+# <a name="frequently-asked-questions-on-incentives"></a>Nejčastější dotazy k pobídkovým pobídám
 
-**Příslušné role**
+**Odpovídající role:** Správce pobídek | Uživatel pobídek
 
-- Motivace správce
-- Motivace uživatelů
+## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Musím být globálním správcem, aby se bylo možné zaregistrovat do pobídek?
 
-## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Potřebuji být globálním správcem pro registraci v rámci pobídek?
+No. Globální správce i správce účtu mohou přiřadit uživatele jako správce pobídek. Správci pobídek spravují firemní programy pobídek prostřednictvím Partnerské centrum. Další informace najdete v tématu [Přehled oprávnění.](permissions-overview.md)
 
-No. Globální správce i správce účtu můžou přiřadit uživatele jako pobídky správců. Pomocí partnerského centra můžou správci IT spravovat IT programu společnosti. Další informace najdete v tématu [Přehled oprávnění](permissions-overview.md).
+## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>Co musím udělat, když zjistím, že moje společnost už je členem Microsoft Partner Network (MPN)?
 
-## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>Co musím udělat, když se mi moje společnost už členem Microsoft Partner Network (MPN)?
+Pokud se pokusíte připojit k MPN a vaše společnost už je členem, mpn rozpozná doménu a přidruží vás k existujícímu účtu. Stávajícím účtem může být stejná společnost nebo související společnost, která používá stejnou e-mailovou doménu, nebo stejný adresář aktivit Azure (Azure AD) pro správu více domén.
 
-Pokud se pokusíte připojit k programu MPN a vaše společnost již je členem, program MPN tuto doménu rozpozná a přidruží k existujícímu účtu. Existující účet může být stejná společnost nebo související společnost pomocí stejné e-mailové domény nebo stejného adresáře aktivity Azure (Azure AD) pro správu víc domén.
+Primární kontakt můžete identifikovat na stránce Právní profil. Pokud se nacházíte v umístění MPNHQ, stačí nastavit požadovaná oprávnění ke správě pobídek. Další informace o rolích a oprávněních najdete v tématu [Přehled oprávnění.](permissions-overview.md)
 
-Primární kontakt můžete identifikovat na stránce právní profil. Pokud se jedná o umístění MPNHQ, stačí, když nastavíte požadované oprávnění ke správě pobídek. Další informace o rolích a oprávněních najdete v tématu [Přehled oprávnění](permissions-overview.md).
-
-Pokud nejste ve stejné zemi jako umístění MPNHQ, najdete další podrobnosti o tomto scénáři v [pokynech pro více národních účtů](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) .
+Pokud se nenachádíte ve stejné zemi jako umístění MPNHQ, přečtěte si další podrobnosti o tomto scénáři v pokynech pro [multiná](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) národní účty.
 
 ## <a name="what-user-roles-are-available"></a>Jaké role uživatelů jsou k dispozici?
 
-Osoba, která zaregistrovala společnost v partnerském centru, se ve výchozím nastavení stane primárním kontaktem a globálním správcem. Správce může pozvat a spravovat uživatele na portálu.
+Osoba, která zaregistruje společnost v Partnerské centrum se ve výchozím nastavení stane primárním kontaktem a globálním správcem. Správce může pozvat a spravovat uživatele na portálu.
 
-Klíčovými rolemi pro pobídky jsou pobídky správce a pobídky uživatele. Správce pobídek se může zaregistrovat v motivačních programech a spravovat bankovní a daňové údaje pro partnera. Uživatelé pobídek mohou zobrazit sestavy v nástroji, abyste viděli, co bylo placeno, a rozpis každé platby, ale nemůžou zobrazit ani upravit informace o bance. Obě role se můžou vztahovat na všechna místa v rámci globálního účtu partnera.
+Hlavní role pro pobídky jsou správce pobídek a uživatel pobídek. Správce pobídek se může zaregistrovat v motivačních programech a spravovat bankovní a daňové údaje pro partnera. Uživatelé pobídek mohou zobrazit sestavy v nástroji, abyste viděli, co bylo placeno, a rozpis každé platby, ale nemůžou zobrazit ani upravit informace o bance. Obě role se můžou vztahovat na všechna místa v rámci globálního účtu partnera.
 
 Další informace najdete v tématu [Přehled oprávnění](permissions-overview.md).
 
@@ -64,17 +61,17 @@ Pravděpodobným důvodem, proč nemůžete zobrazit pobídky, je, že nemáte s
 
 4. Pokud již máte roli správce pobídky, zobrazí se registrace pro vaši společnost pro ID MPN a k motivačním programům, ke kterým máte přístup.
 
-## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Na stránce s přehledem pobídek chybí některá registrace.
+## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Na stránce přehledu pobídek chybí některé registrace.
 
-Pokud jste obdrželi pozvánku z nebo jste ji zaregistrovali v nástroji, je vhodné, abyste si poklepali, že máte odpovídající přístup. Program uvidí jenom uživatelé s rolí pobídky uživatel nebo motiv správce. Viz [najít vaši roli](./find-your-role.md).
+Pokud jste buď obdrželi pozvánku z programu pobídek, který se už na řídicím panelu nezobrazí, nebo jste se do něj zaregistrovali, měli byste zkontrolovat, jestli máte odpovídající přístup. Program se může zobrazit pouze uživatelům s rolí uživatele pobídek nebo správce pobídek. Další [informace najdete v tématu Vyhledání role.](./find-your-role.md)
 
-Pokud potřebujete změnit svoji roli nebo oprávnění, obraťte se na svého globálního správce nebo správce účtu vaší společnosti. Pokud se chcete dozvědět, kdo jsou lidé, přečtěte si téma [vyhledání globálního správce](./find-your-role.md#find-your-global-admin).
+Pokud potřebujete změnit roli nebo oprávnění, obraťte se na globálního správce nebo správce účtu vaší společnosti. Pokud se chcete dozvědět, kdo jsou tito lidé, [přečtěte si, jak najít globálního správce.](./find-your-role.md#find-your-global-admin)
 
-Na stránce Přehled se zobrazí pouze registrace, které jsou spojeny s globálním účtem partnera (PGA) přidruženým ke klientovi služby Azure AD. Pokud má vaše společnost více než jeden PGA, budete pro každé z nich potřebovat jiné přihlašovací údaje.
+Na stránce Přehled se zobrazí pouze registrace přidružené ke globálnímu účtu partnera (PGA) přidruženému k tenantovi Azure AD. Pokud má vaše společnost více pga, musíte mít pro každou z nich jiné přihlašovací údaje.
 
-## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Koho se mám obrátit, když se zobrazí chybová zpráva nebo potřebujete pomoc během procesu registrace?
+## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Na koho se mám obrátit, když se mi během procesu registrace zobrazí chybová zpráva nebo potřebuji pomoc?
 
-Pokud narazíte na nějaký problém v části pobídky na řídicím panelu, je k dispozici online služba podpory. Další informace najdete v možnosti podpora (? Ikona) vpravo nahoře.
+Pokud narazíte na nějaký problém v části Pobídky na řídicím panelu, je k dispozici online služba podpory – viz možnost podpory (? Ikona) v pravém horním rohu.
 
 ## <a name="next-steps"></a>Další kroky
 

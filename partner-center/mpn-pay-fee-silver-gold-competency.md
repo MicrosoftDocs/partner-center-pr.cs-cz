@@ -8,19 +8,16 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: b6dab5fb57d26c00928441d7962511e6530fa3b1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132481"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152320"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Jak platit poplatek spojený s stříbrnou nebo Gold Competency
 
-**Příslušné role**
-
-- Správce partnera MPN
-- Správce účtu
+**Příslušné role**: správce partnerů MPN | Správce účtu
 
 Tento článek popisuje, jak a kdy platíte poplatky spojené s dosahací stříbrné nebo zlaté Microsoft Partner Network kompetence. Tento článek také popisuje, jak změnit upřednostňovanou metodu platby, jak zrušit objednávku a jak při přechodu z stříbra na Gold Competency získat slevu za 25 procent.
 
@@ -41,34 +38,34 @@ Jinak pomocí těchto kroků platíte poplatek za stříbrné nebo Gold Competen
 
 1. Pomocí přihlašovacích údajů k pracovnímu účtu vaší organizace se přihlaste k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra.
 
-2. Z navigační nabídky vyberte [nabídky členství](https://partner.microsoft.com/dashboard/mpn/offers) . 
+2. V [navigační nabídce vyberte Nabídky](https://partner.microsoft.com/dashboard/mpn/offers) členství. 
 
-3. V části **nabídky k dispozici k nákupu** Najděte dlaždici **členství ve** spojených vzčlenech nebo dlaždici **zlata** , která je přidružená k vaší konkrétní kompetenci. 
+3. V **části Offers available for purchase**(Nabídky dostupné k nákupu) vyhledejte dlaždici Silver Membership (Členství úrovně **Silver)** nebo dlaždici Gold Membership (Členství úrovně **Gold)** přidruženou k vaší konkrétní kompetenci. 
 
-4. Vyberte možnost **přihlášení k odběru** , která se nachází v pravém dolním rohu dlaždice konkrétního stříbra nebo zlatého členství.
+4. Vyberte možnost **Přihlásit k** odběru, která se nachází v pravém dolním rohu konkrétní dlaždice členství Silver nebo Gold.
 
-   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Stránka nabídky členství, která zobrazuje stříbrné nebo zlaté členství, se může partner přihlásit k odběru nebo zakoupit." border="false":::
+   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Stránka nabídek členství zobrazující členství ve zlatém nebo zlatém členství, ke které se partner může přihlásit nebo koupit." border="false":::
 
    > [!Note]
-   > Pokud jste ještě nevyhověli požadavkům pro požadované stříbrné nebo Gold Competency, nebudete se moct přihlásit k odběru stříbra/zlata nebo zaplatit související poplatky za kompetenci. Pokud už jste partnerem Gold Competency, budou se vám automaticky připsat i další výhody pro Silver Competency. V tomto scénáři platí, že možnost platit poplatek za Silver Competency bude také nedostupná.
+   > Pokud jste ještě nevyhodili požadavky na požadovanou silver nebo gold competency, nebudete se moct přihlásit k odběru členství úrovně silver/gold ani zaplatit přidružený poplatek za kompetence. Pokud už jste partnerem pro kompetence Gold Competency, přírůstkové výhody pro silver competency se vám automaticky přidělí. V tomto scénáři nebude dostupná také možnost zaplatit poplatek za silver competency.
 
-4. Na stránce **Podrobnosti o nákupu** zkontrolujte a potvrďte své údaje.
+4. Na stránce **Podrobnosti o nákupu** zkontrolujte a potvrďte své podrobnosti.
 
-   (Další informace o aktualizaci [informací o **daňovém ID** vaší společnosti nebo o](./organization-tax-info.md) [ **fakturaci** vaší společnosti na podnikovou adresu](./mpn-get-action-pack.md).)
+   (Další informace o aktualizaci [informací  o](./organization-tax-info.md) TID vaší společnosti nebo vyúčtování nebo prodané na adresu [  společnosti](./mpn-get-action-pack.md).)
 
-   :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Členství nabízí stránku s podrobnostmi o nákupu s platebními preferencemi." border="false":::
+   :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Stránka s podrobnostmi o nákupu nabídek členství s platebními preferencemi." border="false":::
 
-5. V levém dolním rohu stránky Najděte oddíl **Předvolby pro platby** . Vyberte možnost **platební karta** nebo **přenos s elektronickými bankami** a pak vyberte **Další**. Další kroky související s kteroukoli z možností najdete v následujících částech.
+5. V levém dolním rohu stránky vyhledejte část **Vyberte preferovanou platbu.** Vyberte možnost **Platební karta nebo** Elektronický bankovní **převod** a pak vyberte **Další.** Další kroky související s některou z těchto možností najdete v následujících částech.
 
 ### <a name="use-a-credit-card-as-your-payment-preference"></a>Použití platební karty jako předvolby platby
 
-Pomocí těchto kroků dokončete platbu na platební kartu pro přidružené stříbrné nebo Gold Competency členství.
+Postupujte podle těchto kroků a dokončete platbu platební kartou za přidružené členství v silver nebo gold competency.
 
-1. Pokud jste jako upřednostňovanou metodu platby vybrali **platební kartu** , zobrazí se stránka s podrobnostmi o kreditní kartě. 
+1. Pokud jste jako **preferovaný způsob** platby vybrali Platební karta, zobrazí se stránka s podrobnostmi o platební kartě. 
 
-   :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="Stránka s podrobnostmi o platební platební kartě nabídky členství" border="false":::
+   :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="Stránka s podrobnostmi platební karty nabídky členství" border="false":::
 
-2. Vyberte odkaz **smlouva** Zavřít v horní části této stránky a Projděte si podmínky nákupu nabídky MPN a ujednání jménem vaší společnosti. Tato smlouva obsahuje důležité informace o fakturačním účtu, prodloužení platnosti, nároku na refundaci a daních.
+2. Vyberte odkaz **na** smlouvu v horní části této stránky a zkontrolujte podmínky nákupu nabídky MPN jménem vaší společnosti. Tato smlouva nabízí důležité informace o fakturačním účtu, prodloužení platnosti, způsobilosti pro refundaci a daních.
 
 3. Zadejte podrobnosti kreditní karty a fakturační údaje do souvisejících polí a pak vyberte **platit**.
 
@@ -98,33 +95,33 @@ Pomocí těchto kroků dokončete přenos e-mailu pro přidruženého stříbrn�
    > [!NOTE]
    > Vaše **číslo objednávky** a **ID MPN** se zobrazí hned po úspěšném **odeslání** objednávky. Poznamenejte si tyto informace. Budete ho potřebovat později k dokončení vašeho bankového přenosu.
 
-1. Zobrazí se potvrzovací stránka s oznámením, že vaše odeslání bylo úspěšné. Po dokončení přenosového přenosu s bankou se budete muset vrátit na tuto stránku, abyste nahráli potvrzení platby.
+1. Zobrazí se potvrzovací stránka s oznámením, že vaše odeslání bylo úspěšné. Po dokončení bankovního převodu se budete muset vrátit na tuto stránku a nahrát doklad o zaplacení.
 
-   :::image type="content" source="images/offers/5-mpn-competency-payment-thank-you-confirmation.png" alt-text="Stránka pro potvrzení odeslání" border="false":::
+   :::image type="content" source="images/offers/5-mpn-competency-payment-thank-you-confirmation.png" alt-text="Stránka pro potvrzení odeslání." border="false":::
 
-1. Dokončete přenos ze svého bankovního účtu. Ujistěte se, že jste provedli následující akce:
+1. Dokončete bankovní převod z bankovního účtu. Nezapomeňte provést následující:
 
-   - V podrobnostech referenčních informací o přenosech přenosu uveďte **číslo objednávky** i **ID MPN** .
+   - Do referenčních **informací k převodu** **převodu zahrřte** číslo objednávky i ID MPN.
 
-   - Přeneste dlužnou částku (v předchozí měně) na účet Microsoft bank zobrazený v oblasti **pokyny pro přenos kabelů** na předchozí stránce.
+   - Přeneste splatnou částku (v měně uvedené výše) na bankovní účet Microsoftu zobrazený v oblasti s pokyny k převodu **bezhotového převodu na předchozí** stránce.
 
-1. Jakmile banka transakci potvrdí, požádejte o potvrzení, že se banka bude pořídit jako důkaz. Ujistěte se, že dokument potvrzující potvrzení banky zobrazuje podrobnosti o: 
-   - Datum, kdy došlo k platbě za přenos přenosu
-   - Účet Microsoft bank, který se používá pro příjem přenosů přes váš kabel
-   - Objem přenosů zobrazený ve správné měně
-   - Číslo objednávky a číslo ID MPN
+1. Jakmile vaše banka transakci potvrdí, udělejte jako doklad fotku bankovního potvrzení. Ujistěte se, že dokument s potvrzením o bankovním potvrzení obsahuje podrobnosti o: 
+   - Datum, kdy došlo k platbě převodem
+   - Bankovní účet Microsoftu použitý k přijetí bankovního převodu
+   - Částka převodu zobrazená ve správné měně
+   - Číslo objednávky a ID MPN
 
-1. V další části najdete postup odeslání dokumentu platby za zkušební přenos přenosů.
+1. Postup nahrání dokumentu o potvrzení platby převodem najdete v další části.
 
-### <a name="upload-proof-of-wire-transfer-payment"></a>Nahrát důkaz platby za přenos přes telegraf
+### <a name="upload-proof-of-wire-transfer-payment"></a>Nahrání dokladu o zaplacení bezhotového převodu
 
-Pokud platíte za svůj poplatek za váš stříbro nebo zlato prostřednictvím elektronického přenosu, budete muset odeslat důkaz o platbě do partnerského centra. K tomu použijte následující postup:
+Pokud platíte poplatek za členství ve formě zlatého nebo zlatého členství elektronickým převodem, musíte nahrajte doklad o zaplacení do Partnerské centrum. Postupujte takto:
 
-1. Vraťte se do [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra a pak vyberte možnost **nabídky členství** v nabídce vlevo v navigaci.
+1. Vraťte se Partnerské centrum [řídicího panelu](https://partner.microsoft.com/dashboard)a pak **v** levé navigační nabídce vyberte možnost Nabídky členství.
 
-1. V seznamu koupené nabídky Najděte konkrétní nabídku. Potom ve sloupci akce této nabídky vyberte **Odeslat kontrolu plateb**.
+1. V seznamu Zakoupené nabídky vyhledejte konkrétní nabídku. Potom ve sloupci Akce pro tuto nabídku vyberte Upload payment proof (Nahrát **doklad o zaplacení).**
 
-   :::image type="content" source="images/offers/6-mpn-competency-payment-show-purchased-offers.png" alt-text="Seznam nabídek zakoupených členství zobrazuje možnost s možností volby, odeslat důkaz platby pro každou zakoupenou nabídku." border="false":::
+   :::image type="content" source="images/offers/6-mpn-competency-payment-show-purchased-offers.png" alt-text="Seznam zakoupených nabídek členství s možností výběru a odesláním dokladu o zaplacení pro každou zakoupenou nabídku." border="false":::
 
 1. Na stránce Podrobnosti vyhledejte pole **důkaz platby** . Vyberte **Procházet** a vyhledejte dokument pro kontrolu a nahrajte ho do partnerského centra.
 
@@ -150,36 +147,36 @@ Chcete-li zrušit existující, nepodporovaný přenos elektronickými bankami a
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard) pro Partnerské centrum.
 
-2. V nabídce vlevo vyberte nabídky **členství** .
+2. V **levé navigační nabídce** vyberte Nabídky členství.
 
-3. V seznamu koupené nabídky vyhledejte konkrétní nabídku, kterou chcete zrušit. Potom ve sloupci akce této nabídky vyberte **Zrušit objednávku**.
+3. V seznamu Zakoupené nabídky vyhledejte konkrétní nabídku, kterou chcete zrušit. Potom ve sloupci Akce pro tuto nabídku vyberte **Zrušit objednávku.**
 
-   :::image type="content" source="images/offers/8-mpn-competency-payment-cancel-order.png" alt-text="Seznam nabídek zakoupených členství zobrazí možnost zrušit objednávku." border="false":::
+   :::image type="content" source="images/offers/8-mpn-competency-payment-cancel-order.png" alt-text="V seznamu zakoupených nabídek členství se zobrazuje možnost Zrušit objednávku." border="false":::
 
-4. Pomocí zbývajících kroků objednávku zrušte. 
+4. Pokud chcete objednávku zrušit, postupujte podle zbývajících kroků. 
 
-5. V předchozích částech najdete nové pořadí s novými platebními preferencemi, které jsou založené na jedné z nabídek stříbrného nebo zlatého členství, které máte pořád k dispozici.
+5. Pokud chcete vytvořit novou objednávku s novými platebními preferencemi na základě jedné z nabídek členství silver nebo gold, které jsou stále k dispozici, přečtěte si předchozí části.
 
-## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>Při přechodu z stříbra na Gold použít slevu pro upgrade
+## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>Použití slevy za upgrade při přechodu ze silver na zlaté
 
-Pokud má vaše organizace aktivní Silver Competency a splnila požadavky na způsobilost pro související Gold Competency, máte nárok na upgrade z stříbra na Gold za cenu. V ceně Gold Competency obdržíte 25% slevu.
+Pokud má vaše organizace aktivní silver competency a splňuje podmínky způsobilosti pro přidruženou kompetence Gold Competency, máte nárok na upgrade ze silver na zlatý na slevu. Obdržíte 25% slevu na cenu zlaté kompetence.
 
-Nové datum výročí v Gold bude naplánováno na jeden rok od data nákupu. Získáte plné přínosy Gold.
+Nové datum výročí se plánuje na jeden rok od data nákupu. Získáte úplné zlaté výhody.
 
 > [!NOTE]
-> Tato sleva za inovaci má několik výjimek. Pokud jste měli nabídku pro stříbrné členství a potom jste pro upgrade na zlatou nabídku členství použili 25% slevu za členství v zlata, nebudete mít nárok na náhradu za stříbrné. Platí to i v případě, že jste platili za vaše členství ve stříbru do 30 dnů a ještě nepoužívali související výhody.
+> U této slevy za upgrade existuje několik výjimek. Pokud jste měli nabídku členství Silver a pak jste použili 25% slevu na členství ve zlatém členství k upgradu na nabídku se zlatým členstvím, nárok na silver refundaci mít nebude. To platí i v případě, že jste během 30 dnů zaplatili za členství ve službě Silver a ještě jste nevyužíli související výhody.
 
-Pokud chcete zjistit, kde se používá 25% sleva, udělejte toto:
+Pokud chcete zobrazit, kde se vaše 25% sleva uplatňuje, proveďte následující:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard) pro Partnerské centrum.
 
-2. V nabídce vlevo vyberte nabídky **členství** .
+2. V **levé navigační nabídce** vyberte Nabídky členství.
 
-3. V části nabídky k dispozici pro nákup vyhledejte zlatou dlaždici členství. Pokud jste dřív dosáhli a zaplatili za členství v stříbru, upraví se částka zlata v hodnotě, která bude odpovídat 25% sleva.
+3. V části Offers available for purchase (Nabídky dostupné k nákupu) vyhledejte dlaždici Gold Membership (Zlaté členství). Pokud jste už dříve dosáhli a zaplatili za členství ve službě Silver, upraví se výše zlatého členství tak, aby odrážela 25% slevu.
 
-   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Nabídky zakoupených členství zobrazují zlatý dlaždici s stříbrnou slevou až Gold 25 procent." border="false":::
+   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Zakoupené nabídky členství zobrazují nabídku se zlatými dlaždicemi se slevou ze silver až gold 25 %." border="false":::
 
-4. Vyberte **Přihlásit se k odběru** na dlaždici zlata, která odpovídá slevě. Na stránce Podrobnosti o nákupu se zobrazí také sleva vybraného nákupu.
+4. Na **dlaždici** Zlaté členství vyberte Přihlásit k odběru, které odráží slevu. Na stránce Podrobnosti o nákupu se zobrazí také sleva vybraného nákupu.
 
    :::image type="content" source="images/offers/10-mpn-competency-silver-to-gold-discount-2.png" alt-text="Stránka podrobností zobrazuje nabídku s 25% slevou." border="false":::
 

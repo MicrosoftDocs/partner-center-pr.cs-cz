@@ -4,44 +4,42 @@ ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Naučte se, jak nastavit vaše zaměstnance na vícefaktorové ověřování.
+description: Zjistěte, jak nastavit zaměstnance pomocí MFA.
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5173526d0f65623311d5cd3a1061e8b9e93e9bb9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182371"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151623"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Nastavení vícefaktorového ověřování pro uživatele
 
-**Příslušné role**
+**Odpovídající role:** Globální správce
 
-- Globální správce
+Mezi naše hlavní priority patří větší ochrana osobních údajů a zabezpečení. Víme, že nejlepší obranou je prevence a že jsme jen tak silná jako naše nejslabší propojení. Proto potřebujeme, aby všichni v našem ekosystému jednaly a zajistili, aby byla zajištěna odpovídající ochrana zabezpečení. Důrazně doporučujeme všem partnerům povolit vícefaktorové ověřování (MFA) pro uživatele ve svém partnerském tenantovi. 
 
-Vyšší zabezpečení ochrany osobních údajů a zabezpečení je z našich nejdůležitějších priorit. Víme, že nejlepší obrana je prevence a že máme jenom silný, jako náš slabý odkaz. Proto potřebujeme, aby všichni v našem ekosystému pracovali a zajistili správné fungování ochrany zabezpečení. Všem partnerům důrazně doporučujeme povolit vícefaktorové ověřování (MFA) pro své uživatele v partnerském tenantovi. 
+## <a name="add-multi-factor-authentication-for-your-users"></a>Přidání vícefaktorového ověřování pro uživatele
 
-## <a name="add-multi-factor-authentication-for-your-users"></a>Přidání služby Multi-Factor Authentication pro uživatele
+Abyste tuto úlohu dokončili, musíte být globálním správcem vaší společnosti.
 
-Abyste mohli dokončit tuto úlohu, musíte být globálním správcem vaší společnosti.
+Je nejjednodušší povolit více ověřování pro uživatele při jejich přidávání do tenanta Azure AD.
 
-Je nejjednodušší povolit pro uživatele MFA při jejich přidávání do tenanta Azure AD.
-
-1. Přihlaste se k [Azure Portal](https://portal.azure.com) a pak přejít ke **správě uživatelů**.
+1. Přihlaste se [k Azure Portal](https://portal.azure.com) a pak přejděte na **Správa uživatelů.**
 1. Vyberte **Multi-Factor Authentication**.
-1. Vyberte uživatele, kterého chcete povolit, a pak vyberte **Povolit**.
+1. Vyberte uživatele, kterého chcete povolit, a pak vyberte **Povolit.**
 
-Tato akce povolí MFA pro tohoto uživatele. Povoleno znamená, že uživatel bude požádán o nastavení ověřování MFA při prvním přihlášení. Po přihlášení se pak vyzve k poskytnutí kódu, který jim pošle e-mailem nebo textovou zprávou (v závislosti na tom, které nastavení).  
+Tím se pro tohoto uživatele povolí MFA. Povoleno znamená, že při prvním přihlášení se uživateli zobrazí dotaz, jestli má nastavit více ověřování. Následně se při přihlášení zobrazí dotaz, jestli jim pošlete kód, a to buď e-mailem, nebo textovou zprávou (podle toho, které nastavení nastavili).  
 
-:::image type="content" source="images/MFA/securityverification.png" alt-text="Určete, jak se má ověřit":::
+:::image type="content" source="images/MFA/securityverification.png" alt-text="Určení způsobu ověření":::
 
 >[!NOTE]
->Uživatelům můžete **vyhovět** , aby používali vícefaktorové ověřování pomocí stejných kroků jako výše a **vynutili** výběr. Pokud se chcete dozvědět víc, přečtěte si téma [povolení Multi-Factor Authentication Azure pro jednotlivé uživatele k zabezpečení přihlašovacích událostí](/azure/active-directory/authentication/howto-mfa-userstates). 
+>Pomocí **stejného postupu** jako výše můžete vynutit, aby uživatelé mohli používat MFA, a vybrat **Vynutit**. Další informace najdete v části [Povolení vícefaktorového ověřování Azure pro](/azure/active-directory/authentication/howto-mfa-userstates)uživatele pro zabezpečení událostí přihlášení. 
 
-Všichni uživatelé začínají **zakázáni**. Když zaregistrujete uživatele v Multi-Factor Authentication Azure pro jednotlivé uživatele, jejich stav se změní na **povoleno**. Když se uživatelé s povoleným přihlášením a dokončí proces registrace, jejich stav se změní na **vynutilo**. 
+Všichni uživatelé začínají na **Zakázáno.** Když zaregistrujete uživatele do služby Multi-Factor Authentication Azure Active Directory, jejich stav se změní na **Povoleno.** Když se uživatelé s povoleným přihlášením a dokončí proces registrace, jejich stav se změní na **vynutilo**. 
 
 ## <a name="next-steps"></a>Další kroky
 

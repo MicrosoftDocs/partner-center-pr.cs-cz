@@ -9,22 +9,17 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b75bffcab2c51ac81e3c2f623ad74a9314339b9
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dc7be1fdf92249c31e8b2c6aa6611015e8b9b42f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132294"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152303"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Nákup nebo prodloužení platnosti předplatného programu Microsoft Action Pack nebo kompetencí Silver a Gold Competency
 
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
-- Správce partnera MPN
-- Agent správce
+**Příslušné role**: globální správce | Správce správy uživatelů | Správce partnerského programu MPN | Agent správce
 
 
 Z [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra můžou členové Microsoft Partner Network (MPN) zakoupit nebo prodloužit nabídky s výhodami, včetně předplatného Microsoft Action Pack a stříbrné a zlaté kompetence.
@@ -52,34 +47,34 @@ Staňte se [partnerem kompetence](https://partner.microsoft.com/membership/compe
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Obnovení předplatného Microsoft Action packu v partnerském centru
 
-1. Přejít na stránku [**nabídek členství**](https://partnercenter.microsoft.com/pcv/partnership/offers) . Vyhledejte dlaždici **předplatné Microsoft Action Pack** .  
+1. Přejít na stránku [**nabídek členství**](https://partnercenter.microsoft.com/pcv/partnership/offers) . Vyhledejte **dlaždici Odběr programu Microsoft Action Pack.**  
 
-2. Vyberte **obnovit předplatné** a pak vyberte svůj způsob platby. Můžete zaplatit za použití platební karty nebo elektronického převodu bank.
+2. Vyberte **Renew subscription (Obnovit** předplatné) a pak vyberte způsob platby. Můžete platit platební kartou nebo elektronickým bankovním převodem.
 
     >[!NOTE]
-    >Pokud se **obnovení předplatného** nezobrazuje nebo je šedé, nemáte ještě nárok na obnovení předplatného sady Action Pack. Změnili jsme naše zásady obnovy oken, abyste mohli obnovit předplatné až **po** vypršení platnosti. Pokud vaše předplatné skončí například 22. června, můžete ho prodloužit od 23. června a po dobu 30 dnů.  
+    >Pokud **se prodloužení** platnosti předplatného nezobrazuje nebo je zašedené, ještě nemáte oprávnění k prodloužení platnosti předplatného balíčku akcí. Změnili jsme zásady pro prodloužení časových intervalů, abyste mohli předplatné prodloužit až po **vypršení** jeho platnosti. Pokud například 22. června vyprší platnost vašeho předplatného, můžete ho prodloužit od 23. června a po dobu 30 dnů.  
 
-3. Pokud platíte pomocí platební karty, postupujte podle pokynů pro přidání informací o kreditní kartě. Pokud platíte přenos elektronickými bankami, zadejte jméno kontaktu, telefonní číslo a e-mailovou adresu a pak vyberte **Odeslat**.
+3. Pokud platíte platební kartou, postupujte podle pokynů pro přidání informací o platební kartě. Pokud platíte elektronickým bankovním převodem, zadejte kontaktní jméno, telefonní číslo a e-mailovou adresu a pak vyberte **Odeslat.**
 
-4. Zkontrolujte podrobnosti objednávky a pak vyberte **koupit** , až budete připraveni k nákupu akčního balíčku. Vaše kreditní karta se účtuje okamžitě.
+4. Zkontrolujte podrobnosti o objednávce a až budete připraveni koupit akční balíček, vyberte Koupit.  Platební karta se okamžitě účtuje.
 
-5. Vaše objednávka se potvrdí. Vyberte **Zavřít**.
+5. Vaše objednávka se potvrzuje. Vyberte **Zavřít**.
 
-### <a name="update-your-bill-to-address"></a>Aktualizace adresy pro fakturaci
+### <a name="update-your-bill-to-address"></a>Aktualizace příjemce faktury
 
-V procesu obnovování nebo nákupu balíčku Action Pack máte možnost ověřit si adresu pro fakturaci.
+V procesu prodloužení platnosti nebo nákupu akčního balíčku máte možnost ověřit svou fakturaci.
 
- 1. Po výběru možnosti **Odeslat** si můžete prohlédnout podrobnosti o nákupu. Pokud vidíte, že je potřeba aktualizovat vaši adresu, vyberte **aktualizovat** .
+ 1. Po výběru **možnosti** Odeslat si můžete zkontrolovat podrobnosti o nákupu. Pokud **vidíte,** že je potřeba aktualizovat adresu, vyberte Aktualizovat.
   
- 1. Na stránce **zákonný profil** aktualizujte svou adresu.
+ 1. Na stránce **Právní profil** aktualizujte svou adresu.
 
 ## <a name="cancel-your-action-pack-subscription"></a>Zrušení předplatného programu Action Pack
 
-Pokud chcete zrušit předplatné Microsoft Action Pack, možná budete muset kontaktovat podporu partnerů.
+Pokud chcete zrušit předplatné programu Microsoft Action Pack, možná budete muset kontaktovat partnerskou podporu.
 
-1. Přejít na stránku [**nabídek členství**](https://partnercenter.microsoft.com/pcv/partnership/offers) . Pokud si chcete zobrazit podrobnosti o předplatném, vyberte **předplatné Microsoft Action Pack** . 
+1. Přejděte na stránku [**nabídky členství.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Pokud **chcete zobrazit podrobnosti o předplatném,** vyberte Předplatné programu Microsoft Action Pack. 
 
-3. Vyberte **zrušit předplatné**. Postupujte podle pokynů pro vytvoření žádosti o podporu. 
+3. Vyberte **Zrušit předplatné.** Postupujte podle pokynů pro vytvoření žádosti o podporu. 
 
 4. Na formuláři žádosti o podporu vyberte následující hodnoty pro správné směrování vaší žádosti:
 

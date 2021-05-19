@@ -1,56 +1,51 @@
 ---
-title: Výhody Microsoft Partner Networkho členství
+title: Microsoft Partner Network výhody členství
 ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Přečtěte si o výhodách Microsoft Partner Network (MPN), jako je Microsoft Action Pack, kompetence nebo možnosti programu, které umožňují přejít na trh a prodávat vaše řešení.
+description: Seznamte se Microsoft Partner Network (MPN), jako jsou microsoft action pack, kompetence nebo možnosti programu, abyste své řešení na trh a prodávat.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 6edd8d18610947f61f88af8c3e3563508244586e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132940"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152218"
 ---
-# <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner s Microsoftem a zjišťování výhod členství
+# <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partnerství s Microsoftem a zjišťování výhod členství
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Správce partnera MPN | Správce správy uživatelů | Agent pro správu
 
-- Globální správce
-- Správce partnera MPN
-- Správce správy uživatelů
-- Agent správce
+Program Microsoft Partner Network (MPN) poskytuje co nejširší škálu produktů v oboru a programových možností, které vám umožní odlišit vaše podnikání, přejít na trh a prodávat vaše řešení. Připojte se zdarma a pak zvolte, jak investovat do partnerství s akčním balítem, úvodní sadou nebo kompetencí Microsoftu.
 
-Microsoft Partner Network (MPN) poskytuje nejširší škálu produktů v rámci možností v oboru a programu, které vám umožní odlišit vaše podnikání, přejít na trh a prodávat vaše řešení. Připojte se zdarma a pak zvolte způsob, jak investovat do svého partnerství pomocí sady Microsoft Action Pack, úvodní sady nebo kompetence.
+Když se připojíte k partnerskému programu Microsoftu, stanete se součástí globální komunity, která vás propojuje s vztahy, přehledy, nástroji, prostředky a programy, které potřebujete k tomu, abyste své zákazníky překvapit a podnítou obchodní růst. Při dosahování obchodních cílů se zapojte do programu na úrovni, která vyhovuje vašim jedinečným potřebám, abyste měli přístup k dalším výhodám, a rozvíjněte svůj vztah s námi a dalšími partnery v síti. 
 
-Když se připojíte k programu Microsoft Partner program, stanete se součástí globální komunity, která vás připojí k relacím, přehledům, nástrojům, prostředkům a programům, které potřebujete k amazeí vašich zákazníků, a k zajištění růstu obchodních potřeb. Při dosahování obchodních cílů se součástí programu na úrovni, která bude vyhovovat vašim jedinečným potřebám, získat přístup k většímu množství výhod a rozvíjet svůj vztah s námi a dalšími partnery v síti. 
+## <a name="join-the-microsoft-partner-network"></a>Připojte se k Microsoft Partner Network
 
-## <a name="join-the-microsoft-partner-network"></a>Připojit k Microsoft Partner Network
-
-Pokud se chcete připojit k Microsoft Partner Network, klikněte na webu MPN na [stránku **členství**](https://partner.microsoft.com/membership) a vyberte **zapsat** nebo **připojit se nyní**.
+Pokud se chcete Microsoft Partner Network, přejděte na stránku [ **Členství**](https://partner.microsoft.com/membership) na webu MPN a vyberte **Zaregistrovat** nebo **Připojit se.**
 
 ## <a name="action-pack"></a>Akční balíček
 
-Akční balíček nabízí software, podporu a výhody pro firmy, které chtějí začít, sestavovat a rozšiřovat jejich postupy Microsoftu v cloudu a na mobilním světě.
+Akční balíček nabízí software, podporu a výhody pro firmy, které chtějí začít, sestavovat a rozšiřovat své postupy Microsoftu v cloudovém světě, který je první mobilní.
 
-Další informace o balíčku Action Pack najdete níže v níže uvedených materiálech:
+Další informace o akčním balíčku najdete v následujících zdrojích informací:
 
-- [Přesunutí cloudového obchodu vpřed pomocí sady Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
+- [Posun vaší cloudové firmy dopředu pomocí programu Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
 
-- [Získat Akční balíček](mpn-get-action-pack.md)
+- [Získání akčního balíčku](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Vaše předplatné sady Action Pack spravujete v partnerském centru. Pokud vaše společnost ještě nepřesunula do partnerského centra z partnerského centra pro členství, přečtěte si téma [Příprava na přesun do partnerského centra](prepare-pmc-pc-migration.md) .  
+    >Předplatné action packu spravujete v Partnerské centrum. Pokud se vaše společnost ještě nestěhovala Partnerské centrum [](prepare-pmc-pc-migration.md) z Partner Membership Center, přečtěte si Partnerské centrum  
 
 - [Prodloužení platnosti nabídek MPN](renew-mpn-offers.md)
 
 ## <a name="competencies"></a>Kompetence
 
-Předvádí osvědčené zkušenosti v oblasti poskytování kvalitních řešení ve specializované oblasti podnikání. Kompetence Microsoftu jsou navržené tak, aby splňovaly vaše aktuální potřeby zákazníků a bylo možné je rozpoznat jako kandidáty. Zapojte se do úrovně navýšení partnerů Microsoftu a vyžádejte si své partnery.
+Předvepište si prověřené znalosti v oblasti poskytování kvalitních řešení ve specializované oblasti podnikání. Kompetence Microsoftu jsou navržené tak, aby splňovaly potřeby vašich aktuálních zákazníků a byly rozpoznatelné pro potenciální zákazníky. Zapojte se do úrovně navýšení partnerů Microsoftu a vyžádejte si své partnery.
 
 Další informace o kompetencích najdete v níže uvedených materiálech:
 

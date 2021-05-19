@@ -8,18 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: c4e24c22790edddef02e7936eaef9ed788489a37
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 670fae58a9a0e25127eb746f38063ea300d5ee2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528528"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152082"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrace a Správa uživatelů v programu pobídek
 
-**Příslušné role**
-
-- Motivace správce
+**Příslušné role**: pobídek admin
 
 >[!NOTE]
 >Předtím, než se můžete zaregistrovat v programu pobídek, je nutné, abyste dokončili [migraci](prepare-pmc-pc-migration.md)partnera pro členství v partnerském centru.
@@ -39,23 +37,23 @@ Aby bylo možné zaregistrovat se v programu pro povýšení partnerských Cente
 
 ## <a name="enrollment-process"></a>Proces registrace
 
-Jakmile má vaše organizace nárok na pobídky, společnost Microsoft pošle pozvánku správci s oprávněným MPNLocationID, aby zahájili proces registrace. Tento e-mail se pošle z **partnerského centra Microsoftu** a bude mít **pozvánku na motiv předmětu pro** pokládání partnerů. Otevřete pozvánku **a vyberte Začínáme**.
+Jakmile má vaše organizace nárok na pobídky, společnost Microsoft pošle pozvánku správci s oprávněným MPNLocationID, aby zahájili proces registrace. Tento e-mail se pošle z **partnerského centra Microsoftu** a bude mít **pozvánku na motiv předmětu pro** pokládání partnerů. Otevřete pozvánku a vyberte **Začínáme.**
 
-Na domovské stránce partnerského centra se zobrazí také Pozvánka. Jakmile vyberete tuto zprávu, nebudete ji moct znovu zobrazit. Správce pro motivaci ale může tento proces i nadále dokončit přihlášením do [řídicího panelu partnerského centra](https://partner.microsoft.com/dashboard/) a výběrem možnosti **Přehled** v části **motivace** v levém navigačním podokně. Vyberte možnost **Registrovat** a pak dokončete výběr a daňový profil pro program.
+Pozvánka se zobrazí také na domovské Partnerské centrum stránce. Jakmile tuto zprávu vyberete, nebudete ji moct znovu zobrazit. Správce pobídek ale stále může proces dokončit tak, že  se přihlásí k řídicímu [panelu Partnerské centrum a](https://partner.microsoft.com/dashboard/) v levém navigačním panelu v části **Pobídky** vybere Přehled. Vyberte **Zaregistrovat** a pak dokončete platební a daňový profil programu.
 
-Pokud už máte nastavený výchozí profil banky pro umístění MPN a snažíte se zaregistrovat pro stejné umístění MPN v programu motivačních, když vyberete **Registrovat** a přijměte pozvánku, zobrazí se výchozí profil banky. Pokud jste ho vytvořili pro toto umístění MPN, zobrazí se vám také libovolný dostupný daňový profil. Pokud má společnost Microsoft všechny požadované informace o bance a daňovém profilu, budete vyzváni k výběru **Odeslat** , aby se registrace dokončila. Viz [Nastavení výchozího profilu banky](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile).
+Pokud už máte výchozí nastavení bankovního profilu pro umístění MPN a pokoušíte se zaregistrovat do stejného umístění MPN v programu pobídek, když vyberete Zaregistrovat a přijmete pozvánku, zobrazí se výchozí bankovní profil.  Zobrazí se vám také jakýkoli dostupný daňový profil, pokud jste ho vytvořili pro toto umístění MPN. Pokud má Microsoft všechny požadované podrobnosti o bankovním a daňovém profilu, zobrazí se výzva k dokončení registrace výběrem možnosti Odeslat.  Viz [Nastavení výchozího bankovního profilu.](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile)
 
-Máte také možnost zvolit si jiný profil banky, než je výchozí profil banky. Pokud společnost Microsoft vyžaduje další podrobnosti pro platební nebo daňové profily nebo měnu, budete vyzváni k **pokračování** a budou přesměrováni na stránku **platebního a daňového profilu** , aby poskytovala chybějící údaje. 
+Můžete také zvolit jiný bankovní profil, než je výchozí bankovní profil. Pokud Microsoft vyžaduje další podrobnosti o platebním nebo daňovém profilu  nebo měně, budete  vyzváni k pokračování a budete přesměrováni na stránku Platební a daňový profil a uveďte chybějící podrobnosti. 
 
-Registrace se považuje za kompletní, jenom když společnost Microsoft ověří daný a daňový profil, který zadáte pro registraci.
+Registrace se považuje za dokončenou jenom v případě, že Microsoft ověří platební a daňový profil, který pro registraci poskytnete.
 
-Některé programy pro motivaci nemají žádná kritéria pro nárok a jsou otevřené všem partnerům. Správce pobídky uvidí pro tyto programy pozvánky na stránce Přehled o proměně, pokud mají oprávnění k příslušnému programu a MPN. Společnost Microsoft neposílá e-mailová pozvání pro tyto programy.
+Některé programy pobídek nemají žádná kritéria způsobilosti a jsou otevřené pro všechny partnery. Správci pobídek se na stránce přehledu pobídek zobrazí pozvánky k těmto programům za předpokladu, že má oprávnění k příslušnému programu pobídek a programu MPN. Microsoft pro tyto programy neodesíleje e-mailové pozvánky.
 
-Chcete-li získat další informace o procesu registrace, Stáhněte si [příručku pro registraci motivů](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (povinné přihlášení).
+Další informace o procesu registrace najdete v Průvodci [registrací v rámci pobídek](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (vyžaduje se přihlášení).
 
-## <a name="expiration-and-renewal"></a>Vypršení platnosti a obnovení
+## <a name="expiration-and-renewal"></a>Vypršení platnosti a prodloužení platnosti
 
-Vyprší platnost registrace na konci fiskálního roku. Pokud ale zůstanete oprávněným partnerem s aktivní smlouvou, Microsoft zavede vaše pobídky k registraci do příštího fiskálního roku. Nemusíte provádět žádnou akci, pokud je výběr a daňové informace vyžadované pro program pro podnět dokončen podle pravidel programu pro podnět.
+Platnost registrace pobídek vyprší na konci fiskálního roku. Pokud ale zůstanete oprávněným partnerem s aktivní smlouvou, Microsoft zavede vaše pobídky k registraci do příštího fiskálního roku. Nemusíte provádět žádnou akci, pokud je výběr a daňové informace vyžadované pro program pro podnět dokončen podle pravidel programu pro podnět.
 
 ## <a name="next-steps"></a>Další kroky
 

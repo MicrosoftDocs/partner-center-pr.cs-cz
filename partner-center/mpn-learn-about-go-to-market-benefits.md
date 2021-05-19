@@ -9,19 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475258"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152235"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Prozkoumejte si svůj trh s nabídkami Microsoftu
 
-**Příslušné role**
-
-- Globální správce
-- Správce partnera MPN
+**Příslušné role**: globální správce | Správce partnera MPN
 
 Když se stanete Microsoft Partner Network členem, získáte přístup k výhodám členství, které vám pomůžou vytvořit a rozšířit vaši firmu. Uvedení na trh s využitím prostředků, nabídek a programů Microsoftu mezi [mnoho výhod](https://partner.microsoft.com/manage-your-partner-network-benefits) , které obdržíte jako člen Microsoft Partner Network.
 
@@ -45,38 +42,34 @@ Další nabídky pro uvedení na trh, které jsou k dispozici pro ty s **úrovn�
 - Optimalizace obchodních profilů a Správa odkazů
 - Jak uvádět na trh s Microsoftem
 
-Další nabídky pro uvedení na trh dostupné partnerům se **zlatými** úrovněmi kompetence nebo partnery ISV a s oprávněnou nabídkou pro společný prodej:
+Další nabídky na trh dostupné pro partnery s úrovněmi kompetence **Gold** a/nebo partnery ISV s nabídkou s nárokem na pobídky ke spoluprodávce:
 
-- Všechny prostředky pro uvedení na trh pro program MPN úrovně Standard
-- Všechny nabídky pro prodej na úrovni stříbrné/ISV připravené k uvedení na trh
-- Jedna – pager – značka
-- Prezentace spoluvlastní značky
-- Případová studie společně se značkou
-- Stiskněte vydanou verzi se sadou Microsoft Executive quot
-- Spolupracovní marketing pro sociální značky
+- Všechny standardní prostředky MPN pro produkty na trh
+- Všechny nabídky připravené ke spoluprodávce na trh pro Silver/ISV
+- Sada nástrojů pro partnery pro přístup na trh 
 
-## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Zobrazit nabídky členství na trhu v partnerském centru
+## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Zobrazení nabídek členství na trh v Partnerské centrum
 
-Pokud si chcete zobrazit nabídky pro uvedení na trh:
+Zobrazení nabídek pro trh:
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
+1. Přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard)
 
-2. V nabídce na levé straně vyberte **MPN**. Pak proveďte jeden z následujících kroků:
+2. V nabídce vlevo vyberte **MPN**. Pak proveďte jeden z následujících kroků:
 
-   - Vyberte **Přehled**. Přejděte do oddílu **Rychlé odkazy** a pak vyberte kartu **Přejít na trh** .
+   - Vyberte **Přehled**. Posuňte se **do části Rychlé** odkazy a pak vyberte kartu Přejít **na** trh.
 
      nebo
 
-   - Vyberte **výhody** , které následují po **uvedení na trh**.
+   - Vyberte **Výhody** a pak **Přejít na trh.**
 
-Zobrazí se seznam nabídek pro uvedení na trh, které jsou už aktivní nebo které je možné aktivovat.
+Zobrazí se seznam nabídek pro produkty na trh, které jsou už aktivní nebo které je možné aktivovat.
 
-## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Správa nebo Aktivace nabídek pro uvedení na trh v partnerském centru
+## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Správa nebo aktivace nabídek na trh v Partnerské centrum
 
-Pokud chcete aktivovat nebo spravovat nabídky pro uvedení na trh, přečtěte si téma [jak spravovat nabídky pro uvedení na trh](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Součástí procesu aktivace je potřeba, abyste přiřadili marketingovou osobu jako kontaktní e-mailové zprávy a komunikaci týkající se nabídek pro uvedení na trh, které aktivujete.
+Pokud chcete aktivovat nebo spravovat nabídky na trh, podívejte se, jak spravovat nabídky [na trh.](manage-your-partner-network-benefits.md#manage-go-to-market-offers) Součástí procesu aktivace je přiřadit marketingovou osobu jako kontakt pro následné e-maily a komunikaci týkající se nabídek pro uvedení na trh, které aktivujete.
 
 >[!IMPORTANT]
->Musíte být správcem partnerského vztahu globálního správce nebo MPN, abyste mohli aktivovat konkrétní nabídky pro uvedení na trh a přiřadit související marketingový kontakt. V případě potřeby se můžete stát globálním správcem podle pokynů na stránce s [ **výhodami**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (vyžaduje se přihlášení). Vaše společnost už může mít globálního správce, takže budete mít jistotu, že bude mít tým na kontrolu.
+>Abyste aktivovali konkrétní nabídky pro uvedení na trh a přiřadíte související marketingový kontakt, musíte být globálním správcem nebo správcem partnera MPN. V případě potřeby se můžete stát globálním správcem podle pokynů na stránce [  Výhody](https://partnercenter.microsoft.com/pcv/partnership/benefits) (vyžaduje se přihlášení). Vaše společnost už možná má globálního správce, proto to nezapomeňte zkontrolovat u svého týmu.
 
 ## <a name="next-steps"></a>Další kroky
 
@@ -86,4 +79,4 @@ Pokud chcete aktivovat nebo spravovat nabídky pro uvedení na trh, přečtěte 
 
 - [Informace o kompetencích](learn-about-competencies.md)
 
-- [Prodej pomocí Microsoftu](https://partner.microsoft.com/membership/sell-with-microsoft)
+- [Prodej s Microsoftem](https://partner.microsoft.com/membership/sell-with-microsoft)

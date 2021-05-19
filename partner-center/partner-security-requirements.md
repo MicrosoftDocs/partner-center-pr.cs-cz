@@ -9,18 +9,16 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7fa76999d2e071f80c0175a8dfcbc1afe527bfc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 201ea34d30814974936da032805f1ee7dfa590be
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087055"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145843"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Požadavky na zabezpečení pro používání partnerských Center nebo rozhraní API partnerského centra
 
-**Příslušné role**
-
-- Všichni uživatelé partnerského centra
+**Příslušné role**: všichni uživatelé partnerského centra
 
 Tento článek vysvětluje povinné požadavky na zabezpečení pro poradce, výrobce ovládacích panelů a partnery účastnící se programu Cloud Solution Provider a také možnosti ověřování a další informace o zabezpečení. Ochrana osobních údajů a zabezpečení je z našich nejdůležitějších priorit. Víme, že nejlepší obrana je prevence a že máme jenom silný, jako náš slabý odkaz. Proto potřebujeme, aby všichni v našem ekosystému pracovali a zajistili správné fungování ochrany zabezpečení.
 
@@ -85,27 +83,27 @@ Když využijete MFA, budou starší verze ověřování používat protokoly ja
 
 #### <a name="do-you-have-office-365-users-with-licenses-associated-with-your-partner-tenant"></a>Máte uživatelé Office 365 s licencemi přidruženými k Vašemu partnerskému tenantovi?
 
-Než začnete s implementací nějakého řešení, doporučujeme určit, jaké verze systém Microsoft Office uživatelé ve vašem partnerském tenantovi používají. Může se stát, že uživatelé budou mít problémy s připojením k aplikacím, jako je Outlook. Před vynucováním MFA je důležité, abyste měli jistotu, že používáte Outlook 2013 SP1 nebo novější a že má vaše organizace povolené moderní ověřování. Další informace najdete v tématu [Povolení moderního ověřování v systému Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
+Než začnete s implementací nějakého řešení, doporučujeme určit, jaké verze systém Microsoft Office uživatelé ve vašem partnerském tenantovi používají. Může se stát, že uživatelé budou mít problémy s připojením k aplikacím, jako je Outlook. Před vynucováním MFA je důležité zajistit, abyste měli Outlook 2013 SP1 nebo novější a aby vaše organizace měla povolené moderní ověřování. Další informace najdete v tématu [Povolení moderního ověřování v Systému Exchange Online.](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) 
 
-Pokud chcete povolit moderní ověřování pro zařízení s Windows, která mají nainstalované systém Microsoft Office 2013, budete muset vytvořit dva klíče registru. Viz [Povolení moderního ověřování pro Office 2013 na zařízeních s Windows](/office365/admin/security-and-compliance/enable-modern-authentication).
+Pokud chcete povolit moderní ověřování pro zařízení s Windows s systém Microsoft Office 2013, budete muset vytvořit dva klíče registru. Viz [Povolení moderního ověřování pro Office 2013 na zařízeních s Windows.](/office365/admin/security-and-compliance/enable-modern-authentication)
 
-#### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Brání některý z uživatelů, aby při práci používal jejich mobilní zařízení?
+#### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Brání některý z vašich uživatelů při práci používání mobilních zařízení nějaké zásady?
 
-Je důležité identifikovat všechny podnikové zásady, které uživatelům brání v používání mobilních zařízení při práci, protože budou mít vliv na to, jaké řešení MFA implementujete. Existují řešení, jako je třeba ta, která je poskytována prostřednictvím implementace [výchozích hodnot zabezpečení Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults), která povoluje použití ověřovací aplikace jenom k ověření. Pokud má vaše organizace zásady prevence používání mobilních zařízení, vezměte v úvahu jednu z následujících možností:
+Je důležité identifikovat všechny podnikové zásady, které zaměstnancům brání v používání mobilních zařízení při práci, protože ovlivní to, jaké řešení MFA implementujete. Existují řešení, jako je například řešení poskytované prostřednictvím implementace výchozích hodnot zabezpečení [Služby Azure AD,](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)která umožňují k ověření použít pouze ověřovací aplikaci. Pokud vaše organizace používá zásady, které brání použití mobilních zařízení, zvažte jednu z následujících možností:
 
-- Nasaďte čas založený na hesle (TOTP) založeném na čase, který může běžet v zabezpečeném systému.
+- Nasaďte aplikaci s jednorázovým heslem (TOTP) založenou na čase, která se může spouštět v zabezpečeném systému.
 
-- Implementujte řešení třetí strany, které vynutilo MFA pro každý uživatelský účet v partnerském tenantovi, který poskytuje nejvhodnější možnost ověřování.
+- Implementujte řešení třetí strany, které pro každý uživatelský účet v partnerském tenantovi vynucuje více ověřování, které poskytuje nejvhodnější možnost ověření.
 
-- Zakupte licence [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) pro ovlivněné uživatele.
+- Kupte [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) licence pro ovlivněné uživatele.
 
-#### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Jakou automatizaci nebo integraci potřebujete k ověřování využít přihlašovací údaje uživatele?
+#### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Jakou automatizaci nebo integraci máte, abyste k ověřování využili přihlašovací údaje uživatele?
 
-Vzhledem k tomu, že využijeme VÍCEFAKTOROVÉ ověřování pro každého uživatele, včetně účtů služeb, ve vašem adresáři partnerů bude to mít vliv na všechny automatizace nebo integraci, které pro ověřování používají uživatelská pověření. Proto je důležité určit, které účty se v těchto situacích používají. Podívejte se na následující seznam ukázkových aplikací nebo služeb, které je potřeba vzít v úvahu:
+Vzhledem k tomu, že více ověřování vynucujeme pro každého uživatele, včetně účtů služeb, ve vašem partnerském adresáři, bude to mít vliv na automatizaci nebo integraci, která k ověřování používá přihlašovací údaje uživatele. Proto je důležité, abyste identifikovali, které účty se v těchto situacích používají. Podívejte se na následující seznam ukázkových aplikací nebo služeb, které je třeba zvážit:
 
-- Ovládací panel, který slouží ke zřízení prostředků jménem zákazníků
+- Ovládací panel používaný ke zřizování prostředků jménem vašich zákazníků
 
-- Integrace s jakoukoli platformou, která se používá k fakturaci (ve vztahu k programu CSP) a podpoře vašich zákazníků
+- Integrace s libovolnou platformou, která se používá pro fakturaci (jak souvisí s programem CSP) a podporou vašich zákazníků
 
 - Skripty PowerShellu používající AZ, AzureRM, Azure AD, MS online a další moduly
 

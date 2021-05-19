@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: c3ea3fae2ae8052b517bfb80e16614c4708a253b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132787"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151283"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faktury a daně v Microsoft Partner Network
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
-- Správce partnera MPN
-- Správce fakturace
-- Agent správce
+**Příslušné role**: globální správce | Správce správy uživatelů | Správce partnerského programu MPN | Správce fakturace | Agent správce
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Zobrazení nebo stažení vaší faktury členství v programu MPN
 
@@ -47,18 +41,18 @@ K provedení tohoto postupu musíte být správcem partnerského serveru globál
 
 3.  Vyplňte formulář. Pro **typ problému** vyberte možnost **Nespravovat můj profil**. Do pole Popis zadejte ID MPN.
 
-4.  Po odeslání lístku vás Microsoft pošle e-mailem, abyste získali další informace. Když odpovíte, připojte příslušnou podpůrnou dokumentaci k certifikátům osvobození od daně.
+4.  Po odeslání lístku vám Microsoft pošle e-mail s informacemi o dalších informacích. Když odpovíte, připojte příslušnou podpůrnou dokumentaci pro vaše certifikáty osvobození od daně.
 
-## <a name="send-microsoft-your-vat-id-number"></a>Poslat Microsoftu číslo ID pro DPH
+## <a name="send-microsoft-your-vat-id-number"></a>Odeslání DIČ Microsoftu
 
-1.  Z [řídicího panelu](https://partner.microsoft.com/dashboard/home)partnerského centra vyberte **nabídky členství** a pak vyberte **k dispozici**. 
+1.  Na řídicím Partnerské centrum [vyberte](https://partner.microsoft.com/dashboard/home) **Nabídky členství** a pak vyberte K **dispozici.** 
 
-2.  Vyberte **Přidat ID DPH**. 
+2.  Vyberte **Add your DI ID (Přidat DIČ).** 
 
-3.  Zadejte ID DPH vaší společnosti, vyberte **Přidat** a pak vybrat **Další**. 
+3.  Zadejte DIČ vaší společnosti, vyberte **Přidat a** pak vyberte **Další.** 
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Přehled fakturace partnerského centra](billing-basics.md)
+- [Přehled fakturace Partnerské centrum dat](billing-basics.md)
 
-- [Získat kredit na srážkovou daň](withholding-tax-credit-form.md)
+- [Získání připsání srážkové daně](withholding-tax-credit-form.md)

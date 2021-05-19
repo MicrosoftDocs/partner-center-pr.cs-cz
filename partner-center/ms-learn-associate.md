@@ -9,18 +9,16 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
-ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
+ms.openlocfilehash: b5487addd5bf4cd53eacaa95c4e2e602a7279bad
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108067503"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151232"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Propojení nebo zrušení propojení ID certifikačního profilu (MCID) Microsoftu s účtem Microsoft Partner Network (MPN)
 
-**Příslušné role**
-
-- Všichni uživatelé partnerského centra
+**Příslušné role**: všichni uživatelé partnerského centra
 
 Tento článek popisuje, jak zákazníci, kteří uchovávají aktivní certifikace v rámci certifikačního programu Microsoftu, můžou propojit nebo zrušit propojení svého ID certifikačního profilu (MCID) Microsoftu s organizací Microsoft Partner Network (MPN).
 
@@ -41,31 +39,31 @@ Pomocí níže uvedeného postupu získáte přístup k partnerské univerzitní
 K přidružení účtu Microsoft Learning použijte následující postup. 
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
-2. Na stránce vašeho profilu se posuňte dolů do pole **zkoušky a certifikace společnosti Microsoft** a vyberte **přidružit účet Microsoft Learning**.
+2. Na stránce vašeho profilu se posuňte dolů do pole Zkoušky a certifikace **Microsoftu** a vyberte **Přidružit Microsoft Learning účtu**.
 3. Po zobrazení výzvy zadejte přihlašovací údaje, které používáte pro přihlášení k vašemu certifikačnímu profilu Microsoftu (vaše MCID).
 
 >[!NOTE]
->Pokud jsou přihlašovací údaje účtu Microsoft Learning stejné jako přihlašovací údaje partnerského účtu školy, vyberte **použít email@address k přidružení svého účtu Microsoft Learning**.
+>Pokud jsou Microsoft Learning účtu stejné jako přihlašovací údaje účtu Partner University, vyberte Použít k přidružení účtu **email@address Microsoft Learning účtu.**
 
-## <a name="download-skills-report-microsoft-certification-list"></a>Stáhnout sestavu dovedností (seznam certifikace Microsoftu)
-Pokud potřebujete podrobnosti, skillsreport je k dispozici a stáhnout prostřednictvím Správce partnerů pro globálního správce nebo MPN z partnerského centra. Pro [Další informace](./mpn-skills-report.md#view-skills-report-data).
+## <a name="download-skills-report-microsoft-certification-list"></a>Stažení sestavy dovedností (seznam certifikací Microsoftu)
+Pokud potřebujete podrobnosti, může k sestavě dovedností přistupovat a stáhnout si ji libovolný globální správce nebo správce partnera MPN z Partnerské centrum. Další [informace najdete na .](./mpn-skills-report.md#view-skills-report-data)
 
 
-## <a name="frequently-asked-questions-about-linking-accounts"></a>Nejčastější dotazy týkající se propojování účtů
+## <a name="frequently-asked-questions-about-linking-accounts"></a>Nejčastější dotazy k propojení účtů
 
-### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Jak může uživatel propojit své ID certifikačního profilu Microsoftu (MCID) s organizací Microsoft Partner Network (MPN), pro kterou pracují?
+### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Jak může uživatel propojit své ID certifikačního profilu Microsoftu (MCID) s organizací Microsoft Partner Network (MPN), pro které pracují?
 
-Uživatelé by se měli přihlašovat do partnerského centra a přejít do **svého profilu** a pak vybrat buď možnost **získat Partnerský účet školy** , nebo **přidružit účet Microsoft Learning** a zadat své přihlašovací údaje. Aby se přihlásil k účtu Microsoft Learning, bude uživatel muset zadat uživatelské jméno a heslo, které jste použili k přihlášení do svého certifikačního profilu Microsoft (MCID). Z důvodů ochrany osobních údajů musí uživatelé dokončit proces propojování účtů sami.  
+Uživatelé by se měli přihlásit k Partnerské centrum, přejít na **Můj profil** a pak vybrat buď Získat účet **Partner University,** nebo Přidružit účet **Microsoft Learning** a zadat své přihlašovací údaje. Pokud chcete přidružit účet Microsoft Learning, musí uživatel zadat uživatelské jméno a heslo použité pro přihlášení ke svému certifikačnímu profilu Microsoftu (MCID). Z důvodu ochrany osobních údajů musí uživatelé dokončit proces propojení účtů sami.  
 
-### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Jak může uživatel odpojit své MCID od organizace MPN, pro kterou funguje?
+### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Jak může uživatel zrušit propojení s MCID od organizace MPN, pro které pracuje?
 
-Přihlaste se k partnerskému centru, přejděte do **svého profilu** a pak vyberte **Odebrat přístup**. Vzhledem k informacím o ochraně osobních údajů musí uživatel dokončit samotný proces propojení účtu.
+Přihlaste se k Partnerské centrum, přejděte na **Můj profil a** vyberte Odebrat **přístup.** Z důvodu ochrany osobních údajů musí uživatel dokončit proces propojení účtů sám.
 
-### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>Uživatel opustil firmu a a teď funguje pro společnost B. Jak můžou propojit své ID certifikačního profilu Microsoftu (MCID) se společností B?
+### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>Uživatel opustil společnost A a teď pracuje pro společnost B. Jak může propojit SVÉ ID certifikačního profilu Microsoftu (MCID) se společností B?
 
-Uživatel musí propojit své MCID se společností B podle výše uvedeného postupu. Jakmile uživatel propojí své MCID se společností B, automaticky se odpojí od společnosti A.
+Uživatel musí propojit své MCID se společností B pomocí výše uvedeného postupu. Jakmile uživatel propojí své MCID se společností B, automaticky se odpojí od společnosti A.
 
-### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>Uživatel opustil firmu a a už nemá přístup k partnerskému centru. Chtějí zrušit propojení svých MCID od společnosti a a neplánuje se v současnosti propojit s jinou organizací MPN.
+### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>Uživatel opustil společnost A a už nemá přístup k Partnerské centrum. Chtějí zrušit propojení svých MCID od společnosti a a neplánuje se v současnosti propojit s jinou organizací MPN.
 
 Účet uživatele musí po opuštění společnosti odstranit globální správce. Pokud se MCID uživatele stále zobrazuje jako propojené s firmou v sestavě dovedností, musí si uživatel požádat, aby ho globální správce odebral ze sestavy.
 

@@ -9,26 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702888"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151776"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Správa umístění účtu MPN a přidání (odstranění) umístění
 
 
-**Příslušné role**
-
-- Globální správce
-- Správce účtu
+**Příslušné role**: globální správce | Správce účtu
 
 ID MPN umístění identifikuje každé konkrétní umístění vaší společnosti. K registraci v programu motivačních programů použijete umístění MPN ID, a to za transakčního poskytovatele řešení cloudu (CSP) a další obchodní transakce. Globální ID MPN se používá pro netransakční aktivity, například žádosti o podporu.
 
 ## <a name="the-following-scenario-is-typical"></a>Typický je následující scénář:
 
-Společnost Contoso má svůj partnerský globální účet (PGA) ve Spojeném království. PGA je jejich registrovaný právní podnik a globální ID MPN se používá ke správě všech netransakčních obchodních činností. Společnost Contoso má také partnerské účty partnera (PLA) rovnocenné dceřiným společnostem nebo divizím v jiném umístění v USA, Francii a USA. Ve struktuře účtu MPN se tyto PLAs reprezentují jako jedinečná ID MPN. PLAs se používají pro transakční firmy, jako je CSP nebo pobídky programů. Výběry jsou vázané na konkrétní umístění. 
+Společnost Contoso má svůj partnerský globální účet (PGA) ve Spojeném království. PGA je jejich registrovaná právní společnost a její globální ID MPN se používá ke správě všech netransakčních obchodních činností. Společnost Contoso má také partnerské účty partnera (PLA) rovnocenné dceřiným společnostem nebo divizím v jiném umístění v USA, Francii a USA. Ve struktuře účtu MPN se tyto PLAs reprezentují jako jedinečná ID MPN. PLAs se používají pro transakční firmy, jako je CSP nebo pobídky programů. Výběry jsou vázané na konkrétní umístění. 
 
 >[!NOTE]
 >Mezi klientem CSP a ID umístění MPN je 1-1 vztah.
@@ -41,35 +38,35 @@ Pokud chcete přidat nový obchodní účet CSP, začněte tím, že ověříte,
 
 1. Musíte mít umístění MPN ID v zemi, kde chcete, aby se zprostředkovatel CSP vystavil. Pokud chcete vytvořit nové umístění MPN, přečtěte si níže téma "Přidání umístění MPN".
   
-1. Chcete-li vytvořit nového poskytovatele nepřímých prodejců CSP, přečtěte si téma [práce s nepřímými poskytovateli](indirect-reseller-tasks-in-partner-center.md#get-started) 
+1. Pokud chcete vytvořit novou registraci CSP Indirect Reseller, přečtěte si o [práci s nepřímými poskytovateli.](indirect-reseller-tasks-in-partner-center.md#get-started) 
 
 >[!NOTE] 
- >Nezapomeňte se přihlásit pomocí **nových** přihlašovacích údajů **nového** účtu CSP. Nepoužívejte svoje stávající přihlašovací údaje, protože Partnerské centrum vám rozpozná, jak už účet máte.
+ >Nezapomeňte se přihlásit pomocí nových **přihlašovacích** údajů pro **nový účet** CSP. Nepoužívejte stávající přihlašovací údaje, protože Partnerské centrum poznáte, že už účet máte.
 
-2. Přijměte smlouvu s partnerem Microsoftu a aktivujte účet.
+2. Přijměte Smlouva s partnerem Microsoftu a aktivujte účet.
 
-1. Pokud se chcete zaregistrovat jako přímý fakturační Server, [požadavky na čtení pro přímé partnery z fakturace](direct-partner-new-requirements.md)
+1. Pokud se chcete zaregistrovat jako partner s přímým vyúčtováním, přečtěte si požadavky [na partnery s přímým vyúčtováním.](direct-partner-new-requirements.md)
 
 ## <a name="view-and-update-your-mpn-locations"></a>Zobrazení a aktualizace umístění MPN
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) partnerského centra s přihlašovacími údaji k účtu MPN. (Vaše přihlašovací údaje programu MPN se můžou lišit od vašich přihlašovacích údajů CSP.) 
+1. Přihlaste se k řídicímu Partnerské centrum [pomocí](https://partner.microsoft.com/dashboard/home) přihlašovacích údajů účtu MPN. (Vaše přihlašovací údaje MPN se mohou lišit od vašich přihlašovacích údajů CSP)) 
  
-1. V ikoně **Nastavení** vyberte **Nastavení účtu**, **Profil organizace**, **právní**. 
+1. V **ikoně** Nastavení vyberte **Nastavení účtu**, **Profil organizace**, **Právní.** 
 
-1. Na kartě **partner** ověřte, že se nezobrazí chybová zpráva banneru s výzvou k opravě umístění migrace z PMC.  Pokud vaše umístění nebyla správně nastavena v PMC a zatím nebyla převedena do počítačů PC, je nutné aktualizovat Tato umístění.
+1. Na kartě **Partner** ověřte, že není chybová zpráva s upozorněním s žádostí o opravu migrovaných umístění z PMC.  Pokud vaše umístění nebyla v PMC správně nastavená a ještě nebyla přemísněna na počítač PC, musíte tato umístění aktualizovat.
 
-:::image type="content" source="images/locations/location-two.png" alt-text="Snímek obrazovky videa ukazuje, jak aktualizovat polohu.":::
+:::image type="content" source="images/locations/location-two.png" alt-text="Snímek obrazovky ukazuje, jak aktualizovat umístění.":::
  
-4.  Na obrazovce **zkontrolovat umístění PMC** vyberte **aktualizovat**.
+4.  Na **obrazovce Review PMC locations (Zkontrolovat umístění PMC)** vyberte **Update (Aktualizovat).**
 Aktualizujte následující pole:
 
-- **Pole Name (název**): Ujistěte se, že název umístění společnosti je správný. Pokud se zobrazí duplicitní Chyba, zkuste se změnit z, například contoso na contoso, Inc.
+- **Pole Název:** Ujistěte se, že je název umístění společnosti správný. Pokud se zobrazí duplicitní chyba, zkuste změnit například z Contoso na Contoso, Inc.
 
-- **Pole právnické osoby**: Ujistěte se, že jste zvolili právnickou entitu, se kterou je umístění svázáno.
+- **Pole právní osoby:** Ujistěte se, že jste zvolili právnickou osobu, se kterou je umístění vázané.
 
-- **Řádková adresa 1 & 2 pole**: Ujistěte se, že je adresa správná.
+- **Řádek adresy 1 & 2:** Ujistěte se, že je adresa správná.
 
-- **Města & země/provincie**: Ujistěte se, že je kombinace mezi městem a okresem správná. K dispozici jsou země, kde se použije rozevírací nabídka pro výběr státu nebo provincie, a v ostatních zemích bude nutné ručně vložit pole.
+- **Pole & stát/kraj:** Ujistěte se, že je kombinace mezi městem a krajem správná. V některých zemích se použije rozevírací nabídka pro výběr státu/kraje a v jiných zemích bude nutné toto pole vložit ručně.
 
 - **PSČ – pole** poštovního směrovacího čísla: Ujistěte se, že pole PSČ odpovídá vaší zadané zemi, oblasti, města nebo adrese.
 
@@ -85,15 +82,15 @@ Aktualizujte následující pole:
 
 ## <a name="add-an-mpn-location"></a>Přidat umístění MPN
 
-1. Přihlaste se pomocí účtu MPN v partnerském centru. (Vaše přihlašovací údaje programu MPN se můžou lišit od vašich přihlašovacích údajů CSP). Účet MPN by měl mít oprávnění globálního správce nebo správce účtů. 
+1. Přihlaste se pomocí účtu MPN v partnerském centru. (Vaše přihlašovací údaje programu MPN se můžou lišit od vašich přihlašovacích údajů CSP.) Účet MPN by měl mít oprávnění globálního správce nebo správce účtů. 
 
 1. V **ikoně nastavení** vyberte **Nastavení účtu** a pak vyberte **Profil organizace**.
 
-2. Vyberte možnost **právní** a pak na kartě **partner** vyberte **obchodní umístění** a klikněte na **Přidat umístění.**
+2. Vyberte možnost **právní** a pak na kartě **partner** vyberte **obchodní umístění** a vyberte **Přidat umístění.**
 
 3. Zadejte požadované podrobnosti, včetně názvu firmy, adresy a kontaktu pro umístění, které chcete přidat do své společnosti.
  
-1. Klikněte na **Přidat umístění**. Tím se vytvoří nové ID MPN pro nové umístění, které můžete použít pro transakce a pobídky CSP.
+1. Vyberte **Přidat umístění**. Tím se vytvoří nové ID MPN pro nové umístění, které můžete použít pro transakce a pobídky CSP.
 
 :::image type="content" source="images/legal-biz.png" alt-text="Přidat novou právní firmu":::
 
@@ -102,7 +99,7 @@ Aktualizujte následující pole:
 
 ## <a name="add-the-registration-number-id"></a>Přidat ID registračního čísla
 
-Pokud jste nepřímý poskytovatel, přímý účet pro fakturaci nebo nepřímý prodejce a obchodujete s novými nebo stávajícími zákazníky v následujících zemích, musíte pro svůj podnik zadat registrační čísla ID. Pokud země, ve které obchodujete, není uvedená níže, ID registrace je volitelné.
+Pokud jste nepřímý poskytovatel, partner s přímým vyúčtováním nebo nepřímý prodejce a podnikáte s novými nebo stávajícími zákazníky v následujících zemích, musíte pro svou firmu zadat identifikační čísla registrace. Pokud země, ve které podnikáte, není uvedená níže, ID registrace je volitelné.
 
 - Arménie 
 - Ázerbájdžán 
@@ -130,28 +127,28 @@ Pokud jste nepřímý poskytovatel, přímý účet pro fakturaci nebo nepřím�
 - Vietnam 
 
 
-Další informace najdete v tématu [ID registrace – informace o čísle](reg-number-id.md) .
+Další informace najdete v článku [o čísle ID registrace.](reg-number-id.md)
 
-## <a name="delete-a-location"></a>Odstranit umístění
+## <a name="delete-a-location"></a>Odstranění umístění
 
-Pokud chcete odstranit umístění z vašeho účtu, budete se muset obrátit na [podporu partnerů](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Ujistěte se, že rozumíte dopadu, který tato akce má. Odstraněná umístění nelze načíst a veškerá vázaná ID MPN již nebudou rozpoznána nebo bude pro vaši společnost aktivní.
+Pokud chcete umístění z vašeho účtu odstranit, budete se muset obrátit na [podporu partnerů.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) Ujistěte se, že rozumíte dopadu, který tato akce má. Odstraněná umístění není možné načíst a cokoli svázané s konkrétním ID MPN se už nerozpozná nebo nebude pro vaši společnost aktivní.
 
-## <a name="change-country-of-partner-global-account"></a>Změnit zemi globálního účtu partnera 
+## <a name="change-country-of-partner-global-account"></a>Změna země globálního účtu partnera 
 
-1. Přihlaste se pomocí účtu MPN v partnerském centru. (Vaše přihlašovací údaje programu MPN se můžou lišit od vašich přihlašovacích údajů CSP). Účet MPN by měl mít oprávnění globálního správce nebo správce účtů. 
+1. Přihlaste se pomocí účtu MPN v Partnerské centrum. (Vaše přihlašovací údaje MPN se mohou lišit od vašich přihlašovacích údajů CSP.) Účet MPN by měl mít oprávnění globálního správce nebo správce účtu. 
 
-2. Na kartě **partner** klikněte na **obchodní umístění** a zkontrolujte seznam umístění a ujistěte se, že je v seznamu uvedeno umístění, které chcete použít jako právní entitu. 
+2. Na kartě **Partner (Partner)** přejděte na **Obchodní** umístění a zkontrolujte seznam umístění a ujistěte se, že je uvedená lokalita, ve které je uvedená vaše právní osoba. 
  
-1. Chcete-li přidat umístění, klikněte na tlačítko **Přidat umístění** a za předpokladu zadejte požadované podrobnosti, včetně názvu firmy, adresy a primárního kontaktu pro umístění, které chcete přidat do své společnosti. 
+1. Pokud chcete přidat umístění, klikněte na Přidat umístění a v okně zadejte požadované podrobnosti, včetně obchodního jména, adresy **a** primárního kontaktu pro umístění, které chcete přidat do vaší společnosti. 
  
-1. Vyberte možnost **změnit zemi** vedle rozevíracího seznamu **země/oblast** a postupujte podle pokynů. 
+1. Vyberte **Změnit zemi** vedle rozevíracího seznamu **Země/oblast** a postupujte podle těchto kroků. 
 
-:::image type="content" source="images/lbp.png" alt-text="Oficiální informace o obchodním profilu":::
+:::image type="content" source="images/lbp.png" alt-text="Právní informace o datech obchodního profilu":::
 
-5. Klikněte na **Uložit**.
+5. Vyberte **Uložit**.
 
-6. Země globálního účtu MPN se změní na novou právní zemi.
+6. Globální země účtu MPN se změní na novou právní zemi.
   
 ## <a name="next-steps"></a>Další kroky
 
-- Přečtěte si o [procesu ověřování](verification-responses.md).
+- Přečtěte si o [procesu ověřování.](verification-responses.md)

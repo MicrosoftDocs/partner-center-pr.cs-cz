@@ -4,48 +4,46 @@ ms.topic: overview
 ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Použití partnerského centra k Transact-Business s Microsoftem a vašimi zákazníky
+description: Použití Partnerské centrum k transakce s Microsoftem a vašimi zákazníky
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 7d476404bbfdb5814f325b7fdafd34d44780fb66
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132243"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151113"
 ---
 # <a name="what-is-partner-center"></a>Co je Partnerské centrum?
 
-**Příslušné role**
+**Odpovídající role:** Všichni partneři, kteří se zajímají o Partnerské centrum
 
-- Všichni partneři, kteří mají zájem o partnerské Centrum
+[Partnerské centrum](https://partner.microsoft.com/dashboard/home) několik obchodních procesů, které partnerům Microsoftu usnadňují správu jejich vztahů s Microsoftem a jejich zákazníky. Partnerské centrum umožňuje snadný přístup k nástrojům, které potřebujete k práci. Pomocí Partnerské centrum můžete:
 
-[Partnerský](https://partner.microsoft.com/dashboard/home) portál zjednodušuje několik obchodních procesů a usnadňuje tak partnerům Microsoftu spravovat jejich vztahy s Microsoftem a jejich zákazníky. Partnerské centrum vám umožňuje snadný přístup k nástrojům, které potřebujete k dokončení práce. Partnerské centrum použijte k těmto akcím:
-
-- Správa účet Microsoft a uživatelů
-- Zapojení se zákazníky
+- Správa vašich účet Microsoft a uživatelů
+- Zapojení zákazníků
 - Vytváření vztahů s ostatními partnery
-- Registrace v motivačních programech
-- Spravujte členství v Microsoft Partner Network
+- Registrace do programů pobídek
+- Správa členství v Microsoft Partner Network
 - Správa zákaznických předplatných
-- Fakturace a platba
+- Vyúčtování a placení
 - Kontaktování podpory
-- Publikujte nebo Zkoumejte nabídky na [komerčním webu Microsoft Marketplace](/azure/marketplace), katalog tisíců služeb a aplikací určených pro zákazníky, které jsou sestavené a dodávané našimi partnery nezávislých výrobců softwaru (ISV).
+- Publikování nebo prozkoumání nabídek na komerčním [marketplace Microsoftu](/azure/marketplace)– katalog tisíců služeb a aplikací, které se chytnou před transakcemi a které jsou vytvořené a doručované našimi partnery nezávislého výrobce softwaru (ISV).
 
-:::image type="content" source="images/home.png" alt-text="Přehled partnerského centra":::
+:::image type="content" source="images/home.png" alt-text="Partnerské centrum přehledu":::
 
 ## <a name="manage-your-account"></a>Správa vašeho účtu
 
-Bez ohledu na to, jestli jste partnerem v programu Cloud Solution Provider nebo partner pro vývojáře, který vaše aplikace prodává, spravujete účet partnerského centra z jednoho umístění nastavení účtu: [řídicí panel](https://partner.microsoft.com/dashboard/home)partnerského centra. Odtud můžete upravit právní informace, podrobnosti o daních, klientech, obchodních umístěních, uživatelích a oprávněních a konkrétní programy, ve kterých je vaše společnost zaregistrovaná.
+Ať už jste partnerem v programu Cloud Solution Provider nebo vývojář, který vaše aplikace prodává, spravujete svůj účet Partnerské centrum z jednoho umístění nastavení účtu: z řídicího panelu Partnerské centrum [.](https://partner.microsoft.com/dashboard/home) Odtud můžete upravit právní informace, podrobnosti o daních, tenanty, firemní umístění, uživatele a oprávnění a konkrétní programy, ve kterých je vaše společnost zaregistrovaná.
 
-To, co můžete zobrazit a spravovat v partnerském centru, závisí na vaší roli a oprávnění. Další informace najdete v [rolích a oprávněních](permissions-overview.md).
+Co můžete zobrazit a spravovat v Partnerské centrum závisí na vaší roli a oprávněních. Další informace najdete v [části Role a oprávnění.](permissions-overview.md)
 
-:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Nabídka nastavení.":::
+:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Nabídka Nastavení.":::
 
-## <a name="membership-programs"></a>Programy členství
+## <a name="membership-programs"></a>Členství v programech
 
-V rámci partnerského centra si můžete koupit Microsoft Action Pack, který poskytuje software a nástroje Microsoftu pro vývoj odborných znalostí, jako je například vývoj dovedností k dosažení kompetencí a získání pokročilých specializací. Výhody, které jsou součástí těchto programů, vám pomůžou s vytvářením řešení a přechodem na trh. Projděte si je a spravujte v partnerském centru. [Porovnejte členské programy Microsoft Partner Network](https://partner.microsoft.com/membership/compare-offers).
+V Partnerské centrum si můžete zakoupit Microsoft Action Pack, který poskytuje software a nástroje Microsoftu pro rozvoj odborných znalostí, jako je rozvoj dovedností k dosažení kompetencí a získání pokročilých specializací. Výhody, které jsou součástí těchto programů, vám pomůžou s vytvářením řešení a přechodem na trh. Projděte si je a spravujte v partnerském centru. [Porovnejte členské programy Microsoft Partner Network](https://partner.microsoft.com/membership/compare-offers).
 
 ## <a name="connect-with-customers"></a>Spojení se zákazníky
 
@@ -57,24 +55,24 @@ Společně prodávat je cesta pro partnery, kteří budou společně prodávat s
 
 ## <a name="manage-customer-software-needs"></a>Správa potřeb zákaznických softwaru
 
-Jako důvěryhodný partner hrajete ve všech fázích životního cyklu zákazníka důležitou roli bez ohledu na to, jak se zákazníci rozhodnou koupit software a služby společnosti Microsoft. Pokud vám váš zákazník poskytne oprávnění správce, budete moct nasadit a spravovat předplatná, zachovat výkon, nastavit jejich uživatele a dokonce pro ně vytvářet lístky podpory. Partnerské centrum poskytuje rychlý a snadný přístup k podpoře Microsoftu na vyžádání, která vám umožní lépe řešit problémy a uspokojit potřeby zákazníků. Další informace najdete v [nabídce zákaznická podpora](customer-support.md).
+Jako důvěryhodný partner hrajete ve všech fázích životního cyklu zákazníka důležitou roli bez ohledu na to, jak se zákazníci rozhodnou koupit software a služby společnosti Microsoft. Pokud vám váš zákazník poskytne oprávnění správce, budete moct nasadit a spravovat předplatná, zachovat výkon, nastavit jejich uživatele a dokonce pro ně vytvářet lístky podpory. Partnerské centrum poskytuje rychlý a snadný přístup k podpoře Microsoftu na vyžádání, která vám pomůže lépe řešit problémy a plnit potřeby zákazníků. Další informace najdete v [nabídku zákaznické podpory.](customer-support.md)
 
-## <a name="maintain-a-secure-environment"></a>Údržba zabezpečeného prostředí
+## <a name="maintain-a-secure-environment"></a>Udržování zabezpečeného prostředí
 
-Když Azure Active Directory jako hlavní prvek účtu partnerského centra, ujistěte se, že váš tým používá službu [Multi-Factor Authentication](partner-security-requirements-mandating-mfa.md) k zajištění zabezpečení dat. Ochrana osobních údajů a zabezpečení je z našich nejdůležitějších priorit.
+Vzhledem Azure Active Directory hlavním prvkem vašeho účtu Partnerské centrum, zajistěte, aby váš tým k zabezpečení dat používá [vícefaktorové](partner-security-requirements-mandating-mfa.md) ověřování. Ochrana osobních údajů a zabezpečení patří mezi naše hlavní priority.
 
 ## <a name="data-and-analytics"></a>Data a analýza
 
-Přístup k několika různým typům sestav dat z řídicího panelu partnerského centra:
+Přístup k několika různým typům datových sestav z řídicího Partnerské centrum řídicího panelu:
 
-- Ukazatele příspěvku na partnery (PCI) ukazují dopad na partnery na sedm klíčových měr úspěšnosti zákazníků
-- Sestavy dat partnerských přehledů určují, kde jsou vaše prodeje vysoké, vám pomůžou zjistit, kteří zákazníci nasadili své odběry nebo potřebují podporu, a Ukázat, jak dobře se vaše produkty prodávají.
+- Indikátory příspěvku partnera (PCI) ukazují dopad na sedm klíčových opatření úspěšnosti zákazníků.
+- Sestavy dat Partnerského přehledu identifikují, kde jsou vysoké prodeje, pomáhají zjistit, kteří zákazníci nasadili svá předplatná nebo potřebují podporu, a ukazují, jak dobře se vaše produkty prodávají.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Určete, kde jsou vaše licence":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Určení, kde se vaše licence nachytá":::
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Připojte se k Microsoft Partner Network a vytvořte účet partnerského centra.](mpn-create-a-partner-center-account.md)
-- [Vytvořit obchodní profil](create-a-marketing-profile.md)
-- [Prozkoumat registraci v CSP](csp-overview.md)
-- [Další informace o komerčním Marketplace](csp-commercial-marketplace-overview.md)
+- [Připojení k Microsoft Partner Network a vytvoření Partnerské centrum účtu](mpn-create-a-partner-center-account.md)
+- [Vytvoření obchodního profilu](create-a-marketing-profile.md)
+- [Prozkoumání registrace v CSP](csp-overview.md)
+- [Další informace o komerčním marketplace](csp-commercial-marketplace-overview.md)

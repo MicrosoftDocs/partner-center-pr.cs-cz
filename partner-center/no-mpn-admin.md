@@ -9,20 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5efd157078acd72ca47418aaa9559a678fc5b129
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441995"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151164"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Jak postupovat, pokud jediný správce programu MPN opustil společnost?
 
-**Příslušné role**
-
-- Správce partnera MPN
-- Správce účtu
-- Globální správce
+**Příslušné role**: správce partnerů MPN | Správce účtu | Globální správce
 
 Následující článek vás provede třemi typickými scénáři týkajícími se toho, co dělat, když váš správce programu MPN opustil společnost.
 

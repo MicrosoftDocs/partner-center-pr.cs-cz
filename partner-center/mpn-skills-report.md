@@ -9,19 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f8da6e1d1ff80776c71b3f3795ff19fbbab6f112
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132430"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151334"
 ---
 # <a name="using-the-skills-report"></a>Používání sestavy dovedností
 
-**Příslušné role**
-
-- Správce partnera MPN
-- Globální správce
+**Příslušné role**: správce partnerů MPN | Globální správce
 
 Sestava dovedností umožňuje partnerům v Microsoft Partner Network posoudit dovednosti vyplněné uživateli ve své partnerské společnosti. Dovednosti v sestavě můžou zahrnovat posouzení, certifikace nebo zkoušky prováděné technickými uživateli partnera. 
 
@@ -34,24 +31,24 @@ Správce partnera MPN společnosti nebo globální správce může chtít prová
 - Plánování budoucích dovedností vám umožní zajistit, aby vaše partnerská společnost splňovala požadavky dovedností na konkrétní kompetenci. Díky tomu může vaše partnerská společnost získat nový stříbro nebo Gold Competency nebo zachovat existující stříbro nebo Gold Competency. Pro existující kompetenci nebo zlato by správci měli ověřit zprávu o dovednostech alespoň tři měsíce před datem výročí kompetence, aby identifikovali, jestli se nejedná o riziko dosaženého nebo obnovování kompetence. Toto předběžné upozornění vám umožní poskytnout uživatelům čas na získání nových dovedností.
 - Potvrďte, že všichni techničtí uživatelé ve vaší společnosti se budou zobrazovat v sestavě dovedností a že jim s uživatelským účtem partnerského centra byli bez výzvy přidružit svůj účet s přístavy. Další části tohoto článku popisují, jak to udělat.
 
-- Pracujte s uživateli, abyste potvrdili přesnost svých nejnovějších informací o dovednostech v sestavě dovedností. V případě potřeby můžete uživatelům pomoct s odstraňováním problémů.
+- Spolupracujte s uživateli na potvrzení přesnosti nejnovějších informací o dovednostech v sestavě dovedností. V případě potřeby pomozte uživatelům s odstraňováním jakýchkoli potíží.
 
-## <a name="skill-report-prerequisites"></a>Požadavky na sestavy dovedností
+## <a name="skill-report-prerequisites"></a>Požadavky na sestavu dovedností
 
-Než budete moct zobrazit sestavu dovedností a začít používat dovednosti vaší společnosti k dosažení kompetence, musíte splnit následující předpoklady:
+Před zobrazením sestavy dovedností a zahájením uplatňování dovedností vaší společnosti k dosažení kompetence je potřeba splnit následující požadavky:
 
-- Ujistěte se, že jste se zaregistrovali v Microsoft Partner Network.
+- Ujistěte se, že jste zaregistrovaní v Microsoft Partner Network.
  
-   Partneři musí být zaregistrovaní v Microsoft Partner Network předtím, než budou moci dosáhnout kompetence nebo získat přístup k sestavě dovedností pro své uživatele. Pokud vaše společnost ještě není členem Microsoft Partner Network, přečtěte si [stránku členství](https://partner.microsoft.com/membership) a vyberte **připojit nyní**.
-- Ujistěte se, že máte v partnerském centru odpovídající roli.
-   Sestavu dovedností z [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra si můžou zobrazit jenom uživatelé v partnerské společnosti, kteří mají přiřazenou roli partnerského centra pro partnerský účet MPN nebo globální správce. Přečtěte si další informace o dostupných [rolích uživatelů](permissions-overview or assign.md) v partnerském centru. Nebo si přečtěte, jak [vytvořit nebo spravovat uživatelský účet](create-user-accounts-and-set-permissions.md) pro přiřazení konkrétní role uživateli.
-- Ujistěte se, že uživatelé vaší společnosti mají také vlastní uživatelský účet v partnerském centru. 
-   Uživatelský účet by měl být přidružený k vaší partnerské společnosti. Podívejte se, jak [vytvořit nebo spravovat uživatelský účet](create-user-accounts-and-set-permissions.md).
-- Ujistěte se, že uživatelé vaší společnosti přidruží své dovednosti a certifikace k uživatelskému účtu partnerského centra. 
-   Než se jejich dovednosti nebo certifikace budou zobrazovat v sestavě odbornosti partnerského centra, uživatelé musí zajistit, aby jim [přidružili svůj účet Microsoft Learning (MCP ID) k partnerským centrům a univerzitní škole](ms-learn-associate.md). Jakmile uživatel postupuje podle těchto kroků, může trvat 24 až 72 hodin, než se jejich dovednosti zobrazí v sestavě dovednosti. Tato sada kroků by také měla být dokončena všemi novými uživateli, kteří se nedávno připojili k vaší společnosti.
+   Partneři musí být zaregistrovaní v Microsoft Partner Network, aby mohli pro své uživatele získat kompetence nebo získat přístup k sestavě dovedností. Pokud vaše společnost ještě není členem skupiny Microsoft Partner Network, přejděte na stránku [členství](https://partner.microsoft.com/membership) a vyberte **Připojit se.**
+- Ujistěte se, že máte odpovídající roli v Partnerské centrum.
+   Sestavu dovedností mohou na řídicím panelu služby Partnerské centrum jenom uživatelé v partnerské společnosti, kteří mají přiřazenou roli správce partnera MPN nebo globální Partnerské centrum [správce.](https://partner.microsoft.com/dashboard) Další informace o dostupných [rolích uživatelů v](permissions-overview or assign.md) Partnerské centrum. Nebo si [přečtěte, jak vytvořit nebo spravovat uživatelský účet](create-user-accounts-and-set-permissions.md) a přiřadit uživateli konkrétní roli.
+- Ujistěte se, že uživatelé vaší společnosti mají také vlastní uživatelský účet v Partnerské centrum. 
+   Uživatelský účet by měl být přidružený k vaší partnerské společnosti. Podívejte [se, jak vytvořit nebo spravovat uživatelský účet.](create-user-accounts-and-set-permissions.md)
+- Zajistěte, aby uživatelé vaší společnosti přidružili své dovednosti nebo certifikace ke svému Partnerské centrum účtu. 
+   Než se jejich dovednosti nebo certifikace dají zobrazit v sestavě dovedností Partnerské centrum, musí se uživatelé ujistit, že ke svým účtům [Microsoft Learning (MCP ID)](ms-learn-associate.md)mají přidružené Partnerské centrum a Partner University. Po provedení těchto kroků může trvat 24 až 72 hodin, než se jeho dovednosti objeví v sestavě dovedností. Tuto sadu kroků by měli dokončit také noví uživatelé, kteří se nedávno připojili k vaší společnosti.
 
    > [!NOTE]
-   > Uživatelé by měli používat stejnou e-mailovou adresu, kterou používali v MsCert, Microsoft Learn nebo Partnerská Univerzita pro partnery při přebírání zkoušek nebo kurzů. Pokud uživatel použil jinou e-mailovou adresu, než je e-mailová adresa, která je k nim přidružená v uživatelském účtu partnerského centra, bude muset spolupracovat s účtem správce účtu MPN nebo globálním správcem.
+   > Uživatelé by měli při zkoušce nebo kurzech používat stejnou e-mailovou adresu, kterou použili v MsCert, Microsoft Learn nebo na portálu Partner University. Pokud uživatel použil jinou e-mailovou adresu, než je e-mailová adresa, která je k nim přidružená v uživatelském účtu partnerského centra, bude muset spolupracovat s účtem správce účtu MPN nebo globálním správcem.
 
 ## <a name="view-skills-report-data"></a>Zobrazit data sestavy dovedností
 
@@ -68,33 +65,33 @@ Pomocí těchto kroků můžete zobrazit data sestavy dovedností z partnerskéh
       :::image type="content" source="images/competencies/mpn-skills-report-3.png" alt-text="Tabulka partnerského centra s více sloupci ukázkových dat znázorňující stav dosažených dovedností uživatele" border="true":::
 
 > [!Note]
-> Když uživatel při prvním přidružuje své "zkoušky a certifikace Microsoftu" nebo "Microsoft Train & Assessment", nebo dokončí nové dovednosti; zobrazení dovedností v sestavě dovedností může trvat až 72 hodin. V sestavě dovedností se zobrazí jenom dovednosti týkající se kompetencí a programů partnerského centra. Vyřazení dovedností se může zobrazit i v sestavě po dobu 12 měsíců nebo více po jejich vyřazení. *Není-* li zkouška, posouzení nebo certifikace *výslovně* uvedena v rámci [požadavků konkrétní kompetence](https://partner.microsoft.com/membership/competencies), nebude považována za schůzku, kterou způsobila kompetence. 
+> Když uživatel při prvním přidružuje své "zkoušky a certifikace Microsoftu" nebo "Microsoft Train & Assessment", nebo dokončí nové dovednosti; zobrazení dovedností v sestavě dovedností může trvat až 72 hodin. V sestavě dovedností se zobrazí pouze dovednosti související Partnerské centrum kompetencí a programů programu. Vyřazené dovednosti se v sestavě dají zobrazit i po dobu 12 měsíců nebo déle po vyřazení. Pokud není v rámci požadavků konkrétní kompetence výslovně zmíněna zkouška,posouzení nebo [certifikace,](https://partner.microsoft.com/membership/competencies)nebude se při splnění této kompetence zvažovat. 
 
-## <a name="skills-report-and-pmc-users"></a>Sestavy dovedností a PMC uživatelé
+## <a name="skills-report-and-pmc-users"></a>Sestava dovedností a uživatelé PMC
 
-Pokud vaše partnerská společnost přesunula své členství z PMC do partnerského centra, máte šest měsíců, kde se vaše dovednosti založené na PMC budou považovat za dosažení kompetence. Aby nedošlo k ohrožení vaší kompetence, Stáhněte si zprávu o dovednostech a ujistěte se, že uživatelé, jejichž data obsahují, identifikují a určují jejich prioritu: 
+Pokud vaše partnerská společnost přesunula své členství z PMC do Partnerské centrum, budete mít šest měsíců, kdy se vaše dovednosti založené na PMC budou zvažovat pro dosažení kompetence. Pokud chcete zabránit ohrožení vaší kompetence, stáhněte si sestavu dovedností a ujistěte se, že jste identifikovali uživatele, jejichž data indikují, že jsou určení a priorita: 
 
-- "Ano" ve sloupci **přidruženo v PMC**
+- Ano ve **sloupci Přidruženo ve sloupci PMC**
 
-- Možnost ne ve sloupci **přidruženo v počítači**
+- Ne ve sloupci **Přidruženo v počítači**
  
-- Platné dovednosti zobrazené ve sloupci **relevantní pro kompetence (možnost) nebo programy**
+- Platné dovednosti zobrazené ve sloupci Relevantní **pro kompetence (možnost) nebo Programy**
 
-Pokud uživatel splňuje výše uvedená kritéria, požádejte je s žádostí, aby se [přiřadí v partnerském centru](ms-learn-associate.md) , jakmile to bude možné.
+Pokud máte uživatele splňující výše uvedená kritéria, obraťte se na ně a požádejte je, aby k [Partnerské centrum](ms-learn-associate.md) co nejdříve.
 
 ## <a name="troubleshoot-issues-with-the-skills-report"></a>Řešení potíží se sestavou dovedností
 
-Tato část se věnuje potenciálním problémům, se kterými se uživatelé mohou setkat se sestavou dovedností a jak je řešit.
+Tato část se věnuje potenciálním problémům, se kterými se vy nebo vaši uživatelé můžete setkat se sestavou dovedností, a jejich řešení.
 
-### <a name="why-cant-i-see-any-skills-for-a-specific-user"></a>Proč se mi nezobrazují žádné dovednosti pro konkrétního uživatele?
+### <a name="why-cant-i-see-any-skills-for-a-specific-user"></a>Proč pro konkrétního uživatele nevidím žádné dovednosti?
 
-Pokud se v datech sestavy dovedností nezobrazuje žádné dovednosti pro uživatele, uživatel:
+Pokud data sestavy dovedností pro uživatele nejsou dovednosti, uživatel:
 
-- Možná ještě nezískala relevantní dovednosti.
+- Možná jste ještě nezísili relevantní dovednosti.
 
-- Mohla sloučit své dovednosti s jiným MCID, který **není** spojený s uživatelským účtem partnerského centra.
+- Možná jste své dovednosti sloučili s jiným ID mcid, které **není** přidružené k jeho Partnerské centrum účtu.
 
-Pokud má uživatel duplicitní účty, požadované dovednosti mohou být rozděleny do dvou nebo více účtů. Například můžete mít MSAy vázané na MCID (jak je znázorněno ve **sloupci MCID** sestavy dovedností), ale certifikát přepisu stejný MSA odkazuje na jiný MCID. V takovém případě je potřeba sloučit MCID z přepisu do MCID, který už je zobrazený v sestavě dovedností. Uděláte to tak, že se obrátíte na určeného [týmu podpory pro školení Microsoft pro certifikace](https://trainingsupport.microsoft.com/mcp/forum). Po potvrzení sloučení MCP nebude nutné znovu přidružit své MSA. Bude už přidružená k partnerskému centru. Tento proces může trvat až 24 hodin, než se zobrazí v partnerském centru.
+Pokud má uživatel duplicitní účty, požadované dovednosti je možné rozdělit na dva nebo více účtů. Můžete mít například msa vázané na MCID (jak je znázorněno ve sloupci **MCID** sestavy dovedností), ale certifikace přepisu stejná MSA odkazuje na jiné MCID. V takovém případě musíte sloučit MCID z přepisu do MCID, které se už zobrazuje v sestavě dovedností. Pokud to chcete udělat, obraťte se na určený [tým podpory microsoftu pro školení k certifikaci.](https://trainingsupport.microsoft.com/mcp/forum) Po potvrzení sloučení MCP nebude nutné znovu přidružit své MSA. Bude už přidružená k partnerskému centru. Tento proces může trvat až 24 hodin, než se zobrazí v partnerském centru.
 
 ### <a name="why-do-i-see-an-error-message-when-i-try-to-download-the-skills-report"></a>Proč se při pokusu o stažení sestavy dovedností zobrazí chybová zpráva?
 
@@ -113,21 +110,21 @@ Pokud uživatel dokončí dovednosti, ale nezobrazí se v sestavě dovedností, 
 
 - 72 hodin uplynulo od doby, kdy uživatel dokončil své dovednosti po 72 hodinách, pokud data dovedností stále nereflektují dokončení jejich dovedností, správce účtu MPN nebo správce partnerského programu MPN by měl kontaktovat [podporu partnera společnosti Microsoft](https://partner.microsoft.com/support). Než se obrátíte na podporu partnera Microsoftu, připravte se na shromáždění a odeslání následujících informací:
 
-- Kopie **exportované sestavy uživatelů** (nebo snímku obrazovky sestavy). Pokud chcete získat přístup k této sestavě, přihlaste se k partnerskému centru, vyberte **Správa uživatelů** a pak **exportujte sestavu uživatelé**. Tato sestava obsahuje informace o tom, kdo má přístup k partnerské škole nebo kdo má přidruženého svého účtu Microsoft Learning. Uživatelé můžou také dát k těmto informacím snímek obrazovky tak, že v pravém horním rohu řídicího panelu partnerského centra vyberou možnost **můj profil** .
+- Kopie **exportované sestavy uživatelů** (nebo snímku obrazovky sestavy). Pokud chcete získat přístup k této sestavě, přihlaste se k partnerskému centru, vyberte **Správa uživatelů** a pak **exportujte sestavu uživatelé**. Tato sestava obsahuje informace o tom, kdo má přístup k partnerské škole nebo kdo má přidruženého svého účtu Microsoft Learning. Uživatelé také mohou zadat snímek obrazovky  s těmito informacemi tak, že v pravém horním rohu řídicího panelu Partnerské centrum můj profil.
 
-- Stažená verze sestavy nejnovějších dovedností, jak je popsáno výše v tomto článku.
+- Stažené verze nejnovější sestavy dovedností, jak je popsáno výše v tomto článku.
 
-- Kontrola, že uživatel dokončil relevantní zkoušky, certifikace nebo školení a posouzení Microsoftu. Podívejte se na následující příklady důkazů.
+- Otestování, že uživatel dokončil relevantní zkoušky, certifikace nebo školení a hodnocení Microsoftu Podívejte se na následující příklady pro potvrzení.
 
    > [!NOTE]
-   > Partnerské centrum v současné době rozpoznává jenom certifikaci ze dvou zdrojů, vzdělávání Microsoftu a partnerů na univerzitě. Jakýkoli jiný certifikát přijatý z jiných zdrojů (například OpenedX) se nebere v úvahu.
+   > V současné Partnerské centrum uznávají certifikaci pouze ze dvou zdrojů: Microsoft Learning a Partner University. Žádný jiný certifikát přijatý z jiných zdrojů (například OpenedX) se nebude zvažovat.
 
-   **Ukázka důkazu #1 – oficiální přepis certifikace Microsoftu**
+   **Příklad ověření #1 – Oficiální přepis certifikace Microsoftu**
 
-   :::image type="content" source="images/competencies/mpn-skills-report-4.png" alt-text="Ukázka oficiálního přepisu certifikačního programu Microsoftu" border="true":::
+   :::image type="content" source="images/competencies/mpn-skills-report-4.png" alt-text="Ukázka oficiálního přepisu certifikace Microsoftu" border="true":::
 
-   **Příklad kontrolního #2 – ukázkový certifikát pro školicí kurz Microsoftu pro online** školení s :::image type="content" source="images/competencies/mpn-skills-report-5.png" alt-text="názvem Online školicí kurz Microsoftu" border="true":::
+   **Proof example #2 – Microsoft Online Training Course Completion** Sample certificate s názvem Microsoft Online Training Course :::image type="content" source="images/competencies/mpn-skills-report-5.png" alt-text="Completion." border="true":::
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Propojit Microsoft Learn ID MCP k účtu partnerského centra](ms-learn-analytics.md)
+- [Propojení Microsoft Learn ID MCP Partnerské centrum účtu](ms-learn-analytics.md)

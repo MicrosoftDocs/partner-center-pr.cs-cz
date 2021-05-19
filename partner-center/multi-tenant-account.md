@@ -9,20 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: caea2002b5edc2958c0af316762408e309bcf14a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124801"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151198"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Přidání a správa několika tenantů v účtu partnerského centra
 
 
-**Příslušné role**
-
-- Globální správce
-- Správce účtu
+**Příslušné role**: globální správce | Správce účtu
 
 Tento článek popisuje, jak sloučit více tenantů Azure Active Directory (Azure AD) pro vaši společnost a pak je přidat a spravovat v účtu partnerského centra. K tomu je potřeba celá řada důvodů. Například:
 
@@ -46,32 +43,32 @@ Tento článek popisuje, jak sloučit více tenantů Azure Active Directory (Azu
 
 1. Vyberte **přidružit** a pak určete tenanta, kterého chcete přidružit.
 
-1. Na příkazovém řádku se přihlaste jako globální správce do tenanta, kterého chcete přidružit, a pak vyberte **Potvrdit**. 
+1. Na příkazovém řádku se přihlaste jako globální správce k tenantovi, kterého chcete přidružit, a pak vyberte **Potvrdit.** 
 
-   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Snímek obrazovky s tlačítkem potvrdit v podokně potvrdit nové přidružení Azure AD"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Snímek obrazovky s tlačítkem Potvrdit v podokně Potvrdit nové přidružení Azure AD"::: 
 
-   Po potvrzení přidružení se zobrazí zpráva **všechna sada** . Chcete-li zobrazit nově přidaného tenanta, vyberte možnost **vrátit se ke správě tenanta**. 
+   Po potvrzení přidružení se zobrazí zpráva **All set (Vše** nastaveno). Pokud chcete zobrazit nově přidaného tenanta, vyberte **Return to tenant management (Vrátit se ke správě tenanta).** 
  
 >[!NOTE]
->Nemůžete přidružit klienta k účtu, pokud je už přidružený k jinému účtu partnerského centra.
+>Tenanta nemůžete přidružit k účtu, pokud už je přidružený k jinému Partnerské centrum účtu.
 
 
 ## <a name="remove-a-tenant-from-your-account"></a>Odebrání tenanta z účtu
  
-1. Přihlaste se jako globální správce do [partnerského centra Microsoftu](https://partner.microsoft.com/dashboard).
+1. Přihlaste se jako globální správce k [Microsoft Partnerské centrum](https://partner.microsoft.com/dashboard).
 
-1. V pravém horním rohu vyberte ikonu **Nastavení** a pak vyberte **Nastavení účtu**.
+1. V pravém horním rohu vyberte **ikonu Nastavení** a pak vyberte **Nastavení účtu**.
 
-1. V levém podokně vyberte možnost **klienti**. V části **spravovat klienty Azure AD** vyberte kartu **partner** .
+1. V levém podokně vyberte **Tenanti.** V **části Spravovat tenanty Azure AD** vyberte **kartu** Partner.
  
-1. Vyberte **Odebrat** vedle tenanta, jehož přidružení chcete odebrat.
+1. Vedle **tenanta,** jehož přidružení chcete odebrat, vyberte Odebrat.
 
-   :::image type="content" source="images/disassociate.png" alt-text="Snímek obrazovky aktuálních přidružení klientů a jejich odkazy pro odebrání":::
+   :::image type="content" source="images/disassociate.png" alt-text="Snímek obrazovky s aktuálními přidruženími tenantů a jejich odkazy Odebrat":::
 
-   Jak je znázorněno na předchozím snímku obrazovky, odkazy **Odebrat** jsou povolené pro všechny přidružené klienty, s výjimkou primárního tenanta a tenanta, ke kterému jste aktuálně přihlášení. 
+   Jak je znázorněno na  předchozím snímku obrazovky, odkazy Odebrat jsou povolené pro všechny přidružené tenanty s výjimkou primárního tenanta a tenanta, ke které jste aktuálně přihlášení. 
 
    > [!NOTE]   
-   > Když odeberete tenanta, uživatelé tohoto tenanta už nebudou mít přístup k účtu partnerského centra a odebrání můžou mít dopad na vaše kompetence. 
+   > Když odeberete tenanta, uživatelé v tomto tenantovi už nebudou mít přístup k účtu Partnerské centrum a odebrání může mít vliv na vaše kompetence. 
 
 ## <a name="next-steps"></a>Další kroky
 

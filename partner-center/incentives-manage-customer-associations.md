@@ -1,6 +1,6 @@
 ---
-title: Motivace zákaznických přidružení
-description: Seznamte se s důležitými procesy a časovými osami pro správu deklarovaných zákaznických přidružení CPOR (Partner of Record).
+title: Přidružení zákazníků v rámci pobídek
+description: Pochopení důležitých procesů a časových os pro správu přidružení zákazníků cpor (Claimed Partner of Record)
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
@@ -8,56 +8,52 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e0c79fb70c5b439968302353c70907f37aaa09a7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179475"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151929"
 ---
-# <a name="manage-incentives-customer-associations"></a>Správa pobídek přidružení zákazníků
+# <a name="manage-incentives-customer-associations"></a>Správa přidružení zákazníků v rámci pobídek
 
-**Příslušné role**
+**Odpovídající role:** Správce fakturace | Globální správce | Správce pobídek
 
-- Správce fakturace
-- Globální správce
-- Motivace správce
+Platforma CPOR (Claimed Partner of Record) slouží partnerům k tomu, aby se přidružili ke koncovým zákazníkům, na které mají vliv na používání nebo nákup produktů Microsoftu. Platforma CPOR v současné době podporuje Business Applications a Microsoft 365 produkty. Partneři používají tuto asociační metodu k získání přehledu o výkonu zákazníků, získávání plateb za pobídky prostřednictvím programů OSU a OSA a k získání přidružení výnosů jako obchodního vlivného.  
 
-Deklarovaná Partnerská platforma pro záznam (CPOR) se používá pro partnery, kteří se přiřadí k koncovým zákazníkům, pro které mají vliv na používání nebo nákup produktů Microsoftu. V současné době platforma CPOR podporuje produkty Business Applications a Microsoft 365. Partneři používají tuto metodu přidružení k získání přehledu o výkonu zákazníků, přijímání pobídek k pobídkám prostřednictvím programů OSU a OSA a umožňují přidružit výnosy jako činitele podniku.  
+## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>Jak vaše žádost o přidružení CPOR souvisí s pobídky
 
-## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>Jak vaše deklarace identity přidružení CPOR má vztah k motivům
+Pokud jste si udělali žádost o přidružení CPOR a ta byla schválena, jste teď přidruženi k zákazníkovi. Neznamená to, že se žádost schválí pro příjmy v rámci pobídek nebo výplatu. Průvodce programem pobídek popisuje podmínky způsobilosti pro vyplácení pobídek na základě schválených žádostí.
 
-Pokud jste vytvořili deklaraci identity CPOR a schválili jste ji, jste teď přidružení k zákazníkovi. Neznamená to, že tato deklarace je schválená pro pobídkový zisk nebo výběr. Příručka k programu pro motivaci popisuje požadavky na způsobilost pro vyplacení na základě schválených deklarací identity.
+Průvodce programem pobídek najdete na [Microsoft Partner Network](https://aka.ms/partnerincentives).
 
-Příručky k programu pro motivaci najdete na [Microsoft Partner Network](https://aka.ms/partnerincentives).
+Pokud je vaše žádost o přidružení CPOR schválená a máte nárok na pobídky, můžete ověřit ID předplatného nebo tenanta v sestavách příjmů a výplat. 
 
-Pokud je deklarace identity přidružení CPOR schválená a způsobilá pro pobídky, můžete ověřit předplatné nebo ID tenanta v souvislosti s vytvářením sestav příjmů a výběrů. 
+## <a name="cpor-association-claims-timeline"></a>Časová osa žádostí o přidružení CPOR
 
-## <a name="cpor-association-claims-timeline"></a>Časová osa deklarací identity přidružení CPOR
+- Odesláno: Bude v odeslaném stavu po dobu až pěti pracovních dnů, dokud Microsoft nezačne proces schválení.
+- V části Zkontrolovat: Microsoft má na rozhodnutí na základě důkazu o provedení, který poskytnete, pět pracovních dnů.
+- Vyžaduje se akce partnera: Pokud vám revidující pošle komentáře a žádost o další informace, máte na odpověď pět pracovních dnů. Na základě smlouvy SLA revidujícího by se mělo do 10 dnů rozhodnout o vaší žádosti o přidružení CPOR a navíc o době potřebné k poskytnutí dalších informací kontrolorům důkazu o provedení.
+- Schváleno: Vaše žádost o přidružení CPOR byla schválena. Po schválení vašeho přidružení se zákazníkovi zobrazí oznámení, které mu dává příležitost toto přidružení odmítnout. Zákazník pak bude mít sedm dnů na odhlášení. Po uplynutí tohoto období souhlasu se žádost zasílá za účelem vyhodnocení způsobilosti pro programy pobídek.
 
-- Odesláno: bude v odeslaném stavu až pět pracovních dní, dokud Microsoft nespustí proces schvalování.
-- V části kontrola: Společnost Microsoft má pět pracovních dnů, aby bylo možné provést rozhodnutí na základě ověření, které zadáte.
-- Požaduje se Partnerská akce: Pokud kontrolor pošle komentáře a žádost o další informace, budete mít na reakci pět pracovních dnů. Na základě smlouvy SLA kontrolora a doby potřebné k tomu, aby kontroloři důkazu o spuštění (PoE) poskytli další informace, by mělo být rozhodnutí ve vaší deklaraci CPOR asociace provedeno do 10 dnů.
-- Schváleno: deklarace identity přidružení CPOR je schválená. Po schválení přidružení se zákazníkovi pošle oznámení, že jim umožní odmítnout vaše přidružení. Zákazník pak bude mít sedm dní na odhlášení. Po uplynutí této doby souhlasu se udělí žádost o vyhodnocení nároku na pobídkové programy.
+## <a name="view-the-status-of-your-cpor-association-claim"></a>Zobrazení stavu žádosti o přidružení CPOR
 
-## <a name="view-the-status-of-your-cpor-association-claim"></a>Zobrazit stav deklarace identity přidružení CPOR
+Stav vaší žádosti o přidružení CPOR můžete kdykoli zkontrolovat pomocí řídicího panelu Přidružení zákazníků [(vyžaduje](https://partner.microsoft.com/dashboard/incentives/claims/associations) se přihlášení).
 
-Stav deklarace identity přidružení CPOR můžete kdykoli ověřit pomocí [řídicího panelu přidružení zákazníka](https://partner.microsoft.com/dashboard/incentives/claims/associations) (vyžaduje se přihlášení).
+Tady jsou stavy a jejich významy:
 
-Tady jsou stavy a jejich význam:
-
-| Stav deklarace identity | Se zobrazí, když |
+| Stav deklarace identity | Zobrazí se, když |
 | ------ | ----------- | 
-|  Úprava  | Deklarace identity přidružení CPOR se vytvořila. Zůstane v tomto stavu, dokud neodešlete zkušební verzi dokumentu pro spuštění a neodešlete žádost o schválení.   |
-|  Odesláno  | Partner úspěšně odeslal svou deklaraci CPOR přidružení, ale společnost Microsoft ještě nezahájila proces kontroly.   |
-|  Probíhá kontrola  | Společnost Microsoft zahájila ověřování v dokumentaci k PoE. Můžeme vás kontaktovat, abychom vám pomohli další podrobnosti. Smlouva SLA procesu revize je pět pracovních dnů.  |
-|  Zamítnuto  | Vaše PoE nebylo dostatečné nebo jste neodpověděli do pěti pracovních dnů na základě pokynů pro kontrolu PoE a deklarace identity byla zamítnuta.   |
-|  Schválené  | Deklarace identity je schválená. Po schválení od Microsoftu má zákazník možnost Odepřít vaše přidružení. Zákazník má sedm dní na odhlášení od schválení od Microsoftu. I když se vaše deklarace bude zobrazovat jako schválená, pošle se jenom pro posouzení na podnět po uplynutí doby platnosti souhlasu.   |
-|  Je vyžadována akce partnera.  | Společnost Microsoft zkontrolovala vaši CPOR nárok na přidružení služby PoE a potřebuje další informace související s vaším PoE pro produkty a zatížení, které jste si vyžádali. Po dobu pěti pracovních dnů získáte požadované informace a znovu odešlete deklaraci identity nebo bude odmítnut. Níže jsou uvedené možné důvody, proč se vyžadují další informace:
+|  Úprava  | Vaše žádost o přidružení CPOR byla vytvořena. Zůstane v tomto stavu, dokud nenahrajete doklad o provedení a odešlete žádost ke schválení.   |
+|  Odesláno  | Partner úspěšně odeslal žádost o přidružení CPOR, ale Microsoft ještě nezahájí proces revize.   |
+|  Probíhá kontrola  | Microsoft začal s ověřováním dokumentace k pou3/4iování. Můžeme vás kontaktovat s podrobnějšími údaji. Smlouva SLA pro proces revize je pět pracovních dnů.  |
+|  Zamítnuto  | Vaše žádost o provedení byla nedostatečná nebo jste během pěti pracovních dnů neodpovídali podle pokynů ke revize po provedení a žádost byla zamítnuta.   |
+|  Schválené  | Žádost byla schválena. Po schválení Společností Microsoft měl zákazník příležitost vaše přidružení odmítnout. Zákazník má sedm dní na to, aby se odsoul po schválení Microsoftem. I když se vaše žádost zobrazí jako schválená, bude odeslána k posouzení pobídek až po uplynutí období souhlasu.   |
+|  Vyžaduje se akce partnera  | Microsoft si prošetření vaší žádosti o přidružení CPOR a potřebuje další informace související s vaším pou3/4ití pro produkty/úlohy, o které jste nárokoval. K poskytnutí požadovaných informací a opětovnému potvrzení žádosti máte pět pracovních dnů, jinak se žádost zamítne. Níže jsou uvedené možné důvody, proč se vyžadují další informace:
 
 - Zcela chybějící důkaz o provedení – Důkaz o provedení chybí kvůli nahrání nesprávného souboru nebo nahrání souboru, který nesouvisí s žádostí o přidružení CPOR.
 
-- Chybí podpis zákazníka potvrzení zákazníka není v PoE.
+- Chybějící potvrzení zákazníka – Podpis zákazníka není v potvrzovací návěsce
 
 - Chybějící nebo stará data – Důkaz o provedení neobsahuje data nebo obsahuje stará data ve vztahu k žádosti.
 
@@ -65,33 +61,33 @@ Tady jsou stavy a jejich význam:
 
 - Chybějící produkty – Důkaz o provedení neobsahuje informace o požadovaném produktu nebo úloze. 
 
-## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Spor o stav deklarace identity přidružení CPOR
+## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Rozporování stavu žádosti o přidružení CPOR
 
-Pokud je vaše deklarace identity přidružení CPOR zamítnutá, máte po dobu 30 dnů, než se odmítne. V e-mailu s oznámením o zamítnutí, který jste obdrželi, najdete také informace o tom, kde si můžete prohlédnout důvod zamítnutí a jak ho rozporovat.  
+Pokud je vaše žádost o přidružení CPOR zamítnuta, máte 30 dnů na rozporování zamítnutí. V e-mailu s oznámením o zamítnutí, který jste obdrželi, najdete také informace o tom, kde si můžete prohlédnout důvod zamítnutí a jak ho rozporovat.  
 
-Pokud jste prošli 30 dnů a přesto chcete sporné odmítnutou deklaraci identity, budete muset nové přidružení odeslat s aktualizovaným ověřením spuštění (PoE). 
+Pokud 30 dnů uplynulo a stále chcete rozkládat zamítnutou žádost, budete muset odeslat nové přidružení k aktualizovanému důkazu o provedení. 
 
-### <a name="to-dispute-a-rejected-claim"></a>Spor zamítnuté deklarace identity
+### <a name="to-dispute-a-rejected-claim"></a>Rozhodíte zamítnutou žádost
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
-2. Otevřete deklaraci identity, pro kterou chcete vytvořit spor.
-3. Na stránce deklarace vyberte možnost **spor**.
-4. Zadejte obchodní odůvodnění a/nebo aktualizovaný PoE s vysvětlením, proč by se mělo odmítnutí převažovat.
-5. Jakmile budete hotovi s přidáváním informací, vyberte **Rozporovat**. Naši Kontroloři by vás měli kontaktovat s výsledky během pěti pracovních dnů.
+2. Otevřete žádost, kterou chcete roztrášovat.
+3. Na stránce žádosti vyberte **Roztát**.
+4. Zadejte obchodní odůvodnění nebo aktualizovaný pou3/4icí s vysvětlením, proč by se zamítnutí mělo znovu zamyslet.
+5. Jakmile budete hotovi s přidáváním informací, vyberte **Rozporovat**. Naši kontroloři by vás měli kontaktovat s výsledky do pěti pracovních dnů.
 
-## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Důvody odmítnutí deklarace identity přidružení CPOR
+## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Důvody zamítnutí žádosti o přidružení CPOR
 
-Existují tři hlavní důvody pro zamítnutí deklarace CPOR přidružení.
+Existují tři hlavní důvody zamítnutí žádosti o přidružení CPOR.
 
-**Partnerský požadavek:** Partneři můžou požádat o zamítnutí jejich přidružení. Tato racionalizace se většinou používá v případě, že partner vytvořil deklaraci identity CPOR omylem pomocí nesprávného MPN, zvolil neplatnou aktivitu (například jste zvolili možnost přiřazení výnosů spíše než před prodejem) nebo už nepracuje u zákazníka.
+**Žádost partnera:** Partneři mohou požádat o zamítnutí svého přidružení. Tato odůvodnění se většinou používá v případě, že partner omylem vytvořil žádost o přidružení CPOR s použitím nesprávného MPN, zvolil nesprávnou aktivitu (například jste místo předprodeje zvolili Přidružení výnosů) nebo už se zákazníkem nepracuje.
 
-**Odmítnutí zákazníka:** Po úspěšném dokončení CPOR deklarace identity přidružení PoE se jeho stav změní na schváleno, dokud se zákazníkovi nedostala možnost Odepřít souhlas s přidružením. Pokud zákazník odepře souhlas, přidružení se zamítne.
+**Odmítnutí zákazníka:** Jakmile žádost o přidružení CPOR úspěšně projde procesem schválení po provedení, změní se její stav na Schváleno, zatímco zákazníkovi bude poskytnuta příležitost odmítnout souhlas s přidružením. Pokud zákazník odepře souhlas, přidružení se zamítne.
 
-**Nedostatečný důkaz provedení:** Pro každé přidružení CPOR se vyžaduje ověření provádění. Po odeslání žádosti o přidružení CPOR budou moct kontroloři Microsoftu trvat až pět dní, aby zkontrolovali vaše PoE a požádali o další potřebné informace, a to pomocí oddílu komentáře ve vaší deklaraci identity. Pokud jsou informace nedostatečné, vaše deklarace přidružení CPOR se odmítne.
+**Nedostatečný důkaz o provedení:** Pro každé přidružení CPOR se vyžaduje doklad o provedení. Po odeslaní žádosti o přidružení CPOR budou kontroloři Microsoftu trvat až pět dnů, než si prošetří váš poucít– a zobrazí žádost o další informace potřebné v části Komentáře ve vaší žádosti. Pokud tyto informace nestačí, vaše žádost o přidružení CPOR se zamítne.
 
-Další možné důvody pro zamítnutí:
+Další možné důvody zamítnutí:
 
-- Chybějící souhlas zákazníka v PoE
+- Chybějící souhlas zákazníka v poukáře
 - Chybějící produkty
 - Žádná odpověď partnera
 - PoE není k dispozici

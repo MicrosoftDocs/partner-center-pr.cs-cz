@@ -4,43 +4,41 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Nejčastější dotazy týkající se požadavků na zabezpečení partnerů – co jsou, jak je chtějí partneři implementovat a jak zjistit, jestli jste je splnili.
+description: Nejčastější dotazy týkající se požadavků na zabezpečení partnerů – co to jsou, jak by je partneři měli implementovat a jak víte, jestli jste je splnili.
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f2bf6823fdd976632fb8ad9c8f11ce99835d76a5
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 174c56ce9bb5fb3d9d92c1ef18af73479619f4bb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087072"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145877"
 ---
-# <a name="common-questions-about-partner-security-requirements"></a>Běžné otázky týkající se požadavků na zabezpečení partnerů
+# <a name="common-questions-about-partner-security-requirements"></a>Běžné dotazy týkající se požadavků na zabezpečení partnerů
 
-**Příslušné role**
+**Odpovídající role:** Všichni Partnerské centrum uživatele
 
-- Všichni uživatelé partnerského centra
+V tomto článku najdete odpovědi na některé běžné dotazy týkající se [požadavků na zabezpečení partnerů.](partner-security-requirements.md)
 
-Tento článek obsahuje odpovědi na některé běžné dotazy týkající se [požadavků na zabezpečení partnera](partner-security-requirements.md).
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Jaké jsou požadavky na zabezpečení partnerů a proč by je partneři měli implementovat?
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Jaké jsou požadavky na zabezpečení partnerů a proč by se měly jejich partneři implementovat?
-
-Vyšší a nepřetržité zabezpečení a ochrana osobních údajů jsou z našich nejdůležitějších priorit a budeme dál pomáhat partnerům chránit své zákazníky a klienty. Dál se podrobněji prodlužuje a zvyšuje počet útoků zabezpečení, které jsou primárně spojené s incidenty ohrožení bezpečnosti identity. Protože preventivní kontroly hrají klíčovou roli v celkové strategii obrany, aby vzdoruje bezpečnostní útoky, představili jsme v 2019 [požadavky na zabezpečení](partner-security-requirements.md) . Všichni partneři účastnící se programu Cloud Solution Provider (CSP), prodejci ovládacích panelů a poradci musí implementovat požadavky, aby zůstaly v souladu.
+Mezi naše hlavní priority patří větší a průběžná ochrana zabezpečení a ochrany osobních údajů a pomáháme partnerům chránit jejich zákazníky a tenanty. I nadále vidíme sofistikovanější a rostoucí počet útoků na zabezpečení, které souvisí především s incidenty ohrožení identity. Protože preventivní kontroly hrají klíčovou roli v celkové strategii ochrany před útoky na zabezpečení, zavedli jsme povinné požadavky na zabezpečení [v](partner-security-requirements.md) roce 2019. Všichni partneři účastnící se Cloud Solution Provider (CSP), Ovládací panely Vendors a Advisors musí implementovat požadavky na dodržování předpisů.
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Jaké jsou klíčové časové osy a milníky?
 
-Podmínky spojené s těmito požadavky na zabezpečení, včetně časových os a milníků, jsou součástí [smlouvy Microsoft Partner Agreement](microsoft-partner-agreement.md). Tyto požadavky na zabezpečení bude nutné co nejdříve implementovat, aby bylo možné v programu CSP v souladu s vaší účastí.
+Podmínky spojené s těmito požadavky na zabezpečení, včetně časových os a milníků, jsou součástí [Smlouva s partnerem Microsoftu](microsoft-partner-agreement.md). Tyto požadavky na zabezpečení budete muset implementovat co nejdříve, abyste měli podchycený vaši účast v programu CSP.
 
-### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Co se stane, když tyto požadavky na zabezpečení těchto partnerů neimplementujem?
+### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Co se stane, když tyto požadavky na zabezpečení partnerů neimplementuje?
 
-Partnerská smlouva Microsoftu vyžaduje, abyste vynutili službu Multi-Factor Authentication pro uživatelské účty a přijali zabezpečený aplikační model pro interakci s rozhraním API partnerského centra. 
+Tento Smlouva s partnerem Microsoftu vyžaduje vynucení vícefaktorového ověřování pro uživatelské účty a použití zabezpečeného aplikačního modelu pro interakci s rozhraním PARTNERSKÉ CENTRUM API. 
 
-Partneři, kteří tyto postupy zabezpečení nedodržují, mohou ztratit svou schopnost pracovat v programu CSP nebo spravovat klienty zákazníka pomocí oprávnění delegovat správce.
+Partneři, kteří se těmito postupy zabezpečení nevěnují, mohou ztratit svou schopnost provádět transakce v programu CSP nebo spravovat tenanty zákazníků pomocí práv delegovaného správce.
 
-### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Platí požadavky na zabezpečení u všech geografických oblastí?
+### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Vztahují se požadavky na zabezpečení na všechny zeměpisné oblasti?
 
-Ano, požadavky na zabezpečení platí pro všechna geografická pole. Důrazně doporučujeme, aby všichni partneři procházeli prostřednictvím svrchovaného cloudu (vlády USA a Německa) a okamžitě přijali tyto nové požadavky na zabezpečení. Tito partneři ale momentálně nevyžadují splnění požadavků na zabezpečení. Microsoft nabídne další podrobnosti týkající se vynucování těchto požadavků na zabezpečení pro cloudy svrchovaného v budoucnu.
+Ano, požadavky na zabezpečení se vztahují na všechny zeměpisné oblasti. Důrazně doporučujeme, aby všichni partneři procházeli prostřednictvím svrchovaného cloudu (vlády USA a Německa) a okamžitě přijali tyto nové požadavky na zabezpečení. Tito partneři ale momentálně nevyžadují splnění požadavků na zabezpečení. Microsoft nabídne další podrobnosti týkající se vynucování těchto požadavků na zabezpečení pro cloudy svrchovaného v budoucnu.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Je možné získat pro účet vyloučení?
 
@@ -70,28 +68,28 @@ Všichni partneři v programu CSP (přímá fakturace, nepřímý poskytovatel a
     Další rozhodnutí:
 
     - Neposkytovatelé nepřímých zprostředkovatelů potřebují spolupracovat s nepřímými prodejci, kteří se dostanou do partnerského centra, pokud je ještě neudělali, a nepodporují jejich prodejce, aby splnili požadavky.
-    - Azure MFA se zpřístupňuje všem uživatelům v partnerském tenantovi bez jakýchkoli nákladů prostřednictvím výchozích hodnot zabezpečení Azure AD s jedinou metodou ověření aplikace ověřovatele, která podporuje časová hesla založená na čase (TOTP).
-    - Další metody ověřování jsou dostupné prostřednictvím [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU, pokud potřebujete jiné metody, jako je třeba telefonní hovor nebo textová zpráva.
-    - Při přístupu k komerčním cloudovým službám Microsoftu můžou pro každý účet použít taky řešení MFA od jiného výrobce.
+    - Azure MFA je zdarma k dispozici všem uživatelům v partnerském tenantovi prostřednictvím výchozího nastavení zabezpečení Azure AD s jedinou metodou ověřování ověřovací aplikace, která podporuje jednorázová hesla podle času (TOTP).
+    - Další metody ověřování jsou k dispozici prostřednictvím [skladových Azure Active Directory Premium,](/azure/active-directory/fundamentals/active-directory-get-started-premium) pokud jsou požadovány jiné metody, jako je telefonní hovor nebo textová zpráva.
+    - Partneři mohou při přístupu ke komerčním cloudovým službám Microsoftu také pro každý účet použít řešení MFA třetí strany.
 
-2. **Přijmout rozhraní zabezpečeného modelu aplikace**
+2. **Přijetí Model zapezpečených aplikací architektury**
 
-    Všechny partnery, kteří vyvinuli vlastní integraci pomocí libovolných rozhraní API (například Azure Resource Manager, Microsoft Graph, rozhraní API partnerského centra atd.) nebo implementovali vlastní automatizaci pomocí nástrojů, jako je PowerShell, budou muset pro integraci s cloudovou službou Microsoftu přijmout [rozhraní zabezpečeného modelu aplikace](/partner-center/develop/enable-secure-app-model) . V důsledku tohoto selhání může dojít k přerušení kvůli nasazení MFA. Následující zdroje poskytují přehled a pokyny týkající se toho, jak model přijmout.
+    Všichni partneři, kteří vyvinuli vlastní integraci pomocí libovolných rozhraní API (například Azure Resource Manager, Microsoft Graph, Partnerské centrum API atd.) nebo implementovali vlastní automatizaci pomocí nástrojů, jako je PowerShell, budou muset přijmout rozhraní [Model zapezpečených aplikací](/partner-center/develop/enable-secure-app-model) pro integraci s cloudovými službami Microsoftu. Pokud to není možné, může dojít k přerušení kvůli nasazení MFA. Následující zdroje obsahují přehled a pokyny týkající se osvojování modelu.
 
-    - [Přehled zabezpečení aplikačního modelu](/partner-center/develop/enable-secure-app-model)
-    - [Partner Center: Průvodce zabezpečeným modelem aplikace](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [Partneři v programu CSP: ukázkový kód .NET pro povolení zabezpečení aplikačního modelu](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-    - [Partneři v programu CSP: vzorový kód Java pro povolení modelu zabezpečené aplikace](/samples/microsoft/partner-center-java-samples/secure-app-model/)
-    - [Ověřovací dokument partnerského centra](/partner-center/develop/partner-center-authentication)
-    - [Dokument Multi-Factor Authentication PowerShellu pro partnerský Center](/powershell/partnercenter/multi-factor-auth)
+    - [Model zapezpečených aplikací přehledu](/partner-center/develop/enable-secure-app-model)
+    - [Partnerské centrum: Model zapezpečených aplikací průvodce](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+    - [Partneři v programu CSP: Vzorový kód .NET pro povolení Model zapezpečených aplikací](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [Partneři v programu CSP: Vzorový kód Java pro povolení Model zapezpečených aplikací](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+    - [Partnerské centrum ověřování dokumentu](/partner-center/develop/partner-center-authentication)
+    - [Partnerské centrum vícefaktorového ověřování (MFA) PowerShellu](/powershell/partnercenter/multi-factor-auth)
 
-    Pokud používáte ovládací panely, které se týkají přijetí rozhraní zabezpečeného aplikačního modelu, obraťte se na dodavatele.
+    Pokud používáte ovládací panel týkající se přijetí této architektury, obraťte se na Model zapezpečených aplikací dodavatele.
 
-    Dodavatelům ovládacího [panelu se musí zapojit do](enroll-as-cpv.md) partnerského centra jako dodavatel řídicích panelů a okamžitě zahájit implementaci tohoto požadavku. Přečtěte si téma [partner Center: Secure Application Modeling Framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Dodavatelé ovládacích panelů musí místo přihlašovacích údajů přijmout a spravovat souhlas partnerů CSP, a vyprázdnit všechny existující přihlašovací údaje partnerů CSP.
+    Dodavatelé ovládacích panelů musí [tento](enroll-as-cpv.md) požadavek Partnerské centrum jako dodavatele ovládacích panelů a začít tento požadavek okamžitě implementovat. Projděte si [následující Partnerské centrum: Model zapezpečených aplikací framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Dodavatelé ovládacích panelů musí místo přihlašovacích údajů přijmout a spravovat souhlas partnerů CSP a vymazat přihlašovací údaje všech stávajících partnerů CSP.
 
 ## <a name="multi-factor-authentication"></a>Ověřování pomocí služby Multi-Factor Authentication
 
-### <a name="what-is-multi-factor-authentication-mfa"></a>Co je Multi-Factor Authentication (MFA)?
+### <a name="what-is-multi-factor-authentication-mfa"></a>Co je vícefaktorové ověřování (MFA)?
 
 MFA je bezpečnostní mechanismus pro ověřování jednotlivců prostřednictvím více než jednoho vyžadovaného postupu zabezpečení a ověření. Funguje tak, že vyžaduje dvě nebo více následujících metod ověřování:
 
@@ -112,33 +110,33 @@ Pomocí těchto požadavků na zabezpečení se uživatelé v partnerském tenan
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>Používám několik partnerských tenantů pro Transact. Musím pro ně implementovat MFA?
 
-Ano, budete muset vymáhat MFA pro každého tenanta Azure Active Directory přidruženého k programu CSP nebo programu poradce. Pokud si chcete koupit licenci Azure Active Directory Premium, musíte pro uživatele v každém klientovi Azure Active Directory zakoupit licenci Azure Active Directory. 
+Ano, budete muset vymáhat MFA pro každého tenanta Azure Active Directory přidruženého k programu CSP nebo programu poradce. Pokud si chcete Azure Active Directory Premium licenci, musíte si Azure Active Directory licenci pro uživatele v každém Azure Active Directory tenantovi. 
 
-### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>Musí mít každý uživatelský účet v partnerském tenantovi vymáhání MFA?
+### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>Musí se pro každý uživatelský účet v partnerském tenantovi vynucovat více ověřování?
 
-Ano, u každého uživatele bude nutné vyhovět MFA. Pokud ale používáte výchozí hodnoty zabezpečení Azure AD, není nutná žádná další akce, protože tato funkce vynutila MFA pro všechny uživatelské účty. Povolení výchozích hodnot zabezpečení je bezplatný a snadný způsob, jak zajistit, aby byly uživatelské účty kompatibilní s MFA a neovlivnily se při vymáhání MFA.
+Ano, každý uživatel bude muset vynucovat více ověřování. Pokud ale používáte výchozí nastavení zabezpečení Azure AD, nevyžaduje se žádná další akce, protože tato funkce vynucuje MFA pro všechny uživatelské účty. Povolení výchozích hodnot zabezpečení je bezplatný a snadný způsob, jak zajistit, aby vaše uživatelské účty byly kompatibilní s více ověřováním a nebyly ovlivněny při vynucení více ověřování.
 
-### <a name="i-am-a-direct-bill-partner-with-microsoft-what-do-i-need-to-do"></a>Jsem přímým účtováným partnerem Microsoftu. Co musím udělat?
+### <a name="i-am-a-direct-bill-partner-with-microsoft-what-do-i-need-to-do"></a>Jsem partner Microsoftu s přímým vyúčtováním. Co musím udělat?
 
-Partneři poskytovatele cloudových řešení pro přímé faktury musí vymáhat MFA pro každého uživatele v partnerském tenantovi.
+Partneři s přímým vyúčtováním Cloud Solution Provider musí více ověřování vynutit pro každého uživatele ve svém partnerském tenantovi.
 
-### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>Jsem nepřímým prodejcem a jenom v případě, že je distributor. Musím pořád povolit MFA?
+### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>Jsem nepřímý prodejce a provádím transakce jenom přes distributora. Musím ještě povolit MFA?
 
-Všem nepřímým prodejcům se vyžaduje, aby vynutil MFA pro každého uživatele v partnerském tenantovi. Nepřímý prodejce musí povolit vícefaktorové ověřování.
+Všichni nepřímí prodejci musí vynutit více ověřování pro každého uživatele ve svém partnerském tenantovi. Nepřímý prodejce musí povolit MFA.
 
-### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>Nepoužívám rozhraní API partnerského centra. Je stále potřeba implementovat MFA?
+### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>Rozhraní API pro Partnerské centrum. Musím ještě implementovat MFA?
 
-Ano, tento požadavek zabezpečení je pro všechny uživatele, včetně uživatelů partnerského správce a koncových uživatelů v partnerském tenantovi.
+Ano, tento požadavek na zabezpečení je pro všechny uživatele, včetně uživatelů s rolí správce partnera a koncových uživatelů v partnerském tenantovi.
 
 ### <a name="which-third-party-vendors-provide-mfa-solutions-compatible-with-azure-active-directory"></a>Kteří dodavatelé třetích stran poskytují řešení MFA kompatibilní s Azure Active Directory?
 
-Při kontrole dodavatelů a řešení MFA musí partneři zajistit, aby zvolené řešení bylo kompatibilní s Azure Active Directory.
+Při prověrce dodavatelů a řešení MFA musí partneři zajistit, aby řešení, které si zvolí, bylo kompatibilní s Azure Active Directory.
 
-Microsoft už neposkytuje ověřovací testování pro nezávislé zprostředkovatele identity kvůli kompatibilitě s Azure Active Directory. Pokud chcete svůj produkt testovat pro interoperabilitu, přečtěte si tyto [pokyny](https://www.microsoft.com/download/details.aspx?id=56843).
+Společnost Microsoft už pro nezávislé zprostředkovatele identity poskytuje ověřovací testování pro zajištění kompatibility s Azure Active Directory. Pokud chcete otestovat svůj produkt z oblasti interoperability, přečtěte si tyto [pokyny.](https://www.microsoft.com/download/details.aspx?id=56843)
 
-Další informace najdete v [seznamu Kompatibilita federace služby Azure AD](/azure/active-directory/hybrid/how-to-connect-fed-compatibility).
+Další informace najdete v seznamu kompatibility [federace Azure AD.](/azure/active-directory/hybrid/how-to-connect-fed-compatibility)
 
-### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Jak můžu otestovat vícefaktorové ověřování v naší karanténě pro integraci?
+### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Jak můžu otestovat MFA v našem sandboxu pro integraci?
 
 Měla by být povolená funkce výchozí hodnoty zabezpečení Azure AD nebo taky můžete použít řešení třetí strany, které používá federaci.
 
@@ -164,29 +162,29 @@ Doporučuje se vytvořit jeden nebo dva účty pro nouzový přístup, aby se za
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>Vyžaduje se služba Active Directory služba FS (Federation Service) (ADFS), když používám řešení třetí strany?
 
-Ne, pokud používáte řešení třetí strany, není nutné mít službu Active Directory služba FS (Federation Service) (ADFS). Doporučujeme, abyste spolupracovali s dodavatelem řešení a určili, jaké jsou požadavky na jejich řešení.
+Ne, pokud používáte řešení třetí strany, není nutné mít službu Active Directory služba FS (Federation Service) (ADFS). Doporučujeme spolupracovat s dodavatelem řešení, abyste zjistili, jaké jsou požadavky na jejich řešení.
 
-### <a name="is-it-a-requirement-to-enable-azure-ad-security-defaults"></a>Je požadavek na povolení výchozích hodnot zabezpečení Azure AD?
+### <a name="is-it-a-requirement-to-enable-azure-ad-security-defaults"></a>Je nutné povolit výchozí nastavení zabezpečení Azure AD?
 
-Ne, není nutné povolit výchozí nastavení zabezpečení služby Azure AD.
+Ne, výchozí nastavení zabezpečení Azure AD není nutné povolovat.
 
-### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>Dá se podmíněný přístup použít ke splnění požadavku MFA?
+### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>Je možné použít podmíněný přístup ke splnění požadavku MFA?
 
-Ano, podmíněný přístup můžete použít k vymáhání MFA pro každého uživatele, včetně účtů služeb ve vašem partnerském tenantovi. Vzhledem k tomu, že s vysokou mírou privilegované povahy je ale partner, potřebujeme zajistit, aby každý uživatel měl výzvu MFA pro každé samostatné ověřování. To znamená, že nebudete moct používat funkci podmíněného přístupu, která obchází požadavek MFA.
+Ano, podmíněný přístup můžete použít k vynucení MFA pro každého uživatele, včetně účtů služeb, ve vašem partnerském tenantovi. Vzhledem k vysoce privilegované povaze partnera ale musíme zajistit, aby každý uživatel měl pro každé ověření výzvu MFA. To znamená, že nebudete moct použít funkci podmíněného přístupu, která obchází požadavek na MFA.
 
-### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Bude účet služby, který používá Azure AD Connect, ovlivněn požadavky na zabezpečení partnera?
+### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Budou požadavky na zabezpečení partnerů Azure AD Connect budou mít vliv na účet služby používaný tímto účtem?
 
-Ne, účet služby, který používá Azure AD Connect, nebude ovlivněn požadavky na zabezpečení partnera. Pokud dojde k potížím s Azure AD Connect jako výsledek vynucování MFA, otevřete žádost o technickou podporu s podporou Microsoftu.
+Ne, na účet služby, který Azure AD Connect, nebudou mít vliv požadavky na zabezpečení partnerů. Pokud nastane problém s Azure AD Connect v důsledku vynucování MFA, otevřete žádost o technickou podporu s podporou Microsoftu.
 
-## <a name="secure-application-model"></a>Model zabezpečené aplikace
+## <a name="secure-application-model"></a>Model zapezpečených aplikací
 
-### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Kdo by měl přijmout zabezpečený aplikační model pro splnění požadavků?
+### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Kdo by měl přijmout zabezpečený aplikační model, aby splňoval požadavky?
 
-Microsoft zavádí zabezpečenou, škálovatelnou architekturu pro ověřování partnerů CSP (Cloud Solution Provider) a dodavatelů ovládacích panelů (CPV) využívajících Multi-Factor Authentication. Další informace najdete v tématu [Průvodce zabezpečeným modelem aplikace](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Všechny partnery, kteří vyvinuli vlastní integraci pomocí libovolných rozhraní API (například Azure Resource Manager, Microsoft Graph, rozhraní API partnerského centra atd.) nebo implementovali vlastní automatizaci pomocí nástrojů, jako je PowerShell, budou muset pro integraci s cloudovou službou Microsoftu přijmout [rozhraní zabezpečeného modelu aplikace](/partner-center/develop/enable-secure-app-model) .
+Microsoft představuje zabezpečenou a škálovatelnou rozhraní pro ověřování partnerů Cloud Solution Provider (CSP) a Ovládací panely dodavatelů Ovládací panely (CPV), která používá vícefaktorové ověřování. Další informace najdete v Model zapezpečených aplikací [příručce](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Všichni partneři, kteří vyvinuli vlastní integraci pomocí libovolných rozhraní API (například Azure Resource Manager, Microsoft Graph, Partnerské centrum API atd.) nebo implementovali vlastní automatizaci pomocí nástrojů, jako je PowerShell, budou muset přijmout rozhraní [Model zapezpečených aplikací](/partner-center/develop/enable-secure-app-model) pro integraci s cloudovými službami Microsoftu.
 
-### <a name="what-is-the-secure-application-model"></a>Jaký je model zabezpečené aplikace?
+### <a name="what-is-the-secure-application-model"></a>Co je Model zapezpečených aplikací?
 
-Společnost Microsoft zavádí zabezpečenou, škálovatelnou architekturu pro ověřování partnerů CSP (Cloud Solution Provider) a dodavatelů ovládacích panelů (CPV), které využívají Multi-Factor Authentication. Další informace najdete v [Průvodci zabezpečeným modelem aplikace](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) .  
+Microsoft představuje zabezpečenou a škálovatelnou rozhraní pro ověřování partnerů Cloud Solution Provider (CSP) a dodavatelů Ovládací panely (CPV), kteří využívají vícefaktorové ověřování. Další informace [Model zapezpečených aplikací v](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) průvodci instalací.  
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>Návody implementovat zabezpečený aplikační model?
 
@@ -210,28 +208,28 @@ Když vynucujete vícefaktorové ověřování pro všechny uživatelské účty
 >[!Note] 
 >Prostředky, ke kterým se přistupuje, budou potřebovat podporu ověřování pomocí přístupových tokenů.
 
-### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Používám nástroje pro automatizaci, jako je PowerShell. Návody implementovat zabezpečený aplikační model?
+### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Používám automatizační nástroje, jako je PowerShell. Návody implementovat Model zapezpečených aplikací?
 
-Pokud má vaše automatizace běžet neinteraktivně a závisí na přihlašovacích údajích uživatele k ověřování, bude nutné implementovat zabezpečený model aplikace. Viz [zabezpečený model aplikace | ](/powershell/partnercenter/multi-factor-auth) Informace o tom, jak implementovat tuto architekturu, najdete v centru partnerů prostředí PowerShell.  
+Pokud má vaše automatizace běžet neinteraktivně a při ověřování se spoléhá na přihlašovací údaje uživatele, budete muset implementovat rozhraní Model zapezpečených aplikací. Viz [Model zapezpečených aplikací | Partnerské centrum pokyny k](/powershell/partnercenter/multi-factor-auth) implementaci této architektury v PowerShellu.  
 
 >[!Note] 
->Ne všechny nástroje pro automatizaci poskytují možnost ověřování pomocí přístupových tokenů. Pokud potřebujete pomoc s porozuměním, co je potřeba udělat, vystavte zprávu ve skupině [doprovodné materiály zabezpečení partnerského centra](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) . 
+>Ne všechny automatizační nástroje umožňují ověřování pomocí přístupových tokenů. Pokud potřebujete pomoc s [pochopením, jaké změny je potřeba provést, Partnerské centrum](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) ve skupině s pokyny k zabezpečení, získejte zprávu. 
 
-### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Jaké přihlašovací údaje uživatele by měl správce aplikace poskytnout při provádění procesu souhlasu?
+### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Jaké přihlašovací údaje uživatele má správce aplikace zadat při provádění procesu souhlasu?
 
-Doporučuje se použít účet služby, kterému byla přiřazena nejméně privilegovaná oprávnění. S ohledem na rozhraní API partnerského centra byste měli použít účet, který byl buď přiřazený k roli agenta prodeje nebo agentů pro správu.
+Doporučujeme použít účet služby, který má přiřazená nejméně privilegovaná oprávnění. Pokud jde o rozhraní API Partnerské centrum, měli byste použít účet, který byl přiřazený k roli Agent prodeje nebo Agent správy.
 
-### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Proč by správce aplikace při provádění procesu souhlasu neposkytoval globální přihlašovací údaje uživatele?
+### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Proč by správce aplikace neměl při provádění procesu souhlasu poskytnout přihlašovací údaje uživatele globálního správce?
 
-Osvědčeným postupem je použití identity s nejnižšími oprávněními.  Tím se sníží riziko. Nedoporučujeme používat účet, který má oprávnění globálního správce, protože by poskytoval více oprávnění, než je potřeba.
+Osvědčeným postupem je používat identitu s nejmenšími oprávněními.  Tím se sníží riziko. Nedoporučujeme používat účet, který má oprávnění globálního správce, protože by poskytoval více oprávnění, než je potřeba.
 
-### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>Jsem partner CSP. Návody o tom, jestli můj dodavatel ovládacího panelu (CPV) pracuje na implementaci řešení nebo ne?
+### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>Jsem partner CSP. Návody, jestli můj dodavatel Ovládací panely (CPV) pracuje na implementaci řešení, nebo ne?
 
-Pro partnery, kteří používají v programu Cloud Solution Provider (CSP) řešení pro transakce, je vaším zodpovědností, abyste se mohli obrátit na CPV.
+V případě partnerů, kteří k transakcím v programu Cloud Solution Provider (CSP) používají řešení CPV (Ovládací panely Vendor), zodpovídáte za konzultace s vaším CPV.
 
-### <a name="who-is-a-control-panel-vendor-cpv"></a>Kdo je to dodavatel ovládacího panelu (CPV)?
+### <a name="who-is-a-control-panel-vendor-cpv"></a>Kdo je Ovládací panely (CPV)?
 
-Dodavatel ovládacího panelu je nezávislý dodavatel softwaru, který vyvíjí aplikace pro použití partnery CSP při integraci s rozhraními API partnerského centra. Dodavatel ovládacího panelu není partnerem CSP s přímým přístupem k řídicímu panelu nebo rozhraním API partnerského centra. Podrobný popis je k dispozici v rámci [služby partner Center: Průvodce modelem zabezpečených aplikací](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+Dodavatel Ovládací panely softwaru je nezávislý dodavatel softwaru, který vyvíjí aplikace pro použití partnery CSP pro integraci s Partnerské centrum API. Dodavatel Ovládací panely není partner CSP s přímým přístupem k řídicímu panelu nebo Partnerské centrum rozhraní API. Podrobný popis najdete v příručce Partnerské centrum: Secure Applications Model (Model [zabezpečených aplikací).](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 
 ### <a name="i-am-a-cpv-how-do-i-enroll"></a>Jsem CPV. Návody zaregistrovat?
 
@@ -282,42 +280,42 @@ Všichni partneři účastnící se programu Cloud Solution Provider (CSP), prod
 
 Aby bylo možné zajistit dodatečnou ochranu, společnost Microsoft začala aktivovat ochranu zabezpečení, která pomáhá partnerům zabezpečit své klienty a jejich zákazníky pomocí ověřování vícefaktorového ověřování mandating (MFA), aby se zabránilo neoprávněnému přístupu.  
 
-Úspěšně jsme dokončili aktivaci funkcí ADMINISTRATE (admin-on-of) pro všechny partnerské klienty. Abychom vám pomohli chránit partnery a zákazníky, zahájíme aktivaci transakcí partnerského centra ve zprostředkovateli CSP, což pomáhá partnerům chránit své firmy a zákazníky před incidenty souvisejícími s krádeží identity.
+Úspěšně jsme dokončili aktivaci funkcí ADMINISTRATE (admin-on-of) pro všechny partnerské klienty. Pokud chceme dále chránit partnery a zákazníky a cílí na Q2 CY2020, zahájíme aktivaci pro transakce Partnerské centrum v CSP a pomůžeme partnerům chránit jejich firmy a zákazníky před incidenty souvisejícími s krádeží identity.
 
-Další informace najdete na stránce [pro partnerský tenant na webu Mandating Multi-Factor Authentication (MFA)](partner-security-requirements-mandating-mfa.md) .
+Další informace najdete na stránce o tom, jak u svého partnerského tenanta zažádá o vícefaktorové ověřování [(MFA).](partner-security-requirements-mandating-mfa.md)
 
-### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>Používám řešení MFA od jiného výrobce, které jsem zablokovaný, co mám dělat?
+### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>Používám řešení MFA třetí strany a blokuje mě to. Co mám dělat?
 
-Pokud chcete ověřit, jestli je pro službu Multi-Factor Authentication prověřený účet přistupující k prostředkům, provedeme kontrolu deklarace [referencí na metodu ověřování](https://tools.ietf.org/html/rfc8176) , abyste zjistili, jestli je MFA uvedená. Některá řešení třetí strany nedávají tuto deklaraci identity nebo neobsahují hodnotu MFA. Pokud chybí deklarace identity nebo pokud hodnota MFA není uvedená, neexistuje žádný způsob, jak určit, jestli byl ověřený účet pro službu Multi-Factor Authentication napaden. Aby bylo možné určit, jaké akce je třeba provést, bude nutné, abyste spolupracovali s dodavatelem pro vaše řešení třetích stran.
+Aby se ověřilo, že účet, který přistupuje k prostředkům, byl vyzýván k vícefaktorovému ověřování, budeme kontrolovat deklaraci identity odkazu [na](https://tools.ietf.org/html/rfc8176) metodu ověřování a uvidíme, jestli je uvedené vícefaktorové ověřování. Některá řešení třetích stran tuto deklaraci identity nevydá nebo nezahrnují hodnotu MFA. Pokud deklarace identity chybí nebo pokud není uvedená hodnota MFA, neexistuje způsob, jak zjistit, jestli byl ověřený účet vyzývat k vícefaktorové ověřování. Budete muset ve svém řešení třetí strany spolupracovat s dodavatelem, abyste zjistili, jaké akce je potřeba udělat, aby řešení vydanou deklaraci identity odkazu na metodu ověřování vydanou v tomto řešení.
 
-Pokud si nejste jistí, jestli vaše řešení třetí strany vydává očekávanou deklaraci identity, podívejte [se na téma testování požadavků na zabezpečení partnera](/powershell/partnercenter/test-partner-security-requirements) .
+Pokud [si nejste jistí,](/powershell/partnercenter/test-partner-security-requirements) jestli řešení třetí strany vydává očekávanou deklaraci identity, podívejte se na část Testování požadavků na zabezpečení partnera.
 
-### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>Vícefaktorové ověřování brání podpoře mého zákazníka pomocí ADMINISTRATE, co mám dělat?
+### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA mi brání v podpoře zákazníků pomocí AOBO. Co mám dělat?
 
-Technické vynucování požadavků na zabezpečení partnera se ověří, pokud byl ověřený účet ověřen pro službu Multi-Factor Authentication. Pokud účet není, budete přesměrováni na přihlašovací stránku a zobrazí se výzva k ověření znovu. Přečtěte si další zkušenosti a pokyny v tomto [Mandating Multi-Factor Authentication (MFA) pro vaši dokumentaci k partner partnerovi](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) . V případě, že vaše doména není federované, po úspěšném ověření se zobrazí výzva k nastavení služby Multi-Factor Authentication. Až to bude hotové, budete moct zákazníky spravovat pomocí ADMINISTRATE. V případě, kdy je vaše doména federované, musíte zajistit, aby byl účet využíván pro službu Multi-Factor Authentication.
+Technické vynucování požadavků na zabezpečení partnerů se bude kontrolovat, jestli ověřený účet nebyl vyzývat k vícefaktorové ověřování. Pokud účet ještě není, budete přesměrováni na přihlašovací stránku a budete vyzváni k novému ověření. Další informace a pokyny najdete v této dokumentaci k tomu, jak se vícefaktorové ověřování [(MFA)](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) odvážit od partnerského tenanta. Ve scénáři, kdy vaše doména není federovaná, se po úspěšném ověření zobrazí výzva k nastavení vícefaktorového ověřování. Po dokončení budete moct spravovat své zákazníky pomocí funkce AOBO. Ve scénáři, kdy je vaše doména federovaná, budete muset zajistit, aby účet byl vyzýván k vícefaktorové ověřování.
 
 ## <a name="security-defaults-transition"></a>Přechod výchozích hodnot zabezpečení
 
-### <a name="how-can-i-transition-from-baseline-policies-to-security-defaults-or-other-mfa-solutions"></a>Jak můžu přejít ze základních zásad na výchozí hodnoty zabezpečení nebo jiná řešení MFA?
+### <a name="how-can-i-transition-from-baseline-policies-to-security-defaults-or-other-mfa-solutions"></a>Jak můžu přejít ze základních zásad na výchozí nastavení zabezpečení nebo jiná řešení MFA?
 
-Zásady "základní hodnoty" Azure Active Directory (Azure AD) [se odstraňují a nahrazují](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) "výchozím nastavením zabezpečení", ucelenou sadou zásad ochrany pro vás a vaše zákazníky. [Výchozí nastavení zabezpečení](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) vám může přispět k ochraně vaší organizace před útoky zabezpečení souvisejícími s krádeží identity.
+Azure Active Directory (Azure [AD)](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) se odebraly základní zásady a nahradily se "výchozími nastaveními zabezpečení", komplexnější sadu zásad ochrany pro vás a vaše zákazníky. [Výchozí nastavení zabezpečení pomáhá](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) chránit vaši organizaci před útoky na zabezpečení souvisejícími s krádeží identity.
 
-Implementace služby Multi-Factor Authentication (MFA) bude odebrána z důvodu vyřazení zásad standardních hodnot v případě, že jste nepřešli ze základních zásad na zásadu výchozích hodnot zabezpečení nebo [jiné možnosti implementace MFA](partner-security-requirements.md#implementing-multi-factor-authentication). Všichni uživatelé v partnerských klientech provádějících operace chráněné MFA budou požádáni o dokončení ověřování MFA. Přečtěte si podrobnější pokyny [zde](partner-security-requirements-mandating-mfa.md).
-Chcete-li zachovat dodržování předpisů a minimalizovat přerušení, proveďte jednu z následujících akcí:
+Vaše implementace vícefaktorového ověřování (MFA) se odebere z důvodu vyřazení základních zásad, pokud jste nesnížedli základní zásady na výchozí zásady zabezpečení nebo jiné možnosti implementace vícefaktorového [ověřování.](partner-security-requirements.md#implementing-multi-factor-authentication) Všichni uživatelé ve vašich partnerských tenantech provádějících operace chráněné více ověřováním budou požádáni o dokončení více ověřování. Podrobnější pokyny najdete [tady.](partner-security-requirements-mandating-mfa.md)
+Pokud chcete dodržovat předpisy a minimalizovat přerušení služeb, udělejte jednu z následujících akcí:
 
-- Přechod na výchozí hodnoty zabezpečení
-    - Zásada výchozích hodnot zabezpečení je jednou z možností, které můžou partneři vybrat k implementaci MFA. Nabízí základní úroveň zabezpečení, která je povolená bez dalších poplatků.
-    - Naučte se, jak ve vaší organizaci povolit vícefaktorové ověřování pomocí Azure AD, a přečtěte si [klíčové důležité informace o zabezpečení](partner-security-requirements.md#security-defaults).
-    - Pokud vyhovuje vašim obchodním potřebám, povolte zásady výchozího nastavení zabezpečení.
+- Přechod na výchozí nastavení zabezpečení
+    - Jednou z možností, které partneři mohou zvolit pro implementaci MFA, jsou zásady výchozích hodnot zabezpečení. Nabízí základní úroveň zabezpečení, která je povolená bez dalších nákladů.
+    - Zjistěte, jak ve vaší organizaci povolit MFA pomocí Azure AD, a přečtěte si důležité informace o výchozích [bezpečnostních klíčích.](partner-security-requirements.md#security-defaults)
+    - Pokud vyhovuje vašim obchodním potřebám, povolte výchozí zásady zabezpečení.
 - Přechod na podmíněný přístup
-    - Pokud zásady výchozích hodnot zabezpečení neodpovídají vašim potřebám, povolte podmíněný přístup. Další informace najdete v dokumentaci k podmíněnému přístupu ke službě Azure AD.
+    - Pokud výchozí zásady zabezpečení vašim potřebám nepomáhou, povolte Podmíněný přístup. Další informace najdete v dokumentaci k podmíněnému přístupu Azure AD.
 
 ## <a name="key-resources"></a>Klíčové prostředky
 
 ### <a name="how-to-get-started"></a>Jak začít
 
-- [Požadavky na zabezpečení partnera: podrobný průvodce](partner-security-requirements.md).
-- Nasměrujte své dotazy a zpětnou vazbu do této [skupiny pokynů pro zabezpečení partnera](https://aka.ms/MPCSecurityGuidance).
+- [Požadavky na zabezpečení partnerů:](partner-security-requirements.md)Podrobný průvodce .
+- Své dotazy a připomínky nasměrovat na [tuto Partnerské centrum Security Guidance Group](https://aka.ms/MPCSecurityGuidance).
 - Zúčastněte se nadcházejících partnerských kanceláří a webináře. Podrobné informace o [plánu a prostředcích najdete tady](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
 
 ### <a name="resources-for-adopting-secure-application-model"></a>Prostředky pro přijetí zabezpečeného modelu aplikace

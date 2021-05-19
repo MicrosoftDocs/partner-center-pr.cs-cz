@@ -8,18 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179509"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151946"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Řešení potíží s chybějícími platbami, nesprávnými tržbami a dalšími problémy
 
-**Příslušné role**
-
-- Motivace správce
+**Příslušné role**: pobídek admin
 
 Tento článek vám pomůže vyřešit případné tržby nebo problémy s platbami v programu pobídek. Mezi zahrnuté předměty patří časování plateb, kontrola nároků na tržby a důležitost správného nastavení vašich výběrových a daňových profilů.
 
@@ -61,30 +59,30 @@ Příčinou chybějících nebo nesprávných plateb je často jeden z následuj
 **Nárok na partnery** a **pravidla pro příjem**.
 
 - **Váš platební profil může být neúplný.** Počáteční datum pro vaše příjmy v rámci pobídky bude první den měsíce, ve kterém jste splnili všechny podmínky zakládající nárok včetně onboardingu se zadáním podrobností o platbách a daních. Za měsíce před tím, než zadáte podrobnosti o platbách a daních, nebudou příjmy k dispozici. Pokud například splníte všechny požadavky během dubna 2020, počáteční datum pro vaše příjmy bude 1. dubna 2020.
-- **Můžete mít neplacenou akci**.  Je možné, že se vaše pobídky nezpracovávají kvůli nějaké akci, která čeká na vyřízení z vaší strany.
+- **Možná máte nevyřízenou akci**.  Je možné, že se vaše pobídky nezpracovávají kvůli nějaké akci, která čeká na vyřízení z vaší strany.
 
-  **Zobrazení nedokončených akcí**
+  **Zobrazení nevyřízených akcí**
 
-  1. Přihlaste se k [pobídkám partnerů](https://partner.microsoft.com/membership/partner-incentives).
-  2. Otevřete stránku **historie transakcí** . Projděte si pole na této stránce, kde najdete všechny nedokončené akce, jako je například **čekající daňový profil**, **čekající platební profil** nebo **čekající na odeslání daně z daňových faktur**.
+  1. Přihlaste se [k programu Pobídky pro partnery.](https://partner.microsoft.com/membership/partner-incentives)
+  2. Otevřete stránku **Historie** transakcí. V polích na této stránce zkontrolujte všechny nevyřízené akce, které je třeba provést, jako je například Nevyřízený daňový **profil,** Platební profil čekající na vyřízení nebo Odeslání faktury **za nevyřízenou daň.**
 
-Pokud tyto akce nejsou užitečné a vaše platby pořád chybí nebo jsou nesprávné, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Pokud tyto akce nepomáhá a vaše platby stále chybí nebo jsou nesprávné, kontaktujte [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
-## <a name="how-can-i-reconcile-my-adjustments"></a>Jak mohu sjednotit svoje úpravy?
+## <a name="how-can-i-reconcile-my-adjustments"></a>Jak můžu odsouhlasit úpravy?
 
-Své úpravy můžete vyhledat a sjednotit stažením podrobností o transakcích a transakcích.
+Úpravy můžete vyhledat a odsouhlasit tak, že si stáhnete údaje o příjmech a transakcích.
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
-2. V horním navigačním panelu vyberte ikonu peníze a pak vyberte **historie transakcí**.
-3. Použijte příslušné filtry. (Podívejte se na **důležité** poznámky níže.)
-4. Po filtrování dat vyberte **Spustit stahování** a pak vyberte **exportovat data**. Vaše data se otevřou v souboru CSV.
-5. V souboru CSV přejděte do sloupce P, **zisk typ**.
-6. Filtrovat tento sloupec pro **úpravu slevy** Můžete zobrazit měsíc každé úpravy ve sloupci S.
+2. V horním navigačním panelu vyberte ikonu peněz a pak vyberte **Historie transakcí**.
+3. Použijte příslušné filtry. (Viz důležitá **poznámka** níže.)
+4. Po vyfiltrování dat vyberte **Začít** stahovat a pak vyberte **Exportovat data**. Vaše data se otevřou v souboru CSV.
+5. V souboru CSV přejděte na Sloupec P a **Zadejte příjmy.**
+6. V tomto **sloupci vyfiltrujte hodnotu Adjustment-Rebate**. Měsíc každé úpravy můžete zobrazit ve sloupci S.
 
 >[!IMPORTANT]
->Úpravy použité v předchozích obdobích výdělků se nebudou zobrazovat v tržbách za měsíc, ve kterém se nastavení použilo. Úpravy se vždycky projeví v sestavě příjmů za měsíc, na který se úprava použila.
+>Úpravy uplatněné na předchozí období výnosů nebudou vidět ve výnosech za měsíc, ve kterém byla úprava použita. Úpravy budou vždy odrážet sestavu příjmů za měsíc, na který se úpravy použily.
 >
->Například úprava pro tržby z ledna 2019, která byla zpracována v září 2019, se neprojeví v množství příjmů za září 2019. Až se ale přijme platba za září 2019, bude zahrnovat úpravu pro 2019. ledna, která byla použita v září. V tomto scénáři budete muset stáhnout podrobnosti o transakcích pro leden 2019, abyste viděli úpravu, která byla použita.
+>Například úprava příjmů z ledna 2019, která byla zpracována v září 2019, nebude odrážet výši příjmů za září 2019. Až se ale přijme platba za září 2019, bude zahrnovat úpravu pro 2019. ledna, která byla použita v září. V tomto scénáři budete muset stáhnout podrobnosti o transakcích pro leden 2019, abyste viděli úpravu, která byla použita.
 >
 >Pamatujte na to, když nastavíte filtry data. Jak je uvedeno výše, úpravy pro předchozí období se budou zobrazovat jenom v měsíci, ve kterém se nastavení použilo. Překontrolujte, že vybraný rozsah dat odpovídá měsíci úpravy, kterou se pokoušíte najít. Možná budete muset vybrat možnost **Zrušit vše** a odebrat filtry a pak použít nové.
 
@@ -120,52 +118,52 @@ Tržby se zobrazují na stránce **historie transakcí** i na stránce s **platb
 
 Částky za měsíc v zobrazení historie transakcí se nemůžou zarovnat s obdrženou výší platby za konkrétní měsíc. Je to kvůli opakovaným výpočtům a úpravám pro dobu předchozích splátek, které platí pro budoucí platby.
 
-Například úprava pro tržby z ledna 2019, která byla zpracována v září 2019, se neprojeví v množství příjmů za září 2019; až se ale přijme platba za září 2019, bude zahrnovat úpravu pro 2019. ledna, která byla použita v září.
+Například úprava příjmů za leden 2019, která byla zpracována v září 2019, se neprojeví ve výši příjmů za září 2019. Když ale obdržíte platbu za září 2019, bude obsahovat úpravu pro leden 2019, která se použila v září.
 
-V tomto scénáři budete muset stáhnout podrobnosti o transakcích a získat kompletní přehled o všech příjmech zahrnutých do platby.  Navíc můžete přejít na zobrazení platby a stáhnout transakce pro každou platbu.
+V tomto scénáři budete muset stáhnout podrobnosti o transakci, abyste měli úplný přehled o všech příjmech zahrnutých ve vaší platbě.  Kromě toho můžete přejít do zobrazení Platby a stáhnout transakce pro každou platbu.
 
 ### <a name="transaction-history"></a>Historie transakcí
 
-V tomto zobrazení se zobrazují trendy zisků a plateb podle měsíce, příjmů podle stavu a podrobností transakcí spolu se stavem platby pro každou transakci. Data se zobrazují jenom pro programy a ID MPN, pro které jste připravujete uživatele nebo správce.
+Toto zobrazení zobrazuje trendy příjmů a plateb podle měsíců, příjmů podle stavu a podrobností o transakcích spolu se stavem platby pro každou transakci. Data jsou viditelná jenom pro programy a ID MPN, pro které jste uživatelem nebo správcem pobídek.
 
 ### <a name="payments"></a>Platby
 
-Toto zobrazení umožňuje zobrazit platby pro všechny programy a ID programu MPN. Data se zobrazují jenom pro programy a ID MPN, pro které jste připravujete uživatele nebo správce. Z tohoto zobrazení můžete stáhnout úhradu nebo zobrazit podrobnosti transakce podle platby.
+Toto zobrazení umožňuje zobrazit platby za všechny programy a ID MPN. Data jsou viditelná pouze pro programy a ID MPN, pro které jste uživatelem nebo správcem pobídek. V tomto zobrazení si můžete stáhnout platbu nebo zobrazit podrobnosti o transakci podle platby.
 
 | Akce | Odkaz |
 | ------ | :----------- | 
-| Zobrazit platební údaje podle řádku, včetně peněžních a platebních částek v místní měně  | Zobrazit pole se **seznamem plateb**   |
-| Stažení dopisu pro úhradu   |  Vybrat **úhradu plateb**  |
-| Zobrazit podrobnosti o úrovni transakce pro konkrétní platbu |  Vybrat **zobrazení**  |
-| Exportovat podrobnosti transakce do aplikace Excel  |  Vyberte **Spustit stahování** a pak vyberte **exportovat data**. Všechny vybrané filtry budou aplikovány na exportovaná data. Jakmile se stav změní na dokončeno, vyberte **Stáhnout** a podle pokynů exportujte sestavu podrobná transakce. Aktualizuje stránku, pokud se stav neaktualizuje během pěti minut.  |
+| Zobrazení platebních informací podle řádku, včetně příjmů a částek plateb v místní měně  | Zobrazení **pole Seznam** plateb   |
+| Stažení dopisu k úhradě   |  Vyberte **Platba pomocí plateb.**  |
+| Zobrazení podrobností o úrovni transakcí pro konkrétní platbu |  Vyberte **Zobrazení.**  |
+| Export podrobností o transakci do Excelu  |  Vyberte **Start download (Spustit** stahování) a pak **vyberte Export dat**. Na exportovaná data se použijí všechny vybrané filtry. Jakmile se stav změní na Dokončeno, vyberte **Stáhnout** a podle pokynů vyexportujte podrobnou sestavu transakcí. Aktualizujte stránku, pokud se stav do pěti minut ne aktuální.  |
 
-### <a name="missing-or-incorrect-earnings-and-payments"></a>Chybějící nebo nesprávné tržby a platby
+### <a name="missing-or-incorrect-earnings-and-payments"></a>Chybějící nebo nesprávné příjmy a platby
 
-Pokud nemůžete najít údaje o platbě nebo transakcích, zkontrolujte, zda jste použili správné filtry. Vzhledem k tomu, že se změnily některé názvy programů (například CSP 1T Direct partner je teď přímým vyúčtováním CSP), možná budete muset použít víc výběrů.
+Pokud nemůžete najít podrobnosti o platbě nebo transakci, zkontrolujte, jestli jste použili správné filtry. Vzhledem k tomu, že se změnily názvy některých programů (například přímý partner CSP 1T je teď CSP Direct Bill Partner), budete možná muset použít více výběrů.
 
-Pokud stále nemůžete najít své tržby nebo se domníváte, že uvedené příjmy nejsou správné, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Pokud stále nemůžete najít své příjmy nebo se domníváte, že zobrazené příjmy jsou [nesprávné,](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)kontaktujte podporu .
 
-## <a name="how-do-i-reconcile-my-earnings"></a>Návody sjednotit příjmy?
+## <a name="how-do-i-reconcile-my-earnings"></a>Návody odsouhlasit moje příjmy?
 
 Pokud narazíte na nesrovnalosti ve vašich příjmech, postupujte následovně:
 
-1. **Ověřte, že na příjmy máte nárok.**  Zisky budou dostupné jenom v případě, že splňujete nárok na [způsobilost programu](incentives-determined-your-program-eligibility.md) a nárok na [příjmy](incentives-confirm-your-earnings-eligibility.md).
+1. **Ověřte, že na příjmy máte nárok.**  Příjmy budou k dispozici pouze v případě, že splňujete podmínky způsobilosti pro [program](incentives-determined-your-program-eligibility.md) i [nárok na příjmy.](incentives-confirm-your-earnings-eligibility.md)
 
 2. **Ověřte, že je váš platební profil úplný.**  Počáteční datum pro vaše příjmy v rámci pobídky bude první den měsíce, ve kterém jste splnili všechny podmínky zakládající nárok včetně onboardingu se zadáním podrobností o platbách a daních. Za měsíce před tím, než zadáte podrobnosti o platbách a daních, nebudou příjmy k dispozici. Pokud například splníte všechny požadavky během dubna 2020, počáteční datum pro vaše příjmy bude 1. dubna 2020. 
 
-3. **Ověřte, že splňujete požadavky.**  Zkontrolujte, jestli jste splnili pravidla [nároku](#my-payment-is-missing-or-incorrect) a nároku na dodržování předpisů pro svůj program pro podnět.
+3. **Ověřte, že splňujete požadavky.**  Zkontrolujte, jestli jste pro [](#my-payment-is-missing-or-incorrect) svůj program pobídek splnili podmínky způsobilosti a pravidla způsobilosti pro výnosy.
 
-Pokud tyto akce nejsou užitečné a vaše tržby ještě nejsou odsouhlasené, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Pokud tyto akce nepomáhou a vaše příjmy stále nejsou odsouhlasené, kontaktujte [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>Kde najdu své sazby?
 
-1. Přihlaste se k [pobídkám partnerů](https://partner.microsoft.com/membership/partner-incentives).
+1. Přihlaste se [k programu Pobídky pro partnery.](https://partner.microsoft.com/membership/partner-incentives)
 
-2. Přejděte dolů a získejte přístup k dokumentům pro váš program.
+2. Posuňte se dolů a přejděte k dokumentům pro váš program.
 
 3. Vyberte odkaz na dokument pro příslušný program.
 
-4. V dokumentu, přečtěte si část **Struktura a sazby programu**.
+4. V tomto dokumentu si přečtěte část **Struktura programu a Sazby.**
 
 ## <a name="next-steps"></a>Další kroky
 

@@ -9,22 +9,16 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: ba422a2feae2affb9c2b60ad345c4d6bb0d525c7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087123"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145860"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Principy výpočtu a vyplácení kreditu získaného partnerem
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
-- Agent správce
-- Správce fakturace
-- Agent prodeje
+**Příslušné role**: globální správce | Správce správy uživatelů | Agent správce | Správce fakturace | Agent prodeje
 
 Získaný kredit partnerů pro spravované služby (PEC) rozpoznává a vyměňuje partnery, kteří mají nepřetržitou provozní kontrolu a správu částí, nebo celé prostředí Azure svých zákazníků. Ve výchozím nastavení je ve zprostředkovateli CSP udělena potřebná přístupová práva k předplatnému zákazníka, což jim umožňuje provádět 24 × 7 provozní správu a kontrolu nad prostředky v rámci předplatného. Další způsoby, jak můžou zákazníci zřídit přístup k transakčním partnerům, jsou popsány v následující části. Částka měsíční faktury je netto kredit získaný prostřednictvím partnerského serveru. Partneři můžou zobrazit podrobnosti o řadiči PEC na jejich měsíčním souboru rekognoskaci. Další způsoby, jak může zákazník zřídit přístup pro transakčního partnera, najdete [v článku Správa předplatných a prostředků v plánu Azure](azure-plan-manage.md).
 

@@ -9,21 +9,16 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 5ba6992eff64031aed0dafeb5a5010983396ab63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132736"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151640"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrace Dynamics 365 a plánu Customer Engagement z úrovně Basic na novější verze (u kvalifikovaných nabídek)
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
-- Agent správce
-- Agent prodeje
+**Příslušné role**: globální správce | Správce správy uživatelů | Agent správce | Agent prodeje
 
 Od 1. ledna 2019 zákazníci s Dynamics 365 for Sales/Customing Engagement ze základních (kvalifikovaných nabídek) odběry už nemůžou obnovit tyto starší nabídky. existující odběry se po vypršení platnosti automaticky neobnoví. Na stránce s podrobnostmi o předplatném se stav předplatného změní na "vyprší dne [Date]" z "automatické obnovování v [datum]". 
 
@@ -41,31 +36,31 @@ Pokud používáte rozhraní API (buď CREST nebo Partnerská centra), můžete 
 - Dynamics 365 for Sales Enterprise Edition od SA pro CRM Basic (kvalifikovaná nabídka) pro Akademický sbor
 - Dynamics 365 pro Sales Enterprise Edition od SA pro CRM Basic (kvalifikovaná nabídka) pro studenty
 - Dynamics 365 pro Sales Enterprise Edition (ceny pro státní správu) od SA pro CRM Basic (kvalifikovaná nabídka)
-- Dynamics 365 pro Sales Enterprise Edition Add-On pro CRM Basic (kvalifikovaná nabídka)
-- Dynamics 365 pro prodej Enterprise Edition Add-On pro CRM Basic (kvalifikovaná nabídka) pro Akademický sbor
-- Dynamics 365 pro prodej Enterprise Edition Add-On pro CRM Basic (kvalifikovaná nabídka) pro studenty
-- Dynamics 365 pro Sales Enterprise Edition (ceny pro státní správu) Add-On pro CRM Basic (kvalifikovaná nabídka)
-- Dynamics 365 Customer Engagement plán Enterprise Edition CRMOL úrovně Basic (kvalifikovaná nabídka)
-- Dynamics 365 Customer Engagement Enterprise Edition (ceny pro státní správu) CRMOL Basic (kvalifikovaná nabídka)
-- Dynamics 365 Customer Engagement plán Enterprise Edition CRMOL Basic (kvalifikovaná nabídka) pro studenty
-- Dynamics 365 Customer Engagement plán Enterprise Edition CRMOL Basic (kvalifikovaná nabídka) pro Akademický sbor
-- Dynamics 365 Customer Engagement plán Enterprise Edition od SA pro CRM Basic (kvalifikovaná nabídka)
-- Dynamics 365 Customer Engagement plán Enterprise Edition (ceny pro státní správu) od SA pro CRM Basic (kvalifikovaná nabídka)
-- Dynamics 365 Customer Engagement plán Enterprise Edition od SA pro CRM Basic (kvalifikovaná nabídka) pro studenty
-- Dynamics 365 Customer Engagement plán Enterprise Edition od společnosti SA pro aplikaci CRM Basic (kvalifikovaná nabídka) pro Akademický sbor
-- Dynamics 365 Customer Engagement – Enterprise Edition Add-On pro CRM Basic (kvalifikovaná nabídka)
-- Dynamics 365 Customer Engagement plán Enterprise Edition (ceny pro státní správu) Add-On pro CRM Basic (kvalifikovaná nabídka)
-- Dynamics 365 Customer Engagement pro zákazníky – edice Enterprise Add-On pro CRM Basic (kvalifikovaná nabídka) pro studenty
-- Dynamics 365 Customer Engagement – Enterprise Edition Add-On pro CRM Basic (kvalifikovaná nabídka) pro Akademický sbor
+- Dynamics 365 for Sales edice Enterprise Add-On for CRM Basic (kvalifikovaná nabídka)
+- Dynamics 365 for Sales edice Enterprise Add-On for CRM Basic (kvalifikovaná nabídka) pro učitelské sbory
+- Dynamics 365 for Sales edice Enterprise Add-On for CRM Basic (kvalifikovaná nabídka) pro studenty
+- Dynamics 365 for Sales edice Enterprise (Ceny pro státní správu) Add-On pro CRM Basic (kvalifikovaná nabídka)
+- Plán Dynamics 365 Customer Engagement edice Enterprise CRMOL Basic (kvalifikovaná nabídka)
+- Plán Dynamics 365 Customer Engagement edice Enterprise (ceny pro státní správu) CRMOL Basic (kvalifikovaná nabídka)
+- Plán Dynamics 365 Customer Engagement edice Enterprise CRMOL Basic (kvalifikovaná nabídka) pro studenty
+- Plán Dynamics 365 Customer Engagement edice Enterprise CRMOL Basic (kvalifikovaná nabídka) pro učitelské sbory
+- Plán Dynamics 365 Customer Engagement edice Enterprise od SA pro CRM Basic (kvalifikovaná nabídka)
+- Plán Dynamics 365 Customer Engagement edice Enterprise (ceny pro státní správu) od SA for CRM Basic (kvalifikovaná nabídka)
+- Dynamics 365 Customer Engagement Plan edice Enterprise From SA for CRM Basic (Qualified Offer) for Students
+- Plán Dynamics 365 Customer Engagement edice Enterprise od SA pro CRM Basic (kvalifikovaná nabídka) pro učitelské sbory
+- Dynamics 365 Customer Engagement Plan edice Enterprise Add-On for CRM Basic (kvalifikovaná nabídka)
+- Plán Dynamics 365 Customer Engagement edice Enterprise (ceny pro státní správu) Add-On CRM Basic (kvalifikovaná nabídka)
+- Dynamics 365 Customer Engagement Plan edice Enterprise Add-On for CRM Basic (kvalifikovaná nabídka) pro studenty
+- Dynamics 365 Customer Engagement Plan edice Enterprise Add-On for CRM Basic (kvalifikovaná nabídka) pro učitelské sbory
 
 
 
-## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Dynamics 365 pro plánování služby Sales/Customer Engagement ze základních (kvalifikovaných nabídek) plánů nahrazení
+## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Plán Dynamics 365 for Sales/ Customer Engagement z náhradních plánů Basic (kvalifikované nabídky)
 
 **Vyřazené nabídky**   
 
-- Dynamics 365 pro prodej z aplikace CRM Basic nebo CRMOL Basic (kvalifikovaná nabídka)
-- Plán Customer Engagement pro Dynamics 365 od CRM Basic nebo CRMOL Basic (kvalifikovaná nabídka)
+- Dynamics 365 for Sales od CRM Basic nebo CRMOL Basic (kvalifikovaná nabídka)
+- Plán Dynamics 365 Customer Engagement od CRM Basic nebo CRMOL Basic (kvalifikovaná nabídka)
 
 **Možnosti nahrazení**
 - Dynamics 365 pro prodejní specialisty (nové)
@@ -96,14 +91,14 @@ Zákazník teď bude mít původní předplatné i nový. Vaším dalším kroke
 2. Vyberte **Uživatelé a licence**.
 3. Pokud chcete uživateli přiřadit licenci, vyberte uživatele a pak vyberte **spravovat licence**. 
 4. Na stránce **spravovat licence** zrušte zaškrtnutí políčka Dynamics 365 pro možnost plán služby Sales/zákazník Engagement z licence Basic (kvalifikovaná nabídka) a vyberte nový plán služby pro předplatné, na které se bude zákazník pohybovat. 
-5. Vyberte **Odeslat**. To provedete pro každého uživatele, který bude tuto novou licenci potřebovat. 
+5. Vyberte **Odeslat**. To budete dělat pro každého uživatele, který potřebuje novou licenci. 
 
-Po přesunutí licencí do nového předplatného můžete zrušit původní předplatné. 
+Po přesunu licencí do nového předplatného můžete staré předplatné zrušit. 
 
-1. V levém navigačním panelu vyberte **zákazníky** a pak vyberte zákazníka, kterého přesouváte.
-2. Na stránce s podrobnostmi předplatného nastavte původní předplatné na **pozastaveno** a vyberte **Odeslat**.
+1. V **levém** navigačním panelu vyberte Zákazníci a pak vyberte zákazníka, který přesouváte.
+2. Na stránce podrobností o předplatném nastavte staré předplatné na **Pozastaveno** a vyberte **Odeslat.**
 
-Staré předplatné je teď pozastavené a nové předplatné je aktivní. Pozastavený odběr bude po 120 dnech automaticky zřízen. Pro staré předplatné nepřijde váš zákazník žádné další poplatky.
+Původní předplatné je teď pozastavené a nové předplatné je aktivní. Pozastavené předplatné bude po 120 dnech automaticky zrušeno. Za staré předplatné se zákazníkovi ne účtut žádné další poplatky.
  
 
  

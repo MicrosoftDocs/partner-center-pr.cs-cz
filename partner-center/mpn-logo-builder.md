@@ -9,18 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 72be76473dcb7afd3f8d6ae60d79599b10c025fc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132396"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152252"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Jak vytvořit logo partnera, certifikovaného dopisu nebo odměny pomocí Tvůrce loga
 
-**Příslušné role**
-
-- Všichni partneři, kteří mají zájem o další informace o tvůrci loga
+**Příslušné role**: všichni partneři, kteří mají zájem o další informace o tvůrci loga
 
 Hodnota získání stříbra nebo Gold Competency je příležitostí k odlišení od zákazníků. Logo, které můžete použít na svých prodejních a marketingových materiálech a obchodních profilech v partnerském centru, abyste předvedli kompetenci nebo kompetenci, které jste dosáhli, jsou součástí výhod vaší kompetence. 
 
@@ -48,29 +46,29 @@ Mezi prostředky, které můžete vytvořit v Tvůrci loga, patří následujíc
 
 Váš profil pro sestavování loga obsahuje informace, které nástroj pro vytváření loga uchovává o vaší organizaci a slouží pouze k vašim informacím.
 
-Pokud jste vytvořili různá loga pro různá firemní umístění, můžete vybrat umístění firmy, které chcete zobrazit nebo vytvořit pro použití selektoru MPNID.
+Pokud jste vytvořili různá loga pro různá firemní umístění, můžete pomocí selektoru MPNID vybrat, které firemní umístění chcete zobrazit nebo vytvořit.
 
-Dříve vytvořená a uložená loga jsou k dispozici v **nedávno uložené** knihovně.
+Dříve vytvořená a uložená loga jsou k dispozici v nedávno **uložené** knihovně.
 
-Pokud jste dříve vytvořili loga, vyberte **Zobrazit vše** a zobrazte celou knihovnu.
+Pokud jste už dříve vytvořili loga, vyberte **Zobrazit vše** a zobrazte celou knihovnu.
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard) partnerského centra pomocí svého pracovního účtu.
+1. Přihlaste se k Partnerské centrum [řídicího panelu](https://partner.microsoft.com/dashboard) pomocí svého pracovního účtu.
 
-1. V nabídce partnerské Centrum vyberte v části **výhody** možnost **Tvůrce loga** .
+1. V nabídce Partnerské centrum v části **Výhody vyberte Tvůrce** **loga.**
  
-   :::image type="content" source="images/logo-one.png" alt-text="snímek obrazovky videa nabídky znázorňující tvůrce loga.":::
+   :::image type="content" source="images/logo-one.png" alt-text="Snímek obrazovky nabídky zobrazující tvůrce loga":::
 
-3. Vyberte symbol plus v poli **sestavit své logo** a vytvořte nové logo.
+3. Výběrem znaménka plus v poli Build your logo (Sestavit **logo)** vytvořte nové logo.
 
-   :::image type="content" source="images/logo-two.png" alt-text="snímek obrazovky videa vytvoření nového loga.":::
+   :::image type="content" source="images/logo-two.png" alt-text="snímek obrazovky pro vytvoření nového loga":::
 
-4. Pak budete mít možnost vybrat si jazyk a šablonu, kterou chcete použít. Šablona je založena na typu loga, které budete vytvářet, například logo pro partnera MPN s Gold Competency.
+4. Pak máte možnost vybrat jazyk a šablonu, kterou chcete použít. Šablona je založená na typu loga, které budete vytvářet, například na logu partnera MPN se zlatým kompetencí.
 
-Můžete vytvářet také certifikovaná písmena a logo.
+Můžete také vytvářet certifikovaná písmena a cenová loga.
 
 >[!NOTE]
->Nové kompetence, ocenění nebo jiné předplatné, které se mají zobrazit ve vašem účtu členství, trvá 24 hodin. Pokud nevidíte požadované logo v knihovně, ujistěte se, že uplynula 24 hodin.
+>Trvá 24 hodin, než se ve vašem členství zobrazí nová kompetence, ocenění nebo jiné dosažené cíle. Pokud v knihovně nevidíte požadované logo, ujistěte se, že uplynulo 24 hodin.
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Další informace o výhodách pro uvedení na trh](mpn-learn-about-go-to-market-benefits.md)
+- [Další informace o výhodách pro trh](mpn-learn-about-go-to-market-benefits.md)

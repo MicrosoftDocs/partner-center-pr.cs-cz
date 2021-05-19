@@ -1,47 +1,45 @@
 ---
-title: Najít partnera Microsoftu
+title: Vyhledání partnera Microsoftu
 ms.topic: article
 ms.date: 08/25/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Jako partner Microsoftu máte dotazy ohledně toho, jak zákazníkům a konkrétním programům pomáhat. Najděte další partnery, kteří můžou pomáhat.
+description: Jako partner Microsoftu můžete mít dotazy ohledně toho, jak zákazníkům nebo konkrétním programům pomoci. Najděte další partnery, kteří vám můžou pomoct.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: be12ede0c725a859892985e4cfb9032d7fb2abe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172332"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150943"
 ---
-# <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Vyhledání partnera nebo poskytovatele řešení pro zodpovězení otázek týkajících se programů, licencí nebo zákaznických obchodů 
+# <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Vyhledejte partnera nebo poskytovatele řešení a odpovězte na otázky týkající se programů, licencování nebo zákaznických dohod. 
 
-**Příslušné role**
+**Odpovídající role:** Všichni partneři Microsoftu
 
-- Všichni partneři Microsoftu
+Tento článek říká partnerům Microsoftu, jak najít další partnery, kteří jim a jejich zákazníkům můžou pomoct uspět s produkty a službami Microsoftu.
 
-V tomto článku se dozvíte, jak mohou partneři Microsoftu najít další partnery, kteří jim můžou a jejich zákazníci pomůžou být s produkty a službami společnosti Microsoft.
+## <a name="different-microsoft-partners-and-solution-providers"></a>Different Microsoft partners and solution providers
 
-## <a name="different-microsoft-partners-and-solution-providers"></a>Různí partneři Microsoftu a poskytovatelé řešení
+V ekosystému partnerů Microsoftu existuje mnoho typů partnerů nebo distributorů. Mezi ty, které jsou uvedené v tomto článku, patří:
 
-V ekosystému partnerů Microsoftu existuje spousta typů partnerů nebo distributorů. Mezi ty, které jsou popsány v tomto článku, patří:
+- Cloud Solution Provider nepřímých prodejců (CSP) a jejich nepřímých poskytovatelů
+- Distributory multilicenčního programu
+- Distributory OEM
 
-- Nepřímý prodejce programu pro poskytovatele Cloud Solution Provider (CSP) a jejich nepřímá poskytovatelé
-- Distributori multilicenčního programu
-- Distributoři OEM
-
-Další informace o partnerských vztazích v programu CSP najdete v tématu [různé způsoby práce s ostatními partnery v partnerském centru](work-with-other-partners.md).
+Další informace o partnerských vztazích v programu CSP najdete v tématu Různé způsoby práce s jinými partnery v [Partnerské centrum](work-with-other-partners.md).
 
 ## <a name="find-a-partner-solution-provider-or-distributor"></a>Vyhledání partnera, poskytovatele řešení nebo distributora
 
-Další informace najdete v následující tabulce, která vám pomůžou najít partnera nebo distributora.
+S vyhledáním partnera nebo distributora vám pomůže následující tabulka.
 
 |Akce  | Přečtěte si:  |
 |:------------------|:--------------- |
-|Najít nepřímý poskytovatel CSP *(pro nepřímé prodejce CSP, kteří ještě nemají přiřazeného nepřímého poskytovatele)* | [Stránka vyhledávání nepřímých zprostředkovatelů Microsoft Partner Network](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
-|Hledání poskytovatele řešení multilicenčního programu nebo distributora  | [Stránka hledání poskytovatele řešení Microsoft](https://www.microsoft.com/solution-providers/home)  |
-|Najít distributora kanálu OEM autorizovaný společností Microsoft  | [Stránka vyhledávání OEM pro partnerské Centrum pro zařízení Microsoftu](https://devicepartner.microsoft.com/connect/distributor)  |
+|Vyhledání nepřímého poskytovatele CSP (pro nepřímé prodejce CSP, kteří ještě *nemají přiřazeného nepřímého poskytovatele)* | [Microsoft Partner Network vyhledávací stránka nepřímého poskytovatele](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
+|Vyhledání poskytovatele řešení nebo distributora multilicenčního programu  | [Vyhledávací stránka poskytovatele řešení Microsoftu](https://www.microsoft.com/solution-providers/home)  |
+|Vyhledání distributora kanálu OEM autorizovaného Microsoftem  | [Stránka vyhledávání OEM pro partnerské Centrum pro zařízení Microsoftu](https://devicepartner.microsoft.com/connect/distributor)  |
 
 ## <a name="next-steps"></a>Další kroky
 

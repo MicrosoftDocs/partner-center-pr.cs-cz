@@ -4,40 +4,32 @@ ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Partnerským centrem pro Microsoft Cloud Německo je obchodní portál pro partnery, kteří chtějí nabízet cloudová řešení Microsoftu zákazníkům v zemích EU a ESVO.
+description: Partnerské centrum pro Microsoft Cloud Germany je obchodní portál pro partnery, kteří chtějí zákazníkům v zemích EU a EFTA nabízet cloudová řešení Microsoftu.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 19753f4fb848262fc8bed146427f0652096f6902
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086511"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151079"
 ---
-# <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partnerské centrum pro Microsoft Cloud Německo pro partnery, kteří prodávají zákazníkům v zemích EU & ESVO
+# <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partnerské centrum Microsoft Cloud Germany pro partnery, kteří prodávají zákazníkům v zemích EU & EFTA
 
-**Platí pro**
+**Platí pro:** Partnerské centrum pro Microsoft Cloud Germany
 
-- Partnerské centrum pro Microsoft Cloud pro Německo
+**Odpovídající role:** Globální správce | Správce správy uživatelů | Agent správy | Sales agent | Správce fakturace
 
-**Příslušné role**
+Microsoft Cloud Germany je navržený tak, aby splňoval přísné požadavky na ochranu dat v Německu a zahrnuje německého správce dat provozující německý zákon, který řídí fyzický a logický přístup k zákaznickým datům. Všechna zákaznická data a systémy, které zpracovávají nebo řídí přístup k datům zákazníků, se nacházejí v německých datových centrech. Síť mezi těmito datovými cechy je izolovaná a vyhrazená v rámci Německa.
 
-- Globální správce
-- Správce správy uživatelů
-- Agent správce
-- Agent prodeje
-- Správce fakturace
-
-Microsoft Cloud Německo je navržená tak, aby splňovala striktní německé požadavky na ochranu dat a zahrnovala německého důvěryhodného datového, který je v souladu s německými zákony a který řídí fyzický a logický přístup k datům zákazníků. Všechna zákaznická data a systémy, které zpracovávají nebo řídí přístup k zákaznickým datům, se nacházejí v německých datových centrech. Síť mezi těmito datovými centry je izolovaná a vyhrazená v Německu.
-
-Microsoft Cloud Německo poskytuje samostatnou instanci [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), která je dodávána z datových center v Německu. V důsledku toho mohou komerční zákazníci v Evropské unii (EU) a evropském sdružení volného obchodu (ESVO) ukládat a spravovat zákaznická data v souladu s platnými německými zákony a předpisy a také s klíčovými mezinárodními standardy. Zaměstnanci Microsoftu nemají přístup k zákaznickým datům bez souhlasu a dohledu v rámci německého důvěryhodného data nebo zákazníka.
+Microsoft Cloud Germany poskytuje samostatnou instanci Microsoft Azure [,](https://go.microsoft.com/fwlink/?linkid=847992)která je dodávána z datových center v Německu. V důsledku toho mohou komerční zákazníci Evropské unie (EU) a Evropské asociace volného obchodu (EFTA) ukládat a spravovat zákaznická data v souladu s příslušnými německými zákony a předpisy a také klíčovými mezinárodními standardy. Pracovníci Microsoftu nemohou přistupovat k zákaznickým datům bez schválení a dohledu německým správcem dat nebo zákazníkem.
 
 > [!IMPORTANT]
-> Naše cloudová strategie pro Německo se na základě vývoje potřeb zákazníků zaměřuje na doručování nových oblastí cloudu v Německu, které jsou konzistentní s naší cloudovou nabídkou. S tímto zaostřením už nebudeme přijímat nové zákazníky ani nasazovat žádné nové služby z aktuálně dostupné Microsoft Cloud Německo. Stávající zákazníci můžou dál využívat aktuálně dostupné současné cloudové služby, které budeme udržovat s potřebnými aktualizacemi zabezpečení.
+> Na základě vývoje potřeb zákazníků se naše cloudová strategie pro Německo zaměří na doručování nových cloudových oblastí v Německu, které jsou konzistentní s naší globální cloudovou nabídkou. S tímto zaměřením už nebudeme přijímat nové zákazníky ani nasazovat žádné nové služby z aktuálně dostupného cloudu Microsoftu pro Německo. Stávající zákazníci mohou dál používat aktuální cloudové služby, které jsou dnes k dispozici, což budeme udržovat s nezbytnými aktualizacemi zabezpečení.
 >
-> Nové zákazníky mají možnost použít aktuálně dostupné evropské oblasti nebo nové oblasti v Německu, jakmile budou k dispozici. Další informace najdete v tématu [Microsoft pro doručování cloudových služeb z nových datových center v Německu](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
+> Do budoucna mají noví zákazníci možnost používat aktuálně dostupné evropské oblasti nebo nové oblasti v Německu, jakmile budou k dispozici. Další informace najdete v tématu [Microsoft pro doručování cloudových služeb z nových datových center v Německu](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrace zákazníků z Microsoft Cloud Německa do jiné evropské oblasti
 
@@ -73,31 +65,31 @@ Než budete moct migrovat předplatné zákazníka z Microsoft Cloud Německo do
 
 1. V nabídce vlevo přejděte na stránku Přehled CSP.
  
-1. Po zobrazení výzvy vyberte možnost **nemám tenanta v evropské oblasti** a pak vyberte **vytvořit nový účet**. 
+1. Po zobrazení výzvy vyberte **Nemám tenanta** v evropské oblasti a pak vyberte **Vytvořit nový účet**. 
  
-1. Přejdete na stránku pro registraci partnerského centra, kde můžete v evropské oblasti vytvořit nový účet tenanta a CSP.
+1. Budete na stránce registrace Partnerské centrum, kde můžete vytvořit nového tenanta a účet CSP v evropské oblasti.
   
-5. Po podepsání smlouvy partnera Microsoftu a účtu je aktivní, přihlaste se pomocí aktuálního účtu Microsoft Cloud Německo.
+5. Po podepsání účtu Smlouva s partnerem Microsoftu účet je aktivní, přihlaste se pomocí aktuálního účtu Microsoft Cloud Germany.
 
-6. Přejděte do formuláře výběru tenanta.
+6. Přejděte na formulář pro výběr tenanta.
 
-7. Vyberte **už tenanta v evropské oblasti** a postupujte podle pokynů.
+7. Vyberte **Už mám tenanta v evropské oblasti a** postupujte podle pokynů.
 
 
 ## <a name="selling-german-cloud-solutions-in-eu-and-efta"></a>Prodej německých cloudových řešení v EU a ESVO
 
-Po zaregistrování v programu Cloud Solution Provider (CSP) pro Microsoft Cloud německý program použijete Partnerské centrum k prodeji řešení a služeb pro konkrétní cloudy zákazníkům v zemích EU a ESVO nebo oblastech.
+Po zápisu do programu Cloud Solution Provider (CSP) pro Microsoft Cloud Germany budete používat Partnerské centrum k prodeji německých cloudových řešení a služeb zákazníkům v zemích/oblastech EU a EFTA.
 
-Pro zajištění dodržování německých zákonů a předpisů, které řídí shromažďování a používání dat jednotlivců a také klíčové mezinárodní standardy, se následující úkoly partnerského centra spravují pomocí konkrétních portálů služeb.
+Aby bylo v souladu s německými zákony a předpisy, které řídí shromažďování a používání dat jednotlivců i klíčových mezinárodních standardů, Partnerské centrum úlohy správy pomocí konkrétních portálů služeb.
 
-Funkce nebo schopnost | Dokončit úlohy v
+Funkce nebo funkce | Dokončení úloh v
 :--- | :---
-Správa uživatelů partnerů | Centrum pro správu Office 365 nebo Azure pro Microsoft Cloud německý portál pro správu
-Zákaznická Správa uživatelů | Centrum pro správu Office 365 nebo Azure pro Microsoft Cloud německý portál pro správu
-Resetování hesla uživatele | Portál pro správu Azure pro Microsoft Cloud Německo
-Správa licencí | Centrum pro správu Office 365 nebo centrum pro správu Office 365 nebo Microsoft Cloud německý portál pro Azure Active Directory licencování
+Správa uživatelů partnerů | Centrum pro správu Office 365 nebo portál pro správu Azure pro Microsoft Cloud (Německo)
+Správa uživatelů zákazníků | Centrum pro správu Office 365 nebo portál pro správu Azure pro Microsoft Cloud (Německo)
+Resetování hesla uživatele | Portál pro správu Azure pro Microsoft Cloud (Německo)
+Správa licencí | Centrum pro správu Office 365, Centrum pro správu Office 365 nebo Microsoft Cloud Germany Azure Active Directory Licensing Portal
 
 ## <a name="next-steps"></a>Další kroky
 
-- Informace o správě uživatelů a licencí najdete v tématu [Správa uživatelů a licencí v partnerském centru pro Microsoft Cloud Německo](user-management-in-partner-center-for-microsoft-cloud-germany.md).
+- Informace o správě uživatelů a licencí najdete v tématu Správa uživatelů a licencí v tématu [Partnerské centrum pro Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md).
 
