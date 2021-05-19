@@ -9,24 +9,18 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284294"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147186"
 ---
 # <a name="view-digitally-signed-invoices"></a>Zobrazit digitálně podepsané faktury
 
-**Platí pro**
+**Platí pro**: partnerské Centrum | Partnerské centrum Indie
 
-- Partnerské centrum Indie
-
-**Příslušné role**
-
-- Správce účtu
-- Fakturační Agent
-- Agent prodeje
+**Příslušné role**: správce účtu | Fakturační Agent | Agent prodeje
 
 Partneři v Indii nyní uvidí, že společnost Microsoft má digitálně podepsané faktury. K zobrazení podpisu je nutné použít Cloud pro dokumenty aplikace Adobe Acrobat Reader (DC).
 
@@ -54,7 +48,7 @@ Partneři v Indii nyní uvidí, že společnost Microsoft má digitálně podeps
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Další informace o fakturách a digitálních podpisech
 
-Digitální kopie bude e-mailem osobě, která objednávku vytvořila v partnerském centru. Nemůžete získat digitálně podepsané faktury pro všechny faktury, které byly vydány před 17. července 2020. Také ručně podepsané faktury nebudou k dispozici.
+Digitální kopie bude e-mailem osobě, která objednávku vytvořila v Partnerské centrum. Nemůžete získat digitálně podepsané faktury za faktury vydané před 17. červencem 2020. Ručně podepsané faktury také nebudou k dispozici.
 
 ## <a name="next-steps"></a>Další kroky
 

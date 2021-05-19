@@ -9,21 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e8c0935ecf4cf7dba799eefbcbb74ed5e6702994
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178931"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146659"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Použití metrik v partnerském centru k posílení přijetí a spokojenosti
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
-- Agent správce
-- Agent prodeje
+**Příslušné role**: globální správce | Správce správy uživatelů | Agent správce | Agent prodeje
 
 Naši partneři využívají spoustu metrik k měření, zda jejich podnikání roste a kde se zaměřuje na investice. Partnerské centrum vám může pomoci poskytnout data o tom, jestli a jak vaši zákazníci používají licence, které si koupili. Tyto informace jsou k dispozici pro produkty Office (včetně OneDrivu pro firmy, které se počítají společně se službou SharePoint).
 
@@ -46,41 +41,41 @@ Můžete najít licence a uživatelská data pro jednoho zákazníka nebo v rám
 
 4. Vyberte **přehledy zákazníků**.
 
-### <a name="find-license-and-user-data-across-your-portfolio"></a>Najít licence a uživatelská data v rámci vašeho portfolia
+### <a name="find-license-and-user-data-across-your-portfolio"></a>Vyhledání údajů o licencích a uživatelích v rámci vašeho portfolia
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
+1. Přihlaste se k řídicímu [Partnerské centrum.](https://partner.microsoft.com/dashboard)
 
-2. Vyberte **analyzovat** a v nabídce vyberte některou z možností analýzy.
+2. Vyberte **Analyzovat** a v nabídce zvolte jednu z možností analýzy.
 
-3. Pokud chcete stáhnout nasazení a data o využití napříč celou zákaznickou sadou, vyberte možnost **Export** (šipka dolů).
+3. Pokud chcete stáhnout data o nasazení a využití v celé sadě zákazníků, **vyberte možnost exportu** (šipka dolů).
 
 Terminologie:
 
-- **Nárok** = licence, kterou má uživatel nárok na použití (není pozastavená kvůli podvodům nebo neplatbám, nebyla upgradována na jinou licenci, nebyla zrušena uživatelem nebo jiným problémem).
+- **Nárok** = licence, na kterou má uživatel nárok (není pozastavený z podvodu nebo nezaplacení, nebyl upgradován na jinou licenci, nezrušil ji uživatel ani jiný problém).
 
-- **Aktivní** =, pokud Předplatný uživatel použil oprávnění pro úkol za posledních 28 kalendářních dnů.
+- **Active** = pokud přihlášený uživatel použil nárok na úkol v posledních 28 kalendářních dnech.
 
-- **Nasazení%** = přiřazené licence/prodané licence
+- **Deployment %** = přiřazené licence/prodané licence
 
-- **Použití%** = aktivní uživatelé/celkem uživatelů
+- **% využití** = aktivní uživatelé / celkový počet uživatelů
 
-   V některých případech je použití% využití neploché nebo je větší než 100%. K tomuto problému může dojít z několika důvodů:
+   Někdy je % využití nafouknutí nebo větší než 100 %. K tomuto problému může dojít z několika důvodů:
 
-  - Pokud má zákazník obrat na zaměstnance a licence se přenesla na nového uživatele.
+  - Pokud u zákazníka došla fluktuace zaměstnanců a licence se přenesla na nového uživatele.
 
-  - Pokud má zákazník dvě předplatná pro SKLADOVOU položku, ale jedna z nich je v období odkladu, zakázané nebo nezřízené, můžou nároky v obou předplatných registrovat aktivní používání během 28 dnů, ale celkem se počítá jenom s jednou.
+  - Pokud má zákazník dvě předplatná pro SKU, ale jedno je v období odkladu, zakázáno nebo je zřízené, nároky v obou předplatných mohou registrovat aktivní využití během 28 dnů, ale celkem se počítá pouze jedno.
 
-  - Pokud má zákazník zkušební předplatné, započítá se aktivita, ale u předplatného se nepočítá celková nároky.
+  - Pokud má zákazník zkušební předplatné, aktivita se počítá, ale do celkových nároků se nezapočítává.
 
-  - Pokud někteří zákazníci používají Yammer významně větší, než mají nárok na jejich licenci, může data výrazně zkosit.
+  - Pokud někteří zákazníci používají Yammer výrazně více, než má jejich licence, může dojít k výraznému zkosení dat.
 
 ## <a name="next-steps"></a>Další kroky
 
-Pokud zadáváte mnoho otázek s dotazy a dotazy, čísla přijetí na vašem účtu jsou nízká nebo hledáte příležitosti pro prodej, možná budete chtít vzít v úvahu nabídky školicích kurzů. Díky výuce zákazníků, jak lépe používat software cloudového řešení, který si koupili, je pravděpodobnější zvýšit produktivitu a spokojenost a snížit nároky na podporu.
+Pokud máte mnoho dotazů k nápovědě a návodům, čísla osvojení účtu jsou nízká nebo hledáte prodejní příležitosti, můžete zvážit nabídku školení. Tím, že své zákazníky učíte, jak lépe využívat software cloudových řešení, který zakoupili, s větší pravděpodobností uvidíte zvýšení produktivity a spokojenosti a snížení potřeb podpory.
 
-### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Zvážení toho, jak vylepšit přijetí a využití zákazníky – několik scénářů
+### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Zvážení, jak zlepšit přijetí a využití u zákazníků – několik scénářů
 
-**Problém**: frekvence přijímání uživatelů je nízká a mnoho licencí se nepoužívá.
+**Problém:** Míra přijetí uživateli je nízká a mnoho licencí se nevyužít.
 
 **Co je třeba vzít v úvahu**: zákazníci nemusí pochopit hodnotu, kterou by mohl software poskytnout. Potřebují pomáhat s plánováním způsobů, které by mohly začlenit do svého dne a zjednodušit úkoly, které už dělají, nebo zajistit nové typy produktivity.
 

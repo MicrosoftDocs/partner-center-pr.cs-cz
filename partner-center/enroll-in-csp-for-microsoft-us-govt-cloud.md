@@ -1,44 +1,40 @@
 ---
-title: Registrace v programu CSP
+title: Registrace do programu CSP
 titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Seznamte se s požadavky programu CSP pro partnery, kteří se chtějí zaregistrovat v programu Cloud Solution Provider pro Microsoft Cloud pro státní správu USA.
+description: Seznamte se s požadavky na program CSP pro partnery, kteří se chtějí zaregistrovat do Cloud Solution Provider programu pro Microsoft Cloud for US Government.
 author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: e2b206b049050efa520099d74230d8535ac93793
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "92527652"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147169"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrace do programu Cloud Solution Provider pro Microsoft Cloud pro státní správu USA
+# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrace do Cloud Solution Provider pro Microsoft Cloud for US Government
 
-**Platí pro**
+**Platí pro:** Partnerské centrum pro Microsoft Cloud for US Government
 
-- Partnerské centrum pro Microsoft Cloud pro státní správu USA
+**Odpovídající role:** Globální správce
 
-**Příslušné role**
+Partneři Microsoftu teď dají cloudová řešení a služby Microsoftu americkým federálním, státním, místním a kmenovým entitám prostřednictvím Cloud Solution Provider programu (CSP) pro Microsoft Cloud for US Government.
 
-- Globální správce
-
-Partneři Microsoftu teď můžou prodávat cloudová řešení a služby od Microsoftu až po federální, státní, místní nebo samosprávnéové entity prostřednictvím programu Cloud Solution Provider (CSP) pro Microsoft Cloud pro státní správu USA.
-
-Microsoft Cloud pro státní správu USA poskytuje soukromou, vyhrazenou a izolovanou instanci Microsoft Azure, která splňuje požadavky státní správy USA na zabezpečení, ochranu osobních údajů a dodržování předpisů. Vaše společnost musí splňovat požadavky Microsoftu na nárok, aby se mohla zúčastnit programu CSP pro Microsoft Cloud pro státní správu USA. Další informace najdete v tématu [Partnerské centrum pro Microsoft Cloud pro vládu USA](partner-center-for-microsoft-us-govt-cloud.md).
+Microsoft Cloud for US Government poskytuje privátní, vyhrazenou a izolovanou instanci služby Microsoft Azure která splňuje požadavky státní správy USA na zabezpečení dat, ochranu osobních údajů a dodržování předpisů. Aby se vaše společnost mohli programu CSP zapojit do programu CSP, musí splňovat podmínky Microsoft Cloud for US Government. Další informace najdete v tématu [Partnerské centrum pro Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
 ## <a name="before-you-begin"></a>Než začnete
 
-Než se zaregistrujete do programu CSP pro Microsoft Cloud pro státní správu USA, musíme ověřit, že vaše společnost splňuje požadavky pro prodej organizacím státní správy USA. Než zahájíte proces registrace, vyplňte [formulář ověření cloudu pro státní správu Microsoftu](https://azuregov.microsoft.com/csp) , abychom mohli ověřit způsobilost vaší společnosti. Po ověření nároku vaší společnosti vám poskytneme klienta Azure Active Directory (Azure AD), který je specifický pro Microsoft Cloud pro státní správu USA.  
+Než se budete moci zaregistrovat do programu CSP pro Microsoft Cloud for US Government, musíme ověřit, že vaše společnost splňuje požadavky na prodej organizacím státní správy USA. Před zahájením procesu registrace vyplňte formulář pro ověření cloudu [Microsoft Government,](https://azuregov.microsoft.com/csp) abychom mohli ověřit způsobilost vaší společnosti. Po ověření způsobilosti vaší společnosti vám poskytneme tenanta azure Azure Active Directory (Azure AD) specifického pro Microsoft Cloud for US Government.  
 
-Pokud chcete vytvořit účet partnerského centra a zaregistrovat se do CSP pro Microsoft Cloud pro státní správu USA, budete muset dodat tyto informace (možná budete chtít shromáždit tyto informace před zahájením procesu registrace):
+Pokud chcete vytvořit Partnerské centrum účet a zaregistrovat se v CSP pro Microsoft Cloud for US Government, budete muset zadat následující informace (tyto informace možná budete chtít před zahájením procesu registrace shromáždit):
 
-- Přihlašovací údaje globálního správce pro nového tenanta Azure AD vaší organizace pro Microsoft Cloud pro státní správu USA
-- ID Microsoft Partner Network (MPN) vaší organizace
+- Přihlašovací údaje globálního správce pro nového tenanta Azure AD vaší organizace pro Microsoft Cloud for US Government
+- ID účtu Microsoft Partner Network (MPN)
 - Obchodní adresa v USA
 
 > [!IMPORTANT]  
@@ -69,23 +65,23 @@ Pokud chcete vytvořit účet partnerského centra a zaregistrovat se do CSP pro
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Krok 4: přiřazení uživatelů k roli agenta správce na portálu pro správu Microsoft Azure pro Microsoft Cloud pro státní správu USA
 
-Microsoft Cloud pro státní správu USA poskytuje samostatnou instanci Microsoft Azure, která vyhovuje standardům dodržování předpisů, zabezpečení a ochrany osobních údajů. Pokud chcete správcům dovolit spravovat uživatele a licence v portál Microsoft Azure, budete k nim muset ručně přiřadit roli agenta správce.
+Microsoft Cloud for US Government poskytuje samostatnou instanci služby Microsoft Azure která splňuje standardy dodržování předpisů, zabezpečení a ochrany osobních údajů ze státní správy. Pokud chcete správcům povolit správu uživatelů a licencí v portál Microsoft Azure, musíte jim ručně přiřadit roli Agent pro správu.
 
 > [!NOTE]
-> Až přiřadíte uživatele k roli agenta správce, budou mít přístup k vašemu seznamu zákazníků na stránce **Customers** a můžou [Přidat nové zákazníky](add-a-new-customer.md).
+> Jakmile přiřadíte uživatele k roli Agent pro správu, budou mít  přístup k vašemu seznamu zákazníků na stránce Zákazníci a [přidávají nové zákazníky.](add-a-new-customer.md)
 
-1. Přihlaste se na portál pro správu Microsoft Azure na adrese [https://portal.azure.us/](https://portal.azure.us/) .
+1. Přihlaste se k portálu Microsoft Azure na adrese [https://portal.azure.us/](https://portal.azure.us/) .
 
-2. Přiřaďte roli agenta správce k příslušným uživatelům ve vaší organizaci. K tomu je potřeba přidat tyto uživatele do předdefinované skupiny **AdminAgent** . Informace o tom, jak to udělat, najdete v tématu [Správa členů skupiny v Azure Active Directory](/azure/active-directory/active-directory-groups-members-azure-portal) .
+2. Přiřaďte roli Agent pro správu příslušným uživatelům ve vaší organizaci. K tomu je potřeba přidat tyto uživatele do integrované skupiny **AdminAgent.** Informace [o tom, jak to provést, Azure Active Directory](/azure/active-directory/active-directory-groups-members-azure-portal) v tématu Správa členů skupiny v systému .
 
 ## <a name="connect-with-us"></a>Spojte se s námi.
 
-- Máte otázky? Pošlete nám e-mail na azgovcsp@microsoft.com
+- Máte otázky? Pošlete nám e-mail na adresu . azgovcsp@microsoft.com
 
-- Připojte se k nám na [Yammeru](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)
+- Připojte se k nám [v Yammeru.](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Partnerské centrum pro Microsoft Cloud pro státní správu USA](partner-center-for-microsoft-us-govt-cloud.md)
+- [Partnerské centrum pro Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
-- [Správa uživatelů a licencí v partnerském centru pro Microsoft Cloud pro státní správu USA](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
+- [Správa uživatelů a licencí v Partnerské centrum pro Microsoft Cloud for US Government](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)

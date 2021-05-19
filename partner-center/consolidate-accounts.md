@@ -9,19 +9,16 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: efa7251bd658558efcbab562e0c7bc8a66b8bcb8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354521"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148274"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Konsolidace účtů společnosti při migraci z PMC do partnerského centra
 
-**Příslušné role**
-
-- Správce partnera MPN
-- Správce účtu
+**Příslušné role**: správce partnerů MPN | Správce účtu
 
 V PMC může mít vaše společnost mnoho účtů a umístění. Každé umístění má svůj vlastní účet. Při migraci do partnerského centra budou všechny účty a umístění konsolidovány do jednoho globálního účtu partnera s několika místy. S vámi se přesunou následující věci: vaše ID MPN, kompetence, nákupy, marketingové prostředky, programy a nabídky. Nic nebude ztraceno.
 
@@ -41,25 +38,25 @@ Když se přihlásíte k partnerskému centru poprvé, budete přidáni jako spr
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Co se stane během konsolidace účtů
 
-- Podrobnosti na obrazovce s podrobnostmi společnosti nemůžete změnit. Tyto podrobnosti jsou pro globální účet partnera.
+- Podrobnosti na obrazovce s podrobnostmi o společnosti nemůžete změnit. Tyto podrobnosti jsou pro globální účet partnera.
 
-- Účty v PMC budou konsolidovány do globálního účtu partnera.
+- Účty v PMC se konsoliduje do globálního partnerského účtu.
 
-- Všechna umístění v PMC se přesunou do stávajícího globálního účtu partnerského centra partnera jako umístění. Můžete také přidat další umístění. Pokud chcete získat další informace o umístěních, přečtěte si téma  [Správa partnerského účtu – umístění](manage-locations.md).
+- Všechna umístění v PMC se přesunou do tohoto stávajícího globálního účtu Partnerské centrum jako umístění. Můžete také přidat další umístění. Další informace o umístěních najdete v okně [Správa partnerského účtu – Umístění.](manage-locations.md)
 
-- Po dokončení procesu konsolidace ho nebudete moct obrátit. Podrobnosti o všech vašich společnostech se teď zobrazí jako umístění v rámci stávajícího globálního účtu partnera. 
+- Jakmile proces konsolidace dokončíte, nebudete ho moct vrátit zpět. Všechny podrobnosti o vaší společnosti se teď zobrazí jako umístění v rámci stávajícího globálního účtu partnera. 
 
-- Během této konsolidace se uchovávají všechna ID MPN.
+- Během této konsolidace se zachovají všechna ID MPN.
 
-- Všechny vaše stávající kompetence (Gold/stříbrné) a nákupy (MAPS/Gold/stříbrné) se během konsolidace uchovávají. Také zachované jsou všechny související marketingové prostředky, programy a nabídky.
+- Během konsolidace se zachovají všechny stávající kompetence (gold/silver) a nákupy (MAPS/Gold/Silver). Zachovají se také všechny související marketingové prostředky, programy a nabídky.
 
-- Vy (uživatel, který se přihlásil pomocí ID pracovního e-mailu), se automaticky přidá jako správce MPN a správce účtu na globální účet partnera. To vám umožní spravovat účet podle potřeby.
+- Vy (uživatel, který se přihlásil pomocí ID pracovního e-mailu) se automaticky přidá jako správce MPN a správce účtu do globálního účtu partnera. To vám umožní spravovat účet podle potřeby.
 
-## <a name="consolidating-your-go-to-market-offers-programs-and-competencies"></a>Konsolidace nabídek, programů a kompetencí pro uvedení na trh
+## <a name="consolidating-your-go-to-market-offers-programs-and-competencies"></a>Konsolidace nabídek, programů a kompetencí pro programy na trh
 
-V PMC bylo možné, že každé umístění má své vlastní kompetence, vlastní mapy a další marketingové nabídky specifické pro určité místo.
+V PMC bylo možné, aby každá lokalita měla své vlastní kompetence, vlastní obchodní partnery a další marketingové nabídky specifické pro konkrétní umístění.
 
-V partnerském centru se všechny účty umístění konsolidují do jednoho globálního účtu. To znamená, že se konsolidují i všechny nabídky, programy a kompetence pro uvedení na trh. Sady nástrojů pro další výhody (ABTKs) nebudou k dispozici. Můžete ale organizovat distribuci marketingových zdrojů, nabídek, programů a kompetencí podle požadavků vaší společnosti. Při konsolidaci je k dispozici rozšíření. Toto rozšíření umožňuje vaší společnosti využívat marketingové prostředky, nabídky a programy, které se v PMC používají po dobu dalších let.
+V Partnerské centrum jsou všechny účty umístění konsolidovány do jednoho globálního účtu. To znamená, že všechny nabídky, programy a kompetence pro produkty na trh jsou také konsolidovány. Nebudou k dispozici další sady nástrojů pro výhody (ABTK). Distribuci marketingových prostředků, nabídek, programů a kompetencí ale můžete uspořádat podle potřeby pro vaši společnost. Při konsolidaci se poskytuje rozšíření. Toto rozšíření umožňuje vaší společnosti využívat marketingové prostředky, nabídky a programy, které se v PMC používají po dobu dalších let.
 
 Pokud potřebujete další informace o rozdílech mezi PMC a Partnerským centrem, přečtěte si téma [Přesun z PMC do partnerského centra](guide-to-migration.md).
 

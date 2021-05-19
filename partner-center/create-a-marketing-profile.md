@@ -9,19 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f66a5c32f145be5a80de838dae2cd1926e6aebce
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964386"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148195"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Vytvořte si obchodní profil, který vám umožní získat potenciální zákazníky Microsoftu a pomáhat zákazníkům.
 
-**Příslušné role**
-
-- Správce obchodního profilu
-- Správce odkazů
+**Příslušné role**: správce profilu firmy | Správce odkazů
 
 Jako kvalifikovaný partner Microsoftu můžete vytvořit obchodní profil, který prezentuje vaše podnikání zákazníkům, kteří hledají vaše jedinečná řešení a odbornosti k vyřešení svých obchodních potřeb.
 
@@ -44,22 +41,22 @@ Vytvořte profily pro každou oblast, ve které máte oprávnění k podnikání
 
 2. Na stránce **vytvořit profil firmy** vyberte oblast a potom zadejte informace o svém profilu.
    > [!NOTE]  
-   >  I když Partnerské centrum podporuje více jazyků, některé prvky, například popis a značky volných formulářů, mohou vyžadovat vložení textu z různých jazyků, jak je uvedeno v tomto tématu.
+   >  Přestože Partnerské centrum více jazyků, některé prvky, například popis a značky volného tvaru, mohou zahrnovat text z různých jazyků, jak je uvedené v tomto tématu.
 
 ### <a name="partner-information"></a>Informace o partnerovi
 
-Zaveďte své společnosti, přidejte logo a stručný popis a odkaz na web. 
+Představte svou společnost, přidejte logo a stručný popis a odkaz na váš web. 
 
-Logo může být soubor GIF, JPG nebo PNG s maximální šířkou 300 pixelů. Doporučujeme použít kolmé nebo dlouhé poměry stran. Nedoporučují se vysoké poměry stran.
+Logo může být soubor GIF, JPG nebo PNG s maximální šířkou 300 pixelů. Doporučujeme použít čtvercové nebo dlouhé poměry stran. Vysoký poměr stran se nedoporučuje.
 
-Váš popis může mít až 2500 znaků. Tipy pro skvělý Popis: 
+Popis může mít až 2 500 znaků. Tipy pro skvělý popis: 
 
--  **Je Stručná**, což vede k důležitému v první větě nebo dvou. Mělo by se jednat o titulek, který zachycuje pozornost zákazníků. V části hledání partnerských výsledků se zobrazuje první řádek nebo dva ve verzi Preview výsledků hledání.
--  **Zaměřte se na prostředí vaší společnosti pomocí nabídek specifických pro společnost Microsoft**. Zákazníci, kteří hledají odkazy, obecně hledají partnery se zkušenostmi, které jsou specifické pro společnost Microsoft.
--  **Použijte odrážky**. Rozdělte informace do seznamů s odrážkami, aby bylo snazší je zkontrolovat.
--  **Vyhněte se žargonu**. Využijte jednoduchý, každodenní jazyk a pojmenujte své nabídky podle toho, co dělají: obchodní potřeby, které řeší, nebo úkoly nebo cíle, které zákazníkům pomůžou dosáhnout.
--  **Nedělejte si starosti s vyplněním popisu pomocí klíčových slov hledání**. Vyhledávací nástroje zákazníka hledají klíčová slova vygenerovaná v části odbornosti partnera, nikoli popis.
--  **Udržujte profil aktuální**. U každého softwaru nebo vydání služby aktualizujte svůj profil a zachováte synchronizaci s webem vaší společnosti.
+-  **Buďte struční** a pište na úvod k tomu, co je důležité v první nebo dvou větách. Toto by měl být hlavní nadpis, který upoutá pozornost zákazníků. Ve vyhledávacím prostředí Najít partnera zobrazíme první nebo dva řádky ve verzi Preview výsledků hledání.
+-  **Zaměřte se na zkušenosti vaší společnosti s nabídkami specifickými pro Microsoft.** Zákazníci, kteří hledají referenční odkazy, většinou hledají partnery s prostředím specifickým pro Microsoft.
+-  **Použijte odrážky**. Rozdělit informace do seznamů s odrážkami, aby se usnadnila kontrola
+-  **Vyhněte se žargonu**. Používejte jednoduchý běžný jazyk, pojmenovávání nabídek pro to, co dělají: obchodní potřeby, které řeší, nebo úlohu nebo cíl, který pomáhají zákazníkům dosáhnout.
+-  **S vyplněním popisu klíčovými slovy vyhledávání si nedělejte starosti.** Nástroje pro vyhledávání zákazníků vyhledá klíčová slova vygenerovaná v části Odborné znalosti partnerů, nikoli popis.
+-  **Udržujte svůj profil aktuální.** S každým vydáním softwaru nebo služby aktualizujte svůj profil a udržujte ho synchronizované s webem vaší společnosti.
 -  **Neodkazujte na jinou společnost partnera společnosti Microsoft podle názvu**, pokud se nejedná o pobočku nebo je jinak přidružená k vaší společnosti, nebo pokud máte stávající smlouvu s touto partnerskou společností, aby jednala o spolupráci a/nebo navzájem podporovala sdílení pracovních příležitostí.
 -  V **případě oblastí s více jazyky** zvažte zahrnutí textu z více jazyků v popisu.
 
@@ -90,35 +87,35 @@ Další značky používané v hledání:
 
 #### <a name="target-size"></a>Cílová velikost
 
-Z firem, které nesplňují vaši cílovou velikost zákazníka, si můžete odsouhlasit odkazy.
+Můžete se odhlásit z referenčních seznamu firem, které nesplňuje cílovou velikost zákazníka.
 
-Tím, že se rozhodnete, budete mít spoustu času na firmy, které odpovídají pro firmy, se kterými chcete pracovat.
+Když se odhlásit, budete mít více času na strávení práce na firmách, které odpovídají firmám, se které dáváte přednost práci.
 
 #### <a name="locations"></a>Umístění
 
-Do každé oblasti můžete přidat až 5 hlavních umístění vaší společnosti. Tato umístění se zobrazí, když zákazníci hledají blízkost k partnerům.
+Pro každou oblast můžete přidat až 5 lokalit vaší společnosti. Tato umístění se zobrazí, když zákazníci vyhledá partnery podle blízkosti.
 
-Označuje umístění oficiálních umístění společnosti a lze je ověřit. Vyberte umístění, která jsou centrální pro trhy, které zadáváte, a nejlépe zajistěte, aby vaše společnost splňovala možnosti plnění.
+Uveďte umístění, která jsou oficiální umístění společnosti a která je možné ověřit. Vyberte si místa, která jsou pro trhy, které sloužíte, ústřední a co nejlépe reprezentuje schopnost vaší společnosti plnit.
 
-Až budete hotovi s aktualizací informací o umístění, vyberte **Uložit toto umístění** nebo **Uložit toto umístění a přidejte další** (i když přidáváte jenom jedno umístění).
+Po dokončení aktualizace informací o umístění  vyberte Uložit toto umístění nebo Uložit toto umístění a přidejte další **umístění** (i když přidáváte jenom jedno umístění).
 
-Každé umístění, které přidáte, se může jednat o samostatnou stránku profilu. Při aktualizaci stránek profilu se ujistěte, že je aktualizujete pro každé umístění.
+Každé umístění, které přidáte, se stane samostatnou stránkou profilu. Při aktualizaci stránek profilu je nezapomeňte aktualizovat pro každé umístění.
 
-Pokud chcete aktualizovat adresu umístění, musíte nejdřív **Odstranit** umístění a znovu ho přidat.
+Pokud chcete aktualizovat adresu umístění, musíte  nejprve umístění odstranit a znovu ho přidat.
 
-Pokud jste v 5 hlavních umístěních a potřebujete je změnit, nejprve **odstraňte** existující umístění a přidejte nové umístění.
+Pokud máte 5 nejlepších umístění a potřebujete ho **změnit,** nejprve odstraňte existující umístění a přidejte nové umístění.
 
 ## <a name="review-your-profile"></a>Kontrola profilu
 
-Po publikování profilu se aktualizace zobrazí v hledání [poskytovatele řešení](https://www.microsoft.com/solution-providers/home) během 24 hodin.
+Po publikování profilu se aktualizace zobrazí v [části Vyhledání poskytovatele](https://www.microsoft.com/solution-providers/home) řešení během 24 hodin.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Vylepšení viditelnosti vašeho profilu
+## <a name="improve-the-visibility-of-your-profile"></a>Zlepšení viditelnosti profilu
 
-- **[Rychlé reagování na požadavky](manage-leads.md)**. Když obdržíte odkaz na zákazníka, rychlejší reakce může vést k lepším výsledkům na stránkách hledání pro budoucí zákazníky.
+- **[Rychle reagovat na požadavky](manage-leads.md)**. Když obdržíte referenční seznam zákazníků, může rychlejší odezva vést k lepším výsledkům na vyhledávacích stránkách pro budoucí zákazníky.
 
-- **Vybírejte podle vašich značek**.  Je lepší mít méně značek, které nejlépe představují nabídky vaší společnosti, řešení, jejich umístění a jedinečné pozice, kde můžete konzistentně Ukázat úspěch.  To bude platit dividendy v budoucích výsledcích hledání.
-- Získejte **značky kompetence** prostřednictvím Microsoftu, abyste předvedli své znalosti v našich produktech.
+- **Buďte selektivně se značkami**.  Je lepší mít méně značek, které nejlépe reprezentují nabídky, řešení, nabídky hodnot a jedinečnou pozici, kde můžete konzistentně předvést úspěch.  To bude v budoucích výsledcích hledání vyplácet dividendy.
+- **Získejte prostřednictvím Microsoftu** značky kompetencí, abyste si předvedl svou odbornost v našich produktech.
 
 ## <a name="next-steps"></a>Další kroky
 
-[Reakce na odkazy](manage-leads.md)
+[Reakce na referenční odkazy](manage-leads.md)

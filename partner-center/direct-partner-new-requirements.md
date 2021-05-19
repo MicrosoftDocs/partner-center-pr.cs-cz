@@ -9,18 +9,16 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 9fd4156c25cbdbdfa86cabf9f3bb805d95481e17
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 7ceba7e72b78b5bedb89209105c3819f90cf8153
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740314"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147152"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Požadavky na registraci jako partner CSP s přímým vyúčtováním
 
-**Odpovídající role**
-
-- Globální správce
+**Odpovídající role:** Globální správce
 
 ## <a name="enroll-as-a-direct-partner"></a>Registrace jako přímý partner
 
@@ -33,7 +31,7 @@ Jako partner s přímým vyúčtováním vlastníte koncový vztah se zákazník
 |**ID MPN**   |Aktivní členství v Microsoft Partner Network a ID MPN pro umístění, ve které chcete prodávat.   |
 |**Doporučení**   |Oprávnění přijímat a podepisovat právní smlouvy jménem vaší organizace.|
 |**Podpora**   |Možnost poskytovat zákazníkům první úroveň podpory cloudových produktů. <br/>Plán podpory Microsoftu, rozšířená podpora pro partnery (ASfP) nebo Premier Support pro partnery (PSfP) v závislosti na vašich potřebách. [Porovnejte plány podpory.](https://partner.microsoft.com/support/partnersupport)<br/>DŮLEŽITÉ: Před nákupem plánu podpory musíte projít šekem k kreditu. Jakmile prohodíte kontrolu úvěru, pošleme vám e-mail. |
-|**Požadavek na výnosy**|Jako nepřímý prodejce musí Cloud Solution Provider 300 000 USD v ročních výnosech programu během předchozích 12 měsíců. Ověřte, že vaše organizace splňuje požadavek na výnosy [v Partnerské centrum Analytics.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) Partneři si 12 měsíců tržeb mohou Partnerské centrum.<br/>Prodeje, které tvoří výnosy za 300 000 USD za posledních 12 měsíců, musí microsoft zkontrolovat a ověřit a můžete být požádáni o poskytnutí dalších informací. Požadavek na výnosy ve výši 300 tisíc USD se počítá na základě výnosů z cloudu a vyloučí časově neomezené software v CSP.|
+|**Požadavek na výnosy**|Jako nepřímý prodejce musí Cloud Solution Provider 300 tisíc USD v ročních výnosech programu během předchozích 12 měsíců. Ověřte, že vaše organizace splňuje požadavek na výnosy [v Partnerské centrum Analytics.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) Partneři si 12 měsíců tržeb mohou Partnerské centrum.<br/>Prodeje, které tvoří výnosy za 300 000 USD za posledních 12 měsíců, musí microsoft zkontrolovat a ověřit a můžete být požádáni o poskytnutí dalších informací. Požadavek na výnosy ve výši 300 tisíc USD se počítá na základě výnosů z cloudu a vyloučí časově neomezené software v CSP.|
 |**Požadavek CSP**|Musí se jednat o nepřímý prodejce, který je minimálně 12 měsíců.| 
 |**Účty – pohledávky** |Podniková infrastruktura, která umožňuje správu fakturace a zřizování zákazníků.|
 |**Doporučení**|             |
@@ -57,7 +55,7 @@ Pokud se rozhodnete přejít z přímé prodejní firmy na nepřímý prodejce f
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Nový požadavek na tržby pro partnery s přímým účtováním](./announcements/2020-october.md#13)
+- [Nový požadavek na výnosy pro partnery s přímým vyúčtováním](./announcements/2020-october.md#13)
  
 - [Další informace o tom, jak se stát nepřímým prodejcem](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 

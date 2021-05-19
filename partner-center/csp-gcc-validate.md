@@ -4,49 +4,45 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Seznamte se s postupem pro přímé zákazníky (přímé prodejce, nepřímá poskytovatelé) k ověření partnerů a zákazníků pro Microsoft Office 365 pro správu pro poskytovatele služeb.
+description: Přečtěte si postup pro partnery s přímým vyúčtováním (přímá prodejci, nepřímí poskytovatelé), abyste ověřili partnery a zákazníky pro Office 365 Government GCC pro CSP.
 author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 442ba27776786bbd153360d20cb93574a3d4d4ec
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979633"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147696"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 státní RSZ pro poskytovatele CSP a kritéria nároků na zákazníky 
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC pro partnery CSP a kritéria způsobilosti pro zákazníky 
 
-**Příslušné role**
-
-- Globální správce
-- Agent správce
-- Agent prodeje
+**Odpovídající role:** Globální správce | Agent správy | Agent prodeje
 
 >[!NOTE]
->Ověřovací proces a kritéria níže jsou specifické pro přímé partnery pro vyúčtování. Partneři s přímým účtováním zahrnují přímé prodejce a nepřímá poskytovatelé.  Pokud jste nepřímý prodejce, obraťte se na svého nepřímého poskytovatele.
+>Níže uvedený proces ověřování a kritéria jsou specifická pro partnery s přímým vyúčtováním. Mezi partnery s přímým vyúčtováním patří přímo prodejci a nepřímí poskytovatelé.  Pokud jste nepřímý prodejce, obraťte se na svého nepřímého poskytovatele.
 
-Pokud vás zajímá, že máte společnost (nebo společnost zákazníka) schválenou pro aplikaci Office 365 pro vládu pro poskytovatele CSP, Projděte si níže uvedené požadavky.
+Pokud máte zájem o schválení vaší společnosti (nebo společnosti zákazníka) pro Office 365 Government GCC pro CSP, zkontrolujte požadavky níže.
 
-Pokud jste partnerem obsluhujícím federální, státní, místní nebo samosprávné státní instituce, mohli byste je schvalovat. Chcete-li ověřit, že vaše organizace mají nárok na ověření, vyplňte Stručný formulář, který se nachází [zde](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
+Pokud jste partner, který slouží americkým federálním, státním, místním nebo kmenovým státním institucím, můžete být schválen. Pokud chcete ověřit oprávněnost vaší organizace, vyplňte stručný formulář, který najdete [tady.](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)
 
-Zákazník může být schválen, pokud se jedná o organizaci, která zpracovává data řízená státní správou, nebo se jedná o federální, státní, místní nebo samosprávné státní organizaci USA. Pokud chcete, aby vaše organizace pro zákazníky byly ověřené, vyplňte Stručný formulář, který se nachází [tady](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+Pokud je zákazníkem organizace, která zpracovává data řízená vládou nebo je federální, státní, místní nebo kmenovou vládou USA, může být schválen. Pokud chcete ověřit způsobilost organizací vašich zákazníků, vyplňte stručný formulář, který najdete [tady.](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer) 
 
--   Vaše organizace musí být [zaregistrovaná](https://partnercenter.microsoft.com/partner/cloud-solution-provider) v programu Cloud Solution Provider, protože je předpokladem, že je schválená pro Office 365 pro státní správu RSZ.
--   Podrobný průvodce procesem ověřování pro Microsoft Office 365 pro vládu pro poskytovatele CSP najdete [tady](https://go.microsoft.com/fwlink/?linkid=2007323).
--   Pokud chcete získat další otázky týkající se ověření nebo obavy, obraťte se na [eskalaci RSC support](mailto:usgcce@microsoft.com) .
+-   Vaše organizace musí být [zaregistrovaná](https://partnercenter.microsoft.com/partner/cloud-solution-provider) v Cloud Solution Provider, protože je nutné, aby byla schválena pro Office 365 Government GCC pro CSP.
+-   Podrobný průvodce procesem ověřování pro Office 365 Government GCC pro CSP najdete [tady.](https://go.microsoft.com/fwlink/?linkid=2007323)
+-   Pokud máte další dotazy nebo připomínky ohledně ověření, kontaktujte eskalace podpory [RSC.](mailto:usgcce@microsoft.com)
 
-Office 365 státní RSZ pro partnery CSP a zákazníkům se ověří, že způsobil nárok na základě konkrétních kritérií pro splnění.
+Office 365 Government GCC pro partnery a zákazníky CSP se ověří pro nárok na základě splnění konkrétních kritérií uvedených níže.
 
-**Partnerská kritéria**
-1.  Poskytuje služby nebo řešení pro zákazníky z oblasti státní správy USA prostřednictvím přímých nebo nepřímých smluv.
-2.  Obsluhuje zákazníky státní správy USA prostřednictvím GSA nebo jiných dodavatelských vozidel.
+**Kritéria pro partnery**
+1.  Poskytuje služby nebo řešení zákazníkům státní správy USA prostřednictvím přímých nebo nepřímých kontraktů.
+2.  Slouží zákazníkům státní správy USA prostřednictvím GSA nebo jiných kontraktových vozidel.
 
 **Zákaznická kritéria**
-1.  Instituce státní správy USA ve své vládní kapacitě. Příklad:
+1.  Státní správa USA ve své státní kapacitě. Například:
  
-    -  Federální agentura (například kancelář, agentura, oddělení nebo jiná entita státní správy USA)
+    -  Federální agentura (např. úřad, agentura, oddělení nebo jiná entita státní správy USA)
     -   Státní/místní entita 
     -   Samosprávné – entita
     -   Regionální nebo mezistátní instituce státní správy (ale ne mezinárodní entity)

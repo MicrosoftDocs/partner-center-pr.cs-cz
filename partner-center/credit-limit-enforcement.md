@@ -2,41 +2,39 @@
 title: Vynucení limitu kreditu
 ms.topic: how-to
 ms.date: 05/11/2021
-description: Přečtěte si o limitu kreditu a o tom, jak se počítá. Zahrnuje nejčastější dotazy.
+description: Přečtěte si o kreditním limitu a o tom, jak se počítá. Obsahuje nejčastější dotazy.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf0d3c38b301c363a4a990db5258cf2a3f30d487
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109819377"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148104"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Vynucení limitu kreditu (CLE)
 
-**Odpovídající role**
+**Příslušné role**: správce fakturace
 
-- Správce fakturace
+## <a name="your-credit-limit-and-how-it-works"></a>Limit kreditu a jak to funguje
 
-## <a name="your-credit-limit-and-how-it-works"></a>Váš limit kreditu a jak funguje
+Vaše kreditní omezení je maximální částka (v amerických dolarech), kterou můžete jako partner zaplatit za nákup produktů nebo předplatných v partnerském centru. Pokud překročíte úvěrový limit, nebudete moct vytvářet nové nákupy, dokud neproběhne dostatečná platba. Stávající předplatná budou bez přerušení pokračovat.
 
-Váš limit kreditu je maximální částka (v USD), kterou jako partner můžete utratíte za nákup produktů nebo předplatných v Partnerské centrum. Pokud překročíte limit kreditu, nebude možné provádět nové nákupy, dokud nebude provedena dostatečná platba. Vaše stávající předplatná budou bez přerušení.
+Úvěrový limit se vztahuje na nabídky v plánu Azure, rezervacích Azure, softwaru, Marketplace, Azure 145 P, Office a Dynamics Products. Limity úvěru se nevztahují na obnovení a průběžnou spotřebu.
 
-Limity kreditů se vztahují na nabídky v plánech Azure, rezervacích Azure, softwaru, Marketplace, Azure 145 P, Office a produktech Dynamics. Limity kreditů se nevztahují na prodloužení a průběžné využití.
+Vaše kreditní limit přiřadíme na úrovni tenanta během období připojování. Založíme ji na vaše předpovědi pro tržby, nákup prowess a historii plateb. K výpočtu dostupného zůstatku použijeme následující vzorec:
 
-Během období onboardingu přiřadíme váš limit kreditu na úrovni tenanta. Založit ho na vašich předpovídaných výnosech, nákupech a historii plateb. K výpočtu dostupného zůstatku pak použijeme následující vzorec:
-
-**[Credit Limit – (Incoming Purchase + Outstanding Unpaid Invoices + Unbilled Charges – Overpayment)]**
+**[Limit úvěru – (příchozí nákup + nedokončené faktury + neúčtované poplatky – přeplatek)]**
 
 ## <a name="frequently-asked-questions"></a>Nejčastější dotazy
 
-### <a name="is-my-credit-limit-set-at-the-tenant-or-global-level"></a>Je limit kreditu nastavený na úrovni tenanta nebo na globální úrovni?
+### <a name="is-my-credit-limit-set-at-the-tenant-or-global-level"></a>Je můj limit kreditu nastavený na tenantovi nebo na globální úrovni?
 
-Úroveň tenanta. Předpokládejme například, že pracujete z USA, Kanady a Japonska. Pokud kanadský tenant dosáhne svého limitu kreditu, obdrží tento tenant oznámení, když se pokusí provést nákup v Partnerské centrum. Ostatní tenanty to nebude mít vliv. 
+Úroveň tenanta. Předpokládejme například, že pracujete v USA, Kanadě a Japonsku. Pokud má kanadský tenant limit úvěru, pak tento tenant obdrží oznámení o tom, že se pokusí koupit v partnerském centru. Ostatní klienti nebudou ovlivněni. 
 
 ### <a name="if-i-exceed-my-credit-limit-can-i-continue-servicing-existing-customers-and-subscriptions-with-full-access"></a>Pokud překročím svůj úvěrový limit, můžu pokračovat ve obsluhování stávajících zákazníků a předplatných s úplným přístupem?
 

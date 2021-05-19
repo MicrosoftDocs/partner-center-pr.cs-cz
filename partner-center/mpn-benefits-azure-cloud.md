@@ -4,47 +4,44 @@ ms.topic: article
 ms.date: 01/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Přečtěte si o výhodách Microsoft Partner Network (MPN) pro Azure a cloudové produkty, včetně postupu aktivace předplatných.
+description: Přečtěte si Microsoft Partner Network (MPN) pro produkty Azure a cloud, včetně toho, jak aktivovat předplatná.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f54956f71912b2b55bdbfa6be60baf92f417378
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: 1f575a79039ae78e64e28c680a8b533d575200bc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185328"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146353"
 ---
-# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Prozkoumejte oblast výhod Azure a cloudových produktů v partnerském centru
+# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Prozkoumejte oblast výhod Azure a cloudových produktů v Partnerské centrum
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Správce partnera MPN
 
-- Globální správce
-- Správce partnera MPN
-
-Tento článek popisuje konkrétní výhody Azure a cloudu, které jsou dostupné pro partnery v rámci partnerského centra. Naučíte se také, jak aktivovat určité typy předplatných Azure a cloudu.
+Tento článek popisuje konkrétní výhody Azure a cloudu dostupné partnerům v rámci Partnerské centrum. Dozvíte se také, jak aktivovat určité typy předplatných Azure a cloudových předplatných.
  
 ## <a name="overview"></a>Přehled
 
-Jako partner v Microsoft Partner Network máte přístup k mnoha technickým výhodám a výhodám uvádění na trh pro různé oblasti. Pokud jste v partnerském centru přiřadili jednu z výše uvedených rolí, můžete si prostudovat mnoho výhod přímo z řídicího panelu partnerského centra.
+Jako partner v Microsoft Partner Network můžete mít přístup k mnoha technickým výhodám a výhodám pro vstup na trh pro různé oblasti. Pokud máte přiřazenou jednu z výše uvedených rolí v Partnerské centrum, můžete mnohé z těchto výhod prozkoumat přímo z řídicího panelu Partnerské centrum.
 
 > [!NOTE]
-> Pokud chcete získat přístup k oblasti výhody partnerského centra, stačí se přihlásit do [řídicího panelu](https://partner.microsoft.com/dashboard) partnerského centra a vybrat **MPN** z nabídky vlevo v navigaci. Pak v nabídce vyberte **výhody** , za kterými následuje možnost nebo oblast, kterou chcete prozkoumat.
+> Pokud chcete získat Partnerské centrum výhod, stačí se přihlásit k řídicímu panelu Partnerské centrum [a](https://partner.microsoft.com/dashboard) v levé navigační nabídce vybrat **MPN.** Pak v **nabídce** vyberte Výhody a pak vyberte konkrétní možnost nebo oblast, kterou chcete prozkoumat.
 
-Jednou z výhod, které mohou být k dispozici pro vás, jsou **cloudové produkty Azure &**. Když v nabídce **výhody** partnerského centra vyberete **cloud Azure &** , zobrazí se stránka **cloudové produkty Azure &** .
+Jednou z výhod, které vám mohou být k dispozici, je **azure & cloudových produktů.** Když vyberete **Azure & cloud** v nabídce Partnerské centrum **Výhody,** zobrazí se stránka Azure **& cloudové** produkty.
 
-Tato stránka obsahuje následující podrobnosti:
+Tato stránka zobrazuje následující podrobnosti:
 
-- K dispozici jsou různé výhody cloudového předplatného Azure &, ať už se jedná o licenční předplatné nebo odběry na základě využití.
-- Přidělené množství licencí pro každý produkt
-- Typ nabídky, na kterou se zřídil určitý produkt výhody
-- Typ výhody (ať už pochází ze základní nebo přírůstkové)
-- Datum, kdy vyprší platnost konkrétní výhody
+- Různé výhody & předplatného cloudového produktu Azure, ať už jsou to předplatná založená na licencích nebo předplatná založená na využití
+- Množství licencí přiřazené každému produktu
+- Typ nabídky, který pro vás zř nabízí konkrétní produkt výhody
+- Typ výhody (bez ohledu na to, jestli pochází z jádra nebo přírůstkové)
+- Datum vypršení platnosti konkrétní výhody
 
 :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="Stránka Azure a cloudové produkty se seznamem výhod předplatného, které máte k dispozici." border="false":::
 
-## <a name="usage-based-vs-license-based-subscriptions"></a>Předplatná založená na používání a na základě licencí
+## <a name="usage-based-vs-license-based-subscriptions"></a>Využití vs. předplatná založená na licencích
 
 Stránka **cloudové produkty Azure &** obsahuje seznam dvou typů výhod předplatného, které jste zřídili:
 - Předplatná založená na využití (Microsoft Azure kredit) 
@@ -96,30 +93,30 @@ Aktivace předplatného založeného na licencích:
 
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
       
-   - Pokud chcete koncové datum zvětšit nebo přidat další křesla nebo licence do existující kopie předplatného a vložit odkaz níže v **soukromém nebo anonymním okně prohlížeče** , postupujte podle pokynů:
+   - Pokud chcete prodloužit koncové datum nebo přidat další licence nebo licence ke stávající kopii **předplatného,** vložte následující odkaz do privátního nebo anonymního okna prohlížeče a postupujte podle pokynů:
  
       [https://admin.microsoft.com/AdminPortal/Home#/subscriptions](https://admin.microsoft.com/AdminPortal/Home#/subscriptions)
 
 > [!Note]
-> Po uplatnění klíče se tentýž klíč nedá znovu vyvažovat za druhý. Pamatujte také na následující důležité body:
+> Po uplatnění klíče není možné stejný klíč uplatnit podruhé. Všimněte si také následujících důležitých bodů:
 >
-> - Ověřte, zda je nutné přidat další licence (křesla), kolik a zda má být datum ukončení prodlouženo. Pokud se rozhodnete přidat další licence (křesly) a **nenastavíte** koncové datum, systém vám poskytne za méně než 12 měsíců aktivní předplatné. 
+> - Ověřte, jestli potřebujete přidat další licence (licence), kolik licencí a jestli chcete koncové datum prodloužit. Pokud se rozhodnete přidat další licence (licence) a nevydloužíte koncové datum, systém vám poskytne aktivní předplatné kratší než 12 měsíců.  
 >
-> - Ujistěte se, že jste přihlášeni pomocí správných přihlašovacích údajů a že aktivujete klíče v rámci správného klienta Azure Active Directory (AAD). Vždy se přihlaste pomocí privátního a anonymnímho okna prohlížeče, abyste se ujistili, že aktivujete klíče ve správném tenantovi.
+> - Ujistěte se, že jste přihlášeni pomocí správných přihlašovacích údajů a že aktivujete klíče ve správném tenantovi Azure Active Directory (AAD). Vždy se přihlaste pomocí privátního nebo anonymního okna prohlížeče, abyste měli zajištěné aktivaci klíčů ve správném tenantovi.
 >
-> - Datum vypršení platnosti výhody zobrazené v partnerském centru společnosti Microsoft označuje poslední datum, kdy se má tato výhoda uplatňovat práva na používání. Toto datum se může lišit od koncového data předplatného, které je uvedené na portálu centra pro správu M365. To může být způsobeno několika faktory, jako je například datum aktivace výhody, počet licencí přidružených k klíči a licence přidané nebo rozšířené na portálu pro správu.
+> - Datum vypršení platnosti výhody uvedené v microsoft Partnerské centrum označuje poslední datum pro uplatnění práv na používání této výhody. Toto datum se může lišit od koncového data předplatného uvedeného na portálu Centra pro správu M365. Může to být způsobeno několika faktory, například datem aktivace výhody, počtem licencí přidružených ke klíči a licencemi přidaných nebo rozšířenými na portálu pro správu.
 
-## <a name="extend-the-end-date-or-add-more-licenses-to-an-existing-subscription"></a>Prodloužení koncového data nebo přidání dalších licencí do stávajícího předplatného
+## <a name="extend-the-end-date-or-add-more-licenses-to-an-existing-subscription"></a>Prodloužení koncového data nebo přidání dalších licencí do existujícího předplatného
 
-Pomocí těchto kroků můžete přidat další licence nebo zvětšit koncové datum existujícího předplatného:
+Pokud chcete přidat další licence nebo prodloužit koncové datum stávajícího předplatného, postupujte následovně:
 
-1. Zkopírujte a vložte odkaz níže do **soukromého okna nebo do okna prohlížeče anonymním**.
+1. Zkopírujte následující odkaz a vložte ho do privátního nebo **anonymního okna prohlížeče**.
 
    [https://admin.microsoft.com/AdminPortal/Home#/subscriptions](https://admin.microsoft.com/AdminPortal/Home#/subscriptions)
 
-1. Když se přihlašujete na **portál centra pro správu M365**, ujistěte se, že se přihlašujete pomocí správného Azure Active Directory tenanta. Pak vyberte konkrétní cloudové předplatné ze seznamu a proveďte jednu z následujících akcí (pro obnovení předplatného nebo přidání dalších licencí):
+1. Při přihlašování k portálu **Centra pro správu M365** se ujistěte, že se přihlašujete pomocí správného Azure Active Directory tenanta. Pak ze seznamu vyberte konkrétní cloudové předplatné a proveďte jednu z následujících akcí (pokud chcete předplatné obnovit nebo přidat další licence):
 
-   - Pokud chcete obnovit stávající předplatné, vyberte v oblasti licence možnost **prodloužit datum ukončení** . Rozšíření koncového data prodlouží dobu trvání předplatného a současně zachovává počet licencí/sedadel. 
+   - Pokud chcete prodloužit platnost stávajícího předplatného, vyberte **možnost Prodloužit** koncové datum v oblasti Licence. Prodloužením koncového data se prodloučí doba trvání předplatného a počet licencí bude stejný. 
 
    - Pokud chcete do stávajícího předplatného přidat další licence, vyberte v oblasti licence možnost **Přidat licence** . Pokud chcete obnovit stávající předplatné, ujistěte se, že nevyberete možnost **Přidat licence** . Výběr možnosti **Přidat licence** omezí dobu trvání předplatného a zvýší počet licencí v rámci předplatného.
 
@@ -149,36 +146,36 @@ Pokud poprvé aktivujete předplatné, postupujte podle těchto kroků. Tento po
 
 1. Zadejte 25místný klíč získaný z partnerského centra a pak vyberte **Další**.
 
-2. Ověřte zobrazené podrobnosti o produktu, počet licencí a dobu trvání předplatného. Až budete připraveni, aktivujte předplatné kliknutím na **uplatnit** .
+2. Ověřte zobrazené podrobnosti o produktu, počet licencí a dobu trvání předplatného. Až budete připraveni, vyberte **Uplatnit a** aktivujte předplatné.
 
-   Nově aktivované předplatné bude k dispozici na kartě **produkty** v centru pro správu M365.
+   Nově aktivované předplatné bude k dispozici na **kartě Vaše produkty** v Centru pro správu M365.
 
 ## <a name="licensing-scenarios"></a>Scénáře licencování
 
-Tato část popisuje několik ukázkových scénářů licencování pro předplatné spojené s Azure a Cloud Products. V těchto scénářích se dozvíte, jak se počítají koncová data předplatného.
+Tato část popisuje několik ukázkových scénářů licencování pro předplatná přidružená k Azure a cloudovým produktům. V těchto scénářích se dozvíte, jak se počítají data ukončení předplatného.
 
 ### <a name="scenario-1"></a>Scénář 1
 
-Pokud máte v rámci předplatného aktivní licence 100 a pokoušíte se prodloužit koncové datum pomocí klíče s 25 licencemi, bude koncové datum prodlouženo o tři (3) měsíce pro předplatné s licencemi 100.
+Pokud máte v předplatném aktivních 100 licencí a pokoušíte se prodloužit koncové datum pomocí klíče s 25 licencemi, koncové datum předplatného se 100 licencemi prodlouží o tři (3) měsíce.
 
 ### <a name="scenario-2"></a>Scénář 2
 
-Pokud máte v rámci předplatného aktivní licence 100 a pokoušíte se prodloužit koncové datum pomocí klíče s licencemi 100, bude koncové datum prodlouženo o 12 měsíců.
+Pokud máte v předplatném 100 aktivních licencí a pokoušíte se prodloužit koncové datum pomocí klíče se 100 licencemi, koncové datum se prodlouží o 12 měsíců.
 
 ### <a name="scenario-3"></a>Scénář 3
 
-Pokud máte v rámci předplatného aktivní pět (5) licencí a snažíte se prodloužit koncové datum pomocí klíče s 10 licencemi, bude koncové datum prodlouženo o 24 měsíců pro předplatné s pěti (5) licencemi (nebo křesly).
+Pokud máte v předplatném aktivních pět (5) licencí a pokoušíte se prodloužit koncové datum pomocí klíče s 10 licencemi, koncové datum pro předplatné s pěti (5) licencemi (licencemi) se o 24 měsíců prodlouží.
 
 ### <a name="scenario-4"></a>Scénář 4
 
-Pokud se pokoušíte zvětšit koncové datum pomocí klíče s více než 3x aktivními licencemi nebo místy, zobrazí se následující chybová zpráva. Tato zpráva je podle návrhu, protože koncové datum předplatného může být prodlouženo o maximálně 3 roky.
+Pokud se pokoušíte prodloužit koncové datum pomocí klíče s více než 3x aktivními licencemi nebo licencemi, zobrazí se následující chybová zpráva. Tato zpráva je z návrhu, protože koncové datum odběru je možné prodloužit maximálně o 3 roky.
 
-:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Chybová zpráva o produktech Azure a cloudu." border="false":::
+:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Chybová zpráva k Azure a cloudovým produktům" border="false":::
 
 ## <a name="next-steps"></a>Další kroky
 
-- Další informace o [migraci z Office 365 E3 na Microsoft 365 Business Premium](/microsoft-365/business/migrate-from-e3)
+- Informace o [migraci z Office 365 E3 na Microsoft 365 Business Premium](/microsoft-365/business/migrate-from-e3)
    
-- Přečtěte si další informace o [Microsoft 365 Business Voice](/microsoftteams/business-voice/whats-business-voice)
+- Přečtěte si další informace [o Microsoft 365 Business Voice.](/microsoftteams/business-voice/whats-business-voice)
   
-- Další informace o [dostupnosti země a oblasti pro obchodní telefony](/microsoftteams/business-voice/country-region-availability)
+- Informace o [dostupnosti země a oblasti pro Business Voice](/microsoftteams/business-voice/country-region-availability)

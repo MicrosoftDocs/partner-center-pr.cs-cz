@@ -1,50 +1,46 @@
 ---
-title: Správa podnětů pro spolupracovní deklarace
+title: Správa žádostí o pobídky spolupráce
 ms.topic: how-to
 ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Naučte se iniciovat podněty pro souběžné operace z partnerského centra. Můžete zobrazit všechny aktivity, které se docházejí do sestavení vaší deklarace v historii.
+description: Zjistěte, jak iniciovat žádosti o pobídky spolupráce od Partnerské centrum. Všechny aktivity, které se chytou do sestavování vaší deklarace identity, můžete zobrazit v historii.
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9780aa80fdcaab6cfd240127b80155cbfb8dcd26
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 185d1593808bc417fa15646955a0cce683242570
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502914"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148155"
 ---
-# <a name="create-and-manage-an-incentives-co-op-claim"></a>Vytvoření a Správa deklarace identity spolupracovních pobídek
+# <a name="create-and-manage-an-incentives-co-op-claim"></a>Vytvoření a správa žádosti o pobídky spolupráce
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Správce pobídek | Uživatel pobídek
 
-- Globální správce
-- Motivace správce
-- Motivace uživatelů
-
-V rámci partnerského centra můžete iniciovat deklaraci identity.
+Žádost o pobídky můžete iniciovat v rámci Partnerské centrum.
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. Vyberte kartu **pobídky** a potom vyberte možnost **Správa souběžných**.
+2. Vyberte kartu **Incentives** a pak vyberte **Správa spolupráce.**
 
-3. Pokud už máte deklaraci identity v procesu, na stránce Přehled deklarací identity se zobrazí informace o stavu existujících deklarací identity a schválených, deklarovaných a celkových finančních prostředků.
+3. Pokud už máte žádost v procesu, na stránce přehledu žádostí se zobrazí informace o stavu stávajících žádostí a schválených, nárokovaných a celkových náccích.
 
-4. Pokud chcete vytvořit novou deklaraci identity, vyberte **vytvořit deklaraci identity**.
+4. Pokud chcete vytvořit novou deklaraci identity, **vyberte Vytvořit deklaraci identity.**
 
-5. Když jste vyplnili počáteční formulář a vybrali možnost **vytvořit deklaraci identity**, přejdete na stránku s podrobnostmi o deklaraci, na kterou budete moct přidávat faktury, dokumenty CSR, dokumenty ověření a metriky. V případě potřeby můžete přidat také další informace.
+5. Po vyplňování počátečního formuláře a výběru create **claim**(Vytvořit žádost) se zobrazí stránka s podrobnostmi o žádosti, kde budete moct přidávat faktury, žádosti o služby csr, dokumenty s doklady a metriky. V případě potřeby můžete přidat také další informace.
 
 Na stránce Podrobnosti o žádosti můžete požádat ostatní uživatele ve vaší organizaci o nahrání dokumentace do formuláře. Ke každému nahranému doprovodnému dokumentu můžete zadat podrobné vysvětlivky. 
 
 ### <a name="manage-your-claims"></a>Správa deklarací identity
 
-Můžete zobrazit všechny aktivity, které se docházejí do sestavení vaší deklarace v **historii**. Pokaždé, když kolega přidá do nějakého podpůrného dokumentu nebo komentářů, bude akce uložená v **historii**. Dokud neodešlete deklaraci identity, stav se **upraví**. Stav vaší deklarace se během procesu schvalování mění. V průběhu kontroly deklarace identity se někdy může zobrazit zpětná vazba ke konkrétní položce v dokumentaci k ověření spuštění (PoE). Zpětná vazba a žádosti o další informace se zobrazí také v historii deklarací identity.
+Všechny aktivity, které se chytou do sestavování vaší deklarace identity, můžete zobrazit **v** historii . Pokaždé, když kolega k něčemu přidá podpůrný dokument nebo komentáře, akce se uloží do **historie**. Dokud žádost nezadáte, stav **bude** upravovat . Stav vaší žádosti se mění v průběhu procesu schválení. Někdy můžete během kontroly žádosti obdržet zpětnou vazbu ke konkrétní položce v dokumentaci k důkazu o provedení. Zpětná vazba a žádosti o další informace se zobrazí také v historii deklarací identity.
 
-Po odeslání deklarace identity nemůžete upravit, Pokud recenzent nepožaduje Další informace.
+Pokud revidující nepožádá o další informace, nemůžete žádost po odeslání upravit.
 
-Další informace najdete v tématu věnovaném [partnerům motivovat Guidebook](https://assetsprod.microsoft.com/co-op-guidebook.pdf).
+Další informace najdete v příručce [Partner Incentives Co-op Guidebook](https://assetsprod.microsoft.com/co-op-guidebook.pdf).
 
 ## <a name="next-steps"></a>Další kroky
 

@@ -8,21 +8,16 @@ description: Prodej předplatných Minecraftu vzdělávání Edition kvalifikova
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 06cb4d1d23d20a0d5f6f7031608a5369fdc1b89d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133008"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146387"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Prodej Minecraftu: předplatná pro vzdělávací edice pro zákazníky v oblasti vzdělávání
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
-- Agent prodeje
-- Agent správce
+**Příslušné role**: globální správce | Správce správy uživatelů | Prodejní agent | Agent správce
 
 Partneři, kteří pracují s vzdělávacími institucemi, můžou nabídnout Minecraftu: předplatná pro **vzdělávací edice** . Předplatné si koupíte jménem zákazníka v partnerském centru a potom zákazník stáhne software z [Microsoft Store pro vzdělávání](https://educationstore.microsoft.com). 
 

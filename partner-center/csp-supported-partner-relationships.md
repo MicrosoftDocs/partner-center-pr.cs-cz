@@ -1,43 +1,40 @@
 ---
-title: Podporované vztahy mezi partnery CSP
+title: Podporované vztahy partnerů CSP
 ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si o různých partnerských vztazích a podporovaných scénářích transakcí pro partnery v programu CSP.
+description: Seznamte se s různými partnerskými vztahy a podporovanými scénáři transakcí pro partnery v programu CSP.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbba669cbccf96fe9addc6d4b7c7ac4b86c15ddf
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b70f8f152bc3711e5a715b6a4f0316f8aaa9b903
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92527014"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147509"
 ---
-# <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Zjistěte, jak můžou partneři spolupracovat s ostatními partnery v programu CSP.
+# <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Zjistěte, jak mohou partneři spolupracovat s ostatními partnery v programu CSP.
 
-**Platí pro**
+**Odpovídající role:** Všichni partneři, kteří se zajímají o další informace o CSP
 
-- Partnerské centrum
-- Partneři v programu CSP
+Tento článek popisuje klíčové typy partnerských vztahů v Microsoft Cloud Solution Provider (CSP). Popisuje také různé případy použití, výhody a podporované scénáře transakcí pro programové partnery CSP.
 
-Tento článek popisuje klíčové typy vztahů mezi partnery v programu Microsoft Cloudho poskytovatele řešení (CSP). Popisuje také různé případy použití, výhody a podporované scénáře transakcí pro partnery programu CSP.
+Díky tomu, že jste partnerem programu CSP, můžete přejít nad rámec znovusoudlení licencí, abyste se mohli více zapojit do podnikání vašich zákazníků. Program CSP zasauje partnery do středu vztahu se zákazníkem. To vede k hlubšímu zapojení vašich zákazníků, pohledu zevnitř na podnikání zákazníka a možnosti odhalit nové prodejní příležitosti. Může vám dokonce pomoct zrychlit digitální transformaci zákazníka.
 
-Partner v programu CSP vám umožňuje přejít dál nad rámec nabízených licencí, abyste se mohli lépe zadílet na podnikových zákaznících. Program CSP umístí partnery do středu vztahu se zákazníkem. To vede k hlubšímu zapojení zákazníků, obchodu zasvěcených zákazníků a možnosti objasnit nové prodejní příležitosti. Může vám dokonce i urychlit digitální transformaci vašeho zákazníka.
-
-Partner programu CSP také znamená, že můžete využívat další streamy ziskovosti. Můžete tak učinit integrací nabídek Microsoft (First stran) a nabídek třetích stran s vašimi vlastními službami přidanými hodnotami. Tím se rozbalí vaše obchodní portfolio a lepší pozice pro splnění rostoucích zákaznických požadavků.
+To, že jste programový partner CSP, také znamená, že můžete využívat další datové proudy ziskovosti. Můžete to provést integrací nabídek Microsoftu (nabídek třetích stran) a nabídek třetích stran s vašimi vlastními službami s přidanou hodnotou. Tím se rozšíří vaše obchodní portfolio a zlepší se pozice, abyste splňovali rostoucí požadavky zákazníků.
 
 ## <a name="types-of-partner-relationships-in-the-csp-program"></a>Typy partnerských vztahů v programu CSP
 
-Jako partner v programu CSP se můžete rozhodnout, jak budete chtít spolupracovat s Microsoftem a s ostatními. Program CSP v současné době podporuje tři hlavní typy transakčních vztahů:
+Jako partner v programu CSP se můžete rozhodnout, jak chcete komunikovat s Microsoftem a ostatními. Program CSP v současné době podporuje tři hlavní typy transakčních vztahů:
 
-- Nepřímá zprostředkovatelé
+- Nepřímí poskytovatelé
 - Nepřímí prodejci
-- Partneři s přímým účtováním
+- Partneři s přímým vyúčtováním
 
-**Nepřímá poskytovatelé** (označované také jako distributoři) kupují nabídky první strany a nabídky třetích stran z webu Microsoft Marketplace. Jako nepřímý poskytovatel můžete tyto nabídky koupit a integrovat do svého vlastního, stávajícího obchodu nebo webu Marketplace. To pak umožňuje vašim nepřímým prodejcům obstarat si takové nabídky a znovu je prodávat svým zákazníkům. Nepřímý poskytovatel znamená, že máte infrastrukturu a možnosti pro podporu nepřímých prodejců ve velkém měřítku. Také to znamená, že zákazníkům můžete poskytnout další služby jménem svých nepřímých prodejců, jako je například zákaznická podpora a fakturace. Další informace o tom, jak se nepřímá poskytovatelé připojují k nepřímým prodejcům, najdete [v tématu partner s nepřímými prodejci v programu CSP](indirect-provider-tasks-in-partner-center.md).
+**Nepřímí** poskytovatelé (označované také jako distributori) kupují nabídky třetích stran a nabídky třetích stran z webu Microsoft Marketplace. Jako nepřímý poskytovatel můžete tyto nabídky zakoupit a integrovat do svého vlastního stávajícího obchodu nebo marketplace. To pak umožňuje vašim nepřímým prodejcům obstarat si takové nabídky a znovu je prodávat svým zákazníkům. Nepřímý poskytovatel znamená, že máte infrastrukturu a možnosti pro podporu nepřímých prodejců ve velkém měřítku. Také to znamená, že zákazníkům můžete poskytnout další služby jménem svých nepřímých prodejců, jako je například zákaznická podpora a fakturace. Další informace o tom, jak se nepřímá poskytovatelé připojují k nepřímým prodejcům, najdete [v tématu partner s nepřímými prodejci v programu CSP](indirect-provider-tasks-in-partner-center.md).
 
 **Nepřímým prodejcům** jsou partneři v programu CSP, který se liší podle velikosti a obchodního rozsahu, ale kteří nemají přímý fakturační vztah s Microsoftem. Jako nepřímý prodejce závisí na nepřímých zprostředkovatelích na transakční program v programu CSP. Někteří nepřímí prodejci můžou pro zákazníky nabízet i řešení spravovaných služeb, podpory a fakturace. Z vašeho partnerství s nepřímými poskytovateli můžete získat několik výhod. Když pracujete se zkušenostmi s poskytovateli technologických technologií, můžete přejít na trh, aniž byste museli provádět velké kapitálové investice. Jako nepřímý prodejce můžete také získat přístup k širšímu portfoliu řešení Microsoftu a třetích stran. Další informace o tom, jak se stát nepřímým prodejcem, najdete [v tématu nepřímé úkoly prodejců v partnerském centru](indirect-reseller-tasks-in-partner-center.md).
 
@@ -45,80 +42,80 @@ Jako partner v programu CSP se můžete rozhodnout, jak budete chtít spolupraco
 
 ## <a name="csp-program-requirements-signing-the-microsoft-partner-agreement-mpa"></a>Požadavky programu CSP: podepisování smlouvy o partnerovi Microsoftu (MPA)
 
-V rámci neustálého vylepšení programu poskytovatele Cloud Solution Provider jsme aktualizovali stávající smlouvy pro partnery, kteří se chtějí připojit k programu CSP.
+V rámci průběžného Cloud Solution Provider jsme aktualizovali stávající smlouvy pro partnery, kteří se chtějí do programu CSP zapojit.
 
-**Smlouva Microsoft Partner Agreement (MPa)** poskytuje partnerům zjednodušenou, digitální smlouvu, která podporuje nové obchodní scénáře, omezenou potřebu více kontraktů na partnery a snazší dodržování globálních právních požadavků.
+Program **Smlouva s partnerem Microsoftu (MPA)** poskytuje partnerům zjednodušenou digitální smlouvu, která podporuje nové obchodní scénáře, menší potřebu více partnerských smluv a usnadňuje dodržování globálních právních požadavků.
 
 >[!IMPORTANT]
-> Od 1. února 2020 musí být Partnerská smlouva Microsoftu podepsaná všemi partnery, kteří v programu CSP nahlásili. Mezi ně patří nepřímá poskytovatelé, partneři s přímým účtováním a nepřímé prodejce.
+> Od 1. února 2020 musí Smlouva s partnerem Microsoftu podepisovat všichni partneři, kteří v programu CSP provádí transakce. Patří sem nepřímí poskytovatelé, partneři s přímým vyúčtováním a nepřímí prodejci.
 
-Nepřímý prodejce musí podepsat aktivaci před tím, než se prodejce může zúčastnit následujících aktivit:
+Nepřímý prodejce musí smlouvu MPA podepsat, aby se mohl zúčastnit následujících aktivit:
 
-- Než nepřímý poskytovatel může přidružit MPN ID nepřímých prodejců k novému předplatnému CSP
-- Předtím, než nepřímý zprostředkovatel může v rámci tohoto prodejce vycházet z nového podnikání
+- Předtím, než může nepřímý poskytovatel přidružit ID MPN nepřímého prodejce k novému předplatnému CSP
+- Než nepřímý poskytovatel může s tímto prodejcem provést novou obchodní transakci
 
-Před vyřešením nových obchodních operací v programu Cloud Solution Provider musí nepřímo prodejci dělat tři věci:
+Ve skutečnosti musí nepřímí prodejci udělat tři věci, než budou moci v tomto programu Cloud Solution Provider transakce:
 
-- Zařazení do partnerského centra
-- Zaregistrovat jako nepřímý prodejce
-- Podepsat smlouvu o partnerovi Microsoftu (MPA)
+- Onboard into Partnerské centrum
+- Registrace jako nepřímý prodejce
+- Podepsání Smlouva s partnerem Microsoftu (MPA)
 
-Další informace najdete v tématu [Smlouva o partnerovi Microsoftu pro partnery CSP](microsoft-partner-agreement.md).
+Další informace najdete v tématu [Smlouva s partnerem Microsoftu (MPA) pro partnery CSP.](microsoft-partner-agreement.md)
 
 ## <a name="supported-partner-transactions-in-the-csp-program"></a>Podporované partnerské transakce v programu CSP
 
-Partneři v programu CSP mají k dispozici mnoho příležitostí k vzájemné spolupráci. Následující část popisuje, jak několik ukázkových partnerských scénářů může nebo nemusí být v programu CSP podporováno.
+Partnerům v programu CSP se nabízí mnoho příležitostí ke spolupráci. Následující část popisuje, jak se v programu CSP může nebo nemusí podporovat několik ukázkových partnerských scénářů.
 
-**Vzorový scénář 1:** Co když partner chce prodávat zákazníkovi, vlastnit kompletní vztah a zodpovídá za fakturaci a zákaznickou podporu?
+**Ukázkový scénář 1:** Co když chce partner prodávat zákazníkovi, vlastní koncový vztah a zodpovídá za fakturaci a zákaznickou podporu?
 
-Tento scénář je podporován dvěma typy transakčních vztahů:
+Tento scénář podporují dva typy transakčních vztahů:
 
-- **Vztah 1:** Společnost Microsoft se prodává přímo k partnerovi s přímým účtováním. Partner s přímým účtováním pak prodává koncovému zákazníkovi.<br>
-- **Vztah 2:** Společnost Microsoft se prodává do nepřímého poskytovatele. Nepřímý poskytovatel se pak prodává přímo prodejci. Nepřímý prodejce pak prodává koncovému zákazníkovi.</br>
+- **Vztah 1:** Microsoft se prodává partnerovi s přímým vyúčtováním. Partner s přímým vyúčtováním se pak prodá koncovému zákazníkovi.<br>
+- **Vztah 2:** Microsoft prodává nepřímému poskytovateli. Nepřímý poskytovatel se pak prodá nepřímému prodejci. Nepřímý prodejce pak prodá koncovému zákazníkovi.</br>
 
-**Vzorový scénář 2:** Co když má partner zákazníka, který potřebuje konkrétní službu nebo řešení, které nabízí jiný partner programu CSP?
+**Ukázkový scénář 2:** Co když má partner zákazníka, který potřebuje konkrétní službu nebo řešení nabízené jiným partnerem programu CSP?
 
-Koncový zákazník si může koupit různé služby od různých partnerů na základě obchodních potřeb zákazníka. Další informace najdete v tématu [Podpora více partnerů](multipartner.md).
+Koncový zákazník může na základě obchodních potřeb zákazníka nakupovat různé služby od různých partnerů. Další informace najdete v tématu [Podpora více partnerů.](multipartner.md)
 
-**Ukázkový scénář 3:** Co když je partner kontaktován zákazníkem, který si ho chce zařadit do správy a podpory jejich předplatných?
+**Ukázkový scénář 3:** Co když je partner kontaktovaný zákazníkem, který ho chce najmout pro správu a podporu svých předplatných?
 
-Zákazník může zapojit více partnerů, aby mohli spravovat své odběry. Další informace najdete v tématu [Podpora mult-Channel](multichannel.md).
+Zákazník může ke správě svých předplatných zapojit více partnerů. Další informace najdete v tématu [Podpora více kanálů.](multichannel.md)
 
-**Ukázkový scénář 4:** Co když partner v programu CSP (nepřímý poskytovatel, nepřímý prodejce nebo partner s přímým účtováním) chce koupit nabídky Microsoftu nebo třetích stran pro vlastní použití (jako koncový zákazník)? Může partner koupit takové nabídky od jiného partnera programu CSP?
+**Ukázkový scénář 4:** Co když si partner v programu CSP (nepřímý poskytovatel, nepřímý prodejce nebo partner s přímým vyúčtováním) chce koupit nabídky Microsoftu nebo třetích stran pro vlastní použití (jako koncový zákazník)? Může partner tyto nabídky koupit od jiného partnera programu CSP?
 
-Partner si může koupit jako zákazníka z nepřímého prodejce nebo z přímého partnera s fakturací. K tomu ale musí používat jiného tenanta než ten, který se používá pro CSP.
+Partner může koupit jako zákazník buď od nepřímého prodejce, nebo od partnera s přímým vyúčtováním. K tomu ale musí použít jiného tenanta než ten, který se používá pro CSP.
 
-V takovém případě je nutné služby zakoupené partnerem zřídit klientovi, který je označený jako typ zákazníka (jenom tenant jenom pro interní použití). Tyto služby **nelze** zřídit pro stávajícího tenanta CSP daného partnera (tenant používaný partnerem v programu Cloud Solution Provider).</br>
+V takovém případě je potřeba služby zakoupené partnerem zřídit pro tenanta určeného jako typ zákazník (tenant pouze pro interní použití). Tyto služby **není** možné zřídit pro tenanta CSP stávajícího partnera (tenanta používaného partnerem v Cloud Solution Provider programu).</br>
 
-**Vzorový scénář 5:** Co když partner v programu CSP chce prodávat jako koncový zákazník?
+**Ukázkový scénář 5:** Co když se partner v programu CSP chce prodávat sám sobě jako koncový zákazník?
 
-Podle smlouvy nejsou partneři v programu CSP oprávněni prodávat společnosti Microsoft ani nabídky třetích stran sami sebe (jako koncové zákazníky) nebo jejich organizacím organizace (jako koncových zákazníků).
+Partneři v programu CSP nemají podle smlouvy dovoleno prodávat nabídky Microsoftu nebo třetích stran sobě (jako koncovým zákazníkům) ani svým přidruženým organizacím (jako koncoví zákazníci).
 
-**Ukázkový scénář 6:** Co když chce nepřímý prodejce koupit jako koncového zákazníka?
+**Ukázkový scénář 6:** Co když nepřímý prodejce chce koupit jako koncový zákazník?
 
-Někteří nepřímí prodejci můžou chtít koupit licence pro vlastní použití od nepřímého poskytovatele v programu CSP. V tomto scénáři již organizace nepřímých prodejců vytvořila vztah nepřímých prodejců nepřímých poskytovatelů. Tím zabráníte partnerovi v navázání nového typu vztahu jako koncový zákazník se stejným nepřímým zprostředkovatelem.
+Někteří nepřímí prodejci si mohou chtít koupit licence pro vlastní použití od nepřímého poskytovatele v programu CSP. V tomto scénáři může organizace nepřímého prodejce již navázat vztah nepřímého prodejce s nepřímým poskytovatelem. Tím zabráníte partnerovi v navázání jakéhokoli nového typu vztahu jako koncový zákazník se stejným nepřímým poskytovatelem.
 
 V takovém případě může nepřímý prodejce použít jednu z následujících možností:
 
-- **Možnost 1:** Partneři můžou nastavit jiného tenanta Azure AD, který je samostatným prostředím pro své zákazníky.
+- **Možnost 1:** Partneři mohou nastavit dalšího tenanta Azure AD, který je samostatné prostředí pro své zákazníky.
 
-- **Možnost 2:** Nepřímý prodejce může ukončit relaci s jedním nepřímým zprostředkovatelem a vytvořit nový vztah CSP s jiným nepřímým zprostředkovatelem. Díky tomu by nepřímý prodejce mohl koupit předplatná pro vlastní potřebu své společnosti z jiného partnera s přímým přístupem CSP.
+- **Možnost 2:** Nepřímý prodejce může ukončit vztah s jedním nepřímým poskytovatelem a vytvořit nový vztah CSP s jiným nepřímým poskytovatelem. To umožňuje nepřímému prodejci nakupovat předplatná pro vlastní použití společnosti od jiného partnera CSP s přímým vyúčtováním.
 
    >[!NOTE]
-   >Chcete-li ukončit relaci mezi nepřímým poskytovatelem a nepřímým prodejcem, obraťte se na [Podpora Microsoftu](support-from-microsoft.md).
+   >Pokud chcete ukončit vztah mezi nepřímým poskytovatelem a nepřímým prodejcem, kontaktujte [Podpora Microsoftu](support-from-microsoft.md).
 
-- **Možnost 3:** Prodejce může zachovat svůj vztah zákazníka se stávajícím nepřímým poskytovatelem a vytvořit další nepřímý vztah prodejce s jiným nepřímým zprostředkovatelem.
+- **Možnost 3:** Prodejce může zachovat vztah zákazníka se stávajícím nepřímým poskytovatelem a navázat další vztah nepřímého prodejce s jiným nepřímým poskytovatelem.
 
-**Vzorový scénář 7:** Co když nepřímý prodejce chce prodávat zákazníkovi, který je v jiné oblasti?
+**Ukázkový scénář 7:** Co když nepřímý prodejce chce prodávat zákazníkovi, který je v jiné oblasti?
 
-Partner v programu CSP může prodávat jenom zákazníkům ze stejné oblasti. Další informace najdete v tématu [místní trhy a měny programu Cloud Solution Provider](regional-authorization-overview.md).
+Partner v programu CSP může prodávat pouze zákazníkům ze stejné oblasti. Další informace najdete v tématu Cloud Solution Provider regionální trhy a [měny.](regional-authorization-overview.md)
 
-**Ukázkový scénář 8:** Co když chce nepřímý poskytovatel vytvořit relaci s nepřímým prodejcem v jiné oblasti?
+**Ukázkový scénář 8:** Co když nepřímý poskytovatel chce navázat vztah s nepřímým prodejcem v jiné oblasti?
 
-Partner může vytvořit jenom relaci s partnerem ze stejné oblasti.
+Partner může navázat vztah pouze s partnerem ze stejné oblasti.
 
 ## <a name="next-steps"></a>Další kroky
 
 - [Partner s nepřímými prodejci v programu CSP](indirect-provider-tasks-in-partner-center.md)
-- [Nepřímý úkol prodejců v partnerském centru](indirect-reseller-tasks-in-partner-center.md)
-- [Zaregistrovat jako přímý fakturační partner](enrolling-in-the-csp-program.md#enroll-as-a-direct-bill-partner)
+- [Úlohy nepřímého prodejce v Partnerské centrum](indirect-reseller-tasks-in-partner-center.md)
+- [Registrace jako partner s přímým vyúčtováním](enrolling-in-the-csp-program.md#enroll-as-a-direct-bill-partner)

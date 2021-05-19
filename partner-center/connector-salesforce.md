@@ -8,19 +8,16 @@ description: Synchronizujte své odkazy v partnerském centru se službou Salesf
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fa9b35343e1251cfce5caff107de8dff344f4e68
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284379"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148410"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Konektor pro společný prodej pro Salesforce CRM – přehled
 
-**Příslušné role**
-
-- Správce odkazů
-- Správce systému nebo úpravce systému v CRM
+**Příslušné role**: Správce odkazů | Správce systému nebo úpravce systému v CRM
 
 Konektor pro spoluprodej v partnerském centru umožňuje prodejcům v rámci svých systémů CRM spolupracovat s Microsoftem. Nebudou se muset vyškolet k používání partnerského centra ke správě obchodů v rámci společného prodeje. Pomocí konektorů pro spoluprodeji můžete vytvořit nový společný prodejní odkaz, který bude kontaktovat prodejce Microsoftu, získat referenční údaje od prodejce Microsoftu, přijmout nebo odmítnout reference, upravit data o koupi, jako je třeba hodnota koupě a datum ukončení.  K těmto obchodům v rámci těchto spoluprodejů můžete také dostávat jakékoli aktualizace od prodejců Microsoftu. Všechny vaše odkazy fungují při práci v aplikaci CRM dle vašeho výběru a nikoli v partnerském centru. 
 
@@ -33,28 +30,28 @@ Konektor pro spoluprodej v partnerském centru umožňuje prodejcům v rámci sv
 |ID Microsoft Partner Network |Potřebujete platné ID MPN.|Připojení k programu [MPN](https://partner.microsoft.com/)|
 |Připravený společný prodej|Vaše řešení IP/Services musí být připravené k prodeji.|[Prodej pomocí Microsoftu](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Účet partnerského centra|ID MPN přidružené k tenantovi partnerského centra musí být stejné jako ID MPN přidružené k vašemu řešení společného prodeje. Před nasazením konektorů se můžete podívat na to, jestli máte na portálu partnerského centra zobrazený odkaz na svůj společný prodej.|[Správa vašeho účtu](create-user-accounts-and-set-permissions.md)|
-|Role uživatelů partnerského centra|Zaměstnanec, který bude instalovat a používat konektory, musí být správcem odkazů.|[Přiřazování uživatelských rolí a oprávnění](create-user-accounts-and-set-permissions.md)|
-|Salesforce CRM|Role uživatele CRM je správce systému nebo úpravce systému.|[Přiřazení rolí v Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
-|Zapnout účet toku automatizace|Aktivní účet [Power automatizuje](https://flow.microsoft.com) pro správce systému nebo úpravce systému CRM. Tento uživatel se musí před instalací přihlásit k [automatizaci](https://flow.microsoft.com) aspoň jednou.|
+|Partnerské centrum rolí uživatelů|Zaměstnanec, který bude tyto konektory instalovat a používat, musí být správcem referenčních seznamu.|[Přiřazování uživatelských rolí a oprávnění](create-user-accounts-and-set-permissions.md)|
+|Salesforce CRM|Role uživatele CRM je Správce systému nebo Úpravce systému.|[Přiřazení rolí v Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
+|Power Automate toku|Aktivní účet [Power Automate](https://flow.microsoft.com) správce systému CRM nebo úpravce systému. Tento uživatel by se měl [Power Automate](https://flow.microsoft.com) před instalací alespoň jednou přihlásit.|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Instalace balíčku Salesforce pro vlastní pole Microsoftu 
 
-Aby bylo možné synchronizovat odkazy v rámci partnerského centra a Salesforce CRM, musí řešení Power automat jasně identifikovat pole odkazů specifická pro společnost Microsoft. Tato vymezená část poskytuje partnerům partnerských prodejců možnost rozhodnout se, které referenční seznamy chtějí sdílet se společností Microsoft pro souběžný prodej.
+Aby bylo možné synchronizovat referenční Partnerské centrum napříč aplikacemi a salesforce CRM, Power Automate řešení musí jasně identifikovat pole referenčních seznamů specifická pro Microsoft. Toto vyněcování poskytuje týmům prodejců partnerů možnost rozhodnout se, které referenční reference chce sdílet s Microsoftem pro spoluprodávku.
 
-1. V Salesforce aktivujte **poznámky** a přidejte je do seznamu souvisejících příležitostí. 
+1. V Salesforce aktivujte **Poznámky** a přidejte je do seznamu příležitostí. 
 [Odkaz](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
-2. **Týmy příležitostí** aktivujte pomocí následujících kroků: 
-    - V instalačním programu použijte pole **Rychlé hledání** k vyhledání nastavení týmu příležitostí.
-    - Podle potřeby definujte nastavení.
+2. Aktivujte **týmy příležitostí** pomocí následujících kroků: 
+    - V instalačním programu vyhledejte **pomocí pole Rychlé** hledání nastavení týmu příležitostí.
+    - Definujte nastavení podle potřeby.
 [Odkaz](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. V Salesforce nainstalujte vlastní pole a objekty pomocí [instalačního programu balíčku](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Tento balíček použijte k instalaci balíčku do libovolné společnosti.
+3. V Salesforce nainstalujte vlastní pole a objekty pomocí [instalačního programu balíčků](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Tento nástroj použijte k instalaci balíčku do jakékoli společnosti.
 
 >[!NOTE]
->Pokud instalujete do izolovaného prostoru (sandbox), je nutné nahradit počáteční část adresy URL http://test.salesforce.com
+>Pokud instalujete do sandboxu, musíte počáteční část adresy URL nahradit za . http://test.salesforce.com
 
-4. V Salesforce přidejte řešení Microsoftu do seznamu souvisejících **příležitostí** . Po přidání vyberte ikonu **klíče** a aktualizujte vlastnosti.
+4. V Salesforce přidejte řešení Microsoftu do **seznamu souvisejícího** s příležitostí. Po přidání vyberte ikonu **klíče** a aktualizujte vlastnosti.
 
 ## <a name="best-practice-test-before-you-go-live"></a>Osvědčené postupy: test před zahájením provozu
 
@@ -90,11 +87,11 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
    :::image type="content" source="images/salesforce/available-crm.png" alt-text="Dostupné CRMS":::
 
-8. Pak budete přesměrováni na stránku **spravovat vaše řešení** .  Přejděte na "odkazy na partnerské Centrum" pomocí tlačítek se šipkami ve spodní části stránky. **Naplánovaná instalace** by se měla objevit u řešení s odkazy partnerského centra. Instalace bude trvat 10-15 minut.
+8. Pak budete přesměrováni na stránku **spravovat vaše řešení** .  Přejděte na "odkazy na partnerské Centrum" pomocí tlačítek se šipkami ve spodní části stránky. **Vedle řešení** referenčních Partnerské centrum by se měla zobrazit naplánovaná instalace. Instalace bude trvat 10 až 15 minut.
 
-9. Po dokončení instalace přejděte zpátky na [Power](https://flow.microsoft.com) automat a vyberte **řešení** z navigační oblasti vlevo. Všimněte si, že v seznamu řešení je k dispozici **synchronizace odkazů partnerského centra pro Salesforce** .
+9. Po dokončení instalace přejděte zpět na stránku [Power Automate](https://flow.microsoft.com) **v** levé navigační oblasti vyberte Řešení. Všimněte **si Partnerské centrum synchronizace referenčních** seznamu pro Salesforce dostupná v seznamu Řešení.
 
-10. Vyberte **synchronizaci odkazů z partnerského centra pro Salesforce**. K dispozici jsou tyto toky a entity automatizace pro napájení:
+10. Vyberte **Partnerské centrum referenčních seznamu pro Salesforce.** K dispozici Power Automate toky a entity:
 
     :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Toky Salesforce":::
 
@@ -102,28 +99,28 @@ Než nainstalujete, nakonfigurujete a přizpůsobíte řešení Power Automate v
 
 ## <a name="configure-the-solution"></a>Konfigurace řešení
 
-1. Po instalaci řešení do instance CRM přejděte zpátky na [Power](https://flow.microsoft.com/)automat.
+1. Po instalaci řešení v instanci CRM přejděte zpět na Power Automate [.](https://flow.microsoft.com/)
 
-2. V rozevíracím seznamu **prostředí** v pravém horním rohu vyberte instanci CRM, do které jste nainstalovali řešení Power automatizuje.
-3. Budete muset vytvořit připojení, která přiřadí tři uživatelské účty:
-    - Uživatel partnerského centra s přihlašovacími údaji správce odkazů
+2. V **rozevíracím** seznamu Prostředí v pravém horním rohu vyberte instanci CRM, do které jste nainstalovali Power Automate řešení.
+3. Budete muset vytvořit připojení, která přidruží tyto tři uživatelské účty:
+    - Partnerské centrum uživatele s přihlašovacími údaji správce referenčních odkazů
     - Události Partnerského centra
-    - Správce CRM s Power Automate automatizuje v řešení.
-4. V levém navigačním panelu vyberte **připojení** a v seznamu vyberte řešení partnerského centra pro partnery.
+    - Správce CRM s Power Automate toky v řešení.
+4. V **levém** navigačním panelu vyberte Připojení a ze seznamu vyberte Partnerské centrum referenčních seznamech.
 
-5. Vytvořte připojení kliknutím na **vytvořit připojení**.
+5. Vytvořte připojení kliknutím na **Vytvořit připojení.**
 
 :::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Vytvoření připojení":::
 
-- Na panelu hledání v pravém horním rohu vyhledejte odkazy na partnerské Centrum (Preview).
+- Na panelu Partnerské centrum v pravém horním rohu vyhledejte referenční Partnerské centrum (Preview).
 
-- Vytvořte připojení pro uživatele partnerského centra s rolí přihlašovacích údajů správce odkazů.
+- Vytvořte pro svého uživatele Partnerské centrum s rolí přihlašovacích údajů správce referenčních seznamů.
 
--  Potom vytvořte připojení událostí partnerského centra pro uživatele partnerského centra s přihlašovacími údaji správce odkazů.
+-  Dále vytvořte připojení Partnerské centrum události pro vašeho Partnerské centrum uživatele s přihlašovacími údaji správce referenčních seznamů.
 
 - Vytvořte připojení pro Salesforce pro uživatele správce CRM.
 
--  Po přidání všech připojení byste měli ve svém prostředí zobrazit následující připojení:
+-  Po přidání všech připojení by se ve vašem prostředí měla zobrazit následující připojení:
 
  :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Sledovat připojení":::
 
@@ -195,37 +192,37 @@ Pokud jsou odkazy na spoluprodejní synchronizace mezi partnerským centrem a va
 
 Systémy CRM jsou často vysoce přizpůsobené. Můžete přizpůsobit automatické toky Power Automate. Postupujte podle pokynů pro mapování polí a v případě potřeby proveďte příslušné změny v postupech automatizace toků.  K dispozici jsou mapování partnerských Center Microsoftu na CRM, ale v závislosti na vašem prostředí CRM, můžete zvolit další přizpůsobení polí.
 
-V závislosti na vašich potřebách je možné přizpůsobit více kroků každého z těchto toků automatizace napájení. Následují příklady dostupných přizpůsobení:
+Několik kroků každého z těchto toků Power Automate přizpůsobit podle vašich potřeb. Tady jsou příklady dostupných přizpůsobení:
 
-1. Přizpůsobení polí pro události vytvoření nebo aktualizace v partnerském centru pro synchronizaci odkazů CRM:
+1. Pokud chcete přizpůsobit pole pro události vytvoření nebo aktualizace v Partnerské centrum se synchronizací referenčních seznamů CRM:
 
-   1. Vyberte partnerské Centrum pro Salesforce CRM (Insider Preview).
+   1. Vyberte Partnerské centrum Salesforce CRM (Insider Preview).
 
-   2. Vyberte **Upravit** a upravte nebo Přizpůsobte tok automatizovaného výkonu.
+   2. Pokud **chcete upravit** nebo přizpůsobit tok Power Automate upravit.
 
-   3. Vyberte **(rozsah) synchronizujte zájemce nebo příležitost**.
+   3. Vyberte **(Rozsah) Synchronizovat zájemce nebo příležitost.**
 
-2. Pokud chcete přizpůsobit mapování polí CRM pro události vytvoření, vyberte, **jestli je nová sdílená příležitost, a pak**. Vyberte dílčí krok, **Pokud ano** , a pak rozbalte **vytvořit novou příležitost v CRM**. Mapování v této části můžete upravit pomocí Průvodce mapováním polí.
+2. Pokud chcete přizpůsobit mapování polí CRM pro události vytváření, vyberte Pokud se jedná **o novou sdílenou příležitost, pak**. Pokud ano, vyberte dílčí **krok** a potom rozbalte položku Creating a new opportunity in the CRM (Vytvoření **nové příležitosti v CRM).** Mapování v této části můžete upravit pomocí Průvodce mapováním polí.
 
-   1. Pokud chcete přizpůsobit mapování polí CRM pro události aktualizace, vyberte krok (obor) synchronizovat zájemce nebo příležitost.
+   1. Pokud chcete přizpůsobit mapování polí CRM pro události aktualizací, vyberte krok "(Rozsah) Synchronizovat zájemce nebo příležitost".
 
-   2. Vyberte **, jestli se jedná o aktualizaci příležitosti, a pak**. Pokud ano, vyberte dílčí krok, **Pokud ano** , a pak rozbalte **rozdíl mezi objekty příležitostí v partnerském centru a CRM a pak**.  
+   2. Vyberte **Pokud se jedná o aktualizaci příležitosti, pak**. Pokud ano, vyberte dílčí **krok** a potom rozbalte If difference between the opportunity objects in Partnerské centrum and CRM (Pokud je rozdíl mezi objekty příležitostí v Partnerské centrum **a CRM).**  
 
-   3. Vyberte, **jestli ano** , a pak **aktualizovat existující příležitost** .
+   3. Vyberte **Pokud ano a** pak Aktualizovat existující **příležitost.**
 
-3. Přizpůsobení polí pro synchronizaci odkazů CRM na počítač pro události aktualizace:
+3. Přizpůsobení polí synchronizace referenčních seznamů CRM do pc pro události aktualizace:
 
-   1. Vyberte **Upravit**  a upravte nebo Přizpůsobte tok automatizovaného výkonu.
+   1. Pokud **chcete upravit**  nebo přizpůsobit tok Power Automate upravit.
 
-   2. Vyberte **(rozsah) synchronizace příležitosti**.
+   2. Vyberte **(Rozsah) Synchronizovat příležitost.**
 
-   3. Chcete-li upravit mapování polí CRM (na základě Průvodce mapováním polí) pro události aktualizace, vyberte, **zda existuje rozdíl mezi objekty potenciálních zákazníků v partnerském centru a CRM, a pak**.
+   3. Pokud chcete přizpůsobit mapování polí CRM (na základě průvodce mapováním polí) pro aktualizační události, vyberte Pokud je mezi objekty zájemců v **aplikaci Partnerské centrum a CRM rozdíl, pak .**
 
-   4. Vyberte dílčí krok, **Pokud ano** , a pak rozbalte krok **aktualizace odkazu s daty příležitostí**.
+   4. Pokud ano, vyberte dílčí **krok** a potom rozbalte krok Aktualizovat referenční **seznam daty příležitostí**.
 
-   Mapování v této části můžete upravit v závislosti na průvodci mapováním polí.
+   Mapování v této části můžete upravit na základě Průvodce mapováním polí.
 
-4. Chcete-li přizpůsobit pole pro synchronizaci odkazů CRM na počítač pro vytvoření událostí?
+4. Chcete přizpůsobit pole synchronizace referenčních seznamů CRM do pc pro vytváření událostí?
 
    1. Vyberte **Upravit**  a upravte nebo Přizpůsobte tok automatizovaného výkonu.
 
@@ -266,37 +263,37 @@ Následující vlastní pole by měla být součástí části CRM:
 
    1. Přihlaste se k prostředí Salesforce CRM s uživatelem, který má v části **příležitost** v CRM přehled.
 
-   2. Při vytváření nové příležitosti v prostředí Salesforce CRM se ujistěte, že je k dispozici následující oddíl.
+   2. Při vytváření nové příležitosti v prostředí Salesforce CRM se ujistěte, že se nachází následující část.
 
       :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Prostředí Salesforce":::
 
-   3. Pokud chcete tuto příležitost synchronizovat s partnerským centrem Microsoftu, ujistěte se, že jste v zobrazení karta nastavili následující pole:
+   3. Pokud chcete tuto příležitost synchronizovat s microsoft Partnerské centrum, ujistěte se, že jste v zobrazení karty nastavili následující pole:
 
-       - Synchronizovat s partnerským centrem: Ano
-       - "Jak může Microsoft pomáhat?": Vyberte si z následujících možností:
+       - "Synchronizace s Partnerské centrum": Ano
+       - "Jak může Microsoft pomoct?": Vyberte jednu z následujících možností:
        - Produkty: ID řešení produktu
 
-   4. Jakmile nastavíte možnost Synchronizovat příležitost  **s partnerským centrem** na **Ano**, počkejte 10 minut, přihlaste se k účtu partnerského centra. Vaše odkazy budou synchronizovány s CRM Salesforce.
+   4. Jakmile nastavíte možnost Synchronizovat s  **Partnerské centrum** na **Ano,** počkejte 10 minut, přihlaste se ke svému Partnerské centrum účtu. Vaše referenční seznamy se synchronizují s aplikací Salesforce CRM.
 
-   5. Pokud je možnost synchronizovat s partnerským centrem nastavená na hodnotu Ano, změny se synchronizují s vaším účtem partnerského centra.
+   5. Pokud je možnost Synchronizovat s Partnerské centrum nastavená na Ano, při aktualizaci příležitosti v Salesforce CRM se změny synchronizují s vaším Partnerské centrum účtem.
 
-   6. Příležitosti, které byly úspěšně synchronizovány s partnerským centrem, budou označeny ikonou ✔ v Salesforce CRM.
+   6. Příležitosti, které se úspěšně synchronizují s Partnerské centrum, se identifikují pomocí ✔icon v Salesforce CRM.
 
-2. Referenční synchronizace při vytvoření nebo aktualizaci odkazu v partnerském centru Microsoftu a synchronizovaných v prostředí Salesforce CRM:
+2. Synchronizace referenčních seznamů při vytvoření nebo aktualizaci referenčního Partnerské centrum v prostředí Salesforce CRM:
 
-    1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra.
+    1. Přihlaste se k řídicímu [Partnerské centrum.](https://partner.microsoft.com/dashboard/home)
 
-    2. V nabídce na levé straně vyberte **odkazy** .
+    2. V **nabídce vlevo** vyberte Referenční odkazy.
 
-    3. Klikněte na možnost Nová práce a vytvořte si nový odkaz na společný prodej z partnerského centra.
+    3. Kliknutím na možnost New deal (Nová dohoda) Partnerské centrum nový referenční seznam pro spoludácí se ze seznamu.
 
-    4. Přihlaste se do prostředí Salesforce CRM.
+    4. Přihlaste se k prostředí Salesforce CRM.
 
-    5. Přejděte na **otevřené příležitosti**. Odkaz vytvořený v partnerském centru Microsoftu je teď synchronizovaný v Salesforce CRM.
+    5. Přejděte na **Otevřít příležitosti.** Referenční seznam vytvořený v Microsoft Partnerské centrum se teď synchronizuje v Salesforce CRM.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Obrazovka příležitostí pro Salesforce":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Obrazovka prodejních příležitostí Salesforce":::
 
-    6. Když vyberete synchronizovaný odkaz, vyplní se podrobnosti zobrazení karty.
+    6. Když vyberete synchronizovaný referenční seznam, vyplní se podrobnosti o zobrazení karty.
 
 ## <a name="next-steps"></a>Další kroky
 

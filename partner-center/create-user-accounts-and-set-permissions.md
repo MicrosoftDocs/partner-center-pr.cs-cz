@@ -9,20 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492530"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148138"
 ---
 # <a name="create-user-accounts"></a>Vytváření uživatelských účtů  
 
-**Příslušné role**
-
-- Správce účtu
-- Globální správce
-- Správce správy uživatelů
+**Příslušné role**: správce účtu | Globální správce | Správce správy uživatelů
 
 Vytvořte uživatelské účty pro zaměstnance, kteří potřebují přístup k partnerskému centru. Tyto úlohy musí provádět správce správy uživatelů, účty správce nebo globální správce. Uživatel, který provádí tyto úlohy, musí také přiřadit role Azure Active Directory (AAD) Správce uživatelů nebo globální správce. Další informace o rolích AAD najdete v tématu [oprávnění role správce v Azure Active Directory](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
@@ -45,11 +41,11 @@ Uživatel se bude muset přihlásit do partnerského centra s uživatelským jm�
 
 ## <a name="assign-user-roles"></a>Přiřazení uživatelských rolí
 
-Pokud chcete pracovat v partnerském centru, musíte mít přiřazenou roli.  V současné době role zahrnují Azure Active Directory role tenanta, role poskytovatele Cloud Solution Provider (CSP) a role společnosti bez AAD. Každá z těchto rolí může mít jednotlivé společnosti potřebnou.
+Pokud chcete pracovat v partnerském centru, musíte mít přiřazenou roli.  V současné době role zahrnují Azure Active Directory role tenanta, role poskytovatele Cloud Solution Provider (CSP) a role společnosti bez AAD. Všechny tyto role může potřebovat jednotlivá společnost.
 
 >[!Important]
->Jednotlivci musí být uvedeni ve vašem tenantovi pro přístup k partnerskému centru. Přiřazení rolí poskytují další přístup.
+>Jednotlivci musí být uvedeni ve vašem tenantovi, aby k Partnerské centrum. Přiřazení rolí poskytují další přístup.
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Přiřazení rolí a oprávnění uživatelů pro zaměstnance, kteří potřebují pracovat v partnerském centru](permissions-overview.md)
+- [Přiřazení rolí a oprávnění uživatelů pro zaměstnance, kteří potřebují pracovat v Partnerské centrum](permissions-overview.md)

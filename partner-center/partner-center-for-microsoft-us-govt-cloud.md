@@ -1,48 +1,40 @@
 ---
-title: Partnerské centrum pro Microsoft USA pro státní správu
+title: Partnerské centrum pro cloud Microsoft US Government
 ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Tato lokalita partnerského centra je určená pro partnery Microsoftu, kteří nabízejí cloudová řešení Microsoftu zákazníkům, kteří pracují s vládními úřady v USA.
+description: Tento Partnerské centrum je pro partnery Microsoftu, kteří nabízejí cloudová řešení Microsoftu zákazníkům pracujícím s vládními úřady v USA.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d25fcb99695a726ab99fca4c4163e268a464526
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 0fc1176c6620300002afbc9bf218afcceb777538
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441825"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146268"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Partnerské centrum pro Microsoft Cloud pro státní správu USA podporuje partnerské nabídky státním úřadům
+# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Partnerské centrum pro Microsoft Cloud for US Government podporuje partnerské nabídky pro vládní instituce.
 
-**Platí pro**
+**Platí pro:** Partnerské centrum pro Microsoft Cloud for US Government
 
-- Partnerské centrum pro Microsoft Cloud for US Government
+**Odpovídající role:** Globální správce | Správce správy uživatelů | Agent správy | Sales agent | Správce fakturace
 
-**Příslušné role**
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud for US Government: Splnění požadavků na ochranu dat
 
-- Globální správce
-- Správce správy uživatelů
-- Agent správce
-- Agent prodeje
-- Správce fakturace
+Navržená pro státní Microsoft Cloud for US Government USA umožňuje federálním, státním, místním nebo kmenovým entitám USA vybrat si z řady státních cloud computing Microsoftu. Aby bylo možné co nejlépe řešit konkrétní potřeby zákazníků z veřejného sektoru, Microsoft výrazně investoval do datových center a je určen ke splnění požadavků a dodržování předpisů v oblasti ochrany dat s federálními a státními zásadami USA. Partnerské centrum pro Microsoft Cloud for US Government umožňuje partnerům prodávat cloudové služby Microsoftu těmto zákazníkům.
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud pro státní správu USA: požadavky na ochranu dat
+Všimněte si, že některé možnosti dostupné v Partnerské centrum ještě nemusí být dostupné v Partnerské centrum pro Microsoft Cloud for US Government.
 
-Microsoft Cloud pro státní správu USA umožňuje, aby americké federální, státní, místní nebo samosprávnéové entity vybraly z řady služeb cloud computingu od Microsoftu. Z hlediska konkrétních potřeb zákazníků veřejného sektoru se společnost Microsoft významně vystavila v datových centrech a je vyhrazená ke splnění dodržování předpisů pro účely ochrany dat federálními a státními politikami, mandáty a požadavky USA. Partnerské centrum pro Microsoft Cloud pro státní správu USA umožňuje partnerům na tyto zákazníky znovu prodávat cloudové služby Microsoftu.
+Microsoft Cloud for US Government poskytuje samostatnou instanci služby [Microsoft Azure](https://azure.microsoft.com/overview/clouds/government/) která splňuje požadavky na ochranu dat z oblasti zabezpečení, ochrany osobních údajů a dodržování předpisů ze státní správy. 
 
-Všimněte si, že některé z možností dostupných v partnerském centru ještě nemusí být k dispozici v partnerském centru pro Microsoft Cloud pro státní správu USA.
+Další informace najdete v datovém [Microsoft Cloud for US Government list.](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)
 
-Microsoft Cloud pro státní správu USA poskytuje samostatnou instanci [Microsoft Azure](https://azure.microsoft.com/overview/clouds/government/) , která splňuje požadavky na zabezpečení, ochranu osobních údajů a dodržování předpisů v oblasti ochrany dat pro státní správu. 
+## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Partnerské centrum pro Microsoft Cloud for US Government: Prodej cloudových řešení pro státní správu USA
 
-Další informace najdete na [stránce Microsoft Cloud pro státní správu USA](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF).
-
-## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Partnerské centrum pro Microsoft Cloud pro státní správu USA: prodej cloudových řešení institucím státní správy USA
-
-Po zaregistrování v programu Cloud Solution Provider (CSP) pro Microsoft Cloud pro státní správu USA budete používat Partnerské centrum k prodeji cloudových řešení a služeb vašim zákazníkům v oblasti státní správy USA. 
+Po zápisu do Cloud Solution Provider (CSP) pro Microsoft Cloud for US Government použijete Partnerské centrum k prodeji cloudových řešení a služeb zákazníkům státní správy USA. 
 
 > [!NOTE]  
 > V době publikování tohoto článku nebyly v partnerském centru pro Microsoft Cloud pro státní správu USA k dispozici následující funkce partnerského centra (od publikování bylo možné přidat některé funkce do partnerského centra a tento seznam může být zastaralý):

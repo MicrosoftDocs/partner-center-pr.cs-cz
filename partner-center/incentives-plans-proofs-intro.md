@@ -1,6 +1,6 @@
 ---
-title: Přehled plánů a kontroly provádění
-description: Seznamte se s klíčovými dokumenty potřebnými k motivaci, včetně podnětu pro souběžné zpracování deklarací identity a podrobného důkazu o spuštění (PoE).
+title: Přehled plánů a dokladů o provedení
+description: Seznamte se s klíčovými dokumenty potřebnými pro pobídky, včetně plánu žádostí o pobídky spolupráce a podrobného důkazu o provedení.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,48 +8,45 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e98296aa42327a7b2ebd91b44f2e28e9010600bb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179169"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146744"
 ---
-# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Tyto prostředky vám pomůžou vytvořit pobídkové plány a kontroly provádění.
+# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Tyto zdroje informací vám pomůžou vytvořit plány pobídek a doklady o provedení.
 
-**Příslušné role**
+**Odpovídající role:** Správce pobídek | Uživatel pobídek
 
-- Motivace správce
-- Motivace uživatelů
+Tento článek popisuje některé klíčové dokumenty, které jsou potřeba k tomu, abyste uspěli a zaplatili za práci v konkrétním programu pobídek. Mezi tyto dokumenty patří:
 
-Tento článek popisuje některé z klíčových dokumentů, které jsou nutné k úspěšnému dokončení, a zaplatí se pro vaši práci v určitém programu pobídek. Mezi tyto dokumenty patří:
+- Plán žádostí o pobídky spolupráce
+- Podrobné doklad o provedení
 
-- Pobídkový plán souběžných deklarací
-- Podrobné ověření spuštění (PoE)
+V závislosti na typu programu pobídek, který jste zaregistrovali, budou váš plán žádostí o pobídky v rámci spolupráce a důkaz o provedení (PoE) pro váš úspěch pomocí pobídek indikovat.
 
-V závislosti na typu programu pobídek, který jste zaregistrovali v nástroji, vám váš plán pro souběžné zpracování deklarací identity a váš důkaz o provedení (PoE) bude mít na vaši úspěch s motivací instrumentaci.
+## <a name="what-is-an-incentives-co-op-claims-plan"></a>Co je plán žádostí o pobídky spolupráce?
 
-## <a name="what-is-an-incentives-co-op-claims-plan"></a>Co je plán pro souběžné deklarace identity?
+Plán žádostí o pobídky spolupráce popisuje marketingové kampaně, aktivity a další podrobnosti potřebné k tomu, aby byl váš program úspěšný. Jakmile tento plán vytvoříte, odešlete ho Microsoftu ke schválení. Přečtěte si další [informace o vytvoření plánu](incentives-create-your-plan.md).
 
-Plán deklarací identit pro spolupracovníky popisuje marketingové kampaně, aktivity a další podrobnosti potřebné k tomu, aby byl program úspěšný. Po vytvoření tohoto plánu ji odešlete Microsoftu ke schválení. Přečtěte si další informace o [Vytvoření plánu](incentives-create-your-plan.md).
+## <a name="what-is-a-proof-of-execution-poe"></a>Co je důkaz o provedení?
 
-## <a name="what-is-a-proof-of-execution-poe"></a>Co je důkazem spuštění (PoE)?
+Po placení práce v rámci pobídek musíte Microsoftu odeslat podrobné doklad o provedení. Váš PoE může obsahovat podrobnosti o všech souvisejících kampaních, datu, kdy došlo k aktivitě v rámci pobídek, a nárokované částky. 
 
-Až se dostanete k práci s vašimi pobídkami, musíte odeslat podrobný důkaz o spuštění (PoE) společnosti Microsoft. Vaše PoE může obsahovat podrobnosti o všech souvisejících kampaních, datum, kdy došlo k aktivitě pobídek, a o požadované množství. 
+Přečtěte si další [informace o přípravě důkazu o provedení.](incentives-prepare-your-proof-of-execution.md)
 
-Přečtěte si další informace o [přípravě ověření provádění](incentives-prepare-your-proof-of-execution.md).
+## <a name="incentives-document-resources"></a>Zdroje informací k dokumentům o pobídkách
 
-## <a name="incentives-document-resources"></a>Motivace prostředků dokumentu
+Následující zdroje informací vysvětlují, jak tyto klíčové dokumenty pobídek uspořádat, vytvořit a upravit. Popisují také, co dělat, když Microsoft vaši žádost schválí nebo pokud dojde k zamítnutí nějaké žádosti.
 
-Následující zdroje vysvětlují, jak organizovat, vytvářet a upravovat tyto klíčové pobídky dokumentů. Také popisují, co dělat, když společnost Microsoft schválí vaši deklaraci identity nebo pokud je zamítnutá deklarace identity.
-
-|  **K tomu**  |  **Přečtěte si:**  |
+|  **Chcete-li to provést**  |  **Přečtěte si:**  |
 |--------------|-----------|
-| Naučte se vytvářet podněty pro souběžný plán deklarací identity. | [Vytvoření plánu](incentives-create-your-plan.md)  |
-Informace o tom, jak vytvořit důkaz provedení | [Příprava důkazu o provedení](incentives-prepare-your-proof-of-execution.md)  |
+| Zjistěte, jak vytvořit plán žádostí o pobídky spolupráce. | [Vytvoření plánu](incentives-create-your-plan.md)  |
+Zjistěte, jak vytvořit doklad o provedení. | [Příprava důkazu o provedení](incentives-prepare-your-proof-of-execution.md)  |
 
 ## <a name="next-steps"></a>Další kroky
 
-- Informace o tom, jak [vytvořit vlastní plán](incentives-create-your-plan.md)
-- Další informace o [procesu deklarací identity spolupracovních procesů](claims-overview.md)
-- Další informace o [pobídek přidružení zákazníků pomocí modelu CPOR](submit-osa-claim.md)
+- Zjistěte, [jak vytvořit vlastní plán.](incentives-create-your-plan.md)
+- Další informace o [procesu žádostí](claims-overview.md) o pobídky spolupráce
+- Informace o [přidruženích zákazníků k pobídkách pomocí modelu CPOR](submit-osa-claim.md)

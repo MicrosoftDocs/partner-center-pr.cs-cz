@@ -1,54 +1,52 @@
 ---
-title: Správa licencování v nabídkách Marketplace
+title: Správa licencování v nabídek marketplace
 ms.topic: how-to
-ms.date: 04/27/2021
+ms.date: 04/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Naučte se, jak nastavit a spravovat licencování pro vaše nabídky ISV komerčního tržiště.
+description: Zjistěte, jak nastavit a spravovat licencování nabídek komerčního marketplace isv.
 author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b2281696a2fe69253cd033eb2a7eef7fb3046f3
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: c128b99b034564bcaa100ca975253f8b1bad7a42
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284885"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147951"
 ---
-# <a name="manage-licensing-in-marketplace-offers"></a>Správa licencování v nabídkách Marketplace
+# <a name="manage-licensing-in-marketplace-offers"></a>Správa licencování v nabídek marketplace
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Správce účtu
 
-- Globální správce
-- Správce účtu
-
-Tento článek vás provede procesem nastavení nabídky v partnerském centru, jejím zpřístupněním v Microsoft AppSource a následnou správou licencí pro tuto nabídku.  
+Tento článek vás provede procesem nastavení nabídky v Partnerské centrum, zpřístupnění v Microsoft AppSource a následně správy licencí pro tuto nabídku.  
 
 >[!IMPORTANT]
->Možnosti v tomto článku jsou momentálně v Public Preview.
+>Možnosti v tomto článku jsou aktuálně v Public Preview.
 
 ## <a name="before-you-begin"></a>Než začnete
 
-Před zahájením tohoto procesu byste se měli seznámit s informacemi uvedenými níže.
+### <a name="commercial-marketplace-basics"></a>Základy komerčního marketplace
 
-### <a name="review-the-azure-marketplace-documentation"></a>Přečtěte si dokumentaci k Azure Marketplace
+Než s tímto procesem začnete, měli byste se seznámit se základy komerčního marketplace. Články v následující tabulce vám pomůžou začít. 
 
-Níže uvedené články obsahují informace, které byste měli znát, než budete pokračovat. 
+| Téma  | Článek  |
+|-------|--------|
+|Plány komerčního marketplace | [Plány a ceny nabídek komerčního marketplace](/azure/marketplace/plans-pricing)    |
+|Nabídky komerčního marketplace  | [Výpis typů](/azure/marketplace/determine-your-listing-type)    |
+|Účty komerčního marketplace |  [Vytvoření účtu komerčního marketplace v Partnerské centrum](/azure/marketplace/create-account) |
 
-- [Vytvoření nabídky Dynamics 365 for Customer Engagement a PowerApps](https://docs.microsoft.com/azure/marketplace/dynamics-365-customer-engage-offer-setup)
-- [Vytvoření účtu obchodního tržiště v partnerském centru](https://docs.microsoft.com/azure/marketplace/create-account)
+### <a name="determine-your-offer-id"></a>Určení ID vaší nabídky
 
-### <a name="create-your-offer-id"></a>Vytvoření ID nabídky
+V následujících postupech budete vyzváni k zadání ID nabídky. Chvíli si vymyslete vhodné ID nabídky s vezměte v paměti následující body:
 
-V níže uvedených postupech budete vyzváni k zadání ID nabídky. Pořiďte si čas, který vám umožní začít s vhodným ID nabídky. Pamatujte na tyto body:
-
-- Toto ID je viditelné pro zákazníky na webové adrese pro nabídku webu Marketplace a šablony Azure Resource Manager, pokud jsou k dispozici.
-- ID nabídky v kombinaci s ID vydavatele musí být kratší než 40 znaků.
-- Použijte při tom jenom malá písmena a číslice. ID nabídky může zahrnovat pomlčky a podtržítka, ale ne mezery. Pokud je například ID vydavatele testpublisherid a zadáte test-nabídka-1, bude webová adresa nabídky https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1 .
+- Toto ID se zákazníkům zobrazí na webové adrese nabídky marketplace a v Azure Resource Manager šablony, pokud jsou k dispozici.
+- ID nabídky v kombinaci s ID vydavatele musí být dlouhé pod 40 znaky.
+- Použijte při tom jenom malá písmena a číslice. ID nabídky může zahrnovat pomlčky a podtržítka, ale ne mezery. Pokud je například vaším vydavatelem ID `testpublisherid` a zadáte `test-offer-1` , bude webová adresa nabídky `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
 - Toto ID se po výběru **vytvořit** nedá změnit.
 
-### <a name="create-your-offer-alias"></a>Vytvoření aliasu nabídky
+### <a name="determine-your-offer-alias"></a>Určení aliasu nabídky
 
 Alias nabídky je název, který se používá pro nabídku v partnerském centru. Budete také potřebovat příslušný alias nabídky, který bude postupovat podle níže uvedených pokynů:
 
@@ -74,33 +72,33 @@ Prvním krokem v licenčním procesu je vytvoření komerční nabídky na webu 
 
 ## <a name="create-your-plan"></a>Vytvoření plánu
 
-V těchto krocích budete definovat plán nebo plány, které chcete pro vaši nabídku povolit.
+V tomto postupu definujete plán nebo plány, které chcete pro svou nabídku povolit.
 
-1. V levém navigačním panelu vyberte **plán přehled** a pak vyberte **vytvořit nový plán**.
-2. Zadejte **ID plánu** a **název plánu** a pak vyberte **vytvořit**.
-3. Na stránce **seznam plánů** zadejte svůj **Popis plánu**.
-4. Pokud chcete popis Uložit a dokončit později, vyberte **Uložit koncept**.
+1. V levé navigační nabídce vyberte **Přehled plánu** a pak vyberte Vytvořit **nový plán.**
+2. Zadejte **ID plánu a** **název plánu** a pak vyberte **Vytvořit.**
+3. Na stránce **Výpis** plánu zadejte popis **plánu**.
+4. Pokud chcete popis uložit a dokončit ho později, vyberte **Save draft (Uložit koncept).**
 
-5. Až budete hotovi, vyberte **zkontrolovat a publikovat**. Informace o plánu se teď budou zobrazovat na appsource.microsoft.com v části Seznam nabídek (oddíl plány).
+5. Až budete hotovi, vyberte Zkontrolovat a **publikovat**. Informace o plánu se teď zobrazí v části appsource.microsoft.com výpisu nabídek (oddíl plány).
 
-6. Po vytvoření všech plánů této nabídky budete muset zkopírovat ID služby každého plánu. V horní části stránky se seznamem plánů vyberte **plán – přehled** . Zkopírujte ID služby pro každý plán do bezpečného umístění.
+6. Po vytvoření všech plánů pro tuto nabídku budete muset zkopírovat ID služby každého plánu. V **horní části** stránky Výpis plánu vyberte Přehled plánu. Zkopírujte ID služby pro každý plán do bezpečného umístění.
 
 ## <a name="add-service-ids-to-your-solution"></a>Přidání ID služeb do řešení
 
-Dalším krokem je aktualizace řešení přidáním ID služby pro každý plán, který jste právě zkopírovali. Pokyny k tomuto problému najdete v tématu [Vytvoření balíčku AppSource pro vaše řešení](https://docs.microsoft.com/powerapps/developer/data-platform/create-package-app-appsource).
+Dalším krokem je aktualizace řešení přidáním ID služeb pro každý plán, který jste právě zkopíroval. Pokyny najdete v tématu [Vytvoření balíčku AppSource pro vaše řešení.](/powerapps/developer/data-platform/create-package-app-appsource)
 
-## <a name="upload-your-package-and-publish-your-offer"></a>Nahrání balíčku a publikování vaší nabídky
+## <a name="upload-your-package-and-publish-your-offer"></a>Nahrání balíčku a publikování nabídky
 
-1. V levém navigačním podokně vyberte **komerční web Marketplace** a pak vyberte **Technická konfigurace**.
-2. V části **základní licenční model** vyberte **uživatel**.
-3. V části **balíček CRM** zadejte adresu URL umístění balíčku.
-4. Další karty v levém navigačním podokně použijte k zadání jakýchkoli dalších požadovaných informací. Až budete hotovi, vyberte **zkontrolovat a publikovat**.
+1. V levém navigačním podokně vyberte **Komerční marketplace** a pak vyberte **Technická konfigurace**.
+2. V **části Základní licenční model** vyberte **Uživatel.**
+3. V **části Crm Package**(Balíček CRM) zadejte adresu URL umístění vašeho balíčku.
+4. Pomocí ostatních karet v levém navigačním podokně zadejte další požadované informace. Až budete hotovi, vyberte Zkontrolovat a **publikovat.**
 
-Po publikování této nabídky si probereme a ověříte vaše informace. Pokud s tímto procesem dojde k nějakým potížím, budeme vás informovat. Po vyřešení všech problémů se zobrazí oznámení, že vaše nabídka bude k dispozici v AppSource. V tomto okamžiku ji můžete nastavit jako živou.
+Po publikování nabídky si vaše informace ověříme a ověříme. Pokud s tímto procesem dojde k nějakým potížím, budeme vás informovat. Po vyřešení všech problémů se zobrazí oznámení, že vaše nabídka bude k dispozici v AppSource. V tomto okamžiku ji můžete nastavit jako živou.
 
 ## <a name="make-your-offer-live-in-partner-center"></a>Zajištění živé nabídky v partnerském centru
 
-Následující postup vás provede procesem zajištění živé nabídky v AppSource. Další informace o tomto procesu najdete v tématu [Úvod do možností výpisu](https://docs.microsoft.com/azure/marketplace/determine-your-listing-type).
+Následující postup vás provede procesem zajištění živé nabídky v AppSource. Další informace o tomto procesu najdete v tématu [Úvod do možností výpisu](/azure/marketplace/determine-your-listing-type).
 
 >[!NOTE]
 >Po publikování vaší nabídky bude trvat 4-6 hodin, než budete moct zasílat.
@@ -116,32 +114,37 @@ Nabídka bude živá během 4-6 hodin.
 
     - **U nabídek s povolenými licencemi s možností bezplatné instalace**: Pokud vaše nabídka nevyžaduje kontrolu licencí, uživatelům s oprávněními správce se zobrazí tlačítko **získat nyní** , aby se **mi kontaktovalo**. Uživatelé, kteří chtějí vyzkoušet možnost bezplatné instalace, by měli kliknout na **získat hned**, což jim umožní nainstalovat nabídku do centra pro správu Power Platform. Pokud mají uživatelé nějaké dotazy nebo pokud chtějí upgradovat na placený plán, můžou pořád použít **kontakt** .
 
-## <a name="register-isv-connect-deal-in-dealreg"></a>Registrace ISV Connect v DealReg
+## <a name="register-isv-connect-deal-in-deal-registration"></a>Registrace ISV Connect v registraci koupí
 
-Dalším krokem je registrace vaší koupě. Postup najdete v tématu [registrace vašich obchodů](https://docs.microsoft.com/partner-center/register-deals).
+Než budete moct přiřadit licence k zákazníkovi, musíte každý prodej zaregistrovat v partnerském centru. Pokud to chcete udělat, podívejte [se na stránku Registrace dohod.](register-deals.md)
 
-## <a name="invite-the-customer"></a>Pozvat zákazníka
+## <a name="invite-the-customer"></a>Pozvání zákazníka
 
-Následující postup slouží k pozvání zákazníka k účasti v této koupi.  
+Pomocí následujícího postupu pozvěte zákazníka, aby se této dohody účastnil.  
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
-2. V levé navigační nabídce vyberte **komerční Marketplace/přehled**.
-3. Filtr pro **odeslané** obchody vyberte kartu **probíhá** a pak vyberte obchod, kterou chcete.
-4. Na stránce Přehled této práce vyberte **spravovat licence**.
-5. V okně **spravovat licence** vyberte zákazníka v rozevíracím seznamu **Podrobnosti o zákazníkovi** . Pokud ještě neexistuje vztah zákazníka, vyberte **+ pozvat nového zákazníka k souhlasu**.
-6. Zkopírujte zobrazený odkaz.
-7. Tento odkaz odešlete e-mailem zákazníkovi nebo globálnímu správci fakturace zákazníka a požádejte ho, aby používali tento odkaz k přístupu k admin.microsoft.com a přijetí a autorizaci vztahu, který vytváříte.
+2. V levé navigační nabídce vyberte **Komerční marketplace/ Přehled.**
+3. V levé navigační nabídce vyberte **Referenční odkazy** a pak vyberte **Registrace dohody.**
+4. **Vyfiltrujte Odeslané** dohody, vyberte **kartu Probíhá** a pak vyberte požadovanou dohodu.
+5. Na stránce přehledu pro tuto dohodu vyberte **Spravovat licence.**
+6. V **okně Spravovat licence** vyberte zákazníka z rozevíracího seznamu **Podrobnosti** o zákazníkovi. Pokud vztah se zákazníkem ještě neexistuje, vyberte + Pozvat nového zákazníka k **udělení souhlasu**.
+7. Zkopírujte odkaz, který se zobrazí.
+8. Pošlete tento odkaz e-mailem správci fakturace nebo globálnímu správci zákazníka a nechat je použít tento odkaz pro přístup k admin.microsoft.com a přijetí a autorizaci navazování vztahu.
 
     >[!NOTE]
-    >Relace nebude navázána, dokud zákazník neprovede tento krok.
+    >Vztah nebude navázán, dokud zákazník tento krok neprovádí.
 
-## <a name="activate-manage-and-remove-your-licenses"></a>Aktivace, Správa a odebírání licencí
+## <a name="activate-manage-and-remove-your-licenses"></a>Aktivace, správa a odebrání licencí
 
-Po navázání zákazníka můžete začít přidávat plány z nabídky a přiřazovat licence k jednotlivým plánům.
+Jakmile s vám zákazník autorizovaným vztahem začne přidávat plány z nabídky a přiřazovat licence k jednotlivým plánům.
 
-1. V okně Spravovat licence pro tento obchod vyberte **+ Přidat plán**.
-2. Dokončete **plány pro toto řešení** a **počet licencí** a pak vyberte **aktualizovat licence**. Licence budou k dispozici na adrese admin.microsoft.com, aby si zákazníci mohli spravovat a přiřazovat k zaměstnancům.
+1. V okně Spravovat licence pro tuto dohodu vyberte **+ Přidat plán**.
+2. Vyplňte **pole Plány pro toto** řešení **a** Počet licencí a pak vyberte **Aktualizovat licence.** Licence budou k dispozici na admin.microsoft.com, aby je zákazníci spravují a přiřazují zaměstnancům.
 
-    - Pokud chcete změnit počet licencí pro existující plán, zadejte nové číslo do pole **počet licencí** a pak vyberte **aktualizovat licence**.
+    - Pokud chcete změnit počet licencí pro existující plán, zadejte nové číslo do pole **Počet** licencí a pak vyberte **Aktualizovat licence.**
 
-    - Pokud chcete deaktivovat nebo odebrat licence pro určitý obchod, vyberte v poli **Akce** ikonu odpadkového koše a pak vyberte **aktualizovat licence**.
+    - Pokud chcete deaktivovat nebo odebrat licence pro dohodu,  vyberte ikonu odpadkového koše v poli Akce a pak vyberte **Aktualizovat licence.**
+
+## <a name="next-steps"></a>Další kroky
+
+[Zdroje informací o licencování](support-resources-licensing.md)

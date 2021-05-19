@@ -1,6 +1,6 @@
 ---
-title: 10 základních prvků pro práci s pobídkami
-description: Využijte těchto 10 návrhů, abyste vylepšili své možnosti aplikace v motivačním programu a mohli přijímat výběry dřív.
+title: 10 základních součástí práce s pobídky
+description: Postupujte podle těchto 10 návrhů a zlepšete své zkušenosti s programem pobídek a dostávat platby dříve.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,61 +8,58 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179101"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146710"
 ---
-# <a name="the-10-essentials-for-working-with-incentives"></a>10 základních prvků pro práci s pobídkami
+# <a name="the-10-essentials-for-working-with-incentives"></a>10 základních součástí práce s pobídky
 
-**Příslušné role**
+**Odpovídající role:** Správce pobídek | Uživatel pobídek
 
-- Motivace správce
-- Motivace uživatelů
+Microsoft program Pobídky je výkonný nástroj, který odměňuje partnery za zapojení zákazníků do produktů a služeb Microsoftu. Čím více programu rozumíte, tím větší je šance na úspěch.
 
-Microsoft pobídek program je výkonný nástroj, který vyměňuje partnery pro zákazníky s produkty a službami Microsoftu. Lépe chápete program, což je lepší pravděpodobnost úspěchu.
+Než s programem pobídek začnete,  doporučujeme vám udělat 10 základních součástí uvedených níže. Pomohou vám zajistit, aby vaše prostředí pobídek bylo dobré, a zabrání zpoždění při platbách v rámci pobídek.
 
-**Před** zahájením práce s programem pobídek doporučujeme, abyste provedli 10 základních pokynů uvedených níže. Pomůžou zajistit, aby vaše prostředí pro motivaci bylo dobré a aby se zabránilo prodlevám ve výběrech v motivačních řešeních.
+## <a name="1-join-the-microsoft-partner-network"></a>1. Připojení k Microsoft Partner Network
 
-## <a name="1-join-the-microsoft-partner-network"></a>1. Připojte se k Microsoft Partner Network
+Pokud ještě nejste partnerem Microsoftu, budete se muset připojit k PROGRAMU MPN, abyste využili výhod pobídek a dalších výhod. Další informace najdete v tématu [Microsoft Partner Network členství.](https://partner.microsoft.com/membership)
 
-Pokud ještě nejste partnerem Microsoftu, budete se muset připojit ke MPN a využít výhody a další výhody. Další informace najdete v tématu [Microsoft Partner Network Membership](https://partner.microsoft.com/membership).
+## <a name="2-read-your-incentives-program-guide"></a>2. Přečtěte si informace o pobídkách Průvodce programem
 
-## <a name="2-read-your-incentives-program-guide"></a>2. Přečtěte si příručku k programu pro motivaci
+Každý program pobídek má svého vlastního podrobného průvodce programem. V této příručce najdete požadavky na způsobilost a registraci, příležitosti k výdělku a další informace, které jsou pro váš program jedinečné. Pokud chcete získat přístup k programové příručce, postupujte [podle tohoto postupu.](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)
 
-Každý motivační program má svůj vlastní podrobný průvodce programem. V této příručce najdete požadavky na způsobilost a registraci, získáte příležitosti a další informace, které jsou pro váš program jedinečné. Chcete-li získat přístup k příručce programu, postupujte podle [tohoto postupu](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility).
+## <a name="3-set-up-your-tax-and-banking-profile"></a>3. Nastavení daňového a bankovního profilu
 
-## <a name="3-set-up-your-tax-and-banking-profile"></a>3. Nastavte svůj daňový a bankovní profil
+Téměř všechna zpoždění při platbách nebo jiná přerušení procesu pobídek jsou výsledkem nepřesných nebo neúplných daňových a bankovních profilů. Před zahájením programu pobídek se ujistěte, že je váš profil v dobrém stavu. Další informace najdete v tématu [Platební a daňový profil v Partnerské centrum](incentives-create-and-manage-your-payout-and-tax-profiles.md).
 
-Téměř všechna zpoždění výběry nebo jiná přerušení v procesu pobídek jsou výsledkem nepřesného nebo neúplného daňového profilu a profilu bank. Před zahájením programu pobídek se ujistěte, že je váš profil v dobrém tvaru. Další informace najdete v tématu [Výběr a daňové profily v partnerském centru](incentives-create-and-manage-your-payout-and-tax-profiles.md).
+## <a name="4-learn-about-roles-and-permissions"></a>4. Informace o rolích a oprávněních
 
-## <a name="4-learn-about-roles-and-permissions"></a>4. informace o rolích a oprávněních
+Je důležité pochopit role a oprávnění, které jsou součástí programu pobídek. Až to budete mít, můžete se rozhodnout, které role se mají přiřadit lidem ve vaší společnosti. Další informace najdete v tématu [Jaké role uživatelů jsou k dispozici?](incentives-faq.md#what-user-roles-are-available)
 
-Je důležité získat základní informace o rolích a oprávněních, která se týkají programu pobídek. Až to uděláte, můžete se rozhodnout, které role se mají přiřadit lidem ve vaší společnosti. Další informace najdete v tématu [Jaké role uživatelů jsou k dispozici?](incentives-faq.md#what-user-roles-are-available)
+## <a name="5-review-the-incentives-faq"></a>5. Kontrola nejčastějších dotazů k pobídám
 
-## <a name="5-review-the-incentives-faq"></a>5. Přečtěte si nejčastější dotazy k motivaci
+Získejte odpovědi na běžné dotazy týkající se pobídek ještě před tím, než se jich vůbec zeptáte. Nejčastější dotazy k pobídám často aktualizujeme pomocí informací z Podpora Microsoftu a přímé komunikace s partnery. Nejčastější dotazy najdete [tady.](incentives-faq.md)
 
-Získejte odpovědi na běžné otázky týkající se otázek ještě předtím, než je budete si dokonce klást. S využitím informací od podpora Microsoftu a přímé komunikace s partnery aktualizujeme Nejčastější dotazy k motivům. Nejčastější dotazy si můžete prohlédnout [tady](incentives-faq.md).
+## <a name="6-confirm-your-program-eligibility"></a>6. Potvrzení způsobilosti programu
 
-## <a name="6-confirm-your-program-eligibility"></a>6. Potvrďte způsobilost programu
+To obecně zahrnuje zajistit, že jste Microsoftu poskytli všechen požadovaný profil společnosti a že jste dosáhli všech požadovaných kompetencí. Další [informace najdete v tématu Potvrzení způsobilosti programu.](incentives-determined-your-program-eligibility.md)
 
-Obecně je potřeba zajistit, aby Microsoft poskytoval veškerou dokumentaci pro profil společnosti a aby dosáhli požadovaných kompetencí. Přečtěte si téma [potvrzení nároku programu](incentives-determined-your-program-eligibility.md).
+## <a name="7-confirm-your-earnings-eligibility"></a>7. Potvrzení způsobilosti pro vaše příjmy
 
-## <a name="7-confirm-your-earnings-eligibility"></a>7. Potvrďte způsobilost příjmů
+Stejně jako v předchozím úkolu to obecně zahrnuje, abyste Microsoftu poskytli všechny potřebné informace. Viz [Potvrzení způsobilosti pro příjmy.](incentives-confirm-your-earnings-eligibility.md)
 
-Podobně jako u předchozí úlohy to obvykle znamená, že jste společnosti Microsoft poskytli veškeré informace, které potřebujeme. Podívejte [se na potvrzení nároků na výdělky](incentives-confirm-your-earnings-eligibility.md).
+## <a name="8-gather-the-necessary-enrollment-information"></a>8. Shromáždění nezbytných informací o registraci
 
-## <a name="8-gather-the-necessary-enrollment-information"></a>8. shromážděte potřebné informace o registraci.
+Registrace do programu pobídek vyžaduje určité množství informací o vaší společnosti. Než začnete, ujistěte se, že všechno máte pohromadě. Pokud se chcete dozvědět víc, stáhněte si a přečtěte si registraci [pobídek Partnerské centrum](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) souboru PDF.
 
-Registrace v programu pobídek vyžaduje určité množství informací o vaší společnosti. Než začnete, ujistěte se, že máte všechno dohromady. Pokud se chcete dozvědět víc, Stáhněte si a přečtěte si téma věnované [registraci v dokumentu v partnerském centru](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) .
+## <a name="9-learn-how-other-partners-do-it"></a>9. Zjistěte, jak to dělají ostatní partneři.
 
-## <a name="9-learn-how-other-partners-do-it"></a>9. Přečtěte si, jak to dělají jiní partneři
+K dispozici je spousta dobrých článků týkajících se pobídek a obecných Partnerské centrum Microsoftu, například Pět atributů [úspěšných partnerů Microsoftu.](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/)
 
-K dispozici je spousta dobrých článků týkajících se Microsoft pobídek a partnerského centra, jako [je například pět atributů úspěšných partnerů Microsoftu](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/).
-
-## <a name="10-read-the-partner-center-online-help"></a>10. Přečtěte si online informace o partnerském centru
+## <a name="10-read-the-partner-center-online-help"></a>10. Přečtěte si Partnerské centrum online nápovědu.
 
 Najdete zde podrobné postupy pro všechny výše uvedené úlohy. Celý oddíl pro všechny pobídky si můžete přečíst přibližně za hodinu a většina článků trvá jenom minutu nebo dvě. Další informace o tom, jak začít číst, najdete v tématu [Začínáme](incentives-get-started-intro.md).
 

@@ -9,18 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 7c18f69a62e8f8d126a0756911d2fbcdfdb85d8d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979443"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147866"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Přehled komerčního tržiště v partnerském centru
 
-**Příslušné role**
-
-- Globální správce
+**Příslušné role**: globální správce
 
 Partner v programu Cloud Solution Provider (CSP) umožňuje seskupit a prodávat produkty Microsoftu spolu s řešeními publikovanými nezávislými dodavateli softwaru (ISV) třetích stran. Díky tomu, že je možné rozčlenit řešení tímto způsobem, můžete lépe poskytovat koncovým zákazníkům a rozšířit své obchodní služby CSP.
 
@@ -34,31 +32,31 @@ Jako partner v programu CSP můžete použít Partnerské centrum k nákupu mnoh
 
 ## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>Přehled nabídek CSP na komerčním webu Marketplace
 
-Pokud jste partnerem v programu CSP, existuje spousta komerčních aktivit na webu Marketplace, které byste mohli chtít provést v souvislosti s nabídkami ISV. Další informace o jednotlivých aktivitách najdete v následující tabulce.
+Pokud jste partnerem v programu CSP, existuje spousta komerčních aktivit na webu Marketplace, které můžete chtít provést s ohledem na nabídky ISV. Další informace o jednotlivých aktivitách najdete v následující tabulce.
 
 |**Pokud chcete**  |**Oprávnění**   |
 |:------------------------------------|:------------------|
-|Zjistěte, jak zobrazit nebo vyhledat dostupné nabídky, ceny, podrobnosti o produktu nebo kontaktní informace vydavatele. | [Vyhledat nabídky](csp-commercial-marketplace-discover.md) | 
-|Informace o nákupu a nasazení nabídky   | [Nabídky nákupu](csp-commercial-marketplace-purchase.md)   | 
-|Přečtěte si, jak zrušit nebo obnovit předplatné nebo přidat nebo odebrat licence.  | [Správa nabídek](csp-commercial-marketplace-manage.md) |
-|Přečtěte si, jak fakturace funguje pro nákupy komerčních webů na webu Marketplace. | [Vysvětlení fakturace](csp-commercial-marketplace-billing.md) |
-|Informace o tom, kdo zodpovídá za to, jaké typy podpory pro nákupy ISV | [Vysvětlení podpory](csp-commercial-marketplace-support.md) |
-|Seznamte se se smlouvami a odpovědností partnerů CSP a nezávislého výrobce softwaru na komerčním webu Marketplace. | [Principy smluvování](csp-commercial-marketplace-contracting.md) |
+|Zjistěte, jak zobrazit nebo vyhledat dostupné nabídky, ceny, podrobnosti o produktu nebo kontaktní informace vydavatele. | [Zjišťování nabídek](csp-commercial-marketplace-discover.md) | 
+|Zjistěte, jak zakoupit a nasadit nabídku.   | [Nákup nabídek](csp-commercial-marketplace-purchase.md)   | 
+|Zjistěte, jak zrušit nebo obnovit předplatné nebo přidat nebo odebrat licence.  | [Správa nabídek](csp-commercial-marketplace-manage.md) |
+|Informace o tom, jak funguje fakturace nákupů na komerčním marketplace | [Principy fakturace](csp-commercial-marketplace-billing.md) |
+|Informace o tom, kdo zodpovídá za jaké typy podpory nákupů isv | [Principy podpory](csp-commercial-marketplace-support.md) |
+|Informace o kontraktech a zodpovědnostech partnerů CSP a isvů na komerčním marketplace | [Principy kontraktů](csp-commercial-marketplace-contracting.md) |
 
 > [!NOTE]
-> Tento přehled popisuje, jak můžou partneři v programu CSP používat určité funkce komerčního tržiště v partnerském centru. Na rozdíl od partnerů v programu CSP mají vydavatelé ISV jinou roli na webu Marketplace. Mají taky v partnerském centru k dispozici různé funkce pro obchodní tržiště. Další informace o roli ISV vydavatelů najdete v tématu Přehled služby [Azure Commercial Marketplace](/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
+> Tento přehled popisuje, jak mohou partneři v programu CSP používat některé funkce komerčního marketplace v Partnerské centrum. Na rozdíl od partnerů v programu CSP mají vydavatelé ISV jinou roli na marketplace. Mají také různé funkce komerčního marketplace, které jsou k dispozici v Partnerské centrum. Další informace o roli vydavatelů ISV najdete v tématu [Přehled komerčního marketplace Azure.](/azure/marketplace/partner-center-portal/commercial-marketplace-overview)
 
-## <a name="where-to-complete-commercial-marketplace-activities"></a>Kde dokončit obchodní aktivity na webu Marketplace
+## <a name="where-to-complete-commercial-marketplace-activities"></a>Kde dokončit aktivity komerčního marketplace
 
-Jako partner v programu CSP můžete dokončit mnoho komerčních aktivit na webu Marketplace pro SaaS ISV, a to přímo z [řídicího panelu](https://partner.microsoft.com/dashboard) partnerského centra nebo pomocí [rozhraní API partnerského centra](/partner-center/develop/). K dokončení dalších aktivit na webu Marketplace ale možná budete muset přejít na:
+Jako partner v programu CSP můžete řadu aktivit komerčního marketplace pro nabídky ISV SaaS provést přímo z řídicího panelu Partnerské centrum nebo pomocí [rozhraní API Partnerské centrum.](/partner-center/develop/) [](https://partner.microsoft.com/dashboard) K dokončení dalších aktivit na marketplace ale možná budete muset přejít na:
 
-- [Portál pro správu Microsoft Azure](https://portal.azure.com/)
+- Portál [Microsoft Azure pro správu](https://portal.azure.com/)
 
     Nebo
 
-- Systém nebo web vydavatele ISV třetí strany
+- Systém nebo web vydavatele isv jiného výrobce softwaru
 
-Mnoho z nich, kde přejdete k dokončeným aktivitám, začíná typem nabídky, kterou zvolíte. Partneři v programu CSP můžou v současné době používat dva typy nabídek s vydavateli ISV třetích stran:
+Velká část toho, kam se můžete dostat k dokončení aktivit, začíná typem nabídky, kterou zvolíte. Partneři v programu CSP můžou v současné době používat dva typy nabídek s vydavateli ISV třetích stran:
 
 1. Nabídky SaaS založené na licencích  
 2. Nabídky založené na využití (včetně nabídek založených na virtuálních počítačích, kontejnerech nebo aplikacích Azure)
@@ -79,11 +77,11 @@ Další informace o tom, jak dokončit konkrétní aktivitu Marketplace pro nab�
 |:------------------------------------|:------------------|
 |Zjišťování a hledání dostupných nabídek  | Řídicí panel partnerského centra, rozhraní API partnerského centra nebo Azure Portal  |
 |Nákup nabídky  | portál Azure  |
-|Nasazení zakoupené nabídky (nastavení účtu, Správa softwaru nebo nasazení v tenantovi AAD zákazníka)  | portál Azure  |
-|Zrušení/obnovení předplatných nabídky nebo přidání nebo odebrání licencí | portál Azure  |
-|Vytvoření uživatelů nebo Správa oprávnění  | portál Azure  |
+|Nasazení zakoupené nabídky (nastavení účtu, správa softwaru nebo nasazení v tenantovi AAD zákazníka)  | portál Azure  |
+|Zrušení nebo prodloužení platnosti předplatných nabídek nebo přidání nebo odebrání licencí | portál Azure  |
+|Vytvoření uživatelů nebo správa oprávnění  | portál Azure  |
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Zjišťování nebo zobrazení nabídek komerčních Marketplace](csp-commercial-marketplace-discover.md)
-- [Nákup nabídek pro komerční web Marketplace](csp-commercial-marketplace-purchase.md)
+- [Zjišťování nebo zobrazení nabídek komerčního marketplace](csp-commercial-marketplace-discover.md)
+- [Nákup nabídek komerčního marketplace](csp-commercial-marketplace-purchase.md)

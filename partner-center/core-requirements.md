@@ -1,42 +1,39 @@
 ---
-title: Motivace základních požadavků
+title: Základní požadavky na pobídky
 ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Naučte se generovat poptávku, pochopit vývoj na trhu a maximalizovat připravenost partnerů pro aktivity v programu pobídek.
+description: Zjistěte, jak generovat poptávku, porozumět vývoji na trhu a maximalizovat připravenost partnerů na aktivity v programu pobídek.
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502948"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148291"
 ---
-# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Základní požadavky na aktivity v programu motivačních programů
+# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Základní požadavky na aktivity v programu pobídek
 
-**Příslušné role**
+**Odpovídající role:** Správce pobídek | Uživatel pobídek
 
-- Motivace správce
-- Motivace uživatelů
+Každý typ aktivity, pro který odešlete žádost o pobídky, má základní požadavky. Musíte si ukázat, že jste tyto požadavky splnili ve svých dokumentech pro doklad o provedení. Některé aktivity také vyžadují konkrétní typy komunikace a metriky.
 
-Každý typ aktivity, pro kterou odešlete deklaraci identity pobídky, má základní požadavky. Musíte prokázat, že jste splnili tyto požadavky v dokumentaci pro provádění. Některé aktivity také vyžadují konkrétní typy komunikace a metriky.
+Následující tabulky popisují základní požadavky pro každou přijatou aktivitu. 
 
-Následující tabulky popisují základní požadavky na jednotlivé přijaté aktivity. 
+## <a name="demand-generation"></a>Generování poptávky
 
-## <a name="demand-generation"></a>Generace vyžádaného volání
+### <a name="print-advertising"></a>Tisk inzerování
 
-### <a name="print-advertising"></a>Tisk reklamy
-
-| Kategorie | Ověření provedení    |
+| Kategorie | Doklad o provedení    |
 | ------ | ----------- |
-| Základní požadavky    | Firemní značka a kontaktní údaje<br><br>Obsah Microsoftu |
-| Požadavky na komunikaci | Kopie konečného komunikačního kusu (na základě reklamy) zobrazující základní požadavky specifické pro program |
-| Metriky     | Odhadované oslovení zákazníků (nebo partnerů) |
-|Oprávněné výdaje    | Umístění médií třetích stran<br><br>Tištěný materiál<br><br>Poplatky – marketing a kreativní služby pro úřady, včetně poplatků za platební instituce  |
+| Základní požadavky    | Firemní značka a kontaktní informace<br><br>Obsah Microsoftu |
+| Požadavky na komunikaci | Kopie konečné komunikační části (na základě reklamy) zobrazující základní požadavky specifické pro program |
+| Metriky     | Odhadovaný dosah zákazníka (nebo partnera) |
+|Oprávněné výdaje    | Umísťování médií třetích stran<br><br>Tištěný materiál<br><br>Poplatky – marketing a kreativní služby pro úřady, včetně poplatků za platební instituce  |
 
 ### <a name="digital-advertising"></a>Digitální inzerce
 
@@ -54,34 +51,34 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 | Základní požadavky    | NA |
 | Požadavky na komunikaci | 1) kopie finálního komunikačního kusu zobrazujícího základní požadavky specifické pro program<br><br>2) kontrola distribuce může zahrnovat obálku pro expedici postmarked nebo jiné ověření pošty (přímý e-mail), finální e-mail s hlavičkou nebo jinou kontrolu e-mailu (e-mailu) nebo fotografii na telefonním čísle (SMS). |
 | Metriky     | Odhadované oslovení zákazníků (nebo partnerů) |
-|Oprávněné výdaje    | Získání databáze<br><br>Tištěný materiál<br><br>Vyúčtování<br><br>Poplatky – agentura: marketing a Creative Services, včetně poplatků za agenturu |
+|Oprávněné výdaje    | Získání databáze<br><br>Tištěný materiál<br><br>Poštovné<br><br>Poplatek – agentura: Marketingové a kreativní služby, včetně poplatků za agenturu |
 
-### <a name="partner-website-and-search-engine"></a>Web a vyhledávací modul pro partnery
+### <a name="partner-website-and-search-engine"></a>Partnerský web a vyhledávací web
 
-| Kategorie | Ověření provedení    |
+| Kategorie | Doklad o provedení    |
 | ------ | ----------- |
 | Základní požadavky    | NA |
-| Požadavky na komunikaci | Adresa URL a snímky obrazovky pro stránky webu zobrazující adresu URL<br><br>Prohlášení o pracovní nebo servisní smlouvě pro projekt SEO (jenom aktivita SEO) |
-| Metriky     | Souhrn výsledků (například sestava po kliknutí) |
-|Oprávněné výdaje    | Poplatky – agentura: marketingové služby, včetně poplatků za agenturu<br><br>Programování a vývoj: poplatky za programování a vývoj<br><br>Poplatek – SEO: poplatky za optimalizaci a údržbu  |
+| Požadavky na komunikaci | Adresa URL nebo snímky obrazovky se stránkami webu zobrazující adresu URL<br><br>Prohlášení o pracovní smlouvě nebo smlouvě o službě pro projekt SEO (pouze aktivita SEO) |
+| Metriky     | Souhrn výsledků (například sestava prokliků) |
+|Oprávněné výdaje    | Poplatek – agentura: Marketingové služby, včetně poplatků za agenturu<br><br>Programování/vývoj: Poplatky za programování a vývoj<br><br>Poplatek – SEO: Poplatky za optimalizaci a údržbu  |
 
-### <a name="microsoft-syndicated-content"></a>Publikovaný obsah společnosti Microsoft
+### <a name="microsoft-syndicated-content"></a>Syndikovaný obsah Microsoftu
 
-| Kategorie | Ověření provedení    |
+| Kategorie | Doklad o provedení    |
 | ------ | ----------- |
 | Základní požadavky    | NA |
-| Požadavky na komunikaci | Adresa URL a snímky obrazovky stránek webu zobrazující adresu URL |
-| Metriky     | Souhrn výsledků (například sestava po kliknutí) |
-|Oprávněné výdaje    | Skutečné náklady až do USD18, 750 za období použití pro: poplatky – marketingové služby pro úřady, včetně poplatků za agenturu<br><br>Poplatky za programování a vývoj<br><br>Umístění médií  |
+| Požadavky na komunikaci | Adresa URL nebo snímky obrazovky se stránkami webu zobrazující adresu URL |
+| Metriky     | Souhrn výsledků (například sestava prokliků) |
+|Oprávněné výdaje    | Skutečné náklady do 18 750 USD na období využití pro: fee – agency marketing services, including agency fees<br><br>Poplatky za programování a vývoj<br><br>Umístění média  |
 
-### <a name="multi-touch-digital-campaign"></a>Digitální kampaň s více dotyky
+### <a name="multi-touch-digital-campaign"></a>Multi-touch digitální kampaň
 
-| Kategorie | Ověření provedení    |
+| Kategorie | Doklad o provedení    |
 | ------ | ----------- |
 | Základní požadavky    |NA |
-| Požadavky na komunikaci | Veškerá kontrola spuštění, jak je popsáno na stránce příslušná aktivita, je povinná.<br><br>Digitální inzerce<br><br>Přímý E-mail<br><br>Web partnerského serveru a optimalizace vyhledávače<br><br>Telemarketing  |
+| Požadavky na komunikaci | Vyžaduje se všechny doklady o provedení, jak je podrobně požadováno na příslušné stránce aktivity.<br><br>Digital Advertising<br><br>Přímý e-mail<br><br>Optimalizace partnerského webu a vyhledávacího webu<br><br>Telemarketingu  |
 | Metriky     | NA |
-|Oprávněné výdaje    | Umístění médií třetích stran<br><br>Poplatky – agentura: marketing a Creative Services, včetně poplatků za agenturu<br><br>Získání databáze<br><br>Programování a vývoj: poplatky za programování a vývoj<br><br>Poplatek – SEO: poplatky za optimalizaci a údržbu<br><br>Poplatek – poplatky za volání na základě třetích stran |
+|Oprávněné výdaje    | Umísťování médií třetích stran<br><br>Poplatek – agentura: Marketingové a kreativní služby, včetně poplatků za agenturu<br><br>Získání databáze<br><br>Programování/vývoj: Poplatky za programování a vývoj<br><br>Poplatek – SEO: Poplatky za optimalizaci a údržbu<br><br>Poplatek – Poplatky za call centrum třetích stran |
 
 ## <a name="market-development"></a>Vývoj na trhu
 
@@ -121,20 +118,20 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 | Metriky     | Souhrn výsledků |
 |Oprávněné výdaje    | Podepsané/zobrazované/tištěné materiály<br><br>Dárků<br><br>Poplatky – agentura: marketingové služby, včetně poplatků za agenturu |
 
-### <a name="internal-incentives-and-spiffs"></a>Interní pobídky a SPIFFs
+### <a name="internal-incentives-and-spiffs"></a>Interní pobídky a spiffy
 
-| Kategorie | Ověření provedení    |
+| Kategorie | Doklad o provedení    |
 | ------ | ----------- |
-| Základní požadavky    | Název značky společnosti a kontaktní informace – pravidla interní soutěže budou stačit, pokud je název společnosti nebo značky zahrnutý v komunikačním materiálu.<br><br>Obsah Microsoftu |
-| Požadavky na komunikaci   | Zobrazit nabídku s podmínkami a ujednáními Skutečné náklady až na 25% z celkového počtu získaných souběžných prostředků na období využití. Partneři Surface můžou nárokovat až 100% získaných fondů souběžných op na období použití pro oprávněné výdaje na aktivity. |
+| Základní požadavky    | Název značky společnosti a kontaktní informace – interní pravidla soutěží budou stačit, pokud je název společnosti nebo značky součástí komunikačního materiálu.<br><br>Obsah Microsoftu |
+| Požadavky na komunikaci   | Zobrazení nabídky s podmínkami a podmínkami Skutečné náklady do 25 % celkových získaných prostředků spolupráce na období využití Partneři Surface si v případě oprávněných výdajů na aktivitu mohou nárokovat až 100 % získaných prostředků spolupráce na období využití. |
 | Metriky     | Souhrn výsledků |
-|Oprávněné výdaje    | Skutečné náklady až na 25% pro realizované prostředky souběžnosti na období použití pro: podpis, zobrazení, tištěné materiály<br><br>Dárků<br><br>Poplatky – agentura: marketingové služby, včetně poplatků za agenturu<br><br>Partneři Surface můžou nárokovat až 100% získaných fondů souběžných op na období použití pro oprávněné výdaje na aktivity. |
+|Oprávněné výdaje    | Skutečné náklady do 25 % celkových získaných prostředků spolupráce na období využití pro: Signage, display, printed materials<br><br>Dárky<br><br>Poplatek – agentura: Marketingové služby, včetně poplatků za agenturu<br><br>Partneři Surface si mohou nárokovat až 100 % získaných prostředků spolupráce na období využití u oprávněných výdajů na aktivitu. |
 
-### <a name="on-site-champ"></a>Champ na pracovišti
+### <a name="on-site-champ"></a>On-siteOvá mapa
 
-| Kategorie | Ověření provedení    |
+| Kategorie | Doklad o provedení    |
 | ------ | ----------- |
-| Základní požadavky    | Služby zaměřené na 100% v produktech Microsoftu | 
+| Základní požadavky    | 100% zaměření služeb na produkty Microsoftu | 
 | Požadavky na komunikaci | Ukázka dodávek (na základě toho, co je popsáno ve formuláři Champ na webu) |
 | Metriky     | NA |
 |Oprávněné výdaje    | Skutečné náklady až do 100% pro Surface a 50% pro všechny ostatní programy získaných souběžných prostředků na období použití pro: poplatky – služby: služby poskytované na základě prostředků Champ na pracovišti |
@@ -173,31 +170,31 @@ Následující tabulky popisují základní požadavky na jednotlivé přijaté 
 | Kategorie | Ověření provedení    |
 | ------ | ----------- |
 | Základní požadavky    | Kód kurzu/kód pro zkoušku na webu Microsoft Learning |
-| Požadavky na komunikaci | Faktura třetí strany s kódem kurzu a datem dokončení nebo faktury s kódem zkoušky a datem dokončení |
+| Požadavky na komunikaci | Faktura třetí strany s kódem kurzu a datem dokončení faktury nebo kódem zkoušky a datem dokončení |
 | Metriky     | Seznam účastníků a náklady na osobu |
-|Oprávněné výdaje    | Poplatky za zkoušku: poplatky za zkoušku Microsoftu pro certifikace a kompetence<br><br>Poplatek-školení/tuition: poplatky za potvrzení a kompetenci společnosti Microsoft tuition, včetně nákladů na školení na vyžádání<br><br>Školení řešení ISV od jiných výrobců – tuition výdaje na školení týkající se řešení třetích stran, která je možné vymezit a využívat aplikace a platformy Microsoftu<br><br>MCT obnovení: poplatek za obnovení Microsoft Certified Trainer (není vyžadována žádná metrika)<br><br>|
+|Oprávněné výdaje    | Poplatek – zkouška: Poplatky za zkoušky Microsoftu za certifikace a kompetence<br><br>Poplatek – školení nebo výuka: Poplatky microsoftu za výuku pro certifikace a kompetence, včetně výdajů na školení na vyžádání<br><br>Školení k řešení isv třetích stran – výdaje na výuku u řešení třetích stran, u které je možné předvést, že využívají nebo se nacházejí na aplikacích a platformách Microsoftu<br><br>Poplatek – Prodloužení platnosti MCT: Microsoft Certified Trainer poplatek za prodloužení (nevyžaduje se žádná metrika)<br><br>|
 
-### <a name="internal-training-and-floor-days"></a>Interní školení a dny podlaží
+### <a name="internal-training-and-floor-days"></a>Interní trénování a dny na podlažích
 
-| Kategorie | Ověření provedení    |
+| Kategorie | Doklad o provedení    |
 | ------ | ----------- |
-| Základní požadavky    | 100% obsahu Microsoftu pro časový rámec dne nebo místa, které se uplatňuje |
-| Požadavky na komunikaci | Školicí agenda nebo program událostí<br><br>Obsah prezentace společnosti Microsoft<br><br>|
+| Základní požadavky    | 100% obsah Microsoftu pro nárokovaný časový rámec dne nebo prostoru událostí |
+| Požadavky na komunikaci | Školicí program nebo program událostí<br><br>Prezentační obsah Microsoftu<br><br>|
 | Metriky     | Počet účastníků |
-|Oprávněné výdaje    | Poplatek – školení/tuition/registrace/platforma pro digitální školení nebo formátování digitálního školení<br><br>Podepsané/zobrazované/tištěné materiály<br><br>Dárků<br><br>Poplatky – agentura: marketingové služby, včetně poplatků za agenturu<br><br>Poplatek – externí mluvčí<br><br>Poplatky za zařízení a nájem zařízení<br><br>Stravování (s výjimkou alkoholu) |
+|Oprávněné výdaje    | Poplatek – trénování, výuka, registrace, digitální školicí platforma nebo digitální formátování školení<br><br>Signage / display / printed materials<br><br>Dárky<br><br>Poplatek – agentura: marketingové služby, včetně poplatků za agenturu<br><br>Poplatek – externí mluvčí<br><br>Poplatek – pronájem zařízení a zařízení<br><br>Nahoty (s výjimkou nealkoholických produktů) |
 
 ### <a name="microsoft-hosted-conferences"></a>Konference hostované Microsoftem
 
-| Kategorie | Ověření provedení    |
+| Kategorie | Doklad o provedení    |
 | ------ | ----------- |
-| Základní požadavky    | Konference hostované Microsoftem. Náklady na letenky/Hotel jsou omezené až do 5 000 USD na osobu na konferenci, omezené na 3 účastníky, s celkovým limitem USD 45 000 pro letenky/vlakové výdaje za Hotel za období na program. Hostování může mít jiné příspěvky. |
-| Požadavky na komunikaci | Kopie pozvánky na konferenci nebo pozvání k události nebo potvrzení registrace s informacemi o tom, že konference je hostována společností Microsoft<br><br>Cestovní trasa s daty o cestování (jenom cestovní výdaje letenky) |
+| Základní požadavky    | Konference hostované Microsoftem. Výdaje na airfare/hotel jsou omezené na 5 000 USD na každou konferenci a jsou omezené na 3 účastníky s celkovým limitem 45 000 USD na ceny letenek, jízdné a hotelů za období a program. Hostování může mít různé příspěvky. |
+| Požadavky na komunikaci | Kopie pozvánky na konferenci nebo události nebo potvrzení registrace zobrazující důkaz, že konference je hostovaná Microsoftem<br><br>Itinerář dopravy s daty cest (pouze cestovní výdaje) |
 | Metriky     | NA |
-|Oprávněné výdaje    | Registrace poplatků: po dobu až 3 účastníků na konferenci<br><br>Cestovné – letenky/Hotel: přeprava (letenky nebo vlak cestovné a příslušné daně) a Hotel (jenom sazby za místnost a příslušné daně)<br><br>Poznámka: cestovní náklady na letenky/Hotel jsou omezené až do 5 000 USD na osobu na konferenci a omezená na 3 účastníky s celkovým limitem USD 45 000 pro letenky/vlakové výdaje za Hotel za období na program. Hostování může mít jiné příspěvky. |
+|Oprávněné výdaje    | Poplatek – registrace: až pro 3 účastníky na konferenci<br><br>Cesta – Airfare/Hotel: Doprava (ceny za let nebo trénování a příslušné daně) a hotel (jenom sazba za místnost a příslušné daně)<br><br>Poznámka: Cestovní výdaje – Výdaje na letecké tarify a hotely jsou omezené na 5 000 USD na každou konferenci, omezeno na 3 účastníky s celkovým limitem 45 000 USD na ceny letenek, jízdné a hotelové výdaje za období na program. Hostování může mít různé příspěvky. |
 
-### <a name="product-seedingdemo-units"></a>Počáteční a demonstrační jednotky produktu
+### <a name="product-seedingdemo-units"></a>Dosytování produktů / ukázkové jednotky
 
-| Kategorie | Ověření provedení    |
+| Kategorie | Doklad o provedení    |
 | ------ | ----------- |
 | Základní požadavky    | Můžete uplatnit až 10% celkových kumulovaných prostředků souběžného zpracování nebo 3 000 USD, podle toho, co je více nebo za každé období. Partneři Surface PC & hub nemají limit deklarací identity. |
 | Požadavky na komunikaci | Specifikace systémů pro demonstrační jednotky vestavěné interně.<br><br>Důkaz doručení pro demonstrační jednotku třetí strany.<br><br>Kontrola demonstrační jednotky třetích stran. |

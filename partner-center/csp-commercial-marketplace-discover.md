@@ -9,19 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f741ef4e44632e1d239285b58e99fbb38a8f37e7
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: ab30f8391df58155c8511dc628b1fefd94c8d768
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979596"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147968"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Objevte nabídky a ceny v partnerském centru komerční Marketplace
 
-**Příslušné role**
-
-- Globální správce
-- Agent správce
+**Příslušné role**: globální správce | Agent správce
 
 Pokud se nezávislí dodavatelé softwaru (ISV) rozhodli publikovat nabídku na komerčním webu Marketplace, můžou se také rozhodnout, jestli chtějí nabídku zpřístupnit v programu CSP. Pokud se rozhodne prodávat nabídku prostřednictvím programu CSP, měla by partnerům CSP zobrazit nabídku v oblasti tržiště partnerského centra.
 
@@ -45,37 +42,37 @@ Zobrazení dostupných komerčních nabídek pro Marketplace v programu CSP:
 
 3. Vyberte filtr podle typu nebo kategorie. Pomocí **vyhledávání** můžete také vyhledat konkrétní klíčová slova, názvy nabídek nebo názvy vydavatelů ISV.
 
-4. Vyberte ze seznamu konkrétní nabídku produktu. Tím přejdete na kartu Přehled produktu, kde můžete získat další informace o této nabídce. Informace na této kartě můžou zahrnovat: 
+4. V seznamu vyberte konkrétní nabídku produktů. Tím se zobrazí karta Přehled produktu, kde najdete další informace o nabídce. Mezi informace na této kartě můžou zahrnovat: 
 
     - Popis produktu nebo nabídky
 
     - Další informace o vydavateli ISV
 
-    - Odkazy na dokumentaci nebo marketingové materiály odeslané vydavatelem ISV
+    - Odkazy na dokumentaci nebo marketingové materiály nahrané vydavatelem ISV
 
-    - Další možné kontakty ISV pro zákaznickou podporu, inženýrství nebo kontaktní osoby pro program CSP
+    - Další možné kontakty isv pro zákaznickou podporu, techniku nebo kontakt pro program CSP
 
-5. Pokud chcete zobrazit další informace o dostupných plánech, SKU nebo cenách nabídky, vyberte kartu **plány a ceny** . Na této kartě se zobrazí:
+5. Pokud chcete zobrazit další informace o dostupných plánech, skladových cenách nebo plánech nabídky, vyberte kartu **Plány a** ceny. Na této kartě se zobrazí:
 
-    - Trhy, na kterých je tato nabídka k dispozici
+    - Trhy, na kterých máte tuto nabídku k dispozici
 
-    - Seznam SKU nebo plánů dostupných pro nabídku
+    - Seznam skladových položek nebo plánů dostupných pro nabídku
 
-    - Ceny pro každou dostupnou SKU nebo plán
+    - Ceny pro jednotlivé dostupné SKU nebo plány
 
-## <a name="view-marketplace-offers-via-partner-center-apis"></a>Zobrazení nabídek Marketplace prostřednictvím rozhraní API partnerského centra
+## <a name="view-marketplace-offers-via-partner-center-apis"></a>Zobrazení nabídek marketplace prostřednictvím Partnerské centrum API
 
-Partneři programu CSP můžou také použít rozhraní API k vrácení seznamu oprávněných nabídek. Opravňující nabídky budou jenom SaaS prodejci softwaru, kteří jsou k dispozici partnerovi, aby je mohli prodávat přes tržiště partnerského centra. Partnerům, kteří používají rozhraní API k identifikaci nabídek v katalogu, najdete v pokynech k [získání seznamu nabídek pro trh](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+Partneři programu CSP mohou také pomocí rozhraní API vrátit seznam oprávněných nabídek. Způsobilé nabídky budou pouze nabídky SaaS ISV, které partner může prodávat prostřednictvím Partnerské centrum Marketplace. Pokud partneři používají rozhraní API k identifikaci nabídek v katalogu, přečtěte si pokyny k získání seznamu nabídek [pro trh.](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)
 
-## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Zobrazit nejnovější ceny nabídky na webu Marketplace v partnerském centru
+## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Zobrazení nejnovějších cen nabídek Marketplace v Partnerské centrum
 
-Pomocí těchto kroků získáte nejnovější informace o cenách spojené s nabídkou:
+Nejnovější podrobnosti o cenách přidružené k nabídce najdete podle těchto kroků:
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra a pak v levé navigační nabídce vyberte **CSP** .
+1. Přihlaste se Partnerské centrum [řídicího](https://partner.microsoft.com/dashboard)panelu a pak v levé navigační nabídce vyberte **CSP.**
 
-2. Vyberte **prodávat** a potom klikněte na **ceny a nabídky**.
+2. Vyberte **Sell (Prodej)** a pak **Pricing and offers (Ceny a nabídky).**
 
-3. Posuňte se dolů k části **Marketplace** , vyberte umístění a Stáhněte si **ceny na webu Marketplace**. Tím se vygeneruje tabulka s nejnovějšími údaji o cenách pro SaaS, nabídkami na základě licencí a měřené nabídky dostupné od vydavatelů ISV. Tady se můžou objevit i některé ceny za aplikace Azure. Tyto informace se aktualizují každý den, takže si je můžete podle potřeby podívat na aktuální ceny.
+3. Posuňte se dolů do **části Marketplace,** vyberte umístění a stáhněte si **ceny za Marketplace.** Tím se vygeneruje tabulka s nejnovějšími údaji o cenách pro SaaS, nabídkami na základě licencí a měřené nabídky dostupné od vydavatelů ISV. Tady se můžou objevit i některé ceny za aplikace Azure. Tyto informace se aktualizují každý den, takže si je můžete podle potřeby podívat na aktuální ceny.
 
 4. Pokud produkt ISV obsahuje bezplatné zkušební období, zobrazí se v tabulce dva řádky pro daný produkt:
 

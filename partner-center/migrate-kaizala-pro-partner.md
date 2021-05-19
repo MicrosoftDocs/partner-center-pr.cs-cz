@@ -1,6 +1,6 @@
 ---
 title: Migrace předplatných Kaizala Pro na Microsoft 365
-description: Přečtěte si, jak migrovat odběry Kaizala pro do Microsoft 365 nebo verzí Office 365. Přečtěte si tento článek, kde najdete další podrobnosti o přechodu zákazníků.
+description: Zjistěte, jak migrovat předplatná Kaizala Pro na Microsoft 365 nebo verze Office 365. Další podrobnosti o přechodu zákazníků najdete v tomto článku.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,37 +8,35 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 583e9c40bb8d161c30440f12331dc8dcbf3db417
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172400"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146421"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrace samostatného předplatného Kaizala pro na verze Microsoft 365 nebo Office 365
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrace samostatných předplatných Kaizala Pro na Microsoft 365 nebo verze Office 365
 
-**Příslušné role**
+**Odpovídající role:** Agent prodeje
 
-- Agent prodeje
+Od 1. července 2020 Microsoft ukončí prodej samostatné služby Kaizala Pro. Zákazníci už nebudou moct po tomto datu kupovat nová předplatná Kaizala Pro a stávající předplatná Kaizala Pro se po vypršení jejich platnosti automaticky neobnoví.
 
-Od 1. července 2020 společnost Microsoft ukončuje prodej samostatné služby Kaizala pro. Zákazníci už nebudou moct koupit nové předplatné Kaizala pro po tomto datu a stávající předplatné Kaizala pro se po uplynutí této doby nebudou automaticky obnovovat.
+Pokud chcete zajistit kontinuitu pro zákazníky, měli byste zákazníky, kteří mají vypršenou platnost samostatných předplatných Kaizala Pro, pře převodovat na podporovanou možnost SKU uvedenou níže. Doporučujeme přestěhovat zákazníky na nová předplatná před ročním datem ukončení předplatného, abyste se vyhnuli výpadkům služeb pro zákazníky.
 
-Chcete-li zajistit kontinuitu pro zákazníky, doporučujeme, abyste zákazníkům přešli do vypršení platnosti samostatného předplatného Kaizala pro s podporovanou možností SKU, která je uvedená níže. Doporučujeme zákazníkům přesunout nové předplatné před uplynutím ročního koncového data předplatného, aby se předešlo výpadkům služby pro zákazníky.
+Pokud používáte rozhraní API (CREST nebo Partnerské centrum), můžete zjistit předplatná, kterým vyprší platnost, vyhodnocením koncového data odběru spolu s vlastností automatického obnovení nastavenou na false: `auto renew = False` .
 
-Pokud používáte rozhraní API (buď CREST nebo Partnerská centra), můžete zjistit platnost předplatných, a to tak, že vyhodnocujete koncové datum předplatného spolu s vlastností automatického obnovení nastavenou na hodnotu NEPRAVDA: `auto renew = False` .
+Předplatná E4 se nastaví na `auto renew=False` 1. července 2020. Zákazníky můžete kdykoli přesunout do nového plánu.
 
-Odběry E4 budou nastavené na `auto renew=False` 1. července 2020. Zákazníky můžete kdykoli přesunout do nového plánu.
+## <a name="kaizala-pro-standalone-replacement-plans"></a>Náhradní plány Kaizala Pro Standalone
 
-## <a name="kaizala-pro-standalone-replacement-plans"></a>Samostatné plány nahrazení Kaizala pro
+S těmito novými plány mohou vaši zákazníci využívat novější funkce v Microsoft 365. Podrobnosti o cenách najdete v matici ceníku a seznamu nabídek v Partnerské centrum.
 
-S novými plány můžou zákazníci využít výhod novějších funkcí a funkcí v Microsoft 365. Podrobnosti o cenách najdete v seznamu ceníků a v tabulce seznam nabídek v partnerském centru.
-
-- [**Microsoft 365 pro firmy**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2), včetně:  
+- [**Microsoft 365 for Business,**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)včetně:  
    - Microsoft 365 Business Basic
    - Microsoft 365 Business Standard
    - Microsoft 365 Business Premium
     
-- [**Microsoft 365 pro prvotní**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), včetně:
+- [**Microsoft 365 pro frontline**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), včetně:
    - Microsoft 365 F3 (dříve Microsoft 365 F1) a Office 365 F3
     
 - [**Microsoft 365 pro podniky**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans), včetně: 
@@ -72,24 +70,24 @@ C. Zrušit staré předplatné
 
 Váš zákazník by teď měl mít staré i nové předplatné, staré předplatné Kaizala pro a nové předplatné Target, třeba možnost 1 – Office 365 Enterprise F1.
 
-### <a name="b-reassign-current-user-licenses"></a>B. Změna přiřazení licencí k aktuálním uživatelům
+### <a name="b-reassign-current-user-licenses"></a>B. Opětovné přiřazení aktuálních uživatelských licencí
 
-1. Pokud chcete znovu přiřadit licence uživatelů zákazníka, vyberte v nabídce **Partnerské centrum** možnost **zákazníci**, vyberte zákazníka, kterého přesouváte, a pak vyberte **Uživatelé a licence**. Otevře se stránka uživatelé a licence zákazníka.
+1. Pokud chcete znovu přiřadit licence uživatelů zákazníka, v nabídce **Partnerské centrum** vyberte **Zákazníci,** vyberte zákazníka, který přesouváte, a pak vyberte Uživatelé a **licence.** Otevře se stránka Uživatelé a licence zákazníka.
 
-2. Pokud chcete znovu přiřadit uživatelskou licenci, vyberte uživatele, kterého chcete znovu přiřadit, a pak vyberte **spravovat licence**.
+2. Pokud chcete znovu přiřadit uživatelskou licenci, vyberte uživatele, který chcete znovu přiřadit, a pak vyberte **Spravovat licence.**
 
-3. Na stránce **spravovat licence** zrušte zaškrtnutí políčka Kaizala pro samostatnou licenci a vyberte nový plán služby pro předplatné, na které se bude zákazník pohybovat.
+3. Na stránce **Spravovat licence** zrušte zaškrtnutí políčka Kaizala Pro Standalone license (Samostatná licence Kaizala Pro) a vyberte nový plán služby pro předplatné, do které zákazník přemísťuje.
 
-4.  Vyberte **Odeslat**. Stránka s potvrzením obsahuje seznam nových přiřazení licencí. Pokračujte stejným postupem pro ostatní uživatele, kteří potřebují přiřazení licencí.
+4.  Vyberte **Odeslat**. Na potvrzovací stránce se zobrazí nová přiřazení licencí. Pokračujte stejným způsobem i pro ostatní uživatele, kteří potřebují přiřazení licencí.
 
-### <a name="c-cancel-old-subscription"></a>C. Zrušit staré předplatné
+### <a name="c-cancel-old-subscription"></a>C. Zrušení starého předplatného
 
-Po přesunutí uživatelské licence na novou službu můžete zrušit vyřazené předplatné na úrovni zákazníka.
+Po přesunutí uživatelské licence na novou službu můžete vyřazené předplatné bezpečně zrušit na úrovni zákazníka.
 
-1.  V nabídce **Partnerské centrum** vyberte **zákazníci**. Vyberte zákazníka, jehož předplatné rušíte.
+1.  V **nabídce Partnerské centrum** vyberte **Zákazníci.** Vyberte zákazníka, jehož předplatné zrušíte.
 
-2.  Na stránce s podrobnostmi předplatného nastavte předplatné na **pozastaveno**.
+2.  Na stránce s podrobnostmi o předplatném nastavte předplatné na **Pozastaveno.**
 
 3.  Vyberte **Odeslat**.
 
-Staré předplatné je pozastavené a nové předplatné je aktivní. Pozastavený odběr bude po 120 dnech automaticky zřízen. Zákazník nevzniká žádné další poplatky za původní předplatné.
+Původní předplatné je pozastavené a nové předplatné je aktivní. Pozastavené předplatné bude po 120 dnech automaticky zrušeno. Za staré předplatné se zákazníkovi ne účtuly žádné další poplatky.

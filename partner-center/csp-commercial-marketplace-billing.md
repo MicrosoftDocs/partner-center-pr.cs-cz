@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c25d4ab3077c6a0f648c767472e8b7b60ef53a9c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979528"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148019"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Faktura za produkty a předplatné z komerčního tržiště v partnerském centru
 
 
-**Příslušné role**
-
-- Globální správce
-- Správce fakturace
+**Příslušné role**: globální správce | Správce fakturace
 
 Jako partner v programu CSP můžete použít Partnerské centrum k nákupu SaaS produktů založených na licencích od vydavatelů ISV na komerčním webu Marketplace. Až to uděláte, můžete pro tyto typy nákupů získat přístup k faktuře. Fakturační období začíná první den v kalendářním měsíci a končí poslední den v kalendářním měsíci. Faktury jsou k dispozici v 8. den následujícího měsíce.
 
@@ -31,32 +28,32 @@ K fakturám máte přístup z [řídicího panelu](https://partner.microsoft.com
 Partneři v programu CSP se účtují podle řešení ISV Commercial Marketplace zakoupeného pro zákazníka, když si tyto produkty koupí z partnerského centra nebo z Azure Portal (pomocí předchozího poskytovatele Azure koupeného v rámci CSP).
 
 >[!NOTE]
->Pokud zákazníci používají svůj tenant Azure AD (nekoupený od partnera v programu CSP), můžou si taky koupit své vlastní řešení ISV SaaS přímo z ([Microsoft AppSource](https://appsource.microsoft.com/) nebo [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Pokud tomu tak je, obdrží svou vlastní faktura přímo od společnosti Microsoft. Podobně platí, že pokud partner v programu CSP prodává předplatné Azure nebo nový plán Azure pro zákazníka a udělí zákazníkovi (nebo nepřímému prodejci) [přístup na základě role](/azure/role-based-access-control/built-in-roles) k tomuto tenantovi (přiřazení jakékoli role k zákazníkovi kromě **čtecího zařízení**), může si zákazník (nebo nepřímý prodejce) zakoupit také nabídky komerčního tržiště bez předchozího schválení nebo oznámení partnerovi CSP. V těchto případech Microsoft neoznamuje partnerům v programu CSP informace o nákupech provedených svými zákazníky. Microsoft ale nabízí volitelný [Azure monitor](/azure/azure-monitor/platform/alerts-activity-log) mechanismus, který můžete použít k nastavení výstrah nebo oznámení o aktivitě v rámci předplatného Azure.
+>Pokud zákazníci používají svůj tenant Azure AD (nekoupený od partnera v programu CSP), můžou si taky koupit své vlastní řešení ISV SaaS přímo z ([Microsoft AppSource](https://appsource.microsoft.com/) nebo [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Pokud tomu tak je, obdrží svou vlastní faktura přímo od společnosti Microsoft. Podobně platí, že pokud partner v programu CSP prodává předplatné Azure nebo nový plán Azure pro zákazníka a udělí zákazníkovi (nebo nepřímému prodejci) [přístup na základě role](/azure/role-based-access-control/built-in-roles) k tomuto tenantovi (přiřazení jakékoli role k zákazníkovi kromě **čtecího zařízení**), může si zákazník (nebo nepřímý prodejce) zakoupit také nabídky komerčního tržiště bez předchozího schválení nebo oznámení partnerovi CSP. V těchto případech Microsoft neoznamuje partnerům v programu CSP informace o nákupech provedených svými zákazníky. Microsoft ale nabízí volitelný [](/azure/azure-monitor/platform/alerts-activity-log) mechanismus Azure Monitor, který můžete použít k nastavení upozornění nebo oznámení o aktivitě v předplatném Azure.
 
-## <a name="access-billing-information-for-commercial-marketplace-products"></a>Přístup k informacím o fakturaci pro produkty z komerčního tržiště
+## <a name="access-billing-information-for-commercial-marketplace-products"></a>Přístup k fakturačním údajům pro produkty komerčního marketplace
 
-Správce globálního správce nebo fakturace vaší společnosti obdrží e-mail, když je faktura připravena k zobrazení. Přístup k nejnovějšímu souboru faktury a odsouhlasení pro nákupy produktů z komerčního tržiště:
+Globální správce nebo správce fakturace vaší společnosti obdrží e-mail, jakmile bude faktura připravená k zobrazení. Přístup k nejnovější faktuře a souboru s vyrovnáním pro nákupy produktů na komerčním marketplace:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/)partnerského centra.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/) pro Partnerské centrum.
 
-2. V nabídce partnerského centra vyberte **fakturace**. 
+2. V nabídce Partnerské centrum vyberte **Fakturace.** 
 
-    V horní části stránky fakturace se zobrazí dvě karty: **opakované** a **opakované a jednorázové nákupy**. Každá karta umožňuje přístup k souborům faktury a odsouhlasení (rekognoskaci) pro různé produkty na webu Marketplace:
+    V horní části stránky Fakturace se zobrazí dvě karty: **Opakované** a Opakované **a opakované nákupy.** Každá karta umožňuje přístup k souborům faktur a odsouhlasení (odsouhlasení) pro různé produkty z marketplace:
 
-    - Karta **perioda** : zobrazuje soubory faktury a odsouhlasení pro předplatné související s Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro a Microsoft Azure.
+    - **Opakovaná** karta: Zobrazuje soubory faktur a odsouhlasení pro předplatná související s Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro a Microsoft Azure.
 
-    - Karta **opakovaná a jednorázová nákupy** : zobrazuje soubory faktury a odsouhlasení pro plán Azure, rezervace Azure, software a komerční produkty z webu Marketplace.
+    - **Karta Opakované a opakované nákupy:** Zobrazuje soubory faktur a odsouhlasení pro plán Azure, rezervace Azure, produkty softwarového a komerčního marketplace.
   
-3. Vyberte kartu **opakované a jednorázové nákupy** . Pokud jste si zakoupili předplatné pro zákazníka v jiné měně, zobrazí se vám karta pro každou měnu. Můžete provést několik věcí fr: objekt OM této stránky:
+3. Vyberte kartu **Opakované a opakované** nákupy. Pokud jste si zakoupili předplatná pro zákazníka v jiné měně, zobrazí se karta pro každou měnu. Na této stránce můžete udělat několik věcí:
 
-    - Chcete-li zobrazit nejnovější soubor faktury a odsouhlasení, vyberte možnost soubor **faktury** nebo **odsouhlasení**. (Pokud jste chtěli, můžete také přistupovat k nejnovější faktuře a datům souborů rekognoskaci pomocí [rozhraní API partnerského centra](/partner-center/develop/).
+    - Pokud chcete zobrazit nejnovější fakturu a soubor s vyrovnáním, vyberte **Faktura** nebo **Soubor s vyrovnáním.** (Pokud chcete, můžete také získat přístup k nejnovější faktuře a odsoudíte data souborů [pomocí Partnerské centrum API.](/partner-center/develop/)
 
-    - Pokud chcete zobrazit dřívější faktury a soubory rekognoskaci, rozbalte níže uvedený řádek **historie fakturace** .
+    - Pokud chcete zobrazit dřívější soubory faktur a odsouových vyúčtování, rozbalte řádek **Historie fakturace** níže.
 
-    - Pokud chcete na základě nejnovější aktivity účtu kontrolovat odhadované Saldo účtu nebo fakturovat, vyberte odkaz pod hlavičkou **odhady** .  
+    - Pokud chcete kdykoli zkontrolovat odhadovaný zůstatek účtu nebo fakturu na základě nejnovější aktivity účtu, vyberte odkaz pod **nadpisem Odhady.**  
 
     >[!NOTE]
-    > Když vyúčtujeme datum v 8. den v měsíci, bude se jednat o daně a další příslušné poplatky a kredity. To znamená, že poslední dlužná částka se může lišit od toho, co vidíte během fakturačního období.
+    > Když fakturu zveřejňujeme 8. den v měsíci, bude zahrnovat daně a všechny ostatní příslušné poplatky a kredity. To znamená, že konečná splatná částka se může lišit od toho, co vidíte během fakturačního období.
 
 ## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>Další informace o fakturách a rekognoskaci souborech pro produkty z komerčního tržiště
 
@@ -85,23 +82,23 @@ Vaše faktura bude obsahovat několik stránek:
 
 - **Strana 1 faktury:** Obsahuje souhrnný přehled podrobností fakturace partnera programu CSP. Zahrnuje souhrn poplatků za fakturační období, číslo faktury, platební podmínku (NET 60 dní) a způsoby platby za službu, které se účtují podle drátu nebo pomocí kontroly.
 
-- **Stránka 2 (a všechny následné stránky) faktury:** Podrobnosti se účtují jak pro nákupy od Microsoftu, tak pro nákupy od jiných výrobců ISV (na základě licencí) z komerčního tržiště. Nákupy na základě licencí ISV můžete identifikovat na řádku **vydavatele** pod každým názvem produktu. Přidružený soubor pro odsouhlasení nabízí další fakturační údaje za konkrétní poplatky za fakturu.
+- **Stránka 2 (a všechny následné stránky) faktury:** Podrobnosti se účtují jak pro nákupy od Microsoftu, tak pro nákupy od jiných výrobců ISV (na základě licencí) z komerčního tržiště. Nákupy na základě licencí isv můžete identifikovat na řádku **Vydavatel** pod každým názvem produktu. Přidružený soubor s vyrovnáním nabízí další podrobnosti fakturace pro konkrétní poplatky za fakturu.
 
-- **Poslední stránka faktury:** Pokud vám byly účtovány licence na webu Tržiště od nezávislého výrobce softwaru, zobrazí se na poslední stránce více podrobností o jménu a adrese vydavatele ISV.
+- **Poslední stránka faktury:** Pokud vám od isv účtovány produkty z marketplace založené na licencích, na této poslední stránce se zobrazí další podrobnosti o názvu a adrese vydavatele ISV.
 
-### <a name="tips-on-reading-your-reconciliation-file"></a>Tipy pro čtení souboru odsouhlasení
+### <a name="tips-on-reading-your-reconciliation-file"></a>Tipy ke čtení souboru s vyrovnáním
 
-Soubor pro odsouhlasení **opakujícího se a jednorázového nákupu** obsahuje několik sloupců s dalšími podrobnostmi, které se mapují na poplatky ve vaší faktuře. Sloupec **vydavatele** zobrazuje, zda je nákup od společnosti Microsoft nebo vydavatele ISV jiného výrobce.
+Soubor **sesouhlasení** opakovaných a opakovaných nákupů obsahuje několik sloupců s dalšími podrobnostmi, které se mapuje na poplatky na faktuře. Ve **sloupci PublisherName** se zobrazuje, jestli nákup pochází od Microsoftu nebo od vydavatele ISV třetí strany.
 
-Některé poplatky v souboru odsouhlasení se můžou zobrazit s náklady $0. Důvodem může být nabídka "bezplatné zkušební verze" ISV (obvykle 30 nebo 60 dní) nebo nabídka vlastní licence.
+Některé poplatky v souboru s vyrovnáním se dají zobrazit s náklady ve výši 0 USD. Důvodem může být nabídka bezplatné zkušební verze (obvykle 30 nebo 60 dnů) od výrobce softwaru nebo nabídka s vlastní licencí.
 
-V případě bezplatného dodavatele softwaru pro bezplatné zkušební verze nabízí:
+V případě nabídek bezplatných zkušebních verzí isv:
 
-- Bezplatné zkušební období zahrnuje náklady na produkt SaaS založený na licenci ISV v této době. Nebudete se vám účtovat ani pro přidružené využití infrastruktury Azure tohoto produktu SaaS.  Pokud ale používáte nabídku ISV založenou na používání, bezplatná zkušební verze nezahrnuje náklady na základní využití infrastruktury Azure. V takovém případě se poplatky za využití infrastruktury Azure zobrazí v samostatném souboru pro odsouhlasení Azure.
+- Bezplatné zkušební období pokrývá během této doby náklady na produkt SaaS založený na licencích tohoto výrobce softwaru. Nebudou se vám účtovat ani poplatky za přidružené využití infrastruktury Azure pro tento produkt SaaS.  Pokud ale používáte nabídku isv na základě využití, bezplatná zkušební verze nezahrnuje náklady na využití základní infrastruktury Azure. V takovém případě se poplatky za využití infrastruktury Azure zobrazí v samostatném souboru s vyrovnáním v Azure.
 
-- Když si koupíte a nasadíte produkt opravňující k bezplatné zkušební verzi nezávislého výrobce softwaru pro zákazníka, zákazník se automaticky zaregistruje v bezplatné zkušební verzi vydavatelem ISV. Bezplatné zkušební období skončí automaticky po období definovaném vydavatelem ISV. Po skončení období se bude účtovat zákazník. To znamená, že soubor pro odsouhlasení může zobrazit dva řádky pro produkt s nárokem na zkušební verzi: jeden, který sleduje zkušební období, a druhý, který sleduje placené nabídky (po skončení zkušebního období se zobrazí cena $0). Po skončení zkušebního období se v řádku zobrazujícím placenou nabídku začnou zobrazovat poplatky. 
+- Když pro zákazníka zakoupíte a nasadíte bezplatný produkt způsobilý k zkušební verzi od isv, je tento zákazník automaticky zaregistrovan v bezplatné zkušební verzi vydavatelem ISV. Bezplatné zkušební období končí automaticky po období definovaném vydavatelem ISV. Po uplynutí této doby se zákazníkovi budou účtovat poplatky. To znamená, že soubor s vyrovnáním může u produktu s nárokem na zkušební verzi zobrazit dva řádky: jeden, který sleduje zkušební období a jeden, který sleduje placenou nabídku (zobrazí náklady ve výši 0 USD až do konce zkušebního období). Po ukončení zkušební verze začne řádek zobrazující placenou nabídku zobrazovat poplatky. 
 
-Další informace o tom, co jednotlivé sloupce představují, najdete v tématu [použití souborů odsouhlasení](use-the-reconciliation-files.md). Viz také [typy fakturace v partnerském centru](billing-different-types.md) .
+Další informace o tom, co jednotlivé sloupce představují, najdete v tématu [použití souborů odsouhlasení](use-the-reconciliation-files.md). Viz také [typy fakturace v partnerském centru](./billing-basics.md) .
 
 ## <a name="next-steps"></a>Další kroky
 

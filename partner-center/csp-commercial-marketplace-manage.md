@@ -1,50 +1,47 @@
 ---
-title: Správa produktů Marketplace & nabídek
+title: Správa produktů z marketplace & nabídek
 ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Pomocí partnerského centra se dozvíte, jak můžou poskytovatelé cloudového řešení spravovat nabídky třetích stran zakoupené pro zákazníky z komerčního tržiště.
+description: Pomocí Partnerské centrum zjistěte, jak mohou poskytovatelé Cloud Solution Providers spravovat nabídky isv třetích stran zakoupené pro zákazníky z komerčního marketplace.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979672"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147900"
 ---
-# <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Správa produktů a nabídek komerčního tržiště pro vaše zákazníky
+# <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Správa produktů a nabídek komerčního marketplace pro vaše zákazníky
 
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Agent pro správu
 
-- Globální správce
-- Agent správce
+Partneři v programu Cloud Solution Provider (CSP) mohou pomocí portálu Partnerské centrum nakupovat řadu nabídek SAAS nebo předplatných ISV pro své zákazníky z komerčního marketplace. Po zakoupení nabídky můžete nabídku spravovat různými způsoby.
 
-Partneři v programu Cloud Solution Provider (CSP) můžou použít portál partnerského centra k nákupu mnoha nabídek SaaS ISV nebo předplatných pro své zákazníky z komerčního tržiště. Po zakoupení nabídky máte různé způsoby, jak ji spravovat.
+## <a name="view-or-edit-a-subscription"></a>Zobrazení nebo úprava předplatného
 
-## <a name="view-or-edit-a-subscription"></a>Zobrazit nebo upravit předplatné
+Po zakoupení předplatného od vydavatele isv jiného výrobce softwaru ho můžete zkontrolovat nebo upravit následujícím způsobem:
 
-Po zakoupení předplatného od jiného vydavatele ISV jiného výrobce ho můžete zkontrolovat nebo upravit následujícím způsobem:
+1. Přihlaste se k Partnerské centrum [a](https://partner.microsoft.com/dashboard) **pak** v levé navigační nabídce vyberte Zákazníci.
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra a v levé navigační nabídce vyberte **zákazníky** .
+2. Vyberte příslušného zákazníka a pak vyberte **Předplatná.** Zobrazí se seznam všech předplatných založených na licencích, která jste pro zákazníka zakoupili.
 
-2. Vyberte příslušného zákazníka a pak vyberte **předplatná**. Obsahuje seznam všech předplatných založených na licencích, které jste zakoupili pro zákazníka.
+3. Ve **sloupci Předplatné** vyberte předplatné, které chcete zobrazit nebo upravit. Získáte tak další informace o nastavení nebo zřízení nabídky. (Pokud je u nabídky potřeba provést další akci, může se také ve sloupci Stav zobrazit stav "Action Needed" (Potřebná akce). To může být také doplněno odkazem na web vydavatele ISV.)
 
-3. Ve sloupci **předplatné** vyberte předplatné, které chcete zobrazit nebo upravit. Získáte tak další informace o nastavení nebo zřízení nabídky. (Pokud se v nabídce vyžaduje více akcí, může se ve sloupci Stav zobrazit také stav "potřeba akce". Může se taky doprovázet odkaz na web vydavatele ISV.)
+4. Po výběru předplatného, které chcete zobrazit nebo upravit, vám stránka s podrobnostmi o předplatném umožní upravit předplatné a dělat věci jako:
 
-4. Po výběru předplatného, které chcete zobrazit nebo upravit, vám stránka s podrobnostmi o předplatném umožňuje upravit předplatné a dělat tyto věci:
+    - Změna přezdívky předplatného
 
-    - Změnit přezdívku předplatného
-
-    - Přidat nebo snížit počet licencí v předplatném
+    - Přidání nebo snížení počtu licencí v předplatném
 
     - Zrušení předplatného
 
-    - Vypnout automatické obnovení
+    - Vypnutí automatického prodloužení platnosti
 
     - Přidat nepřímý prodejce ID MPN, pokud je k dispozici
 
@@ -76,37 +73,37 @@ Vydavatel by vám měl poskytnout přizpůsobený odkaz a autorizační kód, kt
 
     - Poslat všem požadované adrese URL přímo zákazníkovi (nebo jinak sdělit podrobnosti o tomto předplatnému vašemu zákazníkovi)
 
-4. Po zadání požadovaných informací vydavateli bude Vydavatel zřídit a přiřadí příslušné licence. Fakturace předplatného se spustí až po výskytu následujících událostí:
+4. Po zadání požadovaných informací vydavateli bude Vydavatel zřídit a přiřadí příslušné licence. Fakturace předplatného se spustí až po těchto událostech:
 
     - Vydavatel ISV úspěšně přiřadil příslušné licence.
 
-    - Vydavatel ISV potvrdil společnost Microsoft (prostřednictvím samostatného rozhraní API pro plnění SaaS), že se nastavení účtu úspěšně dokončilo.
+    - Vydavatel ISV potvrdil Microsoftu (prostřednictvím samostatného rozhraní API pro plnění SaaS), že nastavení účtu bylo úspěšně dokončeno.
 
 ## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Zrušení předplatného SaaS založeného na licencích od vydavatele ISV
 
-Když se přihlásíte k odběru produktu SaaS založeného na licencích, který nabízí Vydavatel ISV v rámci komerčního tržiště, máte možnost zrušit předplatné v rámci stanoveného období zrušení. Tato doba zrušení se mění v závislosti na tom, zda máte měsíční nebo roční předplatné. Můžete také zvolit, zda má být předplatné automaticky obnoveno.
+Když se přihlásíte k odběru produktu SaaS založeného na licencích nabízeného vydavatelem ISV v rámci komerčního marketplace, máte možnost zrušit předplatné v rámci určeného období zrušení. Toto období zrušení se mění v závislosti na tom, jestli máte měsíční nebo roční předplatné. Můžete také zvolit, jestli se má předplatné automaticky obnovit.
 
-Další informace o časových obdobích zrušení, která platí, jak zrušit nebo jak automaticky obnovit předplatné, najdete v tématech:
+Další informace o platnosti období zrušení, zrušení nebo automatickém prodlužování platnosti předplatného najdete v těchto tématu:
 
 - [Zrušení předplatného](create-a-new-subscription.md#cancel-a-subscription)
 
-- [Automatické obnovení předplatného komerčního tržiště](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+- [Automatické prodloužení platnosti předplatného komerčního marketplace](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 
 ## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Přidání nebo odebrání licencí pro předplatné SaaS
 
-V případě nabídek SaaS Commercial Marketplace můžete přidat nebo odebrat uživatelské licence pro předplatné zákazníka.
+V případě nabídek na komerčním marketplace SaaS můžete přidat nebo odebrat uživatelské licence pro předplatné zákazníka.
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra a v levé navigační nabídce vyberte **zákazníky** .
+1. Přihlaste se k Partnerské centrum [a](https://partner.microsoft.com/dashboard) **pak** v levé navigační nabídce vyberte Zákazníci.
 
-2. Vyberte příslušného zákazníka a pak vyberte **předplatná**. Obsahuje seznam všech předplatných založených na licencích, které jste zakoupili pro zákazníka.
+2. Vyberte příslušného zákazníka a pak vyberte **Předplatná.** Zobrazí se seznam všech předplatných založených na licencích, která jste pro zákazníka zakoupili.
 
-3. Ve sloupci **předplatné** vyberte předplatné, které chcete upravit.
+3. Ve **sloupci Předplatné** vyberte předplatné, které chcete upravit.
 
-4. Na stránce Podrobnosti předplatného vyhledejte pole **množství** . Tady můžete zvýšit nebo snížit počet licencí.
+4. Na stránce s podrobnostmi o předplatném vyhledejte **pole Quantity.** Tady můžete zvýšit nebo snížit počet licencí.
 
-5. Změňte množství a pak vyberte **Odeslat**.
+5. Změňte množství a pak vyberte **Submit (Odeslat).**
 
-## <a name="manage-subscriptions-using-partner-center-apis"></a>Správa předplatných pomocí rozhraní API partnerského centra
+## <a name="manage-subscriptions-using-partner-center-apis"></a>Správa předplatných pomocí Partnerské centrum API
 
 Pomocí rozhraní API partnerského centra můžete také provádět správu životního cyklu a spravovat faktury pro vaše předplatná. Další informace najdete v tématu [Vytvoření odběru pro produkty z komerčního tržiště](/partner-center/develop/create-subscription-azure-marketplace-products).
 

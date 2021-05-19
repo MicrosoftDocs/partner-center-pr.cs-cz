@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 650f8085ba0e204b01f97a23640a37388ef57f17
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: fc082f40a778d09e96f6f8cb5a563197e2de6f18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475206"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147611"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Prodej místního softwaru prostřednictvím programu Cloud Solution Provider (CSP)
 
-**Příslušné role**
-
-- Agent správce
-- Globální správce
+**Příslušné role**: Agent správce | Globální správce
 
 Místní software v CSP podporuje hladký přechod do cloudu tím, že zavádí místní software do programu zaměřeného na Cloud.Tato nová nabídka pomáhá přinášet partnerovi přidané hodnoty do každého scénáře nákupu, protože poskytují jedinou platformu pro protransakční všechny produkty Microsoftu. Jako CSP můžete nyní prodávat místní software prostřednictvím partnerského centra kromě otevřených, EA a dalších programů, které se právě používají.  
  
@@ -36,37 +33,37 @@ Pokud chcete koupit předplatné softwaru jménem zákazníka, přejděte na str
 Jakmile zakoupíte software, vy nebo vaši zákazníci si ho budete muset stáhnout (partneři pomocí partnerského centra, zákazníci používající centrum pro správu Microsoft 365). K tomu použijte následující postup. Je důležité pochopit rizika spojená s kopírováním odkazů a stažením softwaru. Další informace najdete v tématu **použití partnerského centra k získání softwaru pro stahování a licenční klíče od zákazníka** v [partnerském centru nová provozní příručka pro obchod](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Aby bylo možné získat odkaz na klíče a soubory ke stažení, musíte být agentem správce v partnerském centru.
+>Abyste získali odkaz na klíče a soubory ke stažení Partnerské centrum musíte být agentem správce v aplikaci .
 
-1. Přejít na stránku podrobností zákazníka a pak vybrat **software**. Zobrazí se seznam veškerého softwaru, který jste si koupili jménem zákazníka.
+1. Přejděte na stránku s podrobnostmi o zákazníkovi a pak vyberte **Software**. Zobrazí se seznam veškerého softwaru, který jste zakoupili jménem zákazníka.
 
-2. Zvolte možnost **verze** produktu, **jazyk**, **bit** a vyberte **získat klíče a soubory ke stažení**. 
+2. Zvolte verzi **produktu,** **jazyk,** **bit** a vyberte **Získat klíče a soubory ke stažení.** 
 
-3. Vyberte **získat klíč** , ve kterém se zobrazí 32ý produkt v automaticky otevíraném dialogu, který můžete zkopírovat a poslat zákazníkovi. 
+3. Zvolte **Získat klíč,** který zobrazí 32místný produkt v automaticky otevíraným dialogovém okně, které můžete zkopírovat a odeslat zákazníkovi. 
 
-4. Pro stažení bitů klikněte na **Stáhnout** . 
+4. Pokud **chcete stáhnout** bity, zvolte Stáhnout. 
 
-5. Pokud chcete zákazníkovi odeslat odkaz na stažení služby BITS, klikněte na tlačítko **Kopírovat odkaz** . 
+5. Pokud **chcete zákazníkovi** poslat odkaz na stažení bitů, zvolte Kopírovat odkaz. 
 
-6. Můžete také **Zrušit** pořadí softwaru a získat kredit 100% (Pokud se to provede během období zásady zrušení v 60 dnech).
+6. Můžete také zrušit **objednávku** softwaru a získat 100% kredit (pokud jste to udělali během 60denního období zásad zrušení).
 
 >[!NOTE]
->Jenom zákazníci mají přístup, aby si mohli zobrazit kódy Product Key a stáhnout informace v centru pro správu Microsoft 365 (vyžaduje se role globálního správce). K zobrazení těchto informací partneři musí použít Partnerské centrum.
+>Pouze zákazníci mají přístup k zobrazení klíčů Product Key a stažení informací v centru Microsoft 365 pro správu (vyžaduje se role globálního správce). Partneři musí tyto Partnerské centrum použít k zobrazení těchto informací.
 
 ## <a name="cancel-a-purchase"></a>Zrušení nákupu
 
-K zrušení nákupu použijte následující postup. Po dokončení zrušení se softwarový klíč odvolá.
+Pokud chcete zrušit nákup, použijte následující postup. Po dokončení zrušení bude softwarový klíč odvolán.
 
 >[!NOTE]
->Chcete-li zrušit nákup, musíte být agentem správce. 
+>Abyste zrušili nákup, musíte být agentem pro správu. 
 
-1.  Než začnete s procesem, ujistěte se, že máte následující: 
-    - Identifikátor GUID nebo název domény tenanta zákazníka
+1.  Před zahájením procesu se ujistěte, že máte následující: 
+    - Identifikátor GUID tenanta zákazníka nebo název domény
     - ID objednávky nebo ID předplatného
     - Důvod k refundaci
     - Požadovaná částka
 
-2.  Na stránce Podrobnosti o zákazníkovi vyberte **software**. Zobrazí se seznam veškerého softwaru, který jste zakoupili. 
+2.  Na stránce s podrobnostmi o zákazníkovi vyberte **Software**. Zobrazí se seznam veškerého softwaru, který jste zakoupili. 
 
 3.  Vyhledejte software, který chcete zrušit, a vyberte možnost **Zrušit**. Otevře se stránka **ohlásit problém s partnerským centrem** . 
 

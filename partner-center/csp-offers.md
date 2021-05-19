@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 57cddcaf13431b0e61ef1573a4dd54b229c7e097
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964336"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147628"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Přehled partnerských nabídek v programu Cloud Solution Provider
 
-**Příslušné role**
-
-- Agent správce
-- Globální správce
-- Agent prodeje
+**Příslušné role**: Agent správce | Globální správce | Agent prodeje
 
 Partneři Microsoftu v programu Cloud Solution Provider (CSP) mají rostoucí katalog nabídek, které jsou jim k dispozici. Můžete prodávat celou škálu [cloudových služeb Microsoftu](https://partner.microsoft.com/cloud-solution-provider/products-and-services)a různé další nabídky, které se často mění. Pokud si chcete zobrazit nabídky CSP pro aktuální měsíc, přihlaste se do partnerského centra a pak přejděte na stránku [**ceny a nabídky**](https://partnercenter.microsoft.com/pcv/sales) .  
 
@@ -55,36 +51,36 @@ V současné době můžete zákazníkům CSP prodávat následující typy prod
 
 ### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Software jako služba (SaaS) a další produkty [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)
 
-   Předplatná můžete prodávat SaaS produktům od nezávislých dodavatelů softwaru (ISV). Pokud chcete zobrazit jenom SaaS nabídky v **online službách**, použijte filtry k nastavení **vydavatele** na **partnera**. Zobrazí se všechny nabídky SaaS, které se dají koupit pro daného zákazníka.
+   Můžete prodávat předplatná produktů SaaS od nezávislých výrobců softwaru. Pokud chcete zobrazit pouze nabídky SaaS v **online službách,** pomocí filtrů nastavte **Publisher na** **Partner**. Zobrazí se všechny nabídky SaaS, které je možné pro tohoto zákazníka zakoupit.
 
-   Informace o těchto produktech můžete najít také na stránce **Marketplace** .
+   Informace o těchto produktech najdete také na stránce **Marketplace.**
 
 >[!NOTE] 
->Tato stránka obsahuje taky informace o dalších typech produktů, které je potřeba koupit z Azure Portal, ne z partnerského centra.
+>Tato stránka obsahuje také informace o dalších typech produktů, které je nutné zakoupit v Azure Portal, nikoli Partnerské centrum.
 
-Další informace najdete v tématu [Přehled komerčního tržiště CSP](CSP-commercial-marketplace-overview.md) .
+Další informace najdete v tématu Přehled komerčního marketplace [CSP.](CSP-commercial-marketplace-overview.md)
 
-## <a name="add-products-page-details"></a>Přidat podrobnosti stránky produktů
+## <a name="add-products-page-details"></a>Přidání podrobností na stránce s produkty
 
-Následující seznam uvádí všechny nové oblasti na stránce **Přidat produkty** .
+Následující seznam uvádí všechny nové oblasti na stránce **Přidat** produkty.
 
-**Přidat produkty** – Tato stránka obsahuje všechny typy produktů, které máte k dispozici pro prodej zákazníkům.
+**Přidat produkty** – tato stránka obsahuje všechny typy produktů, které můžete zákazníkům prodávat.
 
-**Kategorie produktů**  -  **Azure, služby online, software** Vyberte typ produktu, na který vás zajímáte, aby se zobrazovaly jenom tyto produkty.
+**Kategorie produktů**  -  **Azure, online služby, software** Vyberte typ produktu, který vás zajímá, a zobrazte pouze tyto produkty.
 
-**Segment** – určuje obecný typ podnikání, například komerční nebo státní úřad, který chcete prodávat
+**Segment** – identifikuje obecný typ firmy, například komerční nebo státní správy, které chcete prodávat.
 
 **Vydavatel** – vyberte typy produktů, které chcete zobrazit – aplikace vytvořené Microsoftem nebo vydavateli třetích stran.
 
-**Typ fakturace** – určuje, jestli se produkt účtuje podle počtu licencí, nebo za využití.
+**Typ fakturace** – Určuje, jestli se produktu účtuje počet licencí nebo využití.
 
-**Kategorie** – určuje typ podnikání, který produkt podporuje, a to, jestli nabízí zkušební verzi.
+**Kategorie** – určuje typ firmy, který produkt podporuje, a jestli nabízí zkušební verzi.
 
-**Zobrazit SKU, Zobrazit produkt** – vyberte možnost přepínání mezi seznamy produktů a SKU. Stránka **produkty** obsahuje každý produkt jednotlivě. **SKU** obsahuje seznam skupin produktů.
+**Zobrazení SKU, zobrazení produktu** – Výběrem možnosti přepínáte mezi seznamy produktů a SKU. Na **stránce Produkty** se zobrazí seznam jednotlivých produktů. **SKU uvádí** seznam skupin produktů.
 
 ## <a name="buy-csp-offers"></a>Nákup nabídek CSP
 
-Pokud chcete koupit produkty a služby jménem svých zákazníků CSP, vyberte položky, které zákazník požaduje, přidejte je do košíku, který vytvoří objednávku, a pak tuto objednávku Prohlédněte a odešlete. Obecný proces je popsaný níže. (Další informace o objednávkách pro určitý typ produktu najdete na odkazech uvedených výše.)
+Pokud chcete zakoupit produkty a služby jménem zákazníků CSP, vyberte položky, které zákazník chce, přidejte je do košíku, který vytvoří objednávku, a pak objednávku zkontrolujte a odešlete. Obecný postup je popsán níže. (Další informace o objednávkách pro konkrétní typ produktu najdete na výše uvedených odkazech.)
 
 >[!NOTE]
 >Nabídka CSP musí být dostupná jak v zemi tenanta, tak i v zemi tenanta zákazníka. Pokud se například váš tenant nachází ve verzi Slovensko a tenant zákazníka je v Německu, nebudete moct zákazníkovi prodávat Dynamics 365 Business Central Premium, protože tato nabídka není v současnosti dostupná na Slovensku.
@@ -116,18 +112,18 @@ Zobrazení historie objednávek zákazníka:
  
 ## <a name="rules-for-special-segments"></a>Pravidla pro speciální segmenty
 
-Některé nabídky založené na licencích se dají koupit jenom za určitých podmínek. Mezi speciální nabídky segmentů patří vzdělávání, neziskové nebo státní komunitní Cloud (RSZ). Podrobnosti o těchto podmínkách nákupu najdete v [tématu pravidla nákupu pro speciální segmenty](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
+Některé nabídky založené na licencích je možné zakoupit pouze za určitých podmínek. Mezi speciální nabídky segmentů patří nabídky pro vzdělávání, neziskové Government Community Cloud (GCC). Podrobnosti o těchto nákupních podmínkách najdete v tématu [pravidla nákupu speciálních segmentů.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
 ## <a name="troubleshooting-catalog-purchases"></a>Řešení potíží s nákupy v katalogu
 
-Pokud nemůžete v katalogu najít požadovanou nabídku, může to mít různé příčiny. Níže jsou uvedené věci, které vám pomůžou zjistit, jestli nemůžete najít očekávanou nabídku.
+Pokud nemůžete v katalogu najít požadovanou nabídku, může to mít různé příčiny. Níže jsou uvedené věci, které je dobré zkontrolovat, pokud nemůžete najít nabídku, kterou očekáváte.
 
-- **Ověřte, jestli zákazník splňuje podmínky:** Prodej mnoha nabídek vyžaduje, aby zákazníci měli speciální kvalifikaci. Mezi tyto speciální segmenty patří vzdělávání, neziskové a státní komunitní Cloud (RSZ). Před nahlášením problému nejdřív ověřte, jestli je kvalifikace zákazníka nastavená odpovídajícím způsobem. Můžete to ověřit tak, že vyberete zákazníka ze seznamu Zákazník a zobrazíte účet. Pokud se to vyžaduje, měla by být u účtu speciální kvalifikace nastavená. Pokud byste chtěli pro zákazníka bez příslušné kvalifikace koupit produkt určený pro vzdělávací instituce, pak se příslušné nabídky v katalogu vůbec nezobrazí. Další informace o tom, jak zařazovat zákazníky, najdete v [dokumentaci ke speciálním segmentům](get-special-pricing-for-offers.md).
-- **Rozhodněte, jestli se pokoušíte koupit doplněk, nebo základní nabídku:** Řada služeb založených na licencích, jako je například Microsoft 365 a Dynamics 365, umožňuje nákup katalogu základních nabídek a doplňků. V katalogu je možné nakupovat jen základní nabídky. Pokud chcete koupit doplňky, ujistěte se, že jste nejdřív nakoupili základní nabídku v katalogu, a pak vyberte zákazníka ze seznamu Zákazník a pak vyberte předplatné pro základní nabídku. Na této stránce pro správu předplatných můžete k základní nabídce přiřadit doplňky. 
+- **Ověřte, jestli zákazník splňuje podmínky:** Prodej mnoha nabídek vyžaduje, aby zákazníci měli speciální kvalifikaci. Mezi tyto speciální segmenty patří vzdělávání, neziskové organizace a Government Community Cloud (GCC). Před nahlášením problému nejdřív ověřte, jestli je kvalifikace zákazníka nastavená odpovídajícím způsobem. Můžete to zkontrolovat tak, že v seznamu zákazníků vyberete zákazníka a zobrazíte účet. Pokud se to vyžaduje, měla by být u účtu speciální kvalifikace nastavená. Pokud byste chtěli pro zákazníka bez příslušné kvalifikace koupit produkt určený pro vzdělávací instituce, pak se příslušné nabídky v katalogu vůbec nezobrazí. Další informace o kvalifikaci zákazníků najdete v dokumentaci [ke speciálním segmentům.](get-special-pricing-for-offers.md)
+- **Rozhodněte, jestli se pokoušíte koupit doplněk, nebo základní nabídku:** Řada služeb založených na licencích, jako jsou Microsoft 365 a Dynamics 365, umožňuje nákup katalogu nabídek Base i doplňků. V katalogu je možné nakupovat jen základní nabídky. Pokud si chcete koupit doplňky, nejprve si v katalogu zakupte základní nabídku, vyberte zákazníka ze seznamu zákazníků a pak vyberte předplatné základní nabídky. Na této stránce pro správu předplatných můžete k základní nabídce přiřadit doplňky. 
 - **Ověřte, jestli jsou produkty dostupné na vašem trhu:** Řada produktů a služeb je nakonfigurovaná tak, aby je bylo možné prodávat jen zákazníkům v konkrétních zemích. Seznam podporovaných zemí najdete v různých ceníkových souborech. V tabulce nabídek na stránce cen a nabídek najdete podporované země, pokud jde o služby na bázi licencí.
-- **Ověřte, jestli jsou nabídky dostupné v ceníku:** Seznam dostupných nabídek se může měnit z měsíce na měsíc. Pokud nabídku v katalogu nemůžete najít, ověřte, že je k dispozici v seznamech aktuální ceny na stránce **prodej > ceny a nabídky** .
+- **Ověřte, jestli jsou nabídky dostupné v ceníku:** Seznam dostupných nabídek se může měnit z měsíce na měsíc. Pokud v katalogu nemůžete najít nabídku, ověřte, že je k dispozici v aktuálních ceníkech na stránce Sell **> Pricing and Offers** (Ceny a nabídky).
 
-### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Doporučené dokumenty související s nákupem položek v partnerském centru
+### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Doporučené dokumenty související s nákupem položek v Partnerské centrum
 
 - [Ceny a nabídky v Partnerském centru](pricing-and-offers.md)
 - [Přehled partnerských nabídek v programu Cloud Solution Provider](csp-offers.md)
@@ -137,6 +133,6 @@ Pokud nemůžete v katalogu najít požadovanou nabídku, může to mít různé
 
 ## <a name="next-steps"></a>Další kroky
 
-Informace o tom, jak proces fakturace funguje, najdete v tématu [základy fakturace](billing-basics.md).
+Informace o tom, jak proces fakturace funguje, najdete v tématu [Základy fakturace.](billing-basics.md)
 
-Informace o nákupu v rámci plánu Azure najdete v tématu [Nákup plánu Azure](purchase-azure-plan.md).
+Informace o nákupu v rámci plánu Azure najdete v tématu [Zakoupení plánu Azure.](purchase-azure-plan.md)

@@ -1,42 +1,39 @@
 ---
 title: Plány a procesy výplat
-description: Seznamte se s výběry a transakcemi, jako jsou platební plány a recoupment procesy pro komerční tržiště a další transakce.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+description: Seznamte se s platbami a transakcemi, jako jsou plány plateb a procesy opětovného zálohování pro komerční marketplace a další transakce.
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086171"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146948"
 ---
 # <a name="payout-schedules-and-processes"></a>Plány a procesy výplat
 
-**Příslušné role**
+**Odpovídající role:** Správce účtu | Globální správce
 
-- Správce účtu
-- Globální správce
+Tento článek popisuje platební kalendář Microsoftu, kde najít stav výplaty a proces nezaplacení zákazníků.
 
-Tento článek popisuje platební plán společnosti Microsoft, kde zjistíte stav druhu a postup pro zákazníka, který není vyplácen.
+## <a name="payment-schedules"></a>Plány plateb
 
-## <a name="payment-schedules"></a>Platební plány
+Následující části popisují proces výplat  pro transakce smlouva Enterprise platební **karty a faktury.**
 
-V následujících částech jsou popsány naše výběry pro **smlouva Enterprise** a transakce **platební karty nebo faktury** .
+### <a name="enterprise-agreement-transactions"></a>smlouva Enterprise transakcí
 
-### <a name="enterprise-agreement-transactions"></a>Transakce smlouva Enterprise
+Když zákazník zakoupí produkt od Microsoft AppSource nebo Azure Marketplace pomocí stávající služby Microsoft smlouva Enterprise pro transakce, vydáme výplaty v dalším cyklu výplaty po 30denní faktuře od zákazníka. Transakce, u kterých zákazník používá platební kartu, mají před výplatou 30denní období platnosti.
 
-Když zákazník koupí produkt z Microsoft AppSource nebo Azure Marketplace pomocí svých stávajících smlouva Enterprise Microsoftu pro transakce, budeme vydávat výběry v dalším cyklu zadávání 30 dnů po fakturaci od zákazníka. Transakce, ve kterých zákazník používá platební kartu, má před výběrem 30denní dobu v týdnu.
+Platba často nastane dříve, než Microsoft od zákazníka shromáždí platbu. Informace [o akcích,](#process-for-customer-non-payment) které v případě, že zákazník nezaplatí Microsoft, ale my jsme již vydali platbu, najdete níže v části Proces nezaplacení zákazníků.
 
-K určitému typu často dojde předtím, než Microsoft shromáždí platbu od zákazníka. V tématu [postup pro zákazníky, kteří nejsou placeni](#process-for-customer-non-payment) níže pro akce, které provedeme, pokud se zákazníkovi nepodaří platit společnost Microsoft, ale už jsme vybrali výběr.
-
-| Událost | Description | Viditelnost sestav | Okamžiku |
+| Událost | Description | Vytváření sestav viditelnosti | Časování* |
 | --- | --- | --- | --- |
-| Využití nebo měsíc transakce | Zákazník používá nebo kupuje službu. | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 1** |
-| Vypočtená částka fakturace Microsoft | Určení celkového využití, transakcí celkem | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 2** |
+| Využití nebo měsíc transakce | Zákazník používá nebo kupuje službu. | [Řídicí panel](/azure/marketplace/partner-center-portal/usage-dashboard) Využití [nebo](/azure/marketplace/partner-center-portal/orders-dashboard) Objednávka | **1. měsíc** |
+| Microsoft vypočítá fakturaci | Určení celkového využití, celkových transakcí | [Řídicí panel](/azure/marketplace/partner-center-portal/usage-dashboard) Využití [nebo](/azure/marketplace/partner-center-portal/orders-dashboard) Objednávka | **2. měsíc** |
 | Vyslaný výběr | Určení poplatků za platební instituce a jejich výběr | Označení jako nezpracované v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 3 (1. týden)** |
 | Připravit výběr | Tržby se připravují na měsíční platby. | Označeno jako nadcházející v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 3 (1. týden)** |
 | **Vysílaný výběr** | **Platba se posílá vydavateli.** | **Označeno jako odesláno v historii transakce a v části platby [příkazu výběr](payout-statement.md)** | **Měsíc 3 (ne později než 15.)** |
@@ -51,13 +48,13 @@ K určitému typu často dojde předtím, než Microsoft shromáždí platbu od 
 
 Všechny nákupy pomocí platební karty nebo faktury za měsíc mají za úkol, aby bylo zajištěno shromažďování finančních prostředků od zákazníka.
 
-| Událost | Description | Viditelnost sestav | Okamžiku |
+| Událost | Description | Viditelnost sestav | Časování* |
 | --- | --- | --- | --- |
-| Využití nebo měsíc transakce | Zákazník používá nebo kupuje službu. | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 1** |
-| Faktura placená zákazníkem | Určení celkového využití, celkové hodnoty transakcí a faktury zákazníka | Řídicí panel [využití](/azure/marketplace/partner-center-portal/usage-dashboard) nebo [objednávky](/azure/marketplace/partner-center-portal/orders-dashboard) | **Měsíc 2** |
-| Vyslaný výběr | Určení poplatků za platební instituce a jejich výběr | Označení jako nezpracované v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 2** |
-| 30denní doba skladování | Zajištění shromažďování prostředků, možných vratek a žádostí o refundaci | Označení jako nezpracované v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 3** |
-| Připravit výběr | Tržby se připravují na měsíční platby. | Označeno jako nadcházející v historii transakce v [příkazu výběr](payout-statement.md) | **Měsíc 4 (1 týden)** |
+| Využití nebo měsíc transakce | Zákazník používá nebo kupuje službu. | [Řídicí panel](/azure/marketplace/partner-center-portal/usage-dashboard) Využití [nebo](/azure/marketplace/partner-center-portal/orders-dashboard) Objednávka | **1. měsíc** |
+| Faktura zaplacená zákazníkem | Určení celkového využití, celkové hodnoty transakce a faktury za platbu zákazníkem | [Řídicí panel](/azure/marketplace/partner-center-portal/usage-dashboard) Využití [nebo](/azure/marketplace/partner-center-portal/orders-dashboard) Objednávka | **2. měsíc** |
+| Výplata zveřejněná | Určení příjmů z poplatků a výplat pro agenturu | Označení v historii transakcí v výpisu platby jako [nezpracované](payout-statement.md) | **2. měsíc** |
+| 30denní doba držením | Zajištění shromažďování prostředků, možných vratek a žádostí o refundaci | Označení v historii transakcí v výpisu platby jako [nezpracované](payout-statement.md) | **3. měsíc** |
+| Příprava výplaty | Příjmy jsou připravené na měsíční platbu. | Označení jako Nadcházející v historii transakcí ve [výpisu platby](payout-statement.md) | **Měsíc 4 (1 týden)** |
 | **Vysílaný výběr** | **Platba se posílá vydavateli.** | **Označeno jako odesláno v historii transakce a v části platby [příkazu výběr](payout-statement.md)** | **Měsíc 4 (ne později než 15.)** |
 |
 
@@ -79,10 +76,10 @@ Následující plán je příkladem:
 | --- | --- | --- |
 | Příklad data pro výběr | 10/15/2020 | Označeno jako **odeslané** v části Historie transakcí a platby na řídicím panelu Výběr |
 | <font color="red">Pokud zákazník neplatí od Microsoftu</font> | 12/2/2020 – 12/5/2020 | Beze změny, stejné jako u výše |
-| Zákazník obdrží první pozdní e-mail s platbami. | 12/6/2020 | Žádné |
-| Zákazník obdrží běžné e-maily s rostoucí naléhavostí. | 12/7/2020 – 1/31/2021 | Žádné |
+| Zákazník obdrží první pozdní e-mail s platbami. | 12/6/2020 | Žádná |
+| Zákazník obdrží běžné e-maily s rostoucí naléhavostí. | 12/7/2020 – 1/31/2021 | Žádná |
 | Vydavatel je upozorněn na zápis, je nejspíš | 1/7/2021 | E-mailové oznámení odeslané vydavateli, že si zákazník ještě neposlal platby. Zahrnuje ID transakce a částku dolaru. |
-| Zákazník obdrží oznámení o ukončení. | 2/1/2021 | Žádné |
+| Zákazník obdrží oznámení o ukončení. | 2/1/2021 | Žádná |
 | Ukončení procesu shromažďování/fondů jsou odepsány | 2/15/2021 | E-mailové oznámení odeslané vydavateli, že prostředky byly odepsány. Zahrnuje ID transakce a částku dolaru. |
 | Výběr je odečtený. | 1\. 3. 2021 | Vydavatel uvidí v příkazu výběr v partnerském centru negativní transakci. |
 | Výběr se zamítne. | 3/15/2021 | Budoucí výběry se zobrazí v příkazu pro výběr partnerského centra. Vydavatel neobdrží platbu, dokud zůstatek nebude záporný.  |

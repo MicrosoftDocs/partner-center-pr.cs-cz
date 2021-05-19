@@ -9,19 +9,17 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 5fd2267d53641fe4a0b6181217a35f0470e5bbe5
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: edc0ea8f0fda58f23cbce82bc7023a3277517cc3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560506"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147135"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Zaregistrovat jako dodavatele ovládacích panelů, který umožňuje integrovat partnerské systémy CSP s rozhraními API partnerského centra
 
 
-**Příslušné role**
-
-- Globální správce
+**Příslušné role**: globální správce
 
 Dodavatel ovládacího panelu (CPV) je nezávislý dodavatel softwaru, který vyvíjí aplikace pro použití partnery poskytovatele cloudových řešení (CSP) a umožňuje jim integrovat své systémy s rozhraními API pro partnerské centra. Dodavatel ovládacího panelu není partnerem CSP s přímým přístupem k rozhraním API řídicího panelu partnerského centra nebo partnerského centra.
 
@@ -37,12 +35,12 @@ Po zaregistrování v prostředí partnerského centra CPV a přijetí smlouvy C
 - Spravujte aplikace s více klienty (přidejte aplikace pro Azure Portal, registraci a zrušení registrace aplikací v partnerském centru).
 
     >[!Note] 
-    >CPVs musí zaregistrovat své aplikace v partnerském centru, aby bylo možné získat autorizaci pro rozhraní API partnerského centra. Přidání aplikací do samotného Azure Portal neautorizuje aplikace CPV pro rozhraní API partnerského centra. 
+    >Aby bylo možné získat oprávnění pro Partnerské centrum rozhraní API, musí si procesory zaregistrovat své Partnerské centrum aplikace. Přidáním aplikací do Azure Portal ne autorizuje aplikace CPV pro Partnerské centrum API. 
 
-- Umožňuje zobrazit a spravovat váš profil CPV. 
+- Zobrazení a správa profilu CPV 
 
-- Umožňuje zobrazit a spravovat uživatele, kteří potřebují přístup k možnostem CPV. Globální správce je jediná role, kterou může mít CPV.
+- Zobrazení a správa uživatelů, kteří potřebují přístup k funkcím CPV Globální správce je jediná role, kterou může mít CPV.
 
 ## <a name="next-steps"></a>Další kroky
 
--[Přidání dalších tenantů k účtu partnerského centra](multi-tenant-account.md)
+-[Přidání dalších tenantů do Partnerské centrum účtu](multi-tenant-account.md)

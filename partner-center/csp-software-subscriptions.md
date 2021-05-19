@@ -4,39 +4,36 @@ ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si, jak můžou partneři v programu CSP používat Partnerské centrum k nákupu, správě, prodeji a rušení rezervovaných instancí Azure a předplatných serverů pro zákazníky.
+description: Zjistěte, jak dají partneři v programu CSP využít Partnerské centrum k nákupu, správě, prodeji a rušení rezervovaných instancí Azure a serverových předplatných pro zákazníky.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: bdf6495d86da09b7d1d167c3fa1b3b5f15a35ab6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502548"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147492"
 ---
-# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Prodej předplatných softwaru prostřednictvím programu Cloud Solution Provider (CSP)
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Prodej softwarových předplatných prostřednictvím Cloud Solution Provider (CSP)
 
-**Příslušné role**
+**Odpovídající role:** Agent pro správu | Globální správce
 
-- Agent správce
-- Globální správce
+Díky rezervacím Azure a serverovým předplatným (předplatná Windows Serveru a SQL Server) mohou partneři v programu CSP lépe řešit rychle rostoucí poptávku zákazníků po cenově výhodných řešeních, která podporují vysoce předvídatelné a trvalé cloudové úlohy. 
 
-Díky rezervacím a předplatným serveru (předplatná pro Windows Server a SQL Server) můžou partneři v programu CSP lépe řešit rychlou rostoucí poptávku zákazníků a zajistit tak cenově výhodné řešení pro zajištění vysoké předvídatelné a trvalé cloudové zátěže. 
+Nyní můžete prostřednictvím služeb Partnerské centrum a Azure Portal získat, zřídit a spravovat rezervace Azure a serverová předplatná jménem komerčních Zvýhodněné hybridní využití Azure.
 
-Můžete teď získat, zřídit a spravovat rezervace a odběry Azure jménem komerčních zákazníků prostřednictvím partnerského centra a Azure Portal využitím Zvýhodněné hybridní využití Azure.
+Tento Zvýhodněné hybridní využití Azure vám pomůže získat větší hodnotu z licencí Windows Serveru a ušetřit až 40 procent na virtuálních počítačích. Tuto výhodu můžete využít s licencemi edice Windows Server Datacenter a Standard pokryté Software Assurance. V závislosti na edici můžete licence převést nebo znovu použít ke spouštění virtuálních počítačů s Windows Serverem v Azure a platit nižší základní výpočetní sazbu (například sazby za virtuální počítače s Linuxem).
 
-Zvýhodněné hybridní využití Azure vám pomůže získat větší hodnotu z licencí Windows serveru a ušetřit až 40 procent na virtuálních počítačích. Výhody s licencemi na Windows Server Datacenter a Standard Edition, které jsou součástí programu Software Assurance, můžete využívat. V závislosti na edici můžete licence převést nebo znovu použít pro spouštění virtuálních počítačů s Windows serverem v Azure a platit nižší základní výpočetní sazbu (například sazby za virtuální počítače Linux).
-
-## <a name="azure-reservations-unavailable-markets"></a>Nedostupné trhy Azure rezervací
+## <a name="azure-reservations-unavailable-markets"></a>Nedostupné trhy rezervací Azure
 
 >[!IMPORTANT]
->**Rezervace Azure nejsou k** dispozici na následujících trzích:  
+>Rezervace Azure **nejsou k dispozici** na následujících trzích:  
 >  
 > **Nedostupné trhy (v abecedním pořadí)**
 >
-> |A až GI   | Gr až PAL  | PAP na Z |
+> |Od A do Gi   | Gr to Pal  | Pap to Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Ålandy     | Grónsko     | Papua-Nová Guinea     |
 > | Americká Samoa     | Grenada     | Pitcairnovy ostrovy     |
@@ -49,7 +46,7 @@ Zvýhodněné hybridní využití Azure vám pomůže získat větší hodnotu z
 > | Benin     | Haiti       | Svatý Vincenc a Grenadiny     |
 > | Bhútán     | Heardův ostrov a McDonaldovy ostrovy       | Samoa     |
 > | Bonaire     | Ostrov Man     | San Marino     |
-> | Bouvetův ostrov     | Jan Mayen     | Svatý Tomáš a Princův ostrov   |
+> | Bouvetův ostrov     | Jan Mayen     | Sâo Tomé a Předncipe   |
 > | Britské indickooceánské území       | Jersey     | Seychely   |
 > | Britské Panenské ostrovy     | Kiribati       | Sierra Leone   |
 > | Burkina Faso     | Kosovo     | Svatý Eustach     |
@@ -58,7 +55,7 @@ Zvýhodněné hybridní využití Azure vám pomůže získat větší hodnotu z
 > | Středoafrická republika     | Libérie     | Somálsko     |
 > | Čad     | Madagaskar     | Jižní Georgie a Jižní Sandwichovy ostrovy     |
 > | Čína     | Malawi     | Jižní Súdán     |
-> | Vánoční ostrov     | Maledivy     | Svatá Helena, Ascension a Tristan da Cunha     |
+> | Vánoční ostrov     | Maledivy     | St Kaň, Ascension, Tristan da Çha     |
 > | Kokosové ostrovy     | Mali     | Surinam     |
 > | Komory     | Marshallovy ostrovy     | Špicberky     |
 > | Kongo     | Martinik     | Svazijsko     |
@@ -68,7 +65,7 @@ Zvýhodněné hybridní využití Azure vám pomůže získat větší hodnotu z
 > | Dominika     | Montserrat     | Tonga   |
 > | Rovníková Guinea     | Mosambik     | Ostrovy Turks a Caicos   |
 > | Eritrea     | Myanmar     | Tuvalu   |
-> | Falklandské ostrovy     | Nauru     | Odlehlé ostrovy USA   |
+> | Falklandské ostrovy     | Nauru     | Odledské ostrovy USA   |
 > | Francouzská Guyana     | Nová Kaledonie     | Vanuatu   |
 > | Francouzská Polynésie     | Niger     | Vatikán   |
 > | Francouzská jižní území     | Niue     | Wallis a Futuna   |
@@ -76,90 +73,90 @@ Zvýhodněné hybridní využití Azure vám pomůže získat větší hodnotu z
 > | Gambie     | Severní Mariany     |    |
 > | Gibraltar     | Palau       |    |
 
-## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Nákup předplatných softwaru jménem zákazníků
+## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Nákup softwarových předplatných jménem zákazníků
 
-Zakoupení předplatných softwaru jménem zákazníka:
+Nákup softwarových předplatných jménem zákazníka:
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
+1. Přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard)
 
-2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
+2. V Partnerské centrum vyberte **Zákazníci** a pak v seznamu zvolte zákazníka.
 
-3. Na stránce s podrobnostmi zákazníka vyberte **Přidat produkty** a potom podle pokynů na obrazovce vytvořte a platíte za vaši objednávku. Všechny komerční ceny vylučuje daň s výjimkou Austrálie a Brazílie. V případě Austrálie a Brazílie cena zahrnuje daň.
+3. Na stránce podrobností zákazníka vyberte Přidat produkty a pak podle pokynů na obrazovce vytvořte a za svou objednávku zaplatíte. Všechny komerční ceny nezahrnují daň s výjimkou Austrálie a Brazílie. Pro Austrálii a Brazílii zahrnuje cena daň.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivace a správa softwarových předplatných
 
-Jakmile zakoupíte software, vy nebo vaši zákazníci si ho budete muset stáhnout (partneři pomocí partnerského centra, zákazníci používající centrum pro správu Microsoft 365). K tomu použijte následující postup. Je důležité pochopit rizika spojená s kopírováním odkazů a stažením softwaru. Další informace najdete v tématu **použití partnerského centra k získání softwaru pro stahování a licenční klíče od zákazníka** v [partnerském centru nová provozní příručka pro obchod](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
+Po zakoupení softwaru si ho vy nebo vaši zákazníci musíte stáhnout (partneři využívající Partnerské centrum; zákazníci, kteří používají centrum Microsoft 365 pro správu). Použijte k tomu následující postup. Je důležité pochopit rizika spojená s kopírováním odkazů a stahováním softwaru. Další informace najdete v tématu **Použití Partnerské centrum k získání zákaznických** softwarových souborů ke stažení a licenčních klíčů v Partnerské centrum New Commerce Operations [Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Aby bylo možné získat odkaz na klíče a soubory ke stažení, musíte být agentem správce v partnerském centru.
+>Abyste získali odkaz na klíče a soubory ke stažení Partnerské centrum musíte být agentem správce v aplikaci .
 
-1. Přejít na stránku podrobností zákazníka a pak vybrat **software**. Zobrazí se seznam veškerého softwaru, který jste si koupili jménem zákazníka.
+1. Přejděte na stránku s podrobnostmi o zákazníkovi a pak vyberte **Software**. Zobrazí se seznam veškerého softwaru, který jste zakoupili jménem zákazníka.
 
-2. Zvolte možnost **verze** produktu, **jazyk**, **bit** a vyberte **získat klíče a soubory ke stažení**. 
+2. Zvolte verzi **produktu,** **jazyk,** **bit** a vyberte **Získat klíče a soubory ke stažení.** 
 
-3. Zvolením možnosti **získat klíč** zobrazíte 32ý produkt v automaticky otevíraném okně, které můžete zkopírovat a odeslat zákazníkovi. 
+3. Zvolte **Získat klíč** a zobrazte 32místný produkt v automaticky otevíraným dialogovém okně, které můžete zkopírovat a odeslat zákazníkovi. 
 
-4. Pro stažení bitů klikněte na **Stáhnout** . 
+4. Pokud **chcete stáhnout** bity, zvolte Stáhnout. 
 
-5. Pokud chcete zákazníkovi odeslat odkaz na stažení služby BITS, klikněte na tlačítko **Kopírovat odkaz** . 
+5. Pokud **chcete zákazníkovi** poslat odkaz na stažení bitů, zvolte Kopírovat odkaz. 
 
-6. Můžete také **Zrušit** pořadí softwaru a získat kredit 100% (Pokud se to provede během období zásady zrušení v 60 dnech).
-
->[!NOTE]
->Jenom zákazníci mají přístup, aby si mohli zobrazit kódy Product Key a stáhnout informace v centru pro správu Microsoft 365 (vyžaduje se role globálního správce). K zobrazení těchto informací partneři musí použít Partnerské centrum.
-
-## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Stažení předplatného serveru a licenční klíče dostupné prostřednictvím centra pro správu Microsoft 365 pro zákazníky 
-
-Vaši zákazníci budou moci získat licenční klíče předplatného CSP serveru a stahovat je z centra pro správu Microsoft 365. Aby bylo možné zobrazit licenční klíče a soubory pro odběr CSP serveru, musí zákazník přejít do centra pro správu Microsoft 365 > **fakturace > vaše produkty > kartě software**. Další podrobnosti najdete na [kartě software v části fakturace](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
-
-## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Zobrazit aktivitu pro přístup k softwarovému klíči a stažení softwaru
-
-Pro účely auditování nebo dodržování předpisů možná budete muset ověřit seznam uživatelů, kteří mají buď softwarové klíče předplatného serveru, nebo stažený software pro odběr serveru. K získání přístupu k těmto informacím použijte následující postup. 
+6. Můžete také zrušit **objednávku** softwaru a získat 100% kredit (pokud jste to udělali během 60denního období zásad zrušení).
 
 >[!NOTE]
->Tyto protokoly aktivit můžete zobrazit pouze v případě, že jste globální správce, správce účtu, Správce odkazů nebo marketingový správce obsahu. 
+>Pouze zákazníci mají přístup k zobrazení klíčů Product Key a stažení informací v centru Microsoft 365 pro správu (vyžaduje se role globálního správce). Partneři musí tyto Partnerské centrum použít k zobrazení těchto informací.
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
+## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Stažení předplatného serveru a licenční klíče dostupné prostřednictvím Microsoft 365 Admin Center pro zákazníky 
 
-2. Vyberte ikonu ozubeného kolečka v pravém horním rohu.
+Vaši zákazníci budou moct získat licenční klíče a soubory ke stažení předplatného serveru CSP z Microsoft 365 pro správu. Pokud chcete zobrazit licenční klíče a soubory ke stažení předplatného serveru CSP, zákazník musí přejít do centra Microsoft 365 Admin Center > Billing > Your products > Software ( Vaše produkty > **Software).** Další podrobnosti najdete na kartě [Software v části Fakturace.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
 
-3. V nabídce vyberte **Protokol aktivit**.
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Zobrazení aktivity přístupu ke softwarovým klíčům a stahování softwaru
 
-4. Zadejte rozsah dat aktivity, kterou chcete zobrazit. V protokolu aktivit se zobrazí seznam uživatelů, kteří během zadaného času získali buď softwarové klíče, nebo stáhli software. 
+Pro účely auditování nebo dodržování předpisů možná budete muset zkontrolovat seznam uživatelů, kteří měli přístup ke softwarovým klíčům předplatného serveru nebo stažený software předplatného serveru. Pokud chcete získat přístup k teřem informacím, použijte následující postup. 
+
+>[!NOTE]
+>Abyste tyto protokoly aktivit viděli, Globální správce správce účtu, správce referenčních seznamů nebo správce marketingového obsahu. 
+
+1. Přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard)
+
+2. V pravém horním rohu vyberte ikonu ozubeného kola.
+
+3. V nabídce vyberte **Protokol aktivit.**
+
+4. Zadejte rozsah dat pro aktivitu, kterou chcete zobrazit. V protokolu aktivit se zobrazí seznam uživatelů, kteří během zadané doby přistupovali ke softwarovým klíčům nebo si stáhli software. 
 
 ## <a name="cancel-a-purchase"></a>Zrušení nákupu
 
-Nákup softwaru můžete zrušit během 60 dnů od data nákupu. Pokud toto období zrušíte od prvního 60 dne, nebude se vám účtovat poplatek za předčasné ukončení. Po 60 dnech už nebudete moct zrušit nákup. (Viz poznámka u klíčových omezení pro toto pravidlo zrušení. Další informace o tom, co se stane po zrušení zakoupení softwaru, najdete v části také důležité poznámky po tomto postupu.) 
+Nákup softwaru můžete zrušit do 60 dnů od data nákupu. Pokud zrušíte předplatné během tohoto prvního 60denního období, nebude se vám účtovat poplatek za předčasné ukončení. Po 60 dnech už nákup zrušit nemůžete. (Klíčové omezení tohoto pravidla zrušení najdete v poznámce. Další informace o tom, co se stane po zrušení nákupu softwaru, najdete v části Důležitá poznámka po těchto krocích.) 
 
 >[!NOTE]
->Následující postup zrušení nákupu se vztahuje pouze na software, jehož účelem je zrušení v rámci určitého okna zrušení, například během prvních 60 dní po nákupu. Tyto kroky se také nevztahují na plán softwaru SUSE Linux nebo RedHat v Azure. V tuto chvíli nemůžete zrušit nebo vyměnit plán softwaru SUSE nebo RedHat. [Přečtěte si další informace](/azure/virtual-machines/linux/prepay-suse-software-charges) o používání plánů SUSE Linux nebo RedHat.
+>Následující kroky ke zrušení nákupu se vztahují pouze na software, který má v určitém okně zrušení požadavek na zrušení, například během prvních 60 dnů od nákupu. Tyto kroky se také nevztahují na plán softwaru SUSE Linux nebo RedHat v Azure. V tuto chvíli nemůžete zrušit ani vyměnit plán softwaru SUSE nebo RedHat. [Přečtěte si další](/azure/virtual-machines/linux/prepay-suse-software-charges) informace o používání plánů SUSE Linux nebo RedHat.
 
-Pokud chcete zrušit nákup, postupujte podle následujících kroků:
+Pokud chcete zrušit nákup, postupujte následovně:
 
 >[!NOTE]
->Chcete-li zrušit nákup, musíte být agentem správce. Následující postup popisuje, jak zrušit nákup na řídicím panelu partnerského centra. Můžete to provést také pomocí [rozhraní API partnerského centra](/partner-center/develop/cancel-software-purchases).
+>Abyste zrušili nákup, musíte být agentem pro správu. Následující kroky popisují, jak zrušit nákup na řídicím panelu Partnerské centrum panelu. Můžete to provést také pomocí rozhraní [PARTNERSKÉ CENTRUM API.](/partner-center/develop/cancel-software-purchases)
 
-1. Než zahájíte proces zrušení, ujistěte se, že máte následující:
+1. Před zahájením procesu zrušení se ujistěte, že máte následující:
 
-    - Název zákazníka, identifikátor GUID tenanta nebo název domény
+    - Název zákazníka, GUID tenanta nebo název domény
 
     - Název produktu, který chcete zrušit
     
     - ID objednávky
 
-2. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
+2. Přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard)
 
-3. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
+3. V Partnerské centrum vyberte **Zákazníci** a pak v seznamu zvolte zákazníka.
 
-4. Na stránce s podrobnostmi zákazníka vyberte **software** a zobrazí se seznam softwaru zakoupeného pro zákazníka. 
+4. Na stránce s podrobnostmi o zákazníkovi vyberte **Software.** Zobrazí se seznam softwaru zakoupeného pro zákazníka. 
 
-5. Vyhledejte zakoupený software, který chcete zrušit, a pak vyberte **Zrušit**. Zobrazí se dialogové okno.
+5. Vyhledejte nákup softwaru, který chcete zrušit, a pak vyberte **Zrušit.** Zobrazí se dialogové okno.
 
-6. V rozevíracím seznamu pořadové číslo objednávky vyberte správné číslo ID objednávky, které chcete zrušit. (Další informace o čísle ID objednávky nebo objednávky najdete na stránce **Historie objednávek** zákazníka.)
+6. V rozevíracím seznamu Číslo objednávky vyberte správné číslo ID objednávky, které chcete zrušit. (Další informace o objednávce nebo ID objednávky najdete na stránce Historie **objednávky** zákazníka.)
 
-7. Zaškrtnutím políčka potvrďte, že jste si přečetli **důležitou** zprávu týkající se zrušení. (Další informace o tom, co se stane po zrušení nákupu, **najdete v níže uvedené** poznámce níže.)
+7. Zaškrtnutím políčka potvrďte, že jste si přečetli **důležitou zprávu** týkající se zrušení. (Další informace o **tom, co** se stane po zrušení nákupu, najdete v důležité poznámce níže.)
 
-8. Vyberte **Odeslat** , abyste zrušili nákup. Pokud chcete zrušit více objednávek pro zákazníka, budete muset provést kroky 4 až 6 pro každé jedinečné číslo ID objednávky.
+8. Výběrem **možnosti Odeslat** nákup zrušte. Pokud chcete zrušit více objednávek pro zákazníka, budete muset znovu provést kroky 4 až 6 pro každou jedinečnou identifikační číslo objednávky.
 
 Když se pokusíte objednávku zrušit, Partnerské centrum vám může poskytnout i další informace (které se zobrazí pod rozevíracím seznamem číslo objednávky). Tyto informace mohou zahrnovat:
 
@@ -190,11 +187,11 @@ Pokud jste se pokusili zrušit nákup softwaru prostřednictvím partnerského c
 
 2. V části **Podrobnosti** v seznamu typ problému vyberte možnost **Nákup a refundace CSP jménem zákazníků**.
 
-3. Vyplňte pole dopad a název.
+3. Vyplňte pole Impact (Dopad) a Title (Název).
 
-4. Do pole Popis zadejte následující:
+4. Do pole Popis zadejte následující údaje:
 
-    - Identifikátor GUID nebo název domény tenanta zákazníka
+    - Identifikátor GUID tenanta zákazníka nebo název domény
     
     - ID objednávky nebo ID předplatného
     
@@ -204,12 +201,12 @@ Pokud jste se pokusili zrušit nákup softwaru prostřednictvím partnerského c
 
 5. Do pole Kontakt zadejte své jméno, e-mailovou adresu a telefonní číslo.
 
-6. Pokud z nějakého důvodu potřebujete soubor připojit, vyberte **Přidat soubory**. Tento krok je volitelný.
+6. Pokud z nějakého důvodu potřebujete připojit soubor, vyberte **Přidat soubory.** Tento krok je volitelný.
 
-7. Až budete hotovi, vyberte **Odeslat**.
+7. Až budete hotovi, vyberte **Submit (Odeslat).**
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Použití partnerského centra k prodeji předplatných zákazníků z komerčních produktů na webu Marketplace](sell-marketplace-products.md)
+- [Použití Partnerské centrum k prodeji předplatných zákazníků k produktům komerčního marketplace](sell-marketplace-products.md)
  
-- [Přiřazení předplatných Azure zákazníkům v partnerském centru](assign-azure-subscriptions.md)
+- [Přiřazení předplatných Azure zákazníkům v Partnerské centrum](assign-azure-subscriptions.md)

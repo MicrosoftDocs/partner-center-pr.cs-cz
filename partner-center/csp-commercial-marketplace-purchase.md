@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 3f5cf4895fa4d66c65215989d808a1dd18ef9064
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979712"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147849"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Nákup produktů z komerčního tržiště pro vaše zákazníky v partnerském centru
 
 
-**Příslušné role**
-
-- Globální správce
-- Agent správce
+**Příslušné role**: globální správce | Agent správce
 
 Jako partner v programu Cloud Solution Provider (CSP) můžete pomocí komerčního tržiště koupit předplatné pro zákazníky na určité produkty SaaS (software jako služba), které nabízí nezávislí dodavatelé softwaru (ISV).
 
@@ -39,26 +36,26 @@ Pokud si chcete koupit předplatné SaaS na základě licence nebo účtované p
 [Rozhraní API partnerského centra](/partner-center/develop/) můžete použít také k vytváření předplatných komerčního tržiště pro vaše zákazníky. (Další informace o používání rozhraní API partnerského centra najdete v tématu [Vytvoření odběru pro produkty z komerčního tržiště](/partner-center/develop/create-subscription-azure-marketplace-products).)
 
 >[!IMPORTANT]
-> Jako partner v programu CSP si můžete koupit předplatné SaaS **založené na licencích** nebo **účtované podle objemu** od vydavatelů ISV v partnerském centru. To znamená, že si můžete koupit jakoukoli nabídku **založenou na licencích** nebo **měřený** SaaS. Vydavatel ISV vám k dispozici, včetně [exkluzivních nabídek](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , ke kterým máte přístup. Pokud si chcete koupit nebo spravovat jiné komerční nabídky na webu Marketplace od nezávislého výrobce softwaru (jako jsou nabídky na základě využití zahrnující aplikace a kontejnery Azure), musíte přejít na [Azure Portal](https://portal.azure.com/).
+> Jako partner v programu CSP si můžete koupit předplatné SaaS **založené na licencích** nebo **účtované podle objemu** od vydavatelů ISV v partnerském centru. To znamená, že si můžete zakoupit jakoukoli **nabídku** **SaaS** založenou na [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) licencích nebo na základě měření, kterou vám vydavatel ISV nabízí, včetně výhradních nabídek, ke kterým máte přístup. Pokud chcete nakupovat nebo spravovat jiné nabídky na komerčním marketplace od isv (například nabídky založené na využití zahrnující aplikace Azure, kontejnery nebo virtuální počítače), musíte přejít na [web Azure Portal](https://portal.azure.com/).
 
-## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Nákup předplatných na základě využití v Azure Portal
+## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Nákup předplatných založených na využití v Azure Portal
 
-Na rozdíl od předplatných SaaS založených na licencích od vydavatelů ISV, předplatná založená na využití nejprve vyžadují, aby zákazník měl předplatné Azure. Fakturace za komerční tržiště, prostředky na základě využití spadají do předplatného Azure zákazníka. Jakmile má zákazník předplatné Azure, může partner v programu CSP pomocí těchto kroků koupit předplatné komerčního tržiště pro tyto uživatele:
+Na rozdíl od předplatných SaaS založených na licencích od vydavatelů ISV třetích stran vyžadují předplatná založená na využití nejprve od zákazníka předplatné Azure. Fakturace za komerční marketplace spadá prostředky na základě využití do předplatného Azure zákazníka. Jakmile má zákazník předplatné Azure, partner v programu CSP může podle těchto kroků zakoupit předplatné komerčního marketplace:
 
-1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra a v nabídce na levé straně vyberte **zákazníci** .
+1. Přihlaste se Partnerské centrum [řídicího panelu a](https://partner.microsoft.com/dashboard) **pak** v nabídce vlevo vyberte Zákazníci.
 
-2. Vyberte konkrétního zákazníka a pak vyberte **předplatná**.  
+2. Vyberte konkrétního zákazníka a pak vyberte **Předplatná.**  
 
-3. V části **předplatná založená na využití** vyberte **všechny prostředky**. Tím přejdete na portál pro správu Azure.
+3. V části **Předplatná založená na využití** vyberte **Všechny prostředky**. Tím se dostat na portál pro správu Azure.
 
-4. Na portálu pro správu Azure vyberte v nabídce na levé straně **vytvořit prostředek** .
+4. Na portálu pro správu Azure **v** nabídce vlevo vyberte Vytvořit prostředek.
 
-5. V horní části seznamu Azure Marketplace vyberte **Zobrazit vše** .
+5. V **horní části** seznamu Azure Marketplace zobrazit vše.
 
-6. Pokud chcete seznam zúžit, použijte filtry v horní části seznamu Marketplace. V rozevíracím seznamu **vydavatele** můžete například vybrat **Microsoft** nebo **partner** a zobrazit jenom nabídky od Microsoftu nebo od vydavatele ISV.
+6. Pokud chcete seznam zúžit, použijte filtry v horní části seznamu Marketplace. Můžete například vybrat **Microsoft**  nebo Partnera  z rozevíracího seznamu Vydavatel a zobrazit pouze nabídky od Microsoftu nebo nabídky od vydavatele ISV.
 
-7. Zvolte konkrétní nabídku a pak vyberte **vytvořit**.
+7. Zvolte konkrétní nabídku a pak vyberte **Vytvořit.**
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Správa nabídek komerčních Marketplace](csp-commercial-marketplace-purchase.md)
+- [Správa nabídek komerčního marketplace](csp-commercial-marketplace-purchase.md)

@@ -1,47 +1,41 @@
 ---
-title: Řešení potíží s konektory pro souběžné vyprodejní reference
+title: Řešení potíží s konektory referenčních odkazů spolusoudců
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si odpovědi na běžné dotazy týkající se používání vzájemně prodávaných konektorů. Přečtěte si tyto Nejčastější dotazy týkající se řešení potíží s konektory pro spoluprodej.
+description: Přečtěte si odpovědi na běžné dotazy týkající se používání konektorů pro spolu prodej. Přečtěte si tyto nejčastější dotazy k řešení potíží s konektory spoluproduování.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284209"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148342"
 ---
-# <a name="troubleshoot-co-sell-referrals-connectors"></a>Řešení potíží s konektory pro souběžné vyprodejní reference
+# <a name="troubleshoot-co-sell-referrals-connectors"></a>Řešení potíží s konektory referenčních doporučení ke spoluprodání
 
-**Platí pro**
+**Platí pro:** Dynamics 365 CRM | Salesforce CRM
 
-- Dynamics 365 CRM
-- Salesforce CRM
+**Odpovídající role:** Správce referenčních | Správce systému nebo úpravce systému v CRM
 
-**Příslušné role**
+ ## <a name="questions-and-answers-about-pre-requisites"></a>Dotazy a odpovědi týkající se požadavků
 
-- Správce odkazů
-- Správce systému nebo úpravce systému v CRM
+1. Můžete pro své prostředí použít zkušební řešení konektorů referenčních seznamu spoluprodáva?
 
- ## <a name="questions-and-answers-about-pre-requisites"></a>Otázky a odpovědi týkající se požadavků
+Pokud jste v testovacím/pracovním prostředí, můžete zvolit zkušební řešení. Placená verze konektorů je k dispozici v AppSource na 15 USD za měsíc. Při placených připojeních budete za den do 10 tisíc volání rozhraní API. Konektory jsou obálky nad rozhraními API Partnerské centrum referenčních seznamech. Pokaždé, když se  řešení  konektoru spustí pro událost vytvoření nebo aktualizace pro příležitosti na Partnerské centrum nebo na straně CRM, je provedeno volání rozhraní API.
 
-1. Můžete pro svoje prostředí použít řešení konektorů pro zkušební verzi předprodejního prostředí?
+2. Jakou roli potřebujete k vytváření oddílů v prostředí CRM?
 
-Pokud jste v testovacím nebo přípravném prostředí, můžete se rozhodnout pro zkušební řešení. Placená verze konektorů je k dispozici v AppSource ve výši US 15 měsíčně. U placeného připojení budete získávat 10 000 volání rozhraní API za den. Konektory jsou obálkami nad rozhraní API pro odkazy partnerského centra. Pokaždé, když jsou řešení konektoru spuštěna pro událost **Vytvoření** nebo **aktualizace** v příležitostech na straně partnerského centra nebo na straně CRM, bude provedeno volání rozhraní API.
+Uživatelé, kteří jsou správci systému nebo úpravci systému, mohou použít změny pro všechny. Všichni uživatelé aplikace ale mohou systém přizpůsobit a dokonce sdílet některá vlastní nastavení s ostatními. 
 
-2. Jaké role potřebujete k vytváření oddílů v prostředí CRM?
-
-Uživatelé, kteří jsou systémový správce nebo úpravce systému, mohou použít změny pro všechny. Všichni uživatelé aplikace ale můžou přizpůsobit systém a dokonce sdílet některá vlastní nastavení s ostatními. 
-
-3. Potřebují prodejci v partnerském centru pracovat s dalšími rolemi?
+3. Potřebují prodejci partnerů zvláštní role, aby na Partnerské centrum?
  
-Prodejcům partnera musí být přiřazena role Správce odkazů. Další informace najdete v tématu [Přehled oprávnění](create-user-accounts-and-set-permissions.md).
+Prodejcům partnerů musí být přiřazena role Správce referenčních seznamu. Další informace najdete v tématu [Přehled oprávnění.](create-user-accounts-and-set-permissions.md)
 
-4. Jaká pole je třeba nejprve nastavit v prostředí CRM? 
+4. Jaká pole je potřeba v prostředí CRM nastavit jako první? 
 
 • Ujistěte se, že je vaše měna vhodná pro vaše umístění a že je ve vašem prostředí CRM přesně. • Váš prodejní tým by měl být uveden v prostředí CRM jako uživatelé aplikace CRM.
 
@@ -72,40 +66,40 @@ Postupujte podle těchto kroků pro řešení potíží:
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Chybová zpráva vyžadující přihlášení":::
 
-Postupujte podle tohoto kroku pro řešení potíží:
+Postupujte podle tohoto kroku řešení potíží:
 
-- Pomocí přihlašovacích údajů partnerského centra se přihlaste do prostředí flow (flow.microsoft.com).
+- Pomocí přihlašovacích Partnerské centrum se jednou přihlaste k prostředí toku (flow.microsoft.com).
 
 
-3. Co byste měli dělat, když při aktivaci partnerského centra do služby CRM na platformě Power Automate dojde k následující chybě?
+3. Co dělat, když se při aktivaci toku Partnerské centrum CRM na Power Automate platformě zobrazí následující chyba?
  
 :::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Chybová zpráva vyžadující aktualizace":::
 
 Postupujte podle těchto kroků pro řešení potíží:
 
-- Před aktivací partnerského centra na Flow CRM aktivujte nejprve následující dva podřízené toky.
-      - Partnerské centrum na CRM – pomocníka (Insider Preview)
-      - Partnerské centrum pro spoluprodejní aktualizace pro Microsoft CRM (Insider Preview)
+- Nejprve aktivujte následující dva podřízené toky před aktivací Partnerské centrum toku CRM.
+      - Partnerské centrum na CRM – pomocná funkce (Insider Preview)
+      - Partnerské centrum CRM (Insider Preview) od Microsoftu – Aktualizace referenčních doporučení ke spoluprodání
 
-4. Co byste měli dělat, když při pokusu o úpravu toku nemůžete přidat připojení k toku?
+4. Co byste měli dělat, když se vám při pokusu o úpravu toku ne podařilo přidat připojení k toku?
 
-Do toku přidáte připojení, zatímco tok běží a přidáte do každého toku samostatně.  Pokud se dialogové okno pro přidání připojení při úpravě toku automaticky neotevře, můžete upravit každý z kroků a dílčích kroků jednotlivých toků.
+Připojení k toku přidáte, když je tok spuštěný, a ke každému toku se přidávají samostatně.  Pokud se dialogové okno pro přidání připojení neotevře automaticky při úpravách toku, můžete upravit jednotlivé kroky a dílčí kroky toků jednotlivě.
 
-- Vyberte jednotlivé toky a upravte je jednotlivě.
+- Vyberte každý tok a upravte je jednotlivě.
 - Rozbalení všech kroků v toku 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Postup, který vyžaduje připojení":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Kroky, které potřebují připojení":::
 
-- Vyberte postup, ve kterém se zobrazí výstražná ikona s výzvou k přidružení připojení a přidání připojení. 
+- Vyberte kroky, ve kterých se zobrazí ikona upozornění s žádostí o přidružení připojení a přidání připojení. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Upravit tok krok za krokem":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Úprava toku krok za krokem":::
 
 
-5. Co byste měli dělat v případě, že se nezapne toky řešení konektorů pro spoluprodejní odkazy?
+5. Co byste měli dělat, když se toky řešení konektorů referenčních odkazů spoluprodáky nezapnout?
 
-A. V Power automatu budete muset toky upravit v následujícím pořadí a aktualizovat je, aby používaly správná připojení:
+A. V Power Automate budete muset toky upravit v následujícím pořadí a aktualizovat je tak, aby se používají správná připojení:
 
-- Registrace Webhooku partnerského centra (Insider Preview)
+- Partnerské centrum registrace webhooku (Insider Preview)
 - Vytvoření společného prodejního odkazu – Salesforce do partnerského centra (Insider Preview)
 - Aktualizace referenčních seznamů Microsoftu v partnerském centru pro spoluprodej na Salesforce (Insider Preview)
 - Partnerské centrum do Salesforce (Insider Preview)
@@ -137,45 +131,45 @@ Chcete-li zajistit, aby toky automatizovaného automatizace běžely, jak oček�
 
 2. Co byste měli dělat, když vidíte odkazy, které nejsou synchronizované správně v partnerském centru nebo prostředí CRM?
  
-Pokud chcete zjistit stav synchronizace referenčních odkazů, vyberte **audit**. 
+Pokud chcete zjistit stav synchronizace referenčních seznamu, vyberte **Auditovat.** 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Postup synchronizace odkazů":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Synchronizace referenčních odkazů":::
 
 Ujistěte se, že jsou splněné následující podmínky:
 
 - ID řešení se poskytuje jako součást příležitosti.
 
-- Je požadováno dva kódy země.
+- Vyžaduje se dvou písmeno kódu země.
 
-- Když je pro příležitost vybraná možnost Microsoft, kontaktní informace zákazníka se vyžadují.
+- Pokud je pro příležitost vybrána pomoc od Microsoftu, jsou vyžadovány kontaktní údaje zákazníka.
 
-3. Jak zajistit, aby se odkaz synchronizovaly v obousměrném směru?
+3. Jak zajistit, aby se referenční seznam synchronizoval obousměrně?
 
 Proveďte následující kroky:
 
-- Prodejci partnerů musí zajistit, aby v části CRM povolili možnost **synchronizovat s partnerským centrem** .
+- Prodejci partnerů musí zajistit, aby v části CRM **Partnerské centrum** možnost Synchronizovat s partnery.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Ujistěte se, že jste povolili synchronizaci.":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Ujistěte se, že jste povolili možnost Synchronizace.":::
 
-- Prodejci musí zadat datum a čas uzavření při kvalifikaci potenciálního zákazníka.
+- Prodejci musí při kvalifikaci zájemce poskytnout výnosy a datum ukončení.
 
-- Pokud je ID CRM k dispozici v fázi **Vytvoření** nebo **aktualizace** v rámci společného prodeje, ale v CRM se nenalezne příležitost s tímto ID, aktualizace nebo vytvoření se budou ignorovat.
+- Pokud je ID CRM  uvedené  ve fázi vytvoření nebo aktualizace příležitosti ke spoluproduu, ale prodejní příležitost zájemce s tímto ID se v CRM nenaledí, bude aktualizace nebo vytvoření ignorována.
 
-- Ujistěte se, že je v prostředí Salesforce nakonfigurované pole Měna reference. 
+- Ujistěte se, že je v prostředí Salesforce nakonfigurované pole měny referenčního seznamu. 
 
-4. Co byste měli dělat v případě, že se konektor odpojí a Vy jste nedostali synchronizaci referenčních informací?
+4. Co dělat, když se konektor odpojí a nezmeškáte synchronizaci referenčních odkazů?
 
-Níže jsou uvedené některé z možností, které můžete vyzkoušet:
+Tady je několik možností, které si můžete vyzkoušet:
 
-- Ověřte, jestli vypršela platnost uživatelského jména nebo hesla pro uživatele partnerského centra s rolemi Správce odkazů.
+- Zkontrolujte, jestli pro uživatele s rolí správce referenčních Partnerské centrum vypršela platnost uživatelského jména nebo hesla.
 
-- Můžete přejít na nesynchronizovanou příležitost, udělat dílčí aktualizaci a sledovat, zda se odkaz synchronizoval.
+- Můžete přejít k nesynchronní příležitosti, provést dílčí aktualizaci a sledovat, jestli se referenční seznam synchronizoval.
 
-- Pokud jsou toky spuštěné a selhaly, vyberte tok a znovu odešlete spuštění, které selhalo.
+- Pokud toky byly spuštěny a selhaly, vyberte tok a znovu odešlete neúspěšné spuštění.
 
-5. Co byste měli dělat, když získáte chyby při odepření přístupu?
+5. Co dělat, když dojde k chybám odepření přístupu?
 
-Ujistěte se, že existují vhodné role.
+Ujistěte se, že existují příslušné role.
 
 - Role Správce odkazů pro prodejce partnerského centra 
  

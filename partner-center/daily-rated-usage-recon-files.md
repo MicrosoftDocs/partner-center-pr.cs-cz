@@ -9,25 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9b5daf91646324a9d4ace92d25736cfd0361ad6c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441893"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147271"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Naučte se číst soubory pro odsouhlasení s denním hodnocením využití v partnerském centru.
 
-**Platí pro**
+**Platí pro**: partnerské Centrum | Partnerské centrum pro Microsoft Cloud pro státní správu USA
 
-- Partnerské centrum pro Microsoft Cloud for US Government
-
-**Příslušné role**
-
-- Agent správce
-- Správce fakturace
-- Agent prodeje
-- Agent helpdesku
+**Příslušné role**: Agent správce | Správce fakturace | Prodejní agent | Agent helpdesku
 
 Tento článek vysvětluje, jak číst každodenní soubory pro odsouhlasení s využitím.
 
@@ -56,22 +49,22 @@ Tento článek vysvětluje, jak číst každodenní soubory pro odsouhlasení s 
 | PublisherId | Identifikátor vydavatele ve formátu identifikátoru GUID |
 | SubscriptionDescription | Název nabídky služby zakoupené zákazníkem, jak je definováno v ceníku. (Tento sloupec je identickým polem pro **offername**). |
 | SubscriptionId | Jedinečný identifikátor předplatného na platformě fakturace Microsoftu Nepoužívá se pro odsouhlasení. *Tento identifikátor není stejný jako **ID předplatného** v konzole pro správu partnerů.* |
-| ChargeStartDate | Počáteční datum fakturačního cyklu (kromě případů, kdy se prezentují data dříve nenabitých latentních dat z předchozího fakturačního cyklu). Čas je vždy začátek dne, tj. 0:00. |
-| ChargeEndDate | Koncové datum fakturačního cyklu (kromě případů, kdy se prezentují data dříve nenabitých dat o latentních používaní z předchozího fakturačního cyklu). Čas je vždy koncem dne, 23:59. |
-| UsageDate | Datum použití služby |
-| MeterType | Typ měřiče. |
+| ChargeStartDate | Počáteční datum fakturačního cyklu (s výjimkou případů, kdy se prezentují data dříve neúčtovaných latentních dat o využití z předchozího fakturačního cyklu). Čas je vždy začátek dne, tj. 0:00. |
+| ChargeEndDate | Koncové datum fakturačního cyklu (s výjimkou případů, kdy se prezentují data dříve neúčtovaných latentních dat o využití z předchozího fakturačního cyklu). Čas je vždy konec dne, 23:59. |
+| UsageDate | Datum využití služby |
+| MeterType (Typ měřiče) | Typ měřiče. |
 | MeterCategory | Služba nejvyšší úrovně, které se využití týká. |
-| MeterId | Identifikátor používaného měřiče. |
+| MeterId | Identifikátor použitého měřiče. |
 | MeterSubCategory | Typ služby Azure, který může mít vliv na sazbu. |
-| MeterName | Měrná jednotka spotřebovaného měřiče. |
-| MeterRegion | Tento sloupec určuje umístění datového centra v oblasti pro služby, kde se MeterRegion vztahuje a naplní. |
-| Jednotka | Jednotka **názvu** prostředku. |
-| ResourceLocation | Datové centrum, ve kterém je měřidlo spuštěno. |
+| MeterName | Měrná jednotka spotřebovává měřič. |
+| MeterRegion | Tento sloupec určuje umístění datového centra v rámci oblasti pro služby, ve kterých je oblast MeterRegion platná a naplněná. |
+| Jednotka | Jednotka názvu **prostředku**. |
+| ResourceLocation | Datové centrum, ve kterém je měřič spuštěný |
 | ConsumedService | Služba platformy Azure, kterou jste použili. |
 | ResourceGroup | Představuje kontejner, který obsahuje související prostředky pro řešení Azure. |
-| ResourceURI | Identifikátor URI používaného prostředku |
+| Identifikátor URI prostředku | Identifikátor URI používaného prostředku. |
 | ChargeType | Typ poplatku nebo úpravy.  |
-| UnitPrice | Cena za licenci, jak je publikována v ceníku v době nákupu. Ujistěte se, že tato cena odpovídá informacím uloženým v systému fakturace během odsouhlasení. |
+| UnitPrice | Cena za licenci, jak je publikováno v ceníku v době nákupu. Ujistěte se, že tato cena odpovídá informacím uloženým ve vašem fakturačním systému během odsouhlasení. |
 | Množství | Počet licencí. Ujistěte se, že tato cena odpovídá informacím uloženým v systému fakturace během odsouhlasení. |
 | Jednotkách UnitType | Typ jednotky, na kterou se měřič účtuje.  |
 | BillingPreTaxTotal | Celková fakturovaná částka před zdaněním<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]); 2)_ |
@@ -86,11 +79,11 @@ Tento článek vysvětluje, jak číst každodenní soubory pro odsouhlasení s 
 | PCToBCExchangeRate | Směnný kurz, který se použije pro cenovou měnu a fakturační měnu |
 | PCToBCExchangeRateDate | Datum, kdy se stanoví cenová měna pro fakturační měnu |
 | EntitlementId | Představuje ID předplatného Azure. |
-| EntitlementDescription | Představuje název ID předplatného Azure. |
+| Popis nároku | Představuje název ID předplatného Azure. |
 | PartnerEarnedCreditPercentage | Zobrazí PartnerEarnedCredit pro položku řádku. Získaný kredit bude buď 0, nebo 15 procent. |
-| CreditPercentage | Zobrazí kredit využití Azure. Získaný kredit bude mít hodnotu 0 nebo 100%. |
-| CreditType | Typ kreditu Například se **dal použít kredit Azure.** |
+| CreditPercentage | Zobrazí kredit Azure Consumption. Získaný kredit bude buď 0, nebo 100 procent. |
+| Typ kreditu | Typ kreditu Například **Uplatněný kredit Azure.** |
 >[!NOTE]
->Denní hodnocené využití obvykle trvá 24 hodin, než se zobrazí v partnerském centru nebo bude k dispozici prostřednictvím rozhraní API.
+>Zobrazení využití podle denního hodnocení obvykle trvá 24 hodin Partnerské centrum nebo se k němu přistupuje prostřednictvím rozhraní API.
 
 

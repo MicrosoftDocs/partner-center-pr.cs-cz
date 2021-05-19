@@ -1,6 +1,6 @@
 ---
 title: Správa žádostí o spolupráci
-description: Pochopení procesu deklarace identity souběžně, včetně konečných termínů, problémů s měnou a způsobu sporu o odmítnutou deklaraci souběžného plnění.
+description: Seznamte se s procesem žádostí o spolupráci, včetně konečných termínů, problémů s měnou a způsobu rozhodování zamítnuté žádosti o spolupráci.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,38 +8,36 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 952a6b327dd31b1155efe3c08bb52f9b300b0a93
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179152"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146761"
 ---
-# <a name="manage-incentives-co-op-claims"></a>Správa podnětů pro spolupracovní deklarace
+# <a name="manage-incentives-co-op-claims"></a>Správa žádostí o pobídky spolupráce
 
-**Příslušné role**
+**Odpovídající role:** Správce pobídek
 
-- Motivace správce
+Následující obsah obsahuje informace o správě žádostí o spolupráci, včetně časových os, pravidel a způsobu rozhodování zamítnuté žádosti o spolupráci.
 
-Následující obsah vám poskytne informace ke správě deklarací pro souběžné řízení, včetně časových os, pravidel a způsobu sporu zamítnuté deklarace souběžného plnění.
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>Schválení žádostí o spolupráci a konečné termíny pro platbu
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>Souběžné schválení deklarací identity a konečné termíny platby
+### <a name="when-will-my-co-op-claim-be-approved"></a>Kdy bude moje žádost o spolupráci schválená?
 
-### <a name="when-will-my-co-op-claim-be-approved"></a>Kdy bude deklarace identity co-op schválená?
+Žádosti o spolupráci se prošly do dvou pracovních dnů od jejich odeslaných žádostí. Jakmile se považují za platné, nastaví se na Stav schváleno.  
 
-Deklarace v rámci OP jsou přezkoumány do dvou pracovních dnů od jejich odeslání. Jakmile budou považovány za platné, budou nastaveny na stav Schváleno.  
-
-Tady jsou různé možné stavy pro vaše deklarace, které se nacházejí ve vaší spolupráci.
+Tady jsou různé možné stavy vašich žádostí o spolupráci.
 
 - Odesláno
 - Probíhá kontrola
-  - Microsoft dokončí svou kontrolu do dvou pracovních dnů od odeslání žádosti. Pokud je stav pod kontrolou po dobu delší než dva dny, obraťte se na [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+  - Microsoft dokončí svoji recenzi do dvou pracovních dnů odeslané žádosti. Pokud váš stav trvá déle než dva dny, kontaktujte [podporu](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 - Požadovaná akce
 - Probíhají úpravy
 - Schválené
 - Zamítnuto
 
-## <a name="co-op-claim-payments"></a>Souběžné platby deklarací identity
+## <a name="co-op-claim-payments"></a>Platby za žádosti o spolupráci
 
 ### <a name="when-will-i-get-the-payment-for-the-approved-co-op-claim"></a>Kdy obdržím platbu za schválenou žádost o pobídku spolupráce?
 
@@ -53,17 +51,17 @@ Pokud finanční prostředky v rámci pobídky spolupráce pocházejí od různ�
 
 Každý program pobídek obsahuje prázdný profil, který se vytvořil během nastavování. Měna zadaná v tomto profilu je měnou, ve které vám budou přicházet platby.
 
-## <a name="rejected-co-op-claims"></a>Odmítnuté deklarace identity spolupracovníka
+## <a name="rejected-co-op-claims"></a>Zamítnuté žádosti o spolupráci
 
-Pokud se materiály, které jste přiložili k vaší žádosti o pobídku spolupráce, vyhodnotí jako nedostatečné, vaše žádost se zamítne. Důvody pro zamítnutí si můžete prohlédnout v poli **Historie** na stránce vaší žádosti o pobídku spolupráce. K sporu o zamítnutí použijte následující postup:
+Pokud se materiály, které jste přiložili k vaší žádosti o pobídku spolupráce, vyhodnotí jako nedostatečné, vaše žádost se zamítne. Důvody pro zamítnutí si můžete prohlédnout v poli **Historie** na stránce vaší žádosti o pobídku spolupráce. Zamítnutí rozhodíte pomocí následujícího postupu:
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>Rozporování zamítnuté žádosti o pobídku spolupráce
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
-2. V části **pobídky** vyberte **Správa souběžného řízení**.
+2. V **části Pobídky** vyberte **Správa spolupráce.**
 
-3. Vyberte žádost o pobídku spolupráce, kterou chcete rozporovat. Otevře se stránka deklarace identity na co-op.
+3. Vyberte žádost o pobídku spolupráce, kterou chcete rozporovat. Otevře se stránka žádosti o spolupráci.
 
 4. V dolní části stránky vyberte **Rozporovat**.
 

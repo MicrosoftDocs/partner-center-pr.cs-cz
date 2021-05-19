@@ -1,6 +1,6 @@
 ---
 title: Eskalace problémů do Microsoftu
-description: Seznamte se s problémy, které partneři Microsoftu mají pro své zákazníky vyřešit a které problémy mohou potřebovat k eskalaci společnosti Microsoft.
+description: Zjistěte, u jakých problémů se od partnerů Microsoftu očekává, že se vyřeší pro své zákazníky a které problémy budou muset eskalovat do Microsoftu.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,53 +9,46 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9504f66a53b2dc2303303e3f82020b591ce1f94f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441842"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146965"
 ---
-# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalace problémů společnosti Microsoft a zjištění, které problémy mají větší předpoklady pro eskalaci Microsoftu  
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalace problémů do Microsoftu a informace o problémech, které jsou pro eskalaci Microsoftu vhodné  
 
-**Platí pro**
+**Platí pro**: Partnerské centrum | Partnerské centrum pro Microsoft Cloud for US Government
 
-- Partnerské centrum pro Microsoft Cloud for US Government
+**Odpovídající role:** Agent pro správu | Globální správce | Sales agent | Agent helpdesku
 
-**Příslušné role**
+Očekává se, že problémy vyřešíte jménem svých zákazníků. Prvními kroky by mělo být kontrola stavu služby zdokumentovaných problémů. [](check-service-health.md) Pokud se tím problém zákazníka nevyřeší, můžete k řešení potíží se softwarem, nastavením a konfigurací použít oprávnění správce.
 
-- Agent správce
-- Globální správce
-- Agent prodeje
-- Agent helpdesku
+Existuje však několik kategorií problémů, které budete muset microsoftu předáte a opravit:
 
-Očekává se, že budete řešit problémy jménem svých zákazníků. Vaším prvním postupem je [ověřit stav služby](check-service-health.md) u stávajících a dokumentovaných problémů. Pokud se tím nepodaří problém zákazníka vyřešit, můžete použít oprávnění správce k řešení potíží se softwarem, nastavením a konfigurací.
-
-Existuje však několik kategorií problémů, které je třeba předat společnosti Microsoft při opravě:
-
-- Nezdokumentované problémy se službami, které nefungují podle popisů služeb.
+- Nezdokumentované problémy se službami, které nesídly podle popisů služeb
 
 - Nedostupné služby
 
-- Chyby a další nesrovnalosti ovlivňující vzhled nebo činnost služby
+- Chyby a jiné nesrovnalosti, které mají vliv na vzhled nebo operaci služby
 
-- Rozsáhlé výpadky sítě
+- Přerušení sítě ve velkém měřítku
 
 - Regionální problémy s dopadem na více tenantů
 
-## <a name="submit-a-support-request"></a>Odeslat žádost o podporu
+## <a name="submit-a-support-request"></a>Odeslání žádosti o podporu
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
+1. Přihlaste se k řídicímu [Partnerské centrum.](https://partner.microsoft.com/dashboard)
 
-2. V nabídce partnerské Centrum vyberte **zákazníci** a pak vyberte zákazníka, který potřebuje podporu.
+2. V nabídce Partnerské centrum vyberte **Zákazníci** a pak vyberte zákazníka, který potřebuje podporu.
 
-3. Vyberte možnost **Správa služeb** a vyberte **žádosti o služby**.
+3. Vyberte **Service management (Správa** služeb) a **vyberte Service requests (Žádosti o služby).**
 
-4. Vyberte **nový požadavek** a pak vyberte **systém Microsoft Office 365**.
+4. Vyberte **Nový požadavek** a pak vyberte **systém Microsoft Office 365.**
 
-5. Přejdete na portál Office 365, kde se potřebujete přihlásit pomocí přihlašovacích údajů partnerského centra.
+5. Budete na portálu Office 365, kde se musíte přihlásit pomocí svých přihlašovacích Partnerské centrum účtu.
 
-6. V nabídce na levé straně vyberte **Podpora**, **nový požadavek služby** .
+6. V **nabídce** vlevo **vyberte Podpora ,** Nová žádost o služby.
 
 7. Vyberte téma podpory.
 

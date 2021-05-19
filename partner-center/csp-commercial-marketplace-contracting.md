@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 28a3b40eb3a3e037cbeb434c57a93b9a0a94e691
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979650"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148087"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Smlouvy pro partnery CSP, kteří provádějí podnikání na komerčním webu Marketplace
 
 
-**Příslušné role**
-
-- Globální správce
-- Agent správce
+**Příslušné role**: globální správce | Agent správce
 
 Tento článek se týká kontraktů pro partnery v programu CSP, kteří se rozhodli koupit si nabídky nebo produkty pro zákazníky z partnerského centra z komerčního tržiště nebo z Azure Portal.
 

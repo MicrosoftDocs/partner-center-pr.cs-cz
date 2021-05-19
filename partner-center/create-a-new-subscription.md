@@ -1,7 +1,7 @@
 ---
 title: Vytváření zákaznických předplatných v partnerském centru
 ms.topic: how-to
-ms.date: 07/22/2020
+ms.date: 05/17/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Přečtěte si, jak prodávat předplatná vašim zákazníkům pro produkty publikované Microsoftem a také pro produkty SaaS publikované třetí stranou nezávislého výrobce softwaru.
@@ -9,26 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502931"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148190"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Vytváření, pozastavování nebo rušení zákaznických předplatných
 
-**Platí pro**
+**Platí pro**: partnerské Centrum | Partnerské centrum pro Microsoft Cloud pro státní správu USA
 
-- Partnerské centrum pro Microsoft Cloud for US Government
-
-**Příslušné role**
-
-- Agent správce
-- Správce fakturace
-- Globální správce
-- Agent helpdesku
-- Agent prodeje
+**Příslušné role**: Agent správce | Správce fakturace | Globální správce | Agent helpdesku | Agent prodeje
 
 Až vytvoříte záznam o zákazníkovi v partnerském centru, můžete si ho prodávat do produktů v katalogu. To zahrnuje produkty publikované produkty Microsoft a software jako služba (SaaS), které publikovali nezávislí výrobci softwaru (ISV) třetích stran na [komerčním tržišti](https://azuremarketplace.microsoft.com/marketplace).
 
@@ -47,28 +39,28 @@ Některé nabídky jsou omezené na jedno předplatné na zákazníka. Pokud chc
 
 4. Chcete-li zobrazit pouze určité typy předplatných, proveďte výběr v dostupných filtrech:
    - **Vydavatel**: vyberte **Microsoft** , pokud chcete zobrazit jenom nabídky od Microsoftu nebo **partnera** , aby viděli produkty z komerčního tržiště publikované prostřednictvím nezávislého výrobce softwaru.
-   - **Typ fakturace**: Vyberte typ fakturace předplatného, který chcete použít: **licence** nebo **použití**. Informace, které vám pomůžou při rozhodování mezi měsíční a roční frekvencí fakturace, najdete v tématu [fakturace na základě licencí](license-based-billing.md) .
-   - **Kategorie**: vyberte **podnik**, **malý podnik** nebo **zkušební verzi**. Informace o zkušebních předplatných najdete v tématu [Nabídka vašich zákazníků s zkušebními produkty Microsoftu](offer-your-customers-trials-of-microsoft-products.md).
+   - **Typ fakturace**: Vyberte typ fakturace předplatného, který chcete použít: **licence** nebo **použití**. Informace, [které vám pomůžou](license-based-billing.md) s rozhodováním mezi měsíční a roční frekvencí fakturace, najdete v tématu Fakturace na základě licencí.
+   - **Kategorie:** Zvolte **Enterprise**, **Small business** nebo **Trial**. Informace o zkušebních předplatných najdete v tématu [Nabídka zkušebních verzí produktů Microsoftu zákazníkům.](offer-your-customers-trials-of-microsoft-products.md)
 
-5. Vyberte předplatné produktů, které chcete pro zákazníka koupit. Produkty, které vidíte, závisí na typu segmentu zákazníka (vzdělávání, státní správa atd.) a na použitých filtrech. Některé nabídky zobrazené na webu Marketplace nemusí být vždy dostupné konkrétnímu zákazníkovi nebo konkrétnímu partnerovi CSP. To může být způsobeno tím, že:
+5. Vyberte předplatná produktů, která chcete pro zákazníka zakoupit. Produkty, které se zobrazí, závisí na typu segmentu zákazníků (vzdělávání, státní správa atd.) a použitých filtrech. Některé nabídky zobrazené na Marketplace nemusí být vždy dostupné konkrétnímu zákazníkovi nebo konkrétnímu partnerovi CSP. Může to být proto, že:
 
-   - Zákazník už má k tomuto produktu předplatné a je povolený jenom jeden.
+   - Zákazník už má předplatné tohoto produktu a má povolené jenom jedno.
 
-   - Předplatné zákazníka může být pozastavené (v takovém případě můžete předplatné znovu aktivovat, ale nekoupit nové).
+   - Předplatné zákazníka může být pozastavené (v tomto případě můžete předplatné znovu aktivovat a nekupovat nové).)
 
-   - V případě nabídek ISV SaaS může být nabídka k dispozici z několika důvodů k zakoupení: ISV nemusí podporovat fakturační zemi nebo oblast zákazníka; nezávislý výrobce softwaru se možná rozhodl, že nabídku zpřístupní prostřednictvím programu CSP. nebo nezávislý výrobce softwaru mohl vytvořit nabídku [výhradně](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) pro určité partnery CSP. Nabídku ISV nelze také využít v partnerském centru (například v kontejnerech nebo v některých nabídkách založených na používání).  
+   - U nabídek SaaS od isv může být několik důvodů, proč není možné nabídku koupit: Tento isv nemusí podporovat fakturační zemi nebo oblast zákazníka. Je možné, že se isV rozhodl nabídku nezvolovat prostřednictvím programu CSP. nebo může isv made the offer [exclusive](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) to only certain CSP partners. Nabídku isv také není možné provádět prostřednictvím Partnerské centrum (například kontejnery nebo některé nabídky založené na využití).  
 
-6. U každého předplatného, které chcete přidat, zadejte počet licencí (v případě potřeby) a vyberte **Přidat do košíku**.
+6. Pro každé předplatné, které chcete přidat, zadejte počet licencí (v případě potřeby) a vyberte **Přidat do košíku.**
 
-7. Až skončíte s přidáváním předplatných, vyberte **zkontrolovat** a zkontrolovat vaši objednávku.
+7. Až přidávání předplatných dokončíte, vyberte **Zkontrolovat** a zkontrolovat objednávku.
 
-8. Po kontrole objednávek a jejich přípravě na nákup můžete vybrat **koupit**.
+8. Jakmile si prošete objednávky a jste připravení si tato předplatná koupit, vyberte **Koupit.**
 
-9. Po zakoupení předplatného pro zákazníka dojde k následujícímu:
+9. Po zakoupení předplatného pro zákazníka dojde k těmto akcím:
 
-    - Předplatné můžete zkontrolovat nebo upravit výběrem názvu předplatného ze stránky **předplatné** daného zákazníka. Tady můžete vybrat licence pro doplňky, pokud jsou k dispozici, změnit množství licencí nebo pozastavit předplatné.
+    - Předplatné můžete zkontrolovat nebo upravit výběrem názvu předplatného na stránce **Předplatná** tohoto zákazníka. Tady můžete vybrat případné další licence, změnit jejich počet nebo předplatné pozastavit.
 
-    **V případě předplatných ISV SaaS (podle licencí a měřených):**
+    **Pro předplatná ISV SaaS (založená na licencích a na základě měření):**
     - Zobrazí se odkaz na web vydavatele ISV. Tento odkaz by vám měl pomáhat s dokončením nastavení nasazení nebo účtu u předplatného zákazníka.
       
     >[!NOTE]
@@ -104,38 +96,41 @@ Partneři můžou předplatné pozastavit nebo zrušit, pokud ho požaduje záka
 
 Když změníte stav předplatného na **pozastaveno**, uživatelé se nebudou moct přihlašovat ani získat přístup ke službám.
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
+1. Přihlaste se k řídicímu [Partnerské centrum.](https://partner.microsoft.com/dashboard)
 
-2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
+2. V Partnerské centrum vyberte **Zákazníci** a pak v seznamu zvolte zákazníka.
 
-3. Vyberte předplatné, které chcete spravovat.
+3. Zvolte předplatné, které chcete spravovat.
 
 4. V části **Stav** zvolte **Pozastaveno**. Pak změny **odešlete**.
 
-5. Všechna data budou odstraněna, pokud předplatné nebude znovu aktivováno během 90 dnů nebo 90 dnů plus počet dní mezi časem otevření účtu a prvním fakturačním obdobím (maximum 120 dní).
+5. Všechna data se odstraní, pokud se předplatné znovu neaktivuje do 90 dnů nebo 90 dnů plus počet dní mezi časem otevření účtu a prvním fakturačním obdobím (maximálně 120 dnů).
 
-Když pozastavíte předplatné, datum zobrazené pod tlačítkem **pozastavit** indikuje, kdy by předplatné automaticky vyprší, pokud ho znovu neaktivujete. 
+Když předplatné pozastavíte, datum, které se zobrazí pod tlačítkem **Pozastaveno,** značí, kdy automaticky vyprší platnost předplatného, pokud ho znovu neaktivujete. 
+
+>[!NOTE]
+>Předplatná CSP nemají prošlé období (stejně jako předplatná s přímým přístupem na web), během kterého služby stále fungují, ale předplatné negeneruje žádné poplatky za fakturaci. Předplatná CSP jsou aktivní nebo pozastavená (nebo úplně odstraněná).
 
 ### <a name="cancel-a-subscription"></a>Zrušení předplatného
 
-Předplatné SaaS na základě licencí můžete zrušit od třetích stran vydavatelů ISV v rámci [obchodního tržiště](csp-commercial-marketplace-overview.md)partnerského centra. Pokud zrušíte v rámci období zrušení, obdržíte plnou refundaci.
+Předplatná SaaS založená na licencích můžete zrušit od vydavatelů ISV třetích stran v rámci Partnerské centrum [komerčního marketplace.](csp-commercial-marketplace-overview.md) Pokud zrušíte v rámci období zrušení, obdržíte úplnou refundaci.
 
-U nezávislých výrobců softwaru nabízíme fakturaci za měsíc:
+Nabídky isv fakturované měsíčně:
 
-- Pokud po umístění objednávky zrušíte méně než 24 hodin, obdržíte na další faktuře celý kredit.
+- Pokud zrušíte méně než 24 hodin od vystavení objednávky, obdržíte úplný kredit na další faktuře.
 
-- Pokud zrušíte pozdější dobu než 24 hodin od okamžiku, kdy jste objednávku nastavili, zrušení se naplánuje při obnovení.
+- Pokud ji zrušíte později než 24 hodin po vystavení objednávky, bude zrušení naplánováno na prodloužení.
 
-Pro nabídky účtované ročně:
+Pro nabídky fakturované ročně:
 
-- Pokud po umístění objednávky zrušíte méně než 14 dní, obdržíte na další faktuře celý kredit.
+- Pokud zrušíte méně než 14 dnů od vystavení objednávky, obdržíte úplný kredit na další faktuře.
 
-- Pokud zrušíte akci později než 14 dní po umístění objednávky, zrušení se naplánuje při obnovení.
+- Pokud objednávku zrušíte později než 14 dnů od vystavení objednávky, bude zrušení naplánováno na prodloužení.
 
-Po uplynutí těchto období se už nebude zobrazovat možnost zrušit předplatné.
+Po uplynutí těchto období se už možnost zrušení předplatného nebude zobrazit.
 
 > [!NOTE]
-> Služby nezávislé na používání a měřené od jiných výrobců ISV (například virtuální počítače nebo kontejnery) nejsou způsobilé k návratu. Služby založené na využití se dají zrušit jako metoda zrušení. Vzhledem k tomu, že se poplatky účtují po použití, tyto služby nemají nárok na refundaci.
+> Služby isv třetích stran založené na využití a na základě měření (které například používají virtuální počítače nebo kontejnery) nemají nárok na vrácení. Služby založené na využití je možné zrušit jako metodu zrušení. Vzhledem k tomu, že se poplatky účtují po použití, nemají tyto služby nárok na refundaci.
 
 Pokud chcete zrušit předplatné SaaS založené na licencích od vydavatele ISV, postupujte následovně:
 

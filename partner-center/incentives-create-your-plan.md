@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179254"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146795"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Vygenerujte marketingový plán pro program pobídek
 
-**Příslušné role**
-
-- Motivace správce
-- Správce fakturace
-- Globální správce
+**Příslušné role**: pobídky admin | Správce fakturace | Globální správce
 
 Plán deklarací pro souběžné zpracování je série marketingových kampaní, aktivit a dalších podrobných informací, které popisují, jak se má program podávat za úspěch. Jakmile vytvoříte svůj plán, odešlete ho Microsoftu ke schválení.
 

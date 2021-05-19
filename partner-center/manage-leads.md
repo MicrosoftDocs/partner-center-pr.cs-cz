@@ -4,36 +4,33 @@ ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Pomocí partnerského centra můžete reagovat na reference a spravovat nové, stávající a archivované zájemce a odkazy. Seznamte se také s postupem, jak v budoucnu získat další odkazy.
+description: Pomocí Partnerské centrum můžete reagovat na referenční odkazy a spravovat nové, existující a archivované potenciální zákazníky a referenční odkazy. Zjistěte také, jak v budoucnu získat další referenční seznam.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dd34a30cf21a90ac7781ed84945a208df13b3700
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133110"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146540"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Správa různých potenciálních zákazníků, jako jsou potenciální zákazníci na základě dotazů zákazníků, kvalifikovaní potenciální zákazníci z marketingového oddělení a kvalifikovaní potenciální zákazníci z prodejního oddělení
 
-**Příslušné role**
+**Odpovídající role:** Správce partnera MPN | Správce referenčních odkazů
 
-- Správce partnera MPN
-- Správce odkazů
+Microsoft posílá svým partnerům miliony zájemců za rok. Máte možnost dostávat od Microsoftu potenciální zákazníky a vytvářet své podnikání. Tato část vám pomůže pochopit, jak spravovat potenciální zákazníky, které obdržíte ze stránky poskytovatele řešení Microsoftu, a můžou na ně můžou působit.
 
-Společnost Microsoft posílá svým partnerům miliony potenciálních zákazníků za rok. Máte příležitost přijímat zájemce od Microsoftu a vytvářet své podnikání. V této části se dozvíte, jak spravovat potenciální zákazníky, které dostanete na stránce Microsoft Solution Provider, a na základě těchto informací.
-
-Předpokladem pro příjem zájemců je [vytváření obchodních profilů](create-a-marketing-profile.md) pro vaši firmu. Obchodní profil, který vytvoříte pro vaši společnost, vám pomůže zobrazit potenciální zákazníky, jiné partnery a prodejce Microsoftu na webové stránce [Microsoft Solution Provider](https://www.microsoft.com/solution-providers/home) . Informace o obchodním profilu jsou zkombinovány s informacemi o členství vaší společnosti, jako jsou údaje o kompetenci a další potvrzení od Microsoftu, které poskytují bohatou profil pro zákazníky, když hledají partnera, se kterým chcete pracovat. Všechny požadavky, které pocházejí ze seznamu profilů na stránce poskytovatele řešení společnosti Microsoft, jsou k dispozici v části **zájemci** na kartě **odkazy** v levém navigačním podokně.
+Předpokladem pro získání potenciálních zákazníků je [vytvoření obchodního profilu](create-a-marketing-profile.md) pro vaši společnost. Obchodní profil, který vytvoříte pro vaši společnost, vám pomůže být viditelný potenciálním zákazníkům, dalším partnerům a prodejcům Microsoftu na webové stránce [poskytovatele řešení Microsoftu.](https://www.microsoft.com/solution-providers/home) Informace o vašem obchodním profilu se kombinují s informacemi o členství ve vaší společnosti, jako jsou údaje o kompetencích, a dalšími doporučeními Od Microsoftu, které zákazníkům poskytují bohatý profil, když chtějí vyhledat partnera, se systémem pro práci. Všechny požadavky, které pocházejí z výpisu profilu na stránce  poskytovatele řešení Microsoftu, jsou k dispozici v části Zájemci na kartě **Referenční** seznamy v levém navigačním podokně.
 
 ## <a name="types-of-leads"></a>Typy potenciálních zákazníků
 
-**Dotazy zákazníků** – jedná se o zájemce pocházející přímo od zákazníků. Společnost hledala váš profil vaší společnosti a nalezla ho a vyplnila formulář s oznámením potřeby a podrobnostmi o kontaktu.
+**Dotazy zákazníků** – jedná se o zájemce, kteří pocházejí přímo od zákazníků. Společnost prohledal a našla váš profil společnosti a vyplnila formulář s informacemi o tom, že je potřeba, a kontaktní údaje.
 
-**Kvalifikované marketingové** služby – jedná se o potenciální zákazníky, kteří zaměstnanci Microsoftu, kteří si poslali žádost o zákazníky prostřednictvím některého z různých marketingových kanálů, odesílají do vaší společnosti.
+**Kvalifikovaný marketing** – jedná se o potenciální zákazníky, které do vaší společnosti posílají zaměstnanci Microsoftu, kteří obdrželi žádost zákazníka prostřednictvím jednoho z různých marketingových kanálů.
 
-Určené k **prodeji** – jedná se o zájemce, které vám poslali prodejci Microsoftu, kteří shromažďují požadavky od zákazníka, a pomáhají jim najít správného partnera pro vyřešení problému zákazníka. Tyto zájemce se neshodují s možnostmi společného prodeje, kdy se obchodní zástupce Microsoftu aktivně zabývá partnerem a zákazníkem až do uzavření koupě.
+**Kvalifikovaní** prodejci – jedná se o zájemce, které vám posílají prodejci Microsoftu, kteří shromažďují požadavky od zákazníka a pomáhají jim najít správnému partnerovi řešení problému zákazníka. Tito zájemci nejsou stejné jako příležitosti ke spoluprodeji, kde je obchodní zástupce Microsoftu aktivně zapojený s partnerem a zákazníkem do ukončení dohody.
 
 ## <a name="navigating-the-leads-section"></a>Navigace v části zájemci
 
