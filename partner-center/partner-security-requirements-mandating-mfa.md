@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: b1b02967209ba36088b0c7bb7487428ab08b8a37
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086358"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152575"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Mandating Multi-Factor Authentication (MFA) pro vašeho partnerského tenanta
 
-**Příslušné role**
-
-- Agent správce
-- Agent prodeje
-- Agent helpdesku
-- Správce fakturace
-- Globální správce
+**Příslušné role**: Agent správce | Prodejní agent | Agent helpdesku | Správce fakturace | Globální správce
 
 Tento článek obsahuje podrobné příklady a pokyny pro mandating Multi-Factor Authentication (MFA) v partnerském centru. Účelem této funkce je pomáhat partnerům zabezpečit svůj přístup k zákaznickým prostředkům proti zneužití přihlašovacích údajů. Partneři se musí vymáhat MFA pro všechny uživatelské účty ve svém partnerském tenantovi, včetně uživatelů typu Host. Uživatelům bude uděleno pověření k dokončení ověřování MFA pro následující oblasti:
 
@@ -47,31 +41,31 @@ Některé stránky na řídicím panelu partnerského centra budou chráněny MF
 Následující tabulka uvádí, které typy uživatelů mají autorizaci pro přístup k těmto stránkám chráněným pro MFA (a jsou tedy touto funkcí ovlivněny).
 
 
-| Stránka chráněná MFA       | Agenti správce      |  Prodejní agenti     |   Agenti helpdesku     | Globální správce      |  Správce fakturace     | 
+| Stránka chráněná MFA       | Agenti pro správu      |  Agenti prodeje     |   Agenti helpdesku     | Globální správce      |  Správce fakturace     | 
 |---    |---    |---    |---    |---    |---    |
-| Všechny stránky na kartě Customers      |   x    |    x   |  x     |       |       |
-| Všechny stránky v rámci podpory > kartě žádosti o zákazníky     | x      |       |    x   |       |       |
+| Všechny stránky na kartě Zákazníci      |   x    |    x   |  x     |       |       |
+| Všechny stránky na kartě Support > Customer Requests (Žádosti zákazníků)     | x      |       |    x   |       |       |
 | Stránka fakturace     |   x    |       |       |    x   |   x    |
 
-Pokud se pokusíte získat přístup k některým z těchto stránek a jste předtím nedokončili ověřování MFA, budete se muset udělat. Jiné stránky v partnerském centru, jako je například stránka přehled, Service Health stavová stránka pro kontrolu stavu nevyžadují MFA.
+Pokud se pokusíte získat přístup k kterékoli z těchto stránek a ještě jste dříve neskončili ověřování MFA, budete k tomu muset použít . Další stránky na Partnerské centrum, jako je například stránka Přehled, Service Health kontrola stavu nevyžadují MFA.
 
 ## <a name="verification-examples"></a>Příklady ověřování
 
-K ilustraci, jak ověřování funguje na řídicím panelu partnerského centra, vezměte v úvahu následující příklady.
+Pokud chcete ilustrovat, jak funguje ověřování Partnerské centrum řídicím panelu, zvažte následující příklady.
 
-### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Příklad 1: partner implementoval Azure AD MFA
+### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Příklad 1: Partner implementovali Azure AD MFA
 
-1. Jana funguje pro poskytovatele CSP společnosti Contoso. Společnost Contoso implementovala MFA pro všechny své uživatele v rámci partnerského tenanta contoso s použitím služby Azure Active Directory (Azure AD) MFA.
+1. Jana pracuje pro CSP Contoso. Contoso implementovali MFA pro všechny své uživatele v partnerském tenantovi Společnosti Contoso pomocí Azure Active Directory (Azure AD) MFA.
 
-2. Jana spustí novou relaci prohlížeče a přejde na stránku s přehledem řídicího panelu partnerského centra (která není chráněna MFA). Partnerské centrum přesměruje Jana na službu Azure AD, aby se přihlásil.
+2. Jana spustí novou relaci prohlížeče a přejde na Partnerské centrum přehledu řídicího panelu (která není chráněná MFA). Partnerské centrum přesměruje Janu do Azure AD, aby se přihlašuje.
 
-3. Vzhledem k existující instalaci Azure AD MFA pomocí společnosti Contoso je potřeba, aby se dokončilo ověřování MFA. Po úspěšném přihlášení a ověření MFA je Jana přesměrován na stránku Přehled řídicího panelu partnerského centra.
+3. Kvůli stávajícímu nastavení Azure AD MFA od společnosti Contoso je Jana nutná k dokončení ověřování MFA. Po úspěšném přihlášení a ověření MFA se Jana přesměruje zpět na Partnerské centrum řídicího panelu.
 
-4. Jana se pokusí získat přístup k jedné ze stránek chráněných MFA v partnerském centru. Vzhledem k tomu, že Jana již dokončila ověřování MFA během přihlášení, má Jana přístup na stránku chráněnou MFA, aniž by bylo nutné provést ověření MFA znovu.
+4. Jana se pokusí získat přístup k jedné ze stránek chráněných více ověřováním v Partnerské centrum. Vzhledem k tomu, že Jana už dříve dokončila ověřování MFA při přihlašování, může získat přístup na stránku chráněnou vícefainem, aniž by se vyžadovalo, aby znovu prošla ověřením MFA.
 
-### <a name="example-2-partner-has-implemented-third-party-mfa-using-identity-federation"></a>Příklad 2: partner implementoval vícefaktorové ověřování třetí strany pomocí federace identit.
+### <a name="example-2-partner-has-implemented-third-party-mfa-using-identity-federation"></a>Příklad 2: Partner implementovali vícefabové ověřování třetích stran pomocí federace identit
 
-1. Trent funguje pro zprostředkovatele CSP Wingtip. Společnost Wingtip implementovala vícefaktorové ověřování pro všechny své uživatele v partnerském tenantovi klienta Wingtip pomocí MFA, která je integrovaná se službou Azure AD prostřednictvím federace identit.
+1. Ve společnosti CSP Wingtip funguje Takét. Společnost Wingtip implementovala vícefaktorové ověřování pro všechny své uživatele v partnerském tenantovi klienta Wingtip pomocí MFA, která je integrovaná se službou Azure AD prostřednictvím federace identit.
 
 2. Trent spustí novou relaci prohlížeče a přejde na stránku s přehledem řídicího panelu partnerského centra (což není chráněna MFA). Partnerské centrum přesměruje Trent do služby Azure AD, aby se přihlásil.
 
@@ -89,23 +83,23 @@ K ilustraci, jak ověřování funguje na řídicím panelu partnerského centra
 
 4. Jan se pokusí získat přístup k jedné ze stránek chráněných MFA v partnerském centru. Vzhledem k tomu, že Jan nedokončil ověřování MFA, Partnerské centrum přesměruje Jan na Azure AD, aby se dokončilo ověřování MFA. Vzhledem k tomu, že se jedná o první požadavek Jan, aby bylo možné provést MFA, je pro [vícefaktorové ověřování](#mfa-registration-experience)také požádána Jan. Po úspěšné registraci MFA a ověřování MFA teď má Jan přístup na stránku chráněnou MFA.
 
-5. Druhý den před tím, než společnost Fabrikam implementuje MFA pro libovolného uživatele, spustí novou relaci prohlížeče a přejde na stránku Přehled řídicího panelu partnerského centra (což není chráněno MFA). Partnerské centrum přesměruje Jan na službu Azure AD, aby se přihlásil bez výzvy MFA. 
+5. Druhý den před tím, než společnost Fabrikam implementuje MFA pro libovolného uživatele, spustí novou relaci prohlížeče a přejde na stránku Přehled řídicího panelu partnerského centra (což není chráněno MFA). Partnerské centrum přesměruje Johna do Azure AD, aby se přihlašuje bez výzvy KFA. 
 
-6. Jan se pokusí získat přístup k jedné ze stránek chráněných MFA v partnerském centru. Vzhledem k tomu, že Jan nedokončil ověřování MFA, Partnerské centrum přesměruje Jan na Azure AD, aby se dokončilo ověřování MFA. Vzhledem k tomu, že Jan zaregistroval MFA, tak v tomto okamžiku se zobrazí pouze výzva k dokončení ověřování MFA.
+6. Jan se pokusí získat přístup k jedné ze stránek chráněných více ověřováním v Partnerské centrum. Vzhledem k tomu, že Jan nedokončil ověřování MFA, Partnerské centrum přesměruje Johna do Azure AD, aby se dokončilo ověřování MFA. Vzhledem k tomu, že Jan zaregistroval MFA, je tentokrát požádán pouze o dokončení ověřování MFA.
 
 > [!NOTE]
->Akce: Správci společnosti mají pro implementaci vícefaktorového ověřování [tři možnosti](partner-security-requirements.md#implementing-multi-factor-authentication) .
+>Akce: Správci společnosti [mají tři možnosti](partner-security-requirements.md#implementing-multi-factor-authentication) implementace MFA.
 
 ## <a name="partner-center-api"></a>Rozhraní API partnerského centra
 
-Rozhraní API partnerského centra podporuje ověřování jenom pro aplikace a ověřování uživatelů a aplikací. 
+Rozhraní Partnerské centrum API podporuje ověřování pouze na základě aplikace i ověřování aplikací a uživatelů. 
 
-Když se použije ověřování aplikace + uživatel, bude partnerské Centrum vyžadovat ověření MFA. Konkrétně, když Partnerská aplikace chce odeslat požadavek rozhraní API partnerskému centru, musí do autorizační hlavičky žádosti zahrnovat přístupový token. 
+Při použití ověřování aplikací a uživatelů bude Partnerské centrum ověřování MFA. Konkrétněji řečeno, pokud partnerská aplikace chce odeslat požadavek rozhraní API do Partnerské centrum, musí v autorizační hlavičce požadavku obsahovat přístupový token. 
 
 > [!NOTE]
->Rozhraní [zabezpečení aplikačního modelu](/partner-center/develop/enable-secure-app-model) je škálovatelné rozhraní pro ověřování partnerů CSP a CPVs prostřednictvím architektury MFA Microsoft Azure při volání rozhraní API partnerského centra. Před povolením vícefaktorového ověřování ve vašem tenantovi musíte implementovat toto rozhraní. 
+>Architektura [Model zapezpečených aplikací je](/partner-center/develop/enable-secure-app-model) škálovatelná architektura pro ověřování partnerů CSP a procesorů prostřednictvím architektury MFA Microsoft Azure při volání rozhraní PARTNERSKÉ CENTRUM API. Toto rozhraní musíte implementovat před povolením MFA ve vašem tenantovi. 
 
-Když partnerské Centrum přijme požadavek rozhraní API s přístupovým tokenem získaným pomocí ověřování aplikace + uživatel, rozhraní API partnerského centra ověří přítomnost hodnoty *MFA* v deklaraci *metody ověřování (AMR)* . Pomocí dekodéru JWT můžete ověřit, zda přístupový token obsahuje očekávanou hodnotu odkaz na metodu ověřování (AMR), nebo ne:
+Když Partnerské centrum rozhraní API s přístupový tokenem získaným pomocí ověřování aplikací a uživatelů, rozhraní Partnerské centrum API zkontroluje přítomnost hodnoty *MFA* v deklaraci identity *amr (Authentication Method Reference).* Dekodér JWT můžete použít k ověření, jestli přístupový token obsahuje očekávanou hodnotu odkazu na metodu ověřování (AMR):
 
 ``` csharp
 {
@@ -135,7 +129,7 @@ Když partnerské Centrum přijme požadavek rozhraní API s přístupovým toke
 }
 ```
 
-Pokud je hodnota přítomna, partnerským centrem se dokončí ověřování MFA a zpracuje požadavek rozhraní API. Pokud hodnota není k dispozici, rozhraní API partnerského centra žádost odmítne s následující odpovědí:
+Pokud je hodnota přítomná, Partnerské centrum, že se dokončilo ověřování MFA, a zpracuje požadavek rozhraní API. Pokud hodnota neexistuje, rozhraní API Partnerské centrum požadavek zamítne s následující odpovědí:
 
 ``` csharp
 HTTP/1.1 401 Unauthorized - MFA required
@@ -145,9 +139,9 @@ WWW-Authenticate: Bearer error="invalid_token"
 Date: Thu, 14 Feb 2019 21:54:58 GMT
 ```
 
-Když se použije ověřování App-Only, rozhraní API, která podporují ověřování App-Only, budou nepřetržitě fungovat, aniž by to vyžadovalo MFA.
+Při App-Only ověřování budou rozhraní API, která podporují ověřování App-Only, nepřetržitě fungovat bez vyžadování MFA.
 
-## <a name="partner-delegated-administration"></a>Delegovaná Správa partnera
+## <a name="partner-delegated-administration"></a>Delegovaná správa partnerů
 
 Partnerské účty, včetně agentů pro správu a agentů helpdesku, můžou používat svá oprávnění správce delegovaná pro správu zákaznických prostředků prostřednictvím portálů Microsoft Online Services, rozhraní příkazového řádku (CLI) a rozhraní API (pomocí ověřování aplikací a uživatelů).
 
@@ -161,18 +155,18 @@ Když Azure AD obdrží takové žádosti o ověření, bude vyžadovat, aby Par
 
 - Pokud je Partnerský účet **federované** identitou, bude prostředí závislé na tom, jak správce partnera nakonfiguroval federaci ve službě Azure AD. Při nastavování federace ve službě Azure AD může správce partnera naznačovat službě Azure AD, jestli zprostředkovatel federovaných identit podporuje vícefaktorové ověřování (MFA). Pokud ano, Azure AD přesměruje uživatele na federovaného zprostředkovatele identity, aby se dokončilo ověřování MFA. V opačném případě Azure AD vyzve uživatele přímo k dokončení ověřování MFA. Pokud partnerský účet není pro MFA s Azure AD zaregistrovaný, zobrazí se uživateli výzva, aby nejdřív [dokončil registraci MFA](#mfa-registration-experience) .
 
-Celkové prostředí se podobá scénáři, kdy tenant koncového zákazníka implementoval MFA pro své správce. Tenant zákazníka má například povolené [výchozí hodnoty zabezpečení Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), což vyžaduje, aby všechny účty s právy správce se přihlásily k klientovi zákazníka s ověřováním MFA, včetně agentů pro správu a agentů helpdesku. Pro účely testování můžou partneři povolit [výchozí hodnoty zabezpečení Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) v tenantovi zákazníka a potom se pokusit o přístup k tenantovi zákazníka pomocí oprávnění delegovaná Správa pro partnery.
+Celkové prostředí se podobá scénáři, kdy tenant koncového zákazníka implementoval MFA pro své správce. Například tenant zákazníka povolil výchozí nastavení zabezpečení [Azure AD,](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)což vyžaduje, aby se všechny účty s právy správce přihlašují k tenantovi zákazníka s ověřováním MFA, včetně agentů pro správu a agentů helpdesku. Pro účely testování mohou partneři povolit výchozí nastavení zabezpečení [Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) v tenantovi zákazníka a pak se pokusit použít oprávnění delegované správy partnera pro přístup k tenantovi zákazníka.
 
 > [!NOTE]
-> Ne všechny portály online služeb Microsoftu vyžadují, aby se partnerské účty přihlásily k klientovi zákazníka při přístupu k zákaznickým prostředkům pomocí delegovaných oprávnění správce. Místo toho vyžadují, aby se partnerské účty přihlásily do partnerského tenanta. Příkladem je centrum pro správu serveru Exchange. V průběhu času očekáváme, že tyto portály při použití oprávnění delegovaného správce budou vyžadovat, aby se partnerské účty přihlásily k klientovi zákazníka.
+> Ne všechny portály služeb Microsoft Online Vyžadují, aby se partnerské účty při přístupu k prostředkům zákazníků pomocí delegovaných oprávnění správce partnera přihlašují k tenantovi zákazníka. Místo toho vyžadují jenom, aby se partnerské účty přihlašují k partnerského tenantovi. Příkladem je Centrum pro správu Exchange. V průběhu času očekáváme, že tyto portály budou při použití delegovaných oprávnění správce partnerů vyžadovat, aby se partnerské účty přihlašují k tenantovi zákazníka.
 
-### <a name="using-service-apis"></a>Používání rozhraní API služby
+### <a name="using-service-apis"></a>Použití rozhraní API služby
 
-Některá rozhraní API služeb Microsoft Online Services (například Azure Resource Manager, Azure AD Graph, Microsoft Graph atd.) podporují partneři podpory prostřednictvím delegovaných oprávnění správce, aby mohli programově spravovat prostředky zákazníků. Aby mohla Partnerská aplikace používat k těmto rozhraním API oprávnění delegovaný správce, musí v hlavičce autorizace žádosti API zahrnovat přístupový token, ve kterém je přístupový token získaný tím, že má partnerský uživatelský účet k ověření ve službě Azure AD a zákaznická sada Azure AD jako kontext ověřování. Partnerská aplikace musí mít k tenantovi zákazníka přihlášený partnerský uživatelský účet.
+Některá rozhraní API služeb Microsoft Online Services (například Azure Resource Manager, Azure AD Graph, Microsoft Graph atd.) podporují partnery s využitím delegovaných oprávnění správce pro partnery k programové správě prostředků zákazníků. Pokud partnerská delegovaná oprávnění správce s těmito rozhraními API chcete používat, partnerská aplikace musí v hlavičce autorizace požadavku rozhraní API obsahovat přístupový token, kde se přístupový token získá tak, že má uživatelský účet partnera k ověření ve službě Azure AD a jako kontext ověřování nastaví zákazník Azure AD. Partnerská aplikace musí mít k tenantovi zákazníka přihlášení pomocí partnerského uživatelského účtu.
 
-Když Azure AD obdrží jako požadavek na ověření, Azure AD bude vyžadovat, aby se k ověření MFA dokončilo i partnerský uživatelský účet. Pokud uživatelský účet partnera ještě není registrovaný pro MFA, zobrazí se uživateli výzva k dokončení registrace MFA.
+Když Azure AD obdrží takovou žádost o ověření, Azure AD bude vyžadovat, aby uživatelský účet partnera dokončil ověření MFA. Pokud se uživatelský účet partnera ještě nezaregistroval pro MFA, bude tento uživatelský účet vyzván k dokončení registrace MFA jako první.
 
-Tato funkce má vliv na všechny partnerské aplikace, které jsou integrované s těmito rozhraními API pomocí delegovaných oprávnění správce. Aby mohly partnerské aplikace i nadále pracovat s těmito rozhraními API bez přerušení:
+Tato funkce ovlivňuje všechny partnerské aplikace integrované s těmito rozhraními API pomocí oprávnění delegovaného správce partnera. Pokud chcete zajistit, aby partnerské aplikace i nadále fungovaly s těmito rozhraními API bez přerušení:
 
 - Partner se musí při získání přístupového tokenu vyhnout použití metody neinteraktivního ověřování uživatelů ve službě Azure AD. Při použití neinteraktivní metody ověřování uživatele, jako je například [tok hesla](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password), služba Azure AD nebude moci vyzvat uživatele k dokončení ověřování MFA. Partner se musí přepnout na použití interaktivní metody ověřování uživatelů, jako je například [OpenID Connect Flow](/azure/active-directory/develop/v1-protocols-openid-connect-code) .
 
@@ -197,22 +191,22 @@ Po úspěšné registraci se uživateli pak vyžaduje dokončení ověřování 
 Před použitím pro [technickou výjimku](#how-to-submit-a-request-for-technical-exception) z požadavku MFA si přečtěte seznam běžných problémů hlášených ostatními partnery, abyste zjistili, jestli je vaše žádost platná.
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problém 1: partner potřebuje víc času na implementaci MFA pro své partnerské agenty.
-Partner se nespustil nebo stále ještě v procesu implementace vícefaktorového ověřování pro své partnerské agenty, kteří vyžadují přístup k portálům služeb Microsoft Online Services pomocí oprávnění delegovaná Správa pro správu zákaznických prostředků. Partner potřebuje víc času na dokončení implementace MFA. Je to problém platným důvodem pro technickou výjimku?
+Partner ještě nezačal nebo stále provádí implementaci MFA pro partnerskou agenty, kteří ke správě prostředků zákazníků vyžadují přístup k portálům služeb Microsoft Online Services pomocí oprávnění delegované správy pro partnery. Partner potřebuje více času k dokončení implementace MFA. Je tento problém platným důvodem pro technickou výjimku?
 
-**Odpověď**: ne. Partner potřebuje k tomu, aby se svým uživatelům naimplementoval MFA, aby se předešlo přerušení.
+**Odpověď:** Ne. Aby se předešlo přerušení služeb, partner musí plánovat implementaci MFA pro své uživatele.
 
 > [!NOTE]
-> I když partner pro své partnerské agenty neimplementoval MFA, Partnerská agenti budou mít stále přístup k portálům Microsoft Online Services pomocí delegovaných oprávnění pro správu, za předpokladu, že se k zobrazení výzvy během přihlašování do tenanta zákazníka můžou dokončit registrace MFA a ověřování MFA. Dokončení registrace MFA automaticky nepovolí uživatele pro MFA.
+> I když partner pro své partnery ne implementoval MFA, partnerská agenti mají stále přístup k portálům Microsoft Online Services pomocí oprávnění delegované správy pro partnery za předpokladu, že po zobrazení výzvy při přihlášení k zákaznickému tenantovi mohou dokončit registraci MFA a ověření MFA. Dokončení registrace MFA automaticky nepomáhá uživateli pro MFA.
 
-##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Problém 2: partner neimplementoval MFA pro uživatelské účty, kteří nepoužívají delegovaná oprávnění správce.
-Partner má některé uživatele v jejich partnerských klientech, kteří nepotřebují přístup k portálům Microsoft Online Services pro správu zákaznických prostředků pomocí delegovaných oprávnění pro správu. Partner v procesu implementuje MFA pro tyto uživatele a potřebuje víc času na dokončení. Je to problém platným důvodem pro technickou výjimku?
+##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Problém 2: Partner ne implementovali MFA pro uživatelské účty, které nevyu používají delegovaná oprávnění správce
+Partner má některé uživatele ve svých partnerských tenantech, kteří nepožadují přístup k portálům služeb Microsoft Online Services, aby bylo možné spravovat prostředky zákazníků pomocí oprávnění delegované správy pro partnery. Partner je v procesu implementace MFA pro tyto uživatele a potřebuje více času k dokončení. Je tento problém platným důvodem pro technickou výjimku?
 
-**Odpověď**: ne. Vzhledem k tomu, že tyto uživatelské účty nepoužívají pro správu zákaznických prostředků oprávnění k delegované správě, nebudou se muset přihlašovat k tenantovi zákazníka. Nebudou ovlivněny službou Azure AD vyžadovat ověřování MFA během přihlašování k tenantovi zákazníka.
+**Odpověď:** Ne. Vzhledem k tomu, že tyto uživatelské účty ke správě prostředků zákazníků používají oprávnění delegované správy partnera, nebudou se muset přihlašovat k tenantovi zákazníka. Nebudou ovlivněny službou Azure AD, která během přihlašování k tenantovi zákazníka vyžaduje více ověřování.
 
-##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problém 3: partner neimplementoval MFA pro účty uživatelských služeb
-Partner má některé uživatelské účty ve svých partnerských klientech, které zařízení používají jako účty služeb. Jedná se o účty s nízkými oprávněními, které nevyžadují přístup k partnerským centrům ani portálům Microsoft Online Services pro správu zákaznických prostředků pomocí delegovaných oprávnění pro správu partnerů. Je to problém platným důvodem pro technickou výjimku?
+##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problém 3: Partner ne implementovali MFA pro účty uživatelských služeb
+Partner má ve svých partnerských tenantech několik uživatelských účtů, které zařízení používají jako účty služeb. Jedná se o účty s nízkými oprávněními, které nevyžadují přístup k Partnerské centrum ani portálům služeb Microsoft Online Services ke správě prostředků zákazníků pomocí oprávnění delegované správy pro partnery. Je tento problém platným důvodem pro technickou výjimku?
 
-**Odpověď**: ne. Vzhledem k tomu, že tyto uživatelské účty nepoužívají pro správu zákaznických prostředků oprávnění k delegované správě, nebudou se muset přihlašovat k tenantovi zákazníka. Nebudou ovlivněny službou Azure AD vyžadovat ověřování MFA během přihlašování k tenantovi zákazníka.
+**Odpověď:** Ne. Vzhledem k tomu, že tyto uživatelské účty nepoužívají pro správu zákaznických prostředků oprávnění k delegované správě, nebudou se muset přihlašovat k tenantovi zákazníka. Nebudou ovlivněny službou Azure AD vyžadovat ověřování MFA během přihlašování k tenantovi zákazníka.
 
 ##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problém 4: partner nemůže implementovat MFA pomocí aplikace MS Authenticator.
 Partner má "uklizenou" zásadu, která neumožňuje zaměstnancům, aby do své pracovní oblasti nastavili svá osobní mobilní zařízení. Bez přístupu k osobním mobilním zařízením nemohou zaměstnanci nainstalovat aplikaci MS Authenticator, což je jediné ověřování MFA podporované výchozími nastaveními zabezpečení Azure AD. Je to problém platným důvodem pro technickou výjimku?
@@ -223,17 +217,17 @@ Partner má "uklizenou" zásadu, která neumožňuje zaměstnancům, aby do své
 ##### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>Problém 5: partner nemůže implementovat MFA z důvodu použití starších protokolů ověřování.
 Partner má některé agenty, kteří stále používají starší protokoly ověřování, což není kompatibilní s MFA. Uživatelé například pořád používají Outlook 2010, který je založený na starších protokolech ověřování. Povolení MFA pro tyto agenty budou rušit používání starších protokolů ověřování.
 
-**Odpověď**: Ne, nejedná se o platný důvod pro technickou výjimku. Partnerům se důrazně doporučuje přesunout se z používání starších protokolů ověřování z důvodu potenciálních důsledků zabezpečení, protože tyto protokoly nelze chránit pomocí ověřování MFA a jsou mnohem náchylnější k ohrožení bezpečnosti přihlašovacích údajů. Pokud už nepoužíváte starší verze ověřovacích protokolů, partneři by si měli zvážit, že se zaregistrují Azure AD Premium, což podporuje používání hesel aplikací. Hesla aplikací jsou jednorázová systémem generovaná hesla a jsou obvykle silnější než hesla generovaná uživatelem. Díky použití hesel aplikací můžou partneři implementovat MFA pro svoje uživatele a přitom vracet hesla aplikací jenom pro starší protokoly ověřování.
+**Odpověď**: Ne, nejedná se o platný důvod pro technickou výjimku. Partnerům se důrazně doporučuje přesunout se z používání starších protokolů ověřování z důvodu potenciálních důsledků zabezpečení, protože tyto protokoly nelze chránit pomocí ověřování MFA a jsou mnohem náchylnější k ohrožení bezpečnosti přihlašovacích údajů. Pokud už nepoužíváte starší verze ověřovacích protokolů, partneři by si měli zvážit, že se zaregistrují Azure AD Premium, což podporuje používání hesel aplikací. Hesla aplikací jsou jednou vygenerovaná systémem a obvykle jsou silnější než hesla generovaná člověkem. Pomocí hesel aplikací mohou partneři implementovat MFA pro své uživatele a zároveň se vracet k hesly aplikací jenom pro starší verze ověřovacích protokolů.
 
-Přečtěte si informace o [základním ověřování a Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) , abyste porozuměli nejnovějšímu plánu, který podporuje starší verze ověřování pro Outlook, a Projděte si [Blog týmu Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) , kde získáte nadcházející novinky. 
+Přečtěte si příspěvek o základním ověřování a [Exchange Online,](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) abyste pochopili nejnovější plán podpory starší verze ověřování pro Outlook, a sledujte blog týmu [Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) a získejte chystané novinky. 
 
 > [!NOTE]
-> I když partner pro své partnerské agenty neimplementoval MFA, Partnerská agenti budou mít stále přístup k portálům Microsoft Online Services pomocí delegovaných oprávnění pro správu, za předpokladu, že se k zobrazení výzvy během přihlašování do tenanta zákazníka můžou dokončit registrace MFA a ověřování MFA. Dokončení registrace MFA automaticky nepovolí uživatele pro MFA.
+> I když partner pro své partnery ne implementoval MFA, partnerská agenti mají stále přístup k portálům Microsoft Online Services pomocí oprávnění delegované správy pro partnery za předpokladu, že po zobrazení výzvy při přihlášení k zákaznickému tenantovi mohou dokončit registraci MFA a ověření MFA. Dokončení registrace MFA automaticky nepomáhá uživateli pro MFA.
 
-##### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>Problém 6: partner implementoval vícefaktorové ověřování třetí strany, které nerozpoznala služba Azure AD.
-Partner implementoval MFA pro svoje uživatele pomocí řešení MFA od jiného výrobce. Partner ale nemůže správně nakonfigurovat řešení MFA třetí strany pro předávání do služby Azure AD, které bylo během ověřování uživatelů dokončeno ověřování MFA. Je to platný důvod pro technickou výjimku?
+##### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>Problém 6: Partner implementovali více ověřování třetích stran, které služba Azure AD nerozpoznala
+Partner implementovali MFA pro své uživatele pomocí řešení MFA jiného výrobce. Partner ale nemůže správně nakonfigurovat řešení MFA třetí strany tak, aby předá službu Azure AD, že ověřování MFA bylo dokončeno během ověřování uživatelů. Je to platný důvod technické výjimky?
 
-**Odpověď**: Ano, tento problém může být považován za platný důvod pro technickou výjimku. Před odesláním žádosti o technickou výjimku ověřte u poskytovatele řešení MFA třetí strany, že řešení MFA nejde nakonfigurovat tak, aby Flow *authenticationmethodsreferences* deklarací identity (s hodnotou *multipleauthn*) do služby Azure AD, aby označovalo, že ověření MFA bylo během ověřování uživatele dokončeno. Při odesílání žádosti o technickou výjimku musíte poskytnout podrobnosti o použitém řešení MFA třetí strany a označit způsob integrace (například prostřednictvím federace identit nebo použití vlastního ovládacího prvku Azure AD) a zadat následující informace v žádosti o technickou výjimku jako podpůrné dokumenty:
+**Odpověď:** Ano, tento problém se může považovat za platný důvod technické výjimky. Před odesláním žádosti o technickou výjimku u poskytovatele řešení MFA třetí strany ověřte, že řešení MFA není možné nakonfigurovat tak, aby přetékalo deklaraci identity *authenticationmethodsreferences* (s hodnotou *multipleauthn)* do Služby Azure AD, aby bylo indikované, že ověřování MFA bylo dokončeno během ověřování uživatelů. Při odesílání žádosti o technickou výjimku musíte zadat podrobnosti o použitém řešení MFA třetí strany a uvést metodu integrace (například prostřednictvím federace identit nebo použití vlastního ovládacího prvku Azure AD) a v žádosti o technickou výjimku zadat následující informace jako podpůrné dokumenty:
 
 - Konfigurace vícefaktorového ověřování třetích stran.
 

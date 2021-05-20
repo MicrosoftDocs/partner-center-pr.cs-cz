@@ -1,50 +1,47 @@
 ---
-title: Řídicí panel sestavy stažení přehledů
+title: Přehledy – stažení řídicího panelu sestav
 ms.topic: article
 ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Naučte se stahovat a exportovat data z jednotného řídicího panelu pro vytváření sestav partnerského centra a ze sestav služby partner Center Insights.
+description: Naučte se stahovat a exportovat data z řídicího panelu Partnerské centrum vytváření sestav a ze sestav Partnerské centrum Insights.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 266baf0eb3501cba984ec0fbaed4508366b92b8b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086222"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152779"
 ---
 # <a name="download-reports"></a>Stažení sestav
 
-**Příslušné role**
-
-- Prohlížeč sestav Executive
-- Prohlížeč sestav
+**Odpovídající role:** Prohlížeč sestav executive | Prohlížeč sestav
 
 ## <a name="introduction"></a>Úvod
 
-Centrum sestav stáhnout na řídicím panelu přehledy umožňuje exportovat nezpracované sady dat, které vystavují sestavy služby partner Center Insights ve formátu TSV (hodnoty oddělené tabulátory). To vám umožní podrobnější analýzu dat na základě obchodních potřeb.
+Centrum Stáhnout sestavy na řídicím panelu Přehledy umožňuje exportovat nezpracované datové sady, které umožňují sestavy Partnerské centrum Insights ve formátu hodnot oddělených tabulátorem (TSV). To vám umožní provést hlubší analýzu dat na základě obchodních potřeb.
 
-Po vygenerování bude sestava k dispozici v části **vygenerované sestavy** , kde můžete stáhnout a analyzovat pomocí nástrojů, jako je Microsoft Excel.
+Po vygenerování bude sestava dostupná v **části** Vygenerované sestavy, abyste si ji stahovali a analyzovali pomocí nástrojů, jako je Microsoft Excel.
 
-**Vytvořit novou sestavu**
+**Vytvoření nové sestavy**
 
-Pokud chcete vygenerovat sestavu, nejdřív ji vyberte v rozevíracím seznamu **Vybrat sestavu** . Pak v rozevíracím seznamu **Vybrat rozsah dat** vyberte rozsah kalendářních dat. Vyberte **Generovat**. Sestava bude vygenerována ve formátu hodnot oddělených tabulátory (TSV) a bude k dispozici ke stažení v části **generované sestavy** během několika minut. Sestavy vygenerované během předchozích 14 dnů budou k dispozici ke stažení.
+Pokud chcete vygenerovat sestavu, vyberte ji nejprve v **rozevíracím** seznamu Vybrat sestavu. Pak v rozevíracím seznamu Vybrat rozsah **dat** vyberte rozsah dat. Vyberte **Vygenerovat**. Sestava se vygeneruje ve formátu hodnot oddělených tabulátorem (TSV) a bude k dispozici ke stažení v části **Vygenerované** sestavy během několika minut. Sestavy vygenerované během předchozích 14 dnů budou k dispozici ke stažení.
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="Vytvořit novou sestavu":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="Vytvoření nové sestavy":::
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Vygenerované sestavy":::
 
 >[!NOTE] 
->Sestavy mohou stahovat pouze uživatelé, kteří jsou správci sestav od vedoucího. Další informace o přístupu na základě rolí k sestavám řídicího panelu Insights najdete v tématu [role PCI](pci-roles.md). 
+>Sestavy mohou stahovat jenom uživatelé, kteří jsou diváky výkonných sestav. Další informace o přístupu k sestavám řídicího panelu Přehledy na základě rolí najdete v tématu [Role PCI.](pci-roles.md) 
 
 ## <a name="available-reports"></a>Dostupné sestavy
 
 Ke stažení jsou k dispozici následující sestavy:
 
-**Partnerský profil** poskytuje podrobnosti související s partnerem. V sestavě jsou k dispozici podrobnosti, jako je ID partnera, jméno partnera, město partnera a partnerská země. Pro tuto sestavu se nepoužijí žádné agregace ani lookback.
+**Profil partnera** poskytuje podrobnosti související s partnerem. Podrobnosti, jako Partnerské ID, název partnera, partnerské město a země partnera, jsou k dispozici v sestavě. Pro tuto sestavu se nepoužijí žádné agregace ani lookback.
 
 **Podrobnosti o zákaznících** poskytují informace o zákaznících, ke kterým je přidružen partner. Poskytuje také klíčové metriky, jako jsou prodávané licence, agregované ACR a tak dále. Sestava se agreguje měsíčně.
 

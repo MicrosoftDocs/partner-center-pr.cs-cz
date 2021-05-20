@@ -8,21 +8,16 @@ description: Podívejte se, co dobře děláte, a kde můžete vylepšit využit
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086919"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152796"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Dynamics k dispozici na řídicím panelu přehledů partnerského centra
 
-**Příslušné role**
-
-- Globální správce
-- Agent správce
-- Prohlížeč sestav
-- Prohlížeč sestav Executive
+**Příslušné role**: globální správce | Agent správce | Prohlížeč sestav | Prohlížeč sestav Executive
 
 Sestava využití Dynamics poskytuje data o využití pro předplatná Dynamics 365, která jste prodali nebo spravovali pro vaše zákazníky. Následující části můžete zobrazit v sestavě využití Dynamics.
 
@@ -51,31 +46,31 @@ V části Souhrn najdete zobrazení snímků klíčových ukazatelů souvisejíc
 
    Mikrograf prezentuje měsíční trend aktivních míst v rámci vybraného časového období.
 
-- Aktivní použití%: celkový počet aktivních míst vyjádřených jako procento dostupných míst pro vybraný časový rámec. 
+- Active Usage %: Celkový počet aktivních licencí vyjádřený jako procento dostupných licencí pro vybraný časový rámec. 
 
-   Mikrograf prezentuje měsíční trend aktivního procenta využití v průběhu vybraného časového období.
+   Mikro graf představuje měsíční trend aktivního procenta využití za vybrané časové období.
 
 :::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Souhrn využití Dynamics":::
 
-## <a name="dynamics-usage-by-geography"></a>Využití Dynamics podle geografie
+## <a name="dynamics-usage-by-geography"></a>Využití Dynamics podle zeměpisné oblasti
 
-**Využití Dynamics podle geografického prostředí** znázorňuje distribuci dostupných míst a aktivních míst podle zemí zákazníka. Světlejší barvy na mapě znázorňují nižší hodnoty, zatímco tmavší barvy reprezentují vyšší hodnoty. V mřížce můžete hledat a vybrat zemi. Můžete také přiblížit lepší vzhled.
+Využití **Dynamics podle zeměpisné oblasti** znázorňuje distribuci dostupných licencí a aktivních licencí podle země zákazníka. Světlejší barvy na mapě představují nižší hodnoty, zatímco tmavší barvy představují vyšší hodnoty. V mřížce můžete vyhledat a vybrat zemi. Pokud se chcete podívat blíže, můžete si ho přiblížit.
 
-V tabulce **počet zemí/oblastí** je uvedena celková země/oblasti, ve kterých jsou generovány události využití Azure.
+Tabulka Number of countries/region (Počet **zemí/oblastí)** uvádí celkový počet zemí/oblastí, ve kterých se generují události využití Azure.
 
-Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Výběrem možnosti **Domů** na mapě se vraťte k původnímu zobrazení.
+Země v mřížce můžete vyhledat a vybrat a přiblížit tak umístění na mapě. Výběrem **možnosti Domů** na mapě se vrátíte k původnímu zobrazení.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Využití Dynamics podle geografie":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Využití Dynamics podle zeměpisné oblasti":::
 
 ## <a name="dynamics-usage-by-sku"></a>Využití Dynamics podle SKU
 
-Využití Dynamics podle SKU znázorňuje měsíční trend dostupných míst, aktivních sedadel a přiřazených míst na SKU.
+Využití Dynamics podle SKU znázorňuje měsíční trend dostupných licencí, aktivních licencí a přiřazených licencí podle SKU.
 
 :::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Využití Dynamics podle SKU":::
 
 ## <a name="subscriptions-performance"></a>Výkon předplatných
 
-Výkon předplatných znázorňuje měsíční trend aktivního využití podle zákaznického předplatného. Data pro hlavní 100 zákazníky podle fakturovaných výnosů se zobrazí v tabulce a můžete vyhledat libovolného zákazníka nebo stáhnout nezpracovaná data a zobrazit podrobnosti pro všechna předplatná.
+Výkon předplatných znázorňuje měsíční trend aktivního využití na předplatné zákazníka. Data pro 100 nejúčtovaných zákazníků podle fakturovaných výnosů se zobrazí v tabulce a můžete vyhledat libovolného zákazníka nebo stáhnout nezpracovaná data a zobrazit podrobnosti pro všechna předplatná.
 
 :::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Výkon předplatného Dynamics":::
 

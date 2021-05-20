@@ -4,23 +4,21 @@ ms.topic: how-to
 ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zjistěte, jak najít ID v Azure Portal – ID tenanta Azure AD organizace, název domény nebo KONKRÉTNÍ ID objektu uživatele. Některé úlohy tyto informace potřebují.
+description: Zjistěte, jak najít ID v Azure Portal – ID tenanta Azure AD organizace, název domény nebo ID konkrétního objektu uživatele. Některé úlohy tyto informace potřebují.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 5da41cdbfa7aa1780b31e170a2398e8e7c65df27
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740280"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150858"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Vyhledání důležitých ID pro uživatele
 
-**Odpovídající role**
-
-- Globální správce
+**Odpovídající role:** Globální správce
 
 Tento článek popisuje, jak pomocí [Azure Portal](https://portal.azure.com/) najít pro uživatele následující informace:
 
@@ -32,7 +30,7 @@ Tento článek popisuje, jak pomocí [Azure Portal](https://portal.azure.com/) n
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Vyhledání ID Microsoft Azure AD tenanta a názvu primární domény
 
-Pomocí následujícího postupu vyhledejte ID tenanta azure AD nebo název primární domény v rámci Azure Portal. (Pokud chcete ID tenanta najít programově, podívejte se na stránku Vyhledání ID tenanta pomocí [PowerShellu nebo rozhraní příkazového řádku](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell).)
+Pomocí následujícího postupu vyhledejte ID tenanta Azure AD nebo název primární domény v rámci Azure Portal. (Pokud chcete ID tenanta najít programově, podívejte se na stránku Vyhledání ID tenanta pomocí [PowerShellu nebo rozhraní příkazového řádku](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell).)
 
 > [!NOTE]
 > ID tenanta se v různých aplikacích nebo zdrojích může nazývat různé názvy. ID tenanta může být například označováno jako ID adresáře, tenant Azure Active Directory (Azure AD), MICROSOFT ID nebo pro určité sestavy, a to i *tenantguid*.
@@ -43,7 +41,7 @@ Pomocí následujícího postupu vyhledejte ID tenanta azure AD nebo název prim
 
    :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Zobrazuje Azure Portal výběrem Azure Active Directory v nabídce.":::
 
-3. Zobrazí Azure Active Directory **přehledu.** Pokud chcete zjistit ID tenanta Azure AD nebo název primární domény, vyhledejte pole **ID tenanta** a **pole Primární** doména. Tato pole se zobrazí v části Informace o tenantovi.
+3. Zobrazí Azure Active Directory **přehledu.** Pokud chcete najít ID tenanta Azure AD nebo název primární domény, vyhledejte pole **ID tenanta** a **pole Primární** doména. Tato pole se zobrazí v části Informace o tenantovi.
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Zobrazuje stránku Přehled se dvěma zvýrazněných poli: ID tenanta a název primární domény.":::
 
@@ -80,6 +78,6 @@ Stačí najít název domény a ID tenanta nemusí být vždy dostatek. Může b
 ## <a name="next-steps"></a>Další kroky
 
 - [Programové zjištění ID tenanta pomocí PowerShellu nebo rozhraní příkazového řádku](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
-- [Další informace o profilech uživatelů v Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
-- [Zjistěte, jak mohou partneři zobrazit nebo exportovat podrobnosti o zákazní Partnerské centrum](see-your-customer-list.md)
+- [Další informace o uživatelských profilech v Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Zjistěte, jak můžou partneři zobrazit nebo exportovat podrobnosti o zákaznících v partnerském centru.](see-your-customer-list.md)
 

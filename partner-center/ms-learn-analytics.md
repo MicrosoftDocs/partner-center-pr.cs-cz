@@ -1,48 +1,45 @@
 ---
-title: Analýzy Microsoft Learn Datacenter v partnerském centru
+title: Partnerské centrum Insights Microsoft Learn analýzy
 ms.topic: article
 ms.date: 08/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sledujte informace ve vaší společnosti využitím dat na jednotlivých školicích, dokončených modulech, dokončených výukových cestách a dalších.
+description: Sledujte uživatele ve vaší společnosti s využitím dat o jednotlivých školeních, dokončených modulech, dokončených studijních náccích a dalších.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 132583352e1697a2f9dfa624eb9532692be6d734
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132311"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152626"
 ---
-# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Sestava Microsoft Learn Analytics zobrazuje stav učících ve vaší společnosti
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Sestava Microsoft Learn analýzy dat zobrazuje stav učících se ve vaší společnosti.
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Správce partnera MPN
 
-- Globální správce
-- Správce partnera MPN
-
-Sestava Microsoft Learn poskytuje informace o prodaných modulech ve vaší společnosti, včetně modulů, které dokončili, a studijních cest, na kterých jsou. V sestavě se zobrazí stav jednotlivých informací o jednotlivých uživatelích. Tato data může zobrazit globální správce a správce MPN pro vaši společnost.
+Sestava Microsoft Learn poskytuje informace o tom, kteří se učí ve vaší společnosti, včetně modulů, které dokončili, a studijních cest, ve které se nachází. V sestavě se zobrazí stav jednotlivých vyučovatek. Data může zobrazit globální správce a správce MPN vaší společnosti.
 
 ## <a name="how-to-read-the-report"></a>Jak číst sestavu
 
 ### <a name="summary-charts"></a>Souhrnné grafy
 
-Tyto grafy shrnují počet a měsíční kumulativní trendy pro vyškolené jednotlivce, dokončování modulů a studijní cesty.
+Tyto grafy shrnují počet a měsíční kumulativní trendy pro trénované jednotlivce, dokončení modulů a studijní program.
 
 
-**Počet vyškolených uživatelů**: počet všech jedinečných uživatelů, kteří během vybraného rozsahu dat dokončili aspoň jeden modul. 
+**Trained individuals count**: Počet všech odlišných vyučků, kteří dokončili alespoň jeden modul ve vybraném rozsahu dat. 
 
-**Minipanel trendu výukových jednotlivců**: Kumulativní počet měsíčně za měsíc v aktivních seznámcích 
+**Mini chart s trendem trénovaných jednotlivců:** kumulativní počet aktivních vyučků za měsíc 
 
-**Počet dokončování modulu**: počet dokončování modulů v rámci společnosti partnera v podniku v průběhu vybraného období.
-Pokud například "modul 1" dokončí 15 jednotlivců a "modul 2" byl dokončen stejnými 15 jednotlivci, bude počet dokončení modulu 30. Datum dokončení modulu by mělo být v rozsahu data vybrané.
+**Počet dokončení modulů:** Počet dokončení modulu ze strany vyučků v partnerské společnosti během vybraného rozsahu dat.
+Pokud například modul 1 dokončí 15 jednotlivců a modul 2 dokončilo stejných 15 jednotlivců, bude počet dokončení modulu 30. Datum dokončení modulu by mělo spadat do vybraného rozsahu dat.
 
-**Zkrácený graf dokončování modulu trendu**: Kumulativní počet měsíců za měsíc dokončení modulu 
+**Mini chart trendu dokončení modulů:** kumulativní počet dokončení modulů za měsíc 
 
-**Počet dokončení studijních cest**: počet doplňování studijních cest od těch, které se seznámíte se sestavami v podniku partnera v rámci vybraného rozsahu kalendářních dat.
-Například pokud je Studijní cesta "cesta 1" dokončena o 20 jednotlivců a studijní cesta "cesta 2" byla dokončena stejnými 20 osobami, bude počet dokončení studijních kurzů 40. Datum dokončení cesty výuky by mělo spadat do vybraného rozsahu dat.
+**Počet dokončení studijního programu:** Počet dokončení studijního programu ze strany vyučků v partnerské společnosti během vybraného rozsahu dat.
+Pokud je například studijního programu "Path 1" dokončeno 20 jedinci a studijního programu "path 2" dokončilo stejných 20 jednotlivců, bude počet dokončení studijního programu 40. Datum dokončení studijního procesu by mělo spadat do vybraného rozsahu dat.
 
 **Poučení o doplňováních výukových cest**: Kumulativní počet měsíců za měsíc pro dokončení studijních cest 
 
@@ -74,35 +71,35 @@ Tato data jsou trendem studijních cest dokončených uživateli vaší společn
 
 **Karta modul**
 
-Tato karta obsahuje rozpis modulů dokončených ve vaší firmě o pět názvů modulů. produkt, ke kterému je modul přidružen; a roli uživatele, která je pro modul relevantní.  
+Tato karta obsahuje rozpis modulů dokončených ve vaší společnosti podle pěti nejlepších názvů modulů. produkt, ke kterému je modul přidružený; a roli uživatele, která je relevantní pro modul.  
 
-- Prstencový graf dokončení modulu: rozpis dokončování modulu (počet zobrazený v části Souhrn) podle názvů modulů.
+- Prstencový graf dokončení modulů: rozpis dokončení modulů (počet zobrazený v souhrnné části) podle názvů modulů.
 
-Hodnota zobrazená uprostřed grafu představuje celkový počet dokončených modulů.
+Číslo zobrazené uprostřed grafu je celkový počet dokončených modulů.
 
-- Dokončování podle role: rozpis modulu dokončování rolí modulu. Pokud je modul přidružen k více rolím, pak jsou jednotlivé role přidány do počtu dokončení modulu.
+- Dokončování podle role: rozpis dokončení modulu podle role modulu. Pokud je modul přidružený k více rolím, každá z těchto rolí se přidá do počtu dokončení modulu.
 
 Číslo zobrazené uprostřed grafu je počet jedinečných rolí pro dokončení modulu. 
 
-- Dokončí produkt: rozpis modulu dokončuje produkt, na který je modul mapován. Pokud je modul přidružen k více produktům, pak jsou jednotlivé produkty přidány do počtu dokončení modulu.    
+- Dokončování podle produktu: rozpis dokončení modulů podle produktu, na který je modul namapovaný. Pokud je modul přidružený k více produktům, přidá se každý z produktů do počtu dokončení modulu.    
 
-Číslo zobrazené uprostřed grafu je počet různých produktů pro dokončení modulu.  
+Číslo zobrazené uprostřed grafu je počet jedinečných produktů pro dokončení modulu.  
 
-**Karta cesta výuky**   
+**Karta Studijního procesu**   
 
-Tato karta obsahuje rozpis studijních cest dokončených ve vaší společnosti podle pěti názvů modulů; produkt, na který je mapována cesta výuky; a role, které se vztahují k této cestě výuky.  
+Tato karta obsahuje rozpis studijních cest dokončených ve vaší společnosti podle pěti nejlepších názvů modulů. produkt, na který je studijní programu namapován; a roli, která je relevantní pro tento studijní proces.  
 
-- Prstenec dokončení studijních cest: rozpis dokončení studijních cest (počet zobrazený v části Souhrn) podle názvu.
+- Prstencový graf dokončení studijních cest: rozpis dokončení studijního procesu (počet zobrazený v souhrnné části) podle názvu.
 
-- Dokončování podle role *: rozpis studijních cest, které role dokončuje. Pokud je modul přidružen k více rolím, pak jsou jednotlivé role přidány do počtu dokončení modulu.
+- Dokončování podle role*: rozpis dokončení studijních cest podle role. Pokud je modul přidružený k více rolím, každá z těchto rolí se přidá do počtu dokončení modulu.
 
-- Dokončí produkt: rozpis výukových cest dokončí produkt, ke kterému je mapována cesta výuky. Pokud je modul přidružen k více produktům, pak jsou jednotlivé produkty přidány do počtu dokončení modulu.
+- Dokončování podle produktu: rozpis dokončení studijních cest podle produktu, na který se mapuje studijní programu. Pokud je modul přidružený k více produktům, přidá se každý z produktů do počtu dokončení modulu.
 
-### <a name="completions-by-learning-individuals"></a>Doplňování prostřednictvím vzdělávání jednotlivců
+### <a name="completions-by-learning-individuals"></a>Dokončování výukou jednotlivců
 
-Zobrazuje seznam vyškolených uživatelů ve vaší společnosti a podrobnosti o jejich dokončených modulech a výukových cestách.
+Zobrazí se seznam vytrénovaných uživatelů ve vaší společnosti a podrobnosti o dokončených modulech a studijních programu.
 
-Microsoft Learn identifikuje informace o uživatelích s ID objektu uživatele. Na **kartě moduly** jsou všechny moduly setříděny podle dokončených modulů. Zobrazují se jim Microsoft Learn uživatelské jméno, ID objektu a počet modulů. Můžete hledat pomocí uživatelského jména. 
+Microsoft Learn identifikuje uživatele s ID objektu uživatele. Na **kartě moduly** jsou všechny moduly setříděny podle dokončených modulů. Zobrazují se jim Microsoft Learn uživatelské jméno, ID objektu a počet modulů. Můžete hledat pomocí uživatelského jména. 
 
 Na **kartě studijních cest** se zobrazí všechny přehledy seřazené podle studijních cest dokončených se zobrazeným zobrazovaným názvem, ID objektu a počtem modulů.
 
@@ -138,7 +135,7 @@ Pro uživatele, kteří používají jenom svůj účet MSA pro školení, bude 
 
 ## <a name="next-steps"></a>Další kroky
 
-Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).
+Další sestavy najdete v tématu [Partnerské centrum Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> Nezpracovaných dat v této sestavě si můžete stáhnout z oddílu stažení sestav na řídicím panelu Insights. [Další informace](pci-download-reports.md) 
+> Nezpracovaná data pohánějící tuto sestavu si můžete stáhnout z části Stažení sestav na řídicím panelu Přehledy. [Další informace](pci-download-reports.md) 

@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818605"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153051"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Ověření nebo aktualizace informací o profilu společnosti 
 
@@ -98,9 +98,8 @@ Pokud jste globálním správcem, správcem fakturace nebo agentem pro správu, 
 |Adresa pro fakturaci|Adresa pro fakturaci uvedená na faktuře CSP. Aktualizace – možné z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Kontakt pro fakturaci|Podrobnosti o fakturačním kontaktu (křestní jméno, příjmení, primární číslo) pro účet CSP.  Aktualizace – možné z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Číslo objednávky|Číslo nákupní objednávky zobrazené na faktuře partnera.  Možnost aktualizace z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|TID společnosti|Firmy v některých zemích mohou poskytnout své daňové identifikační číslo [(DIČ) nebo místní ekvivalent](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Pokud chcete své DIČ aktualizovat, musíte být globálním správcem, správcem fakturace nebo agentem správce.|
-|Fakturační měna|Fakturační měna pro váš účet CSP je určená právní zemí účtu CSP.  Po vytvoření účtu CSP to není možné změnit.|
-
+|TID společnosti|Firmy v některých zemích mohou poskytnout své daňové identifikační číslo [(DIČ) nebo místní ekvivalent](./organization-tax-info.md). Pokud chcete své DIČ aktualizovat, musíte být globálním správcem, správcem fakturace nebo agentem správce.|
+|Fakturační měna|Fakturační měna pro váš účet CSP je určena právní zemí účtu CSP.  Po vytvoření účtu CSP to není možné změnit.|
 
 ## <a name="next-steps"></a>Další kroky
 

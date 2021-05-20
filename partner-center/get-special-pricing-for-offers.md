@@ -9,20 +9,16 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff69796cb753f93225bb44324629180d981a721
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702684"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150790"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Prodej ve specializovaných oblastech, jako je vzdělávání, neziskový sektor a státní správa
 
-**Příslušné role**
-
-- Globální správce
-- Agent správce
-- Agent prodeje
+**Příslušné role**: globální správce | Agent správce | Agent prodeje
 
 Microsoft poskytuje speciální a omezené ceny pro vybrané skupiny zákazníků, včetně zákazníků pro vzdělávání, neziskových zákazníků, malých firem a vládních institucí. I vy i váš zákazník musí být kvalifikováni, aby bylo možné nabídnout speciální ceny. Tyto speciální nabídky s cenami jsou momentálně **dostupné jenom pro služby založené na licencích** , jako je Microsoft 365, Dynamics, Intune atd. Není k dispozici pro jiné typy (odběry softwaru, trvalé softwarové nebo produkty Azure).
 
@@ -30,9 +26,9 @@ Microsoft poskytuje speciální a omezené ceny pro vybrané skupiny zákazník�
 
 |**Speciální ceny**   |**Požadované kvalifikace pro prodejce**   |**Požadované kvalifikace zákazníka**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Vzdělávání   |Žádné   | Musí se jednat o [kvalifikovaného uživatele vzdělávání](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Státní správa   |Pokud chcete prodávat Azure, zaregistrujte se pomocí [formuláře ověření cloudu Microsoftu pro státní správu USA](https://azuregov.microsoft.com/csp). K prodeji předplatných založených na licencích pro státní správu není nutná žádná kvalifikace.|   Žádné|
-|Pro neziskový sektor  |Žádné<br/> Musí mít neziskový Azure Active Directory tenant.<br/> Další informace o [speciálních nabídkách pro neziskové organizace](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)   |Zaregistrujte se přes [program Microsoftu v neziskovosti](https://nonprofit.microsoft.com/#/register) , aby byl způsobilý.   |
+|Vzdělávání   |Žádná   | Musí se jednat o [kvalifikovaného uživatele vzdělávání](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Státní správa   |Pokud chcete prodávat Azure, zaregistrujte se pomocí [formuláře ověření cloudu Microsoftu pro státní správu USA](https://azuregov.microsoft.com/csp). K prodeji předplatných založených na licencích pro státní správu není nutná žádná kvalifikace.|   Žádná|
+|Pro neziskový sektor  |Žádná<br/> Musí mít neziskový Azure Active Directory tenant.<br/> Další informace o [speciálních nabídkách pro neziskové organizace](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)   |Zaregistrujte se přes [program Microsoftu v neziskovosti](https://nonprofit.microsoft.com/#/register) , aby byl způsobilý.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Kontrolovat kvalifikaci prodejce
 
@@ -44,30 +40,30 @@ Následující kroky platí pouze pro nepřímých zprostředkovatelů a přím�
 
 3. Pokud se vám nezobrazuje **kvalifikace prodejce**, ještě nemáte oprávnění k nákupu jakýchkoli speciálních nabídek.
 
-## <a name="check-the-customer-qualifications"></a>Kontrolovat způsobilost zákazníka
+## <a name="check-the-customer-qualifications"></a>Kontrola kvalifikace zákazníků
 
-1. V nabídce **Partnerské centrum** vyberte **zákazníci**. Vyberte zákazníka ze seznamu.
+1. V **nabídce Partnerské centrum** vyberte **Zákazníci.** V seznamu vyberte zákazníka.
 
-2. V nabídce zákazník vyberte možnost **účet**. V části **informace o společnosti** vyhledejte **speciální kvalifikace**.
+2. V nabídce zákazníka vyberte **Account (Účet).** V části **Informace o** společnosti vyhledejte **specialní kvalifikace**.
 
-3. Pokud je u **speciálních kvalifikací** nastavená **možnost žádné**, ale zákazník skutečně splňuje tyto údaje, můžete **aktualizovat** jejich podrobnosti a zahrnout je do nich.
+3. Pokud **je speciální kvalifikace** nastavená na **Žádné,** ale zákazník tuto kvalifikaci skutečně splňuje, můžete aktualizovat **jejich** podrobnosti, aby je zahrnovaly.
 
 ## <a name="where-to-find-special-offers"></a>Kde najít speciální nabídky
 
-Jakmile budete vy a váš zákazník kvalifikováni pro speciální nabídku programu, postupujte podle pokynů pro [přidání předplatného](create-a-new-subscription.md). V části **katalog** na stránce **Nový odběr** vyberte specializované odvětví, ve kterém uvidíte speciální nabídky, které můžete prodávat.
+Jakmile jste vy a váš zákazník kvalifikovaní pro program speciální nabídky, postupujte podle pokynů [k přidání předplatného.](create-a-new-subscription.md) V části **Katalog** na **stránce Nové předplatné** vyberte specializované odvětví, abyste viděli speciální nabídky, které můžete prodávat.
 
 ## <a name="purchase-rules-for-special-segments"></a>Pravidla nákupu pro speciální segmenty
 
 Partneři můžou zákazníkům prodávat speciální nabídky, pouze pokud splní určitá kritéria. 
 
-- Nabídky vzdělávání se dají koupit jenom v případě, že je zákazník autorizovaný pro vzdělávací instituce. Zákazník pro vzdělávání může přijímat jenom vzdělávání a komerční nabídky, ale ne neziskové a státní cloudové cloudy (RSZ).
-- Partneři můžou zakoupit jenom předplatná v RSZ pro zákazníky v RSZ. Jakmile má zákazník předplatné RSZ, partneři nemůžou koupit komerční, vzdělávací ani neziskové předplatné.
-- Partneři můžou koupit jenom komerční nebo neziskové předplatné pro zákazníky, kteří nejsou ziskové. Partneři nemůžou koupit RSZ ani vzdělávací předplatné pro zákazníky, kteří nejsou ziskové.
-- Entity vlastněné příslušně musí splňovat [kritéria způsobilosti](https://www.microsoft.com/legal/compliance/anticorruption/criteria).
+- Nabídky pro vzdělávání je možné zakoupit pouze v případě, že je zákazník autorizovaný jako vzdělávací instituce. Zákazník v oblasti vzdělávání může dostávat jenom vzdělávací a komerční nabídky, ale ne neziskový nebo komunitní cloud státní správy (GCC).
+- Partneři koupí předplatná GCC jenom zákazníkům GCC. Jakmile má zákazník předplatné GCC, partneři nemohou nakupovat komerční, vzdělávací ani nezisková předplatná.
+- Partneři mohou pro neziskové zákazníky nakupovat jenom komerční nebo nezisková předplatná. Partneři nemohou pro neziskové zákazníky nakupovat předplatná GCC ani předplatné pro vzdělávání.
+- Entity vlastněné státem musí splňovat [kritéria způsobilosti](https://www.microsoft.com/legal/compliance/anticorruption/criteria).
 
-Pravidla nákupu pro prodej zvláštních nabídek zákazníkům:
+Pravidla nákupu pro prodej speciálních nabídek zákazníkům:
 
-|**Typ zákazníka**   |**Lze prodat**   |**Nejde prodat**   |
+|**Typ zákazníka**   |**Lze prodávat**   |**Nelze prodávat**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
 | Komerční |Komerční | Cloud Community pro neziskové, školní vzdělávání a státní správu |
 | Bez zisku |Komerční, nezisková | Cloudová nebo státní komunita pro vzdělávání |

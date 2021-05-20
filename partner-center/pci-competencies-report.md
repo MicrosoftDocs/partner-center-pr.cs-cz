@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086256"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152881"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Sestava kompetence k dispozici na řídicím panelu přehledů partnerského centra
 
-**Příslušné role**
-
-- Globální správce
-- Agent správce
-- Prohlížeč sestav
-- Prohlížeč sestav Executive
+**Příslušné role**: globální správce | Agent správce | Prohlížeč sestav | Prohlížeč sestav Executive
 
 Kompetence umožňují vaší společnosti předvést technickou schopnost doručovat řešení Microsoftu. Kompetence Microsoftu jsou navržené tak, aby splňovaly potřeby vašich zákazníků a předvedli své znalosti potenciálním zákazníkům. Přináší spoustu výhod od Microsoftu, jako je zahrnuté množství využití Azure, nároky na cloudové produkty, jako je Office 365, technická podpora, nabídky pro uvedení na trh a další. V současné době je k dispozici celkem 19 kompetencí v následujících kategoriích: **aplikace a infrastruktura**, **obchodní aplikace**, **data a AI** a **moderní pracoviště**. Kompetence jsou vrstveny na úrovni stříbrného nebo zlata, např. K dispozici je vyšší úroveň pro zlaté kompetence a přidruženou vyšší úroveň marketingových prostředků, nabídek a dostupných programů.  
 
@@ -31,32 +26,32 @@ Pokud se chcete dozvědět víc o životním cyklu kompetence, dosažené kompet
 
 ## <a name="competency-life-cycle"></a>Životní cyklus kompetence
 
-V rámci životního cyklu partneři začínají vytvořením klíčových ukazatelů výkonu (KPI), které jsou potřeba k dosažení konkrétních kompetencí. Jakmile dosáhnou prahové hodnoty nastavené pro danou kompetenci napříč všemi požadovanými metrikami, stanou se **kvalifikovány** pro kompetenci. Partneři potom můžou platit za nabídku kompetence (stříbrná nebo zlatá), aby dosáhli kompetence a v této kompetenci se staly **aktivní** . **Aktivní** stav kompetence je platný po dobu jednoho roku od data dosažení kompetence (označuje se jako **Datum výročí** kompetence). Na konci ročního roku musí partneři splňovat požadavky kompetence. Pokud tyto požadavky znovu nesplňují, dojde ke ztrátě kompetence. Stav **rizika** u dříve dosažené kompetence znamená, že některé klíčové metriky se považují za prahovou hodnotu v tomto **datu výročí** kompetence.
+V rámci životního cyklu partneři začínají vytvořením klíčových ukazatelů výkonu (KPI), které jsou potřeba k dosažení konkrétních kompetencí. Jakmile dosáhnou prahové hodnoty nastavené pro danou kompetenci napříč všemi požadovanými metrikami, stanou se **kvalifikovány** pro kompetenci. Partneři potom můžou platit za nabídku kompetence (stříbrná nebo zlatá), aby dosáhli kompetence a v této kompetenci se staly **aktivní** . **Aktivní** stav kompetence je platný po dobu jednoho roku od data dosažení kompetence (označuje se jako **Datum výročí** kompetence). Na konci roku výročí musí partneři splňovat požadavky na kompetence. Pokud tyto požadavky znovu nesplňuje, ztratí kompetenci. Stav **Ohroženo** u dříve dosažené kompetence znamená, že některé klíčové metriky budou podle plánu klesnout pod prahovou hodnotu k datu výročí těchto **kompetencí.**
 
 ## <a name="competency-attainment"></a>Dosažení kompetence
 
-Každá kompetence má konkrétní sadu požadavků, které je potřeba splnit. Požadavky na kompetenci v cloudu spadají do dvou kategorií: dovednosti a výkon.
+Každá kompetence má konkrétní sadu požadavků, které musí být splněny. Požadavky na kompetence cloudu spadají do dvou kategorií: dovednosti a výkon.
 
-- Dovednosti: mezi požadavky často patří zkoušky, posouzení nebo certifikace, které jednotlivci ve vaší společnosti musí předat.
+- Dovednosti: Požadavky často zahrnují zkoušky, hodnocení nebo certifikace, které musí jednotlivci ve vaší společnosti projít.
 
-- Výkon: aby bylo možné mít nárok na kompetenci, musí vaše společnost splňovat určité prahové hodnoty výkonu zarovnané do oblasti kompetence. Vaše společnost může například potřebovat vyhovět minimálnímu množství spotřeby Azure za poslední 12 měsíců.
+- Výkon: Aby vaše společnost měla nárok na kompetence, musí splňovat určité prahové hodnoty výkonu, které jsou v souladu s oblastí kompetence. Vaše společnost může například potřebovat splnit minimální množství spotřeby Azure za posledních 12 měsíců.
 
-## <a name="competencies-report-details"></a>Podrobnosti sestavy kompetence
+## <a name="competencies-report-details"></a>Podrobnosti sestavy kompetencí
 
-V sestavě kompetence můžete vidět následující části:
+V sestavě Kompetencí se můžete podívat na následující části:
 
 - Souhrn
-- Analýza metrik kompetence
-- Historie kompetence
+- Analýza metrik kompetencí
+- Historie kompetencí
 
  > [!NOTE]
- > Tato sestava je k dispozici na řídicím panelu Insights. Pokud chcete zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav v nástroji Executive. Další informace najdete v tématu globální správce vaší společnosti. konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními správce sestav nástroje Executive.
+ > Tato sestava je k dispozici na řídicím panelu Přehledy. Pokud chcete tuto sestavu zobrazit, musíte mít přiřazenou konkrétní roli v aplikaci Partnerské centrum, jako je globální správce, správce účtu, prohlížeč sestav nebo prohlížeč výkonných sestav. Další informace najdete v tématu Globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být k dispozici také pro uživatele s oprávněními Executive Report Viewer.
 
 ### <a name="summary"></a>Souhrn
 
-Souhrnné zobrazení prezentuje počet kompetencí s jejich názvy na úrovni kompetence (Gold/stříbrné) ve všech fázích životního cyklu kompetence. Mezi fáze životního cyklu kompetence patří: **spuštěno**, **kvalifikované**, **aktivní** a **v ohrožení**. Příklad: požadavky na kompetenci cloudu spadají do dvou kategorií: dovednosti a výkon.
+Souhrnné zobrazení obsahuje počet kompetencí s názvy na jednotlivých úrovních kompetencí (Gold/Silver) ve všech fázích životního cyklu kompetence. Fáze životního cyklu kompetence zahrnují: **Spuštěno,** **Kvalifikované,** **Aktivní** a **Ohroženo.** Příklad: Požadavky na kompetence cloudu spadají do dvou kategorií: dovednosti a výkon.
 
-- Zahájeno: počet kompetencí, pro které máte jednu nebo více základních požadavků.
+- Spuštěno: Počet kompetencí, pro které máte jeden nebo více probíhajících základních požadavků.
 Rozpis počátečních kompetencí podle úrovně kompetence (stříbrná/zlatá) s názvy kompetence.
 
 - Kvalifikované: kompetence, pro které jste splnili požadavky, ale může nebo nemusí ještě koupit přidruženou nabídku stříbrné/zlatou. Rozpis kvalifikovaných kompetencí podle úrovně kompetence (stříbrná/zlatá) s názvy kompetence.
@@ -90,7 +85,7 @@ Toto zobrazení ukazuje podrobnou tabulku všech kompetencí, které jste doposu
 
 ## <a name="next-steps"></a>Další kroky
 
-- Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).
+- Další sestavy najdete v tématu [Partnerské centrum Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> Nezpracovaných dat v této sestavě si můžete stáhnout z oddílu stažení sestav na řídicím panelu Insights. [Další informace](pci-download-reports.md) 
+> Nezpracovaná data pohánějící tuto sestavu si můžete stáhnout z části Stažení sestav na řídicím panelu Přehledy. [Další informace](pci-download-reports.md) 

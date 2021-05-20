@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ba2610280de4ed989ce2bd139e2021a62fbb008b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855739"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152983"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Zaregistrujte obchody, které jste vyhráli v partnerském centru, abyste později mohli získat další příležitosti.
 
@@ -39,18 +39,18 @@ Na stránce **nový obchod** zadejte následující informace.
 - **Hodnota řešení**: celková hodnota cloudového řešení, které se bude používat pro obchod. Nezapomeňte zahrnout všechny náklady spojené s poplatky za software a údržbu, ale nezahrnujte znovu fakturovatelné položky, opakující se poplatky za přizpůsobení ani přímo přidružené licenční poplatky CSP placené Microsoftem.
 - **Nasazeno v**: Vyberte **Azure** nebo **Jiné.**
 - **Kde se řešení nasadí?**: Vyberte **tenanta zákazníka** nebo **partnerského tenanta**.
-- **Počáteční datum smlouvy:** Datum, od kterého bude kontrakt začínat. V případě nabídek s platbou podle aktuálních dat použijte datum první faktury.
-- **Koncové datum smlouvy:** Pokud kontrakt skončí ke konkrétnímu datu, vyberte **Má koncové datum** a zadejte toto datum. Pokud kontrakt nemá konkrétní koncové datum, vyberte **Časově neomezené**. V případě nabídek s platbou s platbou (PAYG) použijte datum poslední nebo nejnovější faktury.
+- **Počáteční datum smlouvy:** Datum, od kterého bude kontrakt začínat. V případě nabídek s platbou podle aktuálních dat použijte datum první faktury. Z Partnerské centrum neuměníte zadat počáteční datum, které je dřívější než datum podepsání smlouvy. To může mít vliv na některé obchody, například nasazování IP adres, která začínají před datem podepsání. Pokud chcete tyto dohody úspěšně zadat, použijte  při odesílání datum podepsání i počáteční datum datum podepsání. (Kontrakt by měl explicitně určit dobu trvání dohody, aby bylo možné ACV správně vypočítat.)
+- **Koncové datum smlouvy:** Pokud kontrakt skončí ke konkrétnímu datu, vyberte Má koncové **datum** a zadejte toto datum. Pokud kontrakt nemá konkrétní koncové datum, vyberte **Časově neomezené**. V případě nabídek s platbou s platbou (PAYG) použijte datum poslední nebo nejnovější faktury.
 - **Datum podpisu smlouvy:** Datum, kdy byla finální smlouva podepsána vaší organizací a zákazníkem. V případě nabídek s platbou podle aktuálních dat použijte datum první faktury.
 - **Registrační kontakt:** **Jméno,** **Příjmení,** Telefonní číslo  a E-mail pro osobu ve vaší organizaci, na kterou se můžeme obrátit, pokud potřebujeme další podrobnosti o kterékoli z zde uvedených informací. 
 
 Po dokončení všech částí stránky vyberte **Zaregistrovat.** Registrace dohody se pak přesune na **stránku Probíhá.** Microsoft si pak proše jako informace, které jste poskytli.
 
-Pokud dohoda pocházela z referenčního seznamu a ještě jste ji nezaregistrili, uvidíte dohodu uvedenou na **stránce Vyžaduje se** akce. Tady jsou uvedeny také registrace dohody, které byly vytvořeny a zaregistrovány, ale vyžadují další aktualizace. Pomocí filtrů můžete zobrazit  pouze neúplné nebo **aktualizovat požadované** registrace dohody.
+Pokud obchod vznikl z odkazu a ještě jste ho ještě nezaregistrovali, uvidíte, že je uvedený na stránce **požadována akce** . Tady se zobrazují i registrace, které se vytvořily a zaregistrovaly, ale vyžadují další aktualizace. Pomocí filtrů můžete zobrazit jenom **neúplné** nebo **Aktualizovat požadované** registrace obchodu.
 
 ## <a name="viewing-active-and-closed-deal-registrations"></a>Zobrazení aktivních a uzavřených registrací zakázek
 
-Nové, aktivní a uzavřené registrace dohody můžete zkontrolovat na různých stránkách v části Referenční > **registrace dohody.**
+Nové, aktivní a uzavřené registrace koupě můžete zkontrolovat na různých stránkách v části **referenčních > registraci koupek**.
 
 ### <a name="action-required"></a>Požadovaná akce
 

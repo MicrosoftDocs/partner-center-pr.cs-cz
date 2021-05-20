@@ -1,48 +1,46 @@
 ---
-title: Migrace z PMC do partnerského centra
+title: Migrace z PMC na Partnerské centrum
 ms.topic: article
 ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Naučte se migrovat společnost z partnerského centra členství (PMC) do partnerského centra, včetně kroků, které je potřeba provést.
+description: Zjistěte, jak migrovat společnost z Partner Membership Center (PMC) do Partnerské centrum, včetně kroků, které je potřeba provést.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 511612042f7da5e43d045d2991fa7d5251612726
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624183"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150739"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Příručka k migraci z PMC na Partnerské centrum
 
-**Příslušné role**
+**Odpovídající role:** Globální správce
 
-- Globální správce
+Partnerský web Microsoftu v partner.microsoft.com je jednotné digitální prostředí pro partnery. Na partnerském webu budete moct prozkoumat své příležitosti a zapojit se do prostředí s průvodcem, která vaší společnosti pomůžou vytvářet a prodávat vaše aplikace a služby s Microsoftem. Pomocí odkazu Řídicí panel, který je k dispozici na webu partnera, se členové Microsoft Partner Network mohou přihlásit k Partnerskému centru, kde spravujete svůj vztah s Microsoftem, zaregistrovat se v programech a zaregistrovat nabídky.
 
-Web partnera Microsoftu na adrese partner.microsoft.com je jednotnou digitálním prostředím pro partnery. Na webu partnera budete moci prozkoumat vaše příležitosti a zapojit se do práce s asistencí, které vaší společnosti pomáhají při sestavování a prodeji vašich aplikací a služeb společnosti Microsoft. Pomocí odkazu na řídicí panel, který je dostupný na webu partnera, se členové Microsoft Partner Network můžou přihlásit do partnerského centra, kde můžete spravovat svůj vztah s Microsoftem, zaregistrovat se do programů a zaregistrovat se k nabídkám.
-
-Vyřazení partnerského centra členství (PMC) je vyřazené z provozu. Vaše společnost se pozvala k převedení správy členství Microsoft Partner Network do partnerského centra. Tato příručka vás připraví na to, co byste měli očekávat při přesunu z PMC do partnerského centra.
+Partner Membership Center (PMC) vyřazována z provozu. Vaše společnost byla pozvána k převodu správy Microsoft Partner Network členství na Partnerské centrum. Tato příručka vás připraví na to, co můžete očekávat při přechodu z PMC na Partnerské centrum.
 
 >[!NOTE]
->I v případě, že má vaše společnost více než jeden účet nebo umístění, přesune se na partnerské Centrum přesunutím jednoho (prvního) účtu do partnerského centra.
+>I když má vaše společnost více než jeden účet nebo umístění, přechod na Partnerské centrum začíná přesunutím jednoho (prvního) účtu do Partnerské centrum.
 
 ## <a name="get-started"></a>Začínáme
 
-Přesun začíná v PMC. Váš globální správce obdrží pozvánku k zahájení přesunu.
+Přesun začíná v PMC. Globální správce dostane pozvánku k zahájení přesunu.
 
 ### <a name="prepare-in-pmc"></a>Příprava v PMC
 
-- Ověření podrobností společnosti
-- Ověřit kontakt primárního programu
-- Ověřit obchodní umístění
+- Ověření podrobností o společnosti
+- Ověření kontaktu primárního programu
+- Ověření obchodních umístění
 - Aktualizace schválených uživatelů
 
 ### <a name="when-youre-ready"></a>Až budete připraveni
 
-Na **pozvánkě vyberte Začínáme** . Přejdete na přihlašovací stránku partnerského centra.
+U **pozvánky** vyberte Začínáme. Budete na přihlašovací Partnerské centrum.
 
 :::image type="content" source="images/migration/getstarted.jpg" alt-text="Začínáme":::
 
@@ -73,7 +71,7 @@ Když se vytvoří nový tenant Azure AD, můžete svým zaměstnancům pozvat, 
 
 :::image type="content" source="images/migration/invite.png" alt-text="Pozvat zaměstnance":::
 
-Pokud jste se přihlásili pomocí stávajícího tenanta AAD, vaši zaměstnanci se vám přesunuli. V takovém případě přiřaďte své role zaměstnanců, které určují, co můžou dělat v partnerském centru. 
+Pokud jste se přihlásili pomocí stávajícího tenanta AAD, vaši zaměstnanci se vám přesunuli. V takovém případě přiřaďte své role zaměstnanců, abyste mohli spravovat, co můžou dělat v partnerském centru. 
 
 >[!NOTE] 
 >Role v partnerském centru se liší od rolí v PMC. Další informace najdete v tématu [Přesun z PMC do partnerského centra](move-pmc-pc-map.md).

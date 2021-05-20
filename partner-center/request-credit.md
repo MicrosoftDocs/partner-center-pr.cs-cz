@@ -9,18 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855552"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152949"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Jak a kdy požádat Microsoft o kredit smlouvy o úrovni služeb (SLA)
 
 **Odpovídající role:** Agent pro správu | Globální správce
 
-Pokud u služby, kterou poskytujete svým zákazníkům, dojde k výpadku, můžete si od Microsoftu vyžádat kredity podle smlouvy o úrovni služeb **(SLA).**
+Pokud dojde k výpadku služby, kterou poskytujete svým zákazníkům, můžete si od Microsoftu vyžádat kredity podle smlouvy o úrovni služeb **(SLA).**
 
 ## <a name="sla-credit-calculation"></a>Výpočet kreditu SLA
 
@@ -34,7 +34,7 @@ Kredity SLA od Microsoftu se určují na základě ovlivněných služeb. Pokud 
 *Partner Cloud Solution Provider (CSP) musí žádost a všechny požadované informace odeslat do konce kalendářního měsíce následujícího po měsíci, ve kterém k incidentu došlo.* Pokud k incidentu došlo například 15. února, Microsoft musí do 31. března přijmout žádost a všechny požadované informace. Koncoví zákazníci a nepřímí prodejci nemůže odesílat žádosti o kredit SLA. Nepřímý poskytovatel nebo partner s přímým vyúčtováním musí žádosti odesílat jejich jménem.
 
 >[!NOTE]
->Poradce pro incidenty ([Postup kontroly Microsoft 365 service health](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)) nemají nárok na kredity SLA.
+>Poradce pro incidenty ([Postup kontroly Microsoft 365 service health](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) nemají nárok na kredity SLA.
 
 ### <a name="required-information"></a>Požadované informace
 
@@ -73,11 +73,11 @@ Identifikátor incidentu výpadku najdete na stránce **Service Health** v centr
 
 ### <a name="submit-sla-credit-request"></a>Odeslání žádosti o kredit sla
 
-Žádost o kredit sla odešlete Microsoftu prostřednictvím řídicího panelu Partnerské centrum:
+Žádost o kredit SLA odešlete Microsoftu prostřednictvím řídicího panelu Partnerské centrum:
 
 1. Přihlaste se k řídicímu panelu pro Partnerské centrum.
-2. V nabídce vlevo zvolte Žádosti **o** služby a pak vyberte **Žádosti o podporu partnerů.**
-3. Na stránce **Žádost o partnera** zvolte Nová **žádost.**
+2. V nabídce vlevo zvolte Žádosti **o** služby a pak vyberte Žádosti o podporu **partnerů.**
+3. Na stránce **Žádost partnera** zvolte **Nová žádost.**
 4. Na stránce **Zahájit žádost vyhledejte** oddíl **CSP – zákazníci, objednávky a předplatná.** V této části zvolte **Vyberte typ problému a** pak vyberte Žádosti o kredit služeb **zákazníkům.**
 5. Na stránce **Doporučená řešení** v části Potřebujete **další pomoc?** zvolte **Ano**.
 6. Na **stránce Podrobnosti** vyplňte část **Podrobnosti o** problému. Do **textového** pole Podrobnosti zadejte [](#required-information) požadované informace, které jste shromáždili dříve.
