@@ -134,6 +134,8 @@
     - name: Přechod z přímého vyúčtování CSP na nepřímého prodejce
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: Partneři už se nemůžou registrovat jako poradci.
+      href: advisors-no-csp.md
 - name: Smlouvy CSP
   href: microsoft-partner-agreement.md
   items:
@@ -202,7 +204,7 @@
         - name: Aktualizace partnerského profilu
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Registrační identifikační číslo – informace
+        - name: Informace o čísle ID registrace
           href: reg-number-id.md
         - name: Staňte se dodavatelem ovládacího panelu
           href: enroll-as-cpv.md
