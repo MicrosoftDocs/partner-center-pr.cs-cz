@@ -1,6 +1,6 @@
 ---
-title: Analýza využití Azure za účelem zlepšení růstu vaší firmy
-description: Naučte se používat Partnerské centrum k získání dat o využití předplatných Azure vašich zákazníků. Data zahrnují předplatná prodávaná, ohrožená a používána.
+title: Analýza využití Azure pro pomoc s růstem vaší firmy
+description: Naučte se používat Partnerské centrum k získání dat o využití předplatných Azure vašich zákazníků. Data zahrnují prodané, ohrožené a užívané předplatné.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,46 +9,41 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 0a7bc34ded62eb9e19dbbad8e214eb30534b8ea6
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: e2acdb777e0ef77ebf9d08eed3d3842c74af9e18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439120"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150229"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Získat data o tom, jak dobře vaši zákazníci a předplatná Azure provádějí
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Získání dat o tom, jak dobře si zákazníci a předplatná Azure vede
 
 
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Správce správy uživatelů | Agent správy | Agent prodeje
 
-- Globální správce
-- Správce správy uživatelů
-- Agent správce
-- Agent prodeje
+Data řídí obchodní rozhodnutí. Pomocí metrik na stránce využití **Azure** identifikujte své úspěchy a oblasti, které potřebují větší pozornost. Tyto informace použijte při plánování nových obchodních cílů.
 
-Datové jednotky: obchodní rozhodnutí. Pomocí metrik na stránce **využití Azure** můžete identifikovat vaše úspěšnosti a oblasti, které vyžadují větší pozornost. Tyto informace použijte při plánování nových obchodních cílů.
-
-Pokud se chcete dostat k **využití Azure**, přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra. V nabídce partnerského centra vyberte **Analytics** a pak vyberte **využití Azure**.
+Pokud se chcete dostat k **využití Azure,** přihlaste se Partnerské centrum [řídicího panelu](https://partner.microsoft.com/dashboard). V **nabídce** Partnerské centrum vyberte Analýza a pak vyberte **Využití Azure.**
 
 > [!NOTE]
-> Analýza využití Azure je dostupná jenom pro partnery v programu Cloud Solution Provider.
+> Analýza využití Azure je dostupná jenom pro partnery v Cloud Solution Provider programu.
 
 Sledujeme následující metriky:
 
-## <a name="summary"></a>Shrnutí
+## <a name="summary"></a>Souhrn
 
-- **Celkový počet prodaných předplatných Azure**: počet předplatných prodaných v zadaném časovém období  
-- **Zákazníci s využitím**: počet zákazníků s využitím Azure v zadaném časovém období  
-- **Zákazníci bez použití**: počet zákazníků bez využití Azure v zadaném časovém období  
+- **Total Azure subscriptions sold**: Number of subscriptions sold in the specified time period  
+- **Zákazníci s využitím:** Počet zákazníků s využitím Azure v zadaném časovém období  
+- **Zákazníci bez využití:** Počet zákazníků bez využití Azure v zadaném časovém období  
 
-## <a name="top-5-customers-in-category"></a>Prvních 5 zákazníků v kategorii
+## <a name="top-5-customers-in-category"></a>Top 5 customers in category
 
-- Prvních 5 zákazníků pro zadanou kategorii  
+- 5 nejlepších zákazníků pro zadanou kategorii  
 
-## <a name="azure-subscriptions-at-risk"></a>Rizika předplatných Azure
+## <a name="azure-subscriptions-at-risk"></a>Ohrožená předplatná Azure
 
-V této části se uvádí předpokládaná rizika v případě předplatných Azure. Tyto informace můžou využít partneři k zapojení zákazníků a k minimalizaci změn.
+Tato část uvádí předpovězené riziko četnosti změn pro předplatná Azure. Tyto informace mohou partneři využít k zapojení zákazníků a minimalizaci četnosti změn.
 
 ## <a name="subscriptions-without-usage"></a>Předplatná bez použití
 

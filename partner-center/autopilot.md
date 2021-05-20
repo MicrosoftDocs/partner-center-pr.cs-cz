@@ -9,21 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 5294495403be729adecb5a7814ade4f9d454a0f6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534981"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149821"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Přizpůsobení prostředí prvního spuštění nových zařízení s využitím profilů Windows Autopilot
 
-**Příslušné role**
-
-- Agent správce
-- Globální správce
-- Agent prodeje
-- Správce správy uživatelů
+**Příslušné role**: Agent správce | Globální správce | Prodejní agent | Správce správy uživatelů
 
 Pokud spravujete zákaznická zařízení, možná budete muset pro uživatele zákazníka přizpůsobit integrované prostředí (OOBE). Před dodáním zařízení zákazníkům a uplatněním nových profilů na zařízení, která si zákazníci už koupili, můžete předem nakonfigurovat nová zařízení pomocí profilů Windows autopilotu. 
 
@@ -46,9 +41,9 @@ Pomocí funkce Windows Autopilot v partnerském centru můžete vytvořit vlastn
 
 - Automaticky nastaví zařízení pro práci nebo školu. Všechna zařízení zaregistrovaná pomocí automatického pilotního projektu se automaticky považují za pracovní nebo školní zařízení, takže se během procesu OOBE nebude zobrazovat výzva.
 
-- Přeskočit stránky nastavení registrace Cortany, OneDrive a OEM Všechna zařízení zaregistrovaná pomocí automatického pilotního nasazení automaticky přeskočí tyto stránky během procesu spouštěného při prvním spuštění počítače.
+- Přeskočit stránky nastavení registrace Cortany, OneDrive a OEM Všechna zařízení zaregistrovaná pomocí Autopilotu tyto stránky automaticky přeskočí během procesu spuštění zařízení.
 
-- Přeskočte si licenční smlouvu s koncovým uživatelem (EULA). Od verze 1709 ve Windows 10 se můžou organizace rozhodnout přeskočit stránku EULA, která se zobrazí během procesu OOBE. Důležité informace, které je třeba vzít v úvahu při přeskočení stránky EULA při instalaci systému Windows, najdete v článku o [neúspěšném odeslání služby Windows autopilot](#windows-autopilot-eula-dismissal) .
+- Přeskočte licenční smlouvu s koncovým uživatelem (EULA). Počínaje Windows 10 verze 1709 se organizace mohou rozhodnout přeskočit stránku se seznamem eula prezentovaných během procesu OOBE. Důležité Windows Autopilot o přeskočení stránky [eula](#windows-autopilot-eula-dismissal) během instalace Windows najdete níže v části o zamítnutí eula.
 
 Pro správu profilů a zařízení platí následující oprávnění a omezení:
 
@@ -58,37 +53,37 @@ Pro správu profilů a zařízení platí následující oprávnění a omezení
 
 - Nemůžete spravovat zařízení, která zákazník nahrál na Microsoft pro firmy nebo portál Microsoft Intune.
 
-## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Vytváření a Správa profilů pro Autopilot v partnerském centru
+## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Vytváření a správa profilů Autopilotu v Partnerské centrum
 
-V partnerském centru můžete vytvořit profily nasazení Windows autopilot a použít je na zařízení.
+V Partnerské centrum můžete vytvořit profily Windows Autopilot nasazení a použít je na zařízení.
 
 >[!NOTE]
->Profily můžou vytvářet a používat jenom agenti pro správu.
+>Profily mohou vytvářet a používat pouze agenti správy.
 
-### <a name="create-a-new-autopilot-profile"></a>Vytvoření nového profilu autopilotu
+### <a name="create-a-new-autopilot-profile"></a>Vytvoření nového profilu Autopilotu
 
-1. V nabídce partnerského centra vyberte **zákazníci** a pak vyberte zákazníka, pro který vytváříte profil pro autopilot.
+1. V **nabídce** Partnerské centrum vyberte Zákazníci a pak vyberte zákazníka, pro který vytváříte profil Autopilot.
 
-2. Na stránce s podrobnostmi zákazníka vyberte **zařízení**.
+2. Na stránce podrobností zákazníka vyberte **Zařízení.**
 
-3. V části **profily Windows autopilotu** vyberte **Přidat nový profil**.
+3. V **Windows Autopilot profilů** vyberte Přidat nový **profil.**
 
 4. Zadejte název a popis profilu a pak nakonfigurujte nastavení OOBE. Vybírejte z těchto možností:  
 
-   - Přeskočit nastavení ochrany osobních údajů v instalačním programu
+   - Přeskočení nastavení ochrany osobních údajů v nastavení
 
-   - Zakázat účet místního správce v nastavení
+   - Zakázání účtu místního správce v nastavení
   
-   - Automaticky přeskočit stránky v instalačním programu<br>
-        (Zahrnuje *automaticky výběr nastavení pracovní nebo školní* a *Přeskočit stránky pro nastavení registrace Cortany, OneDrive a OEM*)
+   - Automatické přeskočení stránek v nastavení<br>
+        (Zahrnuje *automaticky vybrat nastavení pro pracovní nebo* školní a přeskočit stránky nastavení *cortany, OneDrivu a registrace OEM*)
   
-   - Přeskočit licenční smlouvu s koncovým uživatelem (EULA)<br> 
+   - Přeskočení licenční smlouvy s koncovým uživatelem (EULA)<br> 
        >[!IMPORTANT] 
-       >Důležité informace, které je třeba vzít v úvahu při přeskočení stránky EULA při instalaci systému Windows, najdete v článku o [neúspěšném odeslání služby Windows autopilot](#windows-autopilot-eula-dismissal) .
+       >Důležité Windows Autopilot o přeskočení stránky [eula](#windows-autopilot-eula-dismissal) během instalace Windows najdete níže v části o zamítnutí eula.
 
-5. Po dokončení vyberte **Odeslat** .
+5. Po **dokončení vyberte** Odeslat.
 
-### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Použití profilu autopilotu u zákaznických zařízení
+### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Použití profilu Autopilot na zařízeních zákazníků
 
 >[!NOTE]
 >Níže uvedené pokyny předpokládají, že jste už přidali zařízení zákazníka do partnerského centra a že máte přístup k seznamu zařízení. Pokud jste ještě nepřidali zařízení zákazníka, postupujte podle pokynů v části [Přidání zařízení na účet zákazníka](#add-devices-to-a-customers-account) a pak postupujte podle následujících pokynů.
@@ -124,43 +119,43 @@ Po vytvoření profilu autopilotu pro zákazníka ho můžete použít na zaří
 
 Pokud chce zákazník změnit integrované prostředí po odeslání zařízení do těchto zařízení, můžete změnit profil v partnerském centru.
 
-Jakmile se zařízení zákazníka připojí k Internetu, stáhne nejnovější verzi profilu během procesu OOBE. I když zákazník obnoví zařízení do výchozího továrního nastavení, zařízení si znovu stáhne nejnovější verzi profilu během procesu OOBE.
+Jakmile se zařízení zákazníka připojí k Internetu, stáhne nejnovější verzi profilu během procesu OOBE. Pokaždé, když zákazník obnoví zařízení do výchozího továrního nastavení, zařízení znovu stáhne nejnovější verzi profilu během procesu OOBE.
 
-1. V nabídce partnerského centra vyberte **zákazníci** a pak vyberte zákazníka, který požaduje, abyste změnili profil autopilotu.
+1. V **nabídce** Partnerské centrum vyberte Zákazníci a pak vyberte zákazníka, který chce, abyste změnili profil Autopilot.
 
-2. Na stránce s podrobnostmi zákazníka vyberte **zařízení**.
+2. Na stránce podrobností zákazníka vyberte **Zařízení.**
 
-3. V části **profily Windows autopilotu** vyberte profil, který potřebujete aktualizovat. Proveďte požadované změny a pak vyberte **Odeslat**.
+3. V **Windows Autopilot profilů** vyberte profil, který potřebujete aktualizovat. Proveďte požadované změny a pak vyberte **Odeslat.**
 
-Chcete-li odstranit tento profil, vyberte možnost **Odstranit profil** v pravém horním rohu stránky.
+Pokud chcete tento profil odstranit, **vyberte Odstranit profil** v pravém horním rohu stránky.
 
 ### <a name="add-devices-to-a-customers-account"></a>Přidání zařízení do účtu zákazníka
 
 >[!NOTE]
->Prodejní agenti a agenti pro správu můžou přidat zařízení k účtu zákazníka.
+>Agenti prodeje a agenti pro správu mohou přidávat zařízení do účtu zákazníka.
 
-Než budete moct použít vlastní profily autopilotu na zákaznická zařízení, musíte mít přístup k seznamu zařízení zákazníka.
+Abyste mohli použít vlastní profily Autopilotu na zákaznická zařízení, musíte mít přístup k seznamu zařízení zákazníka.
 
-Pokud máte v plánu používat název výrobce OEM, sériové číslo a kombinaci modelů, pamatujte na tato omezení:
+Pokud plánujete použít kombinaci názvu, sériového čísla a modelu výrobce OEM, uvědomte si tato omezení:
 
-- Tato řazená kolekce členů funguje jenom pro novější zařízení (například hodnoty hash 4k) a není podporovaná pro hodnoty hash 128B (RS2 a předchozí zařízení).
+- Tato řazená kolekce členů funguje pouze pro novější zařízení (například 4k hash) a nepodporuje se pro 128b hash (RS2 a předchozí zařízení).
 
-- Registrace řazené kolekce členů rozlišuje velká a malá písmena, takže data v souboru se musí shodovat s názvy modelů a výrobců **_přesně_* _, jak poskytuje poskytovatel OEM (poskytovatel hardwaru).
+- V registraci řazené kolekce členů se rozlišují velká a  malá písmena, takže data v souboru musí odpovídat názvům modelu a výrobce přesně tak, jak poskytuje poskytovatel OEM (poskytovatel hardwaru).
 
-Podle pokynů níže přidejte zařízení k účtu zákazníka v partnerském centru.
+Podle následujících pokynů přidejte zařízení do účtu zákazníka v Partnerské centrum.
 
-1. V nabídce partnerského centra vyberte _ *zákazníci** a pak vyberte zákazníka, jehož zařízení chcete spravovat.
+1. V **nabídce** Partnerské centrum vyberte Zákazníci a pak vyberte zákazníka, jehož zařízení chcete spravovat.
 
-2. Na stránce s podrobnostmi zákazníka vyberte **zařízení**.
+2. Na stránce podrobností zákazníka vyberte **Zařízení.**
 
-3. V části **použít profily na zařízení** vyberte **Přidat zařízení**.
+3. V **části Použít profily u zařízení** vyberte Přidat **zařízení.**
 
-4. Zadejte název seznamu zařízení a pak vyberte **Procházet** a nahrajte seznam zákazníků (ve formátu souboru. csv) do partnerského centra.
+4. Zadejte název seznamu zařízení a  pak vyberte Procházet a nahrajte seznam zákazníka (ve formátu souboru .csv) do Partnerské centrum.
 
     >[!NOTE]
-    >Tento soubor. csv byste měli při nákupu zařízení přijmout. Pokud jste neobdrželi soubor. csv, můžete si ho vytvořit sami podle kroků v části [Přidání zařízení do Windows autopilotu](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
+    >Tento soubor .csv byste měli mít při nákupu zařízení. Pokud jste neobdrží soubor .csv, můžete si ho vytvořit sami podle postupu v tématu Přidání zařízení [do Windows Autopilot](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
 
-5. Nahrajte soubor. csv a pak vyberte **Uložit**.
+5. Nahrajte soubor .csv a pak vyberte **Uložit.**
 
 Pokud se vám při pokusu o nahrání souboru .csv zobrazí chybová zpráva, zkontrolujte formát souboru. Můžete použít pouze hodnotu hash hardwaru nebo název výrobce OEM, sériové číslo a model (v uvedeném pořadí sloupců), případně ID produktu Windows. K vytvoření seznamu zařízení můžete použít také ukázkový soubor. csv poskytnutý z odkazu vedle **Přidat zařízení** .
 

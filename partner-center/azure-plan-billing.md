@@ -9,20 +9,16 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 757383ee264e58e7b4dc8ffefafe213cb49acb79
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924996"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149787"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nové obchodní prostředí v CSP – Fakturace Azure 
 
-**Příslušné role**
-
-- Agent správce
-- Správce fakturace
-- Globální správce
+**Příslušné role**: Agent správce | Správce fakturace | Globální správce
 
 Tento článek vysvětluje, jak získat přístup ke struktuře souborů fakturace a odsouhlasení souvisejících s fakturací za plán Azure. Fakturace v rámci plánu Azure je zjednodušené fakturační prostředí s využitím zarovnaných a fakturačních období na základě kalendářního měsíce.
 
@@ -48,34 +44,34 @@ Přístup k souboru faktury a odsouhlasení:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/) pro Partnerské centrum.
 
-2. V nabídce partnerského centra vyberte **fakturace**.
+2. V nabídce Partnerské centrum vyberte **Fakturace.**
 
-3. Vyberte kartu pro **opakovanou** a **jednorázovou** a měnu, které vás zajímají.
+3. Vyberte kartu Opakující se **a** **Jednou a** měnu, kterou vás zajímá.
 
-   :::image type="content" source="images/azure/billing3.png" alt-text="fakturované":::
+   :::image type="content" source="images/azure/billing3.png" alt-text="Fakturační":::
 
-4. Vyberte soubor **faktury** nebo **souboru k odsouhlasení**.  
+4. Vyberte **fakturu** nebo **soubor s vyrovnáním.**  
 
-   Chcete-li zobrazit historické faktury a soubory rekognoskaci, rozbalte řádek historie fakturace níže.
+   Pokud chcete zobrazit historické faktury a soubory odsoudíte, rozbalte řádek Historie fakturace níže.
 
-## <a name="understanding-usage-data"></a>Seznámení s daty o využití 
+## <a name="understanding-usage-data"></a>Vysvětlení dat o využití 
 
-1. Plán Azure je kořenový adresář nebo kontejner nejvyšší úrovně pro použití. Veškeré využití je vázané zpátky na jeden plán Azure.
+1. Plán Azure je kontejner kořenové nebo nejvyšší úrovně pro použití. Veškeré využití se váže zpět na jeden plán Azure.
 
-2. V rámci plánu bude k dispozici jedno nebo několik předplatných Azure. Jedná se o kontejnery používané pro správu a nasazení prostředků. 
+2. V rámci plánu bude jedno nebo více předplatných Azure. Jedná se o kontejnery používané pro správu a nasazení prostředků. 
 
-3. V rámci předplatného se skupiny prostředků přidávají do skupin prostředků. Všechny prostředky se nasazují do jedné skupiny prostředků. 
+3. Skupiny prostředků se v rámci předplatného přidávají do skupin prostředků. Každý prostředek je nasazený do jedné skupiny prostředků. 
 
 4. Mezi příklady prostředků patří virtuální počítače a účty úložiště. 
 
-5. Měřiče emitování prostředků: měřiče měří spotřebu prostředku a jeden prostředek může vysílat využití pro více měřičů. Měřiče jsou označeny ProductId, SKUId a AvailabilityId. 
+5. Měřiče pro vysílání prostředků: Měřiče měří spotřebu prostředku a jeden prostředek může generovat využití pro více měřičů. Měřiče se identifikuje podle Id produktu, SKUId a ID dostupnosti. 
 
 ### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hierarchie skupin prostředků předplatného a měření
 
 **Účet Azure (tenant)**
 
 - Předplatné A
-    - Zdroj dat 1
+    - ResourceGroup 1
         - Virtuální počítač (prostředek)
             - Výpočetní měření
         - Virtuální síť (prostředek)

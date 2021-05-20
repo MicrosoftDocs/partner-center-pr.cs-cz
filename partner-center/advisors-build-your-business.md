@@ -1,49 +1,47 @@
 ---
 title: Přidání klientů s nabídkami zkušební verze Office 365
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si, jak autorizované služby Microsoftu můžou rozšiřovat své odběry sady Office 365. Můžete vytvářet a odesílat pozvánky na zkušební verzi Office 365 a nabídky nákupu pro klienty.
+description: Přečtěte si, jak mohou autorizovaní poradci Microsoftu rozšiřovat svá předplatná Office 365. Vytvořte a odešlete klientům pozvánky ke zkušební verzi Office 365 a nabídky k nákupu.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: bd7e10aaf0bf339f92fbc9dc2f73f403c81693a3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557728"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150382"
 ---
-# <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Poradci: sestavení vaší klientské základny pomocí zkušebních pozvánek Office 365 a nabídek nákupů
+# <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Poradci: Vytvoření klientské základny pomocí pozvánek ke zkušební verzi Office 365 a nabídek nákupů
 
 
-**Příslušné role**
-
-- Advisor
+**Odpovídající role:** Advisor
 
 
-**Partnerské centrum** vám jako autorizovaného Microsoft Advisor nabízí možnost rozšířit vaši základnu klientů a vytvořit trvalé vztahy s vašimi klienty. S partnerským centrem můžete odesílat zkušební pozvánky klientů a nabídky nákupu a nabízet jim delegované služby správy, a to v závislosti na službách, které máte oprávnění poskytovat.
+Jako autorizovaný poradce Microsoftu **Partnerské centrum** příležitost rozvíjet svou klientskou základnu a vytvořit s klienty trvalou vztahy. V Partnerské centrum můžete klientům posílat pozvánky ke zkušebním verzím a nabídky k nákupu a nabízet jim delegované služby pro správu v závislosti na službách, ke které máte oprávnění poskytovat.
 
-Když se přihlásíte k partnerskému centru, přejděte na **nabídky zkušební verze a koupit**, zobrazí se některé nástroje a úkoly, které vám pomůžou rozšířit vaši firmu.
+Když se přihlásíte k Partnerské centrum zkušební verze a nabídky **nákupu,** zobrazí se některé nástroje a úlohy, které vám pomůžou růst vaší firmy.
 
-## <a name="create-and-send-trial-invitations"></a>Vytvoření a odeslání pozvánk zkušební verze
+## <a name="create-and-send-trial-invitations"></a>Vytvoření a odeslání zkušebních pozvánek
 
 > [!NOTE]
-> Tato funkce je dostupná jenom pro partnery, kteří mají autorizované Poradce pro předplatné.
+> Tato funkce je dostupná jenom pro partnery, kteří jsou autorizovanými poradci pro předplatná.
 
-Můžete vytvářet a odesílat pozvánky pro odeslání zákazníkům, aby si mohli vyzkoušet Office 365. Pozvánka může obsahovat jedno zkušební předplatné.
+Můžete vytvořit a odeslat pozvánky k odeslání zákazníkům, aby si mohli vyzkoušet Office 365. Pozvánka může obsahovat jedno zkušební předplatné.
 
-Pokud máte certifikaci a chcete nabízet delegovanou správu, můžete na pozvánku k vyzkoušení přidat možnost, která vám umožní spravovat předplatné jménem svého zákazníka. To vašemu zákazníkovi usnadňuje vyzkoušení Office 365.
+Pokud máte certifikaci pro nabídku delegované správy, můžete k pozvánce k zkušební verzi přidat možnost, která vám umožní spravovat předplatné jménem zákazníka. To zákazníkům usnadňuje vyzkoušet Si Office 365.
 
-Když vytvoříte pozvánku k vyzkoušení, vytvoří se pro vás vlastní adresa URL. Adresa URL obsahuje vložený kód, který vás identifikuje jako poradce pro předplatné. Tuto adresu URL můžete použít pro jednoho zákazníka nebo pro více zákazníků. Adresu URL můžete zákazníkovi poslat e-mailem nebo ji publikovat na svém webu.
-Další informace o zkušebních pozvánkách najdete v tématu [Vytvoření zkušební pozvánky](advisors-create-a-trial-invitation.md).
+Když vytvoříte pozvánku ke zkušební verzi, vytvoří se pro vás vlastní adresa URL. Adresa URL obsahuje vložený kód, který vás identifikuje jako poradce pro předplatné. Tuto adresu URL můžete použít pro jednoho zákazníka nebo pro více zákazníků. Adresu URL můžete zákazníkovi poslat e-mailem nebo ji můžete odeslat na svůj web.
+Další informace o pozvánkách ke zkušební verzi najdete v [tématu Vytvoření pozvánky k zkušební verzi.](advisors-create-a-trial-invitation.md)
 
-## <a name="create-and-send-purchase-offers"></a>Vytvoření a odeslání nabídek nákupu
+## <a name="create-and-send-purchase-offers"></a>Vytváření a odesílání nabídek k nákupu
 
 > [!NOTE]
-> Tato funkce je k dispozici pouze partnerům společnosti Microsoft, kteří mají autorizované Poradce pro odběr.
+> Tato funkce je dostupná jenom pro partnery Microsoftu, kteří jsou autorizovanými poradci pro předplatná.
 
 Po odeslání pozvánky ke zkušební verzi vašim zákazníkům Sledujte nabídku nákupu. Nabídku můžete přizpůsobit tak, aby zahrnovala konkrétní služby, které vaši zákazníci potřebují, a správný počet uživatelských licencí. Pokud máte certifikaci a chcete nabízet delegovanou správu, můžete do nabídky nákup přidat možnost, která vám umožní spravovat předplatné jménem svého zákazníka.
 
@@ -53,4 +51,6 @@ Pokud zákazník potřebuje jiný počet licencí, odešle jim novou nabídku ne
 
 ## <a name="next-steps"></a>Další kroky
 
-Další informace o nabídkách nákupů najdete v tématu [Vytvoření nabídky nákupu](advisor-create-a-purchase-offer.md).
+- [Vytvořte nabídku nákupu](advisor-create-a-purchase-offer.md).
+
+- [Partneři už se nemůžou registrovat jako poradci.](advisors-no-csp.md)

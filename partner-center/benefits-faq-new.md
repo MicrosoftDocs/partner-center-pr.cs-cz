@@ -1,65 +1,63 @@
 ---
-title: Nejčastější dotazy k Microsoft Partner Network výhodám
+title: Microsoft Partner Network nejčastější dotazy k výhodám
 ms.topic: article
 ms.date: 02/04/2021
-description: Otázky, které jsou zodpovězené o zásadách týkající se Microsoft Partner Network výhod
+description: Zodpovězené otázky týkající se zásad týkajících Microsoft Partner Network výhod.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f54e5e91dd63e5ceeaa3c25b929823e6d731d7d0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552393"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149311"
 ---
-# <a name="microsoft-partner-network-benefits-faq"></a>Nejčastější dotazy k Microsoft Partner Network výhodám
+# <a name="microsoft-partner-network-benefits-faq"></a>Microsoft Partner Network nejčastější dotazy k výhodám
 
-**Příslušné role**
+**Odpovídající role:** Správce partnera MPN
 
-- Správce partnera MPN
+V následujícím článku najdete odpovědi na některé z hlavních Microsoft Partner Network (MPN) partnerů o výhodách, kompetencích a licencích k produktu v programu MPN.
 
-Následující článek obsahuje odpovědi na některé hlavní partnery Microsoft Partner Network (MPN), kteří mají své výhody pro členství v programu MPN, kompetence a licence k produktu.
+## <a name="responding-to-covid-19"></a>Reakce na COVID-19
 
-## <a name="responding-to-covid-19"></a>Reakce na COVID – 19
+**Otázka.** Blíží se datum výročí kompetence a kvůli dopadům souvisejícím s COVID-19 nemůžeme splnit požadavky na  **kompetence. Co bychom měli dělat?**
 
-**Q.** **naše datum výročí kompetence se připravuje a nemůžeme splnit požadavky na kompetenci kvůli dopadům souvisejícím s COVID-19. Co bychom měli udělat?**
-
-A. Pokud je vaše kompetence dne v rozsahu od 1 do 30. června 2021, rozšiřujeme vaše stávající kompetenci nebo kompetence (s výjimkou Business Applications kompetence cloudu) prostřednictvím vašeho dalšího dne výročí v 2022. Nebudete muset splňovat požadavky na zkoušky a výkon, ale budete platit poplatek za kompetenci.Další informace najdete v našem [blogovém příspěvku](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
+A. Pokud je datum výročí vaší kompetence mezi 1. a 30. červnem 2021, rozšiřujeme vaše stávající kompetence (s výjimkou kompetence Cloud Business Applications) až na další datum výročí v roce 2022. Požadavky na zkoušku nebo výkon nemusí být splněny, ale stále platíte poplatek za kompetence.Další informace najdete v našem [blogovém příspěvku.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
 
 ## <a name="membership"></a>Členství
 
-**Otázka: Jaký je proces a časování pro obnovení kompetencí?**
+**Otázka: Jaký je proces a načasování prodloužení platnosti kompetencí?**
 
-Odpověď: vaše společnost může obnovit kompetenci v partnerském centru. Musíte splnit požadavky na výkon kompetence, ověřit vyžadované zkoušky a dovednosti každý rok a uhradit roční poplatek v rámci okna obnovení, aby se zachoval stav kompetence a přístup k souvisejícím výhodám.
+O: Vaše společnost může prodloužit platnost kompetence v Partnerské centrum. Musíte splnit požadavky na výkon kompetencí, každý rok ověřovat požadované zkoušky a dovednosti a platit roční poplatek v rámci intervalu prodloužení, abyste si zachovali stav kompetence a přístup k přidruženým výhodám.
 
- Před obnovením vaší kompetence musí správce globálního správce nebo účtu pro vaši společnost zkontrolovat a aktualizovat obchodní informace. Budou mít přístup k profilu společnosti v partnerském centru, aby viděli stav a zkontrolovali, jaké informace je potřeba aktualizovat. K ověření vašich informací může být nutná další dokumentace.  
+ Před prodloužením platnosti kompetence musí globální správce nebo správce účtu vaší společnosti zkontrolovat a aktualizovat obchodní informace. Mohou přistupovat k profilu společnosti v Partnerské centrum a zobrazit stav a zkontrolovat, jaké informace je potřeba aktualizovat. K ověření vašich informací může být potřeba další dokumentace.  
 
- Vaše okno pro obnovení začíná na výročním datu nákupu a navíc za jeden den. Pokud jste například zakoupili sadu Microsoft Action Pack od 1. září 2020, vaše 30denní doba obnovy začíná 2. září 2021. Role globálních správců a správců programu MPN ve vaší společnosti obdrží komunikaci pro obnovení, která se bude nacházet až do data výročí a 30 dnů po. Během intervalu obnovování budete mít i nadále přístup k přidruženým výhodám.
+ Vaše prodloužení začíná dnem výročí nákupu plus jeden den. Pokud jste si například 1. září 2020 zakoupili Microsoft Action Pack, vaše 30denní období prodloužení začíná 2. září 2021. Role globálního správce a správce MPN ve vaší společnosti obdrží komunikaci o prodloužení vedoucí k vašemu datu výročí a 30 dnů po tomto datu. Během období prodloužení budete mít i nadále přístup k přidruženým výhodám.
 
- Další informace najdete v [nabídce obnovit MPN](renew-mpn-offers.md).
+ Další informace najdete v článku [Prodloužení platnosti nabídky MPN.](renew-mpn-offers.md)
 
-**Otázka: kdy je možné sadu Microsoft Action Pack prodloužit?**
+**Otázka: Kdy můžeme prodloužit platnost mého programu Microsoft Action Pack?**
 
-Odpověď: vaše společnost může obnovit Microsoft Action Pack v partnerském centru během intervalu obnovování.
+O: Vaše společnost může prodloužit platnost programu Microsoft Action Pack Partnerské centrum během období prodloužení.
 
-Před obnovením sady Action Pack bude muset globální správce nebo správce účtu pro vaši společnost zkontrolovat a aktualizovat firemní informace společnosti. Můžou získat přístup k vašemu firemnímu profilu v partnerském centru, aby viděli svůj stav a pochopili, jaké informace je potřeba aktualizovat. K ověření vašich informací může být nutná další dokumentace.  
+Před prodloužením platnosti akčního balíčku bude muset globální správce nebo správce účtu vaší společnosti zkontrolovat a aktualizovat informace o vaší společnosti. Mají přístup k profilu vaší společnosti v Partnerské centrum, aby viděli váš stav a pochopili, jaké informace je potřeba aktualizovat. K ověření vašich informací může být potřeba další dokumentace.  
 
- Vaše okno pro obnovení začíná na výročním datu nákupu a navíc za jeden den. Pokud jste například zakoupili sadu Microsoft Action Pack od 1. září 2020, vaše 30denní doba obnovy začíná 2. září 2021. během intervalu obnovování budete mít i nadále přístup k přidruženým výhodám.
+ Vaše prodloužení začíná dnem výročí nákupu plus jeden den. Pokud jste si například 1. září 2020 zakoupili Microsoft Action Pack, vaše 30denní období prodloužení začíná 2. září 2021. V průběhu prodloužení budete mít i nadále přístup k přidruženým výhodám.
 
- Pokud chcete získat další informace, navštivte prosím [nabídku obnovit MPN](renew-mpn-offers.md) .
+ Další informace najdete v článku [Prodloužení platnosti nabídky MPN.](renew-mpn-offers.md)
 
-**Otázka: Jaký je rozdíl mezi Microsoft Action Pack a balíčkem výukových akcí?**
+**Otázka: Jaký je rozdíl mezi akčním balítem Microsoftu a akčním balíčky učení?**
 
-Odpověď: Microsoft Action Pack je portfolio prostředků, které pomůžou partnerům, jako se seznámili s technologiemi Microsoftu a sestavovat vaše řešení nebo službu. Můžete si koupit jednu sadu akcí Microsoft Action Pack, ať už máte kompetenci, nebo ne.
+O: Microsoft Action Pack je portfolio prostředků, které partnerům, jako jste vy, pomáhají seznámit se s technologiemi Microsoftu a vytvářet řešení nebo službu. Můžete si koupit jeden Microsoft Action Pack bez ohledu na to, jestli máte nebo nemáte kompetenci.
 
-Výukový Akční balíček je úroveň vstupu do programu Learning partner. Výukový program poskytuje prostředky pro firmy, které nabízejí technologické školení a/nebo mají výukové postupy. [Výukový Akční balíček](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) nabízí slevy na základě kurzů, Marketplace a výhod, které partnerům pomůžou seznámit se s odborníky v různých řádcích produktů Microsoftu.
-Další informace najdete v [tabulce s licencí](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) pro sadu Microsoft Action Pack a balíček akčních akcí.
+Studijní akční balíček je vstupní úrovní do programu Learning Partner Program. Výukový program poskytuje prostředky pro firmy, které nabízejí školení k technologiím nebo mají výukové postupy. Studijní [akční balíček nabízí](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) slevy na Courseware, Marketplace a výhody, které partnerům pomůžou stát se odborníky v různých produktových řadách Microsoftu.
+Informace o [](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) programu Microsoft Action Pack a výukovém programu najdete v tabulce licencování.
 
-**Otázka:** **co se stane s výhodami pro kompetenci nebo akční balíček během 30denní doby obnovování?**
+**Otázka:** Co se stane s výhodami naší kompetence nebo akčního balíčku **během 30denního období prodloužení?**
 
 Odpověď: v rámci smlouvy MPN budete mít přístup k výhodám programu, pokud je vaše členství aktivní. Po vypršení platnosti členství dojde ke ztrátě přístupu k výhodám.
 
@@ -91,32 +89,32 @@ Odpověď: ne všechny produkty vyžadují kód Product Key. Pro Windows Server 
 
 **Otázka: může získat více kódů Product Key, pokud jsme využili všechny instalace a aktivace?**
 
-Odpověď: některé vydané kódy Product Key jsou vícenásobné aktivační klíče (MAK). Tyto produkty mají omezený počet instalací, aktivací nebo stanic. Kód Product Key přestane fungovat, když budou všechny instalace a aktivace spotřebovány. Další aktivace pro tyto kódy Product Key nebudou udělena.
+O: Některé vydané kódy Product Key jsou klíče k vícenásobné aktivaci (MAK). Tyto produkty mají omezený počet instalací, aktivací nebo licencí. Kód Product Key přestane fungovat, když se spotřebují všechny instalace a aktivace. Další aktivace pro tyto kódy Product Key se neudělí.
 
- Další informace najdete v příručce k programům pro partnery Microsoftu [aka.MS/partner-Benefits-use-Guide](https://aka.ms/partner-benefits-use-guide)
+ Další informace najdete v průvodci programy pro partnery Microsoftu [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Otázka: co dělat v případě, že se rozhodnete Neobnovovat naši kompetenci nebo Microsoft Action Pack, můžou pořád používat místní licence k softwarovému produktu?**
+**Otázka: Co když se rozhodneme pro prodloužení platnosti kompetence nebo programu Microsoft Action Pack, můžeme dál používat licence místních softwarových produktů?**
 
-Odpověď: Ne. Licence k místnímu softwarovému produktu, které jsou součástí dosahování kompetence a Microsoft Action Pack, nejsou trvalé.
-Máte nárok a máte právo používat tyto licence pouze během vašeho členství. Pokud se rozhodnete neobnovit kompetenci nebo akční balíček, budete muset získat licenční práva prostřednictvím komerčního licencování nebo odinstalování jakéhokoli místního softwaru získaného prostřednictvím Microsoft Partner Network.
+Odpověď: Ne. Licence místních softwarových produktů, které jsou součástí dosažení kompetence a programu Microsoft Action Pack, nejsou trvalé.
+Máte nárok a máte právo používat tyto licence pouze během členství. Pokud se rozhodnete neobnovit kompetence nebo akční balíček, budete muset získat licenční práva prostřednictvím komerčních licencí nebo odinstalovat jakýkoli místní software získaný prostřednictvím Microsoft Partner Network.
 
-Další informace najdete v příručce k programům pro partnery Microsoftu [aka.MS/partner-Benefits-use-Guide](https://aka.ms/partner-benefits-use-guide)
+Další informace najdete v průvodci programy pro partnery Microsoftu [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Otázka: má Microsoft Action Pack zahrnovat Visual Studio Enterprise předplatné?**
+**Otázka: Zahrnuje Microsoft Action Pack Visual Studio Enterprise předplatné?**
 
-Odpověď: Ne, sada Microsoft Action Pack zahrnuje pouze Visual Studio Professional odběry.
+O: Ne, Microsoft Action Pack zahrnuje Visual Studio Professional předplatná.
 
-Další informace najdete v příručce k programům pro partnery Microsoftu [aka.MS/partner-Benefits-use-Guide](https://aka.ms/partner-benefits-use-guide)
+Další informace najdete v průvodci programy pro partnery Microsoftu [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Otázka: můžu sdílet předplatná sady Visual Studio, která jsou součástí dosahování kompetence nebo sady Microsoft Action Pack?**
+**Otázka: Můžeme sdílet předplatná Visual Studio, která jsou součástí dosažení kompetence nebo programu Microsoft Action Pack?**
 
-Odpověď: Ne, předplatná sady Visual Studio jsou licencovaná na uživatele a musí být přiřazená a aktivovaná, aby byla platná. Sdílení přihlašovacích údajů pro přihlášení je zakázané.
+O: Ne, Visual Studio předplatná jsou licencovaná pro uživatele a musí být přiřazená a aktivovaná, aby byla platná. Sdílení přihlašovacích údajů je zakázané.
 
-Další informace najdete v příručce k programům pro partnery Microsoftu [aka.MS/partner-Benefits-use-Guide](https://aka.ms/partner-benefits-use-guide)
+Další informace najdete v průvodci programy pro partnery Microsoftu [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Č.** **Jak zjistím, kolik licencí na produkty má naše** **Společnost?**
+**Q.** **Jak víme, kolik licencí k produktu má naše** **společnost?**
 
-A. Můžete zobrazit a spravovat licence k produktům a další výhody, které jsou součástí vašeho nároku na kompetenci nebo sady akcí v partnerském centru. Další informace najdete v informacích o [správě výhod partnerských sítí](manage-your-partner-network-benefits.md).
+A. Můžete zobrazit a spravovat licence produktů a další výhody, které jsou součástí vašeho dosažení kompetence nebo akčního balíčku v Partnerské centrum. Další informace najdete v informacích o [správě výhod partnerských sítí](manage-your-partner-network-benefits.md).
 
 **Č. Jak naše společnost může využít licence k produktu, které jsou k dispozici pro nás prostřednictvím přístupnosti kompetence nebo sady Action Pack?**
 
@@ -133,19 +131,19 @@ A. Licence k produktům, které jsou součástí dosahování kompetence a sady 
 
 **Č. Nedávno jsme sloučili s/získali jinou společnost v Microsoft Partner Network, která má kompetenci. Když použijeme funkci Sloučení účtů v partnerském centru, budeme dostávat všechny naše aktuální licence na produkt?**
 
-A. Nákup kompetence a aktualizace sady Action Pack se dokončí v partnerském centru prostřednictvím globálního účtu partnera. Když použijete funkci Sloučení účtů v partnerském centru, zůstanou stávající výhody každého účtu až do dalšího obnovení. Po obnovení jsou pro globální účet partnera partnerské společnosti implementovány výhody, které jsou součástí cílení na kompetenci a sady Action Pack.
+A. Nákup kompetence a aktualizace sady Action Pack se dokončí v partnerském centru prostřednictvím globálního účtu partnera. Když použijete funkci sloučení účtů v Partnerské centrum, stávající výhody každého účtu zůstanou beze změny až do dalšího prodloužení. Po prodloužení se výhody, které jsou součástí dosažení kompetence a akčního balíčku, implementují pro globální účet partnera partnerské společnosti.
 
--   Microsoft Action Pack: Partnerská společnost může koupit jeden globální účet sady Action Pack na jednoho partnera.
+-   Microsoft Action Pack: Partnerská společnost může zakoupit jeden akční balíček na globální účet partnera.
 
--   Kompetence: Partnerská společnost obdrží jeden balíček základních výhod, které jsou přidružené k jejich nejvyššímu dosahu, a výhody pro konkrétní kompetenci, na které má partner nárok na globální účet partnera.
+-   Kompetence: Partnerská společnost obdrží jeden balíček základních výhod spojených s nejvyšším dosažením a navíc výhody specifické pro kompetence, na které má partner nárok na globální účet partnera.
 
- Přečtěte si informace o [Sloučení účtů](merge-accounts.md) , kde najdete další informace o tom, jak funkce funguje a jak se rozhodnout, jestli je pro potřeby vaší společnosti správné.
+ Přečtěte si informace [o sloučení účtů,](merge-accounts.md) kde najdete další informace o tom, jak tato funkce funguje a jak rozhodnout, jestli je pro potřeby vaší společnosti to správné.
 
-**Č.** **Máme dotazy týkající** **se licencí produktů naší společnosti v partnerském centru. Kde k tomu získáte pomoc?**
+**Q.** **Máme dotazy ohledně licencí** na produkty naší **společnosti v Partnerské centrum. Kde s tím můžeme získat pomoc?**
 
-A. V případě potřeby můžete přejít do [části Podpora partnerského centra](https://partner.microsoft.com/support) , kde najdete odkazy na prostředky, které vám mohou pomoci, nebo otevřít lístek s týmem podpory pro partnery.
+A. Odkazy na prostředky, které můžou být Partnerské centrum, nebo v případě potřeby můžete otevřít lístek u našeho partnerského týmu podpory, přejděte do části Support (Podpora). [](https://partner.microsoft.com/support)
 
 ## <a name="next-steps"></a>Další kroky
 
 - [Vyhledání výhod programu Microsoft Partner Network](mpn-find-benefits.md)
-- [Prodloužit nabídku MPN](renew-mpn-offers.md)
+- [Prodloužení platnosti nabídky MPN](renew-mpn-offers.md)

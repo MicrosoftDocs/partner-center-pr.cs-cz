@@ -1,6 +1,6 @@
 ---
-title: Jak ověřit, že zákazník přijal do programu CSP zákaznickou smlouvu Microsoftu
-description: Partneři poskytovatele Cloud Solution Provider (CSP) musí před objednáním služeb Microsoft pro zákazníky potvrdit přijetí smlouvy se zákazníkem Microsoftu.
+title: Jak potvrdit, že zákazník přijal Smlouva se zákazníkem Microsoftu programu CSP
+description: Cloud Solution Provider (CSP) musí před objednání zákazníků potvrdit přijetí podmínek Smlouva se zákazníkem Microsoftu zákazníkem služby Microsoft zákazníka.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,42 +9,39 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: ebb52a3a8223d3b1101e3a8e78728fcc167e25e3
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: c75f129ae5a0755833462138f60901cc7ff36732
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633774"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148512"
 ---
-# <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Jak ověřit, že zákazník přijal do programu CSP zákaznickou smlouvu Microsoftu
+# <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Jak potvrdit, že zákazník přijal Smlouva se zákazníkem Microsoftu programu CSP
 
-**Příslušné role**
-
-- Agent správce
-- Agent prodeje
+**Odpovídající role:** Agent pro správu | Agent prodeje
 
 
-Zákazníci mají dvě možnosti, jak přijmou zákaznickou smlouvu Microsoftu.
+Zákazníci mají dvě možnosti, jak přijmou Smlouva se zákazníkem Microsoftu.
 
-**Možnost 1**: ověření partnerského serveru pro přijetí u zákazníka – partner může potvrdit přijetí zákazníkovi pomocí rozhraní API pro partnerské centrum a sady SDK nebo prostřednictvím řídicího panelu partnerského centra.
+**Možnost 1:** Ověření souhlasu partnera se zákazníkem – Partner může potvrdit přijetí u zákazníka pomocí Partnerské centrum API nebo sady SDK nebo prostřednictvím řídicího panelu Partnerské centrum serveru.
 
-**Možnost 2**: přímé přijetí zákazníkem – partner může pozvat zákazníka přes adresu URL, aby si tuto smlouvu zkontroloval a přijal v centru pro správu Microsoft 365.
+**Možnost 2:** Přímé přijetí zákazníkem – Partner může pozvat zákazníka prostřednictvím adresy URL a zkontrolovat a přijmout smlouvu v centru Microsoft 365 pro správu.
 
-## <a name="access-microsoft-customer-agreement-template"></a>Přístup k šabloně zákaznických smluv Microsoftu
+## <a name="access-microsoft-customer-agreement-template"></a>Šablona Smlouva se zákazníkem Microsoftu přístupu
 
-Nejnovější verzi šablony zákaznických smluv od Microsoftu si můžete stáhnout [ručně.](https://aka.ms/customeragreement) Smlouva o zákaznících Microsoftu je specifická pro danou zemi. Při požadavku na šablonu smlouvy o zákaznících Microsoftu nezapomeňte vybrat správnou zemi na základě umístění zákazníka.
+Nejnovější verzi této šablony si můžete Smlouva se zákazníkem Microsoftu stáhnout [tady.](https://aka.ms/customeragreement) Tento Smlouva se zákazníkem Microsoftu je specifický pro jednotlivé země. Při Smlouva se zákazníkem Microsoftu šablony aplikace nezapomeňte vybrat správnou zemi na základě polohy zákazníka.
 
-## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Možnost 1: potvrzení přijetí zákazníkem v partnerském centru
+## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Možnost 1: Potvrzení přijetí zákazníkem v Partnerské centrum
 
-Partneři s přímým účtováním můžou potvrdit přijetí smlouvy o zákaznících Microsoftu v partnerském centru pro zákazníky, kteří mají nové a stávající zákazníky. Nepřímí prodejci nemůžou v zastoupení svých zákazníků ověřit platnost a při provádění ověření identity musí spolupracovat s jejich nepřímým zprostředkovatelem.
+Partneři s přímým vyúčtováním mohou potvrdit souhlas zákazníka s Smlouva se zákazníkem Microsoftu v Partnerské centrum pro nové i stávající zákazníky. Nepřímí prodejci nemohou provést ověření jménem svých zákazníků a potřebují spolupracovat se svým nepřímým poskytovatelem na dokončení ověření identity.
 
-### <a name="confirm-customer-acceptance-for-new-customers"></a>Potvrďte přijetí zákazníkovi pro nové zákazníky
+### <a name="confirm-customer-acceptance-for-new-customers"></a>Potvrzení souhlasu zákazníka s novými zákazníky
 
-Při vytváření nového tenanta zákazníka v partnerském centru použijte následující postup k potvrzení souhlasu zákazníka s zákaznickou smlouvou Microsoftu. K provedení těchto kroků musíte být agentem správce nebo prodejní agent.
+Když vytvoříte nového tenanta zákazníka v Partnerské centrum, pomocí následujících kroků potvrďte souhlas zákazníka s Smlouva se zákazníkem Microsoftu. K provedení těchto kroků musíte být agentem pro správu nebo agentem Sales.
 
-1. Vyberte **zákazníci** a pak **Nový zákazník**.
+1. Vyberte **Customers (Zákazníci)** a pak **New customer (Nový zákazník).**
 
-2. V části **informace o účtu** zadejte informace pro společnost a její primární kontakt.
+2. V **části Informace o** účtu zadejte informace o společnosti a jejím primárním kontaktu.
 
 3. V části **smlouva Microsoft** zaškrtněte políčko s potvrzením, že zákazník přijal zákaznickou smlouvu Microsoftu.
 

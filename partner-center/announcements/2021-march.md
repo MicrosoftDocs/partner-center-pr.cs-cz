@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 3d91eb26f98005b92a48c6f242ea4439e42cde05
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: b503e928b1491d5c2c70ac52460080f9e1ba91b8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702871"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150110"
 ---
 # <a name="march-2021-announcements"></a>Oznámení z března 2021
 
@@ -47,14 +47,14 @@ Odpověď vrátí jednu z následujících stavových zpráv:
 |-------|---------------|-------------------|
 |Ověřené pro přepravce | Adresa je ověřena a může být expedována. | Jednoduché |
 |Ověřují | Adresa je ověřena. | Jednoduché |
-|Je vyžadována interakce | Navrhovaná adresa se významně změnila a potřebuje potvrzení uživatele. | Jednoduché |
-|Částečně ulice | Daná ulice v adrese je částečně a potřebuje další informace. | Více – maximálně tři |
-|Částečně místní | Dané prostory (stavební číslo, číslo sady a další) jsou částečné a vyžadují další informace. | Více – maximálně tři |
-|Několik | Adresa obsahuje několik polí, která jsou v této adrese částečně (případně i částečně a částečně v ulici). | Více – maximálně tři |
-|Žádné | Adresa je nesprávná. | Žádné |
-|Není ověřeno. | Adresu nelze odeslat prostřednictvím procesu ověřování. | Žádné |
+|Požadovaná interakce | Navrhovaná adresa se výrazně změnila a vyžaduje potvrzení uživatele. | Jednoduché |
+|Částečná ulice | Ulice v adrese je částečná a potřebuje další informace. | Více – maximálně tři |
+|Částečně místní | Dané prostory (číslo budovy, číslo sady a další) jsou částečné a potřebují další informace. | Více – maximálně tři |
+|Několik | Adresa obsahuje několik polí, která jsou částečná (potenciálně zahrnují i částečná ulice a částečná místně). | Více – maximálně tři |
+|Žádná | Adresa je nesprávná. | Žádná |
+|Není ověřeno. | Adresu nebylo možné odeslat prostřednictvím procesu ověřování. | Žádná |
 
-PSČ US vrátí další 4 číslice + spojovník – například 12345-6789.
+Poštovní kódy v USA vrátí další 4 číslice + spojovník – například 12345-6789.
 
 Jakmile je adresa odeslána k ověření prostřednictvím rozhraní API pro ověření adresy, vrátí se následující schéma odpovědi:
 
@@ -99,7 +99,7 @@ public class AddressValidationResponse
    public string ValidationMessage { get; set; }
    ```
 
-Podívejte se na tuto ukázkovou odpověď. Všimněte si, že pro nás odpověď vrátí další příponu se čtyřmi číslicemi, pokud pro PSČ zadáte jenom pět číslic.
+Podívejte se na tuto ukázkovou odpověď. Všimněte si, že pro USA vrátí odpověď další čtyřmístné přípony pro řádek PSČ, pokud zadáte jenom pět číslic PSČ.
 
 ```csharp
 
@@ -124,13 +124,13 @@ Podívejte se na tuto ukázkovou odpověď. Všimněte si, že pro nás odpově�
 
 ### <a name="next-steps"></a>Další kroky
 
-- Sdílejte své ID tenanta izolovaného prostoru s odborníkem na danou problematiku (Ali pískově), abyste mohli začít připravovat aktualizaci.
+- Podělte se o SVÉ ID tenanta sandboxu s odborníkem na předmět (Ali Protoki), který se zahrne do testovacího letu, abyste se mohli začít připravovat na aktualizaci.
 
-- Pokud používáte řešení v rámci ovládacího panelu (CPV), obraťte se na CPV.
+- Pokud používáte řešení dodavatele ovládacích panelů (CPV), obraťte se na svého dodavatele CPV.
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud potřebujete podporu pro vaše operace s Microsoftem, obraťte se na svého partnera, který podporuje skupinu Yammer.
+Pokud potřebujete podporu pro vaše operace s Microsoftem, oslovte svou partnerskou podporu ve skupině Yammeru.
 
 ### <a name="change-log"></a>Protokol změn:
 
@@ -182,76 +182,76 @@ K usnadnění navigace v novém prostředí jsou k dispozici videa v části **�
 Jakékoli otázky týkající se těchto změn najdete v příslušných komunitách Yammeru.
 
 ________________
-## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Operace s Microsoftem: Úvod do kalendářního spuštění produktu
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Operations: Představujeme kalendář uvedení produktu na trh
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-25
+- Datum: 25. 3. 2021
 - Nabídky | Moderní pracoviště
 
 ### <a name="summary"></a>Souhrn
 
-V reakci na zpětnou vazbu od partnerů budou operace společnosti Microsoft zjednodušovat komunikaci při spuštění produktu.
+V reakci na zpětnou vazbu od partnerů provozní operace Microsoftu zjednoduší komunikaci pro uvedení produktů na trh.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Partneři poskytovatele Cloud Solution Provider (CSP)
+Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Podrobnosti
 
-Společnost Microsoft se zavazuje nepřetržitě zdokonalit partnerské prostředí. Máme vám zpětnou vazbu od vás, že od Microsoftu jste obdrželi příliš mnoho komunikací, včetně duplicitních oznámení o spuštění produktu.
+Microsoft se zavazuje, že bude partnerská prostředí neustále vylepšovat. Obdrželi jsme od vás zpětnou vazbu, že od Microsoftu dostáváte příliš mnoho komunikací, včetně duplicitních oznámení o uvedení produktu na trh.
 
-V reakci na vaši zpětnou vazbu společnost Microsoft zjednodušila možnosti připravenosti na spuštění produktů pro nové a stávající nabídky.
+V reakci na vaši zpětnou vazbu Microsoft zjednodušil prostředí připravenosti pro uvedení produktů na trh pro nové i stávající nabídky.
 
-Teď vám nabízíme měsíční pohled na spuštění produktu, který je publikovaný v galerii prostředků připravenosti na operace. Tento měsíční [Náhled spuštění produktu](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) nahradí konkrétní komunikaci na spuštění produktu v galerii prostředků připravenosti na operace a v oznámeních partnerského centra.
+Nyní vám poskytujeme jedno měsíční zobrazení uvedení produktů na trh, které je publikováno v galerii zdrojů informací o připravenosti provozu. Toto zobrazení [měsíčního kalendáře spuštění produktu](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) nahradí komunikaci o spuštění jednotlivých produktů v galerii zdrojů provozní připravenosti a v Partnerské centrum oznámení.
 
-K tomuto [kalendáři](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) můžete také přistupovat z [kolekcí komunit](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/), [zobrazení kalendáře](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)a [bulletinů CSP](https://partner.microsoft.com/resources/collection/csp-monthly-update#/). Když publikujete kalendář pro spuštění produktu měsíčně s oznámením v galerii prostředků připravenosti na provoz, pošleme vám oznámení.
+Ke kalendáři pro spuštění tohoto [produktu se můžete také přihlásit z](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) komunitní [kolekce,](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [zobrazení kalendáře](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)a [bulletinů CSP.](https://partner.microsoft.com/resources/collection/csp-monthly-update#/) Jakmile každý měsíc publikujete kalendář spuštění produktu, upozorníme vás oznámením v galerii prostředků provozní připravenosti.
 
-Informace týkající se nové a stávající nabídky najdete pořád v protokolech pro náhled ceníku a v protokolech změn ceníku a také v blogu k produktům, licenčních průvodcích a na stránkách pro marketing produktů.
+Informace týkající se nových a stávajících nabídek najdete i v protokolech změn ceníku a ceníku a také v blogech o produktech, průvodcích licencování a marketingových stránkách produktů.
 
-Tato změna se bude vztahovat na spuštění následujících produktů:
+Tato změna se bude vztahovat na starty následujících produktů:
 
-- Místní aplikace Dynamics
+- Místní Dynamics
 - Microsoft 365
 - Microsoft Dynamics 365
 - Windows
 - Server  
 - nástroje
-- Týmy a výpovědi
+- Teams a Telco
 
-Budeme dál posílat konkrétní oznámení ke spuštění produktu, které vyžaduje podrobnosti o připravenosti na operace.
+Budeme pokračovat v odesílání konkrétních oznámení o uvedení produktů, která vyžadují podrobnosti o připravenosti provozu.
 
 ### <a name="next-steps"></a>Další kroky
 
-Projděte si materiály k tomuto tématu a sdílejte tyto informace s příslušnými zúčastněnými stranami ve vaší organizaci.
+Prohlédněte si materiály k tomuto tématu a podělte se o tyto informace s příslušnými účastníky ve vaší organizaci.
 
 ### <a name="questions"></a>Máte otázky?
 
-Další otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru.
+Pokud máte další dotazy k těmto nabídekm, podívejte se na příslušné komunity Yammeru.
 
 ________________
-## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Změny požadavků na registraci zprostředkovatele CSP pro zákazníky
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Změny požadavků na onboarding zákazníků CSP
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-25
+- Datum: 25. 3. 2021
 - Možnosti
 
 ### <a name="summary"></a>Souhrn
 
-V rámci našeho závazku pomáhat partnerům a zákazníkům, kteří provozují své podnikání na základě důvěry, budeme požadovat další informace o zákaznících, účinnost 25. března 2021.
+V rámci našeho závazku pomáhat partnerům a zákazníkům s provozem firmy na základě důvěry si vyžádáme další informace o zákaznících s účinností od 25. března 2021.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Partneři poskytovatele Cloud Solution Provider (CSP) a nepřímá poskytovatelé, kteří mají nové nebo existující zákazníky v zemích uvedených v další části
+Cloud Solution Provider (CSP) s přímým vyúčtováním a nepřímými poskytovateli, kteří mají nové nebo stávající zákazníky v zemích uvedených v další části.
 
 ### <a name="details"></a>Podrobnosti
 
-Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečné a zabezpečené metody ověřování zákazníků pro transakce předplatných zákazníka v programu CSP. 25. března 2021 budeme zavádět vylepšení rozhraní API partnerského centra a uživatelského rozhraní, které bude mít vliv na partnery, kteří splňují obě následující kritéria:
+Microsoft běží na vztahu důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečnou a zabezpečenou metodu ověřování zákazníků pro transakce zákaznických předplatných v programu CSP. 25. března 2021 představíme vylepšení rozhraní Partnerské centrum API Partnerské centrum uživatelského rozhraní, která ovlivní partnery, kteří splňují obě následující kritéria:
 
-1. Partner má přímý fakturační vztah s Microsoftem (to znamená, že partner je buď přímým partnerem, nebo nepřímým poskytovatelem).
+1. Partner má vztah přímé fakturace s Microsoftem (to znamená, že partner je partner s přímým vyúčtováním nebo nepřímý poskytovatel).
 
-2. Partner pracuje s novými nebo stávajícími zákazníky v těchto zemích:
+2. Partner spolupracuje s novými nebo stávajícími zákazníky v následujících zemích:
 
     - Thajsko
     - Vietnam
@@ -267,11 +267,11 @@ Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující
     - Spojené arabské emiráty
     - Venezuela
 
-Partneři, kteří splňují kritéria, budou muset odeslat **registrační ID společnosti** zákazníka (označované také jako **DIČ organizace** zákazníka) a **telefonní číslo** , když připojí nové zákazníky nebo změní stávající podrobnosti o zákaznících. Tito partneři můžou volitelně zadat také **druhé jméno** zákazníka.
+Partneři, kteří splňují tato kritéria, budou muset při onboardování nových zákazníků nebo  úpravě stávajících podrobností o zákaznících odeslat **ID** registrace společnosti zákazníka (označované také jako **INN** organizace zákazníka) a telefonní číslo. Tito partneři můžou volitelně zadat také **druhé jméno** zákazníka.
 
-Všimněte si, že při přidání registračního ID vaší společnosti byste měli použít své obchodní daňové ID, nikoli osobní ID zákazníka.
+Upozorňujeme, že když přidáte ID registrace společnosti, měli byste použít své DIČ, a ne osobní ID zákazníka.
 
-Partneři, kteří pracují s novými nebo stávajícími zákazníky v následujících zemích, už jsou připojení k předchozí verzi v listopadu 2020.
+Partneři, kteří podniká s novými nebo stávajícími zákazníky v následujících zemích, jsou už v listopadu 2020 onboardované s předchozím vydáním.
 
 - Arménie
 - Ázerbájdžán
@@ -285,94 +285,94 @@ Partneři, kteří pracují s novými nebo stávajícími zákazníky v následu
 - Ukrajina
 - Uzbekistán
 
-Partneři se zákazníky ve zbývající části světa budou mít možnost 25. března 2021 pro zadání **ID registrace společnosti**, **telefonního čísla** a **středního jména** pro zákazníky jako volitelné podrobnosti.
+Partneři se zákazníky ve zbytku světa budou mít možnost 25. března 2021 zadat  jako volitelné podrobnosti **ID** registrace **společnosti,** telefonní číslo a prostřední jméno pro zákazníky.
 
 ### <a name="next-steps"></a>Další kroky
 
-- Podrobnější pokyny najdete v technické dokumentaci a nejčastější dotazy v [kolekci vyhrazených partnerů](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) .
+- Podrobnější pokyny najdete v technické dokumentaci [](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) a nejčastějších dotazech ve vyhrazené kolekci partnerů.
 
-- Připravte se na začlenění změn pomocí rozhraní API partnerského centra a uživatelského prostředí pro web. Pro testování bude k dispozici rozhraní API/sady SDK.
+- Připravte se na začlenění změn pomocí rozhraní PARTNERSKÉ CENTRUM API a webového uživatelského prostředí. Rozhraní API nebo sdk budou k dispozici pro testování.
 
-- Nezapomeňte odeslat další data při připojování nových zákazníků nebo úpravách stávajících informací o zákaznících.
+- Při onboardingu nových zákazníků nebo úpravě stávajících podrobností o zákaznících nezapomeňte odeslat další data.
 
-- Pokud používáte řešení v rámci ovládacího panelu (CPV), obraťte se na CPV.
+- Pokud používáte řešení dodavatele ovládacích panelů (CPV), obraťte se na svého dodavatele CPV.
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud máte dotazy související s platným identifikátorem (označovaným také jako DIČ nebo DIČ), kontaktujte daňového poradce nebo místní finanční kancelář. Microsoft nemůže poskytnout pokyny k daňovým aspektům.
+Pokud máte nějaké dotazy související s právním identifikátorem (nazývaným také "INN" nebo "TIN"). Microsoft nemůže poskytnout pokyny k daňovým záležitostem.
 
-Pokud potřebujete podporu v rámci svých operací s Microsoftem, [otevřete žádost o služby](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Pokud ve svých operacích s Microsoftem potřebujete podporu, [otevřete žádost o služby.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 ________________
-## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Opravy provedené 1. března 2021, což je trvalá Ceníková cena softwaru
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Opravy provedené k 1. březnu 2021 – ceník časově neomezeného softwaru
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-23
+- Datum: 23. 3. 2021
 - Nabídky/trhy
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Nepřímá poskytovatelé a Přímí partneři poskytující transakční transakce s probíhajícím softwarem v programu Cloud Solution Provider 
+Nepřímí poskytovatelé a partneři s přímým vyúčtováním, kteří v programu Cloud Solution Provider software 
 
 ### <a name="details"></a>Podrobnosti
 
-Ceník pro trvale zpracovaný software zveřejněný 1. března 2021 zahrnoval trhy, které by se tam nemusely nastavovat. Ceník trvalého softwaru byl aktualizován 17. března 2021 se opravami. Tyto opravy byly platné pouze pro:
+Ceník pro časově neomezené software zveřejněný 1. března 2021 zahrnoval trhy, které tam neměly být. 17. března 2021 se ceník časově neomezeného softwaru aktualizoval opravami. Tyto opravy se vztahují pouze na:
 
 - ID produktu: DF77X4D43RKT 
-- Název produktu: upgrade Windows 10 Home na verzi pro pro Microsoft 365 Business
-- Odebrané nebo nepodporované trhy: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, ČERNOBÍLé, by, BZ, CI, CL, CM, CO, CR, SH, DO, DZ, ES, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, SWEETIQ, JM, JO, KE, KG, KN, KW, KY, KZ, CR, LK, LY, MA, MC, MD, já, MN, M0, , NI,, NP, OM, PA, PE, PH, PK, PR, PY, QA, R, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, G, UY, UZ, VE, VN, BE, ZM, ZW
+- Název produktu: Windows 10 Home na Upgrade Pro pro Microsoft 365 Business
+- Trh odebrání nebo nepodporovaný trh: AE, AF, AL, AM, AO, BA, BB, BD, PO, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, NC, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KW, KW, KY, KZ, LB, LK, LY, MA, MC, MD, ME, MN, MO, MU, NA, NG , NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
 
-Tyto změny se vztahují pouze na výše uvedený produkt. Jiné produkty neobsahovaly žádné opravy. 
+Tyto změny se vztahují pouze na výše uvedený produkt. Ostatní produkty nemají žádné opravy. 
 
 ### <a name="next-steps-and-resources"></a>Další kroky a zdroje informací
 
-- Partneři, kteří pracují s nezpracovaným softwarem, by si měli stáhnout nejnovější Ceník softwaru s trvalou cenou.
-- V části [kódy zemí v oblasti](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries) najdete popisné mapování obou zkratek na země.
+- Partneři, kteří provádí transakce s časově trvalým softwarem, by si měli stáhnout nejnovější ceník časově neomezeného softwaru.
+- Popisné [mapování dvousmenné](/azure/marketplace/commercial-marketplace-co-sell-countries) zkratky na země najdete v kódech zemí v jednotlivých oblastech.
 ________________
-## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> Vydání sady SDK na .NET Standard (v 1.17.0)
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> Vydání sady SDK na .NET Standard (v1.17.0)
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-23
+- Datum: 23. 3. 2021
 
 - Možnosti
  
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Přímé partnery a nepřímá poskytovatelé, kteří se účastní programu CSP, kteří používají sadu SDK pro partnerských Center.
+Partneři s přímým vyúčtováním a nepřímí poskytovatelé účastnící se programu CSP, kteří používají Partnerské centrum .NET SDK.
 
 ### <a name="details"></a>Podrobnosti
 
-Od března 23 2020 můžou partneři začít stahovat verzi [MicrosoftPartnerCenter. NETSDK (galerie NuGet | Microsoft. Store. PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)spolu s aktualizovanými [ukázkami](https://github.com/Microsoft/Partner-Center-DotNet-Samples)služby Public partner Center SDK GitHub. Tato verze zahrnuje aktualizace následujících metod:
+Od 23. března 2020 mohou partneři začít stahovat verzi [sady MicrosoftPartnerCenter.NETSDK (Galerie NuGet | Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)a aktualizované ukázky SDK pro Partnerské centrum [GitHubu.](https://github.com/Microsoft/Partner-Center-DotNet-Samples) Tato verze zahrnuje aktualizace následujících metod:
 
-#### <a name="audit-updated-new-operation-types"></a>Audit byl aktualizován: nové typy operací
+#### <a name="audit-updated-new-operation-types"></a>Audit aktualizován: Nové typy operací
 
-Přidání nových [typů operací](https://docs.microsoft.com/partner-center/develop/auditing-resources) pro znalost, kdy zákazník schválil a ukončil DAP.
+Přidali [jsme nové typy operací,](/partner-center/develop/auditing-resources) které vám poví, kdy zákazník DAP schválil a ukončil.
 
 - DapAdminRelationshipApproved
 
 - DapAdminRelationshipTerminated
 
-#### <a name="audit-updated-new-resource-and-operation-types"></a>Audit byl aktualizován: nové typy prostředků a operací
+#### <a name="audit-updated-new-resource-and-operation-types"></a>Audit aktualizován: Nové typy prostředků a operací
 
-Přidali jsme nové [typy prostředků a operací](https://docs.microsoft.com/partner-center/develop/auditing-resources) pro podporu scénáře role adresáře zákazníka.
+Přidání nových [typů prostředků a operací](/partner-center/develop/auditing-resources) pro podporu scénáře role adresáře zákazníka
 
-- Nový typ prostředku "CustomerDirectoryRole"
+- Nový typ prostředku CustomerDirectoryRole
 
-- Typy operací "AddUserMember" a "RemoveUserMember"
+- Typy operací AddUserMember a RemoveUserMember
 
-#### <a name="sdk-updates-to-customer-accounts"></a>Aktualizace sady SDK u zákaznických účtů
+#### <a name="sdk-updates-to-customer-accounts"></a>Aktualizace sady SDK pro zákaznické účty
 
-- Podpora pro GET/customers/{customer-tenant-id}/directSignedMicrosoftCustomerAgreementStatus
+- Podpora pro GET /customers/{id_tenanta_zákazníka}/directSignedMicrosoftCustomerAgreementStatus
 
-- ZÍSKAT/Customers/{Customer-tenant-ID}/Qualifications
+- GET /customers/{id-tenanta zákazníka}/kvalifikace
 
-- POST/Customers/{customer_id}/Qualifications? Code = {validationCode}
+- POST /customers/{customer_id}/qualifications?code={validationCode}
 
 #### <a name="additional-changes"></a>Další změny
 
-V rámci nového obchodu byly zavedeny následující změny, které jsou aktuálně k dispozici pouze partnerům, kteří jsou součástí M365/D365 New Commerce Experience Technical Preview. Partneři, kteří nejsou součástí nové verze nástroje Commerce Technical Preview, by neměli poznamenat dopady a měly by být zpětně kompatibilní.
+Následující změny jsou zavedené v rámci nového obchodování a jsou v současné době dostupné pouze na základě pozvánek partnerům, kteří jsou součástí prostředí M365/D365 New Commerce technical preview. Partneři, kteří nejsou součástí nového obchodního technical preview by si neměli všimnout dopadu a měli by být zpětně kompatibilní.
 
 - Změny katalogu:
 
@@ -409,40 +409,40 @@ Nepřímá poskytovatelé a přímá Partnerská partneři v programu Cloud Solu
 
 Pokračujte v učení o této nabídce komerčního webu Web Marketplace níže a kontaktujte své zákazníky ještě dnes a Identifikujte správné nabídky, které umožní jejich pokračující úspěšnost a digitální transformaci.
 
-Spolupracujeme s nezávislými výrobci softwaru (ISV) za účelem uvedení nejnovějších řešení IaaS a SaaS na trh pro zákazníky Microsoftu. Vydavatelé ISV mají možnost povolit prodej svých nabídek prostřednictvím kanálu Microsoft Partner. Naše pobídkové nabídky spadají do dvou kategorií:
+Spolupracujeme s nezávislými výrobci softwaru (ISV) za účelem uvedení nejnovějších řešení IaaS a SaaS na trh pro zákazníky Microsoftu. Vydavatelé ISV mají možnost povolit prodej svých nabídek prostřednictvím kanálu Microsoft Partner. Naše nabídky s nárokem na pobídky spadají do dvou kategorií:
 
-- Vyberte SaaS a IaaS nabídky třetích stran pomocí Azure IP spoluprodejního stavu motivovaní. 
+- Vyberte Nabídky SaaS a IaaS třetích stran s incentivizovaným stavem spoluprodávku IP Azure. 
 
-- SaaS aplikace integrované s týmy nebo aspoň dvě Microsoft 365 kancelářské aplikace, jako je PowerPoint, Word, Excel, Outlook nebo SharePoint.
+- Aplikace SaaS integrované s Teams nebo alespoň dvě Microsoft 365, jako jsou PowerPoint, Word, Excel, Outlook nebo SharePoint.
 
 ### <a name="next-steps-and-resources"></a>Další kroky a zdroje informací
 
-- Přečtěte si, jak získat [pobídky partnerských](https://partner.microsoft.com/membership/partner-incentives) webů pro prodej oprávněných aplikací na webu Marketplace. Nové nabídky se přidávají měsíčně.  
-- [Prostředky pro definanční partnery poskytovatele Cloud Solution Provider Direct](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
-- [Prostředky pro motivaci nepřímých poskytovatelů Cloud Solution Provider](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
-- Přečtěte si tuto [prezentaci](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf) , kde najdete další informace o prodeji komerčních aplikací z webu Marketplace. Další materiály najdete [tady](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/). 
-- Prozkoumejte katalog komerčního tržiště v [partnerském centru](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-discover) nebo [Azure Portal](https://ms.portal.azure.com/#home)
-- Použití [rozhraní API](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) k integraci aplikací do Marketplace vaší společnosti
-- Přihlaste se k nezávislým výrobcům softwaru, se kterým se zajímá vaše podnikání
-- Neposkytovatelé nepřímých zprostředkovatelů potřebují integrovat pomocí rozhraní API a prodejců s postupy, na kterých se aplikace prodávají.
+- Přečtěte si o [příjmech pobídek pro partnery za](https://partner.microsoft.com/membership/partner-incentives) prodej oprávněných aplikací z marketplace, které jsou způsobilými pro pobídky. Nové nabídky se přidávají každý měsíc.  
+- [Cloud Solution Provider prostředků pobídek pro partnery s přímým vyúčtováním](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
+- [Cloud Solution Provider prostředků pobídek nepřímých poskytovatelů](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
+- Další informace [o prodeji](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf) aplikací komerčního marketplace najdete v této prezentaci. Další zdroje informací najdete [tady.](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/) 
+- Prozkoumejte katalog komerčního marketplace v [Partnerské centrum](../csp-commercial-marketplace-discover.md) [nebo Azure Portal](https://ms.portal.azure.com/#home)
+- Integrace [aplikací do](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) firemního marketplace pomocí rozhraní API
+- Oslovte isv, se kterou máte zájem podnikat.
+- Nepřímí poskytovatelé se musí integrovat s využitím rozhraní API a vést prodejce, na kterých aplikacích se má prodávat.
 
 ### <a name="questions"></a>Máte otázky?  
 
-V [tomto článku](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-overview) najdete přehled komerčního tržiště v partnerském centru.
+V tomto [článku najdete](../csp-commercial-marketplace-overview.md) přehled komerčního marketplace v Partnerské centrum.
 
-Pokud potřebujete další pomoc, můžete vytvořit žádost o podporu v partnerském centru. Další informace najdete na adrese [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1) .
+Pokud potřebujete další pomoc, můžete žádost o podporu vytvořit v Partnerské centrum. Další informace najdete na adrese [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1) .
 
 ________________
-## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Power BI Premium nabídky pro pojmenování a požadované aktualizace
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Power BI Premium nabídky pojmenování a aktualizace předpokladů
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-18
+- Datum: 18. 3. 2021
 - Možnosti
 
 ### <a name="summary"></a>Souhrn
 
-Konečný Ceník od 1. dubna 2021 se aktualizuje, aby se zvýšila přesnost na pojmenování a informace o požadavcích pro Power BI Premium pro jednotlivé uživatele.
+Finální ceník pro 1. dubna 2021 se aktualizuje, aby byl srozumitelný pro pojmenování a/nebo požadované informace pro Power BI Premium na uživatele.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
@@ -468,46 +468,46 @@ Aby si zákazníci mohli koupit tuto nabídku, musí mít některý z následuj�
 |   Microsoft 365 E5 bez audio Conferencing (ceny neziskových zaměstnanců)|  b456810a-c414-4e07-98fc-ef74e8175a09|
 |   Office 365 E5 (ceny neziskových zaměstnanců)| ce139fe5-8bd5-47ed-a5be-07c286f8b9e    |
 |   Zkušební verze Office 365 E5 (ceny neziskových zaměstnanců)|  2f192efe-608a-4c9c-9d19-2b0b70b0962e|
-|   Office 365 E5 bez audio Conferencing (ceny za neziskové zaměstnance)|  c3897426-9f49-4eaf-9b4d-7d9a1c72aef7|
+|   Office 365 E5 bez audiokonference (ceny pro neziskové pracovníky)|  c3897426-9f49-4eaf-9b4d-7d9a1c72aef7|
 
-Pro nákup je nutné mít následující nabídku Power BI Premium:
+Následující Power BI Premium má požadavek na nákup:
 
-| Zobrazované jméno nabídky | ID nabídky |
+| Zobrazovaný název nabídky | ID nabídky |
 | ------ | ----------- |
-|   Power BI Premium Add-On na uživatele (ceny neziskových zaměstnanců)|  ef0b895b-681B-4026-a5b1-dda182a57d40 |
+|   Power BI Premium na uživatele Add-On (ceny pro neziskové pracovníky)|  ef0b895b-681b-4026-a5b1-dda182a57d40 |
 
-Aby si zákazníci mohli koupit tuto nabídku, musí mít tyto předpoklady:
+Zákazníci musí mít tento požadavek na nákup této nabídky:
 
-| Zobrazované jméno nabídky | ID nabídky |
+| Zobrazovaný název nabídky | ID nabídky |
 | ------ |----------|
-| Power BI Pro (ceny neziskových zaměstnanců)  |   cabdfc93-5786-4224-bfd3-35d58f833b35 |
+| Power BI Pro (ceny pro neziskové pracovníky)  |   cabdfc93-5786-4224-bfd3-35d58f833b35 |
 
 ### <a name="next-steps"></a>Další kroky
 
-Projděte si materiály k tomuto tématu a sdílejte tyto informace s příslušnými zúčastněnými stranami ve vaší organizaci.  
+Prohlédněte si materiály k tomuto tématu a podělte se o tyto informace s příslušnými účastníky ve vaší organizaci.  
 
 ### <a name="questions"></a>Máte otázky?
 
-Jakékoli otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru. 
+Pokud máte jakékoli dotazy k těmto nabídekm, podívejte se na příslušné komunity Yammeru. 
 
-## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a> Aktualizace ceny pro Microsoft 365 F3 v březnu
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a> Březnové aktualizace cen pro Microsoft 365 F3
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-16
+- Datum: 16. 3. 2021
 - Nabídky/trhy
 
 ### <a name="summary"></a>Souhrn
 
-Nesprávná cena z března 2021 byla opravena pro Microsoft 365 F3, British (GBP) a eura (EUR).
+Nesprávná cena z března 2021 byla opravena pro Microsoft 365 F3 British Pound (GBP) a Euro (EUR).
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Partneři kupují Microsoft 365 F3 v GBP nebo EUR v rozmezí od 1. března 2021 v rámci programu Cloud Solution Provider (CSP).
+Partneři, Microsoft 365 od 1. března 2021 do 17. března 2021 prostřednictvím programu Cloud Solution Provider (CSP) F3 v GB nebo EUR.
 
 ### <a name="details"></a>Podrobnosti
 
-Společnost Microsoft vyřešila nesprávné ceny za Microsoft 365 F3. Nesprávné ceny jsou pro GBP a EUR a jenom pro nabídky zakoupené v rozmezí od 1. března 2021. Ovlivněné nabídky a měny jsou uvedeny níže. 
+Microsoft vyřešil nesprávné ceny pro Microsoft 365 F3. Nesprávné ceny byly pro GB/s a EUR a pouze pro nabídky zakoupené od 1. března do 17. března 2021. Ovlivněné nabídky a měny jsou uvedené níže. 
 
 | Název nabídky | Měna | ID nabídky | ID materiálu |
 | ------ |----------- |----------- |----------- |
@@ -546,44 +546,44 @@ Partneři programu MPN a neposkytovatelé nepřímých poskytovatelů CSP (nepla
 
 Od března 2021 partneři programu MPN a nepřímý prodej CSP můžou aktualizovat svůj právní název společnosti prostřednictvím partnerského centra v souladu se svým vlastním způsobem. S touto novou funkcí už partneři nebudou muset odeslat lístek podpory pro partnerský partner, aby aktualizovali jeho název společnosti. Tím se při provádění těchto aktivit uloží značná doba pro partnery. 
 
-Další informace najdete v tématu [aktualizace svého obchodního profilu](../update-your-partner-profile.md#update-your-legal-business-profile).
+Další informace najdete v tématu [Aktualizace vašeho zákonného obchodního profilu.](../update-your-partner-profile.md#update-your-legal-business-profile)
 
 >[!NOTE]
->Ujistěte se, že název společnosti ve vašem oficiálním obchodním profilu není bez pravopisných chyb a zkratek a přesně odpovídá vašim oficiálním registračním záznamům společnosti. Další informace o aktualizaci profilu vaší organizace najdete v tématu [ověření profilu vaší organizace](../update-your-partner-profile.md#update-your-legal-business-profile).
+>Zajistěte, aby název společnosti ve vašem oficiálním obchodním profilu bez pravopisných chyb a zkratek a přesně odpovídal oficiálním záznamům o firemní registraci. Další informace o aktualizaci profilu organizace najdete v tématu [Ověření profilu organizace.](../update-your-partner-profile.md#update-your-legal-business-profile)
 
 ### <a name="next-steps"></a>Další kroky
 
-Tyto informace můžete sdílet v rámci organizace, aby mohl příslušný tým zkontrolovat a aktualizovat své procesy.
+Sdílejte tyto informace v rámci vaší organizace, aby příslušný tým mohl zkontrolovat a aktualizovat své procesy.
 
 ### <a name="questions"></a>Máte otázky?
 
-Jakékoli další otázky vám poskytne příslušné komunity zprostředkovatele CSP pro Yammer.
+Další dotazy najdete v příslušných komunitách CSP Yammer.
 
 ________________
-## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Aktualizace pro vývoj programu Cloud Solution Provider (CSP) a Open License změny programu
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Aktualizace na vývoj Cloud Solution Provider (CSP) a Open License změn programu
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-15
+- Datum: 15. 3. 2021
 - Možnosti
 
 ### <a name="summary"></a>Souhrn
 
-Nový komerční a veřejný sektor trvalé nabídky softwaru přicházejí do programu Cloud Solution Provider (CSP) spolu se změnami v programu Open Licensing.
+Do programu CSP (Cloud Solution Provider)a ke změnám programu Open Licensing přicházejí nové časově neomezené nabídky komerčního a veřejného sektoru.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Komerční distributoři a spravováni prodejci se prodávají prostřednictvím Open License programu a také všichni partneři CSP s podporou trvalého softwaru.
+Komerční distributory a spravované prodejce prodá Open License programu a také všichni partneři CSP, kteří provádí transakce s časově trvalým softwarem.
 
 ### <a name="details"></a>Podrobnosti
 
-V září 2020 společnost Microsoft [oznámila](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) řadu kroků v naší cestě k digitální transformaci, aby bylo možné rozšiřovat příležitosti pro partnery v programu CSP, včetně dostupnosti místního softwaru pro partnery. Tyto změny umožňují partnerům rozšiřovat svou firmu a rozšířit jejich dosah tím, že využívají licence na software v cloudu, a jejich umístění pro úspěch v dnešním cloudovém světě. Umožňují také přechody zákazníků do cloudu a poskytují partnerům potřebnou flexibilitu pro hybridní cloudová prostředí zákazníka.
+V září 2020 [Microsoft](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) oznámil sérii kroků na naší cestě digitální transformace k rozšíření příležitostí partnerům v programu CSP, včetně dostupnosti místního softwaru pro partnery. Díky těmto změnám rozšiřují své podnikání partneři a rozšiřují svůj dosah využitím softwarových licencí v PROGRAMU CSP a umožňují jim dosáhnout úspěchu v dnešním světě, který je prvním cloudem. Umožňují také zákazníkům přejít do cloudu a poskytují partnerům flexibilitu potřebnou pro hybridní cloudová prostředí zákazníků.
 
-V návaznosti na tuto digitální transformaci oznamujeme následující změny:
+V pokračování této digitální transformace oznamujeme následující změny:
 
-- 1. července 2021: do ceníku Open License programu nebudou přidány žádné nové SKU, produkty ani propagační akce.
+- 1. července 2021: Do ceníku pro program Open License se nepřidá žádné nové skladové položky, produkty ani propagační akce.
 
-- 7. července 2021: dvě komerční nabídky, Získejte originální Windows a Visual Studio Professional a nabídky veřejného sektoru (státní, vzdělávací a neziskové – viz [oznámení](./2020-december.md#9)) se přidají do ceníku trvalého softwaru CSP.  Ceník najdete v části software [nabídky prodej > price & nabízí](https://partnercenter.microsoft.com/pcv/sales) stránku v partnerském centru a bude se v tomto datu znovu publikovat.
+- 7. července 2021: Do ceníku časově neomezeného softwaru CSP přibyjí dvě komerční [](./2020-december.md#9)nabídky, Get Genuine Windows a Visual Studio Professional a nabídky veřejného sektoru (státní správa, vzdělávání a nezisková organizace – viz oznámení).  Ceník najdete v části software [nabídky prodej > price & nabízí](https://partnercenter.microsoft.com/pcv/sales) stránku v partnerském centru a bude se v tomto datu znovu publikovat.
 
 Úplné podrobnosti týkající se vývoje programu CSP a Open License programových změn naleznete v **následujících krocích** níže.
 
@@ -638,30 +638,30 @@ ________________
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-12
+- Datum: 12. 3. 2021
 - Možnosti
 
 ### <a name="summary"></a>Souhrn
 
-Od 29. března 2021 zahájíte práci s omezeným počtem funkcí GTM (komerční partner), které se vztahují k uvedení na trh (OCP). Doporučujeme migrovat vaše řešení na komerční tržiště v partnerském centru.
+Od 29. března 2021 se u vás začnou vyskytnout omezené možnosti nabídky OCP (One Commercial Partner) na trh (GTM). Doporučujeme vám migrovat řešení na komerční marketplace v Partnerské centrum.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Organizace, které společně prodávají s řešeními v OCP GTM
+Organizace se spoluprodá s řešeními v OCP GTM
 
 ### <a name="details"></a>Podrobnosti
 
-V prosinci 2020 jsme začali cestu od nástroje Microsoft OCP GTM k komerčnímu tržišti Microsoftu v partnerském centru. Tento přechod rozšiřuje možnosti komerčního tržiště, kde můžete předprezentovat vaše řešení miliony zákazníků, obousměrně sdílet příležitosti s ostatními prodejci Microsoftu a partnerů a společně prodávat inovativní řešení.
+V prosinci 2020 jsme zahájili cestu od nástroje Microsoft OCP GTM k komerčnímu marketplace Microsoftu v Partnerské centrum. Tento přechod rozšiřuje možnosti komerčního marketplace, kde můžete předvést řešení milionům zákazníků, obousměrně sdílet příležitosti s ostatními prodejci Microsoftu a partnery a společně prodávat inovativní řešení.
 
-Další milník v přechodu bude uskutečněn 29. března 2021. To je, když začnete používat omezené možnosti OCP GTM, přičemž některá pole se stanou jen pro čtení. Pokud v současné době spolupracujete s řešeními v OCP GTM, doporučujeme vám migrovat vaše řešení na komerční tržiště, abyste mohli využívat své možnosti a zjednodušili své možnosti publikování. 
+Další milník v přechodu se bude odehrát 29. března 2021. V tomto případě začnete mít omezené možnosti OCP GTM a některá pole se stanou jen pro čtení. Pokud se v současné době spoluprodáte s řešeními v OCP GTM, doporučujeme vám migrovat svá řešení na komerční marketplace, abyste využili výhod jeho funkcí a zjednodušili prostředí pro publikování. 
 
-Přechod na komerční tržiště poskytuje partnerskému centru primární cíl pro spoluprodejní prostředí pro publikování. Je to místo, kde můžete dál rozšiřovat své podnikání propojením vašich řešení s našimi sdílenými zákazníky přes stejné kanály a prostředí v produktu, které používáme pro produkty Microsoftu. [Přečtěte si další informace o komerčním tržišti](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/).
+Přechodem na komerční marketplace Partnerské centrum primárním cílem prostředí pro publikování spoluprodávání. Tady můžete pokračovat v růstu firmy propojením vašich řešení s našimi sdílenými zákazníky prostřednictvím stejných kanálů a prostředí v produktech, které používáme pro produkty Microsoftu. [Přečtěte si další informace o komerčním marketplace.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
 
 ### <a name="next-steps"></a>Další kroky
 
-- Pokud jste vaše řešení ještě nepřesunuli, postupujte podle pokynů v [Průvodci přechodem](/azure/marketplace/co-sell-solution-migration) nebo si prohlédněte [podrobné výukové video](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) , které vám umožní dokončit všechny migrační aktivity a zahájit publikování vašich řešení na komerčním webu Marketplace.
+- Pokud jste řešení ještě neposouvali, postupujte [](/azure/marketplace/co-sell-solution-migration) podle pokynů uvedených v průvodci přechodem nebo si prohlédněte podrobný videokumerii, ve které můžete dokončit všechny aktivity migrace a začít publikovat vaše řešení na komerčním marketplace. [](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4)
 
-- Otázky týkající se omezeného prostředí funkcí v systému OCP GTM najdete v tématu [Nejčastější dotazy k požadavkům pro publikování na komerčním webu Microsoft Marketplace](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf). (Další informace najdete v části "OCP GTM – omezené možnosti od 29. března 2021.")
+- V případě dotazů týkajících se omezeného prostředí funkcí v OCP GTM si v nejčastějších dotazech ke komerčnímu marketplace Microsoftu prohlédněte požadavky na [spolutržby k publikování.](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf) (Viz část Omezené možnosti OCP GTM od 29. března 2021.)
 
 ### <a name="questions"></a>Máte otázky?
 
@@ -711,89 +711,89 @@ Všimněte si, že licenční klíče softwaru a odkazy ke stažení jsou cenné
 
 ### <a name="next-steps"></a>Další kroky
 
-Pokyny k používání a důležité pokyny k distribuci softwarového klíče najdete v následujících zdrojích informací:
+Pokyny k použití a důležité pokyny k distribuci softwarových klíčů najdete v následujících zdrojích informací:
 
 - [Prodej místního softwaru prostřednictvím programu CSP](../csp-on-premise-software.md)
-- [Průvodce vytvořením nové obchodní příručky pro partnerský](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) software (viz část **pokyny k distribuci softwarových klíčů** )
+- [Partnerské centrum průvodce novým komerčním provozem](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) (viz **oddíl Pokyny k distribuci softwarových** klíčů).)
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud máte další dotazy k tomuto oznámení, Projděte si příslušné komunity Yammeru.
+Pokud máte k tomuto oznámení nějaké další dotazy, zkontrolujte příslušné komunity Yammeru.
 
 ________________
-## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Migrace vašich obchodů z partnera Sales Connect (PSC) do partnerského centra
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Migrace dohod z programu Partner Sales Connect (PSC) do Partnerské centrum
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-04
+- Datum: 4. 3. 2021
 - Možnosti
 
 ### <a name="summary"></a>Souhrn
 
-Partner Sales Connect (PSC) se přesune k přístupu jen pro čtení od 31. března 2021, proto doporučujeme začít migrovat vaše obchody z PSC do partnerského centra.
+Partner Sales Connect (PSC) se od 31. března 2021 přesune na přístup jen pro čtení, takže doporučujeme začít s migrací vašich dohod z PSC do Partnerské centrum.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Partneři s obchody v PBV
+Partneři s obchody v PSC
 
 ### <a name="details"></a>Podrobnosti
 
-V rámci našeho sdíleného závazku na růst se dá **společně prodávat pomocí Microsoftu** cesta, která se má **zjistit, zajistit vaše odbornost a rozšířit nároky zákazníků** na pozitivní výsledky zákazníků. Díky průměrnému obchodování, který je **3,5 časů rychleji** než normální, vám Správa možností společného prodeje v partnerském centru umožní prodávat přes přímé kanály zákazníka, partnera a prodejce Microsoftu a spravovat celý kanál odkazů na jednom místě.
+V rámci našeho sdíleného závazku k růstu je spoluprodání s **Microsoftem** cestou, jak můžete být **zjištěni,** poskytovat své odborné znalosti a rozšiřovat nároky zákazníků na pozitivní výsledky zákazníků. Díky průměrné dohody, která je **3,5krát** rychlejší než obvykle, vám správa zkušeností se spoluprodávami v Partnerské centrum umožňuje prodávat napříč kanály přímých zákazníků, partnerů a prodejců Microsoftu a spravovat celý kanál referenčních doporučení na jednom místě.
 
-**PBV** se přesune k **přístupu jen pro čtení** od **31. března 2021**, proto doporučujeme začít přesun do partnerského centra a získat přístup k těmto vylepšením schopností: 
+Od **31. března 2021** se **PSC** přesune na přístup jen pro čtení, takže doporučujeme začít s přechodem na Partnerské centrum a přistupovat k těmto vylepšením funkcí:  
 
-- Přesnější **Směrování** všech obchodů, které sdílíte s Microsoftem, s dopravou prodávající na základě typu pomoci, kterou potřebujete.
-- **Ověření nároku** na zajištění opravňujícího řešení pro pobídku a pro splnění kritérií programu ISV Connect, které zjednodušují proces schvalování a konečné ověření platnosti (PoE).
-- **Bezproblémové uživatelské prostředí** pro správu všech příležitostí společného prodeje a potenciálních zákazníků na jednom místě.
+- **Přesnější směrování** dohod, které sdílíte s Microsoftem, správnému prodejci na základě typu pomoci, kterou potřebujete.
+- **Počáteční ověření** způsobilosti dohody pro řešení s nárokem na pobídky a splnění kritérií programu ISV Connect, které zjednodušuje proces schvalování a ověření konečného důkazu o provedení.
+- **Bezproblémové uživatelské prostředí** pro správu všech příležitostí ke spoluprodeji a kvalifikovaných prodejních zájemců na jednom místě.
 
-V partnerském centru jsme také nedávno přidali nové funkce, které vám pomůžou při přesunu:
+Nedávno jsme také přidali nové funkce v Partnerské centrum, které vám pomohou s vaším přesunem:
 
-- [Hromadné operace pro společný prodej příležitostí](../bulk-operations.md)
-- [Funkce migrace koupě](../psc-to-pc.md) (viz část věnované **migraci PSC** .)
+- [Hromadné operace pro příležitosti ke spoluprodání](../bulk-operations.md)
+- [Funkce deal migration](../psc-to-pc.md) (Dohody o migraci) (viz **část Migrace dohody o PSC).)**
 
-S využitím možností společného prodeje v partnerském centru budou mít prodejní týmy víc času na zaměření na Nurturing potenciálních zákazníků a příležitostí, uzavírání obchodů a vytváření trvalých vztahů se zákazníky.
+Díky prostředí spoluprodeje v Partnerské centrum budou mít prodejní týmy více času na to, aby se soustředil na rozvoj potenciálních zákazníků a příležitostí, uzavírání dohod a vytváření dlouhotrajících vztahů se zákazníky.
 
 ### <a name="next-steps"></a>Další kroky
 
-Pomocí [Průvodce přechodem](../psc-to-pc.md) k partnerským centrům vás seznámíte s postupem migrace vašich obchodů z PSC do partnerského centra.
+Pomocí průvodce Partnerské centrum [převodem](../psc-to-pc.md) najdete postup migrace dohod z PSC do Partnerské centrum.
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud chcete mít další otázky, obraťte se na [podporu](https://partner.microsoft.com/support/?stage=1).
+Pokud máte další dotazy, kontaktujte [podporu](https://partner.microsoft.com/support/?stage=1).
 
 ________________
-## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Nové produkty a nabídky společnosti Microsoft Dynamics 365, které jsou k dispozici od 1. dubna 2021
+## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Nové produkty a nabídky Microsoft Dynamics 365 dostupné 1. dubna 2021
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-04
+- Datum: 4. 3. 2021
 - Možnosti
 
 ### <a name="summary"></a>Souhrn
 
-Od 1. dubna 2021 bude Microsoft spouštět několik nových produktů a nabídek pro program poskytovatele Cloud Solution Provider (CSP).
+1. dubna 2021 bude Microsoft zahajovat několik nových produktů a nabídek pro program Cloud Solution Provider (CSP).
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Podrobnosti
 
-Od 1. dubna 2021 bude Microsoft spouštět následující nové produkty a nabídky:
+1. dubna 2021 bude Microsoft spouštět následující nové produkty a nabídky:
 
 - Power BI Premium na uživatele
-- USL a rozšiřování geografických a segmentů zákazníků
+- Geografické a segmentační rozšíření USL Customer Voice a Marketing
 
 **Power BI Premium na uživatele**
 
-Microsoft bude zavádět první nabídky Power BI Premium pro jednotlivé uživatele. Power BI Premium se aktuálně prodává pouze v konstrukci kapacity. Power BI Premium pro jednotlivé uživatele poskytuje přístup k funkcím Enterprise business intelligence (BI) a Analytics. Flexibilní organizace pro licencování jednotlivých stanic na malé a střední firmy.
+Microsoft představí první nabídky pro uživatele Power BI Premium uživatele. Power BI Premium se momentálně prodává pouze v konstruktoru kapacity. Power BI Premium na uživatele poskytuje přístup k podnikovým business intelligence (BI) a analytickým možnostem. Její flexibilní individuální licencování je k řešení pro malé a střední firmy.
 
-Další informace o této nabídce najdete v [podrobnostech o verzi Power BI](/power-platform-release-plan/2020wave2/power-bi/planned-features) .
+Další informace [o Power BI najdete v podrobnostech](/power-platform-release-plan/2020wave2/power-bi/planned-features) o této verzi.
 
 
-**Podrobnosti nabídky**
+**Podrobnosti o nabídce**
 
-Všimněte si, že název nabídky se mírně liší od ceníku ve verzi Preview.
+Všimněte si, že název nabídky se mírně liší od verze Preview ceníku.
 
 | Název nabídky | ID nabídky |
 | ------ |----------- |
@@ -815,46 +815,46 @@ Jako při spuštění z prosince 2020 se přidávají nabídky hlasu a marketing
 | Dynamics 365 Customer Voice USL (ceny neziskových zaměstnanců) | 7a8642a5-481e-4906-a642-b56dbeeb62a0 |
 | Dynamics 365 Customer Voice USL pro vyučujícího | 85162d70-9676-4cf6-a4bc-a0d6672f2657 |
 
-Další informace o těchto nabídkách najdete na následujících stránkách:
+Další informace o těchto nabídek najdete na následujících stránkách:
 
-- [Domovská stránka hlasu pro zákaznickou službu Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/)
-- [Domovská stránka marketingu Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/)
+- [Domovská stránka Dynamics 365 Customer Service Voice](https://dynamics.microsoft.com/customer-voice/overview/)
+- [Domovská stránka Dynamics 365 Marketing](https://dynamics.microsoft.com/customer-voice/overview/)
 
 ### <a name="next-steps"></a>Další kroky
 
-Projděte si materiály k tomuto tématu a sdílejte tyto informace s příslušnými zúčastněnými stranami ve vaší organizaci.  
+Prohlédněte si materiály k tomuto tématu a podělte se o tyto informace s příslušnými účastníky ve vaší organizaci.  
 
 ### <a name="questions"></a>Máte otázky?
 
-Jakékoli otázky týkající se těchto nabídek najdete v příslušných komunitách Yammeru. 
+Pokud máte jakékoli dotazy k těmto nabídekm, podívejte se na příslušné komunity Yammeru. 
 
 ________________
-## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Univerzální tisk společnosti Microsoft je nyní k dispozici v některých sadách.
+## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Microsoft Univerzální tisk nyní k dispozici v některých sadech
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2021-03-03
+- Datum: 3. 3. 2021
 - Možnosti
 
 ### <a name="summary"></a>Souhrn
 
-Univerzální tisk společnosti Microsoft bude k dispozici pro transakce v rámci vybraných Microsoft 365ch sad a jako samostatný doplněk od 1. března 2021.
+Microsoft Univerzální tisk bude k dispozici pro transakce v rámci Microsoft 365 sad a jako samostatný doplněk od 1. března 2021.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Podrobnosti
 
-[Univerzální tisk](https://aka.ms/universalprint) je Microsoft 365 tisková služba, která odstraňuje potřebu místních tiskových serverů a umožňuje zařízením s Windows tisk na tiskárnách registrovaných v Azure. Bude k dispozici pro Transact od 1. března 2021.
+[Univerzální tisk](https://aka.ms/universalprint) je Microsoft 365 tisková služba, která eliminuje potřebu místních tiskových serverů a umožňuje zařízením s Windows tisknout na tiskárny zaregistrované v Azure. Bude k dispozici pro transakce od 1. března 2021.
 
-Pracovní procesy využívají tisk bez ovladačů, zjednodušené zjišťování tiskáren založené na poloze a intuitivní možnosti tisku bez výukové křivky. Zařízení, která jsou připojená k Azure Active Directory (Azure AD), používají k bezpečnému tisku existující přihlašovací údaje Azure AD. Správci spravují tisk pomocí Azure Portal a můžou snadno připojit tiskárny s nativní podporou univerzálního tisku. Univerzální tisk se dá nasadit s nekompatibilními tiskárnami pomocí softwaru univerzálního tiskového konektoru.
+Pracovní pracovníci těží z tisku bez ovladačů, zjednodušeného zjišťování tiskáren založeného na poloze a intuitivního prostředí tisku bez křivek učení. Zařízení připojená k Azure Active Directory (Azure AD) používají k zabezpečenému tisku stávající přihlašovací údaje Azure AD. Správci spravují tisk pomocí Azure Portal a můžou snadno připojit tiskárny s nativní podporou pro Univerzální tisk. Univerzální tisk můžete nasadit s nekompatibilní tiskárnou pomocí Konektor pro Univerzální tisk softwaru.
 
-Univerzální tisk bude při spuštění vyplněn ve Windows E3, a3, E5 a A5 a Microsoft 365 BP, F3, E3, a3, E5 a a5.  
+Univerzální tisk startu se znovu doplní do Windows E3, A3, E5 a A5 a Microsoft 365 BP, F3, E3, A3, E5 a A5.  
 
-**Podrobnosti nabídky**
+**Podrobnosti o nabídce**
 
-Všimněte si, že název nabídky se mírně liší od ceníku ve verzi Preview.
+Všimněte si, že název nabídky se mírně liší od verze Preview ceníku.
 
 | Název nabídky | ID nabídky | ID materiálu |
 | ------ |----------- |----------- |  

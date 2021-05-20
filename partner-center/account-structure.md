@@ -9,19 +9,16 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fb2488f9a82e261997703c22bca7c3cd9e761db0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284158"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150654"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partnerské centrum má dvě úrovně účtů pro partnery programu MPN.
 
-**Příslušné role**
-
-- Správce účtu
-- Globální správce
+**Příslušné role**: správce účtu | Globální správce
 
 Vaše společnost má v partnerském centru dvě úrovně účtů.
 
@@ -46,4 +43,4 @@ Vaše PGA může obsahovat další obchodní umístění. Každé umístění m�
 
 ## <a name="next-steps"></a>Další kroky
 
-- Další informace o správě umístění najdete v tématu [Správa partnerského účtu: umístění](manage-locations.md).
+- Další informace o správě umístění najdete v tématu [Správa partnerského účtu: Umístění](manage-locations.md).

@@ -1,47 +1,44 @@
 ---
-title: Přehled funkcí pro spolupráci a deklarace identity
+title: Přehled spolupráce a žádostí o pobídky
 ms.topic: article
 ms.date: 03/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Naučte se, jak odeslat úspěšnou souběžnou deklaraci vaší pobídky tím, že uspořádáte správnou dokumentaci, faktury, příkazy a provedeme kontrolu provádění.
+description: Zjistěte, jak odeslat úspěšnou žádost o pobídky spolupráce tím, že uspořádáte správnou dokumentaci, faktury, výpisy a doklad o provedení.
 author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 5e5f8000032fa09d7752f8c6206325630b995b63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022702"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148716"
 ---
-# <a name="earn-cooperative-marketing-funds"></a>Získat obchodní prostředky pro spolupráci
+# <a name="earn-cooperative-marketing-funds"></a>Získání fondů pro spolupráci v marketingu
 
-**Příslušné role**
+**Odpovídající role:** Správce pobídek | Uživatel pobídek
 
-- Motivace správce
-- Motivace uživatelů
+Prostředky spolupráce v oblasti marketingu (spolupráce) jsou prostředky, které získáte prostřednictvím programů Pobídky Microsoftu tím, že se pro nároky na aktivity, které podporují povědomí o produktech Microsoftu, nárokují. Příklady programů pobídek jsou Cloud Solution Provider, spravovaný prodejce, hostování a Surface.
 
-Prostředky pro spolupráci na úrovni spolupracovníka (co-op) jsou prostředky, které získáte prostřednictvím programu Microsoft motivačních produktů, a nárokují na aktivity, které podporují povědomí o produktech Microsoftu. Příklady motivů programů jsou poskytovatel cloudových řešení, spravovaný prodejce, hostování a povrch.
+Fondy spolupráce umožňují provádět marketingové aktivity, které zvýší povědomí o značce a podnítí růst prodejních kanálů. Do aktivit můžete investovat prostředky spolupráce za účelem usnadnění připravenosti, vývoje specializací nebo dosažení certifikací Microsoftu – aktivit, které podporují zaměřené postupy řešení a centra špičkové úrovně.
 
-Fondy souběžných scénářů umožňují provádět marketingové aktivity, které zvyšují povědomí o značkách a zvyšují růst obchodních kanálů. V aktivitách můžete investovat i fondy, které vám umožní zajistit připravenost, vyvíjet specializace nebo získat certifikace Microsoftu – aktivity, které podporují postupy zaměřené na řešení a špičková centra.
-
-Další informace najdete na stránce [prostředky pro fondy souběžných op](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) .
+Další informace najdete na stránce [Zdroje prostředků spolupráce.](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/)
 
 >[!Important]
->Souběžné deklarace se nevztahují na online služby pro poradenství (OSU Services Advisor), používání služeb online () a OSU-Business aplikací Microsoft 365 pro motivaci aplikací. Pokud chcete odeslat deklaraci identity pro jeden z těchto programů, přečtěte si téma [Vytvoření associearation zákazníka pomocí modelu CPOR](submit-osa-claim.md).
+>Žádosti o pobídky spolupráce se nevztahují na poradce pro online služby (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 and OSU-Business Application Incentives. Pokud chcete odeslat žádost o jeden z těchto programů, podívejte se na část Vytvoření [zákazníka jako přidružení pomocí modelu CPOR](submit-osa-claim.md).
 
-## <a name="how-co-op-funds-are-calculated"></a>Jak se počítají prostředky pro souběžné op
+## <a name="how-co-op-funds-are-calculated"></a>Jak se počítají prostředky spolupráce
 
-Společnost Microsoft vypočítá opravňující pobídky na základě procentuálního podílu (například 60% Rabat-40% co-op). Část s rabatem obdržíte s využitím stávajících tempo plateb pro váš individuální program, zatímco společnost Microsoft bude rozlišit část účasti v pobídkách na podnět.
+Microsoft vypočítá způsobilé příjmy v rámci pobídek s využitím procenta rozdělení (například 60% slevy – 40 % spolupráce). Tuto část budete dostávat s využitím stávajícího frekvence výplat pro váš individuální program, zatímco Microsoft narůstá v příjmech v rámci pobídek na pobídkách jako podíl na pobídkách.
 
-Další informace o tempo plateb a procentech rozdělení najdete v příručce k programu pobídek. [Tento postup](incentives-determined-your-program-eligibility.md) použijte pro přístup k příručce programu.
+Další informace o frekvence výplat a procentuálním rozdělení najdete v průvodci programem pobídek. Pomocí [tohoto postupu můžete](incentives-determined-your-program-eligibility.md) získat přístup k programové příručce.
 
 >[!NOTE]
->Pokud jsou příjmy mezi op pod prahovou hodnotou v době trvání souběžného navýšení, příjmy za souběžné operace se na konci pololetí převedou na rabat. Další podrobnosti nebo informace o tom, jak určit prahovou hodnotu, najdete v příručce programu pro motivaci.
+>Pokud jsou příjmy spolupráce pod prahovou hodnotou v období příjmů spolupráce, příjmy spolupráce se na konci tohoto období převedou na slevu. Další podrobnosti nebo informace o tom, jak určit prahovou hodnotu, najdete v průvodci programem pobídek.
 
-## <a name="when-to-claim-your-funds"></a>Kdy získat nárok na vaše prostředky
+## <a name="when-to-claim-your-funds"></a>Kdy nárokovat prostředky
 
 Časová osa pro souběžné fondy je rozdělená na 2 6 měsíců, H1 a H2. ("H" představuje fiskální pololetí.)
 
@@ -55,21 +52,21 @@ V tabulce níže vidíte různé doby využívání, využití a nároků na upl
 |  Pokud je vaše období vyvýšení/nabíhání  |Vaše fiskální pololetí je  |  Doba využití je  |  Vaše období deklarací identity je  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 |**Červenec – prosinec 2020**| FY21 H1  |  Leden – červen 2021  |  16. února 15 2021  |
-|**Leden – červen 2021** |  FY21 H2  |  Červenec – prosinec 2021  |  Srpna 16 2021 – únor 15 2022  |
-|**Červenec – prosinec 2021**|  FY22 H1  |  Leden – červen 2022  |  16. února 15 2022  |
-|**Leden – červen 2022** |  FY22 H2  |  Červenec – prosinec 2022  |  Srpna 16 2022 – únor 15 2023  |
+|**Leden – červen 2021** |  FY21 H2  |  Červenec – prosinec 2021  |  16. srpna 2021 – 15. února 2022  |
+|**Červenec – prosinec 2021**|  FY22 H1  |  Jan – June 2022  |  16. února – 15. srpna 2022  |
+|**Jan – June 2022** |  FY22 H2  |  Červenec – prosinec 2022  |  16. srpna 2022 – 15. února 2023  |
 
 >[!NOTE]
->Společnost Microsoft si vyhrazuje právo požadovat původní dokumenty o provedení (PoE). Po datu aktivity byste měli uchovávat všechny původní dokumenty po dobu 24 měsíců.
+>Společnost Microsoft si vyhrazuje právo požadovat původní dokumenty důkazu o provedení. Všechny původní dokumenty byste měli uchovat po dobu 24 měsíců od data aktivity.
 
-Následující zdroje vám pomůžou začít pracovat s deklaracemi, které se nacházejí společně.
+Následující zdroje informací vám pomůžou začít pracovat s deklaracemi spolupráce.
 
 | Akce | Přečtěte si: |
 | ------ | ----------- |
-| Odeslat deklaraci identity |  [Vytvoření a Správa žádosti o účast v rámci programu pobídek](create-incentives-claims.md)  |
-| Správa odeslané deklarace identity | [Vytvoření a Správa žádosti o účast v rámci programu pobídek](create-incentives-claims.md)    |
-| Principy základních požadavků na deklaraci identity aktivity | [Základní požadavky na aktivity v programu motivačních programů](core-requirements.md)   |
-| Zkontrolujte podrobnosti o programu pobídek. | [Partner – motivuje se souběžně op Guidebook](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
+| Odeslání žádosti |  [Vytvoření a správa žádosti o pobídky spolupráce v programu pobídek](create-incentives-claims.md)  |
+| Správa odeslané deklarace identity | [Vytvoření a správa žádosti o pobídky spolupráce v programu pobídek](create-incentives-claims.md)    |
+| Principy základních požadavků na deklaraci identity aktivity | [Základní požadavky na aktivity v programu pobídek](core-requirements.md)   |
+| Kontrola podrobností o programu pobídek | [Partner – motivuje se souběžně op Guidebook](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
 | Vytvoření přidružení zákazníka a odeslání deklarace identity | [Vytvoření přidružení zákazníka pomocí modelu CPOR](submit-osa-claim.md)   |
 
 ## <a name="next-steps"></a>Další kroky

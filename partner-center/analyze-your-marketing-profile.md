@@ -9,21 +9,19 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 6ddb9544e0c6f6a29540fe30d03d307318ddfdf8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530829"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150212"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analýza potenciálních zákazníků – zjistěte, jak se vám daří lákat cílové zákazníky a potenciální doporučení
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Příslušné role**
-
-- Správce odkazů
+**Příslušné role**: Správce odkazů
 
 Stránka s **zájemci** v části **Analýza** v tématu odkazy vám umožní zjistit, jak vaše odkazy provádějí. Pravidelně kontrolujte tyto metriky a Identifikujte trendy nebo oblasti, které vyžadují pozornost, a začněte přispívat k vašim obchodním cílům.
 
@@ -41,21 +39,21 @@ Můžete kliknout na tlačítko filtry a otevřít panel, který umožňuje filt
 - **Stav**: výchozí hodnota je **vše**, ale můžete omezit data na referenční údaje, které obsahují jeden nebo více typů stavu odkazů, jako přijaté, odmítnuté, prošlé, ztracené a získaná, která jste vybrali.
 - **Typ kvalifikace**: výchozí hodnota je **All**, ale můžete omezit data na odkazy, které jsou buď vedoucí na webu Marketplace, nebo kvalifikované zájemce.
 
-Informace ve všech grafech uvedených níže budou odrážet rozsah dat a všechny filtry, které jste vybrali, s tím rozdílem, že jsou uvedeny níže. Některé oddíly také umožňují použít další filtry, například filtrování na konkrétní řešení.
+Informace ve všech níže uvedených grafech budou odrážet rozsah dat a všechny filtry, které jste vybrali, s výjimkou těch, které jsou uvedené níže. Některé části také umožňují použít další filtry, například filtrování u konkrétního řešení.
 
-## <a name="referrals-summary"></a>Souhrn referenčních údajů
+## <a name="referrals-summary"></a>Souhrn referenčních odkazů
 
-Tato karta obsahuje přehled o tom, jak vaši zájemci provádějí.
+Tato karta zobrazuje přehled výkonu potenciálních zákazníků.
 
-Graf zobrazuje celkový počet návštěv stránky, počet volání na tlačítko akce (partner s kontaktními osobami) kliknutí, počet potenciálních zákazníků vygenerovaných po kliknutí na výzvu k akci a celkový počet potenciálních zákazníků pro vybrané časové období.
+Graf zobrazuje celkový počet návštěv stránky, počet kliknutí na tlačítko výzva k akci (Kontaktní partner), počet zájemců vygenerovaných po kliknutí na výzvu k akci a celkový počet zájemců za vybrané časové období.
 
-Procentuální metrika změny (zobrazená červeně nebo zeleně s indikátorem šipky) značí rozdíl mezi **posledním celým měsícem ve vybraném rozsahu kalendářních dat** a **prvním plným měsícem v daném rozsahu**. Řekněme například, že aktuální datum je 15. června a vybrali jste filtr **3m** , který zobrazí data za poslední tři měsíce. V takovém případě by tyto metriky ukázaly rozdíl mezi Květenem (poslední celý měsíc ve vybraném časovém období) a březen (první celý měsíc ve vybraném časovém období). vybraný rozsah dat je poslední **3m**, porovnání by mohlo být mezi daty a data v březnu.
+Metriky procentuální změny (zobrazené červeně nebo zeleně s indikátorem  šipky) označují rozdíl mezi posledním celým měsícem ve vybraném rozsahu dat a prvním celým měsícem v **tomto rozsahu**. Řekněme například, že aktuální datum je 15. června a vybrali jste **filtr 3M,** který zobrazí data za poslední tři měsíce. V tomto případě by tyto metriky ukázaly rozdíl mezi květnem (posledním celým měsícem ve vybraném časovém období) a březnovou (první celý měsíc ve vybraném časovém období) je vybraný rozsah dat **posledních 3m,** porovnání bude mezi daty pro květen a daty pro březen.
 
-:::image type="content" source="images/referrals/leadsanalyticssummary.png" alt-text="Obrázek znázorňující souhrnná karta analýzy zájemců":::
+:::image type="content" source="images/referrals/leadsanalyticssummary.png" alt-text="Obrázek znázorňující souhrnnou kartu analýzy potenciálních zákazníků":::
 
-## <a name="conversion-funnel"></a>Trychtýř převodů
+## <a name="conversion-funnel"></a>Trychtýř převodu
 
-V této části se zobrazuje vizuální indikátor toho, jak se vaše obchody pohybují z jednoho stavu do druhého prostřednictvím jejich životního cyklu. Celý životní cyklus můžete zobrazit na základě objemu koupě, jakož i hodnoty koupě v USD na základě hlavního pivotu pro tuto část. První oddíl je označený s typem obchodu, který vám poskytne vizuální indikátor objemu nebo hodnoty podle typu. K dispozici je také část **, která** se používá k označení obchodů, pro které jste provedli akci přijetí nebo odmítnutí nebo jejich označení jako získanou nebo ztracenou v časovém období, které bylo vybráno pro sestavu. Filtry můžete použít k zobrazení průběhu obchodů v různých fázích jejich životního cyklu.
+Tato část ukazuje vizuální indikátor toho, jak se vaše obchody v průběhu jejich životního cyklu přesouvají z jednoho státu do druhého. Na základě hlavního pivotu v této části můžete zobrazit celý životní cyklus na základě objemu dohody a také hodnoty dohody v USD. První oddíl je označený typem dohody, který vám poskytne vizuální indikátor objemu nebo hodnoty podle typu. Existuje také oddíl Zájemci z minulosti **,** který slouží k označení dohod, u kterých jste v časovém období vybraném pro sestavu vybrali přijetí nebo nepřijetí, nebo označení zájemců za nezískané nebo ztracené. Pomocí filtrů můžete zobrazit průběh dohod v různých fázích jejich životního cyklu.
 
 :::image type="content" source="images/referrals/leadsanalyticsfunnel.png" alt-text="Obrázek znázorňující trychtýř převodů pro referenční seznamy":::
 
@@ -85,28 +83,28 @@ Pro porovnání dat se dají vybrat tři dimenze.
 
 - Typ kvalifikace
 - Trhy
-- Referenční program
+- Program referenčních odkazů
 
-Když je vybraný typ kvalifikace, máte možnost porovnat výkon odkazů s ohledem na zájemce z webu Marketplace a kvalifikované zájemce. U obou trhů a programových odkazů můžete pro porovnání výkonu vybrat až tři různé možnosti. První graf, který je pruhový graf, bude mít data uvedená v měsíci trendu v měsíci, který je založený na hlavním pivotu, což je objem nebo získaná hodnota obchodů. Napravo od pruhového grafu je také výsečový graf, který ukazuje rozdělení podle procenta pro stejná data.
+Když je vybraný typ kvalifikace, máte možnost porovnat výkon referenčních seznamu s ohledem na potenciální zákazníky z marketplace a kvalifikované zájemce. V případě trhů i referenčního programu můžete získat až tři různé možnosti porovnání jejich výkonu. První graf, což je pruhový graf, bude mít data prezentovaná trendem měsíčního trendu na základě hlavního pivotu, což je objem nebo hodnota obchody, která vyhrála. Napravo od pruhového grafu je také výsečový graf, který zobrazuje rozdělení podle procent pro stejná data.
 
-:::image type="content" source="images/referrals/leadsanalyticscompare.png" alt-text="Obrázek znázorňující část porovnání":::
+:::image type="content" source="images/referrals/leadsanalyticscompare.png" alt-text="Obrázek znázorňující oddíl porovnání":::
 
 ## <a name="raw-data-table"></a>Tabulka nezpracovaných dat
 
-Níže uvedená tabulka se všemi nezpracovanými daty týkajícími se zájemců vám pomůže rychle **exportovat** data pro každou podrobnou nebo vlastní analýzu, kterou chcete provést.
+Následující tabulka se všemi nezpracovaných daty souvisejícími s potenciálními zákazníky vám pomůže rychle **exportovat** data pro všechny podrobné nebo vlastní analýzy, které chcete provést.
 
-:::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="Obrázek znázorňující tabulku nezpracovaných dat pro zájemce":::
+:::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="Obrázek znázorňující tabulku nezpracovaných dat pro potenciální zákazníky":::
 
 ## <a name="no-data"></a>Žádná data
 
-Existuje několik důvodů, proč při přístupu k analýze zájemců, jak je popsáno níže, máte k dispozici prázdný graf podobný následujícímu.
+Při přístupu k analýze potenciálních zákazníků může být prázdný graf, například níže, z několika důvodů, jak je popsáno níže.
 
-- Pro tento účet nejsou k dispozici žádná data. Zkuste si vytvořit obchody, které tuto sestavu naplní.
-- Došlo k nějakému problému s připojením k síti. Ověřte připojení k Internetu a zkuste to znovu.
-- K použitým filtrům neodpovídají žádné záznamy. Zkuste filtry resetovat.
-- Došlo k prodlevě mezi změnou stavu potenciálního zákazníka a stejným aktualizací v sestavě Analytics. Ověřte sestavu po 24 hodinách.
+- Pro tento účet nejsou k dispozici žádná data. Zkuste vytvořit dohody, aby se tato sestava zapsála.
+- Došlo k nějakému problému s připojením k síti. Zkontrolujte připojení k internetu a zkuste to znovu.
+- Neexistují žádné záznamy odpovídající použitým filtrům. Zkuste filtry resetovat.
+- Mezi změnou stavu zájemců a změnou stavu zájemců, která se má v analytické sestavě aktualizovat, je prodleva. Zkontrolujte sestavu po 24 hodinách.
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="Obrázek znázorňující, že neexistují žádné vizualizace dat pro potenciální zákazníky.":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="Obrázek znázorňující žádnou vizualizaci dat pro potenciální zákazníky":::
 
 > [!TIP]
 > Pokud chcete zjistit, jak se účtují příležitosti pro společný prodej, Projděte si [stránku Přehled příležitostí pro spoluprodej](referral-insights.md).

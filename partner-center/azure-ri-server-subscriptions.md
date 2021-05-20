@@ -9,23 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 79175fc7e67fdcdc3195b33859f3609c4caf942f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182490"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149413"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Získání, zřízení, & Správa předplatných virtuálních počítačů Azure (rezervované instance) a předplatných serverů pro zákazníky
 
 
-**Příslušné role**
-
-- Agent správce
-- Globální správce
-- Agent helpdesku
-- Agent prodeje
-- Správce správy uživatelů
+**Příslušné role**: Agent správce | Globální správce | Agent helpdesku | Prodejní agent | Správce správy uživatelů
 
 
 ## <a name="what-are-azure-reservations"></a>Co jsou rezervace Azure?
@@ -39,21 +33,21 @@ Pokud mají zákazníci virtuální počítače, Azure Cosmos DB nebo databáze 
 ### <a name="compelling-new-azure-offer-in-csp"></a>Působivá nová nabídka Azure v CSP
 
 Díky zavedení Azure Reservations a serverových předplatných pro svůj program CSP je Microsoft lepší, aby jeho partneři mohli řešit rychle rostoucí poptávku zákazníků, aby se zajistila cenově výhodné řešení pro podporu vysoce předvídatelných a trvalých cloudových úloh. Program CSP umožňuje partnerům získat, zřídit a spravovat Azure Reservations a odběry serverů jménem komerčních zákazníků prostřednictvím partnerského centra Microsoftu a Azure Portal.
-Partnerům v našem programu CSP nabízíme i informace o tom, jak můžou být zakoupeny rezervace Azure. Partneři CSP můžou [koupit rezervace Azure jménem zákazníka](azure-reservations-buying.md) nebo můžou [zákazníkům dovolit koupit si své vlastní rezervace](give-customers-permission.md) z předchozího předplatného Azure, které si ho zakoupili.
+Partnerům v našem programu CSP nabízíme i informace o tom, jak můžou být zakoupeny rezervace Azure. Partneři CSP mohou zakoupit rezervace [Azure](azure-reservations-buying.md) jménem zákazníka [](give-customers-permission.md) nebo umožnit zákazníkovi nákup vlastních rezervací z předchozího předplatného Azure, které pro něj partner zakoupil.
 
-Azure Reservations zákazníkům poskytuje flexibilitu virtualizace pro nejrůznější výpočetní řešení, včetně vývoje a testování, spouštění aplikací a rozšiřování datového centra.
+Rezervace Azure poskytují zákazníkům flexibilitu virtualizace pro širokou škálu výpočetních řešení, včetně vývoje a testování, spouštění aplikací a rozšiřování datového centra.
 
-[Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) například komerčním zákazníkům můžete ušetřit až 72% oproti průběžným nákupům Azure s průběžnými platbami, a to jednoduše tak, že ho zakoupíte nebo zachováte – virtuální počítač po dobu 1 nebo 3 roky. Zákazníci se systémem Windows Server s Zvýhodněné hybridní využití Azure, kteří jsou součástí programu Software Assurance, budou moci ušetřit až 80% oproti sazbám průběžných plateb.
+Například [Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) komerční zákazníci teď mohou ušetřit až 72 % oproti cenám virtuálních počítačů Azure s platbou za pouhých 1 nebo 3 roky zakoupením virtuálního počítače nebo jeho rezervace. Zákazníci s Windows Serverem Zvýhodněné hybridní využití Azure, který je součástí Software Assurance, budou moct ušetřit až 80 % oproti cenám při platbách za ceny s cenami při platbách.
 
-Díky nespárované kombinaci působivých cen a nespárované flexibilitě nasazení uvidí zákazníci nejlepší celkovou hodnotu, když zvolí Azure Reservations.
+Díky nepřekonané kombinaci působivých cen a nepřekonané flexibility nasazení uvidí zákazníci při výběru rezervace Azure nejlepší celkovou hodnotu.
 
-- Viz [Nákupní rezervace](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) na webu Azure Portal.
+- Viz [Nákup rezervací](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) na webu Azure Portal.
 
-- V kategorii **Microsoft Azure rezervované instance** na stránce [ceny a nabídky](https://partner.microsoft.com/dashboard/sell/pricingandoffers) v partnerském centru pro předplatné softwaru a roční PŘEDplatná pro Linux ISV se podívejte na **seznam komerčních cen CSP Azure** .
+- Komerční ceník **azure RI CSP** najdete v kategorii Rezervované instance [](https://partner.microsoft.com/dashboard/sell/pricingandoffers) **Microsoft Azure** na stránce Ceny a nabídky v tématu Partnerské centrum pro předplatná softwaru a roční předplatná ISV s Linuxem.
 
 
  
-**Roční předplatná pro Linux ISV**
+**Roční předplatná ISV pro Linux**
 
 - SUSE Linux
 - Red Hat Enterprise Linux
@@ -65,26 +59,26 @@ Díky nespárované kombinaci působivých cen a nespárované flexibilitě nasa
 
 ## <a name="getting-started"></a>Začínáme
 
-K tomu, abyste se seznámili s tím, jak můžete Azure Reservations umístit zákazníkům a co nejrychleji začít pracovat, doporučujeme následující postup, který vám pomůže zkontrolovat materiály připravenosti:
+Abyste porozuměli tomu, jak můžete umístit rezervace Azure u svých zákazníků a co nejrychleji zprovozníte službu Azure Reservations, doporučujeme následující přístup, abyste si prohlédněte materiály připravenosti:
 
-1. Přečtěte si a pochopte si službu [partner Center – příručka pro nové obchodní operace](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
+1. Prohlédněte si průvodce novým Partnerské centrum provozu a [porozumit jim.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
-2. Vysvětlení aktualizací Azure Reservations a předplatných serveru v [rozhraní API partnerského centra (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances).
+2. Informace o aktualizacích pro rezervace Azure a serverová předplatná najdete [v Partnerské centrum API (API/SDK).](/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 
-### <a name="sales-readiness"></a>Připravenost prodeje
+### <a name="sales-readiness"></a>Připravenost na prodej
 
-- [Licence pro klientský přístup k vzdálené ploše (VP CAL) (oznámení)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
+- [Licence pro klientský přístup ke vzdálené ploše (CAL) (oznámení)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
 - [Azure Reserved VM Instances (Azure Portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [Předplatná serveru](./csp-software-subscriptions.md)
+- [Serverová předplatná](./csp-software-subscriptions.md)
 
-- [Rezervace databáze SQL (Azure Portal)](/azure/sql-database/sql-database-reserved-capacity)
+- [Rezervace sql db (Azure Portal)](/azure/sql-database/sql-database-reserved-capacity)
 
 - [Azure Cosmos DB (Azure Portal)](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [Spravovaná instance SQL (Azure Portal)](/azure/sql-database/sql-database-managed-instance)
+- [SQL Managed Instance (Azure Portal)](/azure/sql-database/sql-database-managed-instance)
 
 - [SUSE a Red Hat Enterprise Linux (Azure Portal)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
@@ -96,34 +90,34 @@ K tomu, abyste se seznámili s tím, jak můžete Azure Reservations umístit z�
 
 - [Přehled cen Azure](https://azure.microsoft.com/pricing/)
 
-- [Cenová Kalkulačka Azure](https://azure.microsoft.com/pricing/calculator)
+- [Cenová kalkulačka funkcí Azure](https://azure.microsoft.com/pricing/calculator)
 
-- [Rezervace jednotek Azure Databricks](/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks jednotek rezervací](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>Školení
 
-Zaregistrujte se, abyste viděli [webinářey komerčních licencí](https://commercial-licensing.eventbuilder.com/FY2019_ALL) a události na vyžádání.
-Dříve zaznamenané události na vyžádání licencování zahrnují témata, jako například:
+Zaregistrujte se k [zobrazení webináře](https://commercial-licensing.eventbuilder.com/FY2019_ALL) a událostí připravenosti komerčních licencí a událostí na vyžádání.
+Mezi dříve zaznamenané události připravenosti licencování na vyžádání patří témata jako:
 
-- Služby CSP Online Services, CSP Azure a obecné licenční aktualizace, včetně Azure (listopadu 2018)
+- Online služby CSP, Azure CSP a obecné aktualizace licencování, včetně Azure (listopad 2018)
 
-- Flexibilita velikosti instance & rezervované kapacity SQL DB (srpen 2018)
+- Flexibilní velikost rezervované kapacity & SQL DB (srpen 2018)
 
-- Předplatné serveru v CSP (červenec 2018)
+- Serverová předplatná v CSP (červenec 2018)
 
-- Přehled Azure Reservations CSP (květen 2018)
+- Přehled rezervací Azure v CSP (květen 2018)
 
 ## <a name="operations"></a>Operace
 
-[Průvodce novým obchodním provozním střediskem pro partnery](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf): komplexní příručka týkající se klíčových zásad a provozních aspektů, jako jsou smlouvy, objednávání prostřednictvím partnerského centra, faktury, podrobností ceníku, motivů, souborů pro odsouhlasení, API/SDK, izolovaného prostoru a partnerských sdílených služeb Azure
+[Partnerské centrum](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)průvodce provozem obchodu: Komplexní průvodce klíčovými aspekty zásad a provozu, jako jsou smlouvy, objednávání prostřednictvím Partnerské centrum, faktura, podrobnosti ceníku, pobídky, soubor s vyrovnáním, rozhraní API/SDK, sandbox a Azure Partner Shared Services.
 
 ## <a name="azure-hybrid-benefit"></a>Zvýhodněné hybridní využití Azure
 
-[Zvýhodněné hybridní využití Azure](https://azure.microsoft.com/pricing/hybrid-benefit) je cenová výhoda pro zákazníky, kteří mají licence se Software Assurance, což pomáhá maximalizovat hodnotu stávajících investic na místní Windows Server nebo SQL Server licence při migraci do Azure. Oprávnění zákazníci mohou ušetřit až 40% * v Azure Virtual Machines (infrastruktura jako služba nebo IaaS) a Ušetřete až 55% v Azure SQL Database (platforma jako služba nebo PaaS) a SQL Server v Azure Virtual Machines (IaaS) s Zvýhodněné hybridní využití Azure, což zvyšuje až 80% v kombinaci s rezervovanými instancemi Azure.
+Služba [Zvýhodněné hybridní využití Azure](https://azure.microsoft.com/pricing/hybrid-benefit) je cenová výhoda pro zákazníky, kteří mají licence se službou Software Assurance, což pomáhá maximalizovat hodnotu stávajících investic do místních licencí Windows Serveru nebo SQL Server při migraci do Azure. Způsobilí zákazníci mohou ušetřit až 40 % * v Azure Virtual Machines (infrastruktura jako služba nebo IaaS) a ušetřit až 55 % v Azure SQL Database (platforma jako služba nebo PaaS) a SQL Server v Azure Virtual Machines (IaaS) s Zvýhodněné hybridní využití Azure, což se v kombinaci s rezervovanými instancemi Azure zvýší až na 80 %.
 
 ## <a name="next-steps"></a>Další kroky
 
 - [Nejčastější dotazy ke Zvýhodněnému hybridnímu využití Azure](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
 
-* Skutečné úspory se můžou lišit v závislosti na oblasti, typu instance nebo využití.
+*Skutečné úspory se můžou lišit v závislosti na oblasti, typu instance nebo využití.

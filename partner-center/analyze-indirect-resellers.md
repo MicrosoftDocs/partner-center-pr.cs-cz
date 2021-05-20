@@ -1,6 +1,6 @@
 ---
 title: Analýza výkonu nepřímých prodejců
-description: Pomocí analýzy se dozvíte, jak tyto nepřímo prodejci dělají, jak vaše úspěšnost, tak i oblasti, které mohou vyžadovat větší pozornost.
+description: Pomocí analýz zjistíte, jak si daří vaši nepřímí prodejci, a to jak jejich úspěchy, tak oblasti, které mohou potřebovat větší pozornost.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: shganesh
@@ -9,44 +9,41 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474049"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150178"
 ---
-# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Analýza výkonu nepřímých prodejců pomocí analýzy
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Analýza výkonu nepřímých prodejců pomocí analýz
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
+**Odpovídající role:** Globální správce | Správce správy uživatelů
 
 
-Datové jednotky: obchodní rozhodnutí. Pomocí metrik na stránce **analýzy prodejců** můžete identifikovat vaše úspěšnosti, nepřímými prodejci a oblasti, které vyžadují větší pozornost. Tyto informace použijte při plánování nových obchodních cílů.
+Data řídí obchodní rozhodnutí. Pomocí metrik na stránce  analýzy prodejce identifikujte své úspěchy, úspěchy vašich nepřímých prodejců a oblasti, které potřebují větší pozornost. Tyto informace použijte při plánování nových obchodních cílů.
 
 > [!NOTE]
-> Analýzy nepřímých prodejců jsou k dispozici pouze pro nepřímé zprostředkovatele v programu Cloud Solution Provider.
+> Analýzy nepřímých prodejců jsou k dispozici pouze nepřímým poskytovatelům v Cloud Solution Provider programu.
 
-## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Typy metrik analýzy prodejců, které můžete zobrazit
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Typy analytických metrik prodejců, které můžete zobrazit
 
 Sledujeme následující metriky:
 
 **Souhrn**  
- - **Celkem prodejců**: počet aktivních prodejců za poslední den předplatného  
- - **Noví prodejci**: počet nových nepřímých prodejců za zadané časové období  
- - **Aktivní prodejci**: počet nepřímých prodejců, na kterých je MPNID aspoň 1 předplatné, a kde se stav předplatného nezrušil.  
- - **Transakce** v provozu: počet nepřímých prodejců s předplatným prodaným v zadaném časovém období  
+ - **Total resellers**:Count of active resellers on the last day of the subscription (Celkový počet aktivních prodejců za poslední den předplatného)  
+ - **Noví prodejci:** Počet nových nepřímých prodejců za zadané časové období  
+ - **Aktivní prodejci:** Počet nepřímých prodejců, u kterých je ID MPN alespoň 1 předplatné a u kterých není zrušeno zřízení předplatného  
+ - **Prodejci transakcí:** Počet nepřímých prodejců s předplatným prodávaných v zadaném časovém období  
 
 **Prodejci podle trhu**  
- - Celkový počet prodejců podle geografického umístění  
+ - Total resellers by geographic location  
 
-**Hlavní prodejci podle předplatných prodaných**
- - Seznam prodejců seřazený podle počtu předplatných, která prodali  
+**Nejprodávané prodejce podle prodaných předplatných**
+ - Seznam prodejců seřazených podle počtu prodaných předplatných  
 
-**Hlavní produkty podle počtu předplatných**  
- - **Dynamics 365**: produkty Dynamics 365 seřazené podle předplatných prodaných  
+**Top products by subscription count**  
+ - **Dynamics 365:** Produkty Dynamics 365 seřazené podle prodaných předplatných  
  - **EMS**: počet prodaných předplatných služby Enterprise Management Services  
  - **Microsoft 365**: počet prodaných předplatných Microsoft 365  
  - **Office 365**: produkty Office 365 seřazené podle předplatných prodaných  
@@ -74,8 +71,8 @@ V této části je uveden stav podepsaných u nepřímých prodejců CSP.
  - **Stav programu MPN dozvíte ČSFD**: dozvíte ČSFD status nepřímého prodejce
  - **Stav podepsané aktivace**: stav podepisování technologie MPa pro nepřímý prodejce
 
-Kliknutím na ikonu Stáhnout v grafu si můžete stáhnout data o stavu s podpisem aktivace s dalšími dimenzemi.
+Kliknutím na ikonu pro stažení v grafu stáhněte data o stavu podepsaná mpa s dalšími dimenzemi.
   
 ## <a name="next-steps"></a>Další kroky
 
-- [Analýza předplatných a licencí, které vám pomůžou podniková rozhodnutí](analyze-subscriptions-licenses.md)
+- [Analýza předplatných a licencí, které vám pomůžou při obchodním rozhodování](analyze-subscriptions-licenses.md)

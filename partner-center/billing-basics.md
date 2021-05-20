@@ -1,59 +1,53 @@
 ---
-title: Přehled fakturace partnerského centra
+title: Přehled fakturace Partnerské centrum dat
 ms.topic: article
 ms.date: 01/28/2021
-description: Přečtěte si základní informace o fakturaci a faktuře pro partnery CSP v partnerském centru. Obsahuje informace o tom, jak fakturovat zákazníky a jak hledat a číst vaši fakturu.
+description: Seznamte se se základními informacemi o fakturaci a fakturách pro partnery CSP Partnerské centrum. Obsahuje informace o tom, jak fakturovat zákazníky a jak najít a přečíst fakturu.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 7fe03aa2b1d30c1146b8a14b6659c82cdcc52d9d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964370"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149226"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Přehled fakturace pro partnery v programu CSP pracující v Partnerském centru 
 
-**Příslušné role**
+**Odpovídající role:** Agent pro správu | Správce fakturace | Globální správce | Agent helpdesku | Agent prodeje
 
-- Agent správce
-- Správce fakturace
-- Globální správce
-- Agent helpdesku
-- Agent prodeje
-
-Tento článek obsahuje základní informace o fakturaci a faktuře pro partnery CSP v partnerském centru, včetně toho, jak fakturovat zákazníky a jak najít a číst vaši fakturu.
+Tento článek obsahuje základní informace o fakturaci a fakturaci pro partnery CSP v Partnerské centrum včetně toho, jak fakturovat zákazníky a jak najít a přečíst fakturu.
 
 
-## <a name="find-your-bill"></a>Hledání faktury
+## <a name="find-your-bill"></a>Vyhledání faktury
 
-Postup při hledání faktury:
+Vyhledání faktury:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 
-2. V nabídce partnerského centra vyberte **fakturace**.
+2. V nabídce Partnerské centrum vyberte **Fakturace.**
 
-3. Na stránce **fakturace** si můžete stáhnout nejnovější vydanou fakturu nebo stáhnout předchozí faktury v části **historie fakturace** .
+3. Na stránce **Fakturace** si můžete stáhnout nejnovější fakturu nebo stáhnout předchozí faktury v **části Historie** fakturace.
 
-## <a name="bill-your-customers"></a>Fakturovat si zákazníky
+## <a name="bill-your-customers"></a>Vyúčtování zákazníků
 
-Společnost Microsoft nemá žádné požadavky ani podmínky týkající se způsobu zpracování vaší vlastní fakturace.
+Microsoft nemá žádné požadavky ani podmínky týkající se způsobu zpracování vaší vlastní fakturace.
 
-Pokud chcete zjistit využití zákazníka, podívejte se na vaše [soubory odsouhlasení](#find-your-bill). K určení využití použijte název zákazníka a další příslušná pole.
+Pokud chcete zjistit využití zákazníka, podívejte se na vaše soubory [s vyrovnáním.](#find-your-bill) K určení využití použijte jméno zákazníka a další relevantní pole.
 
 ### <a name="billing-types"></a>Typy fakturace
 
-Typy fakturace v partnerském centru zahrnují fakturaci na **základě licencí**, **fakturaci na základě využití** a **jednorázové fakturaci**. 
+Typy fakturace v Partnerské centrum zahrnují **fakturaci na základě licencí,** fakturaci **na** základě využití a **účtování jednou.** 
 
 ### <a name="billing-currency"></a>Fakturační měna
 
-**Fakturace založená na licencích a na základě využití**: za produkt se vám bude účtovat v měně země nebo oblasti, ve které jste umístění. Účtují se stejně bez ohledu na umístění zákazníka, kterému jste prodali produkt (y).
+**Fakturace na** základě licencí a využití: Budou se vám účtovat produkty v měně země nebo oblasti, ve které se nacházíte. Bude se vám účtovat totéž bez ohledu na umístění zákazníka, kterému jste produkt(y) prodali.
 
-**Jednorázové účtování**: od 1. ledna 2021, partnerů v oblasti EU/ESVO a UK, kteří noví zákazníci a stávající zákazníci s poskytovateli CSP nakupují nové nabídky pro Commerce, jejichž klienti byli vytvořeni před 11. května 2020, se budou fakturovat za tyto nákupy v měně partnera Location.  Partneři, kteří se nacházejí mimo oblast EU/ESVO a UK, se budou dál účtovat v měně partnera umístění. Přečtěte si další informace o [jednorázová a opakující se](azure-plan-billing.md). 
+Fakturace jednou: Od 28. ledna 2021 budou partneři v oblasti EU/EFTA a Spojeného království, kteří mají nové zákazníky, a stávající zákazníci CSP, kteří poprvé kupují nové obchodní nabídky a jejichž tenanti byli vytvořeni před 11. květnem 2020, fakturovat za tyto nákupy v měně umístění partnera.  Partneři, kteří se nacházejí mimo oblast EU/EFTA a Spojené království, se budou dál fakturovat v měně umístění partnera. Přečtěte si další informace o [jednorázová a opakující se](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Faktury
 
@@ -110,35 +104,35 @@ Sazby za měřené služby se můžou v rámci cyklu fakturace změnit.
 
 #### <a name="annual-billing-rules"></a>Roční pravidla fakturace 
 
-- Odběry jsou roční a automaticky obnovovány.  
+- Předplatná jsou roční a automaticky se prodlužují.  
 
-- Fakturuje se za 12 měsíčních splátek nebo roční splátky na roční předplatné. 
+- Fakturace je 12 měsíčních plateb nebo jedna roční platba za roční předplatné. 
 
-- Účtují se vám poplatky za další fakturační období pro služby založené na licencích, a to na základě počtu licencí na konci předchozího fakturačního období. 
+- Za další fakturační období za služby založené na licencích se vám bude fakturovat předem na základě počtu licencí na konci předchozího fakturačního období. 
 
-- Poplatky se účtují a účtují v nedoplatkech za všechny změny v počtu licencí (výpočet je poměrně založený na licenčních dnech). Poměrné výpočty používá následující vzorec: 
+- V případě jakýchkoli změn počtu licencí (výpočet poměrné kapacity na základě počtu dnů licence) se vám zpětně fakturuje nebo vám bude připsána zpětná platba. Pro-rata calculation uses the following formula: 
 
-  - [ROUND ((ROUND (Unit Price * množství/počet dnů v poměru k-nominálnímu měsíci, 2) * počet dnů po rozměrné dny)/množství, 2) * množství] 
+  - [ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity] 
 
-- Platby se účtují za prodávané licence, nikoli zřízené licence. 
+- Platby se účtuly za prodané licence, nikoli zřízené licence. 
 
-#### <a name="monthly-billing-rules"></a>Měsíční pravidla fakturace 
+#### <a name="monthly-billing-rules"></a>Pravidla měsíční fakturace 
 
-- Odběry jsou měsíčně a automaticky se obnovují podle nových sazeb za měřené služby. Účtuje se vám každý měsíc na použití v předchozím měsíci. 
+- Předplatná se měsíc od měsíce automaticky prodlužují podle nových měřené sazby služeb. Využití za předchozí měsíc se vám účtuje každý měsíc. 
 
-- Sazby za měřené služby se můžou v rámci cyklu fakturace změnit. 
+- Sazby za měřené služby se mohou v rámci fakturačního cyklu měnit. 
 
-- Fakturovaná faktura bude obsahovat jenom poplatky za tento měsíc. 
+- Faktura, kterou obdržíte, bude mít pouze poplatky, které se za tento měsíc načtou. 
 
 
-### <a name="credit-notes"></a>Kreditní poznámky
+### <a name="credit-notes"></a>Dobropisů
 
-Možná budete muset požádat o kredit nebo novou fakturaci z následujících důvodů:
+Možná budete muset požádat o kredit nebo znovufaktovat z následujících důvodů:
 
-- Je nutné provést opravy adres nebo nákupních objednávek.
-- Po vygenerování faktury se použila daňová refundace. Můžete požádat o kredit nebo novou fakturaci a získat daňovou refundaci zpět do původní faktury. Totéž platí také pro refundace. Můžete požádat o kredit nebo novou fakturaci původní faktury a pak si vyžádat refundaci.
+- Musíte provést opravy adresy nebo nákupní objednávky.
+- Po vygenerování faktury se použila daňová refundace. Můžete požádat o kredit nebo dofakturu, abyste vrátili refundaci daně zpět na původní fakturu. Totéž platí i pro refundace. Můžete požádat o kredit nebo znovu fakturovat původní fakturu a pak si vyžádat refundaci.
 
-**U všech jednorázových a opakovaných transakcí** může společnost Microsoft vydat dobropis při žádosti o kredit nebo opětovné vyúčtování. Po vydání kreditu se faktura zruší. 
+**U všech opakovaných a opakovaných transakcí** může Microsoft při žádosti o kredit nebo fakturu vydat kreditní zprávu. Po vydání kreditu se faktura zruší. 
 
 ## <a name="next-steps"></a>Další kroky
 

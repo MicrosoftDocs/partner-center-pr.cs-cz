@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f005db5d69fe6febf79720544642ee9f3d8c2e75
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354402"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148869"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Informace o stavu a výpočtu platby posouzení řešení
 
-**Příslušné role**
-
-- Primární kontakt nebo správce programu
+**Příslušné role**: primární kontakt nebo správce programu
 
 Stav platby příležitosti k vyhodnocení řešení můžete zkontrolovat ve čipu.
 
@@ -44,15 +42,15 @@ Stav platby příležitosti k vyhodnocení řešení můžete zkontrolovat ve č
 
 ## <a name="calculations-for-solutions-assessment"></a>Výpočty pro posouzení řešení
 
-Pomocí definovaných plánů poplatků budou oblastní provozní střediska společnosti Microsoft počítat a zpracovávat související poplatky za pobídku a platby budou vydávány měsíčně.
+Na základě definovaných plánů poplatků vypočítá regionální operační centra Microsoftu přidružené poplatky za pobídky a zpracují je s měsíčními platbami.
 
-Aby se příležitosti zobrazovaly v této sestavě o schválení plateb, musí mít všechny následující atributy:
+Příležitosti musí mít všechny následující atributy, aby se v této sestavě schválení plateb objevily:
 
-1. Motivace posouzení řešení musí být schválena.
+1. Pobídky posouzení řešení musí být schválené.
 
-1. Pro zapojení v době, kdy je motivace schválena v hlavní části, je nastavena úroveň míry zapojení místních atributů úrovně řešení.
+1. Úroveň zapojení na úrovni zapojení řešení je nastavená pro zapojení v době, kdy je pobídka schválena v MSX.
  
-1. Zaškrtávací políčko "Kontrola EM" musí být zaškrtnuto a odesláno EM v čipu.
+1. Zaškrtávací políčko Kontrola EM musí být zaškrtnuté a odeslané EM na chipu.
 
 ## <a name="next-steps"></a>Další kroky
 

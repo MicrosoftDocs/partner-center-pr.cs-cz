@@ -1,43 +1,41 @@
 ---
-title: Použití platformy pro pobídky pro kanály (čip)
+title: Použití platformy CHIP (Channel Incentives Platform)
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 'Naučte se používat platformu pro motivaci kanálů (čip) pro práci s vašimi pobídkami. Poznámka: Tato platforma bude vyřazena na konci 2021.'
+description: Naučte se využívat platformu CHIP (Channel Incentives Platform) k práci v rámci pobídek. Upozorňujeme, že tato platforma bude na konci roku 2021 vyřazena.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: ebee6f49a57eb56429f33291768347be505e3b37
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570395"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148954"
 ---
-# <a name="navigate-the-channel-incentives-platform-chip"></a>Navigace na platformě kanálu pro pobídky (čip)
+# <a name="navigate-the-channel-incentives-platform-chip"></a>Navigace na platformě CHIP (Channel Incentives Platform)
+
+**Odpovídající role:** Správce CHIP
 
 >[!NOTE]
->ČIP TPM se vyřadí na konci 2021.
+>Platforma CHIP bude na konci roku 2021 vyřazena.
 
-**Příslušné role**
+## <a name="sign-into-the-chip-dashboard"></a>Přihlaste se k řídicímu panelu CHIP.
 
-- Správce čipu
+Chip (Channel Incentives Platform) poskytuje přístup k datům pobídek pro konkrétní programy Microsoft Channel Incentives a zobrazuje aktualizované podrobnosti o příjmech při prodeji produktů Microsoftu.
 
-## <a name="sign-into-the-chip-dashboard"></a>Přihlaste se na řídicí panel čipu.
-
-Platforma pro pobídky na kanál (čip) poskytuje přístup k motivaci dat pro konkrétní programy Microsoft Channel pobídek a zobrazuje aktualizované informace o získání informací o prodeji produktů Microsoftu.
-
-Pro registraci do čipu obdrží primární kontakt vaší společnosti pozvánku, která obsahuje jedinečný kód pozvánky (UIC). Kód je nutné použít pro přístup k čipu poprvé.
+Pokud se chcete zaregistrovat na CHIP, primární kontakt vaší společnosti obdrží pozvánku, která obsahuje jedinečný kód pozvánky (UIC). Tento kód musíte použít pro první přístup k čipu CHIP.
 
 
 Můžete se přihlásit a přejít následujícím způsobem:
 
-1. Otevřete čip a zadejte své ID společnosti Microsoft (předchozí Live ID) a heslo na přihlašovací stránce a pak klikněte na Přihlásit se.
+1. Otevřete CHIP, na přihlašovací stránce zadejte své Microsoft ID (předchozí Live ID) a heslo a pak klikněte na Přihlásit se.
  
-1. Vyberte program, ke kterému chcete získat přístup.
-Odtud můžete zobrazit svůj **výkon** a **tržby** pro vybraný program. 
+1. Vyberte program, ke které chcete získat přístup.
+Odtud můžete zobrazit výkon a **příjmy** pro program, který jste vybrali.  
 
 ## <a name="next-steps"></a>Další kroky
 

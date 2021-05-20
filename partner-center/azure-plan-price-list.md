@@ -4,58 +4,51 @@ ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si, jak můžou partneři programu CSP používat Partnerské centrum k zobrazení ceníku pro předplatná v rámci plánu Azure.
+description: Zjistěte, jak zprostředkovatelé programu CSP Partnerské centrum k zobrazení ceníku předplatných v rámci plánu Azure.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 6d8e73e664d400e8e6d80e529326e566c5fd88a8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924966"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149566"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Ceník nového obchodního prostředí v CSP pro Azure
 
-**Příslušné role**
+**Odpovídající role:** Agent pro správu | Správce fakturace | Globální správce | Agent helpdesku | Sales agent | Správce správy uživatelů
 
-- Agent správce
-- Správce fakturace
-- Globální správce
-- Agent helpdesku
-- Agent prodeje
-- Správce správy uživatelů
+Ceník nového komerčního prostředí Azure v CSP je zveřejněný v Partnerské centrum. Ceník se dynamicky doručuje v přesném souboru v reálném čase a ceny se zobrazují pouze v USD. Od 28. ledna 2021 se partnerům v oblasti EU/EFTA a Velké Británie, kteří mají nové zákazníky a stávající zákazníky CSP, kteří poprvé kupují nové obchodní nabídky, jejichž tenanti vytvořili před 11. květnem 2020, budou tyto nákupy účtovat v měně umístění partnera.  Partneři, kteří se nacházejí mimo oblast EU/EFTA a Spojené království, se budou dál účtovat v měně umístění partnera. Další informace najdete v článku [Plán Azure – fakturace.](azure-plan-billing.md)
 
-Ceník pro nové prostředí Azure Commerce v CSP je zveřejněný v partnerském centru. Ceník se dynamicky doručuje do správného souboru v reálném čase a ceny se zobrazují jenom v USD. Od 1. ledna 28 2021 partneři v oblasti EU/ESVO a UK, kteří noví zákazníci a stávající zákazníci s poskytovatelem CSP nakupují nové nabídky pro Commerce, jejichž klienti byli vytvořeni ještě dřív, než 11. května 2020, budou se fakturovat za tyto nákupy v měně partnera umístění.  Partneři, kteří se nacházejí mimo oblast EU/ESVO a UK, se budou dál účtovat v rámci měny partnera umístění, přečtěte si článek [plán Azure – fakturace](azure-plan-billing.md).
+## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Informace o cenách předplatných najdete v tématu Ceny plánu Azure.
 
-## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Podívejte se na ceny předplatných podle plánu Azure
+1. V nabídce Partnerské centrum na levé straně vyberte **Sell (Prodej)** a pak **vyberte Marketplace**.
 
-1. V nabídce partnerského centra na levé straně vyberte **prodávat** a pak vyberte **Marketplace**.
+2. V části Ceny plánu Azure vyberte zemi, pro kterou chcete cenu.
 
-2. V části ceny plánu Azure vyberte zemi, pro kterou chcete počítat s cenami.
-
-3. Vedle **pole typ exportu** vyberte **ceny za využití plánu Azure**, **ceny za rezervace plánu Azure** nebo **devizové sazby**. 
+3. Vedle možnosti **Typ exportu** vyberte **Ceny spotřeby plánu Azure,** **Ceny rezervací** plánu Azure nebo **Kurzy FX.** 
 
 >[!NOTE] 
->**Sazby za FX** nejsou specifické pro země.
+>**Sazby FX** nejsou specifické pro jednotlivé země.
 
-4. V poli **ceny pro datum** vyberte datum, které chcete, například **aktuální**.
+4. Vedle **položky Ceny pro datum** vyberte datum, které chcete, například **Aktuální**.
 
-   :::image type="content" source="images/azure/pricingnew.png" alt-text="konkrétní země":::
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="specifická pro zemi":::
 
 >[!NOTE] 
->Můžete exportovat dva různé ceníky – ceny plánu Azure a ceny třetích stran na webu Marketplace.
+>Můžete exportovat dva různé ceníky – ceny plánu Azure a ceny třetích stran na Marketplace.
 
-## <a name="azure-price-list-specifics"></a>Specifické ceny Azure pro ceník
+## <a name="azure-price-list-specifics"></a>Specifika ceníku Azure
 
-- Ceny plánu Azure budou k dispozici na stránce Marketplace v partnerském centru v části **prodej**.
+- Ceny plánu Azure budou k dispozici na stránce Marketplace v části Partnerské centrum v části **Prodej.**
 
-- K dispozici jsou exporty pro služby spotřeby plánů Azure, Azure Reservations a míry FX.
+- Exporty budou k dispozici pro služby využití plánu Azure, rezervace Azure a sazby FX.
 
 - Mezi možnosti exportu patří:
 
-  - **Dnešní ceny**: zahrnuje všechny měřiče a ceny od 1. měsíce k aktuálnímu datu aktuálního měsíce. To zahrnuje nové ceny, změněné ceny nebo odebrané ceny. Všechny ceny budou mít počáteční počáteční a koncové datum, které vysvětlí, jestli jsou nové nebo odebrané.
+  - **Today's pricing**: Zahrnuje všechny měřiče a ceny od 1. dne v měsíci až po aktuální datum aktuálního měsíce. To zahrnuje nové ceny, změněné ceny nebo odebrané ceny. Všechny ceny budou mít počáteční počáteční a koncové datum, které vysvětlí, jestli jsou nové nebo odebrané.
 
   - **Ceny za předchozí měsíc**: stažení každého typu prostředku bude po měsících. Pro soubory s cenami budou zahrnuty všechny měřiče, které byly během daného měsíce k dispozici. Pokud se v průběhu měsíce objevilo nové měření, zobrazí se mi jako měřič s datem účinnosti, který odráží jeho dostupnost. Podobně jako u cen, které jsou vyřazeny, zobrazuje s nejefektivnějším koncovým datem, které popisují, kdy již nejsou k dispozici.
 
@@ -73,28 +66,28 @@ Ceník pro nové prostředí Azure Commerce v CSP je zveřejněný v partnerské
 |ProductID   |ID produktu|
 |SKuId|ID SKU|
 |SkuTitle|Název nebo název SKU|
-|Publisher|1. strana bude vždycky Microsoft|
-|SkuDescription|Popis SKU|
-|UnitOfMeasure|Jednotky, které se účtují nebo účtují|
-|TermDuration|U produktů založených na termínech se délka podmínky vztahuje na rezervace.|
-|Uvádět|Uvedení ceny na trh|
+|Publisher|První stranou bude vždy Microsoft.|
+|Popis Sku|Popis SKU|
+|UnitOfMeasure|Jednotky, které se budou účtovat nebo fakturovat|
+|TermDuration|U produktů založených na termínech se délka období vztahuje na rezervace.|
+|Trhu|Trh cen|
 |Měna|Měna cen|
 |UnitPrice|Cena za jednotku|
 |PricingTierRangeMin|Pro vrstvené ceny platí minimální cena.|
 |PricingTierRangeMax|Pro vrstvené ceny platí maximální cena.|
 |EffectiveStartDate|Počáteční datum cen|
 |EffectiveEndDate|Koncové datum cen|
-|MeterId|ID měřiče SKU produktu|
-|MeterType|Typ měřiče|
-|Značky|Vlastnosti položky, pro ceny plánu Azure se bude jednat o Azure nebo Azure a rezervace (pro konkrétně rezervace).|
+|ID měřiče|ID měřiče SKU produktu|
+|MeterType (Typ měřiče)|Typ měřiče|
+|Značky|Vlastnosti položky, u cen plánu Azure to budou Azure nebo Azure a rezervace (konkrétně rezervace).|
 
-Ceníky pro plán Azure můžete exportovat ze [stránky ceny a nabídky](https://partner.microsoft.com/dashboard/sell/pricingandoffers) v partnerském centru.
+Ceníky pro plán Azure je možné exportovat na stránce [Ceny a nabídky v](https://partner.microsoft.com/dashboard/sell/pricingandoffers) Partnerské centrum.
 
 ## <a name="tiered-pricing"></a>Vrstvené ceny
 
-Některé služby spotřeby plánu Azure podporují vrstvené ceny. Partneři můžou tyto produkty a SKU najít v ceníku plánu Azure. Položky, které mají hodnoty ve sloupcích rozsah cenové úrovně, umožňují partnerům pochopit cenu na základě využití. V níže uvedeném příkladu máte k dispozici jednu skladovou položku produktu se třemi cenovými úrovněmi.
+Některé služby Využití plánu Azure podporují vrstvené ceny. Partneři najdou tyto produkty a SKU v ceníku plánu Azure. Položky, které mají hodnoty ve sloupcích s rozsahem cenových úrovní, umožňují partnerům pochopit cenu na základě využití. V následujícím příkladu s ukázkovými daty máme jednu SKU produktu se třemi cenovou úrovní.
 
-|**ProductId**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
+|**Productid**   |**ID SKU**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
 |DDD123456ABC|01AB|.50|100001|9223372036854780000|
 |DDD123456ABC|01AB|.80|101|100000|

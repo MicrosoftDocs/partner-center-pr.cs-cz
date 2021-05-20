@@ -9,21 +9,16 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: cd7567a53f517d770bf51c734f5a1ace7b6ec94b
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941771"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150552"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Postup přidání záznamu nového zákazníka v partnerském centru
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
-- Agent správce
-- Agent prodeje
+**Příslušné role**: globální správce | Správce správy uživatelů | Agent správce | Agent prodeje
 
 Tento článek popisuje, jak přidat nového zákazníka do seznamu zákazníků v partnerském centru. Tyto kroky jsou nutné, aby bylo možné prodávat předplatná, spravovat fakturaci nebo poskytovat podporu zákazníkům.
 

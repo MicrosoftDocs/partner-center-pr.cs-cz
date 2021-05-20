@@ -1,48 +1,46 @@
 ---
-title: Stav příležitosti posouzení řešení čipu
+title: Stav příležitosti vyhodnocení řešení CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Přečtěte si, jak najít svůj stav příležitosti hodnocení řešení v rámci platformy pro motivaci kanálů (čip).
+description: Zjistěte, jak zjistit stav příležitosti posouzení řešení na platformě CHIP (Channel Incentives Platform).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df7418e48832344fd6de052a7387a2f5c8368363
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354589"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148835"
 ---
-# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Najít stav příležitosti vyhodnocení řešení na čipu
+# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Vyhledání stavu příležitosti posouzení řešení na čipu CHIP
 
-**Příslušné role**
+**Odpovídající role:** Primární kontakt nebo správce programu
 
-- Primární kontakt nebo správce programu
+Partneři mohou na chipu zkontrolovat stav příležitosti posouzení řešení.
 
-Partneři můžou zkontrolovat stav příležitosti vyhodnocení řešení na čipu.
+## <a name="determine-the-status-of-your-deal"></a>Určení stavu dohody
 
-## <a name="determine-the-status-of-your-deal"></a>Určení stavu koupě
+Ujistěte se, že vaše dohoda dosáhla způsobilé prodejní fáze a že je schválená specialistou na posouzení řešení (SAS). Zkontrolujte to ve svém účtu CHIP.
 
-Ujistěte se, že vaše koupě dosáhla opravňující fáze prodeje a že je schválená specialistou pro posuzování řešení (SAS). Ověřte tento účet čipu.
-
-1. Přihlaste se k čipu pomocí účtu Microsoft (předchozí Live ID).
+1. Přihlaste se k chipu pomocí svého účtu Microsoft (předchozí live ID).
 1. Do pole **ID příležitosti** zadejte nebo vložte číslo ID příležitosti.
 3. Klikněte na Vyhledat.
 
-1. Kliknutím na **Zobrazit** v části sloupec **PoE** zobrazíte podrobnosti o příležitosti. Zkontrolujte stav příležitosti. Pokud je příležitost ve stavu **odesílání** , je nutné odeslat dokumenty ověření spuštění (PoE), aby bylo možné v rámci platebního procesu přejít vpřed.
+1. Kliknutím **na Zobrazit** ve **sloupci Poe** zobrazíte podrobnosti o příležitosti. Zkontrolujte stav příležitosti. Pokud je příležitost ve **stavu Odeslání,** musí se odeslat dokumenty důkazu o provedení, aby bylo možné pokračovat v procesu platby.
  
-1. Klikněte na odkaz upravit a ověřte, jestli se všechny dokumenty POE nahrály. Poznamenejte si, jestli je POE nahraný a že je zaškrtnuté políčko schválení EM.
+1. Kliknutím na odkaz Edit (Upravit) zkontrolujte, jestli se nahrály všechny dokumenty POE. Poznamenejte si, pokud je nahrané pouštní zařízení a je zaškrtnuté políčko Schválení EM.
  
-1. Vraťte se do výsledků hledání a kliknutím na příslušný název obchodu načtěte podrobnosti o obchodu. 
+1. Vraťte se k výsledkům hledání a kliknutím na příslušný název dohody načtěte podrobnosti o dohody. 
 
-1. Na základě informací zjištěných v krocích 4 až 6 určete, zda byly splněny minimální požadavky na motivační přístup. Pokud žádný požadavek nesplňuje, udělejte toto:
+1. Na základě informací uvedených v krocích 4 až 6 určete, jestli byly splněny minimální požadavky na příjmy v rámci pobídek. Pokud nebyl splněn nějaký požadavek, proveďte následující:
  
-     - Pokud se POE nenahrál, budete ho muset nahrát do čipu.
+     - Pokud se poe nenahraje, musíte ho nahrát na CHIP.
  
-     - Otevřete čip a přihlaste se pomocí účtu Microsoft (předchozí Live ID).
+     - Otevřete CHIP a přihlaste se pomocí svého účtu Microsoft (předchozí Live ID).
  
      - Vyberte **řešení – pobídky.**
 

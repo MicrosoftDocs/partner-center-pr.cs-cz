@@ -9,21 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e317cb58e9ebf4b0efad2933f866d5db19d8dc1a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 764d5a3cb0dc6f409e5272d4119424396caff53b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502459"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148631"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Běžné scénáře fakturace pro transakce SaaS založené na licencích v partnerském centru
 
-**Příslušné role**
-
-- Agent správce
-- Správce fakturace
-- Agent helpdesku
-- Agent prodeje
+**Příslušné role**: Agent správce | Správce fakturace | Agent helpdesku | Agent prodeje
 
 
 Tyto příklady [běžných fakturačních scénářů](common-billing-scenarios.md) se vztahují na předplatné na základě licenčního softwaru jako služby (SaaS) v partnerském centru.
@@ -39,18 +34,18 @@ Soubory rekognoskaci budou zahrnovat následující poplatky:
 | Datum nákupu | Počáteční datum platby | Koncové datum zpoplatnění | Jednotková cena | Množství jednotek | Total amount | Typ poplatku | Popis předplatného |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 1 | $0 | Nová | Bezplatná zkušební verze |
-| 07/10/2019 | 07/10/2019 | 08/09/2019 | $2 | 1 | $2 | Obnovit | Placené předplatné |
+| 07/10/2019 | 07/10/2019 | 08/09/2019 | 2 USD | 1 | 2 USD | Obnovit | Placené předplatné |
 
-## <a name="cancel-a-free-trial-saas-subscription"></a>Zrušení bezplatného zkušebního předplatného SaaS
+## <a name="cancel-a-free-trial-saas-subscription"></a>Zrušení bezplatné zkušební verze předplatného SaaS
 
 > [!TIP]
-> Předplatné bezplatné zkušební verze SaaS na základě licence můžete kdykoli zrušit, a to i během bezplatné zkušební doby.
+> Bezplatné zkušební předplatné SaaS založené na licencích můžete kdykoli zrušit, a to i během bezplatné zkušební doby.
 
-V tomto scénáři jste si zakoupili předplatné bezplatné zkušební verze SaaS na základě licencí od 1. července a pak ho okamžitě zrušili v partnerském centru.
+V tomto scénáři jste si 1. července zakoupili bezplatné zkušební předplatné SaaS založené na licencích a pak jste ho okamžitě Partnerské centrum.
 
-Soubor rekognoskaci bude obsahovat následující poplatky:
+Soubor odsoustavy bude obsahovat následující poplatky:
 
-| Datum nákupu | Počáteční datum platby | Koncové datum zpoplatnění | Jednotková cena | Množství jednotek | Total amount | Typ poplatku | Popis předplatného |
+| Datum nákupu | Počáteční datum poplatku | Koncové datum poplatku | Jednotková cena | Unit quantity | Total amount | Typ poplatku | Popis předplatného |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | Nová | Bezplatná zkušební verze |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | Zrušit | Bezplatná zkušební verze |
@@ -67,15 +62,15 @@ Soubor rekognoskaci bude obsahovat následující poplatky:
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | $20 | 1 | $20 | Nová | Předplatné Custom měřič SaaS |
 | 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | $20 | 1 | -$20 | Převést | Poměrné přeúčtování pro vlastní předplatné měřičů SaaS |
-| 06/10/2019 | Bronzová | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | Převést | Předplatné Custom měřič SaaS |
+| 06/10/2019 | Bronzová | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | Převést | Vlastní předplatné SaaS měřiče |
 
-## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Nákup a zrušení předplatného měření zákazníka SaaS ve stejném datu
+## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Nákup a zrušení předplatného SaaS zákaznického měřiče ke stejnému datu
 
-Tento scénář popisuje fakturaci pro předplatné měřiče zákazníka, které jste zakoupili a zrušili prostřednictvím Azure Portal ve stejné datum.
+Tento scénář popisuje fakturaci předplatného SaaS pro měřiče zákazníka, které jste zakoupili a zrušili Azure Portal stejném datu.
 
-V tomto scénáři jste si zakoupili vlastní předplatné měření SaaS na Azure Portal. Pak jste zrušili předplatné na stejné datum.
+V tomto scénáři jste si zakoupili vlastní předplatné SaaS měřiče na Azure Portal. Potom jste předplatné zrušili ke stejnému datu.
 
-| Datum nákupu | SKU | Počáteční datum platby | Koncové datum zpoplatnění | Jednotková cena | Množství jednotek | Total amount | Typ poplatku | Popis předplatného |
+| Datum nákupu | SKU | Počáteční datum poplatku | Koncové datum poplatku | Jednotková cena | Unit quantity | Total amount | Typ poplatku | Popis předplatného |
 | ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Bronzová | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | Nová | Předplatné Custom měřič SaaS |
-| 06/10/2019 | Bronzová | 06/10/2019 | 06/10/2019 | $10 | 1 | -$10 | CancelImmediate | Předplatné Custom měřič SaaS |
+| 06/10/2019 | Bronz | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | Nová | Vlastní předplatné SaaS měřiče |
+| 06/10/2019 | Bronz | 06/10/2019 | 06/10/2019 | $10 | 1 | -$10 | CancelImmediate | Předplatné Custom měřič SaaS |

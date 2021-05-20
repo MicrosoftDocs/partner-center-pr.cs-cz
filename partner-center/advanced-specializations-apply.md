@@ -1,49 +1,46 @@
 ---
-title: Použít pro pokročilé specializace
+title: Použití pro pokročilé specializace
 ms.topic: how-to
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Posílit obchodní profil v adresáři partnerů Microsoftu. Naučte se používat Partnerské centrum k aplikování a získání pokročilých specializací.
+description: Posílit obchodní profil v adresáři partnerů Microsoftu. Zjistěte, jak pomocí Partnerské centrum požádat o pokročilé specializace a získat je.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 44574f49d49a8300c65432463de16841af483ca4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557779"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150501"
 ---
-# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Použití partnerského centra k použití pro pokročilou specializaci a kontrolu jejich stavu
+# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Pomocí Partnerské centrum můžete požádat o pokročilé specializace a zkontrolovat jejich stav.
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Správce účtu
 
-- Globální správce
-- Správce účtu
+Tento článek popisuje, jak pomocí řídicího Partnerské centrum použít pokročilou [specializaci,](advanced-specializations.md)zkontrolovat průběh a provést nezbytné kroky a ověření. Zobrazí se také příklady použití Partnerské centrum k dosažení určitých pokročilých specializací, které vyžadují audit nebo reference na zákazníky.
 
-Tento článek popisuje, jak použít řídicí panel partnerského centra pro [pokročilou specializaci](advanced-specializations.md), kontrolu průběhu a dokončení nezbytných kroků a ověření. Také se dozvíte v příkladech použití partnerského centra k dosažení určitých pokročilých specializací, které vyžadují audit nebo odkazy na zákazníky.
+Další informace o výhodách pokročilých specializací a jejich konkrétních požadavcích najdete v [tématu Microsoft Partner Network pokročilé specializace.](https://partner.microsoft.com/membership/advanced-specialization)
 
-Další informace o výhodách pokročilých specializací a jejich specifických požadavcích naleznete v tématu [Microsoft Partner Network pokročilé specializace](https://partner.microsoft.com/membership/advanced-specialization).
+## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Pomocí Partnerské centrum můžete požádat o rozšířené specializace nebo zkontrolovat jejich stav.
 
-## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Použití partnerského centra k použití pro pokročilé specializace nebo kontrolu jejich stavu
+Abyste získali nárok na pokročilou specializaci, musíte nejprve splnit určité požadavky, jako je například kompetence Gold [v](https://partner.microsoft.com/membership/competencies) související oblasti. Pak je potřeba použít v Partnerské centrum a dokončit klíčové kroky, požadavky a ověření Microsoftu pro tuto pokročilou specializaci.
 
-Pokud chcete získat nárok na pokročilou specializaci, musíte nejdřív splnit určité předpoklady, jako je například zlatá [kompetence](https://partner.microsoft.com/membership/competencies) v související oblasti. Pak je potřeba použít v partnerském centru a kompletních klíčových krocích, požadavcích a ověření Microsoftu pro tuto pokročilou specializaci.
+Velká část procesu je k dispozici na řídicím panelu Partnerské centrum panelu. K této oblasti ale Partnerské centrum [uživatelé](permissions-overview.md) s určitou Partnerské centrum role.
 
-Většina těchto procesů je k dispozici v rámci řídicího panelu partnerského centra. Přístup k této oblasti partnerského centra ale mají jenom uživatelé s určitou [rolí](permissions-overview.md) partnerského centra.
+Abyste k této oblasti měli přístup, musíte mít  roli správce účtu **MPN** nebo globálního správce pro partnerský účet Microsoft vaší organizace.
 
-Pro přístup k této oblasti musíte mít udělenou roli **správce účtu MPN** nebo **globální správce** účtu partnera Microsoftu vaší organizace.
-
-### <a name="follow-these-steps-to-access-this-area"></a>Pro přístup k této oblasti použijte tento postup:
+### <a name="follow-these-steps-to-access-this-area"></a>Pokud chcete získat přístup k této oblasti, postupujte takto:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 
-2. V nabídce partnerského centra klikněte na část **MPN** a potom na **adv. specializace**. Nabídka se rozbalí a zobrazí se všechny rozšířené specializace, které máte k dispozici.
+2. Vyberte **část MPN** v nabídce Partnerské centrum a pak **Adv. Specializations**. Nabídka se rozbalí a zobrazí všechny pokročilé specializace, které máte k dispozici.
 
-3. Chcete-li zobrazit podrobnosti, vyberte název rozšířené specializace. Zobrazí se konkrétní požadavky a kroky, aktuální stav a odkazy na další kroky nebo prostředky.
+3. Pokud chcete zobrazit podrobnosti, vyberte název rozšířené specializace. Uvidíte konkrétní požadavky a kroky, aktuální stav a odkazy na další kroky nebo prostředky.
 
-   V této oblasti partnerského centra se můžete vrátit, abyste viděli aktuální stav směrem k dosažení jakékoli pokročilé specializace.
+   Do této oblasti se můžete vrátit a Partnerské centrum aktuální stav k dosažení jakékoli pokročilé specializace.
 
 4. Až dokončíte všechny požadavky na pokročilou specializaci, zkontrolujte tuto oblast partnerského centra znovu, abyste viděli, jestli se váš stav změnil na **aktivní** pro určitou pokročilou specializaci.
 
@@ -90,32 +87,32 @@ Pak postupujte podle těchto kroků a naplánujte audit v partnerském centru:
 
 2. V nabídce partnerského centra klikněte na část **MPN** a potom na **adv. specializace**. Nabídka se rozbalí a zobrazí se všechny rozšířené specializace, které máte k dispozici.
 
-3. Vyberte název rozšířené specializace, která vyžaduje, abyste naplánovali audit. Řekněme například, že vyberete **modernizaci webových aplikací na Microsoft Azure**. Pro tuto pokročilou specializaci se pak zobrazí stránka požadavky.
+3. Vyberte název rozšířené specializace, která vyžaduje naplánování auditu. Řekněme například, že vyberete **možnost Modernizace webových** aplikací pro Microsoft Azure . Zobrazí se stránka s požadavky pro tuto pokročilou specializaci.
 
-   :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Ukázková stránka předpokladů ukazující požadavky na získání konkrétní pokročilé specializace.":::
+   :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Stránka s ukázkovými požadavky zobrazující požadavky na získání konkrétní pokročilé specializace":::
 
-4. Jakmile splníte všechny požadavky na tuto pokročilou specializaci, budete moct z této stránky vybrat tlačítko **naplánovat audit** .
+4. Jakmile splníte všechny požadavky pro tuto pokročilou specializaci,  budete moct na této stránce vybrat tlačítko Naplánovat audit.
 
-   - Dokud nebudete splňovat všechny požadavky zobrazené na této stránce, váš stav zůstane **Nespuštěný**. Tlačítko **naplánovat audit** zůstane také zakázáno. 
-   - Po splnění všech požadavků společně s auditem se stav změní na **aktivní**.
+   - Dokud nebudou splněny všechny požadavky uvedené na této stránce, zůstane stav **Nezačátečně.** Tlačítko **Naplánovat audit** také zůstane zakázané. 
+   - Po splnění všech požadavků spolu s auditem se stav změní na **Aktivní.**
 
-## <a name="provide-customer-references-in-partner-center"></a>Poskytování odkazů na zákazníky v partnerském centru
+## <a name="provide-customer-references-in-partner-center"></a>Uveďte referenční informace o zákaznících v Partnerské centrum
 
-Kromě jejich vlastních požadavků musí některé pokročilé specializace také poskytovat *odkazy na zákazníky*. Podívejte se na předchozí seznam pokročilých specializací, které vyžadují odkazy na zákazníky.
+Kromě vlastních požadavků potřebujete u některých pokročilých specializací také zadat *referenční informace pro zákazníky.* Podívejte se na dřívější seznam pokročilých specializací, které vyžadují odkazy na zákazníky.
 
-Pak postupujte podle těchto kroků a poskytněte odkazy na zákazníky v partnerském centru:
+Pak postupujte podle těchto kroků a uveďte referenční informace o zákaznících v Partnerské centrum:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home) pro Partnerské centrum.
 
-2. V nabídce partnerského centra klikněte na část **MPN** a potom na **adv. specializace**. Nabídka se rozbalí a zobrazí se všechny rozšířené specializace, které máte k dispozici.
+2. Vyberte **část MPN** v nabídce Partnerské centrum a pak **Adv. Specializations**. Nabídka se rozbalí a zobrazí všechny pokročilé specializace, které máte k dispozici.
 
-3. Vyberte název rozšířené specializace, která vyžaduje, abyste zadali odkazy na zákazníky. Řekněme například, že vyberete **schůzky a místnosti pro schůzky Microsoft Teams**.
+3. Vyberte název rozšířené specializace, která vyžaduje, abyste poskytovali referenční informace pro zákazníky. Řekněme například, že vyberete Schůzky a **Meeting Rooms for Microsoft Teams**.
 
-   Pro tuto pokročilou specializaci se pak zobrazí stránka požadavky. Kromě Gold Competency, certifikace a požadavků na výkon Tato pokročilá specializace také vyžaduje, abyste poskytovali tři zákaznické odkazy, které předvádějí možnost nasazení a správy.
+   Zobrazí se stránka s požadavky pro tuto pokročilou specializaci. Kromě zlatých kompetencí, certifikací a požadavků na výkon vyžaduje tato pokročilá specializace také tři referenční informace pro zákazníky, které demonstrují vaši schopnost nasazovat a spravovat.
 
-   :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Ukázka stránky předpoklady pro pokročilou specializaci, která vyžaduje odkazy na zákazníky.":::
+   :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Stránka s požadavky ukázkových pokročilých specializací, která vyžaduje odkazy na zákazníky.":::
 
-4. Dokud nesplníte všechny požadavky zobrazené na této stránce a zadáte odkazy na zákazníky, váš stav zůstane **Nespuštěný**. Po splnění všech požadavků se stav změní na **aktivní**.
+4. Dokud nevyhodíte všechny požadavky uvedené na této stránce a nezadáte referenční informace o zákaznících, zůstane váš stav **Nezačáte.** Po splnění všech požadavků se stav změní na **aktivní**.
 
 ## <a name="next-steps"></a>Další kroky
 

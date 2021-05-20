@@ -4,33 +4,28 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Naučte se, jak použít pro program poskytovatele spravovaných služeb Azure experta na úsporu od ostatních partnerů a získat nejvyšší prioritu v modulu odkazů.
+description: Zjistěte, jak požádat o program Poskytovatel spravovaných služeb Azure Expert, aby odnikl od ostatních partnerů a získal nejvyšší prioritu v referenčním modulu.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 364add7e25052ce97bfb26b84b26c5fcc430637d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 45908ef67beaf2f84ae4cddfe11bfdfe8886ab96
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534654"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149804"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Program Poskytovatel spravovaných služeb Azure Expert
 
-**Příslušné role**
+**Odpovídající role:** Správce účtu | Správce obchodního | Globální správce | Správce partnera MPN
 
-- Správce účtu
-- Správce obchodního profilu
-- Globální správce
-- Správce partnera MPN
+Pokud je vaše společnost superstar v prodeji a správě služeb Azure zákazníkům, podívejte se na použití v Poskytovatel spravovaných služeb Azure Expert programu. Azure Expert MSP partneři získají exkluzivní odznáčku, který se liší od ostatních partnerů Microsoftu, a získají nejvyšší prioritu v referenčním modulu. Mají prioritu pro zapojení do spoluprodávku, dostávají podporu při vývoji nových postupů a dají se účastnit exkluzivních akcí.
 
-Pokud je vaše společnost Superstar při prodeji a správě služeb Azure pro zákazníky, podívejte se na použití programu pro poskytovatele služby Azure expert Managed Services. Partneři Azure expert MSP získávají exkluzivní označení od ostatních partnerů Microsoftu a získají v modulu odkazů nejvyšší prioritu. Jejich prioritu jsou pro souběžné zapojení, přijímají podporu při vývoji nových postupů a můžou se zúčastnit exkluzivních událostí.
+Proces použití u Azure MSP zahájíte v levém navigačním panelu. vyberte **Kompetence a programy a** pak vyberte **Azure Expert MSP**. Přečtěte si další [informace o požadavcích a procesu aplikace.](https://partner.microsoft.com/membership/azure-expert-msp) 
 
-Pokud chcete zahájit proces použití na Azure MSP, klikněte na levém navigačním panelu. Vyberte možnosti **kompetence a programy** a pak vyberte **Azure expert MSP**. Přečtěte si další informace o [požadavcích a procesu aplikace](https://partner.microsoft.com/membership/azure-expert-msp). 
-
-Pokud jste to ještě nezpůsobili, můžete i nadále vytvářet partnerství Microsoftu prostřednictvím vylepšení členství, školení a dalších příležitostí.
-Přečtěte si o krocích, které můžete provést při [vývoji podnikání a odbornosti](https://partner.microsoft.com/membership/azure-expert-msp).
+Pokud ještě nemáte nárok, stále můžete vytvořit partnerství Microsoftu prostřednictvím vylepšení členství, školení a dalších příležitostí k růstu.
+Přečtěte si o krocích, které můžete provést [při vývoji vaší firmy a odborných znalostí.](https://partner.microsoft.com/membership/azure-expert-msp)
 
 ## <a name="next-steps"></a>Další kroky
 

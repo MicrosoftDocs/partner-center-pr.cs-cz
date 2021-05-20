@@ -9,19 +9,16 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 58feabdefb02660559c69f61190070310768b947
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534909"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149651"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Začněte používat tarify průběžných plateb s plánem Azure.
 
-**Příslušné role**
-
-- Agent správce
-- Agent prodeje
+**Příslušné role**: Agent správce | Agent prodeje
 
 
 Společnost Microsoft zavedla nové prostředí pro obchod v partnerském centru.  Díky tomuto novému prostředí pro obchod získají partneři přístup ke službám Azure podle tarifů průběžných plateb pro zákazníky podle smlouvy o zákaznících Microsoftu.
@@ -32,46 +29,46 @@ Potřeby digitálních transformací pro naše zákazníky vyžadují nové dove
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Ujistěte se, že vaši zákazníci podepsali smlouvu o zákaznících Microsoftu.
 
-Od 1. října 2019 se k dispozici smlouva o zákaznících Microsoftu, která je k dispozici a zjednodušuje a zjednodušuje možnosti nákupu zákazníků pomocí plně digitálního procesu. Všichni zákazníci, kteří chtějí využít nové prostředí pro obchodování v CSP pro Azure, musí podepsat smlouvu o zákaznících Microsoftu.
+Od 1. října 2019 je k dispozici Smlouva se zákazníkem Microsoftu, časově neomezená smlouva, která zjednodušuje a zefektivňuje nákupní prostředí zákazníků s plně digitálním procesem. Všichni zákazníci, kteří chtějí využívat nové obchodní prostředí v CSP pro Azure, musí podepsat Smlouva se zákazníkem Microsoftu.
 
-Partneři, kteří chtějí v rámci nového plánu Azure vytvořit novou objednávku, by měli potvrdit přijetí zákaznických smluv Microsoftu pomocí řídicího panelu partnerského centra a rozhraní API v produkčním prostředí.
+Partneři, kteří chtějí provést transakce v rámci nového plánu Azure a vytvořit novou objednávku, by měli potvrdit souhlas zákazníka s Smlouva se zákazníkem Microsoftu pomocí řídicího panelu Partnerské centrum a rozhraní API v produkčním prostředí.
 
-Od 1. února 2020 se stávající smlouva Microsoft Cloud odebere z programu CSP. Od této doby bude pro všechny ostatní nabídky, včetně Microsoft 365, Dynamics 365 a stávajících Azure, vyžadováno potvrzení partnera (atestace) přijetí souhlasu se zákazníkem pro novou zákaznickou smlouvu Microsoftu. Partneři v CSP nebudou moct vytvořit novou objednávku pro zákazníka bez potvrzení smlouvy o zákaznících Microsoftu.
+Od 1. února 2020 se existující Smlouva o službách Microsoft Cloud z programu CSP odebere. Od té doby bude u všech ostatních nabídek, včetně Microsoft 365, Dynamics 365 a existujícího Azure, vyžadováno potvrzení souhlasu partnera (ověření) přijetí nové služby Smlouva se zákazníkem Microsoftu zákazníkem. Partneři v CSP nebudou moct vytvořit pro zákazníka novou objednávku bez ověření Smlouva se zákazníkem Microsoftu.
 
-Úplné podrobnosti najdete v článku [potvrzení souhlasu zákazníka se smlouvou Microsoft pro zákazníky](confirm-customer-agreement.md) .
+Úplné podrobnosti najdete v tématu [Potvrzení souhlasu zákazníka s Smlouva se zákazníkem Microsoftu](confirm-customer-agreement.md)
 
-## <a name="security-and-access-control-practices"></a>Postupy řízení přístupu a zabezpečení
+## <a name="security-and-access-control-practices"></a>Postupy zabezpečení a řízení přístupu
 
-Abychom vám pomohli chránit partnery a zákazníky, zavádíme sadu povinných požadavků na zabezpečení pro poradce, dodavatele ovládacích panelů a partnery účastnící se programu Cloud Solution Provider.
+Za účelem ochrany partnerů a zákazníků zavádíme sadu povinných požadavků na zabezpečení pro poradce, dodavatele Ovládací panely a partnery, kteří se účastní Cloud Solution Provider programu.
 
-Partneři, kteří neimplementují povinné požadavky na zabezpečení, nebudou moci pracovat v programu Cloud Solution Provider ani spravovat klienty, kteří využívají oprávnění správce delegování, jakmile budou tyto požadavky vynutily. V procesu nastavování data technického vynucování pro požadavky a upozorní partnery na datum s podrobnými informacemi.
+Partneři, kteří neimplementují povinné požadavky na zabezpečení, nebudou moct po vynucování těchto požadavků provádět transakce v programu Cloud Solution Provider ani spravovat tenanty zákazníků s využitím práv delegovaného správce. Právě zavádíme datum technického vynucování požadavků a na datum upozorníme partnery s podrobnými informacemi.
 
-## <a name="actions-to-take-to-implement-mfa"></a>Akce, které se mají provést při implementaci MFA
+## <a name="actions-to-take-to-implement-mfa"></a>Akce, které je za účelem implementace MFA
 
-Vzhledem k tomu, že má vysoce privilegovaný charakter jako partner, potřebujeme zajistit, aby měl každý uživatel výzvu MFA pro každé samostatné ověřování. To lze provést jedním z následujících způsobů:
+Vzhledem k vysoce privilegované povaze partnera musíme zajistit, aby každý uživatel měl při každém ověření výzvu více ověřování. Toho lze dosáhnout jedním z následujících způsobů:
 
-- Implementace Azure AD Premium a zajištění, že pro každého uživatele se vynutilo vícefaktorové ověřování (MFA)
+- Implementace Azure AD Premium a zajištění vynucení vícefaktorového ověřování (MFA) pro každého uživatele
 - Implementace [výchozích hodnot zabezpečení Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
-- Implementace řešení třetí strany a ověření vícefaktorového ověřování pro každého uživatele
+- Implementace řešení třetí strany a zajištění vynucení MFA pro každého uživatele
 
-Od 1. srpna 2019 musí všichni partneři vymáhat službu Multi-Factor Authentication pro všechny uživatele, včetně účtů služeb ve svém partnerském tenantovi. Podrobné informace o těchto požadavcích na zabezpečení najdete v [požadavcích na zabezpečení partnera](partner-security-requirements.md).
+Od 1. srpna 2019 musí všichni partneři vynucovat vícefaktorové ověřování pro všechny uživatele, včetně účtů služeb, v partnerském tenantovi. Podrobné informace o těchto požadavcích na zabezpečení najdete v požadavcích [na zabezpečení partnerů.](partner-security-requirements.md)
 
-Microsoft doporučuje partnerům využít usilovně RBAC, a to podle osvědčených postupů povolených prostřednictvím [Azure Active Directory Privileged identity Managementch prostředků](/azure/active-directory/privileged-identity-management/pim-configure).
+Microsoft doporučuje partnerům, aby RBAC vyhověli, a to podle osvědčených postupů povolených [prostřednictvím Azure Active Directory Privileged Identity Management prostředků.](/azure/active-directory/privileged-identity-management/pim-configure)
 
-## <a name="read-more-about-the-azure-plan"></a>Přečtěte si další informace o plánu Azure.
+## <a name="read-more-about-the-azure-plan"></a>Další informace o plánu Azure
 
 - [Nákup plánu Azure](purchase-azure-plan.md)
 
 - [Porovnání nabídek Azure](compare-azure-offers.md)
 
-- [Získaný kredit partnerů – přehled](partner-earned-credit.md)
+- [Kredit získaný partnerem – přehled](partner-earned-credit.md)
 
-- Výpočty s vydaným kreditem (PEC) a role a oprávnění, které mají nárok na získání partnerských kreditů, jsou k dispozici na základě ceníku vašeho řídicího panelu partnerského centra (vyžaduje se přihlášení).
+- Výpočty kreditu získaného partnerem (PEC) a role a oprávnění, které mají nárok na získání kreditů získaných partnerem, jsou k dispozici v ceníku řídicího panelu Partnerské centrum (vyžaduje se přihlášení).
 
 ## <a name="next-steps"></a>Další kroky 
 
-- [Jak je určeno, jak je určen partnerský kredit – podrobnosti](partner-earned-credit-explanation.md)
+- [Způsob, jakým se určuje kredit získaný partnerem – podrobnosti](partner-earned-credit-explanation.md)
 - [Vysvětlení ceníku plánu Azure](azure-plan-price-list.md)
 - [Převod zákazníků na plán Azure](azure-plan-transition.md)
 - [Správa předplatných a prostředků v rámci plánu Azure](azure-plan-manage.md)
-- [Úplný seznam zemí nebo oblastí, ve kterých je plán Azure k dispozici](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
+- [Úplný seznam zemí/oblastí, ve kterých je plán Azure k dispozici](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)

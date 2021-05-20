@@ -9,29 +9,24 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 27bdb4aab3c8092b1ffc458e4da29250e2dbf23e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 03880b4ae9483b4b49410364eabdafdccbcabcdc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756733"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149192"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Přehled: hlavní články fakturace a daně v partnerském centru
 
-**Příslušné role**
-
-- Agent správce
-- Správce fakturace
-- Globální správce
-- Agent prodeje
+**Příslušné role**: Agent správce | Správce fakturace | Globální správce | Agent prodeje
 
 Tento článek obsahuje odkazy na informace o fakturačních a daňových tématech v partnerském centru, včetně fakturačních prostředků, faktur, fakturace CSP a daní.
 
 
-| Téma | Popis |
+| Téma | Description |
 | ----- | ----------- |
 | [Základní informace o fakturaci](billing-basics.md) | Základní informace o fakturaci partnerského centra (včetně plateb, faktur a souborů pro odsouhlasení). |
-| [Typy fakturace](billing-different-types.md) | Vysvětlení různých typů fakturace v partnerském centru |
+| [Typy fakturace](./billing-basics.md) | Vysvětlení různých typů fakturace v partnerském centru |
 | [Vysvětlení informací na faktuře](read-your-bill.md) | Přečtěte si, jak si vyúčtováním v partnerském centru porozumíte. |
 | [Bezplatné zkušební verze](offer-your-customers-trials-of-microsoft-products.md) | Jak nabídnout zákazníkům bezplatné zkušební verze a jak se tyto zkušební verze účtují. |
 | [Soubor pro odsouhlasení](use-the-reconciliation-files.md) | Jak číst a používat soubor pro odsouhlasení pro položky řádku |

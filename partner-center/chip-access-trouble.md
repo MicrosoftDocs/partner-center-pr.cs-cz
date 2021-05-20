@@ -2,39 +2,37 @@
 title: Potíže s přístupem k platformě CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Přečtěte si tyto pokyny, které vám pomohou při řešení potíží s použitím nástroje Channel pobídek Platform (čip).
+description: Přečtěte si tyto pokyny, které vám pomůžou s odstraňováním potíží s používáním nástroje CHIP (Channel Incentives Platform).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570599"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149056"
 ---
-# <a name="troubleshoot-issues-with-accessing-chip"></a>Řešení potíží s přístupem k čipu
+# <a name="troubleshoot-issues-with-accessing-chip"></a>Řešení potíží s přístupem k chipu
 
-**Příslušné role**
-
-- Primární kontakt nebo správce programu
+**Odpovídající role:** Primární kontakt nebo správce programu
 
 >[!NOTE]
->ČIP TPM se vyřadí na konci 2021.
+>Platforma CHIP bude na konci roku 2021 vyřazena.
 
-Pokud nejste primární kontakt nebo PPA (primární program Správce), požádejte o přístup svého primárního kontaktu nebo služby PPA (primární program Správce). Pokud jste aktuální PPA, ujistěte se, že je vaše společnost zaregistrovaná a zaregistrovaná s tím, jak je váš přístup vázaný k vašemu firemnímu stavu.
+Pokud nejste primárním kontaktem nebo správcem primárního programu, požádejte o přístup primární kontakt nebo správce primárního programu. Pokud používáte aktuální ZAK, ujistěte se, že je vaše společnost zaregistrovaná a zaregistrovaná jako přístup svázaná se stavem vaší společnosti.
 
-Pokud jste primární kontakt nebo PPA (primární správce programu), měli byste mít přístup ke čipu, protože všechna oznámení pro registraci se odesílají do aktuálního primárního kontaktu nebo služby PPA (primární správce programu). Tento přístup pokračuje pro každou dobu od počátečního období registrace.
+Pokud jste primárním kontaktem nebo správcem primárního programu, měli byste mít přístup k chipu, protože všechna oznámení o registraci se odesílala aktuálnímu primárnímu kontaktu nebo správci primárního programu. Tento přístup pokračuje po každé období po počátečním období registrace.
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Postup řešení potíží při přístupu k čipu, pokud jste předtím měli přístup
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Postup řešení potíží, který vám pomůže s přístupem k čipu CHIP, pokud jste měli předchozí přístup
 
-1. Vymažte všechny soubory cookie a otevřete čip v privátním prohlížeči.
-1. V prohlížeči vyberte **Nastavení zobrazení kompatibility** . ČIP by měl být již uveden v části Microsoft.com, jinak přidat web.
+1. Vymažte všechny soubory cookie a v privátním prohlížeči otevřete CHIP.
+1. V **Kompatibilní zobrazení vyberte Nastavení.** Chip by už měl být uvedený Microsoft.com, jinak přidejte web.
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Navigace na platformě kanálu pro motivaci (čip)](chip-intro.md)
+- [Navigace na platformě CHIP (Channel Incentives Platform)](chip-intro.md)
 - [Podpora](report-problems-with-partner-center.md)

@@ -9,20 +9,17 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb6b167cafec3574906377281cf4699b0a15c32e
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 94425b0695ed0e3ec89e5953f648f5de7a199432
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570718"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149294"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Ověření vlastnictví domény, abyste se mohli stát globálním správcem 
 
 
-**Příslušné role**
-
-- Globální správce
-- Správce účtu
+**Příslušné role**: globální správce | Správce účtu
 
 Pokud chcete pracovat v partnerském centru, musíte nejdřív ověřit vlastnictví vaší domény a stát se globálním správcem vaší společnosti. Kromě toho nebudou vaši zaměstnanci přiřazeni role potřebné k zahájení práce.  Aby bylo možné pracovat v partnerském centru, musí mít všichni přiřazenou roli, včetně oprávnění.  
 
@@ -46,17 +43,17 @@ Ověření vlastnictví vaší domény vám také umožní globální správce. 
 
 - Má přístup ke všem účet Microsoft nebo službám s úplnými oprávněními 
 - Vytváření lístků podpory pro partnerské Centrum
-- Zobrazit smlouvy, ceníky a nabídky
+- Zobrazení smluv, ceníků a nabídek
 - Fakturace
-- Zobrazení, vytvoření a Správa partnerských uživatelů
-- Nákup a Správa cloudových služeb
+- Zobrazení, vytváření a správa partnerských uživatelů
+- Nákup a správa cloudových služeb
 
-## <a name="find-the-companys-global-admin"></a>Najít globálního správce společnosti
+## <a name="find-the-companys-global-admin"></a>Vyhledání globálního správce společnosti
 
-1. V **ikoně nastavení** v pravém horním rohu partnerského centra vyberte **Správa uživatelů**.
+1. V **ikoně Nastavení** v pravé horní části Partnerské centrum **vyberte Správa uživatelů.**
 
-1. Filtrovat globálního správce do vyhledávacího pole. Zobrazí se seznam globálních správců ve vaší společnosti. Pokud vaše společnost ještě nemá globálního správce, postupujte podle následujících pokynů.
+1. Ve vyhledávacím poli vyfiltrujte globálního správce. Zobrazí se seznam globálních správců ve vaší společnosti. Pokud vaše společnost ještě nemá globálního správce, postupujte podle následujících pokynů.
 
 ## <a name="next-steps"></a>Další kroky
 
-- Další informace o rolích a oprávněních najdete v tématu [Vytvoření uživatelských účtů](create-user-accounts-and-set-permissions.md). 
+- Další informace o rolích a oprávněních najdete v tématu [Vytvoření uživatelských účtů.](create-user-accounts-and-set-permissions.md) 

@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e433b44f158c3e4cefe22027e7f7d3b845991308
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756117"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148988"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Vyhledání počtu klientů a úrovně poplatků pro smlouvu
 
-**Příslušné role**
-
-- Primární kontakt nebo správce programu
+**Příslušné role**: primární kontakt nebo správce programu
 
 Můžete se přihlásit k [Explore.MS](https://www.explore.ms/) a zkontrolovat smlouvu nebo stáhnout soubor s podrobnostmi o smlouvě pro počet klientů a úroveň poplatku.
 

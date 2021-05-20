@@ -1,47 +1,45 @@
 ---
-title: Poradci – vytvoření nabídky nákupu
+title: Poradci – vytvoření nabídky k nákupu
 ms.topic: article
-ms.date: 05/17/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zjistěte, jak může poradce pro předplatné využít Partnerské centrum k vytvoření nabídky nákupu a vlastní adresy URL, které se mají zahrnout do zkušebních pozvánek Office 365.
+description: Zjistěte, jak může autorizovaný poradce pro předplatné Partnerské centrum vytvořit nabídku nákupu a vlastní adresu URL, která se zahrne do pozvánek ke zkušební verzi Office 365.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 41337f6c760152122b050fe3b39d1545527b4a81
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557745"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150433"
 ---
-# <a name="advisors-create-a-purchase-offer"></a>Poradci: Vytvoření nabídky nákupu
+# <a name="advisors-create-a-purchase-offer"></a>Poradci: Vytvoření nabídky k nákupu
 
  
-**Příslušné role**
-
-- Advisor
+**Odpovídající role:** Advisor
 
 
 > [!NOTE]
-> Tato funkce je dostupná jenom pro partnery Microsoftu, kteří mají autorizované Poradce pro předplatné.
+> Tato funkce je dostupná jenom pro partnery Microsoftu, kteří jsou autorizovanými poradci pro předplatná.
 
-Po odeslání pozvánky zkušební verze pro Office 365 klientovi můžete postupovat vytvořením a odesláním nabídky nákupu, která je přizpůsobená tak, aby vyhovovala potřebám vašeho klienta. Pokud máte certifikaci a chcete nabízet delegovanou správu, můžete do nabídky nákup přidat možnost, která vám umožní spravovat účet jménem svého klienta.
+Po odeslání zkušební pozvánky pro Office 365 klientovi můžete vytvořit a odeslat nabídku k nákupu přizpůsobenou tak, aby vyhovovala potřebám vašeho klienta. Pokud máte certifikaci na nabídku delegované správy, můžete do nabídky nákupu přidat možnost, která vám umožní spravovat účet jménem vašeho klienta.
 
-Po vytvoření nabídky nákup vytvoří průvodce **vytvořením nabídky pro nákup** vlastní adresu URL. Adresa URL obsahuje vložený kód, který vás identifikuje jako poradce pro předplatné. Tuto adresu URL můžete použít pro jednoho nebo mnoho klientů. Odešlete adresu URL klientovi v e-mailu. Nebo můžete adresu URL publikovat na svém webu. Pokud váš klient nabídku přijme, budete přidruženi k nákupu vašeho klienta.
+Když vytvoříte nabídku k nákupu, průvodce **vytvořením nabídky** nákupu pro vás vytvoří vlastní adresu URL. Adresa URL obsahuje vložený kód, který vás identifikuje jako poradce pro předplatné. Tuto adresu URL můžete použít pro jednoho nebo více klientů. Odešlete adresu URL klientovi e-mailem. Nebo můžete adresu URL odeslat na svůj web. Pokud váš klient nabídku přijme, budete přidruženi k nákupu klienta.
 
-Pokud váš klient potřebuje jiný počet licencí, odešle jim novou nabídku nebo může změnit počet licencí při nákupu předplatného.
+Pokud váš klient chce jiný počet licencí, pošlete jim novou nabídku nebo může změnit počet licencí při nákupu předplatného.
 
 ## <a name="to-create-a-purchase-offer"></a>Vytvoření nabídky nákupu
 
-1. Přejděte na **zkušební verze a nabídky koupit** nabídky  >  **vytvořit nabídku**.
+1. Přejděte na **Zkušební verze a kupte nabídky** Vytvořit  >  **nabídku.**
 
-2. Na stránce **vytvořit nabídku nákupu** vyberte možnosti nabídky nákupu, které chcete zahrnout:
+2. Na **stránce Vytvořit nákupní nabídku** vyberte možnosti nabídky nákupu, které chcete zahrnout:
 
-    - **Partnerská kancelář**: Pokud má vaše společnost víc poboček, vyberte Office, ke kterému chcete tuto nabídku nákupu přidružit.
+    - **Kancelář partnera:** Pokud má vaše společnost více poboček, zvolte kancelář, ke které chcete tuto nabídku nákupu přidružit.
 
-        Pokud chcete přidat umístění partnerských kanceláří, přečtěte si téma [Přidání umístění](manage-locations.md). Nová umístění kanceláře můžou vyžadovat až 24 hodin od jejich vytvoření, aby se zobrazila v seznamu **Partnerská kancelář** .
+        Informace o přidání umístění partnerské pobočky najdete v [tématu Přidání umístění.](manage-locations.md) Aby se nová pobočka objeví v seznamu pobočky partnerů, může to vyžadovat až 24 **hodin** od jejich vytvoření.
 
     - **Umístění použití**: vyberte umístění, kde bude klient služby používat.
     - **Předplatná**: seznam předplatných, která si můžete vybrat, je určený umístěním využití v zemi nebo oblasti klienta. Zaškrtněte políčko předplatného nebo předplatného, které vám nabídne váš klient.
@@ -70,3 +68,4 @@ Pokud váš klient potřebuje jiný počet licencí, odešle jim novou nabídku 
 ## <a name="next-steps"></a>Další kroky
 
 - [Sestavte si klientskou základnu pomocí zkušebních pozvánek Office 365 a nabídek nákupů.](advisors-build-your-business.md)
+- [Partneři už se nemůžou registrovat jako poradci.](advisors-no-csp.md)

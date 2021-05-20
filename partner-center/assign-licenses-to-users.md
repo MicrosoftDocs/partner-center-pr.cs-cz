@@ -1,75 +1,71 @@
 ---
-title: Správa uživatelů pro účty zákazníků
+title: Správa uživatelů pro zákaznické účty
 ms.topic: how-to
 ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Správa uživatelů pro vaše zákazníky v partnerském centru – vytváření uživatelských účtů, přidávání nebo odebírání uživatelských licencí, resetování hesel a odstraňování a obnovování uživatelských účtů.
+description: Správa uživatelů pro zákazníky v Partnerské centrum – vytváření uživatelských účtů, přidávání nebo odebírání uživatelských licencí, resetování hesel a odstraňování nebo obnovení uživatelských účtů.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756077"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149889"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Správa uživatelů a uživatelských licencí pro zákaznické účty 
 
-**Příslušné role**
-
-- Globální správce
-- Správce správy uživatelů
-- Agent správce
+**Odpovídající role:** Globální správce | Správce správy uživatelů | Agent pro správu
 
 
-Můžete vytvářet a odstraňovat nové uživatele v účtu zákazníka. Můžete také obnovit jeden nebo více uživatelských účtů, které jste dříve odstranili během 30 dnů od odstranění. Budou obnovena i předchozí přiřazení předplatného uživatele (za předpokladu, že jsou k dispozici jejich předchozí přidělení).
+V účtu zákazníka můžete vytvářet a odstraňovat nové uživatele. Můžete také obnovit jeden nebo více uživatelských účtů, které jste předtím odstranili do 30 dnů od odstranění. Obnoví se také předchozí přiřazení předplatného uživatele (za předpokladu, že jsou k dispozici jeho předchozí přidělení).
 
-Když si koupíte nové předplatné pro zákazníka, zákazník by vám měl poskytnout seznam všech uživatelů, kteří budou potřebovat účty, jejich uživatelská oprávnění a to, které služby jednotliví uživatelé potřebují.  
+Když zákazníkovi zakoupíte nová předplatná, měl by vám poskytnout seznam všech uživatelů, kteří budou potřebovat účty, jejich uživatelská oprávnění a služby, které každý uživatel potřebuje.  
 
 >[!NOTE]
->Část **Uživatelé a licence** na kartě **Zákazník** zobrazuje všechny uživatele vytvořené v tenantovi konkrétního zákazníka, včetně uživatelů, kteří mají licence zakoupené od jiného partnera CSP nebo z jiného nákupního kanálu.
+>V **části** Uživatelé a  licence na kartě Zákazník se zobrazují všichni uživatelé vytvoření v tenantovi konkrétního zákazníka, včetně uživatelů, kteří mají licence zakoupené od jiného partnera CSP nebo z jiného nákupního kanálu.
 
-[Odběry můžete přiřadit více uživatelům](bulk-license-provisioning-for-multiple-users.md) najednou pomocí importu názvů pomocí [souboru tabulky. csv kompatibilního s Excelem](adding-multiple-users-to-a-customer-account.md).
+Odběry [můžete přiřadit více uživatelům](bulk-license-provisioning-for-multiple-users.md) najednou importem názvů pomocí souboru tabulky CSV [kompatibilního s Excelem.](adding-multiple-users-to-a-customer-account.md)
 
 <a href="" id="createuseraccounts"></a>
 
 ## <a name="create-user-accounts-for-a-customer"></a>Vytvoření uživatelských účtů pro zákazníka
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
+1. Přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard)
 
-2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
+2. V Partnerské centrum vyberte **Zákazníci** a pak v seznamu zvolte zákazníka.
 
-3. V nabídce zákazník vyberte **Uživatelé a licence**.
+3. V nabídce zákazníka vyberte **Uživatelé a licence.**
 
-4. Pro každého uživatele, kterého přidáte, vyberte **Přidat předplatné** a pak vyplňte informace, včetně oprávnění a licencí. **Uložte** změny.
+4. Pro každého uživatele, který přidáte, vyberte **Přidat předplatné** a vyplňte informace, včetně oprávnění a licencí. **Uložte** změny.
 
-5. Nezapomeňte zaznamenat uživatelské jméno a dočasné heslo pro odeslání uživateli.
+5. Nezapomeňte si zaznamenat uživatelské jméno a dočasné heslo, které chcete uživateli odeslat.
 
-6. Pokud současně přidáváte více uživatelů, použijte **Přidat jiného uživatele**.
+6. Pokud přidáváte více uživatelů po jednom, použijte **možnost Přidat dalšího uživatele**.
 
-7. Můžete také přidat více uživatelů najednou [importováním souboru tabulky CSV kompatibilního s Excelem](adding-multiple-users-to-a-customer-account.md). Před odesláním e-mailu nebo tiskem názvů a hesel z potvrzovací obrazovky můžete počkat, dokud nedokončíte celou sadu.
+7. Můžete také přidat více uživatelů najednou importem souboru tabulky .csv kompatibilního [s Excelem.](adding-multiple-users-to-a-customer-account.md) Před odesláním e-mailu nebo tisku jmen a hesel z potvrzovací obrazovky můžete počkat, až s celou sadu skončíte.
 
 <a href="" id="userlicensing"></a>
 
-## <a name="add-or-remove-user-licenses-for-a-customer"></a>Přidání nebo odebrání uživatelských licencí pro zákazníka
+## <a name="add-or-remove-user-licenses-for-a-customer"></a>Přiřazení nebo odebrání uživatelských licencí zákazníkovi
 
-Následující postup platí pro přidání nebo odebrání uživatelských licencí pro produkty společnosti Microsoft. Pokud chcete přidat nebo odebrat uživatelské licence pro odběry SaaS založené na licencích na komerčním webu Marketplace, přečtěte si téma [Přidání nebo odebrání licencí pro předplatné SaaS](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
+Následující postup se týká přidávání nebo odebírání uživatelských licencí pro produkty Microsoftu. Pokud chcete přidat nebo odebrat uživatelské licence pro předplatná SaaS založená na licencích na komerčním marketplace, podívejte se na stránku Přidání nebo odebrání licencí [pro předplatné SaaS.](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
+1. Přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard)
 
-2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
+2. V Partnerské centrum vyberte **Zákazníci** a pak v seznamu zvolte zákazníka.
 
-3. V nabídce zákazník vyberte **Uživatelé a licence**.
+3. V nabídce zákazníka vyberte **Uživatelé a licence.**
 
-4. Vyberte jednoho nebo více uživatelů ze seznamu. Pokud například zákazník právě koupil nové licence a chtěli jste jim přiřadit lidi, kteří je ještě nemají, můžete k vyhledání správné skupiny použít možnost **filtrovat uživatele podle..** ..
+4. Vyberte v seznamu alespoň jednoho uživatele. Pokud například zákazník právě zakoupil nové licence a vy jste je chtěli přiřadit lidem, kteří je  ještě nemají, můžete najít správnou skupinu pomocí možnosti Filtrovat uživatele podle.
 
-5. Vyberte **spravovat licence**. Proveďte změny a pak ho **uložte**.
+5. Vyberte **Spravovat licence**. Proveďte změny a pak **klikněte na Uložit.**
 
 > [!NOTE]
-> U [Azure Marketplace produktů](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)se přiřazení licencí a aktivace spravují prostřednictvím nezávislého výrobce softwaru (ISV), který produkt zveřejnil.
+> U [Azure Marketplace se](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)přiřazení licencí a aktivace spravují prostřednictvím nezávislého výrobce softwaru (ISV), který produkt publikoval.
 
 <a href="" id="resetpassword"></a>
 
@@ -77,25 +73,25 @@ Následující postup platí pro přidání nebo odebrání uživatelských lice
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard) pro Partnerské centrum.
 
-2. V nabídce partnerské Centrum vyberte **zákazníci** a pak ze seznamu vyberte zákazníka.
+2. V Partnerské centrum vyberte **Zákazníci** a pak v seznamu zvolte zákazníka.
 
-3. V nabídce zákazník vyberte **Uživatelé a licence**. Vyberte uživatele ze seznamu.
+3. V nabídce zákazníka vyberte **Uživatelé a licence.** Vyberte uživatele ze seznamu.
 
-4. V dolní části obrazovky vyberte **resetovat heslo**. 
+4. V dolní části obrazovky vyberte **Resetovat heslo.** 
 
-5. Poslat uživateli nové dočasné heslo.
+5. Odešlete nové dočasné heslo uživateli.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Odstranění uživatelských účtů pro zákazníka
 
-1. V nabídce **Partnerské centrum** vyberte **zákazníci**. Vyberte zákazníka ze seznamu.
+1. V **nabídce Partnerské centrum** vyberte **Zákazníci.** V seznamu vyberte zákazníka.
 
-2. V nabídce zákazník vyberte **Uživatelé a licence**. Vyberte uživatele ze seznamu.
+2. V nabídce zákazníka vyberte **Uživatelé a licence.** Vyberte uživatele ze seznamu.
 
 3. V dolní části obrazovky vyberte **Odstranit uživatelský účet**.
 
-Pokud potřebujete tento účet obnovit, můžete ho najít na kartě **odstraněné uživatele** v seznamu **Uživatelé a licence** zákazníka. K obnovení odstraněného uživatele máte 30 dní.
+Pokud potřebujete tento účet obnovit, najdete ho  v seznamu Uživatelé a licence zákazníka na **kartě Odstranění** uživatelé. K obnovení odstraněného uživatele máte 30 dní.
 
 <a href="" id="restoreuseraccounts"></a>
 

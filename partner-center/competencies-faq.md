@@ -8,18 +8,16 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 578a5bdb6dffa985e9ce78eea5309b2564071313
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354453"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148478"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Kompetence – Nejčastější dotazy
 
-**Příslušné role**
-
-- Správce partnera MPN
+**Příslušné role**: správce partnerů MPN
 
 Tento článek obsahuje odpovědi na obecné otázky týkající se zkoušek, certifikace a výhod softwaru souvisejících s dosažením Microsoft Partner Network kompetence.
 
@@ -46,30 +44,30 @@ Můžete tak učinit z partnerského centra následujícím způsobem:
 
 1. V horní části stránky kompetence vyhledejte a vyberte možnost **zpráva ke stažení dovedností** .
 
-Další sestavy dovedností vaší organizace jsou dostupné i v oblasti [přehledy partnerského centra](partner-center-insights.md) v partnerském centru. Chcete-li zobrazit tyto sestavy, bude pravděpodobně nutné mít přiřazenou roli v **prohlížeči sestav** nebo v **prohlížeči sestav** pro sestavy pro konkrétní přehledy. Možná budete muset požádat správce partnerského programu MPN, aby vám poskytl přístup k jedné z těchto rolí.
+Další sestavy dovedností vaší organizace jsou k dispozici také v [oblasti Partnerské centrum Insights](partner-center-insights.md) v Partnerské centrum. Pokud chcete tyto sestavy zobrazit, možná budete muset mít  přiřazenou roli prohlížeče sestav nebo manažera prohlížeče sestav specifickou pro **přehledy.** Možná budete muset požádat správce partnera MPN o přístup k jedné z těchto rolí.
 
-Sestavy Insights zobrazíte takto:
+Prohlédněte si sestavy Přehledy následujícím způsobem:
 
-1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
+1. Přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard)
 
-1. V nabídce partnerského centra klikněte na **přehledy** a pak na **dovednosti organizace**. Zobrazí se menší nabídka.
+1. V nabídce služby Partnerské centrum **Insights** (Přehledy) a potom **Organization skills (Dovednosti organizace).** Zobrazí se menší nabídka.
 
-1. V nabídce vyberte buď **školení** , nebo **Microsoft Learn** .
+1. V **nabídce vyberte** **Microsoft Learn** nebo Trénování.
 
-   - Vyberte **školení** , abyste viděli Shrnutí certifikace, posouzení a zkoušek vaší organizace v určitém časovém období. Další informace o této sestavě najdete v tématu [školení](pci-training-dashboard.md).
+   - **Výběrem** školení zobrazíte souhrn certifikací, hodnocení a zkoušek vaší organizace za konkrétní časový rámec. Další informace o této sestavě najdete v tématu [Trénování.](pci-training-dashboard.md)
 
-   - Výběrem **Microsoft Learn** zobrazíte souhrn dokončených modulů a studijních cest vaší organizace v určitém časovém období. Další informace o této sestavě najdete v tématu [Microsoft Learn Analytics Report](ms-learn-analytics.md).
+   - Výběrem **Microsoft Learn** zobrazíte souhrn dokončených modulů a studijních cest vaší organizace za konkrétní časové období. Další informace o této sestavě najdete v [tématu Microsoft Learn analytická sestava](ms-learn-analytics.md).
 
-## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>Otázka: Jak dlouho trvá zobrazení nejnovějších posouzení uživatelů v sestavě uživatelských dovedností v partnerském centru?
+## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>Otázka: Jak dlouho trvá zobrazení nejnovějších hodnocení uživatelů v sestavě Partnerské centrum dovedností uživatelů?
 
-Partnerský účet univerzity bude přidružen k uživatelskému účtu partnerského centra. Posouzení se zobrazí v sestavě uživatelských dovedností v partnerském centru do **72 hodin**.
+Účet Partner University bude přidružený k účtu Partnerské centrum účtu. Posouzení uživatele se v sestavě uživatelských dovedností Partnerské centrum během **72 hodin.**
 
-V této sestavě se zobrazí jenom dovednosti týkající se kompetencí a programů v partnerském centru. (Některé vyřazení dovedností se může zobrazit i po dobu 12 měsíců nebo více po jejich vyřazení).
+V této sestavě se zobrazí pouze dovednosti související Partnerské centrum kompetencemi a programy v této sestavě. (Některé vyřazené dovednosti se také dají zobrazit po dobu 12 měsíců nebo déle po vyřazení z provozu).)
 
-Ujistěte se, že jste ověřili požadavky na konkrétní kompetence. Pokud to chcete ověřit, použijte možnost nabídky **kompetence** na [řídicím panelu](https://partner.microsoft.com/dashboard) nebo na [stránce Microsoft Partner Network kompetence](https://partner.microsoft.com/membership/competencies)partnerského centra.
+Nezapomeňte zkontrolovat požadavky na konkrétní kompetence. Kontrolu můžete provést pomocí možnosti nabídky **Kompetence** na řídicím Partnerské centrum [nebo](https://partner.microsoft.com/dashboard) [na Microsoft Partner Network kompetence.](https://partner.microsoft.com/membership/competencies)
 
 > [!NOTE]
-> Není-li zkouška, posouzení nebo certifikace výslovně uváděna jako požadavek v rámci konkrétní kompetence, nebude považována za schůzku této kompetence.
+> Pokud není zkouška, posouzení nebo certifikace výslovně zmíněna jako požadavek v rámci konkrétní kompetence, nebude se při splnění této kompetence zvažovat.
 
 ## <a name="q-what-are-the-software-benefits-such-as-license-use-rights-that-i-am-entitled-to-when-i-achieve-a-gold-or-silver-competency-or-buy-a-microsoft-action-pack-subscription-maps"></a>Otázka: Jaké jsou výhody softwaru (například práva na používání licencí), na které mám nárok při dosažení zlata nebo Silver Competency nebo zakoupení předplatného Microsoft Action Pack (MAPS)?
 

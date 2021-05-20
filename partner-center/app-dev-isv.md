@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20a8d701755e0211ced01aa714570e993bfe177d
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 2d3dfbb409ec8a11d4152e9c064e0ce7a05711b5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92527825"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149991"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Výjimka jednorázového požadavku na zkoušku pro kompetenci vývoje aplikace
 
-**Příslušné role**
-
-- Globální správce
-- Správce partnera MPN
+**Příslušné role**: globální správce | Správce partnera MPN
 
 Pokud jste dosáhli právě vyřazené kompetence ISV a jeden z následujících scénářů se vám na vás bude týkat, nabídneme vaší společnosti výjimku pro [kompetenci a vývoj aplikací](https://partner.microsoft.com/membership/application-development-competency)pro zlato v rámci jedné doby. 
 
@@ -42,32 +39,32 @@ Partneři s kompetencí vývoje aplikací, kterým se dosáhlo prostřednictvím
 ## <a name="how-to-take-advantage-of-your-offer"></a>Jak využít vaši nabídku
 
 1. V nabídce partnerského centra na řídicím panelu vyberte **kompetence**.
-2. V seznamu kompetencí, které jsou k dispozici, je vývoj aplikací označen jako **dokončený**.
+2. V seznamu kompetencí, které jsou k dispozici, je vývoj aplikací označen jako **Dokončený**.
 
-3. Vyberte **vývoj aplikací**. Zobrazí se oznámení, že jste přepsali, že vaše společnost nesplňuje požadavky na zkoušky. 
+3. Vyberte **Vývoj aplikací.** Zobrazí se oznámení, že jste dostali přepsání, které vaší společnosti vymenulo splnění požadavků na zkoušku. 
 
-4. Pokud chcete tuto nabídku využít, Projděte si **nabídky členství**. Pro dokončení procesu může být nutné uhradit poplatek za kompetenci v závislosti na stavu nákupu nebo obnovení kompetence. 
+4. Pokud chcete tuto nabídku využít, přejděte na **stránku Nabídky členství.** Možná budete muset zaplatit poplatek za kompetenci, abyste proces dokončili v závislosti na stavu nákupu vaší kompetence nebo prodloužení platnosti. 
 
-Tato nabídka je dostupná prostřednictvím partnerského centra.
+Tato nabídka je dostupná prostřednictvím Partnerské centrum.
 
-Pokud potřebujete pomoc s získáním nabídky nebo máte dotazy ohledně vaší způsobilosti k této nabídce, obraťte se na [podporu partnerů](https://partner.microsoft.com/Support). 
+Pokud potřebujete pomoc se získáním nabídky nebo máte dotazy ohledně způsobilosti pro tuto nabídku, obraťte se na [podporu partnera.](https://partner.microsoft.com/Support) 
 
 ## <a name="frequently-asked-questions"></a>Nejčastější dotazy
 
-**Návody zjistit, jestli má moje společnost nárok na tuto nabídku?**
+**Návody, jestli má moje společnost nárok na tuto nabídku?**
 
-Partnerské společnosti opravňující k této nabídce byly upozorňovány prostřednictvím e-mailu a v partnerském centru s informacemi o tom, jak nabídku získat. Způsobilí partneři zahrnují ty, kteří dosáhli právě vyřazené kompetence ISV a těch, kteří dosáhli kompetence vývoje aplikací prostřednictvím cesty IP adresy certifikátu. 
+Partnerské společnosti, které mají nárok na tuto nabídku, byly na tuto nabídku upozorněny e-mailem Partnerské centrum oznámení s informacemi o tom, jak nabídku získat. Mezi způsobilé partnery patří ti, kteří získali nyní vyřazenou kompetenci ISV, a ti, kteří získali kompetenci Vývoj aplikací prostřednictvím cesty IP certifikátu. 
 
-**Jaké jsou výhody kompetence vývoje aplikací?**
+**Jaké jsou výhody kompetence Vývoj aplikací?**
 
-Výhody kompetence vývoje aplikací si můžete prohlédnout na webu partnera Microsoftu. 
+Výhody kompetence Vývoj aplikací najdete na webu partnera Microsoftu. 
 
-**Co se stane, když je čas, kdy se má prodloužit moje kompetence při získání této nabídky?** 
+**Co se stane, když je čas prodloužit platnost své kompetence, když tuto nabídku zobrazím?** 
 
-Další informace o našich plánech pro nezávislé výrobce softwaru vám budou brzy a poskytnou pokyny pro partnery, kteří mají v důsledku této nabídky kompetenci vývoje aplikací. * *  
+Brzy se podělíme o další informace o našich plánech pro výrobce softwaru a poskytneme pokyny pro partnery, kteří mají na základě této nabídky kompetencí vývoj aplikací.**  
 
-**Jak získám tuto nabídku, pokud moje společnost nezískala kompetenci ISV?**
+**Jak můžu tuto nabídku získat, pokud moje společnost nemá kompetenci ISV?**
 
-Tato nabídka je k dispozici pouze oprávněným partnerům – uživatelům, kteří mají schopnost nezávislého výrobce softwaru nebo kompetenci vývoje aplikací prostřednictvím cesty IP adresy certifikátu. Aktivně se zvažujeme prakticky a dlouhodobě komplexní řešení pro poskytování nezávislého výrobce softwaru a budou brzy sdílet další podrobnosti. 
+Tato nabídka je dostupná jenom oprávněným partnerům – těm, kteří měli kompetenci ISV nebo kompetenci Application Development prostřednictvím cesty IP certifikátu. Aktivně uvažujeme o krátkodobých a dlouhodobých komplexních řešeních pro obsluhu isv a brzy budeme sdílet další podrobnosti. 
 
 

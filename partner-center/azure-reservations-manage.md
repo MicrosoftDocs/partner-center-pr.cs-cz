@@ -1,6 +1,6 @@
 ---
 title: Správa rezervací Azure pro zákazníky
-description: Naučte se spravovat rezervace Azure pro zákazníka, včetně toho, jak zrušit rezervaci, vyměnit rezervaci nebo požádat o refundaci.
+description: Zjistěte, jak spravovat rezervace Azure pro zákazníka, včetně zrušení rezervace, výměny rezervace nebo žádosti o refundaci.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,41 +9,35 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 1184b199d6235dd1d16fe981000bae44b797f76a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534756"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149481"
 ---
-# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Správa, zrušení, výměna nebo refundace Microsoft Azure rezervacích pro zákazníky
+# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Správa, zrušení, výměna nebo refundace Microsoft Azure rezervací pro zákazníky
 
-**Příslušné role**
+**Odpovídající role:** Agent pro správu | Globální správce | Agent helpdesku | Sales agent | Správce správy uživatelů
 
-- Agent správce
-- Globální správce
-- Agent helpdesku
-- Agent prodeje
-- Správce správy uživatelů
-
-Tento článek vysvětluje, jak spravovat rezervace Azure pro zákazníka, včetně toho, jak zrušit rezervaci, vyměnit rezervaci nebo požádat o refundaci.
+Tento článek vysvětluje, jak spravovat rezervace Azure pro zákazníka, včetně zrušení rezervace, výměny rezervace nebo žádosti o refundaci.
 
 > [!NOTE]
-> Tento článek se týká jenom partnerů v programu Cloud Solution Provider (CSP). [Tuto dokumentaci k rezervacím Azure](/azure/cost-management-billing/reservations)by si měli přečíst zákazníci, kteří používají jiné typy předplatných (například, platby na základě průběžných plateb, jednotlivce, smlouvy o zákaznících Microsoftu nebo předplatná smlouva Enterprise).
+> Tento článek se týká jenom partnerů v Cloud Solution Provider (CSP). Zákazníci, kteří používají jiné typy předplatných (například předplatná s platbami, jednotlivá předplatná, Smlouva se zákazníkem Microsoftu nebo předplatná smlouva Enterprise), by si místo toho měli přečíst tuto dokumentaci k [rezervacím Azure.](/azure/cost-management-billing/reservations)
 
-Pokud chcete spravovat rezervace Azure pro zákazníky po nákupu, vyberte zákazníka a rezervaci, které chcete spravovat v partnerském centru, a pak v Azure Portal proveďte změny rezervace.
+Pokud chcete spravovat rezervace Azure zákazníků po nákupu, vyberete zákazníka a rezervaci, které chcete spravovat v Partnerské centrum, a pak v této Azure Portal.
 
-1. Začněte tím, že v nabídce partnerského centra vyberete **zákazníci** a pak vyberete zákazníka, jehož rezervace chcete spravovat. 
+1. Pokud chcete začít, **vyberte** v nabídce Partnerské centrum zákazníky a pak vyberte zákazníka, jehož rezervace chcete spravovat. 
 
-2. V nabídce Stránka podrobností zákazníka vyberte **rezervace Azure** a pak vyberte konkrétní rezervaci, kterou chcete spravovat.  
+2. V nabídce stránky podrobností zákazníka vyberte **Rezervace Azure** a pak vyberte konkrétní rezervaci, kterou chcete spravovat.  
 
-3. V části **Akce** vyberte **Spravovat** , pokud chcete přejít na záznam o rezervacích zákazníka v Azure Portal. Na stránce s podrobnostmi o rezervacích dokončete úlohy podle následujících kroků.  
+3. V **části** Akce vyberte **Spravovat** a přejděte na záznam rezervace zákazníka v Azure Portal. Na stránce s podrobnostmi o rezervaci postupujte podle následujících kroků a dokončete úlohy.  
 
-    | **Výběr**   | **Schopn**    |
+    | **Výběr**   | **Do**    |
     |:-----------------------------|:-----------------|
-    | **Přehled**   | Zobrazení podrobností o rezervacích zákazníka, včetně data vypršení platnosti, rozsahu a dat o využití **Poznámka:** Vyberte **refundaci** a vytvořte žádost o podporu s hodnocením pro nominální částku. Pokud chcete vytvořit žádost o podporu pro výměnu nevyužité části podmínky rezervace, vyberte **Exchange** .  
-    | **Access Control (IAM)**   | Spravujte přístup k informacím o rezervacích zákazníka.|
-    | **Konfigurace**   | Změňte rozsah rezervace nebo předplatné Azure, ke kterému je rezervace přidružená.    |
+    | **Přehled**   | View details of a customer's reservation, including expiration date, scope, and utilization data. **POZNÁMKA:** Výběrem **možnosti** Refundace vytvořte žádost o podporu k poměrné refundaci. Pokud **chcete vytvořit** žádost o podporu a vyměnit nevyužitou část období rezervace, vyberte Exchange.  
+    | **Access Control (IAM)**   | Správa přístupu k informacím o rezervacích zákazníka|
+    | **Konfigurace**   | Změňte rozsah rezervace nebo předplatné Azure, ke které je rezervace přidružená.    |
     | **Vlastnosti**   | Zobrazení vlastností rezervace a zkopírování do schránky ID rezervace a ID objednávky rezervace. **Poznámka:** Pokud požadujete podporu jménem zákazníka, může vám podpora vyžadovat ID rezervace a ID objednávky rezervace.    |
     | **Nová žádost o podporu**    | Požádat o požádejte o podporu od podpora Microsoftu.   |
  
@@ -62,29 +56,29 @@ Podrobnosti zrušení a poplatky najdete níže.
 
 |**Datum zrušení**<br> denní   |**Použití**    |**Kredit**  |**Předčasné ukončení**<br> vyjádřen    |**Limit refundace** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 nebo méně                         | Ne          | 100 %       | Ne                              | $50 000 USD   |
-|5 nebo méně                         | Ano         | Pro-hodnocené  | Ne                              | $50 000 USD   |
-|Více než 5                        | Ne          | Pro-hodnocené  | 12 %                             | $50 000 USD   |
-|Více než 5                        | Ano         | Pro-hodnocené  | 12 %                             | $50 000 USD   |
+|5 nebo méně                         | No          | 100 %       | No                              | $50 000 USD   |
+|5 nebo méně                         | Yes         | Poměrná  | No                              | 50 000 USD   |
+|Více než 5                        | No          | Poměrná  | 12 %                             | 50 000 USD   |
+|Více než 5                        | Yes         | Poměrná  | 12 %                             | 50 000 USD   |
 
-### <a name="how-exchanges-work"></a>Jak fungují funkce Exchange 
+### <a name="how-exchanges-work"></a>Jak fungují výměny 
 
-Pokud chce zákazník koupit jinou rezervaci, než kterou si původně koupili, může požádat o výměnu. Výměna rezervace může být zajímavou alternativou ke zrušení rezervace, protože umožňuje zákazníkovi použít částku poměrné refundace směrem k ceně nové rezervace. 
+Pokud zákazník chce koupit jinou rezervaci, než kterou od vás původně koupil, může požádat o výměnu. Výměna rezervace může být atraktivní alternativou ke zrušení rezervace, protože umožňuje zákazníkovi využít poměrnou refundaci k ceně nové rezervace. 
 
-Částka průběžné refundace se účtuje na váš účet, abyste mohli zákazníka nabídnout na Exchangi.
+Na váš účet se připsá částka refundace zaceněnou podle objemu peněz, abyste zákazníkovi mohli nabídnout výměnu.
 
-## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Požádat o refundaci nebo výměnu jménem zákazníka
+## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Žádost o refundaci nebo výměnu jménem zákazníka
 
-Pokud chcete pokládat žádost o podporu pro refundaci nebo výměnu za vaše zákazníky, vyberte zákazníka a rezervaci v partnerském centru a pak vytvořte žádost o podporu v Azure Portal. 
+Pokud chcete vytvořit žádost o podporu o refundaci nebo výměnu jménem vašich zákazníků, vyberete zákazníka a rezervaci v Partnerské centrum a pak vytvoříte žádost o podporu v Azure Portal. 
 
 >[!NOTE]
->Agenti podpora Microsoftu vás můžou požádat, abyste zadali ID rezervace a ID objednávky rezervace. Tyto informace najdete na stránce **vlastností** rezervace v Azure Portal.
+>Podpora Microsoftu agenti vás mohou požádat o poskytnutí ID rezervace a ID objednávky rezervace. Tyto informace najdete na stránce Vlastností **rezervace** v Azure Portal.
 
-1. Začněte tím, že v nabídce partnerského centra vyberete **zákazníci** a pak vyberete zákazníka, který požaduje refundaci. 
+1. Pokud chcete začít, **vyberte** v nabídce Partnerské centrum zákazníky a pak vyberte zákazníka, který chce refundaci. 
 
-2. Na stránce s podrobnostmi zákazníka vyberte **rezervace Azure** a pak vyberte konkrétní rezervaci, kterou chce zákazník znovu vyfinancovat.  
+2. Na stránce podrobností zákazníka vyberte **Rezervace Azure** a pak vyberte konkrétní rezervaci, u které chce zákazník vrátit peníze.  
 
-3. V části **Akce** vyberte **refundace** , pokud chcete přejít na záznam o rezervacích zákazníka v Azure Portal a zahájit žádost o podporu.  
+3. V **části** Actions (Akce) **vyberte Refundace,** abyste v seznamu Azure Portal zákazníka a zahájili žádost o podporu.  
 
 4. Na stránce **Nová žádost o podporu** postupujte podle následujících kroků a vyžádejte si refundaci. Po každém kroku vyberte **Další** . 
 
@@ -103,5 +97,5 @@ Pokud chcete pokládat žádost o podporu pro refundaci nebo výměnu za vaše z
 |Přehled rezervací Azure v CSP  | [Prodej rezervovaných instancí Microsoft Azure](azure-reservations.md) |
 |Nákup rezervací Azure pro vaše zákazníky v partnerském centru   | [Nákup rezervací Azure](azure-reservations-buying.md) |
 |Určení správné velikosti virtuálního počítače a ověření využití virtuálního počítače zákazník   | [Změna velikosti virtuálního počítače pro maximální využití rezervace Azure](azure-usage.md)   |
-|Nákup rezervací Azure pomocí rozhraní API partnerského centra | [Koupit Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) v dokumentaci pro vývojáře partnerského centra   |
-|Udělení oprávnění zákazníkům k nákupu svých rezervací Azure z předplatného, které pro ně jste nakoupili. | [Poskytněte zákazníkům oprávnění k nákupu svých rezervací Azure.](give-customers-permission.md)   |
+|Nákup rezervací Azure pomocí rozhraní API partnerského centra | [Informace Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) najdete v dokumentaci Partnerské centrum pro vývojáře.   |
+|Dáváte zákazníkům oprávnění k nákupu vlastních rezervací Azure z předplatného, které jste pro ně zakoupili. | [Udělit zákazníkům oprávnění k nákupu vlastních rezervací Azure](give-customers-permission.md)   |

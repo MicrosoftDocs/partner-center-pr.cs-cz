@@ -1,6 +1,6 @@
 ---
 title: Analýza předplatných a licencí
-description: Naučte se používat metriky na stránce předplatné a License Analytics k identifikaci vašich úspěchů a oblastí, které vyžadují větší pozornost.
+description: Naučte se používat metriky na stránce analýzy předplatného a licencí k identifikaci úspěchů a oblastí, které potřebují větší pozornost.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,39 +9,34 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 45a0ebb70f6e139b1e130c3cfc1d24eb79b41a0d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103787"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150144"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analýza předplatných a licencí, které vám pomůžou řídit obchodní rozhodnutí a nové cíle
 
-**Příslušné role**
+**Odpovídající role:** Globální správce | Správce správy uživatelů | Agent správy | Agent prodeje
 
-- Globální správce
-- Správce správy uživatelů
-- Agent správce
-- Agent prodeje
+Data řídí obchodní rozhodnutí. Pomocí metrik na stránce  Analýzy předplatného a licencí identifikujte své úspěchy a oblasti, které potřebují větší pozornost. Tyto informace použijte při plánování nových obchodních cílů.
 
-Datové jednotky: obchodní rozhodnutí. Pomocí metrik na stránce **odběr a licencování** můžete identifikovat vaše úspěšnosti a oblasti, které vyžadují větší pozornost. Tyto informace použijte při plánování nových obchodních cílů.
-
-**CSP TTM tržby (USD)**: Tato metrika představuje agregované výnosy za CSP (USD) na konci dvanácti měsíců (TTM) pro účty umístění partnera a globální účet partnera (PGA), ke kterému je tento účet CSP přidružen. Pokud máte jiné účty CSP s jiným PGA, musíte se ke každému z nich přihlásit, abyste viděli odpovídající agregované TTM výnosy.  Kliknutím na odkaz podrobnosti ke stažení získáte rozpis TTM výnosů (USD) na ID MPN.
+**Výnosy z TTM CSP (USD):** Tato metrika představuje agregované výnosy fakturované za CSP (USD) za posledních 12 měsíců (TTM) pro účty umístění partnera a globální účet partnera (PGA), ke které je tento účet CSP přidružený. Pokud máte jiné účty CSP s jinou pga, musíte se přihlásit ke každému z nich a zobrazit odpovídající agregované výnosy TTM.  Kliknutím na odkaz s podrobnostmi o stažení zobrazíte rozpis výnosů TTM (USD) na ID MPN.
 
 >[!NOTE]
->Ceny za místní měnu (starší verze obchodu FX) v komerčním prostředí jsou spravované v rámci +/-5% z US dolarů. Starší verze služby Commerce Exchange (FX) se liší od fakturačních sazeb, které Azure používá v moderních prostředích pro obchodování. Sazby za moderní obchodování po infakturaci jsou založené na sazbách Microsoft P&L (sazby za službu Reuters na základě pokladny). Starší sazby za Commerce FX jsou důvěrné pro společnost Microsoft.
+>Ceny v místní měně (Legacy Commerce FX) v komerčním prostředí se spravují do +/-5 % usd. Směnný kurz starší verze obchodování (FX) se liší od fakturačních směnných kurzů používaných Azure v prostředí moderního obchodování. Sazby FX pro fakturaci moderního obchodování jsou založené na sazbách Microsoft P&L (reuters FX rates from Treasury feed). Starší sazby FX pro komerční obchodování jsou důvěrné v Microsoftu.
 
 
-Zbytek sestavy se může pivotovat na základě následujících produktů:
+Zbytek sestavy se může překlopovat na základě následujících produktů:
 
- - **Dynamics 365**: data Dynamics 365  
- - **EMS**: data služeb podnikové správy  
- - **Microsoft 365**: Microsoft 365 data  
- - **Office 365**: data sady Office 365  
+ - **Dynamics 365:** Data Dynamics 365  
+ - **EMS:** Data služby Enterprise Management Services  
+ - **Microsoft 365:** Microsoft 365 data  
+ - **Office 365:** Data Office 365  
 
 
-## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Typy předplatných a metrik licencí, které můžete zobrazit
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Typy metrik předplatného a licencí, které můžete zobrazit
 
 Sledujeme následující metriky:
 
@@ -83,9 +78,9 @@ Sledujeme následující metriky:
 
  - **Převod zkušební verze**: počet všech **aktivních** předplatných, u kterých se v zadaném časovém období vyskytla zkušební verze placená na převod  
 
-**Zkušební předplatné končící 30 dny**  
+**Zkušební předplatná končící na 30 dnů**  
 
- - Seznam spuštěných testů, jejichž koncové datum spadá do 30 dnů, a k předplatnému není přidružené žádné placené datum zahájení.  
+ - Seznam spuštěných zkušebních testů, kde koncové datum je do 30 dnů a k předplatnému není přidružené žádné placené počáteční datum  
 
 
 

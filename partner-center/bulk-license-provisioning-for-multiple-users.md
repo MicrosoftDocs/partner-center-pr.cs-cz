@@ -4,57 +4,51 @@ ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Naučte se, jak pomocí zákaznického účtu přiřadit nebo odvolat licence a služby jednomu uživateli nebo více uživatelům najednou.
+description: Zjistěte, jak pomocí zákaznického účtu přiřadit nebo odvolat licence a služby jednomu uživateli nebo více uživatelům najednou.
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 79f66e759385f6c7c7928dba58e052ea8699cf21
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570650"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149209"
 ---
-# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Přiřazovat nebo odvolávat licence současně více uživatelům v účtu zákazníka
+# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Přiřazení nebo odvolání licencí více uživatelům v zákaznickém účtu současně
 
-**Příslušné role**
+**Odpovídající role:** Agent pro správu | Globální správce | Agent helpdesku | Sales agent | Správce správy uživatelů
 
-- Agent správce
-- Globální správce
-- Agent helpdesku
-- Agent prodeje
-- Správce správy uživatelů
+Licence a služby můžete přiřadit uživateli nebo více uživatelům najednou v zákaznickém účtu a odvolat přiřazení licencí uživatelům.
 
-Můžete přiřadit licence a služby uživateli nebo více uživatelům najednou v účtu zákazníka a odvolat přiřazení licencí uživatelům.
-
-Partnerské centrum sleduje a zobrazuje všechny nároky na licence ve vlastnictví zákazníka.
+Tento Partnerské centrum sleduje a zobrazuje všechna licenční oprávnění vlastněná zákazníkem.
 
 ## <a name="assign-licenses-to-multiple-users"></a>Přiřazení licencí více uživatelům
 
-1. V nabídce **Partnerské centrum** vyberte **zákazníci** a v seznamu vyberte zákazníka.
+1. V **Partnerské centrum** vyberte **Zákazníci** a pak v seznamu zvolte zákazníka.
 
-2. Vyberte **Uživatelé a licence**.
+2. Vyberte **Uživatelé a licence.**
 
-3. Zaškrtněte políčko pro dva nebo více uživatelů ze seznamu. (Pokud chcete vybrat všechny uživatele na aktuální stránce, zaškrtněte políčko v horní části sloupce **Uživatelé** .)
+3. Zaškrtněte políčko pro dva nebo více uživatelů ze seznamu. (Pokud chcete vybrat všechny uživatele na aktuální stránce, zaškrtněte políčko v horní **části** sloupce Uživatelé.)
 
-    Můžete najít a vybrat uživatele na několika stránkách pomocí **prvního**, **předchozího**, **následujícího** a **posledního** nástroje.
+    Uživatele na více stránkách můžete vyhledat a vybrat pomocí **nástrojů První,** **Předchozí,** **Další** a **Poslední.**
 
-4. Vyberte odkaz **vybrané uživatele** . Zobrazený seznam zobrazuje vybrané uživatele.
+4. Vyberte odkaz **Vybraní** uživatelé. Zobrazený seznam zobrazuje vybrané uživatele.
 
-5. Vyberte odkaz **Správa licencí** .
+5. Vyberte odkaz **Spravovat** licence.
 
-    Na stránce Spravovat licence se zobrazí seznam nároků na licence pro účty zákazníka a počet **dostupných licencí** pro každý produkt.
+    Na stránce Spravovat licence se zobrazí seznam nároků na licence pro zákaznické účty a počet dostupných **licencí** pro jednotlivé produkty.
 
-    - Zaškrtávací políčka ve sloupci **produkt** zobrazují stav všech vybraných uživatelů pro produkty mající nárok na zákazníka:
+    - Zaškrtávací políčka ve **sloupci Produkt** zobrazují stav všech vybraných uživatelů produktů s nárokem na zákazníky:
 
-       - Když všichni Vybraní uživatelé již mají licenci, je zaškrtávací políčko produktu vyplněno.
+       - Pokud už všichni vybraní uživatelé mají licenci, je zaškrtnuté políčko produktu.
 
-       - Pokud někteří z vybraných uživatelů mají licenci na produkt, je zaškrtávací políčko produktu částečně vyplněno.
+       - Pokud někteří vybraní uživatelé mají licenci k produktu, je zaškrtávací políčko produktu částečně vyplněné.
 
-       - Pokud žádný z vybraných uživatelů nemá licenci na produkt, zaškrtávací políčko je nezaškrtnuté.
+       - Pokud žádný z vybraných uživatelů nemá licenci k produktu, zaškrtnutí tohoto políčka není zaškrtnuté.
 
-    - Každý vybraný uživatel se zobrazí v dolním poli v horní části stránky. Uživatelé se zobrazí v seřazeném pořadí.
+    - Každý vybraný uživatel se zobrazí v malém poli v horní části stránky. Uživatelé se zobrazí v seřazeném pořadí.
 
     - Vyberte libovolný odkaz ve sloupci **přiřazeno** a zobrazte tak seznam s popisem, ve kterém se zobrazují Vybraní uživatelé, kteří už mají licenci.
 

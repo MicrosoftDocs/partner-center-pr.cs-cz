@@ -2,63 +2,61 @@
 title: Nejčastější dotazy k výhodám
 ms.topic: article
 ms.date: 12/15/2020
-description: Odpovědi na otázky týkající se vypršení platnosti, obnovení a Aktivace licencí pro Azure, Cloud, Visual Studio a technické výhody a výhody podpory
+description: Odpovědi na dotazy ohledně vypršení platnosti výhod, prodloužení platnosti a aktivace licencí pro Azure, cloud, Visual Studio, technické výhody a výhody podpory
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 7c3ee29099a072de3e508fcdfcfd965082522895
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557694"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149277"
 ---
 # <a name="benefits-faq"></a>Nejčastější dotazy k výhodám
 
-**Příslušné role**
+**Odpovídající role:** Správce partnera MPN
 
-- Správce partnera MPN
-
-V tomto článku jsou řešeny mnohé běžné otázky týkající se výhod Microsoft Partner Network (MPN).
+Mnoho běžných dotazů týkajících Microsoft Partner Network (MPN) jsou řešeny v tomto článku.
 
 
 ## <a name="general-questions"></a>Obecné otázky
 
-### <a name="q-what-does-benefit-expiry-date-mean"></a>Otázka: Co znamená "datum vypršení platnosti výhody"
+### <a name="q-what-does-benefit-expiry-date-mean"></a>Otázka: Co znamená "Datum vypršení platnosti výhody"
 
-Datum vypršení platnosti výhody znamená poslední datum, kdy se mají vaše výhody aktivovat.
+Datum vypršení platnosti výhody znamená poslední datum aktivace výhod.
 
-Až do data obnovení uplatníte výhody, které jsou k dispozici během období registrace v rámci jednoho roku. Datum zahájení obnovení můžete najít na stránce [nabídky členství](https://partner.microsoft.com/dashboard/mpn/offers) na řídicím panelu programu MPN.
+Výhody, které jsou k dispozici během období jednoleté registrace, můžete uplatnit až do data prodloužení. Počáteční datum prodloužení najdete na stránce Nabídky [členství](https://partner.microsoft.com/dashboard/mpn/offers) na řídicím panelu MPN.
 
-Můžete ale použít kódy Product Key po dobu jednoho roku od dne uplatnění klíčů na příslušných cloudových portálech.
+Kódy Product Key ale můžete používat po dobu jednoho roku od dne, kdy tyto klíče uplatníte na příslušných cloudových portálech.
 
-Například pokud vaše výhody vyprší od 31. ledna 2021, budete muset klíče uplatnit v příslušném cloudovém portálu do 31. ledna 2021. A pokud použijete kód Product Key od 1. prosince 2020, můžete tento klíč použít do 1. prosince 2021, a to i v případě, že datum vypršení platnosti výhody je 31.
+Pokud například máte datum vypršení platnosti výhody 31. ledna 2021, musíte uplatnit klíče na příslušném cloudovém portálu před 31. lednem 2021. A pokud použijete kód Product Key k 1. prosinci 2020, můžete ho použít do 1. prosince 2021, i když je datum vypršení platnosti výhody 31. ledna.
 
 >[!NOTE]
->Pokud máte výhody, které vyžadují přiřazení uživatele (například předplatná sady Visual Studio), můžete tyto výhody aktivovat a používat na dalších 30 dnů od data obnovení registrace.
+>Pokud máte výhody, které vyžadují přiřazení uživatele (například předplatná Visual Studio), můžete tyto výhody aktivovat a využívat po dobu dalších 30 dnů od data prodloužení platnosti registrace.
 
-### <a name="q-how-do-i-renew-my-benefits"></a>Otázka: Návody obnovení svých výhod
+### <a name="q-how-do-i-renew-my-benefits"></a>Otázka: Návody prodloužení platnosti výhod
 
-K obnovení svých výhod použijte následující postup:
+K prodloužení výhod použijte následující postup:
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
 
 2. V levém navigačním panelu vyberte **MPN**.
 
-3. Na kartě **MPN** vyberte možnost **výhody** .
+3. Na **kartě MPN** vyberte možnost **Výhody.**
 
-4. Aktivujte výhodu, kterou chcete.
+4. Aktivujte si výhodu, kterou chcete.
 
-Pokud výhoda, kterou potřebujete, není k dispozici, bude nutné obnovit členství v partnerském centru a postup opakovat výše.
+Pokud požadované výhody nejsou k dispozici, budete muset prodloužit platnost vašeho předplatného Partnerské centrum opakujte výše uvedený postup.
 
-### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>Otázka: Zobrazilo se mi oznámení o tom, že platnost mého předplatného brzy vyprší – co mám dělat
+### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>Otázka: Obdržel(a) jsem oznámení s informací, že brzy vyprší platnost mého předplatného – co mám dělat
 
-Přihlaste se na cloudový portál, který vygeneroval oznámení, zkontrolujte datum vypršení platnosti stávajících předplatných a pak přidejte licence do předplatného, nebo po příštím roce pro registraci existující předplatné prodlužte.
+Přihlaste se ke cloudovém portálu, který oznámení vygeneroval, zkontrolujte datum vypršení platnosti stávajících předplatných a pak přidejte licence k předplatnému, u které vyprší platnost, nebo prodloužíte stávající předplatné pro další rok registrace.
 
-### <a name="q-when-can-i-renew-my-membership"></a>Otázka: Kdy je možné obnovit členství
+### <a name="q-when-can-i-renew-my-membership"></a>Otázka: Kdy můžu prodloužit platnost členství
 
 Stávající členství je možné prodloužit kdykoli po počátečním datu prodloužení.
 

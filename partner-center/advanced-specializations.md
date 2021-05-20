@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557762"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150450"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Získejte pokročilou specializaci, která prezentuje vaše ověřené možnosti.
 
-**Příslušné role**
-
-- Globální správce
-- Správce účtu
+**Příslušné role**: globální správce | Správce účtu
 
 Rozšířené specializace Microsoftu se vytvářejí na souvisejících [zlatých kompetencích](learn-about-competencies.md) , které může partner získat. Díky podpoře zlatých kompetencí spolu s jejich souvisejícími pokročilými specializacemi můžou partneři lépe odlišit své možnosti zákazníkům.
 
