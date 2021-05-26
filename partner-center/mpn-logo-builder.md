@@ -1,74 +1,100 @@
 ---
-title: Jak vytvořit logo partnera, certifikovaného dopisu nebo odměny pomocí Tvůrce loga
-ms.topic: article
-ms.date: 03/23/2021
+title: Vytvoření loga partnera, certifikovaného dopisu nebo ceny – Logo Builder
+ms.topic: how-to
+ms.date: 05/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Pokud má vaše společnost zlatou nebo Silver Competency, vygeneruje logo přizpůsobené vaší společnosti, nebo si vyžádejte přizpůsobené certifikované písmeno ověřování pomocí nástroje pro sestavování loga v partnerském centru.
+description: Pokud má vaše společnost kompetence gold nebo silver competency, můžete vygenerovat logo přizpůsobené pro vaši společnost nebo požádat o přizpůsobené certifikované ověřovací dopisy pomocí nástroje Logo Builder v Partnerské centrum.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72be76473dcb7afd3f8d6ae60d79599b10c025fc
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: b3618cd02372c56b9f5381f8bdc8a6b3e6f24784
+ms.sourcegitcommit: fcf7a0d4f8e43de775894255f0ef9225838957a5
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152252"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "110440448"
 ---
-# <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Jak vytvořit logo partnera, certifikovaného dopisu nebo odměny pomocí Tvůrce loga
+# <a name="create-a-partner-logo-certified-letter-or-award-logo"></a>Vytvoření loga partnera, certifikovaného dopisu nebo oceňovaného loga
 
-**Příslušné role**: všichni partneři, kteří mají zájem o další informace o tvůrci loga
+**Odpovídající role:** Všichni partneři, kteří se zajímají o další informace o Tvůrci log
 
-Hodnota získání stříbra nebo Gold Competency je příležitostí k odlišení od zákazníků. Logo, které můžete použít na svých prodejních a marketingových materiálech a obchodních profilech v partnerském centru, abyste předvedli kompetenci nebo kompetenci, které jste dosáhli, jsou součástí výhod vaší kompetence. 
+Pokud chcete předvést svou silver nebo gold competency, můžete pomocí Tvůrce loga v Partnerské centrum vytvořit logo pro použití ve svých prodejních a marketingových materiálech a ve vašem obchodním profilu v Partnerské centrum. Kromě toho, pokud jste byli přijati do programu Poskytovatel spravovaných služeb Azure Expert (MSP), obdrželi jste partnera za rok nebo jste zakoupili Microsoft Action Pack, loga pro vaši účast v těchto programech jsou také k dispozici v nástroji Logo Builder. K ukládání prostředků můžete použít knihovnu v nástroji Logo Builder a až budete připraveni vytvářet prodejní a marketingové materiály, můžete si je stáhnout.
 
-Pokud jste se dostali do programu Azure expert MSP, obdrželi jste partnera pro zadání roku, případně jste si zakoupili Microsoft Action Pack, jsou v Tvůrci loga k dispozici také loga pro vaši účast v těchto programech. Můžete použít knihovnu v Tvůrci loga k ukládání assetů a můžete je stáhnout, až budete připraveni vytvořit prodejní a marketingové materiály. 
+## <a name="what-is-available-in-logo-builder"></a>Co je k dispozici v nástroji Logo Builder
 
-## <a name="what-is-available-in-logo-builder"></a>Co je k dispozici v Tvůrci loga
+Loga dostupná vaší společnosti v nástroji Logo Builder odpovídají vašemu Microsoft Partner Network (MPN). V zobrazení Partnerské centrum se mohou zobrazit **loga,** **písmena** a odměny **nebo** kombinaci.
 
-Loga dostupná pro vaši společnost v Tvůrci loga jsou zarovnána k vašemu členství v Microsoft Partner Network (MPN). Může trvat až 24 hodin, než se změní vaše členství v programu MPN, například dosažení nové kompetence, které se projeví.
+:::image type="content" source="images/logo-builder.png" alt-text="Snímek obrazovky tvůrce úplného loga":::
 
-Mezi prostředky, které můžete vytvořit v Tvůrci loga, patří následující:
+Mezi prostředky, které můžete vytvořit v Nástroji logo Builder, v závislosti na vašem přístupu patří:
 
-- Certifikované písmeno, které ověřuje kompetence a rozšířené specializace, které vaše společnost dosáhla
+- Certifikovaný dopis, který ověřuje kompetence a pokročilé specializace, které vaše společnost dosáhla
 
-- Partner s Gold Competency logo
+- Partner s logem kompetence Gold Competency
 
-- Partner s Silver Competency logo
+- Logo partnera se silver competency
 
-- Logo Azure expert MSP
+- Azure Expert MSP loga
 
-- Loga – odměny za poskytovatele
+- Loga partnerských ocenění
 
 - Logo pro partnery, kteří si zakoupili Microsoft Action Pack
+
+>[!NOTE]
+>Změna členství, jako je například nová kompetence, cena nebo jiné dosažené členství, trvá 24 hodin, než se zobrazí ve vašem účtu členství. Pokud v knihovně nevidíte požadované logo, ujistěte se, že uplynulo 24 hodin.
 
 ## <a name="create-a-logo-using-logo-builder"></a>Vytvoření loga pomocí Tvůrce loga
 
 Váš profil pro sestavování loga obsahuje informace, které nástroj pro vytváření loga uchovává o vaší organizaci a slouží pouze k vašim informacím.
 
-Pokud jste vytvořili různá loga pro různá firemní umístění, můžete pomocí selektoru MPNID vybrat, které firemní umístění chcete zobrazit nebo vytvořit.
+Pokud jste vytvořili různá loga pro různá firemní umístění, můžete pomocí selektoru MPNID určit, které obchodní umístění chcete zobrazit nebo vytvořit logo pro.
 
-Dříve vytvořená a uložená loga jsou k dispozici v nedávno **uložené** knihovně.
+Dříve vytvořená a uložená loga jsou k dispozici v **nedávno uložené** knihovně.
 
-Pokud jste už dříve vytvořili loga, vyberte **Zobrazit vše** a zobrazte celou knihovnu.
+Pokud jste dříve vytvořili loga, vyberte **Zobrazit vše** a zobrazte celou knihovnu.
 
-1. Přihlaste se k Partnerské centrum [řídicího panelu](https://partner.microsoft.com/dashboard) pomocí svého pracovního účtu.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard) partnerského centra pomocí svého pracovního účtu.
+1. V nabídce Partnerské centrum v části **výhody** vyberte **Tvůrce loga**.
 
-1. V nabídce Partnerské centrum v části **Výhody vyberte Tvůrce** **loga.**
- 
-   :::image type="content" source="images/logo-one.png" alt-text="Snímek obrazovky nabídky zobrazující tvůrce loga":::
+   :::image type="content" source="images/logo-one.png" alt-text="snímek obrazovky videa nabídky znázorňující tvůrce loga.":::
+1. V části **sestavit logo** v poli **loga** vyberte symbol plus.
 
-3. Výběrem znaménka plus v poli Build your logo (Sestavit **logo)** vytvořte nové logo.
+   :::image type="content" source="images/logo-two.png" alt-text="snímek obrazovky videa vytvoření nového loga.":::
+1. V rozevírací nabídce **Vyberte jazyk a šablonu** vyberte jazyk, který chcete použít. Dostupné šablony se zobrazí pod rozevírací nabídkou.
+1. Vyberte **vytvořit** pro šablonu, kterou chcete použít. Šablona je založena na typu loga, které budete vytvářet, například logo pro partnera MPN s Gold Competency.
+1. Pak pomocí následujících kroků Přizpůsobte logo:
+    1. V části **dostupné kompetence** vyberte kompetence pro logo. Když vyberete hodnoty, můžete použít symboly nahoru a dolů vedle hodnot a změnit pořadí, ve kterém se kompetence nebo programy zobrazí.
+    1. Do **název loga** zadejte název svého loga.
+    1. Až budete s přizpůsobením loga hotovi, vyberte **Uložit** nebo **Uložit & stáhnout**.
 
-   :::image type="content" source="images/logo-two.png" alt-text="snímek obrazovky pro vytvoření nového loga":::
+## <a name="create-a-certified-letter-using-logo-builder"></a>Vytvoření certifikovaného dopisu pomocí Tvůrce loga
 
-4. Pak máte možnost vybrat jazyk a šablonu, kterou chcete použít. Šablona je založená na typu loga, které budete vytvářet, například na logu partnera MPN se zlatým kompetencí.
+1. Přihlaste se k řídicímu Partnerské centrum [pomocí](https://partner.microsoft.com/dashboard) svého pracovního účtu.
+1. V nabídce Partnerské centrum v části **Výhody** vyberte **Logo Builder.**
+1. V **části Sestavit logo** vyberte v poli **Písmena** znaménko plus.
+1. V **rozevírací nabídce Vybrat jazyk a** šablonu vyberte jazyk, který chcete použít. Dostupné šablony se zobrazí pod rozevírací nabídkou.
+1. Jako **šablonu,** kterou chcete použít, vyberte Vytvořit.
+1. Pak si podle následujícího postupu přizpůsobte písmeno:
+    1. V **části** Možnost vyberte, jestli chcete, aby se v písmenu měla zobrazit vaše firemní umístění partnerů.
+    1. V **části Podrobnosti o** zákazníkovi zadejte podrobnosti o zákazníkovi, které chcete zobrazit v záhlaví dopisu. V šabloně se zobrazí podrobnosti o zákazníkovi. Podrobnosti o zákazníkovi nejsou k dispozici pro všechna písmena.
+    1. V **části Dostupné programy** vyberte kompetence nebo programy, které se mají zobrazit na logu. Při výběru hodnot můžete pomocí symbolů nahoru a dolů vedle hodnot změnit pořadí, ve kterém se mají kompetence nebo programy zobrazit.
+    1. Do **pole Letter name**(Název písmena) zadejte název svého dopisu.
+    1. Až přizpůsobení písmene skončíte, vyberte **Uložit** nebo Uložit a **& stáhnout**.
 
-Můžete také vytvářet certifikovaná písmena a cenová loga.
+## <a name="create-an-award-logo-using-logo-builder"></a>Vytvoření ocenění loga pomocí Logo Builderu
 
->[!NOTE]
->Trvá 24 hodin, než se ve vašem členství zobrazí nová kompetence, ocenění nebo jiné dosažené cíle. Pokud v knihovně nevidíte požadované logo, ujistěte se, že uplynulo 24 hodin.
+1. Přihlaste se k řídicímu Partnerské centrum [pomocí](https://partner.microsoft.com/dashboard) svého pracovního účtu.
+1. V nabídce Partnerské centrum v části **Výhody** vyberte **Logo Builder.**
+1. V **části Sestavit logo** vyberte v poli **Ocenění** znaménko plus.
+1. V rozevírací **nabídce Select & year (Výběr** cen za rok) vyberte cenu year (rok). Dostupné šablony se zobrazí pod rozevírací nabídkou.
+1. Pro šablonu, kterou chcete použít, vyberte **vytvořit** .
+1. Pak použijte následující postup k přizpůsobení svého loga ocenění:
+    1. V části **dostupné odměny** vyberte pro logo cenu, kterou chcete.
+    1. Do **nabídky název** zadejte název svého loga.
+    1. Až dokončíte přizpůsobení svého loga, vyberte **Uložit** nebo **Uložit & stáhnout**.
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Další informace o výhodách pro trh](mpn-learn-about-go-to-market-benefits.md)
+- [Další informace o výhodách pro uvedení na trh](mpn-learn-about-go-to-market-benefits.md)
