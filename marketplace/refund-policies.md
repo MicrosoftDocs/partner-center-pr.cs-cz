@@ -1,59 +1,59 @@
 ---
-title: Zásady refundace pro Microsoft AppSource a Azure Marketplace
-description: Zjistěte, jaké jsou zásady vracení pro produkty prodávané na Microsoft AppSource a Azure Marketplace
+title: Zásady refundace za Microsoft AppSource a Azure Marketplace
+description: Zjistěte, jaké jsou zásady refundace pro produkty prodávané na Microsoft AppSource a Azure Marketplace
 ms.service: marketplace-customer
 ms.topic: article
-author: anbene
+author: jeweber
 ms.author: jeweber
-ms.date: 11/20/2020
-ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/02/2021
+ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
+ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412671"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "111446851"
 ---
-# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Zásady refundace pro Microsoft AppSource a Azure Marketplace
+# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Zásady refundace za Microsoft AppSource a Azure Marketplace
 
-Nákupy na Microsoft AppSource nebo Azure Marketplace můžou mít nárok na refundaci. V tomto článku se seznámíme se zásadami refundace.
+Na nákupy na Microsoft AppSource nebo Azure Marketplace nárok na refundaci. Tento článek představuje naše zásady refundace.
 
-## <a name="software-as-a-service-saas-offers"></a>Nabídky software jako služba (SaaS)
+## <a name="software-as-a-service-saas-offers"></a>Nabídky SaaS (software jako služba)
 
-V případě měsíčních plánů máte nárok na plnou refundaci, pokud předplatné zrušíte během jednoho dne v rámci nákupu. V případě ročních plánů máte nárok na plnou refundaci, pokud předplatné zrušíte do 14 dnů od nákupu. Refundace nejsou k dispozici pro předplatné zrušené po uplynutí výše uvedených časových období.
+V případě měsíčních plánů máte nárok na úplnou refundaci, pokud zrušíte předplatné do jednoho dne od nákupu. V případě ročních plánů máte nárok na úplnou refundaci, pokud zrušíte předplatné do 14 dnů od nákupu. Refundace nejsou k dispozici pro předplatná zrušená po uplynutí výše uvedených časových období.
 
-Pokud z předplatného odeberete křesla, máte nárok na částečnou refundaci na základě zbývající části období předplatného.
+Refundace se nevydávají za proměnlivé poplatky. Například pokud se nabídka SaaS fakturuje na základě počtu e-mailů odeslaných z e-mailové platformy.
 
 ## <a name="office-add-ins"></a>Doplňky Office
 
-Pokud si koupíte doplněk pro Office, máte nárok na plnou refundaci, pokud předplatné zrušíte během jednoho dne od nákupu nebo obnovení.  Pokud předplatné zrušíte po jednom dni nákupu, máte nárok na částečnou refundaci na základě zbývající části nabídky.  Pokud vaše předplatné upravíte, můžete mít nárok na částečnou refundaci na základě zbývající části období předplatného.
+Pokud si koupíte doplněk pro Office, máte nárok na úplnou refundaci, pokud zrušíte předplatné do jednoho dne od nákupu nebo prodloužení platnosti. Pokud předplatné zrušíte po jednom dni od nákupu, máte nárok na částečnou refundaci na základě zbývající části nabídky. Pokud své předplatné upravíte, můžete mít nárok na částečnou refundaci na základě zbývající části období předplatného.
 
 ## <a name="azure-developer-services"></a>Vývojářské služby Azure
 
-Pokud omezíte Vývojářské služby, máte nárok na částečnou refundaci na základě zbývající části období předplatného. Refundace nejsou po zrušení předplatného k dispozici.
+Pokud snížíte počet služeb pro vývojáře, máte nárok na částečnou refundaci na základě zbývající části období předplatného. Při zrušení předplatného nejsou k dispozici refundace.
 
 ## <a name="azure-managed-applications"></a>Spravované aplikace Azure
 
-Spravované aplikace Azure nejsou nevratné.
+Spravované aplikace Azure se nevracení peněz.
 
 ## <a name="azure-reserved-instances"></a>Rezervované instance Azure
 
-Zásady refundace pro Azure Reserved instance (RI) jsou k dispozici v [samoobslužných výměnách a refundacích pro Azure reservations](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations).
+Zásady refundace za rezervované instance Azure (RI) jsou k dispozici na samoobslužných výměně a refundacích [za rezervace Azure.](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)
 
 ## <a name="azure-support-plans"></a>Plány podpory Azure
 
-Pokud svůj plán podpory Azure přenášíte nebo upravíte, můžete mít nárok na částečnou refundaci. Tato částka se překládá na základě zbývající části období předplatného.
+Pokud svůj plán přenesete nebo podpora Azure, můžete mít nárok na částečnou refundaci. Vrácená částka vychází ze zbývající části období předplatného.
 
 ## <a name="azure-databricks"></a>Azure Databricks
 
-Pokud odeberete Azure Databricks Asset, máte nárok na částečnou refundaci na základě zbývajících jednotek, které jste zadali. Další informace o Azure Databricks najdete v [dokumentaci k Azure Databricks](/azure/databricks).
+Pokud odeberete Azure Databricks, máte nárok na částečnou refundaci na základě zbývajících zadaných jednotek. Další informace o této Azure Databricks najdete v [Azure Databricks dokumentaci.](/azure/databricks)
 
 ## <a name="monetary-commitment"></a>Peněžní závazek
 
-Pokud zrušíte závazek na peněžní spotřebu, který jste zaplatili předem, máte nárok na částečnou refundaci na základě zbývající části období závazku.
+Pokud zrušíte peněžní závazek spotřeby, který jste zaplatili předem, máte nárok na částečnou refundaci na základě zbývající části období závazku.
 
 > [!NOTE]
-> Peněžní závazek nelze použít pro nákupy Microsoft AppSource nebo Azure Marketplace.
+> Peněžní závazek nelze použít k nákupu na Microsoft AppSource nebo Azure Marketplace.
 
-## <a name="microsoft-azure-consumption-commitment-macc"></a>Závazek Microsoft Azure spotřeby (MACC)
+## <a name="microsoft-azure-consumption-commitment-macc"></a>Microsoft Azure využití (MACC)
 
-Program MACC (spotřeba spotřeby) nemá vyhrazené Zásady refundace. Microsoft Azure Produkty zakoupené jako součást smlouvy MACC se řídí zásadami popsanými v tomto článku.
+Program Microsoft Azure využití prostředků (MACC) nemá vyhrazené zásady refundace. Produkty zakoupené jako součást smlouvy MACC dodržují zásady popsané v tomto článku.

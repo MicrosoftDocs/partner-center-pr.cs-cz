@@ -1,50 +1,46 @@
 ---
 title: Soukromé nabídky v Azure Marketplace
-description: Přečtěte si o soukromých nabídkách v Azure Marketplace.
+description: Seznamte se s privátními nabídkami v Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 72e886a7cfad067b40674f30a9a21810d832994a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/03/2021
+ms.openlocfilehash: 55d0716b183e9e8905e631447e547396d6f55404
+ms.sourcegitcommit: 9cb6bc9df20540f812b7932f88e520976c1aa85a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412654"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "111534179"
 ---
-# <a name="private-offers-in-azure-marketplace"></a>Soukromé nabídky v Azure Marketplace
+# <a name="private-plans-in-azure-marketplace"></a>Privátní plány v Azure Marketplace
 
-Soukromé nabídky představují způsob, jakým vydavatelé poskytují vlastní plány pro konkrétní zákazníky. Tato možnost je aktuálně podporována pouze v prostředí Azure Marketplace v Azure Portal. Soukromé nabídky jsou dostupné jenom pro placené nabídky, které se dají koupit a přímo nainstalovat z Azure Portal. Publisher nemůže vytvořit soukromé nabídky pro konzultační služby, každou službu, která má **kontakt** na telefon jako akci nebo jakoukoli bezplatnou službu bez ohledu na to, zda je možné ji nainstalovat z portálu nebo ne.
+Soukromé plány jsou způsob, jakým vydavatelé poskytují vlastní plány konkrétním zákazníkům. Privátní plány jsou k dispozici pouze pro placené nabídky, které je možné zakoupit a nainstalovat přímo z Azure Portal. Vydavatelé nemohou vytvářet privátní plány pro  konzultační služby, žádné služby, které mají možnost Kontaktovat mě jako výzvu k akci, ani žádné bezplatné služby bez ohledu na to, jestli se instalují z portálu.
 
-## <a name="find-private-offers-in-the-azure-portal"></a>Najít soukromé nabídky v Azure Portal
+## <a name="find-private-plans-in-the-azure-portal"></a>Vyhledání privátních plánů v Azure Portal
 
-Když partner publikuje soukromou nabídku, je viditelný jenom pro oprávněné uživatele v části Azure Portal **Marketplace** . Tito uživatelé jsou definováni ID předplatného nebo ID tenanta v závislosti na typu nabídky. Pokud máte nárok na soukromé nabídky, existují dva způsoby, jak je najít na portálu.
+Když partner publikuje privátní plán, je viditelný jenom oprávněným uživatelům v **části Marketplace** v Azure Portal. Tito uživatelé jsou definovaní podle ID předplatného nebo ID tenanta v závislosti na typu nabídky. Pokud máte nárok na privátní plány, existují dva způsoby, jak je najít na portálu.
 
 > [!NOTE]
-> Soukromé nabídky nejsou v tuto chvíli v Azure Portal v současnosti prohledávatelné nebo filtrovatelné (podle kategorií).
+> Privátní plány lze prohledávat, ale nefiltrovatelné (podle kategorií) v Azure Portal.
 
-V Azure Portal vyberte **+ vytvořit prostředek** , nebo vyhledejte "Marketplace", abyste přešli na stránku **Marketplace** . Pokud máte nárok na soukromé nabídky, zobrazí se v horní části stránky nápis, **který je k dispozici v soukromé** nabídce. Pokud chcete přejít na stránku soukromých nabídek, vyberte **Zobrazit soukromé nabídky** .
+V Azure Portal vyberte + **Vytvořit** prostředek nebo vyhledejte marketplace a přejděte na **stránku Marketplace.** Pokud máte nárok na privátní plány, v horní části stránky se zobrazí **banner** Máte k dispozici privátní plány. Pokud **chcete přejít na stránku privátních plánů,** vyberte Zobrazit soukromé nabídky a plány.
 
-:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="Banner, který se zobrazí, když máte k dispozici soukromé nabídky.":::
-
-Pokud se zobrazí nápis privátní nabídky, můžete také přejít na konec stránky Galerie produktů a zobrazí se podmnožina vašich privátních nabídek. Kliknutím na odkaz **zobrazíte další informace** a přejdete na stránku privátních nabídek.
-
-:::image type="content" source="media/private-offers/see-more-link.png" alt-text="Zobrazí v dolní části obrazovky soukromé nabídky společně s odkazem zobrazit další.":::
+:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="Banner, který se zobrazí, když máte k dispozici privátní plány.":::
 
 ## <a name="review-private-plans"></a>Kontrola privátních plánů
 
-Soukromá nabídka je ve skutečnosti soukromým plánem v rámci nabídky. Každá nabídka může mít několik plánů, veřejné i soukromé, ale v rámci samostatného výpisu z veřejných plánů se zobrazují jenom privátní plány.
+Privátní plán je součástí několika plánů v nabídce. Každá nabídka může mít více plánů, veřejných i privátních, ale privátní plány se zobrazují v samostatném seznamu od veřejných plánů.
 
-Dostupné soukromé plány si můžete prohlédnout na kartě **plány** označené zástupnou **osobou** , která je označená jako samostatná:
+Dostupné privátní plány se zobrazí na kartě **Plány** označené zanechteným privátním **odznáčku:**
 
-:::image type="content" source="media/private-offers/private-badge.png" alt-text="Stránka plánů označená jako soukromá":::
+:::image type="content" source="media/private-offers/private-badge.png" alt-text="Stránka plánů označená jako Soukromá":::
 
-Pokud máte více než jedno předplatné, zobrazí se všechny soukromé nabídky k dispozici pro všechna Vaše předplatná. Když vyberete **vytvořit**, budete přesměrováni na stránku vytváření prostředků, abyste mohli začít s konfigurací prostředku.
+Pokud máte více než jedno předplatné, zobrazí se všechny privátní plány dostupné pro všechna vaše předplatná. Když **vyberete Vytvořit,** budete směrovány na stránku pro vytvoření prostředku, kde můžete začít konfigurovat prostředek.
 
-Pokud vyberete **vytvořit** a máte několik předplatných, ale ne všechny, přidají se do privátního plánu. výchozí předplatné nemusí být předplatné opravňující pro tuto soukromou nabídku. V takovém případě vyberte správné předplatné.
+Pokud vyberete **Vytvořit** a máte více předplatných, ale ne všechna se přidávají do privátního plánu, vaše výchozí předplatné nemusí být předplatné vhodné pro tento privátní plán. V tomto případě vyberte správné předplatné.
 
-:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="Odkaz zobrazuje více privátních nabídek, které jsou k dispozici.":::
+:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="Odkaz ukazující, že je k dispozici více privátních plánů.":::
 
 ## <a name="next-steps"></a>Další kroky
 
