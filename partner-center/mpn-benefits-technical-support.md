@@ -1,20 +1,20 @@
 ---
 title: Výhody PROGRAMU MPN – Technická podpora místních nebo cloudových produktů
+description: Další informace o Microsoft Partner Network (MPN) pro incidenty technické podpory
 ms.topic: article
-ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Další informace o Microsoft Partner Network (MPN) pro incidenty technické podpory
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 137c5021acf2be53fb485f922c7e06c70ea6bb63
-ms.sourcegitcommit: f1255fb65eac6ee2e0ff0cb95cc16a02dc57fc1a
+ms.date: 03/04/2021
+ms.openlocfilehash: eeeb628690848c360253d883e87f48f87ed15883
+ms.sourcegitcommit: 09799f1d13b07cd3d4c75da7e2a074644dd86977
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "110582388"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "111575875"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Technická podpora pro místní nebo cloudové produkty
 
@@ -26,13 +26,13 @@ ms.locfileid: "110582388"
 Na [stránce Technické výhody](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) se zobrazují informace o 2 samostatných výhodách.
 
 1.  **Incidenty technické podpory produktů – viz níže**
-2.  Technické služby předprodeje a nasazení (TPD) – [další informace](https://docs.microsoft.com/partner-center/technical-benefits)
+2.  Technické předprodejní a nasazované služby (TPD) – [další informace](technical-benefits.md)
 
-**Tento článek je pro členy mpn (Microsoft Partner Network), kteří potřebují vědět, jak je možné vytvořit incident technické podpory s využitím výhod partnerů MPN.**
+**Tento článek je pro členy partnerů Microsoft Partner Network (MPN), kteří potřebují vědět, jak je možné vytvořit incident technické podpory s využitím výhod partnerů MPN.**
 
 ## <a name="view-and-activate-your-technical-support-benefits"></a>Zobrazení a aktivace výhod technické podpory
 
-Nejprve je potřeba aktivovat a pak se zobrazí vaše Přístupové ID a ID smlouvy, které vám umožní přidružit výhody k vašemu účtu. Pomocí svého účtu se přihlásíte k příslušnému portálu technické podpory a vytvoříte žádost o technickou podporu.
+Nejprve je potřeba aktivovat. Pak se zobrazí vaše Přístupové ID a ID smlouvy, které vám umožní přidružit výhody k vašemu účtu. Pomocí svého účtu se přihlásíte k příslušnému portálu technické podpory a vytvoříte žádost o technickou podporu.
 
 Zobrazení a aktivace technických výhod v Partnerské centrum:
 
@@ -46,26 +46,26 @@ Zobrazení a aktivace technických výhod v Partnerské centrum:
    > [!NOTE]
    > Pokud nemáte žádné aktivní nabídky členství, zobrazí se zpráva Vypadá to, že ještě nemáte žádné výhody. Pokud má vaše společnost aktivní nabídky členství, ale nevidíte je, přihlásili jste se pomocí nesprávného účtu. Pokud chcete zkontrolovat svůj  účet, vyberte ikonu Účet v pravém horním rohu stránky a vyberte Přihlásit **se pomocí** jiného účtu (v případě potřeby).
 
-3. Pokud chcete použít produktovou podporu Microsoftu nebo podpisovou podporu, musíte tuto výhodu aktivovat. Pokud chcete tuto výhodu aktivovat, klikněte na tlačítko **aktivovat** . Uživatelský účet použitý k aktivaci vyžaduje role správce partnera pro globálního správce nebo MPN. 
+3. Pokud chcete používat podporu produktů Microsoftu nebo podporu k podpisu produktů, musíte tuto výhodu aktivovat. Pokud chcete tuto výhodu aktivovat, klikněte na **tlačítko Aktivovat.** Uživatelský účet použitý k aktivaci vyžaduje role globálního správce nebo správce partnera MPN. 
 
-4. Po úspěšné aktivaci se pro všechny uživatele zobrazí ID přístupu a ID smlouvy. V případě, že se zobrazí ID přístupu a ID smlouvy, můžete použít podporu produktů Microsoftu a produktovou podporu pro signaturu (zlato a stříbrné členy).
+4. Po úspěšné aktivaci se přístupové ID a ID smlouvy zobrazí všem uživatelům. Při zobrazení přístupového ID a ID smlouvy můžete použít podporu produktů Microsoftu a podporu pro podpis produktů (členové programu Gold a Silver).
 
    > [!NOTE]
-   > Při prvním použití podpory produktu Microsoft nebo signatury podpory produktu pro každý účet budete potřebovat přístupové ID a ID smlouvy. Po přidružení výhod k vašemu účtu nemusíte znovu používat ID a ID smlouvy.  
+   > Přístupové ID a ID smlouvy budete potřebovat při prvním použití podpory produktů Microsoftu nebo podpory k podpisu pro každý účet. Jakmile jsou výhody přidružené k vašemu účtu, není nutné znovu používat přístupové ID a ID smlouvy.  
 
 ## <a name="technical-support-entitlement-and-supported-products"></a>Nárok na technickou podporu a podporované produkty
 
 Technická podpora poskytuje řešení potíží pro konkrétní problém, chybovou zprávu nebo funkci, která nefunguje podle očekávání.
 
 > [!NOTE]
-> Aby bylo možné použít výhody technické podpory, je nutné je aktivovat.
+> Než budete moci tyto výhody použít, je nutné aktivovat vaše výhody technické podpory.
 
-V rámci členství v Microsoft Partner Network mají partneři nárok na následující technickou podporu.
+V rámci tohoto Microsoft Partner Network mají partneři nárok na následující technickou podporu.
 
-|                           Technická podpora                          |  Akční balíček |                                      Kompetence stříbrného                                      |                                        Zlatá kompetence                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Podpora produktů Microsoftu<br>Pro poslední místní <br>pouze produkty | 10 incidentů | 15 incidentů                                                                                | 20 incidentů                                                                                  |   |
-| Podpisová podpora cloudu<br>Pouze pro cloudové produkty                   |              | Kompetence cloudu:<br>Unlimited<br>         <br>Další kompetence:<br>5 Incidenty         | Kompetence cloudu:<br>Unlimited<br>          <br>Další kompetence:<br>10 Incidenty   
+|  Technická podpora |  Akční balíček |  Silver competency | Gold competency |
+|:------------------:|:------------:|:------------------:|:---------------:|
+| Podpora produktů Microsoftu<br>Pro nejnovější místní prostředí <br>pouze produkty | 10 Incidenty | 15 Incidenty | 20 Incidenty |
+| Signature Cloud Support<br>Pouze pro cloudové produkty | | Kompetence cloudu:<br>Unlimited<br><br>Další kompetence:<br>5 Incidenty | Kompetence cloudu:<br>Unlimited<br>          <br>Další kompetence:<br>10 Incidenty   | 
 
 *Mezi kompetence cloudu patří: kompetence zabezpečení, cloudová Business Applications, cloudová platforma, produktivita cloudu, správa podnikové mobility, malá a střední cloudová řešení.
 
@@ -85,24 +85,24 @@ Tyto informace můžete získat pouze z portálu podpory pro firmy v místním p
 
 Potřebujete použít podporu pro firmy a zahájit proces vytvoření místního incidentu podpory. Nevytvářejte žádost o podporu, protože proces neskon uděláme. Potřebné informace se zobrazí v kroku 2.
 
-Krok 1 Otevřete [podporu pro firmy](https://support.serviceshub.microsoft.com/supportforbusiness/create) a vyberte Windows 10 a zadejte fiktivní informace.
+Krok 1: [Otevření podpory pro](https://support.serviceshub.microsoft.com/supportforbusiness/create) firmy, výběr windows 10 a zadání fiktivních informací
 
-Krok 2 Pokud je vaše smlouva o podpoře už přidružená k vašemu účtu, měli byste vidět zobrazené incidenty podpory. U místní podpory byste měli vidět, že se zobrazila smlouva Partner Support (Pokud už není platná) a zahrnuje datum zahájení, datum ukončení a incidenty zbývající. Pokud potřebujete přidružit svůj kontrakt podpory, rozbalte položku "potřebujete koupit nebo přidat další plány podpory" a kliknutím na tlačítko Přidat smlouvu zadejte ID a ID smlouvy pro přístup. Rozbalte "chcete zobrazit nedostupné plány podpory?" část, kde najdete informace o podpisech partnerů. V případě vypršení platnosti kontraktů se zobrazí pouze partnerská podpora, nezbývá žádný incident nebo jste vybrali starý místní produkt (viz [aka.MS/n-1](https://aka.ms/n-1) for support products).
+Krok 2: Pokud je vaše smlouva o podpoře už přidružená k vašemu účtu, měly by se zobrazit incidenty podpory. V případě místní podpory by se měl zobrazit smlouva o podpoře partnerů (pokud už není platná), včetně počátečního data, koncového data a zbývajících incidentů. Pokud potřebujete přidružit smlouvu o podpoře, rozbalte položku "Potřebujete koupit nebo přidat další plány podpory" a kliknutím na tlačítko Přidat smlouvu zadejte své Přístupové ID a ID smlouvy. Rozbalte nabídku Chcete zobrazit nedostupné plány podpory? v části s informacemi o podpisu partnera. V této části se zobrazí podpora partnerů pouze v případě, že vypršela platnost kontraktů, nemáte žádné zbývající incidenty nebo jste vybrali starý místní produkt (viz aka.ms/n-1 [pro](https://aka.ms/n-1) produkty podpory).
 
-**Podrobnější informace najdete v tématu [kolik incidentů podpory partnerů zbývá?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
+**Podrobnější informace najdete v tématu How many Partner support incidents are remaining? (Kolik [zbývá incidentů podpory partnerů?).](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 
-## <a name="signature-cloud-support-cloud-only"></a>Podpisová podpora cloudu (jenom Cloud)
+## <a name="signature-cloud-support-cloud-only"></a>Signature Cloud Support (jenom cloud)
 
-Partneři Gold nebo stříbrné kompetence můžou používat **signatury cloudové podpory** pro technickou podporu u cloudových produktů.
+Partneři kompetence Gold nebo Silver mohou využít **Signature Cloud Support** technické podpory ke cloudovým produktům.
 
-Při prvním použití výhody budete potřebovat přístupové ID a ID smlouvy. Výhody jsou spojené s vaším uživatelským účtem, dokud nevyprší platnost nebo dokud nezbývá žádné další incidenty podpory.
+Přístupové ID a ID smlouvy budete potřebovat při prvním použití výhody. Výhody jsou přidružené k vašemu uživatelskému účtu, dokud nevyprší platnost nebo nezůbývají žádné další incidenty podpory.
 
 > [!NOTE]  
-> Při použití Azure Portal. Pokud je vaše smlouva o podpoře již k účtu přidružena, zobrazí se chybová zpráva "ID přístupu je již přidruženo..." Když přidáte ID pro přístup a ID smlouvy. viz níže
+> Při použití příkazu Azure Portal. Pokud už máte k účtu přidruženou smlouvu o podpoře, zobrazí se chybová zpráva Přístupové ID je už přidružené... při přidání Přístupového ID a ID smlouvy. viz níže.
 
-Partneři CSP vytvářející požadavky Azure můžou používat plán podpory "poskytovatel Cloud Solution Provider" bez přidání smlouvy o podpoře.
+Partneři CSP, kteří vytvářejí požadavky Azure, mohou plán Cloud Solution Provider podpory použít bez přidání smlouvy o podpoře.
 
-Uživatelé s rolí **agenta správce** můžou v navigační nabídce vlevo vybrat možnost [zákazníci](https://partner.microsoft.com/commerce/customers/list) v části CSP, vybrat možnost **Správa služeb** a vybrat **nový požadavek**.  Když vyberete relevantní úlohu, otevře se portál specifický pro úlohy a přidáte kontrakt podpory a vytvoříte žádost.
+Uživatelé s **rolí agenta pro** správu mohou v části CSP v levé navigační nabídce vybrat Zákazníci, vybrat **Správa** služeb a vybrat **Nová žádost.** [](https://partner.microsoft.com/commerce/customers/list)  Když vyberete relevantní úlohu, otevře se portál pro konkrétní úlohy a přidáte smlouvu o podpoře a vytvoříte žádost.
 
 ## <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure Portal chyba Přístupové ID je už přidružené...
 Když použijete Azure Portal, použijete Signature Cloud Support tak, že vyberete Nápověda a podpora, Plány podpory, pak Propojit výhody podpory a zadáte Přístupové ID a ID smlouvy.
@@ -114,23 +114,23 @@ Může se zobrazit chybová zpráva *Toto přístupové ID je už přidružené 
 
 Zobrazí se výše uvedené "Přístupové ID je už přidružené..." pokud přidružíte smlouvu o podpoře k účtu více než jednou při použití Azure Portal. Podívejte se na následující scénáře:
 
-1. Pokud máte zlaté nebo zlaté technické výhody a už jste přidali smlouvu o místní podpoře, použijete Azure Portal a přidáte kontrakt znovu ke stejnému účtu. Smlouvu o podpoře je potřeba přidružit k účtu pouze jednou, a proto nepotřebujete propojovat výhody podpory v Azure. Pokud výhody podpory linku použijete, když už je kontrakt přidružený k účtu, zobrazí se chyba, která by se měla ignorovat. Použijte + Nový Support request a vytvořte incident podpory jako obvykle a zobrazí se plán podpory.
+1. Pokud máte zlaté nebo zlaté technické výhody a už jste přidali smlouvu o místní podpoře, použijete Azure Portal a znovu přidáte kontrakt ke stejnému účtu. Smlouvu o podpoře je potřeba přidružit k účtu pouze jednou, a proto nepotřebujete propojovat výhody podpory v Azure. Pokud výhody podpory linku použijete v případě, že už je kontrakt přidružený k účtu, zobrazí se chyba, která by se měla ignorovat. Použijte + Nový Support request a vytvořte incident podpory jako obvykle a zobrazí se plán podpory.
 
-2. Pokud vypršela platnost smlouvy o podpoře nebo pokud pro podpis 10 balíčku (Gold Hybrid Competency) nebo Signature 5-pack (Silver Hybrid Competency) žádné incidenty zbývající v kontraktu podpory nebudou skryty, protože je neplatný. Pokud znovu propojíte výhody podpory, zobrazí se chyba, protože kontrakt už je přidružený. Abyste se docídili incidentů, musíte si podpora Azure plán podpory. 
+2. Pokud vypršela platnost smlouvy o podpoře nebo pokud pro podpis 10 balíčku (Gold Hybrid Competency) nebo Signature 5-pack (Silver Hybrid Competency) žádné incidenty zbývající v kontraktu podpory nebudou skryty, protože je neplatný. Pokud znovu propojíte výhody podpory, zobrazí se chyba, protože kontrakt je už přidružený. Abyste se docídili incidentů, musíte si podpora Azure plán podpory. 
 
 Nabídky placené partnery najdete níže v plánech podpory pro partnery.
 
 ## <a name="partner-support-plans"></a>Plány podpory pro partnery
 
-Můžete získat placenou podporu Microsoftu, která zahrnuje technickou podporu, a řadu dalších možností služby.
+Můžete získat placenou podporu od Microsoftu, která zahrnuje technickou podporu a řadu dalších možností služeb.
 
-Můžete [Porovnat plány podpory partnerů](https://partner.microsoft.com/support/partnersupport) nebo je níže zobrazit u plánů specifických pro partnera:
+U plánů [specifických pro partnery můžete](https://partner.microsoft.com/support/partnersupport) porovnat plány podpory pro partnery nebo se můžete podívat níže:
 
 *   [Premier Support pro partnery](https://partner.microsoft.com/support/microsoft-services-premier-support) – nejvyšší úroveň technické podpory od Microsoftu
-*   [Rozšířená podpora pro partnery](https://partner.microsoft.com/support/advanced-cloud-support) – jenom pro cloudové produkty
+*   [Pokročilá podpora pro partnery](https://partner.microsoft.com/support/advanced-cloud-support) – pouze cloudové produkty
 
 ## <a name="next-steps"></a>Další kroky
 
-*   [Správa výhod a nabídek Microsoft Partner Network](manage-your-partner-network-benefits.md)
-*   [Aktivace technických přínosů pro členy centra pro členství v Partnerích (PMC)](partner-membership-center-tech-benefits-activate.md)
-*   [Služba TPD (Technical insales and Deployment Services)](https://docs.microsoft.com/partner-center/technical-benefits)
+*   [Správa výhod Microsoft Partner Network a nabídek](manage-your-partner-network-benefits.md)
+*   [Aktivace technických výhod pro členy Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+*   [Technické služby předprodeje a nasazení (TPD)](technical-benefits.md)

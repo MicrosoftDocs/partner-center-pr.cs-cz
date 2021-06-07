@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: a4a8d79c1a5b22eb0c053d8cfb0d5d7ec2aae44b
+ms.sourcegitcommit: 09799f1d13b07cd3d4c75da7e2a074644dd86977
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712524"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "111575828"
 ---
 # <a name="november-2020-announcements"></a>Oznámení z listopadu 2020
 
@@ -253,178 +253,178 @@ V oblasti Evropské unie (EU)/European volného obchodu (ESVO) se všechny nové
 
 Od ledna 2021 partneři s novými zákazníky, kteří si zakoupí nové nabídky pro obchod, se budou fakturovat za tyto nákupy v peněžních umístěních partnera. Partneři se stávajícími zákazníky, kteří si už zakoupili nové nabídky pro obchod ve zprostředkovateli CSP, se v této fázi budou dál účtovat v měně fakturačního umístění zákazníka. 
 
-- **Fáze 2: stávající zákazníci, kteří si zakoupili novou nabídku pro obchodování ve zprostředkovateli CSP před lednem 2021** 
+- **Fáze 2: Stávající zákazníci, kteří si zakoupili novou obchodní nabídku v CSP před lednem 2021** 
 
-Po fázi 1 a v kalendářním roce 2021 bude Microsoft převádět účtování nových nabídek obchodu pro partnery se stávajícími zákazníky, kteří si zakoupili novou nabídku pro obchodování ve zprostředkovateli CSP před lednem 2021, od měny zákazníka až po měnu umístění partnera. Před implementací této změny se partneři budou předem informovat.  
+Po fázi 1 a během kalendářního roku 2021 Microsoft přechází fakturaci nových obchodních nabídek pro partnery se stávajícími zákazníky, kteří si zakoupili novou obchodní nabídku v CSP před lednem 2021, z měny umístění zákazníka na měnu umístění partnera. Partneři budou předem upozorněni před implementou této změny.  
 
->Značte Tato změna bude mít vliv jenom na účtovací měnu partnerů a ne na ceny za nové nabídky obchodování v CSP. 
+>[Poznámka] Tato změna ovlivní jenom fakturační měnu partnera, a ne ceny nových obchodních nabídek v CSP. 
 
-Mezi nové nabídky pro obchod v oboru pro tuto změnu patří: předplatná Azure, která jsou součástí plánu Azure, rezervacích Azure, předplatných softwaru, trvalého softwaru a nákupů z komerčního obchodu na webu Microsoft Azure v programu Cloud Solution Provider.
+V rozsahu této změny jsou nové obchodní nabídky: předplatná Azure, která jsou součástí plánu Azure, rezervace Azure, serverová předplatná, časově trvalý software a nákupy na komerčním marketplace Microsoftu v Cloud Solution Provider programu.
 
-### <a name="partner-benefits"></a>Výhody pro partnery  
+### <a name="partner-benefits"></a>Partnerské výhody  
 
-- Tato aktualizace sníží složitost a režii při fakturaci na více měn v oblasti EU/ESVO pro nové prostředí pro obchod.  
+- Tato aktualizace sníží složitost a režii díky fakturaci ve více měnách v oblasti EU/EFTA pro nové obchodní prostředí.  
 
-- Partneři obdrží konsolidovanou fakturu v rámci jedné měny a nebude už dostávat fakturu pro každou měnu zákazníka na místo. 
+- Partneři obdrží konsolidovanou fakturu v jedné měně a za každou měnu umístění zákazníka už neobdrží fakturu. 
 
-- Výběry k pobídkám budou ve stejné měně jako fakturační měna partnera.
+- Platby v rámci pobídek budou ve stejné měně jako fakturační měna partnera.
 
-- Partneři budou upozorněni na složitost fakturace způsobené fakturací na více měn, což uvolní čas a prostředky, které jsou aktuálně přidruženy k sjednocování účtů. 
+- Partneři si budou všimnout snížené složitosti fakturace způsobené fakturací ve více měnách, což zkrátí čas a prostředky, které jsou aktuálně spojené s odsouváním účtů. 
 
-- Pro partnery, kteří ještě nepřijali nové nabídky obchodu, se tato změna zarovnává s předchozím modelem fakturace partnerů, takže partneři můžou snadněji přejít na nové prostředí pro obchod v rámci CSP. 
+- Pro partnery, kteří ještě nepřijatí nové obchodní nabídky, je tato změna v souladu s předchozím modelem fakturace partnerů, což partnerům umožňuje snadněji přejít na nové obchodní prostředí v CSP. 
 
 ### <a name="resources"></a>Zdroje informací 
 
-Projděte si informace o tomto tématu v [galerii operací] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ na webu Microsoft Partner.  
+Informace o tomto tématu najdete v [Operations Gallery] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ na webu partnera Microsoftu.  
 
 ______________
 
-## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>Omezování rozhraní API pro partnery, kteří volají rozhraní API partnerského centra
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>Omezování rozhraní API pro partnery, kteří Partnerské centrum rozhraní API
 
 ### <a name="categories"></a>Kategorie
 
-- Datum 2020-11-17
+- Datum 17. 11. 2020
 - Možnosti
 
 ### <a name="summary"></a>Souhrn
 
-Microsoft zavádí omezování rozhraní API pro partnery, kteří volají rozhraní API partnerského centra pro zajištění jednotnějšího výkonu v daném časovém intervalu.
+Microsoft zavádí omezování rozhraní API pro partnery, kteří Partnerské centrum rozhraní API pro zajištění konzistentnějšího výkonu v daném časovém období.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Natransakční partneři pomocí programu Cloud Solution Provider
+Partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider programu
 
 ### <a name="details"></a>Podrobnosti
 
-Společnost Microsoft implementuje omezování rozhraní API v Q1 2021, aby umožňovalo jednotnější výkon v časovém intervalu pro partnery, kteří volají rozhraní API partnerského centra. Omezování omezuje počet požadavků na službu v určitém časovém rozsahu, aby nedocházelo k nadměrnému využití prostředků. Při překročení prahové hodnoty omezuje Partnerská centra všechny další požadavky od tohoto klienta po určitou dobu.  
+Microsoft v 1. 1. 2021 implementuje omezování rozhraní API, aby partnerům volajícím rozhraní API pro Partnerské centrum umožnil konzistentnější výkon. Omezování omezuje počet požadavků na službu v určitém časovém intervalu, aby se zabránilo přílišnému využívání prostředků. Pokud dojde k překročení prahové hodnoty omezování, Partnerské centrum na určitou dobu omezí všechny další požadavky od tohoto klienta.  
 
-### <a name="partner-benefits"></a>Výhody pro partnery 
+### <a name="partner-benefits"></a>Partnerské výhody 
 
-Partnerské centrum je navrženo tak, aby zpracovával velký objem požadavků, ale pokud je zahlceno více požadavků několika partnery, omezování vám pomůže udržet optimální výkon a spolehlivost pro všechny partnery. Zajišťuje minimální prostoje. Díky omezení vysokého objemu požadavků můžeme zajistit konzistentní výkon pro všechny partnery. 
+Partnerské centrum je navržená tak, aby zvládla velké množství požadavků, ale pokud několik partnerů zahlcuje velké množství požadavků, pomůže omezování udržovat optimální výkon a spolehlivost pro všechny partnery. Zajišťuje minimální prostoje. Snížením vysokých objemů požadavků můžeme zajistit konzistentní výkon pro všechny partnery. 
 
 
-### <a name="apis-to-be-throttled"></a>Rozhraní API k omezení
+### <a name="apis-to-be-throttled"></a>Omezení rozhraní API
 
 | **Operace** | **Dokumentace k Partnerskému centru** |
 |-------------------------|----------------------------------|
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions|[Získání všech předplatných zákazníka](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Získání předplatného podle ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/Orders|[Získání všech objednávek zákazníka](/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Získání objednávky podle ID](/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Získání stavu zřizování předplatných](/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Správa objednávek a Správa předplatného](/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Získání seznamu doplňků pro předplatné](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Získání seznamu nároků Azure pro předplatné](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Získání stavu registrace předplatných](/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/Customers/{Customer-tenant-ID}/Transfers|[Získat všechny přenosy zákazníka](/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Získání stavu upgradu produktů](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/Customers/{Customer-ID}/Subscriptions/{Subscription-ID}/Conversions|[Získání seznamu nabídek převod zkušebních verzí](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[Získání všech předplatných zákazníka](/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Získání předplatného podle ID](/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{customer_id}/orders|[Získání všech objednávek zákazníka](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Získání objednávky podle ID](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Získání stavu zřizování předplatných](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Správa objednávek a správa předplatného](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[Získání seznamu doplňků pro předplatné](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntiments|[Získání seznamu nároků Azure pro předplatné](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Získání stavu registrace předplatných](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{ID_tenanta_zákazníka}/transfers|[Získání všech převodů zákazníka](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{id_upgradu}/stav|[Získání stavu upgradu produktů](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{ID_zákazníka}/předplatná/{ID_předplatného}/převody|[Získání seznamu nabídek převod zkušebních verzí](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
-Toto oznámení se zaměřuje na poskytování partnerů s včasnou informovaností o nadcházejících změnách, což jim umožní připravit se. Důrazně doporučujeme, aby se partneři seznámili s těmito rozhraními API, a zvažte použití rozhraní API protokolu aktivit pro zajištění vyšší efektivity a zabránění omezování. Další informace o této funkci najdete v tématu podrobnosti o [omezeních rozhraní API](/partner-center/develop/api-throttling-guidance). 
+Cílem tohoto oznámení je poskytnout partnerům včasné povědomí o nadcházejících změnách a umožnit jim tak jejich přípravu. Důrazně doporučujeme, aby se partneři s těmito rozhraními API seznámili a zvážili použití rozhraní API protokolu aktivit, abyste se vyhnuli omezování. Další informace o této funkci najdete v podrobnostech v pokynech k [omezování rozhraní API.](/partner-center/develop/api-throttling-guidance) 
 
 ### <a name="next-steps"></a>Další kroky
 
-Projděte si [pokyny k omezování rozhraní API](/partner-center/develop/api-throttling-guidance)a proveďte potřebné kroky. 
+Prohlédněte [si pokyny k omezování rozhraní API](/partner-center/develop/api-throttling-guidance)a udělejte potřebné kroky. 
 
 ______________
 
-## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 chyb způsobených duplicitními požadavky MCA
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>Chyby 409 kvůli duplicitním požadavkům MCA
 
 ### <a name="categories"></a>Kategorie
 
-- Datum 2020-11-16
+- Datum 16. 11. 2020
 - Možnosti
 
 ### <a name="context"></a>Kontext
 
-- V únoru požádali partnery o podepsání smlouvy o zákaznících Microsoftu (MCuA). To bylo migrace z předchozí smlouvy Microsoft Cloud (MCA). 
-- Jako součást tohoto partnera pro změny požadovali, aby partneři byli požádáni o zahrnutí parametru typu smlouvy, jak je popsáno [zde](/partner-center/develop/get-confirmation-of-customer-agreement).
+- V únoru tohoto roku byli partneři požádáni o podepsání Smlouva se zákazníkem Microsoftu (MCuA). Jedná se o migraci z předchozího Smlouva o službách Microsoft Cloud (MCA). 
+- V rámci této změny byli partneři požádáni o zahrnutí parametru [](/partner-center/develop/get-confirmation-of-customer-agreement)typu smlouvy, jak je zde zdokumentované.
 
-### <a name="what-happened-next"></a>Co se stalo s následujícím:
+### <a name="what-happened-next"></a>Co se stalo dál:
 
-- Ne všichni partneři zahrnuli do své implementace požadavek parametru. Microsoft vrátil pro tyto partnery tuto MCA.
-- Partner pak znovu odešle žádost o podepsání zákazníkovi a znovu ji odešle společnosti Microsoft. 
+- Ne všichni partneři zahrnou žádost o parametr do své implementace. Microsoft tyto partnery vrátil MCA.
+- Partner pak znovu předá žádost o podepsání zákazníkovi a znovu mca do Microsoftu. 
 - Duplikace ovlivnila schopnost Microsoftu poskytovat služby partnerům.
-- V září 2020 jsme všem partnerům poslali oznámení prostřednictvím Yammeru ve více fórech a požádali, aby partneři opravili parametr. Společnost Microsoft již nemůže přijmout duplicity a obdržela 409 chyb.
+- V září 2020 jsme partnerům prostřednictvím Yammeru poslali oznámení ve více fórech a požádali o opravu parametru partnery. Společnost Microsoft už nemohla přijmout duplicity a došlo by k chybám 409.
 
->[Poznámka] Nejednalo se o novou změnu kontraktu nebo rozhraní API pro partnery.
+>[Poznámka] Pro partnery to nebyla nová změna kontraktu nebo rozhraní API.
 
-- V říjnu jsme úzce pracovali s partnery, kteří měli nejvíce duplicitních žádostí o vyřešení problému.
-- V současné době připomínáme partnerům a posílání osobních e-mailů na 10 nejčastějších pachatelů, ke kontrole jejich požadavků a k vyřešení problému, abychom vám mohli pomoci s jejich testováním.
-- 10. listopadu 2020 přestaly přijímat duplicity a partneři, kteří neopravili parametry, narazili na chyby 409.
-- Od té doby jsme změnili změny, aby nepřijímaly duplicity. 
-- Od 14. ledna 2021 ale už nebudeme moci přijímat duplicity. Díky tomu mohou partneři docílit na své ukončení jakékoli úpravy. Již jsme dostali oznámení od partnera, který plánuje nasadit aktualizaci na 11/16, na které budeme s nimi úzce spolupracovat.
-- Požadujeme, aby se partneři dostali na nás, abychom vám mohli považovat test přidáním jejich klientů do letu se změnami tak, aby se zajistilo, že jejich aktualizace řešení funguje podle očekávání.
+- V říjnu jsme úzce spolupracovali s partnery, kteří měli nejvíce duplicitních žádostí o vyřešení problému.
+- V současné době připomínáme partnerům a také odesílání osobních e-mailů 10 nejsnazším delikventům, abychom mohli zkontrolovat jejich žádosti a kontaktovat nás, abychom jim mohli pomoct problém otestovat a vyřešit.
+- 10. listopadu 2020 jsme přestali přijímat duplicity a u partnerů, kteří parametry nespravují, došlo k chybám 409.
+- Od té doby jsme změnu vrátili zpět, aby nepřijímala duplicity. 
+- 14. ledna 2021 ale znovu nebudeme přijímat duplicity. To partnerům umožňuje provádět další úpravy na jejich konci. Od partnera jsme již obdrželi oznámení, že plánuje nasadit aktualizaci 11. 16. 2016, na které s nimi budeme úzce spolupracovat.
+- Požádáme partnery, aby se s námi s námi mohli s pomocí změn otestovat přidáním jejich tenantů na let, aby mohli zajistit, aby aktualizace jejich řešení funguje podle očekávání.
 
 
 ### <a name="next-steps-for-partners"></a>Další kroky pro partnery
 
-- Zkontrolujte tyto nové uživatelské rozhraní a změny rozhraní API partnerského centra. Když se pokusíte vytvořit předplatné zákazníka nebo aktualizovat stávající předplatné pro zákazníka v některé z těchto zemí, zkontrolujte informace o účtu zákazníka a ujistěte se, že jste přidali data do dvou nových, vyžadovaných polí pro zákazníka: DIČ (právní identifikátor) a telefonní číslo. Tyto informace můžete aktualizovat prostřednictvím [řídicího panelu](https://partner.microsoft.com/dashboard) partnerského centra nebo přes [rozhraní API](/partner-center/develop/create-a-customer#company-profile)partnerského centra.
+- Zkontrolujte tyto nové změny Partnerské centrum uživatelského rozhraní a rozhraní API. Při dalším pokusu o vytvoření zákaznického předplatného nebo aktualizaci stávajícího předplatného pro zákazníka v jedné z těchto zemí zkontrolujte informace o účtu zákazníka a ujistěte se, že jste přidali data do dvou nových požadovaných polí pro tohoto zákazníka: Organization INN (Právní identifikátor) a Telefonní číslo. Tyto informace můžete aktualizovat prostřednictvím řídicího panelu Partnerské centrum [rozhraní](https://partner.microsoft.com/dashboard) API nebo Partnerské centrum [rozhraní API.](/partner-center/develop/create-a-customer#company-profile)
 
-- Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci, abyste se mohli připravit na tyto změny.
+- Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci, aby se na tyto změny připravili.
 
 ______________
 
-## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testování k dispozici: vylepšení rozhraní API partnerského centra a uživatelského rozhraní (UI) pro proces ověření zákazníka pro vzdělávání
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Dostupné testování: Partnerské centrum rozhraní API a uživatelského rozhraní pro proces ověřování zákazníků v oblasti vzdělávání
 
 ### <a name="categories"></a>Kategorie
 
-- Datum 2020-11-10
-- Možnosti | Škálování & škály při zvyšování produktivity
+- Datum 10. 11. 2020
+- Možnosti | Řízení efektivity & škálování
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Partneři prodávají akademické nabídky prostřednictvím programu Cloud Solution Provider (CSP).
+Partneři, kteří prodávají akademické nabídky prostřednictvím Cloud Solution Provider (CSP).
 
 ### <a name="summary"></a>Souhrn
 
-Testování je teď k dispozici pro aktualizace rozhraní API partnerského centra a vylepšení uživatelského rozhraní pro účely procesu ověření zákazníka pro vzdělávání.
+Testování je teď k dispozici pro Partnerské centrum api a vylepšení uživatelského rozhraní pro proces ověřování zákazníků v oblasti vzdělávání.
 
 ### <a name="details"></a>Podrobnosti
 
-Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat kompatibilní, bezpečnou a zabezpečenou metodu ověřování zákazníků pro účely transakcí akademických nabídek v programu CSP. V rámci tohoto článku zavádíme v druhém čtvrtletí tohoto fiskálního roku vylepšení rozhraní API pro partnerské centrum a uživatelské rozhraní (FY21 Q2). Tato vylepšení dostanou jasnou a srozumitelnou v rámci procesu ověřování zákazníků a také možnost zadat přesnější data, což bude zlepšit úspěšnost zákazníků při ověřování.
+Microsoft běží na vztahu důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečnou a zabezpečenou metodu ověřování zákazníků pro transakce s akademickými nabídkami v programu CSP. V rámci tohoto článku představujeme vylepšení Partnerské centrum API a uživatelského rozhraní ve druhém čtvrtletí tohoto fiskálního roku (FY21 Q2). Tato vylepšení zlepší přehlednost a přehlednost procesu ověřování zákazníků a také možnost zadat přesnější data, což zlepší úspěšnost ověřování zákazníků.
 
-**Vylepšení partnerského centra**
+**Partnerské centrum vylepšení**
 
-- Nová rozhraní API pro získání a odeslání kvalifikace pro podporu přesného zadání dat a zlepšení procesu pro vzdělávání zákazníků v oblasti vzdělávání.
+- Nová rozhraní API pro kvalifikace GET a POST, která podporují přesné zadávání dat a vylepšuje proces ověřování zákazníků v oblasti vzdělávání od Microsoftu.
 
-- Vylepšení uživatelského rozhraní pro podporu přesného zadání dat a zlepšení procesu pro vzdělávání zákazníků v oblasti vzdělávání od Microsoftu.
+- Vylepšení uživatelského rozhraní pro podporu přesného zadávání dat a vylepšení procesu ověřování zákazníků v oblasti vzdělávání od Microsoftu
 
 **Testování**
 
-Aby bylo možné lépe pochopit rozhraní API a zadávání dat potřebné k úspěšnému ověření od zákazníka, partneři budou moci otestovat Tato vylepšení od října 2020. Brzy poskytneme další podrobnosti o přesném časování a o tom, jak se zúčastnit. Existující rozhraní API partnerského centra budou vyřazena před uplynutím FY21.2. čtvrtletí. V tuto chvíli budete muset přejít na nová rozhraní API partnerského centra.
+Aby partneři lépe pochopili rozhraní API a zadávání dat vyžadované pro úspěšné ověření zákazníka, budou moct tato vylepšení otestovat od října 2020. Brzy vám poskytneme další podrobnosti o přesném načasování a o tom, jak se zapojit. Stávající Partnerské centrum API se před koncem 2. otázky 2. roku vyřazena. V tu chvíli budete muset přejít na nová rozhraní API Partnerské centrum rozhraní API.
 
-   - Testování dostupných dat partnerských testů od 2. prosince 2020. Partneři, kteří se chtějí zúčastnit, by si stáhli příručku pro testování zákazníků z partnerského centra, kde se můžete připravit, jak se zaregistrovat a co očekávat během testovací fáze.
+   - Testování k dispozici: Data testů partnerů jsou od 2. října do 2. prosince 2020. Partneři, kteří se chtějí zapojit, by si měli stáhnout příručku pro testování zákazníků Partnerské centrum Education, kde se můžete připravit, jak se zaregistrovat a co očekávat během testovací fáze.
 
-**Zákazníci knihoven a Museum**
+**Zákazníci knihoven a kaskád**
 
-Kromě těchto vylepšení vám s radostí oznamujeme, že v FY21 Q2 umožníme, abychom zákazníkům pro knihovny a Museum povolili nabídky pro akademické zákazníky a rozšíříte si zákazníky s vzděláváním, se kterými můžete vyřizovat nabídky služby Transact CSP.
+Kromě těchto vylepšení s radostí oznamujeme, že ve verzi FY21 Q2 povolíme nabídky s cenami Academic pro zákazníky knihoven a Kedy a rozšíříme zákazníky v oblasti vzdělávání, se kterými můžete nabídky CSP provádět.
 
-Společnost Microsoft si vyhrazuje právo zkontrolovat stav každého zákazníka nebo navrženého zákazníka jako kvalifikovaného vzdělávacího uživatele. Úplné podrobnosti najdete v [požadavcích na školní potřeby vzdělávání uživatelů](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) .
+Microsoft si vyhrazuje právo zkontrolovat stav libovolného zákazníka nebo navrhovaného zákazníka jako kvalifikovaný vzdělávací uživatel. Úplné podrobnosti najdete [v požadavcích pro uživatele academic qualified education.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)
 
 ### <a name="next-steps"></a>Další kroky
 
-- Přečtěte si nové změny uživatelského rozhraní a rozhraní API partnerského centra, jakož i Průvodce testováním v [procesu ověřování zákazníků vzdělávacího centra pro vzdělávání. vylepšení shromažďování obsahu](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Zkontrolujte nové změny Partnerské centrum uživatelského rozhraní a rozhraní API a také průvodce testováním v kolekci obsahu vylepšení procesu ověřování zákazníků [Partnerské centrum Education.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-- Zaregistrujte se, abyste se mohli zúčastnit testování. (Podrobnosti najdete v [Průvodci testováním](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
+- Zaregistrujte se, abyste se mohli účastnit testování. (Podrobnosti najdete [v průvodci](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) testováním.) 
 
-- Ujistěte se, že vaše organizace je obeznámená s [požadavky školního uživatele na vzdělávání](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+- Ujistěte se, že je vaše organizace obeznámená s [požadavky uživatelů academic qualified education](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
 
-- Tyto informace můžete sdílet s příslušnými týmy v rámci vaší organizace, společně s prodejci, aby jim pomohli připravit se na tyto změny.
+- Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci a s prodejci, aby se na tyto změny připravili.
 
 ______________
 
-## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Rozšiřování obsahu komerčního licenčního partnera v galerii připravenost k provozu
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Rozšíření obsahu pro komerční licencování partnerů v Galerii provozní připravenosti
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2020-11-5
+- Datum: 5. 11. 2020
 - Možnosti
 
 ### <a name="summary"></a>Souhrn
 
-Od listopadu 5 2020 budou k dispozici komerční obsah partnerského oddělení z partnerské univerzity, a to i v galerii připravenost k provozu.
+Od 5. listopadu 2020 bude obsah partnera pro komerční licencování z Partner University dostupný také v Galerii provozní připravenosti.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
@@ -432,202 +432,202 @@ Komerční partneři
 
 ### <a name="details"></a>Podrobnosti
 
-Od 5. listopadu 2020 bude k dispozici komerční obsah partnerského oddělení z partnerské univerzity, který bude dostupný i v galerii připravenost k provozu. Tím se už stávající provozní a komerční licenční partner spustí obsah v galerii připravenost k provozu s naším dlouhodobě komerčním partnerem licencování od partnerského studia. Díky tomu budou mít partneři pružnější možnosti připravenosti. Do galerie připravenost k operacím byly přidány následující kolekce:
+Od 5. listopadu 2020 bude obsah partnera pro komerční licencování z Partner University dostupný také v Galerii provozní připravenosti. Tím se konsoliduje již existující obsah ke spuštění provozního a komerčního licenčního partnera v Galerii provozní připravenosti s naším trvalým obsahem partnera pro komerční licencování z Partner University. Partnerům tak poskytne bezproblémovější prostředí pro připravenost. Do Galerie provozní připravenosti byly přidány následující kolekce:
 
-- [Microsoft Azure – nabídky a licencování](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
-- [Komerční licencování – volání Spotlightu pro CSP](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
-- [Komerční licencování – volání aktualizací licencování](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+- [Microsoft Azure – Nabídky a licencování](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [Komerční licencování – Volání CSP Spotlight](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [Komerční licencování – Volání aktualizací licencování](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
 
 ### <a name="next-steps"></a>Další kroky
 
-Tyto informace Sdílejte se všemi odpovídajícími kontakty ve vaší organizaci.
+Tyto informace můžete sdílet se všemi příslušnými kontakty ve vaší organizaci.
 
 ________________
 
-## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Microsoft Teams Rooms úrovně Premium – spuštění SKU
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Spuštění SKU Premium v místnosti Microsoft Teams
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2020-11-3
+- Datum: 3. 11. 2020
 - Nabídky/trhy
 
 ### <a name="summary"></a>Souhrn
 
-Microsoft Teams je teď dostupný v programu Cloud Solution Provider (CSP) pro týmy Microsoft.
+V Microsoft Teams je teď k dispozici skladová položku Premium pro Microsoft Teams prostřednictvím Cloud Solution Provider (CSP).
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Podrobnosti
 
-Nové týmy Microsoft Teams jsou teď dostupné pro vaše zákazníky, kteří si kupují poskytovatele CSP za USD50 na zařízení za měsíc. SKU Microsoft Teams je alternativou k Microsoft Teams místnosti Standard SKU (dříve označované jako licence na schůzku). Tato SKU obsahuje všechno ve standardní nabídce, jako jsou třeba licence pro Microsoft teams, Online Skype pro firmy a správu Intune. Nabídka taky umožňuje telefonnímu systému – nutnému pro integraci veřejné telefonní sítě (PSTN) a zvukové konference, kde je k dispozici. 
+Nová SKU Místnosti Microsoft Teams úrovně Premium pro místnosti Microsoft Teams je teď dostupná zákazníkům, kteří nakupují CSP, a to za 50 USD za zařízení za měsíc. Skladová položku Premium v místnostech Microsoft Teams je alternativou ke standardní skladové položku místnosti Microsoft Teams (dříve nazývané Jednací místnost licence). Tato cenová úroveň zahrnuje vše, co je součástí standardní nabídky, například potřebné licence pro Microsoft Teams, Online Skype pro firmy a správu Intune. Tato nabídka také umožňuje telefonní systém , který je nezbytný pro integraci veřejné telefonní sítě (PSTN), a audiokonference, pokud je k dispozici. 
 
-Díky nabídce Premium mají zákazníci přístup k nově vydaným verzím Microsoft Teams místností spravované služby, kde odborníci zpracovávají správu a operace pro místnosti pro schůzky jménem zákazníka. Tato cloudová služba pro správu a sledování IT zajišťuje, aby týmy Microsoftu místnosti zařízení a jejich periferních zařízení v aktuálním stavu. Také se aktivně monitorují a spravují a udržují prostředí optimalizované pro skvělou práci v místnosti.
+S nabídkou Premium mají zákazníci přístup k nově vydaným spravovaným službám pro místnosti Microsoft Teams, kde odborníci za zákazníka spravují správu a provoz pro konferenční místnosti. Tato cloudová služba pro správu a monitorování IT udržuje zařízení místností Microsoft Teams a jejich periferní zařízení aktuální a zabezpečená. Jsou také proaktivně monitorované a spravované a udržují prostředí optimalizované pro skvělé prostředí v místnosti.
 
-#### <a name="released-at-launch"></a>Vydaná při spuštění
+#### <a name="released-at-launch"></a>Vydáno při spuštění
 
-   |****|**Microsoft Teams Rooms úrovně Standard USD15 za měsíc**|**Microsoft Teams Rooms Premium USD50 Device za měsíc**|
+   |****|**Zařízení s 15 USD v místnosti Microsoft Teams za měsíc**|**Zařízení Typu Premium v Microsoft Teams – 50 USD měsíčně**|
    |-------------------|:------|:------|
    |Skype pro firmy|Yes| |
    |Microsoft Teams|Yes|Yes|
    |Telefonní systém|Yes|Yes|
-   |Zvukové konference|Yes|Yes|
+   |Audiokonference|Yes|Yes|
    |Microsoft Intune|Yes|Yes|
-   | |Microsoft Teams Rooms Standard USD15 na zařízení za měsíc|Microsoft Teams Rooms Premium USD50 na zařízení za měsíc|
-   |Microsoft Teams místností spravované služby| |Yes|
-   |Celosvětová dostupnost|Yes|Na vybraných trzích|
+   | |Místnosti Microsoft Teams standard – 15 USD na zařízení a měsíc|Místnosti Microsoft Teams Premium 50 USD na zařízení a měsíc|
+   |Spravované služby pro místnosti v Microsoft Teams| |Yes|
+   |Celosvětová dostupnost|Yes|Na vybraném trhu|
 
-#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams místností spravované služby
+#### <a name="microsoft-teams-rooms-managed-services"></a>Spravované služby pro místnosti v Microsoft Teams
 
-- Proaktivní Správa: zcela nepřetržitou správu vašich systémů místností, včetně oprav, správy konfigurací a dalších.
-- Monitorování a analýza hlavní příčiny v reálném čase: monitorování a zjišťování s orchestrací reakce na správu incidentů, kterou Microsoft provedl v koordinaci s zákazníkem v případě potřeby. Mobilní aplikace vám umožní udržet výstrahy na cestách.
-- Spravované aktualizace: Správa a doručování aktualizací aplikací, Windows KB a firmwaru.
-- Ochrana před hrozbami zabezpečení: Ochrana před internetovými útoky pomocí rozšířené ochrany před internetovými útoky v programu Microsoft Defender
-- Zákaznická podpora: podpora lístků zcela nepřetržitou prostřednictvím našeho vyhrazeného provozního centra služeb s asistencí pro jiné než automatizované případy. Podrobné řízení přístupu na základě rolí.
-- Přehledy a doporučení: agregované přehledy pro zákazníky a sestavy o stavu místnosti, inventáři, používání, online schůzkách a trendech incidentů.
+- Proaktivní správa: 24x7x365 správa systémů místností, včetně oprav, správy konfigurace a dalších.
+- Monitorování v reálném čase a analýza hlavní příčiny: Monitorování a detekce s orchestrovanou reakcí na řízení incidentů řízenou Microsoftem v koordinaci se zákazníkem v případě potřeby. Mobilní aplikace umožňuje být upozorněna na to, že jste na to upozorněni.
+- Spravované aktualizace: Správa a doručování aplikací, znalostní báze Windows a aktualizace firmwaru.
+- Ochrana před ohrožením zabezpečení: Ochrana před bezpečnostními hrozb Rozšířená ochrana před internetovými útoky v programu Microsoft Defender.
+- Zákaznická podpora: Podpora lístků 24x7x365 prostřednictvím našeho vyhrazeného operačního centra služeb s asistencí nápravy incidentů v neautomatizovánech případech. Podrobné řízení přístupu na základě role.
+- Přehledy a doporučení: Agregované přehledy napříč zákazníky a sestavy o stavu místnosti, inventáři, využití, online schůzkách a trendech incidentů.
 
-#### <a name="offer-details"></a>Podrobnosti nabídky
+#### <a name="offer-details"></a>Podrobnosti o nabídce
 
    |**Název nabídky**|**ID nabídky**|**ID materiálu**|
    |-------------------|:------|:------|
-   |Týmy na místnosti úrovně Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
-   |Týmy v místnostech Premium (USA a může)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
-   |Týmy – místnosti Premium pro vyučující|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+   |Teams Rooms Premium|5db9aa31-f039-4740-b122-a33514e4c492|6xB-00007|
+   |Teams Rooms Premium (USA a CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6xB-00008|
+   |Teams Rooms Premium pro učitelské sbory|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
 
 ### <a name="next-steps"></a>Další kroky
 
-- Seznamte se s novou nabídkou a její geografickou dostupností najdete [v nejčastějších dotazech.]()
-- Seznámení s novou nabídkou a její geografickou dostupností 
-- Přečtěte si další informace o místnostech Microsoftu a souvisejících nabídkách na [týmových místnostech Microsoftu](https://rooms.microsoft.com/).
-- Pomocí [Průvodce týmy pro týmy](https://aka.ms/teamscallingmeetingsguide) můžete vyvinout svůj postup s týmy pro setkání a vytvořit nabídku, která je připravená pro spoluprodej.
-- Přečtěte si [Nejčastější dotazy k místnostem Microsoft Teams](https://aka.ms/PartnerMTRFAQ) , kde najdete další informace o řešení a službách produktu. 
-- Tyto informace se dají sdílet se všemi příslušnými kontakty ve vaší organizaci a porozumět příležitostem přeprodat a vzájemným prodejcům.
+- Seznamte se s novou nabídkou a její geografickou dostupností. Nejčastější dotazy najdete v [nejčastějších dotazech.]()
+- Seznamte se s novou nabídkou a její geografickou dostupností. 
+- Další informace o místnostech Microsoft a souvisejících nabídkaech najdete na webu [Microsoft Team Rooms.](https://rooms.microsoft.com/)
+- Využijte [příručku pro partnery Teams](https://aka.ms/teamscallingmeetingsguide) k vývoji vašich postupů s týmem Teams Meeting Rooms a vytvořte nabídku připravenou ke spoluprodájení.
+- Další informace [o produktových řešeních](https://aka.ms/PartnerMTRFAQ) a službách najdete v nejčastějších dotazech k místnostem Microsoft Teams. 
+- Sdílejte tyto informace se všemi příslušnými kontakty ve vaší organizaci a seznamte se s prodejními příležitostmi a možnostmi křížového prodeje.
 
 ________________
 
-## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Nové Microsoft Teams Advanced Communications pro Cloud Community (RSZ) již brzy
+## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Nové skladové jednotky Microsoft Teams Advanced Communications pro Government Community Cloud (GCC) již brzy
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2020-11-2
+- Datum: 2. 11. 2020
 - Nabídky/trhy
 
 ### <a name="summary"></a>Souhrn
 
-Nové skladové položky doplňku pro pokročilou komunikaci pro Microsoft Teams v RSZ budou k dispozici od 1. prosince 2020.
+Nová SKU doplňku Advanced Communications pro Microsoft Teams v GCC bude dostupná od 1. prosince 2020.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Podrobnosti
 
-Nový doplněk pro pokročilou komunikaci pro Microsoft Teams v RSZ je teď k dispozici na USD12 na uživatele měsíčně. SKU doplňku se dají koupit na jakékoli jiné Microsoft 365 sady, která obsahuje Microsoft Teams. Pokročilá komunikace poskytuje novou sadu funkcí pro velké schůzky, zásady komunikace, integrace a rozšířené nástroje pro správu IT. 
+Nový doplněk Advanced Communications pro Microsoft Teams v GCC je teď k dispozici za 12 USD za uživatele a měsíc. Skladové položky doplňků je možné zakoupit nad jakoukoli jinou Microsoft 365, která obsahuje Microsoft Teams. Pokročilá komunikace poskytuje novou sadu funkcí pro velké schůzky, zásady komunikace, integrace a pokročilé nástroje pro správu IT. 
 
-#### <a name="offer-details"></a>Podrobnosti nabídky
+#### <a name="offer-details"></a>Podrobnosti o nabídce
 
    |**Název nabídky**|**ID nabídky**|**ID materiálu**|
    |-------------------|:------|:------|
-   |Pokročilá komunikace pro RSZ|56fe76f5-f4ba-4fac-9561-d0daf59b01a1|7FB-00003|
+   |Advanced Communications for GCC|56fe76f5-f4ba-4fac-9561-d0daf59b01a1|7FB-00003|
 
 #### <a name="frequently-asked-questions"></a>Nejčastější dotazy 
 
-**Co je pokročilá komunikace?** Tento nový doplněk Microsoft Teams umožňuje zákazníkům dále zvyšovat možnosti komunikace. Dá se koupit na Microsoft 365 SKU, ke kterému se přihlásí.
+**Co je pokročilá komunikace?** Tento nový doplněk Microsoft Teams umožňuje zákazníkům dále vylepšit komunikační prostředí. Můžete si ho zakoupit v libovolném Microsoft 365 SKU, ke které jsou přihlášeni.
 
-**Kolik to stojí?** Komerční ERP je USD12 na uživatele a měsíc.
+**Kolik to stojí?** Komerční ERP je 12 USD na uživatele měsíčně.
 
-**Kteří zákazníci si doplněk můžou koupit?** Zákazníci v rámci RSZ si můžou doplněk koupit.
+**Kteří zákazníci si mohou doplněk koupit?** Zákazníci GCC si mohou doplněk koupit.
 
-**Jak se dá koupit?** Tento doplněk můžete koupit prostřednictvím smlouva Enterprise, smlouva Enterprise předplatného, registrace pro vzdělávací řešení, CSP nebo webu Direct.
+**Jak se koupí?** Doplněk je možné zakoupit prostřednictvím předplatného smlouva Enterprise, předplatného smlouva Enterprise, řešení registrace pro vzdělávání, CSP nebo webového přímého připojení.
 
-**Kde se dá prodávat?** Dá se prodávat na trzích USA.
+**Kde se může prodávat?** Může se prodávat na americkém trhu.
 
-**Jaké jsou požadavky?** Tento doplněk můžou mít všechny Microsoft 365 nebo sady Office 365, které obsahují Microsoft Teams.
+**Jaké jsou požadavky?** Tento Microsoft 365 může mít libovolná sada Office 365, která zahrnuje Microsoft Teams.
 
 ### <a name="next-steps"></a>Další kroky
 
-Tyto informace se dají sdílet s příslušnými kontakty ve vaší organizaci a porozumět příležitostem přeprodat a vzájemným prodejcům. Projděte si část prostředky v [příručce Teams partner](https://aka.ms/teamscallingmeetingsguide).
+Sdílejte tyto informace s příslušnými kontakty ve vaší organizaci a seznamte se s prodejními příležitostmi a možnostmi křížového prodeje. V příručce pro partnery Teams si [prohlédněte část s prostředky.](https://aka.ms/teamscallingmeetingsguide)
 
 ________________
 
-## <a name="dynamics-365-recently-launched-and-upcoming-new-offers-and-products"></a><a name="3"></a>Dynamics 365: Nedávno spuštěné a nadcházející nové nabídky a produkty
+## <a name="dynamics-365-recently-launched-and-upcoming-new-offers-and-products"></a><a name="3"></a>Dynamics 365: Nedávno spuštěné a připravované nové nabídky a produkty
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2020-11-2
+- Datum: 2. 11. 2020
 - Nabídky/trhy
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Přímí poskytovatelé, nepřímá poskytovatelé a nepřímí prodejci
+Nepřímí poskytovatelé, nepřímí poskytovatelé a nepřímí prodejci
 
 ### <a name="details"></a>Podrobnosti
 
 #### <a name="new-offers"></a>Nové nabídky
 
-Od 1. listopadu 2020 nabízí Microsoft Dynamics 365 operace projektu a odebrali jsme pro komerční zákazníky Dynamics 365 Project Service Automation (PSA). Tato komunikace poskytuje další informace týkající se mapování duálních práv na používání z tohoto spuštění a nového nezávislého výrobce softwaru (ISV) Embedded.
+1. listopadu 2020 microsoft vydal nabídky Dynamics 365 Project Operations a odebral Dynamics 365 Project Service Automation (PSA) pro komerční zákazníky. Tato komunikace poskytuje další informace týkající se mapování práv k duálnímu použití z tohoto uvedení na trh a nových nabídek nezávislých výrobců softwaru (ISV).
 
-#### <a name="project-operations-isv-embed-offers"></a>Nabídky operací s projektem ISV pro vložení
+#### <a name="project-operations-isv-embed-offers"></a>Nabídky Project Operations ISV Embed
 
-Od 1. listopadu 2020 společnost Microsoft vydávala tři další 36 nabídky za za měsíc pro produkt Dynamics 365 pro projektové operace pro zákazníky poskytovatele Cloud Solution Provider (CSP). Podrobnosti o SKU najdete v [dokumentu Dynamics CSP Offers-November 2020 Excel v dokumentu aplikace](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-xls) Project – karta operace projektu.
+1. listopadu 2020 společnost Microsoft vydala tři další 36měsíční nabídky ISV Embed pro Dynamics 365 for Project Operations pro zákazníky CSP (Cloud Solution Provider). Podrobnosti o SKU najdete na kartě Operace projektu v dokumentu [Dynamics CSP Offers-November 2020 Excel.](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-xls)
 
-#### <a name="project-operations-dual-use-rights-mapping"></a>Operace projektu – mapování oprávnění pro duální použití
+#### <a name="project-operations-dual-use-rights-mapping"></a>Mapování práv k duálnímu využití v projektových operacích
 
-Informace o právech pro duální použití v Dynamics 365 pro místní mapování pro projektové operace nabídky najdete v následující tabulce:
+Informace o místním mapování práv k duálnímu použití Dynamics 365 pro nabídky Project Operations najdete v následující tabulce:
 
-   |**Nabídka operací D365**|**Mapování místních práv na používání duálního použití D365**|
+   |**Nabídka D365 Operations**|**Mapování práv k duálnímu využití v místním prostředí D365**|
    |-------------------|:------|
-   |Nabídka operací D365|Mapování místních práv na používání duálního použití D365|
-   |Operace projektu D365|D365 for Operations, on-Prem (AX Server) s použitím skladové položky SKU pro Dyn365 projektu (109108477)|
-   |Připojení operací projektu D365|D365 for Operations, on-Prem (AX Server) s použitím skladové položky SKU pro Dyn365 projektu (109108477)|
-   |D365 finance s operacemi projektu|D365 for Operations, on-Prem (AX Server) s použitím skladové položky SKU pro Dyn365 projektu (109108477)|
-   |D365 finance připojit k projektovým operacím|D365 for Operations, on-Prem (AX Server) s použitím skladové položky SKU pro Dyn365 projektu (109108477)|
-   |D365 Unified Operations – aktivita s operacemi projektu|D365 for Operations, on-Prem (AX Server) s použitím skladové položky SKU pro Dyn365 projektu (109108477)|
+   |Nabídka D365 Operations|Mapování práv k duálnímu využití v místním prostředí D365|
+   |D365 Project Operations|D365 for Operations, on-prem (AX Server) using the Pomocí SKU projektového provozu Vy365 (109108477)|
+   |Připojení operací projektu D365|D365 for Operations, on-prem (AX Server) using the Pomocí SKU projektového provozu Vy365 (109108477)|
+   |D365 Finance s project operations|D365 for Operations, on-prem (AX Server) using the Pomocí SKU projektového provozu Vy365 (109108477)|
+   |Připojení K D365 Finance k operacím projektu|D365 for Operations, on-prem (AX Server) using the Pomocí SKU projektového provozu Vy365 (109108477)|
+   |Sjednocené operace D365 – aktivita s operacemi projektu|D365 for Operations, on-prem (AX Server) using the Pomocí SKU projektového provozu Vy365 (109108477)|
 
-#### <a name="previously-announced"></a>Dřív oznámeno
+#### <a name="previously-announced"></a>Dříve oznámeno
 
-Od 1. listopadu 2020 společnost Microsoft zveřejnila následující nové a aktualizované nabídky produktů Dynamics 365 a Power Platform pro CSP:
+1. listopadu 2020 společnost Microsoft vydala následující nové a aktualizované nabídky a produkty Dynamics 365 a Power Platform pro CSP:
 
 - Dynamics 365 Customer Voice USL 
 
-Podrobnosti o ID nabídky najdete v [dokumentu Dynamics CSP Offers-November 2020 Excelu v dokumentu aplikace](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Project – karta operace projektu.
+Podrobnosti o ID nabídky najdete na kartě Operace projektu v dokumentu [Dynamics CSP Offers-November 2020 Excelu.](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls)
 
-Další zdroje najdete na domovské stránce hlasu pro zákazníky Microsoft Dynamics 365.
+Další materiály najdete na domovské stránce Microsoft Dynamics 365 Customer Voice.
 
 ### <a name="next-steps"></a>Další kroky
 
-Tyto informace sdílejte s příslušnými lidmi ve vaší organizaci.
+Tyto informace můžete sdílet s relevantními lidmi ve vaší organizaci.
 
 ________________
 
-## <a name="introducing-microsoft-365-business-voice-for-nonprofit-organizations"></a><a name="2"></a>Představujeme Microsoft 365 Business hlas pro neziskové organizace
+## <a name="introducing-microsoft-365-business-voice-for-nonprofit-organizations"></a><a name="2"></a>Představení Microsoft 365 Business Voice pro neziskové organizace
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2020-11-2
+- Datum: 2. 11. 2020
 - Nabídky/trhy
 
 ### <a name="summary"></a>Souhrn
 
-Od listopadu 1 2020 společnost Microsoft zavedla nové SKU pro Microsoft 365 Business hlas pro neziskové organizace.
+Dne 1. listopadu 2020 microsoft představil nové skladové Microsoft 365 business voice pro neziskové organizace.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Přímí poskytovatelé, nepřímá poskytovatelé a nepřímí prodejci
+Nepřímí poskytovatelé, nepřímí poskytovatelé a nepřímí prodejci
 
 ### <a name="details"></a>Podrobnosti
 
-Od 1. listopadu 2020 společnost Microsoft zavedla nové SKU pro obchodní telefony. Úplná sada je dostupná v Kanadě, Spojeném království a USA. Obchodní telefon bez volání plánu bude k dispozici na všech ostatních trzích. 
+1. listopadu 2020 představil Microsoft nové SKU pro Business Voice. Úplná sada je k dispozici v Kanadě, Spojeném království a USA. Business Voice bez volacího plánu bude k dispozici na všech ostatních trzích. 
 
-Microsoft 365 Business Voice je cloudový telefonní systém pro malé a střední podniky, které jsou součástí sady Office 365. Přidání obchodního hlasu do předplatného Office 365 zákazníka přináší řešení pro komunikaci a spolupráci typu "vše v jednom" s voláním, chatem a schůzkami v jediné aplikaci, Microsoft Teams.
+Microsoft 365 Business Voice je cloudový telefonní systém pro malé a střední firmy, které jsou integrované v Office 365. Přidání business voiceu do předplatného Office 365 zákazníka přináší řešení pro komunikaci a spolupráci typu vše v jednom s voláním, chatem a schůzek v jedné aplikaci , Microsoft Teams.
 
 Podrobnosti o cenách najdete v ceníku.
 
-Microsoft 365 Business hlas můžete přidat do následujících předplatných až 300 uživatelů:
+Microsoft 365 Business Voice můžete přidat do následujících předplatných až pro 300 uživatelů:
 
-- Office 365: Business Essentials, Business Premium, a1, E1, a3 a E3
-- Microsoft 365: Business, a3 a E3
+- Office 365: Business Essentials, Business Premium, A1, E1, A3 a E3
+- Microsoft 365: Business, A3 a E3
 
 
 ### <a name="next-steps"></a>Další kroky
