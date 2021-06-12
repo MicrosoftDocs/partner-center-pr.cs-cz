@@ -1,41 +1,41 @@
 ---
-title: Obnovení oprávnění správce pro Azure CSP
+title: Obnovit oprávnění správce pro zprostředkovatele CSP Azure
 ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zjistěte, jak zákazníkům pomoct obnovit oprávnění správce partnera, aby partner mohl pomoci spravovat předplatná Azure CSP předplatného zákazníka.
+description: Naučte se, jak zákazníkům pomáhat obnovit oprávnění správce partnera, aby partner mohl spravovat předplatná Azure CSP zákazníka.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ca4c8323562e6c6f1d762465cad86e7ae113eb19
-ms.sourcegitcommit: beba696954b62ab5396a893d050d0c2c211aeafc
+ms.openlocfilehash: 90c8f413398fcb9f65f7fef402a1cdcd092abbc4
+ms.sourcegitcommit: 212471150efc8fd2c30023bc6a981a7e052e79ef
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "110601422"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "112025951"
 ---
-# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Obnovení oprávnění správce pro předplatná Azure CSP zákazníka  
+# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Obnovit oprávnění správce pro předplatná Azure CSP zákazníka  
 
-**Odpovídající role:** Globální správce | Agent pro správu
+**Příslušné role**: globální správce | Agent správce
 
-Jako partner CSP vaši zákazníci často očekávají, že za ně budete spravovat využití Azure a jejich systémy. K tomu musíte mít oprávnění správce. Některá oprávnění jsou udělena, když se nastane vztah prodejce se zákazníkem. Jiné vám udělí váš zákazník.
+Jako partner CSP si zákazníci často očekávají, že budete spravovat jejich využití Azure a jejich systémy. K tomu musíte mít oprávnění správce. Některá oprávnění se udělují v případě, že je vytvořen vztah prodejce se zákazníkem. Další vám je uděleno vaším zákazníkem.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>Oprávnění správce pro Azure v CSP
 
-Existují dvě úrovně oprávnění správce pro Azure v CSP.
+Pro Azure v CSP jsou k dispozici dvě úrovně oprávnění správce.
 
-- **Oprávnění správce na úrovni tenanta (delegovaná** oprávnění správce): Partneři CSP těmto oprávněním při navazování vztahu prodejce CSP se zákazníky. Delegovaná oprávnění správce poskytují partnerům CSP přístup k tenantům jejich zákazníků. Tento přístup jim umožňuje používat funkce správy, jako je přidávání a správa uživatelů, resetování hesel a správa uživatelských licencí.
-- **Oprávnění správce na úrovni předplatného:** Partneři CSP těmto oprávněním při vytváření Azure CSP předplatných pro své zákazníky. Díky těmto oprávněním mají partneři CSP úplný přístup k těmto předplatným, což jim umožňuje zřizování a správu prostředků Azure.
+- **Oprávnění správce na úrovni tenanta (delegovaná oprávnění správce)**: partneři CSP získají tato oprávnění při zřizování vztahů prodejců CSP se zákazníky. Delegovaná oprávnění správce dávají partnerům CSP přístup ke svým klientům. Tento přístup umožňuje správcům provádět funkce, jako je přidání a Správa uživatelů, resetování hesel a Správa uživatelských licencí.
+- **Oprávnění správce na úrovni předplatného**: partneři CSP získají tato oprávnění při vytváření předplatných Azure CSP pro své zákazníky. Tato oprávnění poskytují partnerům CSP úplný přístup k těmto předplatným, která jim umožní zřídit a spravovat prostředky Azure.
 
-## <a name="reinstate-csp-a-partners-admin-privileges"></a>Obnovení oprávnění správce partnera csp
+## <a name="reinstate-csp-a-partners-admin-privileges"></a>Obnovit zprostředkovatele CSP oprávnění správce
 
-Pokud zákazníkovi poskytnete skupinu AdminAgents, zákazník může přiřazení role CSP `object ID` vytvořit znovu. Pokud chcete znovu získat delegovaná oprávnění správce, musíte spolupracovat se zákazníkem pomocí následujících kroků.
+Pokud pro zákazníka zadáte skupinu AdminAgents, může váš zákazník znovu vytvořit přiřazení role CSP `object ID` . Chcete-li znovu získat oprávnění delegovaného správce, musíte s vaším zákazníkem pracovat pomocí následujících kroků.
 
-1. Přihlaste se k řídicímu Partnerské centrum.
+1. Přihlaste se na řídicí panel partnerského centra.
 
-2. V nabídce Partnerské centrum vyberte **Zákazníci.**
+2. V nabídce partnerské Centrum vyberte **zákazníci**.
 
 3. Vyberte zákazníka, se kterým pracujete, a **požádejte o něj vztah prodejce**. Tato akce vygeneruje odkaz na zákazníka, který má práva správce tenanta.
 
@@ -106,6 +106,33 @@ Místo udělení oprávnění vlastníka v oboru předplatného můžete udělit
    ```azurecli
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
    ```
+
+Pokud výše uvedené kroky nefungují nebo při pokusu o jejich pokusy dojde k chybám, vyzkoušejte následující postup "catch-All", abyste mohli obnovit práva správce pro vašeho zákazníka.
+
+```powershell
+Install-Module -Name Az.Resources -Force -Verbose
+Import-Module -Name Az.Resources -Verbose -MinimumVersion 4.1.1
+Connect-AzAccount -Tenant <customer tenant>
+Set-AzContext -SubscriptionId <customer subscriptions>
+New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<customer subscription>" -ObjectType "ForeignGroup"
+```
+
+### <a name="troubleshooting"></a>Řešení potíží
+
+Pokud zákazník nemůže dokončit krok 6 výše, zkuste provést následující příkaz:
+
+```powershell
+New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<costumer subscription>" -ObjectType "ForeignGroup" -Debug > newRoleAssignment.log
+```
+
+Poskytněte výsledný `newRoleAssignment.log` soubor Microsoftu k další analýze.
+
+Pokud procedura catch-All dojde k chybě během `Import-Module` , vyzkoušejte následující kroky:
+- Pokud import selhává, protože se modul používá, restartujte relaci PowerShellu tak, že zavřete a znovu otevřete všechna okna.
+- Podívejte se na verzi `Az.Resources` s `Get-Module Az.Resources -ListAvailable` .
+- Pokud verze 4.1.1 není v seznamu dostupných, je nutné použít `Update-Module Az.Resources -Force` .
+- Pokud chyba uvádí, že se `Az.Accounts` musí jednat o konkrétní verzi, aktualizujte také tento modul a nahraďte ho `Az.Resources` `Az.Accounts` . Pak musíte restartovat relaci PowerShellu.
+
 
 ## <a name="next-steps"></a>Další kroky
 
