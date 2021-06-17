@@ -1,45 +1,45 @@
 ---
-title: Řídicí panel výkonu služby partner Center Insights pro prodejce
+title: Partnerské centrum Insights Resellers Performance
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Řídicí panel výkon prodejce v partnerském centru přehledy poskytuje přehled o výkonu různých nepřímých prodejců nepřímých poskytovatelů CSP.
+description: Řídicí panel výkonu prodejce v Partnerské centrum Insights poskytuje přehled o výkonu různých nepřímých prodejců CSP Indirect Provider.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a2a5697f19baadb5af956a745c032ce1711574d3
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: cc0fb8a56d397cebeb5a40fa1a1c8d6eae77fe25
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855229"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277364"
 ---
-# <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Řídicí panel výkonu prodejce ve službě partner Center – přehledy
+# <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Řídicí panel Reseller Performance v Partnerské centrum Insights
 
-**Příslušné role**: globální správce | Agent správce | Prohlížeč sestav | Prohlížeč sestav Executive
+**Odpovídající role:** Globální správce | Agent pro správu | Prohlížeč sestav | Prohlížeč výkonných sestav
 
-Řídicí panel výkon prodejce v partnerském centru přehledy poskytuje přehled o výkonu různých nepřímých prodejců nepřímých poskytovatelů CSP. Řídicí panel poskytuje data prodejcům, kteří jsou aktivní, kolik výnosů vygenerovalo a jaké produkty řídí výnosy. Nepřímá poskytovatelé budou moci vyhledat konkrétního prodejce podle názvu a vyhledat podrobnosti pro prodejce na řídicím panelu výkonu prodejce.
+Řídicí panel výkonu prodejce v Partnerské centrum Insights poskytuje přehled o výkonu různých nepřímých prodejců CSP Indirect Provider. Řídicí panel poskytuje data o aktivních prodejcích, o tom, jaké výnosy generují a jaké produkty podnětují výnosy. Nepřímí poskytovatelé budou moct vyhledat konkrétního prodejce podle jména a vyhledat podrobnosti o prodejci na řídicím panelu výkonu prodejce.
 
-Následující části můžete zobrazit na řídicím panelu výkonu prodejce.
+Následující části si můžete prohlédnout na řídicím panelu Reseller Performance.
 
 - Souhrn
-- Geografické rozšiřování prodejců
-- Prodejci přidávají/změn 
-- Trend příjmů prodejců 
-- Výkon prodejců podle produktů
+- Zeměpisné rozpětí prodejců
+- Maloobchodní prodejci přidávají nebo udávají změny 
+- Trend výnosů prodejců 
+- Výkon prodejce podle produktů
 - Aktivní prodejci podle umístění partnerů
 - Trend geografické distribuce výnosů
-- Výkon prodejce podle zákaznického segmentu
-- Stav podepisování aktivace prodejce
+- Výkon prodejce podle segmentu zákazníků
+- Stav podepsání smlouvy MPA prodejce
 
  > [!NOTE]
- > Tato sestava je k dispozici na řídicím panelu Insights. Pokud chcete zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav v nástroji Executive. Další informace najdete v tématu globální správce vaší společnosti. konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními správce sestav nástroje Executive.
+ > Tato sestava je k dispozici na řídicím panelu Přehledy. Pokud chcete tuto sestavu zobrazit, musíte mít přiřazenou konkrétní roli v Partnerské centrum, jako je například globální správce, správce účtu, prohlížeč sestav nebo prohlížeč sestav vedoucího pracovníka. Další informace najdete v tématu Globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být dostupné také pro uživatele s oprávněními Executive Report Viewer.
 
 ## <a name="summary"></a>Souhrn
 
-V části Souhrn se zobrazuje snímek klíčových ukazatelů výkonu (KPI) souvisejících s nepřímým zprostředkovatelem CSP.
+V souhrnné části se zobrazí snímek klíčových ukazatelů výkonu souvisejících s CSP Indirect Provider.
 
 - Aktivní prodejci: Počet prodejců, kteří mají během tohoto měsíce alespoň jedno aktivní předplatné.
 
@@ -47,59 +47,59 @@ Mikro chart představuje trend od měsíce po měsíci u různých prodejců, kt
 
 - Prodejci transakcí: Počet prodejců, kteří během tohoto měsíce prodali alespoň jedno předplatné. 
 
-Mikro chart představuje trend prodejců zaregistrovaých pro vybraný rozsah dat mezi měsíci.
+Mikro chart představuje trend prodejců zaregistrovaých ve vybraném rozsahu dat od měsíce.
 
 - Noví prodejci: Počet prodejců, kteří v průběhu tohoto měsíce začali s nepřímým poskytovatelem provádět transakce. 
 
-Mikro chart představuje trend celkového počtu nových prodejců za měsíc po měsících ve vybraném rozsahu dat.
+Mikro chart představuje trend celkového počtu nových prodejců za měsíc po měsíci ve vybraném rozsahu dat.
 
 - Billed revenue USD: Revenue in USD driven by the resellers during that month. 
 
 Mikro chart představuje trend tržeb mezi měsíci během vybraného rozsahu dat.
 
-- Oddíl Billed revenue by products (Fakturované výnosy podle produktů) poskytuje měsíční rozpis fakturovaných výnosů v USD v dělení podle prodaných produktů. 
+- Billed revenue by products (Fakturované výnosy podle produktů) poskytuje měsíční rozpis fakturovaných výnosů v USD v dělení podle prodaných produktů. 
 
-:::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="resellers performance summary":::
+:::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="resellers performance summary.":::
 
 ## <a name="geographical-spread-of-resellers"></a>Zeměpisné rozpětí prodejců
 
-Zobrazení **Resellers by geography (Prodejci podle zeměpisné oblasti) poskytuje geografickou distribuci prodejců. Pomocí tohoto widgetu mohou partneři zobrazit **celkový** počet prodejců, nových prodejců a fakturovaných výnosů **(USD)** rozdělených podle různých zeměpisných lokalit.
+Zobrazení **Resellers by geography (Prodejci podle zeměpisné oblasti) poskytuje geografickou distribuci prodejců. Pomocí tohoto widgetu mohou partneři zobrazit **celkový** počet prodejců, nových prodejců a fakturovaných výnosů **(USD)** rozdělených podle různých zeměpisných oblastí.
 
 Země v mřížce můžete vyhledat a vybrat a přiblížit tak umístění na mapě. Pokud se **chcete vrátit** k původnímu zobrazení, stiskněte na mapě možnost Domů. Najeďte myší na mapu a zobrazte **fakturované výnosy (USD)** podle země. Pole Billed Revenue (USD) (Fakturované výnosy) v mřížce je seřaditelné.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Prodejci podle zeměpisné oblasti ":::
+:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Prodejci podle zeměpisné oblasti .":::
 
-## <a name="resellers-addchurns"></a>Maloobchodníci přidávají/četnosti změn
+## <a name="resellers-addchurns"></a>Maloobchodní prodejci přidávají nebo udávají změny
 
 Toto zobrazení poskytuje měsíční rozdělení počtu nových prodejců, **churned resellers** a **stávajících prodejců.** 
 
-- Noví prodejci: počet prodejců, kteří byli nově zaregistrovaní v nepřímém poskytovateli během vybraného rozsahu kalendářních dat.
-- Změněný prodejci: počet prodejců, kteří za posledních šest měsíců neprošli transakcí s výjimkou aktuálního měsíce.
-- Stávající prodejci: počet prodejců, kteří v předchozím měsíci používali transakce.
+- Noví prodejci: Počet prodejců, kteří byli ve vybraném rozsahu dat nově zaregistrovaní u nepřímého poskytovatele.
+- Četnosti prodejců: Počet prodejců, kteří za posledních šest měsíců nemají transakci s výjimkou aktuálního měsíce.
+- Existující prodejci: Počet prodejců, kteří v předchozím měsíci obchodují.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="Prodejci přidávají/změn":::
+:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="Prodejci přidávají/četnost změn.":::
 
-## <a name="resellers-revenue-trend"></a>Trend příjmů prodejců 
+## <a name="resellers-revenue-trend"></a>Trend výnosů prodejců 
 
-Toto zobrazení poskytuje měsíční trend fakturovaných výnosů (USD) rozdělených podle produktů, konkrétně O365, D365, EMS, Power BI a Azure. Celkové metriky jsou shrnuté napříč různými produkty pro každý měsíc. Partner může vyhledat konkrétního prodejce podle názvu a vyhledat data tohoto konkrétního prodejce. Pole účtované tržby (USD) v mřížce je seřaditelné.
+Toto zobrazení poskytuje měsíční trend fakturovaných výnosů (USD) rozdělených podle produktů, konkrétně O365, D365, EMS, Power BI a Azure. Celkové metriky se pro každý měsíc agregují napříč různými produkty. Partner může vyhledat konkrétního prodejce podle jména a vyhledat data pro konkrétního prodejce. Pole Billed Revenue (USD) (Fakturované výnosy) v mřížce je seřaditelné.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Trend příjmů prodejců":::
+:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Trend výnosů prodejců":::
 
-## <a name="reseller-performance-by-products"></a>Výkon prodejců podle produktů
+## <a name="reseller-performance-by-products"></a>Výkon prodejce podle produktů
 
-Toto zobrazení poskytuje rozdělení klíčových metrik, jako jsou účtované tržby, počet předplatných a počet licencí podle různých produktů v měsíci na základě měsíce. Výsečový graf na pravé straně indikuje celkové rozdělení metrik podle různých produktů, takže partner získá rychlou nakouknětei rozložení podle různých produktů, které prodejce prodává.
+Toto zobrazení poskytuje rozdělení klíčových metrik, jako jsou fakturované výnosy, počet předplatných a počet licencí podle různých produktů v jednotlivých měsících. Výsečový graf na pravé straně označuje celkové rozdělení metrik podle různých produktů, aby partner rychle zahlédl rozdělení různých produktů, které prodejce prodává.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Výkon prodejců podle produktů":::
+:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Výkon prodejce podle produktů.":::
 
 ## <a name="active-resellers-by-partner-locations"></a>Aktivní prodejci podle umístění partnerů
 
-Toto zobrazení poskytuje rozdělení aktivních prodejců podle geografických oblastí partnerů. V legendě vidíte horních pět geografických oblastí a zbývající je zařazená do kategorie jiné.
+Toto zobrazení poskytuje rozdělení aktivních prodejců podle partnerských zeměpisných lokalit. V legendě se zobrazuje pět nejlepších geografických lokalit a zbývající jsou zařazené do kategorie Ostatní.
 
-:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="Aktivní prodejci podle umístění partnerů":::
+:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="Aktivní prodejci podle umístění partnerů.":::
 
 ## <a name="revenue-geo-distribution-trend"></a>Trend geografické distribuce výnosů
 
-Toto zobrazení poskytuje trend měsíčního obratu fakturovaných výnosů (USD), které je rozdělené do pěti hlavních geografických oblastí.  Zbytek výnosů je zařazený do kategorie Ostatní.
+Toto zobrazení poskytuje trend měsíčních měsíčních fakturovaných výnosů (USD) rozdělených podle pěti nejlepších geografických lokalit.  Zbytek výnosů je zařazený do kategorie Ostatní.
 
 :::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="Trend geografické distribuce výnosů":::
 
@@ -107,7 +107,7 @@ Toto zobrazení poskytuje trend měsíčního obratu fakturovaných výnosů (US
 
 Toto zobrazení umožňuje partnerovi porozumět měsíčnímu trendu výnosů v USD, počtu předplatných a licencí rozdělených podle různých zákaznických segmentů. V grafu se zobrazuje pět nejlepších segmentů zákazníků a zbývající segmenty jsou zařazené do kategorie Ostatní.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="Výkon prodejce podle segmentu zákazníků":::
+:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="Výkon prodejce podle segmentu zákazníků.":::
 
 ## <a name="reseller-mpa-signing-status"></a>Stav podepsání smlouvy MPA prodejce
 

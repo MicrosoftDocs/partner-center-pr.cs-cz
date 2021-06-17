@@ -6,20 +6,20 @@ ms.topic: conceptual
 author: JasonWHowell
 ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 56e72af367cdcb264cc444446c5fcbedcd880451
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006901"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276480"
 ---
 # <a name="azure-marketplace-partner-integrations"></a>Integrace partnerů na Azure Marketplace
 
 Naučte se integrovat Partnerská řešení do prostředí Azure. Tento článek obsahuje přehled jednotlivých řešení a odkazy na podrobné Příručky k nasazení. Řešení jsou uvedena v abecedním pořadí. 
 
-## <a name="apache-kafka-on-confluent-cloud"></a>Apache Kafka v cloudu s nefluent
+## <a name="apache-kafka-on-confluent-cloud"></a>Apache Kafka v prostředí Confluent Cloud
 
-![Cloud s nefluent](./media/partners/confluent-cloud.png)
+![Cloud.](./media/partners/confluent-cloud.png)
 
 Azure umožňuje integraci s cloudem do cloudu i do cloudových aplikací. Zákazníci s nimi často přecházejí mezi Azure Portal a cloudem v cloudu. Když si například uživatel koupí v Azure Marketplace cloudovou nabídku s přehledem, očekává se, že si nastaví účet s využitím cloudu. Tento proces přináší složitost a čas a vyžaduje, aby uživatelé spravovali konfiguraci a prostředky mezi oběma portály. Aby se snížilo zatížení napříč platformami, Microsoft ve spolupráci s cloudem s využitím cloudu vytvořil integrovanou vrstvu zřizování z Azure až po Cloud. Řešení je dostupné v Azure Marketplace a poskytuje bezproblémové prostředí pro používání cloudové nabídky s možností využití cloudu v Azure.
 

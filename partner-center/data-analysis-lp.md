@@ -1,48 +1,48 @@
 ---
-title: Použití analýz pro přehledy předplatných
+title: Použití analýzy pro přehledy předplatných
 ms.topic: article
 ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Naučte se používat analýzy v Partnerské centrum k lepšímu pochopení vaší firmy a způsobu, jakým vaši zákazníci používají licence, které jste zakoupili.
+description: Naučte se používat analýzy v partnerském centru k lepšímu pochopení vaší firmy a způsobu, jakým zákazníci používají licence, které jste zakoupili.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147203"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276854"
 ---
-# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Další informace o výnosech z předplatného pomocí analýz
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Další informace o výnosech předplatného získáte pomocí analýzy.
 
-**Odpovídající role:** Globální správce | Správce partnera MPN
+**Příslušné role**: globální správce | Správce partnera MPN
 
-Plánování způsobů rozvoje podnikání v programu CSP zahrnuje porozumění způsobu, jakým zákazníci používají produkty Microsoftu. Máte několik možností pro shromažďování dat v Partnerské centrum a můžete shromažďovat data o vaší společnosti i o tom, jestli a jak vaši zákazníci používají licence, které zakoupili. Pokud jste v přímém modelu CSP, máte také možnost nainstalovat a použít aplikace Analýzy v Partnerském centru pro Power BI ke shromáždění dalších dat.
+Plánování způsobů rozvoje podnikání v programu CSP zahrnuje porozumění způsobu, jakým zákazníci používají produkty Microsoftu. Máte několik možností, jak shromažďovat data v partnerském centru, a můžete shromažďovat data jak v podniku, tak i v případě, že a jak vaši zákazníci používají zakoupené licence. Pokud jste v přímém modelu CSP, máte také možnost nainstalovat a používat aplikaci partner Center Analytics pro Power BI ke shromáždění dalších dat.
 
-## <a name="access-to-the-subscription-analytics"></a>Přístup k analýze předplatného
+## <a name="access-to-the-subscription-analytics"></a>Přístup k analýze předplatných
 
-1. Přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard/home)
-1. V csP v nabídce Partnerské centrum vyberte **Analyzovat** a pak vyberte **Analýza předplatného.**
+1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard/home)partnerského centra.
+1. V nabídce partnerského centra z CSP vyberte **analyzovat** a pak vyberte **Analýza předplatného**.
 
-1. Výnosy z CSP za posledních 12 měsíců se zobrazí v horní části stránky.
+1. V horní části stránky se zobrazí na konci dvanácti měsíčních výnosů CSP.
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Obrazovka předplatného":::
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Obrazovka předplatného.":::
 
-## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Výnosy z Twelve-Month (TTM) CSP
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Příjem na konci Twelve-Month (TTM) CSP
 
-Výnosy z programu CSP za posledních 12 měsíců představují celkové výnosy Cloud Solution Provider programu v USD na úrovni globálního účtu partnera. Data se aktualizují 8. dne každého měsíce, aby se až do předchozího měsíce zobrazí tržby za posledních 12 měsíců. Například 9. září 2020 byste měli vidět TTM pro pevné období od září 2019 do srpna 2020.
+Koncový výnos CSP na 12 měsíců představuje koncové výnosy programu poskytovatele Cloud Solution Provider v USD na úrovni globální účet partnera. Data se aktualizují na osmá v každém měsíci, aby se zobrazila koncová výnosy na 12 měsíců až do předchozího měsíce. Například na 9. září 2020 byste měli být schopni zobrazit TTM pro pevné období od září 2019 do srpna 2020.
 
-Výnosy zobrazené v Partnerské centrum se počítají pro pevný časový interval 12 měsíců a nelze je upravit na kratší časový rámec.
+Výnosy zobrazené na partnerském centru se vypočítají za pevný časový interval 12 měsíců a nelze je upravit na kratší časový rámec.
 
-Pokud chcete zobrazit rozpis výnosů na úrovni vašeho účtu umístění partnera:
+Pokud se chcete podívat na rozpis výnosů na úrovni účtu partnerského umístění:
 
-- Vyberte odkaz Stáhnout podrobnosti a stáhněte si soubor .tsv, který zobrazuje výnosy TTM ve všech vašich umístěních.
+- Vyberte odkaz Stáhnout podrobnosti a Stáhněte soubor. TSV, který zobrazuje TTM výnosy napříč všemi vašimi umístěními.
 
 >[!NOTE] 
->Sečtení jednotlivých čísel výnosů TTM napříč ID MPN v souboru .tsv se může zdát vyšší než celkové výnosy TTM, které vidíte na Partnerské centrum. Je to proto, že u předplatných s více přisuzování partnerů ve stažených souborech se tržby počítají dvakrát.
+>Sestavování jednotlivých TTMch tržeb v rámci ID programu MPN v souboru. TSV může být větší než celkové tržby TTM zobrazené v partnerském centru. Důvodem je to, že u předplatných s více partnerskými čísly ve staženém souboru může být počítáno dvojnásobek výnosů.
 
 ## <a name="subscription-summary"></a>Souhrn předplatných
 

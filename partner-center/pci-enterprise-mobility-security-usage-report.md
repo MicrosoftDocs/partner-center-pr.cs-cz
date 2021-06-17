@@ -8,12 +8,12 @@ description: Podívejte se, co dobře děláte, a kde můžete vylepšit využit
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854617"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277823"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Enterprise Mobility + Security k dispozici na řídicím panelu přehledů partnerského centra
 
@@ -46,35 +46,35 @@ V části Souhrn najdete zobrazení snímků klíčových ukazatelů souvisejíc
 
    Mikrograf prezentuje měsíční trend licencí používaných ve vybraném časovém období.
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Souhrn využití EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Souhrn využití EMS.":::
 
-## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security využití podle zeměpisné oblasti
+## <a name="enterprise-mobility--security-usage-by-geography"></a>Využití Enterprise Mobility + Security podle geografie
 
-Přehled **Enterprise Mobility + Security podle** zeměpisné oblasti znázorňuje rozdělení měsíčních aktivních uživatelů (MAU) a placených dostupných jednotek (PAU) podle země zákazníka. MAU odkazuje na počet licencí použitých za předchozí měsíc a PAU odkazuje na počet prodaných nebo spravovaných placených licencí během vybraného časového období. Světlejší barvy na mapě představují nižší hodnoty, zatímco tmavší barvy představují vyšší hodnoty. V mřížce můžete vyhledat a vybrat zemi. Pokud se chcete na to podívat blíže, můžete si ho přiblížit.
+**Využití Enterprise mobility + Security podle geografie** znázorňuje distribuci měsíčních aktivních uživatelů (MAU) a placených dostupných jednotek (PAU) podle země zákazníka. MAU odkazuje na počet licencí použitých během předchozího měsíce a PAU označuje počet placených nebo spravovaných pracovních stanic během vybraného časového období. Světlejší barvy na mapě znázorňují nižší hodnoty, zatímco tmavší barvy reprezentují vyšší hodnoty. V mřížce můžete hledat a vybrat zemi. Můžete také přiblížit lepší vzhled.
 
-Tabulka Number of countries/region (Počet **zemí/oblastí)** uvádí celkový počet zemí/oblastí, ve kterých se generují události využití Azure.
+V tabulce **počet zemí/oblastí** je uvedena celková země/oblasti, ve kterých jsou generovány události využití Azure.
 
-Země v mřížce můžete vyhledat a vybrat a přiblížit tak umístění na mapě. Výběrem **možnosti Domů** na mapě se vrátíte k původnímu zobrazení.
+Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Výběrem možnosti **Domů** na mapě se vraťte k původnímu zobrazení.
 
-:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Využití EMS podle zeměpisné oblasti":::
+:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Použití EMS podle geografie.":::
 
-## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security využití podle SKU
+## <a name="enterprise-mobility--security-usage-by-sku"></a>Využití Enterprise Mobility + Security podle SKU
 
-Přehled Enterprise Mobility + Security podle SKU znázorňuje měsíční rozpis MAU a PAU podle SKU.
+Využití Enterprise Mobility + Security podle SKU znázorňuje měsíční rozdělení MAU a PAU podle SKU.
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Využití EMS podle SKU":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Použití EMS podle SKU.":::
 
 ## <a name="subscriptions-performance"></a>Výkon předplatných
 
-Výkon předplatných znázorňuje rozpis MAU a PAU podle skladových ů na předplatné zákazníka. Data pro 100 nejúčtovaných zákazníků podle fakturovaných výnosů se zobrazí v tabulce a můžete vyhledat libovolného zákazníka nebo stáhnout nezpracovaná data a zobrazit podrobnosti pro všechny zákazníky.
+Výkon předplatných znázorňuje rozdělení MAU a PAU podle předplatných podle zákaznického předplatného. Data pro hlavní 100 zákazníky podle fakturovaných výnosů se zobrazí v tabulce a můžete vyhledat libovolného zákazníka nebo stáhnout nezpracovaná data a zobrazit podrobnosti pro všechny zákazníky.
 
-:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Výkon předplatného EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Výkon předplatného EMS.":::
 
-## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security využití
+## <a name="enterprise-mobility--security-usage-distribution"></a>Distribuce využití Enterprise Mobility + Security
 
-Distribuce Enterprise Mobility + Security využití znázorňuje rozpis pau a předplatných podle skladových měr.
+Distribuce využití Enterprise Mobility + Security znázorňuje rozdělení PAU a předplatných podle skladových položek.
 
-:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Distribuce využití EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Distribuce využití EMS.":::
 
 ## <a name="next-steps"></a>Další kroky
 

@@ -1,50 +1,50 @@
 ---
-title: Přehledy Partnerského centra – Sestava využití Office 365
+title: Sestava využití Office 365 pro partnery v centru – přehled
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Podívejte se, co si vedete dobře a kde můžete zlepšit využití předplatných Office 365, která pro své zákazníky prodáváte nebo spravujete.
+description: Podívejte se, co dobře děláte, a kde můžete vylepšit využití předplatných Office 365, které pro vaše zákazníky prodáváte nebo spravujete.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 685dce8d521bc27b9b91efd5206e9da0d7e45f34
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854599"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277806"
 ---
-# <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Office 365 dostupná na řídicím panelu Partnerské centrum Insights
+# <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Office 365 dostupná na řídicím panelu přehledů partnerského centra
 
-**Odpovídající role:** Globální správce | Agent správy | Prohlížeč sestav | Prohlížeč výkonných sestav
+**Příslušné role**: globální správce | Agent správce | Prohlížeč sestav | Prohlížeč sestav Executive
 
-Sestava využití Office 365 poskytuje data o využití pro předplatná Office 365, která jste prodali nebo spravují pro své zákazníky. Následující části si můžete prohlédnout v sestavě využití Office 365.
+Sestava využití Office 365 poskytuje data o využití pro předplatná Office 365, která jste prodali nebo spravovali pro vaše zákazníky. Následující části můžete zobrazit v sestavě využití systému Office 365.
 
 - Souhrn
-- Využití Office 365 podle zeměpisné oblasti
-- Využití Office 365 podle úloh
+- Používání Office 365 podle geografie
+- Využití Office 365 podle zatížení
 - Výkon předplatných
 - Distribuce využití Office 365
 
  > [!NOTE]
- > Tato sestava je k dispozici na řídicím panelu Přehledy. Pokud chcete tuto sestavu zobrazit, musíte mít přiřazenou konkrétní roli v Partnerské centrum, jako je například globální správce, správce účtu, prohlížeč sestav nebo prohlížeč sestav vedoucího pracovníka. Další informace najdete v tématu Globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být k dispozici také pro uživatele s oprávněními Executive Report Viewer.
+ > Tato sestava je k dispozici na řídicím panelu Insights. Pokud chcete zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav v nástroji Executive. Další informace najdete v tématu globální správce vaší společnosti. konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními správce sestav nástroje Executive.
 
 ## <a name="summary"></a>Souhrn
 
-V souhrnné části najdete snímek klíčových indikátorů souvisejících s předplatným Office 365, která jste prodali nebo spravují svým zákazníkům.  
+V části Souhrn najdete zobrazení snímků klíčových ukazatelů souvisejících s předplatnými Office 365, která jste prodali nebo spravovali pro vaše zákazníky.  
 
-- Nová předplatná: Celkový počet prodaných nebo spravovaných předplatných během vybraného časového období.
+- Nové odběry: celkový počet předplatných prodaných nebo spravovaných během vybraného časového období.
 
-   Micro chart (Mikro chart) představuje trend počtu nových předplatných od měsíce po měsících pro vybraný rozsah dat.
+   Mikrograf prezentuje trend nového počtu předplatných pro vybraný rozsah dat od začátku měsíce.
 
-- Dostupné licence: Celkový počet licencí prodaných během vybraného časového období.
+- Dostupné křesla: celkový počet licencí prodaných během vybraného časového období.
 
-   Micro chart (Mikro chart) představuje trend počtu prodaných licencí za měsíc v průběhu vybraného rozsahu dat.
+   Mikrograf představuje měsíční trend počtu vydaných licencí během vybraného rozsahu dat.
 
-- Měsíční aktivní uživatelé: Počet uživatelů, kteří úlohu použili během předchozího měsíce. 
+- Měsíčně aktivních uživatelů: počet uživatelů, kteří úlohu používali během předchozího měsíce. 
 
-   Mikro chart představuje měsíční trend měsíčních aktivních uživatelů za vybrané časové období.
+   Mikrograf prezentuje měsíční trend měsíčních aktivních uživatelů za vybrané časové období.
 
 :::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Souhrn využití Office 365":::
 
@@ -57,19 +57,19 @@ V tabulce **počet zemí/oblastí** je uvedena celková země/oblasti, ve který
 Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Výběrem možnosti **Domů** na mapě se vraťte k původnímu zobrazení.
 
 
-:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Používání Office 365 podle geografie":::
+:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Používání Office 365 podle geografického využití.":::
 
 ## <a name="office-365-usage-by-workload"></a>Využití Office 365 podle zatížení
 
 Využití Office 365 podle úlohy znázorňuje rozdělení MAU a PAU úlohami.
 
-:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Využití Office 365 podle zatížení":::
+:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Využití Office 365 podle úlohy.":::
 
 ## <a name="subscriptions-performance"></a>Výkon předplatných
 
 Výkon předplatných znázorňuje rozdělení MAU a PAU podle úloh na zákazníka. Data pro hlavní 100 zákazníky podle fakturovaných výnosů se zobrazí v tabulce a můžete vyhledat libovolného zákazníka nebo stáhnout nezpracovaná data a zobrazit podrobnosti pro všechny zákazníky.
 
-:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Výkon předplatného Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Výkon předplatného Office 365.":::
 
 ## <a name="office-365-usage-distribution"></a>Distribuce využití Office 365
 
@@ -79,6 +79,6 @@ Distribuce využití Office 365 znázorňuje rozdělení PAU a předplatných po
 
 ## <a name="next-steps"></a>Další kroky
 
-- Další sestavy najdete v tématu [Partnerské centrum Insights.](partner-center-insights.md)
+- Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).
 
-- Nezpracovaná data pohánějící tuto sestavu si můžete stáhnout z části Stažení sestav na řídicím panelu Přehledy. [Další informace](pci-download-reports.md) 
+- Nezpracovaných dat v této sestavě si můžete stáhnout z oddílu stažení sestav na řídicím panelu Insights. [Další informace](pci-download-reports.md) 

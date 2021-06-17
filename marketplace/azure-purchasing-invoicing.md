@@ -1,39 +1,39 @@
 ---
-title: Nákup softwaru a řešení od Azure Marketplace
+title: Nákup softwaru a řešení z Azure Marketplace
 description: Seznamte se s nástroji, které zjednodušují a zjednodušují nákupy a správu softwaru v Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 04/15/2021
-ms.openlocfilehash: cfe37f26ad685ca723336d8559d15d4a64048f4b
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.date: 01/18/2021
+ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630079"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276497"
 ---
-# <a name="azure-marketplace-purchasing"></a>Azure Marketplace nákupů
+# <a name="azure-marketplace-purchasing"></a>Azure Marketplace nákupu
 
-Azure Marketplace mnoho nástrojů a funkcí, které zjednodušují a zjednodušují proces nákupu, fakturace a správy zásad nákupu.
+Azure Marketplace má mnoho nástrojů a funkcí, které zjednodušují a zjednodušují proces nákupu, fakturace a správy zásad nákupu.
 
-## <a name="simplified-procurement"></a>Zjednodušené pořizování
+## <a name="simplified-procurement"></a>Zjednodušená zakázka
 
-Azure Marketplace zjednodušuje proces nákupu prostřednictvím různých možností. Pokud zakoupíte produkty pomocí platební karty přidružené k vašemu účtu Azure, všechny nákupy se konsoliduje na jedné faktuře a fakturuje se na vybranou platební kartu. Pokud jste velký zákazník, můžete k nákupu použít smlouva Enterprise. U smlouvy EA se všechny nákupy softwaru automaticky zahrnou na vaši fakturu za Azure. Vaše faktura bude na prvním místě obsahovat poplatky za využití Azure a následně poplatky z Azure Marketplace.
+Azure Marketplace zjednodušuje proces nákupu prostřednictvím různých možností. Pokud si koupíte produkty pomocí platební karty přidružené k vašemu účtu Azure, budou se všechny nákupy konsolidovat na jednu fakturu a budou se fakturovat na základě kreditní karty, kterou si zvolíte. Pokud jste velký zákazník, můžete si ho koupit pomocí smlouva Enterprise. V případě smlouvy EA jsou veškeré nákupy softwaru automaticky zahrnuté do vaší faktury Azure. Vaše faktura bude na prvním místě obsahovat poplatky za využití Azure a následně poplatky z Azure Marketplace.
 
-Při nákupu prostřednictvím Azure Marketplace eliminujete složitost správy vztahů a faktur jednotlivých dodavatelů. Od Microsoftu získáte jednu konsolidovanou měsíční fakturu, která zahrnuje vaše nákupy Azure Marketplace i poplatky za Azure.
+Při nákupu prostřednictvím Azure Marketplace Eliminujte složitost správy vztahů a faktur jednotlivých dodavatelů. Získáte jednu konsolidovanou měsíční fakturu od Microsoftu, která zahrnuje nákupy Azure Marketplace i poplatky za Azure.
 
 ## <a name="permission-to-purchase"></a>Oprávnění k nákupu
 
-Jakmile najdete správnou softwarovou aplikaci, je dokončení nákupu jednoduché. Budete ale potřebovat vhodná oprávnění v rámci předplatného Azure. Vzhledem k tomu, že Azure [funguje na základě Access Control](/azure/role-based-access-control/overview) (RBAC),  váš účet k nákupu potřebuje oprávnění vlastníka nebo přispěvatele předplatného. 
+Po nalezení správné softwarové aplikace je dokončení nákupu jednoduché. V rámci předplatného Azure ale budete potřebovat vhodná oprávnění. Vzhledem k tomu, že Azure pracuje na modelu správy [Access Control na základě rolí](/azure/role-based-access-control/overview) (RBAC), váš účet potřebuje k nákupu nákup oprávnění vlastníka nebo **přispěvatele** **předplatného** .
 
-Před dokončením nákupu se ujistěte, že má uživatel v tenantovi Azure správnou konfiguraci. To vám pomůže zabránit chybám při nákupu.
+Před dokončením nákupu se ujistěte, že uživatel má v tenantovi Azure správnou konfiguraci. To vám pomůže zabránit chybám při nákupu.
 
-V Azure Marketplace prostředí v Azure Portal najděte aplikaci, kterou chcete koupit, a vyberte **Vytvořit** nebo **Nastavit a přihlásit k odběru.** Než budete moct nové řešení použít, zobrazí se výzva k dokončení některých informací.
+V prostředí Azure Marketplace v Azure Portal Najděte aplikaci, kterou chcete koupit, a vyberte **vytvořit** nebo **nastavit + předplatné**. Před tím, než budete moci použít nové řešení, budete vyzváni k dokončení některých informací.
 
-:::image type="content" source="media/overview/offer-create-screen.png" alt-text="Tlačítko Vytvořit nabídky.":::
+:::image type="content" source="media/overview/offer-create-screen.png" alt-text="Tlačítko pro vytvoření nabídky":::
 
-:::image type="content" source="media/overview/button-set-up-and-subscribe.png" alt-text="Tlačítko Nastavit a přihlásit k odběru":::
+:::image type="content" source="media/overview/button-set-up-and-subscribe.png" alt-text="Tlačítko nastavit + odběr.":::
 
 Pokud chcete nasadit řešení z Azure Marketplace online obchodu, vyberte **získat** na stránce Popis produktu a pak se přihlaste pomocí svých přihlašovacích údajů k účtu Azure.
 
@@ -51,7 +51,7 @@ Microsoft vám umožňuje spravovat nákupy uživatelů prostřednictvím vašeh
 
 Tato nastavení platí pro všechny uživatele, kteří mají přístup k vašemu předplatnému Azure, což vám dává možnost řídit si jejich nákup prostřednictvím Azure Portal.
 
-:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Řízení jejich nákupu prostřednictvím Azure Portal":::
+:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Řízení jejich nákupu prostřednictvím Azure Portal.":::
 
 ## <a name="cost-management"></a>Správa nákladů
 
@@ -63,17 +63,17 @@ V nástroji pro analýzu nákladů v rámci služby Azure Cost Management si mů
 
 ## <a name="purchase-validation-checks"></a>Kontrola ověření nákupu
 
-Nákup nabídky prostřednictvím Azure Marketplace může selhat z různých důvodů. Použití rozhraní příkazového řádku (CLI) pro nákup je pravděpodobnější, že může dojít k chybám, protože se pokoušíte koupit nabídku, která není k dispozici nebo je zobrazená v Azure Marketplace. Níže jsou uvedená kontrola, která může způsobit selhání nákupu:
+Nákup nabídky prostřednictvím Azure Marketplace může selhat z různých důvodů. Použití rozhraní příkazového řádku (CLI) pro nákup je pravděpodobnější, že může dojít k chybám, protože se pokoušíte koupit nabídku, která není k dispozici nebo je zobrazená v Azure Marketplace. Níže jsou uvedené kontroly, které mohou způsobit selhání nákupu:
 
-1. Předplatné patří do skupiny smlouva Enterprise (EA) a správce EA zakázal Azure Marketplace nákupy.
-1. Správce EA povolil nákupy jenom pro bezplatné nabídky a nabídka je placená.
-1. Nabídka se na marketplace nenachová.
-1. Nezávislý výrobce softwaru (ISV) nabídku přestal (dříve přestal prodávat) alespoň ve vaší oblasti.
-1. Předplatné, které používáte, patří do fakturačního účtu v oblasti, ve které není nabídka dostupná.
-1. Předplatné nebo fakturační účet není přidružený k platnému platebnímu nástroji (například platné platební kartě).
-1. Předplatné patří k Cloud Solution Provider (CSP) a isv odmítne prodávat prostřednictvím poskytovatele CSP.
-1. Privátní marketplace je pro předplatné povolené a nabídka není v seznamu povolených nabídek.
-1. Nabídka je pro konkrétní zákazníky privátní nebo preview a předplatné není v seznamu povolených zákazníků.
+1. Předplatné patří k smlouva Enterprise (EA) a správce EA zakázal Azure Marketplace nákupy.
+1. Správce EA povolil nákupy jenom pro bezplatné nabídky a nabídka je placená nabídka.
+1. Nabídka se na webu Marketplace nenašla.
+1. Nezávislý výrobce softwaru (ISV) zastavil prodej nabídky alespoň ve vaší oblasti.
+1. Předplatné, které používáte, patří k fakturačnímu účtu v oblasti, kde nabídka není k dispozici.
+1. Účet pro předplatné nebo fakturační účet není přidružený k platnému platebnímu nástroji (jako je platná platební karta).
+1. Předplatné patří poskytovateli Cloud Solution Provider (CSP) a ISV odmítlo prodávat prostřednictvím CSP.
+1. U předplatného je povolené privátní tržiště a nabídka není v seznamu povolených nabídek.
+1. Tato nabídka je pro konkrétní zákazníky soukromá nebo ve verzi Preview a předplatné není v seznamu povolených zákazníků.
 
 ## <a name="next-steps"></a>Další kroky
 

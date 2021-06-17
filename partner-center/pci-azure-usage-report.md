@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: cd302a7b4839b98cdd96fda38b381d9282b00620
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146846"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112275987"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Azure dostupná na řídicím panelu přehledů partnerského centra
 
@@ -43,37 +43,37 @@ Procentuální nárůst nebo odmítnutí těchto předplatných během vybranéh
 Mikrograf prezentuje trend počtu měsíčních předplatných Azure za měsíc během vybraného časového období.
 
 - Spotřebované tržby za Azure (ACR): celkový počet spotřebovaných výnosů za Azure (US $), které se přiřadí k vybranému rozsahu kalendářních dat.
-Procentuální růst nebo pokles přisuzované hodnoty ACR US$ během vybraného rozsahu dat 
+Procentuální nárůst nebo odmítnutí atributů ACR US $ v průběhu vybraného rozsahu kalendářních dat. 
 
-Mikro chart představuje měsíční trend ACR US$ s atributem pro vás v průběhu vybraného časového období.
+Mikrograf prezentuje měsíční trend ACR US $, na který jste v průběhu vybraného časového období.
 
 
 > [!NOTE]
- > výnosy z využití Azure (ACR) budou vidět jenom uživatelé, kteří mají přiřazenou roli Prohlížeče výkonných sestav.
+ > Výnosy za Azure (ACR) budou viditelné jenom uživatelům, kterým byla přiřazena role vedoucího prohlížeče sestav.
 
 :::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Souhrn využití Azure":::
 
-## <a name="azure-usage-by-geography"></a>Využití Azure podle zeměpisné oblasti
+## <a name="azure-usage-by-geography"></a>Využití Azure podle geografie
 
-Zobrazení **Využití Azure podle zeměpisné oblasti** ukazuje geografické rozdělení výnosů ze spotřeby Azure (ACR US$) nebo hodin využití pro všechny nebo vybrané kategorie úrovně služeb a měřičů Azure. Světlejší barvy na mapě představují nižší hodnoty, zatímco tmavší barvy představují vyšší hodnoty. Země v mřížce můžete vyhledat a vybrat, na kterou chcete zobrazení přiblížit. 
+Pohled **využití Azure podle geografického** zobrazení ukazuje geografickou distribuci výnosů za využití Azure (ACR US $) nebo hodiny využití pro všechny nebo vybrané kategorie úrovně služeb Azure nebo měřiče. Světlejší barvy na mapě znázorňují nižší hodnoty, zatímco tmavší barvy reprezentují vyšší hodnoty. Můžete hledat a vybrat zemi v mřížce pro přiblížení 
 
-Tabulka Number of countries/region (Počet **zemí/oblastí)** uvádí celkový počet zemí/oblastí, ve kterých se generují události využití Azure.
+V tabulce **počet zemí/oblastí** je uvedena celková země/oblasti, ve kterých jsou generovány události využití Azure.
 
-Země v mřížce můžete vyhledat a vybrat a přiblížit tak umístění na mapě. Výběrem **možnosti Domů** na mapě se vrátíte k původnímu zobrazení.
+Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Výběrem možnosti **Domů** na mapě se vraťte k původnímu zobrazení.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Využití Azure podle zeměpisné oblasti":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Využití Azure podle geografie.":::
 
 ## <a name="azure-utilization"></a>Využití Azure
 
-Toto zobrazení zobrazuje měsíční výnosy z využití Azure nebo trendy hodin využití podle vybraných kategorií úrovně služeb a měřičů Azure. 
+Toto zobrazení ukazuje tržby za měsíc v měsíci využití Azure nebo trendy využití v hodinách podle vybrané kategorie nebo kategorií měřičů služeb Azure. 
 
-Pruhový graf zobrazuje trend měsíčních výnosů a hodin využití. Spojnicový graf představuje trend růstu ve srovnání s předchozím měsícem pro vybrané kategorie úrovně služeb a měřičů Azure.
+Pruhový graf prezentuje trend měsíčních příjmů/využití hodiny. Spojnicový graf prezentuje nárůst trendu v porovnání s předchozím měsícem pro vybranou kategorii Azure úrovně služeb/měřiče.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Využití Azure":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Využití využití Azure.":::
 
 ## <a name="next-steps"></a>Další kroky
 
-- Další sestavy najdete v tématu [Partnerské centrum Insights.](partner-center-insights.md)
+- Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).
 
 >[!NOTE] 
-> Nezpracovaná data pohánějící tuto sestavu si můžete stáhnout z části Stažení sestav na řídicím panelu Přehledy. [Další informace](pci-download-reports.md) 
+> Nezpracovaných dat v této sestavě si můžete stáhnout z oddílu stažení sestav na řídicím panelu Insights. [Další informace](pci-download-reports.md) 

@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: dcacc6da51fe40c7eb05997f5409ef5fadbcf693
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 092c76fb874eb7308bdb69503223f722657db957
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856045"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277313"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Převod předplatných plánu Azure zákazníka na jiného partnera
 
@@ -22,7 +22,7 @@ ms.locfileid: "109856045"
 
 Tento článek popisuje, jak může zákazník přepnout svá předplatná Azure v rámci plánu Azure z jednoho Cloud Solution Provider (CSP) na jiný.
 
-Pokud chcete přepnout předplatná Azure zákazníka od jiného partnera, postupujte podle těchto kroků. Kroky k dokončení musí provést partner i zákazník.
+Pokud chcete přepnout předplatná Azure zákazníka od jiného partnera, postupujte následovně. Dokončení musí provést partner i zákazník.
 
 >[!Note]  
 >K nástrojům pro přechod mají přístup pouze partneři s přímým fakturačním vztahem s Microsoftem. Nepřímí prodejci musí spolupracovat se svými nepřímými poskytovateli, aby tento převodní nástroj využili.
@@ -31,25 +31,25 @@ Zákazník musí před využitím tohoto nástroje konverzovat s oběma partnery
 
 **Klíčové aspekty:**
 
-- Rezervace Azure se s předplatným nebudou přesouvat k budoucímu partnerovi.
-- Ceny CSP pro služby Azure u aktuálního partnera se nebudou přechádovat  
+- Rezervace Azure se s předplatným nebudou přesouvat k budoucímu partnerovi
+- Ceny CSP pro služby Azure u aktuálního partnera se nebudou přechádovat.  
 - Odpovědnosti za podporu pro zákazníka se přesunou k budoucímu partnerovi.
-- Fakturace a fakturace se v okamžiku převodu přesunou na budoucího partnera.
+- Fakturace a fakturace se v okamžiku převodu přesune na budoucího partnera.
 - Převod Role-Based Access Control (RBAC) není ovlivněný službou Azure.
 - AOBO (Admin on Behalf Of) se ve výchozím nastavení neudělí budoucímu partnerovi.
 - Produkty z marketplace třetích stran se přenesou, dokud produkty projdou kontrolu způsobilosti pro Marketplace.
     - Neexistují žádné zvláštní slevy ani regionální omezení.
     - Produkty nejsou založené na předplatném.
     - Budoucí partner by měl spolupracovat s vydavatelem a ujistit se, že je na seznamu povolení pro nasazení produktu.
-    - Pokud nejsou splněny všechny tyto podmínky pro převod produktů z Marketplace, měly by být zrušeny, převedená předplatná Azure a pak znovu zakoupit produkty z Marketplace s novým partnerem.
+    - Pokud nejsou splněny všechny tyto podmínky pro převod produktů z Marketplace, měla by se zrušit předplatná Azure převedená a pak znovu zakoupit produkty z Marketplace s novým partnerem.
 
 **Požadavky:**
 
 - Zákazník zapojuje aktuálního partnera CSP do svého záměru na přechod
-- Budoucí partner CSP spolupracuje se zákazníkem, aby zajistil, že bude možné splnit potřeby zákazníků.
+- Budoucí partner CSP spolupracuje se zákazníkem na zajištění, že bude možné splnit potřeby zákazníků.
 - Budoucí partner CSP vytvoří vztah se zákazníkem a před zahájením přechodu si zakoupí plán Azure.  
 - Zákazník se musí Smlouva se zákazníkem Microsoftu s budoucím partnerem CSP.
-- Budoucí partner CSP musí mít podepsanou Smlouva s partnerem Microsoftu pro použití tohoto nástroje.
+- Budoucí partner CSP musí mít podepsanou smlouvu Smlouva s partnerem Microsoftu používání tohoto nástroje.
 
 ## <a name="customer-tasks-to-be-completed"></a>Úkoly zákazníka, které se musí dokončit
 
@@ -64,44 +64,44 @@ Zákazník musí také identifikovat předplatná, která chtějí převést od 
 
 Budoucí partner předplatného musí vyplnit formulář žádosti o převod od Partnerské centrum požádat o převod předplatného:
 
-1.  V Partnerské centrum vyberte Zákazníci a pak vyberte zákazníka, za nějž chcete formulář žádosti o převod vyplnit.
-2.  V nabídce zákazník vyberte **předplatná**.
-3.  Vyberte část **žádost o přenos** .
-4.  V **části žádost o přenos** vyberte **Přidat novou žádost**.
+1.  V Partnerské centrum vyberte Zákazníci a pak vyberte zákazníka, pro který chcete formulář žádosti o převod vyplnit jménem.
+2.  V nabídce Customer (Zákazník) vyberte **Subscriptions (Předplatná).**
+3.  Vyberte část **Žádost o převod.**
+4.  V části **Žádost o převod** vyberte Přidat novou **žádost.**
 
-    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Oddíl transfery":::
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Oddíl Přenosy.":::
 
-5.  Vyplňte formulář **nové žádosti o přenos** .
+5.  Vyplňte **formulář Nová žádost o převod.**
 
-6.  Vyberte odeslat **žádost o odeslání žádosti o přenos**  >  .
+6.  Vyberte Send transfer request Send **(Odeslat žádost o**  >  **převod) Send (Odeslat žádost o převod).**
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formulář žádosti o dokončení přenosu":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Vyplňte formulář žádosti o převod.":::
 
-7.  Kontrola potvrzení žádosti o přenos
+7.  Kontrola potvrzení žádosti o převod
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Kontrola probíhajícího přenosu":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Zkontrolujte nevyřízený převod.":::
 
     >[!Note]
-    >Budoucí partner může žádost o přenos zrušit tak, že v pravém horním rohu vybere možnost **zrušit žádost** jenom v případě, že stav žádosti o přenos čeká na vyřízení. Jakmile je stav požadavku na přenos "probíhá" nebo "dokončeno", zrušení nebudou možné.
+    >Budoucí partner může žádost o  převod zrušit výběrem možnosti Zrušit žádost v pravém horním rohu pouze v případě, že je stav žádosti o převod nevyřízený. Jakmile je stav žádosti o převod "probíhá" nebo "dokončen", zrušení nebude možné.
 
-## <a name="current-partner-tasks-to-be-completed"></a>Aktuální úkoly partnerského serveru, které se mají dokončit
+## <a name="current-partner-tasks-to-be-completed"></a>Aktuální úkoly partnerů, které se musí dokončit
 
-Agent pro správce aktuálního partnera dostane e-mail, že zákazník požaduje přenos svých předplatných:
+Agent pro správu aktuálního partnera zákazníka obdrží e-mail, že zákazník žádá o převod svých předplatných:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Opakování":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Recenzi.":::
 
-Pokud chcete dokončit přenos předplatného, přečtěte si a přijměte formulář žádosti o přenos z partnerského centra.
+Zkontrolujte a přijměte formulář žádosti o převod Partnerské centrum a dokončete převod předplatného.
 
 >[!Note]  
->Pokud aktuální partner neprovede žádnou akci během 30 dnů, vyprší platnost žádosti a budoucí partner bude mít k dispozici vytvoření nové žádosti o přenos.
+>Pokud aktuální partner do 30 dnů žádnou akci nesnídá, platnost žádosti vyprší a budoucí partner bude muset vytvořit novou žádost o převod.
 
-1.  Vyberte **zkontrolovat žádost o přenos** z e-MAILu nebo
-1.  V nabídce partnerské Centrum vyberte **zákazníci** a pak vyberte zákazníka, kterému byla odeslána žádost o přenos jménem.
-2.  V nabídce zákazník vyberte **předplatná**.
-3.  Vyberte část **žádost o přenos** .
-4.  Rozbalte informace o přenosu výběrem zvoleného **ID žádosti o přenos** v části **přijaté požadavky** .
+1.  V **e-mailu vyberte Zkontrolovat žádost** o převod NEBO
+1.  V Partnerské centrum vyberte Zákazníci a pak vyberte zákazníka, za nějž byla odeslána žádost o převod.
+2.  V nabídce Customer (Zákazník) vyberte **Subscriptions (Předplatná).**
+3.  Vyberte část **Žádost o převod.**
+4.  Výběrem zvoleného ID žádosti o převod **v části Přijaté žádosti** rozbalte informace o **přenosu.**
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Žádost o převod zdrojových recenzí":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Žádost o převod zdrojových recenzí.":::
 
 5.  Zkontrolujte žádost o převod. Vyberte požadovaná předplatná Azure, která chcete převést.
 
@@ -112,7 +112,7 @@ Pokud chcete dokončit přenos předplatného, přečtěte si a přijměte formu
 
 6.  Pak **výběrem přijmout a přenést** proces převodu dokončete.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Výběr předplatných, která se budou převést v rámci vašich plánů Azure":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Vyberte předplatná, která se budou převádět v rámci vašich plánů Azure.":::
 
 7.  Zobrazení potvrzení přijetí převodu
 
@@ -129,9 +129,9 @@ Pokud chcete dokončit přenos předplatného, přečtěte si a přijměte formu
 
 - Převod nebude mít vliv na přístup ke stávajícím uživatelům, skupinám nebo instančním objektům přiděleným pomocí řízení přístupu na základě role v Azure (RBAC). Řízení přístupu na základě role v Azure [(Azure RBAC)](/azure/role-based-access-control/overview) pomáhá zákazníkům spravovat, kdo má přístup k prostředkům Azure, co může s těmito prostředky dělat a k jakým oblastem má přístup. Jako nový partner nemáte po převodu předplatného žádný přístup RBAC k prostředkům zákazníka. Předchozí partner vašeho zákazníka si zachová přístup RBAC. Spolupracujte se zákazníkem, abyste pochopili, kdo má přehled o svých předplatných a jak provádět požadované změny.
 
-- V důsledku toho je důležité, aby váš zákazník odebral přístup k Azure RBAC pro svého předchozího partnera a přidal přístup pro nového partnera. Další informace o zákazníkovi, který poskytuje nový přístup, najdete v tématu [co je řízení přístupu na základě role Azure (Azure RBAC)?](/azure/role-based-access-control/overview) Další informace o tom, jak zákazník odebírá přístup k organizaci RBAC z předchozího partnera, najdete v tématu [Odebrání přiřazení role](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).
+- Proto je důležité, aby zákazník odebírá přístup Azure RBAC pro předchozího partnera a aby pro nového partnera přidá přístup. Další informace o tom, jak zákazník poskytuje nový přístup, najdete v tématu Co je řízení přístupu na základě [role v Azure (Azure RBAC)?](/azure/role-based-access-control/overview) Další informace o tom, jak zákazník odebírá přístup RBAC předchozího partnera, najdete v tématu [Odebrání přiřazení role.](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)
 
-- K vašemu předplatnému navíc nezískáte automaticky oprávnění [správce (administrate)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) . ADMINISTRATE je nutné, aby partneři spravovali svoje předplatná Azure na svých zákaznících jménem. Další informace o oprávněních Azure najdete v tématu [získání oprávnění ke správě služby nebo předplatného zákazníka.](./customers-revoke-admin-privileges.md)
+- Kromě toho automaticky nezískáte přístup [AOBO (Admin on Behalf Of)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) ke svým předplatným. AOBO je nezbytné pro partnery ke správě předplatných Azure jejich zákazníků jejich jménem. Další informace o oprávněních Azure najdete v tématu Získání oprávnění ke správě služby nebo [předplatného zákazníka.](./customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>Další kroky:
 

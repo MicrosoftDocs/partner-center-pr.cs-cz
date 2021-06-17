@@ -1,65 +1,65 @@
 ---
-title: Vyhledání výhod
+title: Najděte si své výhody
 ms.topic: how-to
 ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Naučte se najít výhody programu MPN na Partnerské centrum řídicím panelu. Obsahuje informace o tom, jak najít přístupové ID a ID smlouvy pro technické výhody.
+description: Přečtěte si, jak najít výhody programu MPN na řídicím panelu partnerského centra. Obsahuje informace o tom, jak najít ID vašeho přístupu a ID smlouvy pro technické výhody.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152388"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276565"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Vyhledání výhod programu Microsoft Partner Network 
 
-**Odpovídající role:** Správce partnera MPN | Globální správce
+**Příslušné role**: správce partnerů MPN | Globální správce
 
-Tento článek členům skupiny Microsoft Partner Network mpn (mpn) řekne, jak na řídicím panelu Partnerské centrum MPN najít své výhody programu MPN. Tyto informace zahrnují způsob, jak najít KONKRÉTNÍ ID podpory produktů vaší společnosti, jako je ID smlouvy a přístupové ID, které jsou spojené s technickými výhodami.
+Tento článek oznamuje členům Microsoft Partner Network (MPN), jak najít výhody programu MPN na řídicím panelu partnerského centra. Tyto informace obsahují informace o tom, jak najít ID podpory konkrétního produktu, jako je ID kontraktu a ID přístupu, které jsou spojené s technickými výhodami.
 
 >[!NOTE]
-> Pokud je Microsoft Partner Network členství v programu Partner Membership Center (PMC), možná budete muset kontaktovat jiný prostředek, jako je frontline partnera, který vám pomůže zobrazit nebo aktivovat určité výhody. Podrobnosti najdete v tématu [Aktivace technických výhod mimo Partnerské centrum](partner-membership-center-tech-benefits-activate.md).
+> Pokud je vaše členství v Microsoft Partner Network stále v centru pro členství v partnerovi (PMC), může být potřeba kontaktovat jiný prostředek, jako je Partnerská prvotní, a získat tak určité výhody, které můžete zobrazit nebo aktivovat. Podrobnosti najdete v tématu [Aktivace technických přínosů mimo partnerské Centrum](partner-membership-center-tech-benefits-activate.md).
 
-## <a name="find-your-mpn-benefits-in-partner-center"></a>Vyhledání výhod programu MPN v Partnerské centrum
+## <a name="find-your-mpn-benefits-in-partner-center"></a>Vyhledání výhod programu MPN v partnerském centru
 
-Jako člen Microsoft Partner Network má vaše společnost přístup k mnoha výhodám, které mohou pomoci při růstu vaší firmy. Pokud chcete zjistit, jaké jsou tyto výhody:
+Jako člen Microsoft Partner Network má vaše společnost přístup k mnoha výhodám, které vám můžou pomoct při rostoucím podnikání. Pokud chcete zjistit, jaké jsou tyto výhody:
 
-1. Přihlaste se k [Partnerské centrum,](https://partner.microsoft.com/dashboard/home)vyberte **MPN** a pak vyberte **Výhody**.
+1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra, vyberte **MPN** a pak vyberte **výhody**.
 
-2. V části Výhody můžete zkontrolovat, aktivovat, řadit nebo stáhnout výhody zájmu, které patří do jedné z kategorií, které máte k dispozici. Pokud to chcete udělat, vyberte oblast výhod, o které chcete získat další informace:
+2. Z výhod můžete sledovat, aktivovat, třídit nebo stahovat výhody, které patří do jedné z kategorií, které máte k dispozici. Provedete to tak, že vyberete oblast s výhodami, o které chcete získat další informace:
 
-   - [Produkty Azure & Cloud](mpn-benefits-azure-cloud.md)
+   - [Cloudové produkty Azure &](mpn-benefits-azure-cloud.md)
    - [Softwarové produkty](mpn-benefits-software.md)
    - [Předplatná sady Visual Studio](mpn-benefits-visual-studio.md)
-   - Technické výhody – [Výhody technické podpory (přístupové ID](mpn-benefits-technical-support.md) a ID smlouvy) nebo technické služby [předprodeje a nasazení (TPD)](technical-benefits.md)
+   - Technické výhody – [výhody technické podpory (ID přístupu a ID smlouvy)](mpn-benefits-technical-support.md) nebo [služby TPD (Technical insales and Deployment Services)](technical-benefits.md)
    - [Přejít na trh](mpn-learn-about-go-to-market-benefits.md)
-   - [Marketplace Rewards](marketplace-rewards.md)
-   - [Tvůrce log](mpn-logo-builder.md)
+   - [Ceny Marketplace](marketplace-rewards.md)
+   - [Tvůrce loga](mpn-logo-builder.md)
 
-3. Když rozbalíte ( + ) výhodu, najdete další informace, které vám pomůžou aktivovat konkrétní výhodu.
+3. Po rozbalení (+) výhody najdete další informace, které vám pomůžou aktivovat konkrétní výhodu.
 
-   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Rozšířené výhody":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Rozšířené výhody.":::
 
    > [!NOTE]
-   > Pokud chcete aktivovat výhody, musíte mít přiřazenou roli globálního správce nebo správce partnera MPN v Partnerské centrum. Všichni ostatní uživatelé ve společnosti by ale měli být schopni zobrazit podrobnosti o výhodách v Partnerské centrum, jako jsou NAPŘÍKLAD ID podpory produktů. Další informace o rolích Partnerské centrum najdete v tématu Přiřazení uživatelských rolí a oprávnění [v Partnerské centrum](permissions-overview.md).
+   > Pokud chcete aktivovat výhody, musíte mít v partnerském centru přiřazenou roli globálního správce nebo správce partnerů MPN. Všichni ostatní uživatelé ve firmě by ale měli být schopni zobrazit podrobnosti o výhodách v partnerském centru, jako jsou ID podpory produktu. Další informace o rolích partnerského centra najdete v tématu [přiřazení rolí uživatelů a oprávnění v partnerském centru](permissions-overview.md).
 
-## <a name="specific-benefit-offers"></a>Konkrétní nabídky výhod
+## <a name="specific-benefit-offers"></a>Speciální nabídky výhod
 
-Pokud chcete zjistit, které výhody jsou k dispozici v programu Microsoft Action Pack, silver a/nebo gold competencies, projděte si následující zdroje informací:
+Chcete-li zjistit, které výhody jsou k dispozici u sady Microsoft Action Pack, stříbrné a/nebo zlaté kompetence, přečtěte si následující zdroje informací:
 
-- [Tabulka licencí pro partnery programu Microsoft Action Pack](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
+- [Tabulka licencí pro partnery Microsoft Action Pack](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
-- [Tabulka licencí pro partnery kompetencí](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
+- [Tabulka licencí pro partnery s kompetencí](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
-Informace o tom, jak tyto výhody využít, najdete v [průvodci používáním produktů.](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)
+Informace o tom, jak můžete tyto výhody využít, najdete v [příručce k používání produktu](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf).
 
 ## <a name="next-steps"></a>Další kroky
 
 - [Přidružení účtů Microsoft Learn zaměstnanců](ms-learn-associate.md)
-- [Správa výhod Microsoft Partner Network a nabídek](manage-your-partner-network-benefits.md)
-- [Aktivace technických výhod pro členy Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+- [Správa výhod a nabídek Microsoft Partner Network](manage-your-partner-network-benefits.md)
+- [Aktivace technických přínosů pro členy centra pro členství v Partnerích (PMC)](partner-membership-center-tech-benefits-activate.md)

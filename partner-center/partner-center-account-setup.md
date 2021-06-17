@@ -4,48 +4,48 @@ ms.topic: conceptual
 ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Naučte se Partnerské centrum spravovat profil společnosti, bankovní a daňové údaje, role, oprávnění a další informace.
+description: Naučte se používat partnerské Centrum ke správě profilu vaší společnosti, informací o bankách a daních, rolích, oprávněních a dalších.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c5acad01490ca679fa0761aa015fe0142e476bd
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146370"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277704"
 ---
-# <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Správa Partnerské centrum účtu – profil společnosti, bankovní údaje, role, oprávnění a další
+# <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Správa účtu partnerského centra – profil společnosti, informace o bance, role, oprávnění a další
 
-**Odpovídající role:** Globální správce | Správce účtu
+**Příslušné role**: globální správce | Správce účtu
 
-Účet, který vytvoříte v Partnerské centrum při registraci, je váš pracovní e-mail a informace o vaší firmě. Po vytvoření účtu dokončíte nastavení plného profilu vaší společnosti, včetně podrobností o podpoře, případně souborových osvobození od daně a primárních kontaktních údajů. Účet vaší společnosti bude také zahrnovat uživatelské účty pro všechny uživatele ve vašem týmu, kteří budou Partnerské centrum. Jejich práce zahrnuje přidávání nebo správu zákazníků, prodej předplatných, práci s fakturací a fakturací, vytváření obchodních profilů, správu referenčních seznamu, práci s programy pobídek, poskytování podpory a další.
+Účet, který vytvoříte v partnerském centru při registraci, je váš pracovní e-mail a vaše firemní informace. Po vytvoření účtu se dokončí nastavení úplného profilu vaší společnosti, včetně podrobností o podpoře, případného případného osvobození od daně ze souboru a primárních kontaktních informací. Účet vaší společnosti bude také obsahovat uživatelské účty pro kohokoli v týmu, kteří budou používat Partnerské centrum. Práce, která může dělat, zahrnuje přidávání a správu zákazníků, prodej předplatných, práci s fakturací a fakturaci, vytváření obchodních profilů, správu odkazů, práci s motivy programu, poskytování podpory a další.
 
-Podívejte se také na [články Pozvání zaměstnanců](guide-to-migration.md) k Partnerské centrum a Přidání nového [uživatele.](create-user-accounts-and-set-permissions.md)
+Podívejte se také [na články pozvaní zaměstnanci, aby se připojili k partnerskému centru](guide-to-migration.md) , a [přidejte nového uživatele](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->Nabídka Nastavení účtu se změní v závislosti na programech, které jste zaregistrovali. Pokud jste například partnerem v programu Cloud Solution Provider (CSP), budete moct spravovat sdílené služby Azure z **nastavení účtu**.
+>Nabídka nastavení účtu se změní v závislosti na programech, které jste zapsali. Pokud jste například partnerem v programu Cloud Solution Provider (CSP), budete moci spravovat sdílené služby Azure z **Nastavení účtu**.
 
 ## <a name="account-management"></a>Správa účtů
 
-Všichni komerční [partneři](https://partner.microsoft.com/dashboard)  a vývojáři přistupuje ke správě účtů v Partnerské centrum tak, že se přihlásí k řídicímu panelu Partnerské centrum a vybere Nastavení **(ikona** ozubeného kola) v pravém horním rohu obrazovky a pak Nastavení **účtu.** Už si nebudete muset vybírat mezi nastavením partnera a vývojáře. Všechny profily a nastavení se teď kombinují.
+Všichni komerční a Developer partneři mají přístup ke **správě účtů** v partnerském centru přihlášením k [řídicímu panelu](https://partner.microsoft.com/dashboard) partnerského centra a výběrem **Nastavení** (ikona ozubeného kolečka) v pravém horním rohu obrazovky a pak na **Nastavení účtu**. Už si nemusíte volit mezi partnerskými a vývojářskými nastaveními. Všechny profily a nastavení jsou nyní kombinovány.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="ikona nastavení":::
 
-Zobrazí se stránka nastavení účtu.
+Tím se zobrazí stránka nastavení účtu.
 
-:::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Nabídka Nastavení.":::
+:::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Nabídka nastavení.":::
 
 ### <a name="locate-your-mpn-id"></a>Vyhledání ID MPN
 
-Ať už jste partner nebo vývojář, použijte své MPN ID například k protokolování lístků podpory. Vaše ID MPN se nachází na stránce **Právní** informace. Najdete ho také v profilu **Identity.**
+Bez ohledu na to, jestli jste partnerem nebo vývojářem, použijte své ID MPN pro tyto věci jako protokolování lístků podpory. Vaše ID MPN se nachází na stránce **právní informace** . Můžete ji také najít v **profilu identity**.
 
 ## <a name="account-settings---partners-resellers"></a>Nastavení účtu – partneři, prodejci
 
 Když vyberete ikonu **Nastavení** a otevřete nabídku **Nastavení účtu** , výchozí zobrazení, pokud je vaše společnost součástí programu Cloud Solution Provider, je **právní informace** , které se zobrazují na dvou kartách, **partnerech** a **prodejci**. Každá karta obsahuje aspekty vaší firmy.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Nabídka zobrazuje karty pro partnery a prodejce":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="V nabídce se zobrazují karty partnerů a prodejců.":::
 
 Karta partner obsahuje všechny právní informace o společnosti, jako jsou třeba registrované právní jméno a adresa pro vaši společnost, a také primární kontaktní a firemní umístění. Karta prodejce pro partnery, kteří provádějí CSP, zahrnuje **profil zákaznické podpory**.
 
@@ -55,7 +55,7 @@ Pokud se vaše společnost nepodílí na CSP, výchozí zobrazení zobrazí jeno
 
 Můžete být součástí více než jednoho účtu. V levé navigační nabídce můžete zjistit, jestli je v rámci více účtů součástí více účtů.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifikace pro výběr účtu":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifikujte výběr účtu.":::
 
 Pokud se nezobrazuje výběr účtu, budete pouze součástí jednoho účtu. 
 
@@ -63,29 +63,29 @@ Po výběru tohoto výběru budou všechny účty, které jste součástí, zobr
 
 V následujícím příkladu je přihlášený uživatel součástí tří zvýrazněných účtů. Uživatel může mezi nimi přepínat kliknutím na účet.
 
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Účty, jejichž součástí jste":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Účty, se kterými jste členem.":::
 
 ## <a name="organization-profile"></a>Profil organizace
 
-Tyto stránky můžete použít ke správě podrobných oblastí vaší firmy, včetně platného obchodního profilu, partnerského profilu a klientů. Spravujte každou oblast samostatně. Jsou popsány níže. 
+Tyto stránky můžete použít ke správě podrobných oblastí vaší firmy, včetně platného obchodního profilu, partnerského profilu a klientů. Spravujte jednotlivé oblasti samostatně. Jsou popsány níže. 
 
-:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Nabídka Právní informace.":::
+:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Nabídka právní informace":::
 
 ### <a name="legal-info"></a>Právní informace
 
-Když se poprvé připojíte Partnerské centrum, vaše společnost projde procesem ověření s Microsoftem. Stav ověřování můžete sledovat na stránce **Právní** údaje. Zobrazuje primární kontakt (na koho se Microsoft bude obrátit v případě dotazů partnerů) a primární právní kontakt (osoba, která spravuje vaše právní informace a stav). Jsou uvedená všechna firemní umístění, která můžete přidat sem. 
+Když se poprvé připojíte k partnerskému centru, vaše společnost projde procesem ověřování s Microsoftem. Stav ověřování můžete sledovat na stránce **právní informace** . Zobrazuje primární kontakt (který se bude kontaktovat v souvislosti s partnerskými otázkami) a primárním kontaktním kontaktem (osoba, která spravuje své právní informace a stav). Tady jsou uvedená všechna firemní umístění vaší společnosti a dají se sem přidat. 
 
-### <a name="provide-your-companys-legal-business-details"></a>Uveďte právní obchodní údaje vaší společnosti.
+### <a name="provide-your-companys-legal-business-details"></a>Zadejte obchodní informace o podniku.
 
-Profil společnosti můžete buď vytvořit, nebo zadat informace o společnosti ručně. Pokud je vaše společnost zaregistrovaná [u Duna & Bradpsaného,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)vyhledejte informace o vaší společnosti pomocí ID DUNS. Pokud chcete podrobnosti o vaší společnosti zadat sami, vyberte **Ruční**.
+Můžete buď vyhledat profil společnosti, nebo zadat informace společnosti ručně. Pokud je vaše společnost zaregistrovaná v rámci [telefonického připojení & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), použijte Duns ID a vyhledejte informace o vaší společnosti. Pokud chcete zadat podrobnosti o vaší společnosti sami, vyberte **ručně**.
 
-Pokud se vaše společnost nachází v Arménii, **Naaru,** **Stánsku,** Nasai, Kašarí, Nebo Skoku, a zadáte svou adresu ručně, ověříme vaši adresu za vás.   Pokud se zadáte liší od ověřené adresy, doporučujeme použít ověřenou adresu. Ověření zajišťuje, že adresa je přesná a je možné ji poslat na adresu .
+Pokud je vaše společnost umístěná v **Arménii**, **Maďarsku**, **Kyrgyzstánu**, **Moldávie**, **Uzbekistánu** nebo **Rusku** a Vy zadáte adresu ručně, budeme vaši adresu ověřit za vás. Pokud se ten, který zadáte, liší od ověřeného, doporučujeme použít ověřenou adresu. Ověřování zajišťuje, aby byla adresa přesně zajištěna a mohla by být expedována do.
 
-### <a name="primary-contact-email"></a>E-mail primárního kontaktu
+### <a name="primary-contact-email"></a>Primární kontaktní e-mail
 
-Primární kontaktní e-mail vás budeme informovat o ověření vašeho účtu. Je důležité, aby e-mail, který poskytnete primárnímu kontaktu, byl ten, který se pravidelně spravuje a sleduje.  
+Primární kontaktní e-mail vám budeme informovat o ověření vašeho účtu. Je důležité, aby byl e-mailem, který zadáte pro primární kontakt, ten, který je pravidelně spravovaný a sledovaný.  
 
-Přečtěte si další [informace o ověřování a informacích o vašem účtu.](verification-responses.md)
+Přečtěte si další informace o [ověřování a informacích o vašem účtu](verification-responses.md).
 
 ### <a name="tenants-profile"></a>Profil tenantů
 
@@ -109,40 +109,40 @@ Tato stránka obsahuje údaje o **vyčíslení** a daních, včetně informací 
 
 ## <a name="user-management"></a>Správa uživatelů
 
-Co pracujete v partnerském centru, a oblasti, které můžete aktualizovat nebo viz, závisí na vaší roli a oprávněních připojených k této roli. Pokud například nejste správcem pobídek, nebudete moct na stránkách Pobídek nic změnit, i když možná budete moct zobrazit data. Další informace o [rolích a oprávněních](permissions-overview.md)
+Co pracujete v partnerském centru, a oblasti, které můžete aktualizovat nebo viz, závisí na vaší roli a oprávněních připojených k této roli. Pokud nejste správcem pobídek, nebudete moct na stránkách pobídek měnit cokoli, když možná budete moct data zobrazit. Další informace o [rolích a oprávněních](permissions-overview.md)
 
-### <a name="update-preferred-email"></a>Aktualizace upřednostňovaného e-mailu
+### <a name="update-preferred-email"></a>Aktualizace preferovaného e-mailu
 
-Pokud chcete aktualizovat upřednostňovaný e-mail, abyste Partnerské centrum oznámení:
+Aktualizace preferovaného e-mailu pro příjem oznámení partnerského centra:
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard).
-1. Přejděte na [**Předvolbu zapojení,**](https://partner.microsoft.com/dashboard/engagement/preference)vyberte **odkaz Změnit,** aktualizujte e-mailovou adresu a vyberte **Uložit.**
+1. Přejděte na [**Předvolby zapojení**](https://partner.microsoft.com/dashboard/engagement/preference), vyberte odkaz **změnit** , aktualizujte e-mailovou adresu a vyberte **Uložit**.
 
 ### <a name="find-your-user-role"></a>Vyhledání role uživatele
 
-1. Přejděte na **Nastavení** a vyberte **Můj profil**.
+1. Přejít na **Nastavení** a vybrat **můj profil**.
 
-1. Na stránce **Podrobnosti** uvidíte své osobní údaje týkající se vaší práce a vašich studijních dat, zkoušek a certifikačních údajů.
+1. Na stránce s **podrobnostmi** se zobrazí vaše osobní údaje, které se týkají vaší práce a dat výuky, zkoušek a certifikace.
 
-1. Výběrem **karty Role a oprávnění** zobrazíte všechny přiřazené role a oprávnění, která tyto role poskytují.
+1. Vyberte kartu **role a oprávnění** , abyste viděli všechny role, které jste přiřadili, a oprávnění, která tyto role poskytují.
 
 ## <a name="programs-in-which-you-are-enrolled"></a>Programy, ve kterých jste zaregistrovaní
 
-Práce, kterou při správě účtu Partnerské centrum, souvisí s konkrétními programy, které jste zaregistrovali, a rolemi uživatelů a oprávněními, které jste přiřadili v Partnerské centrum.
+Pracovní postup pro správu účtu partnerského centra se vztahuje na konkrétní programy, které jste zaregistrovali, a role uživatelů a oprávnění, která jste přiřadili v partnerském centru.
 
-Pokud chcete zobrazit, ke kterým programům máte přístup:
+Chcete-li zjistit, ke kterým programům máte přístup:
 
-1. Přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard)
+1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
 
-2. V levé navigační nabídce se zobrazí programy, které jste zaregistrovali, a zobrazí se možnosti dostupné pro jednotlivé programy.
+2. V levé navigační nabídce se projeví programy, které jste zapsali v nástroji, a zobrazíte dostupné možnosti pro každý program.
 
-Tady je jeden příklad. Předpokládejme, že uživatel má na řídicím panelu Partnerské centrum přístup ke třem programům: program **MPN,** **program** referenčních seznamů a program **komerčního marketplace.** Když se přihlásí k řídicímu Partnerské centrum, uvidí tyto tři programy na levé straně obrazovky.
+Tady je jeden příklad. Předpokládejme, že uživatel má přístup ke třem programům na řídicím panelu partnerského centra: program **MPN** , program s **odkazy** a program **komerčního obchodu Marketplace** . Když se přihlásí na řídicí panel partnerského centra, uvidí tyto tři programy na levé straně obrazovky.
 
-:::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Nabídka Programy zaregistrované.":::
+:::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="V nabídce zaregistrované programy.":::
 
 ### <a name="enrolling-in-programs"></a>Registrace v programech
 
-K dispozici je Partnerské centrum programů. Každý program má různé požadavky, které vaše společnost musí splnit, než se bude moct zaregistrovat v tomto programu.
+K dispozici je mnoho programů partnerského centra. Každý program má různé požadavky, které vaše společnost musí splnit, než se bude moct zaregistrovat v tomto programu.
 
 Další informace o registraci v určitých programech partnerského centra najdete v následujícím částečném seznamu:
 

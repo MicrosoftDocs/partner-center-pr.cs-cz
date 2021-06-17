@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150450"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125918"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Získejte pokročilou specializaci, která prezentuje vaše ověřené možnosti.
 
@@ -50,6 +50,10 @@ Rozšířené specializace **Azure** zahrnují:
 - Modernizace webových aplikací s využitím Microsoft Azure
 - SAP v prostředí Microsoft Azure
 - Migrace Windows Serveru a SQL Serveru do Microsoft Azure
+- AI a Machine Learning v Microsoft Azure
+- Hybridní cloudová infrastruktura s Microsoft Azure Stackmi HCI
+- Hybridní operace a správa pomocí Microsoft Azure ARC
+- Microsoft Azure řešení VMware
 
 **Business Applications** pokročilé specializace zahrnují:
 
@@ -67,6 +71,8 @@ Mezi pokročilé specializace **zabezpečení** patří:
 
 - Správa identit a přístupu
 - Ochrana před hrozbami
+- Information Protection a zásady správného řízení
+- Zabezpečení cloudu
 
 > [!NOTE]
 > Další informace o každé rozšířené specializaci spolu s požadavky a požadavky najdete na [stránce Pokročilé specializace](https://partner.microsoft.com/membership/advanced-specialization). Až budete připraveni použít pro pokročilou specializaci, Projděte si postup přihlášením k [řídicímu panelu](https://partner.microsoft.com/dashboard)partnerského centra. Další informace o přístupu k této oblasti partnerského centra najdete v tématu [použití pro pokročilou specializaci](advanced-specializations-apply.md).

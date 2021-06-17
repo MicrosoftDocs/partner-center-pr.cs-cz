@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6d8e73e664d400e8e6d80e529326e566c5fd88a8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1bc7973c3970d7c7258ab8645c72570b09d698e1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149566"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277110"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Ceník nového obchodního prostředí v CSP pro Azure
 
@@ -22,11 +22,11 @@ ms.locfileid: "110149566"
 
 Ceník nového komerčního prostředí Azure v CSP je zveřejněný v Partnerské centrum. Ceník se dynamicky doručuje v přesném souboru v reálném čase a ceny se zobrazují pouze v USD. Od 28. ledna 2021 se partnerům v oblasti EU/EFTA a Velké Británie, kteří mají nové zákazníky a stávající zákazníky CSP, kteří poprvé kupují nové obchodní nabídky, jejichž tenanti vytvořili před 11. květnem 2020, budou tyto nákupy účtovat v měně umístění partnera.  Partneři, kteří se nacházejí mimo oblast EU/EFTA a Spojené království, se budou dál účtovat v měně umístění partnera. Další informace najdete v článku [Plán Azure – fakturace.](azure-plan-billing.md)
 
-## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Informace o cenách předplatných najdete v tématu Ceny plánu Azure.
+## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Podívejte se na ceny předplatných v části Ceny plánu Azure.
 
 1. V nabídce Partnerské centrum na levé straně vyberte **Sell (Prodej)** a pak **vyberte Marketplace**.
 
-2. V části Ceny plánu Azure vyberte zemi, pro kterou chcete cenu.
+2. V části Ceny plánu Azure vyberte zemi, pro kterou chcete zvolit ceny.
 
 3. Vedle možnosti **Typ exportu** vyberte **Ceny spotřeby plánu Azure,** **Ceny rezervací** plánu Azure nebo **Kurzy FX.** 
 
@@ -35,7 +35,7 @@ Ceník nového komerčního prostředí Azure v CSP je zveřejněný v Partnersk
 
 4. Vedle **položky Ceny pro datum** vyberte datum, které chcete, například **Aktuální**.
 
-   :::image type="content" source="images/azure/pricingnew.png" alt-text="specifická pro zemi":::
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="pro konkrétní zemi.":::
 
 >[!NOTE] 
 >Můžete exportovat dva různé ceníky – ceny plánu Azure a ceny třetích stran na Marketplace.
@@ -48,26 +48,26 @@ Ceník nového komerčního prostředí Azure v CSP je zveřejněný v Partnersk
 
 - Mezi možnosti exportu patří:
 
-  - **Today's pricing**: Zahrnuje všechny měřiče a ceny od 1. dne v měsíci až po aktuální datum aktuálního měsíce. To zahrnuje nové ceny, změněné ceny nebo odebrané ceny. Všechny ceny budou mít počáteční počáteční a koncové datum, které vysvětlí, jestli jsou nové nebo odebrané.
+  - **Today's pricing**: Zahrnuje všechny měřiče a ceny od 1. dne v měsíci až po aktuální datum aktuálního měsíce. To zahrnuje nové ceny, změněné ceny nebo odebrané ceny. Všechny ceny budou mít efektivní počáteční a koncové datum, aby bylo vysvětlené, jestli jsou nové nebo odebrané.
 
-  - **Ceny za předchozí měsíc**: stažení každého typu prostředku bude po měsících. Pro soubory s cenami budou zahrnuty všechny měřiče, které byly během daného měsíce k dispozici. Pokud se v průběhu měsíce objevilo nové měření, zobrazí se mi jako měřič s datem účinnosti, který odráží jeho dostupnost. Podobně jako u cen, které jsou vyřazeny, zobrazuje s nejefektivnějším koncovým datem, které popisují, kdy již nejsou k dispozici.
+  - **Ceny za předchozí měsíc:** Soubory ke stažení jednotlivých typů prostředků budou podle měsíce. U souborů s cenami to bude zahrnovat všechny měřiče, které byly během tohoto měsíce dostupné. Pokud se uprostřed měsíce objevil nový měřič, zobrazí se jako měřič s datem platnosti, které odráží jeho dostupnost. Podobné pro ceny, které jsou ukončené a zobrazují se s efektivním koncovým datem, které popisuje, kdy už nejsou dostupné.
 
-  - **Frekvence FX**: pro stažení za den před 1.18:00 PST budou k dispozici poplatky za FX. Například pokud chcete, aby se sazby za listopad, stáhly do 31. října. Sazby za předchozí měsíc budou také k dispozici.
+  - **FX Rates**: Kurzy FX budou k dispozici ke stažení den před 1. dne v měsíci, 18:00 PST. Pokud například chcete sazby za listopad, stáhněte si sazby k 31. říjnu. K dispozici budou také sazby FX za předchozí měsíc.
 
-- Ceny v ceníkech jsou přímé ceny. Někteří partneři můžou mít nárok na kredity, které získali partneři. Informace o tom, jak se vypočítal partner získaný kredit, najdete v tématu [Výpočet a platby pro partnerský účet](partner-earned-credit-explanation.md).
+- Ceny v ceníkech jsou přímé ceny. Někteří partneři mohou mít nárok na kredity získané partnerem. Informace o tom, jak se vypočítá kredit získaný partnerem, najdete v tématu Jak se počítá a platí kredit získaný [partnerem.](partner-earned-credit-explanation.md)
 
-- **Opravňující služby**: získaný partnerský kredit se vztahuje na služby uvedené v **cenovém** partnerovi pro Azure Plan – ceny se můžou exportovat na stránce s [cenami plánu Azure](https://partner.microsoft.com/commerce/sales) . Všimněte si, že existují výjimky, včetně produktů třetích stran, které jsou označené jako "třetí strana" ve sloupci značky v seznamu cena za využití plánu Azure a rezervacích plánu Azure.
+- **Oprávněné služby:** Kredit získaný partnerem se vztahuje na služby uvedené na stránce s cenami za využití plánu **Azure,** které mohou partneři exportovat ze stránky [s cenami plánu Azure.](https://partner.microsoft.com/commerce/sales) Všimněte si, že existují výjimky, mimo jiné včetně produktů třetích stran identifikovaných jako "třetí strana" ve sloupci Značky v ceníku spotřeby plánu Azure a rezervacích plánu Azure.
 
 ## <a name="price-list-data"></a>Data ceníku
 
 |**Pole**   |**Popis**   |
 |--------------------------|:---------------------------|
-|ProductTitle  |Název nebo název produktu|
+|Název produktu  |Název nebo název produktu|
 |ProductID   |ID produktu|
-|SKuId|ID SKU|
+|ID SKuId|ID of SKU|
 |SkuTitle|Název nebo název SKU|
-|Publisher|První stranou bude vždy Microsoft.|
-|Popis Sku|Popis SKU|
+|Publisher|První strana bude vždy Microsoft.|
+|Popis SkuDescription|Popis SKU|
 |UnitOfMeasure|Jednotky, které se budou účtovat nebo fakturovat|
 |TermDuration|U produktů založených na termínech se délka období vztahuje na rezervace.|
 |Trhu|Trh cen|

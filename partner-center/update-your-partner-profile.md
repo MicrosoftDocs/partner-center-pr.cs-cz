@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f65de1bb115ba8108720429974622bf1a6afcc7b
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110153051"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276344"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Ověření nebo aktualizace informací o profilu společnosti 
 
@@ -41,34 +41,34 @@ Aktualizujte svůj platný název společnosti nebo adresu v partnerském centru
 
 >[!Important]
 >- U účtů MPN může účet globálního správce i správce účtu aktualizovat platný název společnosti.
->- U účtů nepřímého prodejce CSP může oficiální název společnosti aktualizovat pouze globální správce. 
->- Partneři s přímým vyúčtováním a nepřímí poskytovatelé nemohou změnit oficiální název své společnosti, pokud je stav ověření účtu **Autorizováno.** Pokud potřebujete změnit název, musíte vytvořit lístek [podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>- U nepřímých účtů prodejců CSP může platný název společnosti aktualizovat pouze globální správce. 
+>- Partneři s přímým přístupem a nepřímými poskytovateli nemohou změnit právní jméno své společnosti, pokud je stav ověření účtu **autorizováno**. Pokud potřebujete změnit název, musíte vytvořit [lístek podpory](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 
 
-1. Přejděte na **Nastavení**, **Nastavení účtu a** vyberte Profil **organizace**.
+1. Přejít na **Nastavení**, **Nastavení účtu** a vybrat **Profil organizace**.
 
-2. Vyberte **Právní**  a pak vyberte právní obchodní profil (partnera nebo prodejce), který chcete aktualizovat.
+2. Vyberte možnost **právní**  a pak vyberte oficiální obchodní profil (partnera nebo prodejce), který chcete aktualizovat.
 
-1. Klikněte na **Aktualizovat**  vedle názvu nebo adresy společnosti a změňte podrobnosti.
+1. Klikněte na **aktualizovat**  vedle název společnosti nebo adresa a změňte podrobnosti.
  
-1. Když vyberete **Odeslat,** vaše právní identita se znovu posoudí. Přehodnotíme pouze to, co jste změnili.
+1. Když vyberete **Odeslat**, vaše zákonná identita se přehodnotí. Přehodnoťte pouze to, co jste změnili.
 
-1. Pokud se ověření nezdaří, zjistěte, jak [problém vyřešit.](verification-responses.md)
+1. Pokud se ověření nepovede, přečtěte si, jak [Tento problém vyřešit](verification-responses.md).
 
 >[!Important]
->Pokud jste partner Cloud Solution Provider (CSP), nemůžete změnit zemi přidruženou k vaší právní adrese. Vaše země právní adresy je svázaná s vaším tenantem a službami a také s měnou, se kterou podnikáte. Další informace o aktualizacích zemí MPN najdete v [článku Aktualizace zemí MPN.](manage-locations.md#change-country-of-partner-global-account)
+>Pokud jste partner Cloud Solution Provider (CSP), nemůžete změnit zemi spojenou s vaší platnou adresou. Vaše zákonná adresa země je svázána s vaším klientem a službami a s měnou, se kterou obchodujete. Pokud se chcete dozvědět o aktualizacích zemí MPN, přečtěte si téma  [aktualizace zemí MPN](manage-locations.md#change-country-of-partner-global-account).
 
 
 ### <a name="who-can-update-legal-business-name-and-when"></a>Kdo může aktualizovat právní název firmy a kdy
 
-|**Program**|**Kdo může aktualizovat název společnosti**|**Kdy (stav) se může aktualizovat**|**Povoleno**|
+|**Program**|**Kdo může aktualizovat název společnosti**|**Když (stav), je možné ho aktualizovat.**|**Povoleno**|
 |---------------------|:-------------------------------|:------------|:-----------------|
-MPN|globální správce, Správce účtu|Autorizováno; čeká na vyřízení; Odmítl| Povoleno|
-|CSP: Nepřímý prodejce|Globální správce|Autorizováno; čeká na vyřízení; Odmítl| Povoleno|
+MPN|Globální správce; Správce účtu|Cizí uložené odmítnutí| Povoleno|
+|CSP: nepřímý prodejce|Globální správce|Cizí uložené odmítnutí| Povoleno|
 
 
-## <a name="update-your-mpn-global-business-account"></a>Aktualizace globálního obchodního účtu MPN
+## <a name="update-your-mpn-global-business-account"></a>Aktualizovat globální obchodní účet programu MPN
 
 Pokud během migrace z partnerského centra pro členství v partnerském centru jste zjistili špatný obchodní účet jako právní firmu, můžete ho změnit na správný platný obchodní účet.
 
@@ -90,19 +90,19 @@ Aktualizace ID MPN přidruženého k vašemu účtu CSP:
 
 Pokud jste globálním správcem, správcem fakturace nebo agentem pro správu, můžete adresu, která se zobrazí na vaší faktuře, změnit ve vydaných **a daňových profilech**. Kvůli omezení fakturačního systému však nemůžete změnit název společnosti na faktuře.
 
-:::image type="content" source="images/billing-profile.png" alt-text="Snímek obrazovky oblasti, do které se přidají fakturační informace":::
+:::image type="content" source="images/billing-profile.png" alt-text="Snímek obrazovky oblasti, kde jsou přidány informace o fakturaci.":::
 
 |**Pole**  |**Popis**|  
 |---------------------|:------------------|
 |Název vyúčtování společnosti|Název společnosti, který se zobrazí v informacích o Bill-To na faktuře CSP.  V partnerském centru to není editovatelné.  Pokud chcete aktualizovat, vytvořte lístek podpory.|
 |Adresa pro fakturaci|Adresa pro fakturaci uvedená na faktuře CSP. Aktualizace – možné z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Kontakt pro fakturaci|Podrobnosti o fakturačním kontaktu (křestní jméno, příjmení, primární číslo) pro účet CSP.  Aktualizace – možné z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|Číslo objednávky|Číslo nákupní objednávky zobrazené na faktuře partnera.  Možnost aktualizace z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|TID společnosti|Firmy v některých zemích mohou poskytnout své daňové identifikační číslo [(DIČ) nebo místní ekvivalent](./organization-tax-info.md). Pokud chcete své DIČ aktualizovat, musíte být globálním správcem, správcem fakturace nebo agentem správce.|
-|Fakturační měna|Fakturační měna pro váš účet CSP je určena právní zemí účtu CSP.  Po vytvoření účtu CSP to není možné změnit.|
+|Číslo nákupní objednávky|Číslo nákupní objednávky zobrazené na faktuře partnera.  Aktualizace – možné z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Daňové ID společnosti|Firmy v některých zemích můžou poskytovat [daň za daň z přidané hodnoty (DPH) nebo místní ekvivalent](./organization-tax-info.md). Pokud chcete své DIČ aktualizovat, musíte být globálním správcem, správcem fakturace nebo agentem správce.|
+|Fakturační měna|Fakturační měna pro váš účet CSP se stanoví v poli právnická země účtu CSP.  Po vytvoření účtu CSP ho nelze změnit.|
 
 ## <a name="next-steps"></a>Další kroky
 
 - [Kontrola stavu ověření](verification-responses.md)
 
-- [Správa umístění MPN](manage-locations.md)
+- [Spravovat umístění MPN](manage-locations.md)

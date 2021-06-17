@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d2168dcd60b8675a21960918dab49b778025fa51
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 84e5f7f2674e9b2f3c3c26ed2ea49f9bba0e96e0
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147577"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276871"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Pokyny ke konsolidaci tenantů s regionální autorizací CSP
 
@@ -44,36 +44,36 @@ Můžete konsolidovat klienty pro vaši firmu. Tyto pokyny slouží ke konsolida
 
 3. Vyberte **požádat o vztah prodejce**. Zobrazí se výchozí e-mailová zpráva, která se odešle vašim zákazníkům. Tato zpráva obsahuje adresu URL s ID organizace, které je pro nový účet partnerského centra jedinečné.
 
-4. **Akce zákazníka:** Ujistěte se, že každý aktivní zákazník, kterého chcete migrovat, navštíví tuto adresu URL. Při otevírání adresy URL se zákazníkovi zobrazí výzva k přihlášení k portálu Office 365. Zákazník se přihlásí pomocí stejného ID organizace, které používá pro přístup k portálům pro správu Azure a Office 365.
+4. **Akce zákazníka:** Ujistěte se, že každý z aktivních zákazníků, které chcete migrovat, navštíví tuto adresu URL. Při otevření adresy URL se zobrazí výzva, abyste se přihlásili na portál Office 365. Zákazník se přihlásí pomocí stejného ID organizace, které používají pro přístup k portálům pro správu Azure a Office 365.
 
-5. Po přihlášení se globálnímu  správci zákaznického účtu zobrazí výzva k odeslání smlouvy, která novému účtu CSP uděluje delegovaná oprávnění správce. Pokud zákazník souhlasí, zaškrtne políčko a souhlasí s autorizací relace.
+5. Po přihlášení se globální správce pro **účet zákazníka** vyzve k odeslání smlouvy, která poskytuje oprávnění delegovaného správce k novému účtu CSP. Pokud souhlasí, zákazník vybere zaškrtávací políčko a souhlasí s autorizací vztahu.
 
-Zákazníci se po jednom odeslaní smlouvy zobrazí v seznamu zákazníků partnera.
+Zákazníci se zobrazí v seznamu zákazníků partnera po odeslání smlouvy, jednu po jednu.
 
-## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrace předplatných Office 365 a předplatných jiných než Azure založených na využití
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrace předplatných na základě využití pro Office 365 a jiné než Azure
 
-1. Jakmile zákazník smlouvu podepíše, můžete znovu vytvořit jeho předplatná v rámci centralizovaného partnerského tenanta.
+1. Jakmile zákazník smlouvu podepíše, můžete znovu vytvořit své odběry v rámci centralizovaného partnerského tenanta.
 
-2. V **Partnerské centrum** vyberte **Zákazníci.**
+2. Z **partnerského centra** vyberte **zákazníci**.
 
-3. Otevřete název společnosti zákazníka, kterého chcete migrovat.
+3. Otevřete název společnosti pro zákazníka, kterého chcete migrovat.
 
-4. Vyberte **Přidat předplatné.**
+4. Vyberte **přidat odběr**.
 
-5. Přidejte správná předplatná a počty licencí z katalogu. Ověřte pomocí informací uvedených v části **Přechod z partnerských** účtů.
+5. Přidejte správné předplatné a počty licencí z katalogu. Ověřte s informacemi, které jsou k dispozici v **přechodu z** partnerských účtů.
 
-   :::image type="content" source="images/regionalcustomer2.png" alt-text="seznam zákazníků":::
+   :::image type="content" source="images/regionalcustomer2.png" alt-text="seznam zákazníků.":::
 
 6. Vyberte **Odeslat.**
 
-   Služby se teď zákazníkům poskytují z účtu **přechodu na** partnerský účet.
+   Služby jsou nyní poskytovány zákazníkovi z **přechodu na** Partnerský účet.
 
-7. Opakováním těchto kroků migrujte předplatná pro všechny další zákazníky.
+7. Zopakováním těchto kroků migrujte odběry pro všechny další zákazníky.
 
-Než budete pokračovat k další části, ujistěte  se, že všechna zákaznická předplatná v části Přechod z partnerských účtů se znovu zř zda jsou v rámci účtu Přechod **na** partnera znovu zřízena.
+Než budete pokračovat k další části, ujistěte se, že všechna předplatná zákazníka existující v rámci **přechodu z** partnerských účtů jsou znovu zřízena v rámci **přechodu na** Partnerský účet.
 
 > [!NOTE]
-> Partneři musí pozastavit  předplatná na účtu přechodu z partnerského tenanta v Partnerské centrum Partnerské centrum stejný  den, kdy se tato předplatná přenesou Partnerské centrum nastaví v rámci účtu přechodu na partnerského tenanta v Partnerské centrum, aby se zajistilo, že nedojde k dvojí fakturaci. Žádosti o podporu budou odepřeny pro kredity z důvodu překrytí při fakturaci, ke kterému dojde z nesprávného zákazu **přechodu z** předplatných.
+> Partneři musí pozastavit odběry při **přechodu z** účtu partnerského tenanta v partnerském centru, a to za stejný den, kdy se tato předplatná přecházejí a nastavují v rámci **přechodu na** účet partnerského tenanta v partnerském centru, aby se zajistilo dvojí vyúčtování. Žádosti o podporu budou odepřeny pro kredity z důvodu překrytí při fakturaci, ke kterému dojde z nesprávného zákazu **přechodu z** předplatných.
 
 ## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Zakázání předplatných Office 365 v rámci přechodu z partnerského účtu
 
@@ -104,25 +104,25 @@ Na rozdíl od předplatných CSP pro Office 365 se nemusíte migrovat ručně po
 
 3. Microsoft migruje předplatné založené na využití Azure a upozorní vás, až se migrace dokončí.
 
-4. Musíte potvrdit, že předplatné Azure v účtu prodejce Přechod  z **CSP** je teď označené jako pozastavené v Partnerské centrum v části Předplatná zákazníka.
+4. Musíte potvrdit, že předplatné Azure v rámci **přechodu z** účtu zprostředkovatele CSP je teď označené jako **pozastavené** v partnerském centru v části Předplatná zákazníka.
 
-5. Ověřte, že předplatné Azure v **rámci** účtu prodejce Přechod  na CSP teď zobrazuje stav aktivní v Partnerské centrum v části Předplatná zákazníků.
+5. Potvrďte, že předplatné Azure v rámci **přechodu na** účet poskytovatele CSP teď zobrazuje stav **aktivní** v partnerském centru v části Předplatná zákazníka.
 
    >[!Note]
-   > Zakázáním předplatných v rámci zákazníka se nezmění vzhled zákazníka v seznamu Zákazníci. V současné době není možné odebrat zákazníky ze seznamu. Partneři by se měli těmto zákazníkům v budoucnu vyhnout přidávání předplatných z **účtu,** který přechází z tohoto účtu.
+   > Zakázáním předplatných v rámci zákazníka se nezmění vzhled zákazníka v seznamu zákazníků. V tuto chvíli není k dispozici možnost odebrat zákazníky ze seznamu. Partneři by se měli vyhnout přidání předplatného zpátky těmto zákazníkům ze svých **přechodů z** účtu v budoucnu.
 
-6. Opakujte tento postup pro všechna předplatná v rámci všech vašich zákazníků, abyste zastavili budoucí poplatky na účtech **přechodu** z účtu nebo účtů. Partner obdrží jednu konečnou fakturu s kreditem na počet nevyužitých dnů mezi dnem zrušení a posledním dnem fakturačního období. Po tomto konečném fakturačním období se nebudou generovat žádné budoucí faktury.
+6. Opakujte tyto kroky u všech předplatných ve všech vašich zákaznících, abyste zastavili budoucí poplatky za **Převod z** účtů. Partner dostane jednu konečnou fakturu s kreditem na počet nevyužitých dní mezi dnem zrušení a posledním dnem fakturačního období. Po uplynutí tohoto finálního fakturačního období nebudou vygenerovány žádné budoucí faktury.
 
 ### <a name="additional-information"></a>Další informace
 
-- Zakázání předplatného z účtu Přechod z **CSP** nemá vliv na službu koncového zákazníka, pokud byla služba zřízena z účtu Přechod na **CSP** před zakázáním předplatného.
+- Zakázání předplatného z **převodu z** účtu CSP nemá vliv na službu koncového zákazníka, pokud byla služba zřízená z **přechodu na** účet CSP před zakázáním předplatného.
 
-- Předplatná nemůže zákazník používat a po pozastavení nebo zrušení negenerují poplatky.
+- Předplatná nelze použít u zákazníka a při pozastavení nebo zrušení negeneruje poplatky.
 
-- V současné době neexistuje způsob, jak zákazníka ze seznamu Zákazníků úplně **odebrat.**
+- V současné době neexistuje způsob, jak úplně odebrat zákazníka ze seznamu **zákazníků** .
 - 
     >[!Note]
-    > Partneři musí pozastavit  předplatná na účtu tenanta přechodu z partnerského účtu Partnerské centrum ve stejný  den, kdy se tato předplatná přenesou na účet Přechod na Partnerské centrum nastaví je, aby se zajistilo, že nedojde k dvojí fakturaci. Microsoft nebude podporovat žádosti o kredity kvůli překrývání fakturace způsobené tím, že správně nenastaví přechod z **předplatných** na pozastavené.
+    > Partneři musí pozastavit odběry při **přechodu z** účtu partnerského tenanta v partnerském centru. stejný den jsou tato předplatná přepnuta do a nastavena v rámci **přechodu na** účet, aby se zajistilo dvojí vyúčtování. Společnost Microsoft nebude podporovat žádosti o kredity z důvodu překrytí při fakturaci, ke kterému dojde z nesprávného nastavení **přechodu z** předplatných na pozastaveno.
 
 ### <a name="simplify-migration-using-export"></a>Zjednodušení migrace pomocí exportu
 

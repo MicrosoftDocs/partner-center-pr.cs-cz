@@ -1,6 +1,6 @@
 ---
 title: Jak potvrdit, že zákazník přijal Smlouva se zákazníkem Microsoftu programu CSP
-description: Cloud Solution Provider (CSP) musí před objednání zákazníků potvrdit přijetí podmínek Smlouva se zákazníkem Microsoftu zákazníkem služby Microsoft zákazníka.
+description: Cloud Solution Provider (CSP) musí před objednání zákazníků potvrdit souhlas zákazníka s Smlouva se zákazníkem Microsoftu před služby Microsoft zákazníka.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: c75f129ae5a0755833462138f60901cc7ff36732
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9deebf3d9aab2d4dc7953da67a7eb17078b3d30c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148512"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277007"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Jak potvrdit, že zákazník přijal Smlouva se zákazníkem Microsoftu programu CSP
 
@@ -29,7 +29,7 @@ Zákazníci mají dvě možnosti, jak přijmou Smlouva se zákazníkem Microsoft
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Šablona Smlouva se zákazníkem Microsoftu přístupu
 
-Nejnovější verzi této šablony si můžete Smlouva se zákazníkem Microsoftu stáhnout [tady.](https://aka.ms/customeragreement) Tento Smlouva se zákazníkem Microsoftu je specifický pro jednotlivé země. Při Smlouva se zákazníkem Microsoftu šablony aplikace nezapomeňte vybrat správnou zemi na základě polohy zákazníka.
+Nejnovější verzi této šablony si můžete Smlouva se zákazníkem Microsoftu stáhnout [tady.](https://aka.ms/customeragreement) Tento Smlouva se zákazníkem Microsoftu je specifický pro jednotlivé země. Při žádosti Smlouva se zákazníkem Microsoftu šablony aplikace nezapomeňte vybrat správnou zemi na základě polohy zákazníka.
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Možnost 1: Potvrzení přijetí zákazníkem v Partnerské centrum
 
@@ -43,45 +43,45 @@ Když vytvoříte nového tenanta zákazníka v Partnerské centrum, pomocí ná
 
 2. V **části Informace o** účtu zadejte informace o společnosti a jejím primárním kontaktu.
 
-3. V části **smlouva Microsoft** zaškrtněte políčko s potvrzením, že zákazník přijal zákaznickou smlouvu Microsoftu.
+3. V **části Smlouva s Microsoftem** zaškrtněte políčko pro testování, že zákazník přijal Smlouva se zákazníkem Microsoftu.
 
-4. V části **Datum přijetí smlouvy** zadejte příslušné datum. Tuto hodnotu nelze nastavit na budoucí datum.
+4. V **části Datum přijetí smlouvy** zadejte příslušné datum. Tuto možnost nelze nastavit na budoucí datum.
 
-5. Ujistěte se, že se zobrazují správné kontaktní informace uživatele. Pokud je nesprávná, vyberte **aktualizovat** a zadejte přesné informace pro osobu, která smlouvu přijala.
+5. Ujistěte se, že jsou zobrazené primární kontaktní informace uživatele správné. Pokud je nesprávný, vyberte **Aktualizovat a** zadejte přesné informace pro osobu, která smlouvu přijala.
 
-6. Kliknutím na tlačítko **Další** pokračujte v vytváření tenanta zákazníka.
+6. Výběrem **možnosti** Další pokračujte ve vytváření tenanta zákazníka.
 
-   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="Nový zákazník":::  
+   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="Nový zákazník.":::  
 
-### <a name="confirm-customer-acceptance-for-existing-customers"></a>Potvrďte přijetí zákazníky u stávajících zákazníků
+### <a name="confirm-customer-acceptance-for-existing-customers"></a>Potvrzení přijetí u stávajících zákazníků zákazníkem
 
-K tomu musíte být agentem správce nebo agent pro prodej:
+K tomu musíte být agentem pro správu nebo agentem Sales:
 
 1. Vyberte **Zákazníci**. Vyhledejte a vyberte zákazníka.
 
-2. Vyberte **informace o účtu**.
+2. Vyberte **Informace o účtu.**
 
-3. V části **Zákaznická smlouva Microsoftu** vyberte **aktualizovat**.
+3. V **Smlouva se zákazníkem Microsoftu** vyberte **Aktualizovat.**
 
-4. Zadejte **jméno**, **příjmení**, **e-mailovou adresu** a **telefonní číslo** (nepovinné) osoby, která smlouvu přijala. V části **Datum přijetí smlouvy** zadejte příslušné datum. Tuto hodnotu nelze nastavit na budoucí datum.
+4. Zadejte **jméno, příjmení,** **e-mailovou adresu** a telefonní číslo **(volitelné)** osoby, která smlouvu přijala.  V **části Datum přijetí smlouvy** zadejte příslušné datum. Tuto možnost nelze nastavit na budoucí datum.
 
-5. Vyberte **Uložit** a pokračovat.
+5. Vyberte **Uložit a** pokračovat.
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="Stávající zákazník":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="Stávající zákazník.":::
 
-### <a name="retrieve-confirmation-of-customer-acceptance"></a>Načíst potvrzení přijetí u zákazníka
+### <a name="retrieve-confirmation-of-customer-acceptance"></a>Načtení potvrzení přijetí zákazníkem
 
-Pokud chcete načíst potvrzení, že stávající zákazník přijal smlouvu o zákaznících Microsoftu, postupujte podle následujících kroků. K tomu musíte být agentem správce nebo agentem pro prodej.
+Pokud chcete načíst potvrzení, že stávající zákazník Smlouva se zákazníkem Microsoftu, použijte následující postup. K tomu musíte být agentem pro správu nebo agentem Sales.
 
-1. Vyberte **zákazníci** a pak vyhledejte a vyberte zákazníka, kterého chcete zobrazit.
+1. Vyberte **Zákazníci** a pak vyhledejte a vyberte zákazníka, kterého chcete zobrazit.
 
-2. Vyberte **informace o účtu**.
+2. Vyberte **Informace o účtu.**
 
-3. V části **Smlouva o zákaznících Microsoftu** se zobrazí potvrzení, jestli ho zákazník zadal nebo neposkytl.
+3. V **části Smlouva se zákazníkem Microsoftu** zobrazte, jestli zákazník neposkytl nebo neposkytl potvrzení.
 
-## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Potvrzení přijetí zákazníkovi pomocí rozhraní API pro partnerské centrum a sady SDK
+## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Potvrzení přijetí zákazníkem pomocí Partnerské centrum API nebo SDK
 
-Pomocí rozhraní API a sady SDK partnerského centra můžete potvrdit přijetí smlouvy o zákaznících Microsoftu v rámci zákazníka. Podrobnosti o rozhraní API nebo sadě SDK najdete v tématu:
+Pomocí rozhraní API Partnerské centrum SDK můžete potvrdit souhlas zákazníka s Smlouva se zákazníkem Microsoftu. Podrobnosti o rozhraní API nebo sadě SDK najdete zde:
 
 - [Získání metadat smluv pro Smlouvu se zákazníkem Microsoftu](/partner-center/develop/get-customer-agreement-metadata)
 
@@ -89,119 +89,119 @@ Pomocí rozhraní API a sady SDK partnerského centra můžete potvrdit přijet�
 
 - [Získání potvrzení přijetí Smlouvy se zákazníkem Microsoftu ze strany zákazníka](/partner-center/develop/get-confirmation-of-customer-agreement)
 
-- [Získat odkaz ke stažení pro šablonu zákaznických smluv Microsoftu](/partner-center/develop/download-customer-agreement-template)
+- [Získání odkazu ke stažení Smlouva se zákazníkem Microsoftu šablony](/partner-center/develop/download-customer-agreement-template)
 
-## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Možnost 2: přijetí zákazníkem v centru pro správu Microsoft 365
+## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Možnost 2: Přijetí zákazníkem v Microsoft 365 admin Center
 
-Partneři můžou pozvat nové a stávající zákazníky přes adresu URL, aby si tuto smlouvu zkontrolovali a přijali v rámci centra pro správu Microsoft 365. V následujících částech se dozvíte, jak:
+Partneři mohou prostřednictvím adresy URL pozvat nové a stávající zákazníky, aby smlouvu mohli zkontrolovat a přijmout v Microsoft 365 pro správu. V následujících několika částech si ukážeme, jak:
 
-- Vytvořte nového zákazníka a pozvěte zákazníka, aby smlouvu zkontroloval a přijal.
+- Vytvořte nového zákazníka a požádejte ho, aby smlouvu zkontrolovat a přijmout.
 
-- Pozvěte nového zákazníka, aby zkontroloval a přijal vztah prodejce a smlouvu.
+- Pozvěte nového zákazníka, aby přezval a přijal vztah a smlouvu na prodejci.
 
-- Pozvání stávajícího zákazníka ke kontrole a přijetí smlouvy.
+- Pozvěte existujícího zákazníka, aby smlouvu zkontrolovat a přijmout.
 
 >[!NOTE]
-> Pomocí [rozhraní API a sady SDK pro partnery](/partner-center/develop/get-direct-sign-status-of-customer-agreement) můžete získat stav přímého přijetí smlouvy o zákaznících Microsoftu od zákazníka.  
+> Pomocí Partnerské centrum [API/SDK](/partner-center/develop/get-direct-sign-status-of-customer-agreement) můžete získat stav přímého přijetí požadavku zákazníkem Smlouva se zákazníkem Microsoftu.  
 
-## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Vytvoření nového zákazníka a pozvání zákazníka ke kontrole a přijetí smlouvy
+## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Vytvoření nového zákazníka a pozvání zákazníka ke kontrola a přijetí smlouvy
 
-Pomocí následujících kroků můžete vytvořit nového zákazníka v partnerském centru a pak je pozvat k revizi a přijetí smlouvy o zákaznících Microsoftu v rámci centra pro správu Microsoft 365.
+Pomocí následujícího postupu vytvořte nového zákazníka v Partnerské centrum a pak ho pozvěte ke kontrola a přijetí tohoto Smlouva se zákazníkem Microsoftu v Microsoft 365 pro správu.
 
-1. Na kartě **zákazníci** v partnerském centru vyberte **Přidat zákazníka**.
+1. Na kartě **Zákazníci** v Partnerské centrum vyberte **Přidat zákazníka.**
 
-2. V části **informace o účtu** zadejte informace o novém zákazníkovi ve všech povinných polích, včetně názvu společnosti zákazníka a primárního kontaktu.
+2. V **části Informace o** účtu zadejte informace o novém zákazníkovi do všech požadovaných polí, včetně názvu společnosti zákazníka a primárního kontaktu.
 
-3. V části **smlouva se zákazníkem** vyberte **Zákazník se žádost o přijetí smlouvy o zákaznících Microsoftu v centru pro správu Microsoft 365**. Vyplňte všechna další povinná pole na stránce.
+3. V **části Customer Agreement**(Smlouva se zákazníkem) vyberte Customer (Zákazník) a přijměte Smlouva se zákazníkem Microsoftu v Microsoft 365 Admin **Center.** Vyplňte všechna další povinná pole na stránce.
 
-4. Vyberte **Další: Zkontrolujte** a pokračujte postupem vytvoření tenanta zákazníka. 
+4. Vyberte **Další: Projděte si** postup vytvoření tenanta zákazníka. 
 
 >[!NOTE] 
->Noví zákazníci si nemůžou koupit nákup, dokud nepřijmou zákaznickou smlouvu Microsoftu.  
+>Noví zákazníci nemohou provést nákup, dokud nepřijme Smlouva se zákazníkem Microsoftu.  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Vytvořit nového zákazníka":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Vytvořte nového zákazníka.":::
 
-5. Až se dostanete na obrazovku pro **potvrzení** v pracovním postupu nový zákazník, uložte přihlašovací údaje zákazníka. Tyto přihlašovací údaje budete muset později poskytnout zákazníkovi.
+5. Když se v pracovním postupu nového zákazníka dostanete na obrazovku **Potvrzení,** uložte si přihlašovací údaje zákazníka. Tyto přihlašovací údaje budete muset zákazníkovi poskytnout později.
 
-6. Mimo partnerské Centrum vytvořte a odešlete e-mail, který vyzývá zákazníka, aby přijal zákaznickou smlouvu Microsoftu v centru pro správu Microsoft 365. Nezapomeňte zahrnout tyto položky do e-mailu:
+6. Mimo tuto Partnerské centrum vytvořte a odešlete e-mail, který pozve zákazníka, aby přijal Smlouva se zákazníkem Microsoftu v Microsoft 365 pro správu. Nezapomeňte do e-mailu zahrnout tyto položky:
 
-   - Odkaz na tuto [adresu URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) (vyžaduje se přihlášení)
+   - Odkaz na tuto adresu [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) (vyžaduje se přihlášení)
 
-   - Přihlašovací údaje zákazníka, které jste uložili v kroku 5.
+   - Přihlašovací údaje zákazníka, které jste si uložili v kroku 5.
 
-7. Zákazník pak obdrží pozvánku e-mailu od partnera a vybere [adresu URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement).
+7. Zákazník pak obdrží e-mailovou pozvánku od partnera a vybere adresu [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement).
 
-8. Zákazník se přihlásí do centra pro správu Microsoft 365 pomocí zadaných přihlašovacích údajů zákazníka.
+8. Zákazník se přihlásí k Microsoft 365 pro správu pomocí přihlašovacích údajů zákazníka, které jste poskytli.
 
-9. Zákazník zkontroluje pole, aby přijal zákaznickou smlouvu od Microsoftu.
+9. Zákazník zaškrtnutím políčka přijme smlouvu se zákazníkem Microsoftu.
 
-## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Pozvání nového zákazníka ke kontrole a přijetí vztahu prodejce a smlouvy o zákaznících Microsoftu 
+## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Požádejte nového zákazníka, aby zkontrolovat a přijmout vztah prodejce a Smlouva se zákazníkem Microsoftu 
 
-Pomocí následujícího postupu můžete pozvat nového zákazníka ke kontrole a přijetí vztahu prodejce a smlouvy o zákaznících Microsoftu. 
+Pomocí následujícího postupu pozvěte nového zákazníka, aby si prohlédněte a přijal vztah prodejce a Smlouva se zákazníkem Microsoftu. 
 
-1. Na kartě **zákazníci** v partnerském centru vyberte odkaz **požádat o vztah prodejce** . 
+1. Na kartě **Zákazníci** v Partnerské centrum odkaz **Požádat o vztah prodejce.** 
 
-2. Automaticky se vytvoří šablona e-mailu, včetně textu a parametrizované adresy URL, která zákazníka přesměruje na centrum pro správu Microsoft 365.
+2. Vygeneruje se automatická e-mailová šablona, včetně textu a parametrizované adresy URL, která přesměruje zákazníka do Microsoft 365 správce.
 
-3. Můžete přizpůsobit automaticky vygenerovanou šablonu e-mailu a pak vybrat **Kopírovat do schránky** nebo **otevřít v e-mailu**.
+3. Můžete přizpůsobit automaticky vygenerované e-mailové šablony a pak vybrat **Zkopírovat do schránky** nebo **Otevřít v e-mailu.**
 
-4. Tato e-mailová šablona slouží k pozvání zákazníka k přijetí žádosti o **vztah prodejce** a **smlouvy o zákaznících Microsoftu**. (Poznámka: v pozvánce k e-mailu zajistěte, aby partner zahrnoval taky adresu URL, která se automaticky zadala, a také přihlašovací údaje zákazníka, které se nedávno vytvořily.)
+4. Pomocí této e-mailové šablony můžete zákazníka pozvat, aby přijal žádost o vztah **prodejce,** **a Smlouva se zákazníkem Microsoftu**. (Poznámka: V e-mailové pozvánce se ujistěte, že partner obsahuje také automaticky zadanou adresu URL a také nedávno vytvořené přihlašovací údaje zákazníka.)
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="Vytvoření relace":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="vytvořte relaci.":::
 
-5. Zákazník obdrží pozvánku prostřednictvím e-mailu a klikne na parametrizovanou adresu URL. 
+5. Zákazník obdrží pozvánku e-mailem a klikne na parametrizovanou adresu URL. 
 
-6. Zákazník používá přihlašovací údaje, které poskytnete v e-mailu pro přihlášení do centra pro správu Microsoft 365.
+6. Zákazník se pomocí přihlašovacích údajů, které poskytnete v e-mailu, Microsoft 365 centru pro správu.
 
-7. Zákazník zkontroluje pole, aby přijal **vztah prodejce** a **Zákaznickou smlouvu od Microsoftu**. 
+7. Zákazník zaškrtnutím políčka přijme vztah **prodejce a** **Smlouva se zákazníkem Microsoftu**. 
 
-8. V rámci stejné adresy URL je zákazník schopný zobrazit konsolidovaný seznam různých partnerů, se kterými pracují. Pokud si chcete zobrazit podrobnosti, můžete vybrat partnera.
+8. V rámci stejné adresy URL může zákazník zobrazit konsolidovaný seznam různých partnerů, se kterou pracuje. Mohou vybrat partnera a zobrazit podrobnosti.
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="Přijetí smlouvy":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="Přijměte smlouvu.":::
 
 
-## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Pozvání stávajícího zákazníka ke kontrole a přijetí smlouvy
+## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Pozvání existujícího zákazníka ke kontrola a přijetí smlouvy
 
-Pomocí následujících kroků můžete pozvat stávajícího zákazníka, aby zkontroloval a přijal zákaznickou smlouvu Microsoftu. 
+Pomocí následujícího postupu můžete pozvat stávajícího zákazníka, aby si tyto požadavky Smlouva se zákazníkem Microsoftu. 
 
-1. Vytvořte e-mail zákazníka s vloženou adresou URL, která vyzývá zákazníka, aby přijal zákaznickou smlouvu Microsoftu.
+1. Vytvořte e-mail zákazníka s vloženou adresou URL, která pozve zákazníka k přijetí Smlouva se zákazníkem Microsoftu.
 
-2. Váš zákazník obdrží pozvánku prostřednictvím e-mailu a klikne na [adresu URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement). 
+2. Zákazník obdrží pozvánku e-mailem a klikne na adresu [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement). 
 
-3. Zákazník zadá své přihlašovací údaje do centra pro správu Microsoft 365.
+3. Zákazník zadá své přihlašovací údaje do Microsoft 365 admin Center.
 
-4. Zákazník toto políčko přijme, aby přijal zákaznickou smlouvu od Microsoftu. 
+4. Zákazník zaškrtnutím políčka přijme Smlouva se zákazníkem Microsoftu. 
 
-5. V rámci stejné adresy URL může zákazník zobrazit konsolidovaný seznam různých partnerů, se kterými pracují. Pokud si chcete zobrazit podrobnosti, můžete vybrat partnera.
+5. V rámci stejné adresy URL může zákazník zobrazit konsolidovaný seznam různých partnerů, se které pracují. Mohou vybrat partnera a zobrazit podrobnosti.
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="zákazníka":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="Zákazníka.":::
 
 >[!NOTE]
->V některých scénářích nemusí zákazníci být schopni zákaznickou smlouvu od Microsoftu přijmout přímo. Pokud chcete získat další informace o těchto situacích, přečtěte si dva scénáře, kdy potřebujete ověřit jménem zákazníka níže.
+>V některých scénářích zákazníci nemusí být schopni přímo přijmout Smlouva se zákazníkem Microsoftu. Další informace o těchto situacích najdete níže v části Dva scénáře, ve kterých potřebujete pro své zákazníky něco otestovat.
 
-## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Dva scénáře, kdy potřebujete ověřit jménem zákazníka
+## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Dva scénáře, kdy je potřeba to udělat jménem zákazníka
 
-Existují dva scénáře, kdy zákazníci nemusí být schopni přímo přijmout smlouvu o zákaznících Microsoftu v centru pro správu Microsoft 365.
+Existují dva scénáře, ve kterých zákazníci nemusí být schopni přímo přijmout Smlouva se zákazníkem Microsoftu v Microsoft 365 admin Center.
 
-**Scénář 1**: stávající zákazník si koupil některý z následujících stávajících partnerských vztahů: nabídky, předplatné softwaru nebo softwaru, rezervované instance nebo plán Azure. Zákazník se teď snaží vytvořit nový nákup (kromě automatického obnovování). Když zákazník klikne na adresu URL, obdrží zprávu "kontaktujte svého partnera a potvrďte přijetí smlouvy o zákaznících Microsoftu."  
+**Scénář 1:** Stávající zákazník zakoupil prostřednictvím existujícího partnerského vztahu jakoukoli z následujících možností: nabídky, předplatná softwaru nebo softwaru, rezervované instance nebo plán Azure. Zákazník se teď pokouší provést nový nákup (s výjimkou automatického prodlužování platnosti). Když zákazník klikne na adresu URL, zobrazí se zpráva "Kontaktujte svého partnera a potvrďte přijetí tohoto Smlouva se zákazníkem Microsoftu."  
 
-**Řešení**: je nutné, abyste byli jménem zákazníka ověřeni.
+**Pokud chcete** tento problém vyřešit: Musíte to protestovat jménem zákazníka.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Snímek obrazovky se stránkou centra pro správu Microsoft 365 s výzvou, abyste se mohli obrátit na svého partnera a potvrdit přijetí smlouvy o zákaznících Microsoftu.":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Snímek obrazovky Microsoft 365 stránce Centra pro správu s dotazem, jestli chcete kontaktovat svého partnera a potvrdit přijetí Smlouva se zákazníkem Microsoftu":::
 
-**Scénář 2**: stávající zákazník si koupil některou z následujících nabídek, předplatných softwaru a softwaru, rezervovaných instancí a plánu Azure. Zákazník se teď snaží vytvořit nový nákup s novým partnerem.
+**Scénář 2:** Stávající zákazník zakoupil jakoukoli z následujících nabídek, softwarových a softwarových předplatných, rezervovaných instancí a plánu Azure. Zákazník se teď pokouší provést nový nákup s novým partnerem.
 
-Když zákazník klikne na adresu URL, Microsoft 365 centrum pro správu, aby přijal nový partnerský vztah a smlouvu, obdrží zprávu "kontaktujte svého partnera a potvrďte přijetí smlouvy o zákaznících Microsoftu."  
+Když zákazník klikne na adresu URL centra pro správu Microsoft 365 přijme nový partnerský vztah Microsoft 365 smlouvu, zobrazí se zpráva "Obraťte se na svého partnera a potvrďte souhlas s Smlouva se zákazníkem Microsoftu".  
 
-**Řešení**: je nutné, abyste byli jménem zákazníka ověřeni.  
+**Pokud chcete** tento problém vyřešit: Musíte to protestovat jménem zákazníka.  
 
-## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Potvrďte, že zákazník přijal smlouvu.
+## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Potvrzení, že zákazník přijal smlouvu
 
-Pokud se pokusíte vytvořit novou objednávku pro existujícího zákazníka, kterého jste ještě nepotvrzuji, zobrazí se výzva k dokončení potvrzení. K tomu použijte následující postup.
+Pokud se pokusíte vytvořit novou objednávku pro stávajícího zákazníka, u které jste to ještě nepotvrdili, zobrazí se výzva k dokončení potvrzení. Použijte k tomu následující postup.
 
-1. Zadejte **jméno**, **příjmení**, **e-mailovou adresu** a **telefonní číslo** (nepovinné) uživatele, který smlouvu přijal.
+1. Zadejte **jméno, příjmení,** **e-mailovou adresu** a telefonní číslo **(volitelné)** uživatele, který smlouvu přijal. 
 
-2. V části **Datum přijetí smlouvy** zadejte příslušné datum. Tuto hodnotu nelze nastavit na budoucí datum.
+2. V **části Datum přijetí smlouvy** zadejte příslušné datum. Tuto možnost nelze nastavit na budoucí datum.
 
 3. Vyberte **Uložit a pokračovat**. 
 

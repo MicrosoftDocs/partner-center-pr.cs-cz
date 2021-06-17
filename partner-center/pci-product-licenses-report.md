@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15658abdbf23c1181fb411fd66673fc9699250ae
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855161"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277466"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Sestava licencí produktů na řídicím panelu přehledy partnerského centra
 
@@ -41,43 +41,43 @@ Další informace o jednotlivých částech souhrnu najdete níže:
 - Vázaný 
   - Aktuální počet všech zakoupených a spravovaných licencí pro cloudové produkty založené na licencích, například Office 365, Dynamics, Microsoft 365, Power BI a dalších.
   - Procentuální nárůst nebo odmítnutí těchto licencí v rámci vybraného rozsahu kalendářních dat.
-  - Mikro chart trendu licencí: Mikro chart představuje trend počtů licencí za měsíc během vybraného rozsahu dat.
+  - License Trend Micro graf: mikrograf představuje trend počtu licencí v měsíci, který je v průběhu vybraného rozsahu kalendářních dat.
 
 - Nasazené licence:
-  - Aktuální počet všech přiřazených licencí zákazníka
-  - Procentuální růst nebo odmítnutí těchto licencí během vybraného časového období.
-  - Mikro chart počtu licencí: Mikro chart představuje trend počtu přiřazených licencí mezi měsíci během vybraného rozsahu dat.
+  - Aktuální počet všech přiřazených licencí vašeho zákazníka.
+  - Procentuální nárůst nebo odmítnutí těchto licencí v průběhu vybraného časového období.
+  - Graf počtu vydaných licencí: mikrograf představuje trend počtu přiřazených licencí přidělených v rámci vybraného rozsahu dat v měsíci.
 
 - Aktivní licence: 
-  - Aktuální počet všech zákaznických licencí s aktivním využitím za posledních 30 dnů ve vybraném rozsahu dat.
-  - Procentuální růst nebo odmítnutí těchto licencí během vybraného rozsahu dat.
-  - Mikro chart představuje trend počtů licencí po měsících ve vybraném rozsahu dat.
+  - Aktuální počet všech zákaznických licencí s jakýmkoli aktivním využitím za posledních 30 dní v průběhu vybraného období.
+  - Procentuální nárůst nebo odmítnutí těchto licencí v průběhu vybraného rozsahu kalendářních dat.
+  - Mikrograf představuje trend počtu licencí v měsíci, který se počítá během vybraného rozsahu dat.
 
-## <a name="geographical-spread-of-licenses"></a>Geografické rozložení licencí
+## <a name="geographical-spread-of-licenses"></a>Geografické rozšiřování licencí
 
-Zobrazení **Geografické rozprostření** licencí ukazuje geografickou distribuci aktuálních licencí a aktivních licencí na zákaznických trzích. (Aktuální **počet** licencí zahrnuje také nepřiřazené licence.)
+Zobrazení **geografická dvojstránka licencí** ukazuje geografickou distribuci aktuálních licencí a aktivní licence na trhy zákazníků. ( **Aktuální** počet licencí zahrnuje také nepřiřazené licence.)
 
-**Počet zemí/oblastí představuje** celkový počet zemí/oblastí, ve kterých máte aktuální a aktivní zákaznické licence.
+**Počet zemí/oblastí** představuje celkový počet zemí nebo oblastí, ve kterých máte aktuální a aktivní licence na zákazníky.
 
-Země v mřížce můžete vyhledat a vybrat a přiblížit tak umístění na mapě. Stisknutím možnosti **Domů** na mapě se vrátíte k výchozímu zobrazení. Najeďte myší na mapu a zobrazte aktuální licence a aktivní licence podle země zákazníka. Obě pole v mřížce jsou seřaditelná.
+Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Stisknutím možnosti **Domů** na mapě se vraťte k výchozímu zobrazení. Pokud chcete zobrazit aktuální licence a aktivní licence podle zákaznických zemí, najeďte myší na mapu. Obě pole v mřížce lze seřadit.
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="geografické rozpětí licence":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="Geografická rozprostřená licence.":::
 
-## <a name="license-adds"></a>Přidání licence
+## <a name="license-adds"></a>Licence přidávají
 
-Toto zobrazení ukazuje trend licencí přidaných během vybraného rozsahu dat. 
+Toto zobrazení ukazuje trend licencí přidaných během vybraného rozsahu kalendářních dat. 
 
 Pokud chcete trend podle produktu a služby nebo úlohy prezentovat, vyberte produkt v horní části obrazovky a službu/úlohu z rozevíracího seznamu SKU.
 
 Osa X představuje měsíce vybraného rozsahu kalendářních dat. Osa Y představuje počet přidaných licencí. Chcete-li zvětšit určité období, použijte posuvník v horní části grafu.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="licence přidávají":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="licence přidává.":::
 
 ## <a name="license-distribution"></a>Distribuce licencí
 
 Toto zobrazení ukazuje rozpis zákaznických licencí podle produktů a zemí zákazníka nebo oblastí. Když vyberete produkt v hierarchickém grafu **licence podle produktu** , zobrazí se u sousedního grafu rozpis licencí podle oblasti zákazníka.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribuce licencí":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribuce licencí.":::
 
 ## <a name="next-steps"></a>Další kroky
 

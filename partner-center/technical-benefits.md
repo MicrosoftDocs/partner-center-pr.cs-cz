@@ -1,6 +1,6 @@
 ---
-title: Výhody programu MPN – technický předběžný prodej a nasazení (TPD)
-description: Přečtěte si o výhodách Microsoft Partner Network (MPN) pro technické služby před prodejem a nasazením (TPD).
+title: Výhody programu MPN – Technické předprodejní a nasazování (TPD)
+description: Další informace Microsoft Partner Network (MPN) pro technické služby předprodeje a nasazení (TPD)
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.topic: article
@@ -8,70 +8,103 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 02/24/2021
-ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.date: 03/30/2021
+ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768716"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276378"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Prozkoumejte službu TPD (Technical insales and Deployment Services) 
+# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Prozkoumání technických služeb předprodeje a nasazení (TPD) 
 
-Přečtěte si o výhodách Microsoft Partner Network (MPN), které získáte pro technickou službu předprodejní a nasazení, včetně konzultací, předprodejní pomoci, poradenských hodin a dalších.
+**Odpovídající role:** Správce partnera MPN
 
-## <a name="develop-your-technical-know-how"></a>Vývoj technických znalostí – jak
+Přečtěte si o výhodách Microsoft Partner Network (MPN), které získáte pro technické předprodejní a nasazování služeb, včetně konzultace, předprodejní pomoci, hodin poradenství a dalších.
 
-Použijte službu TPD (Technical Sales and Deployment Services) pro vzdálené přizpůsobené konzultace One-to-One k rychlejšímu sestavování vašich technických možností, abyste zvýšili prodej, nasadili efektivněji a urychlili vývoj aplikací. [Další informace](https://aka.ms/TPD).
+## <a name="develop-your-technical-know-how"></a>Vývoj technického know-how
 
-Kromě místních Windows 10, Windows serveru a Microsoft SQL Server se podporují všechna cloudová nebo hybridní řešení. 
+Využijte technické předprodejní a nasazované služby (TPD) pro vzdáleně přizpůsobené konzultace typu 1:1, abyste rychleji vytvářely technické možnosti, abyste zvýšili prodej, efektivněji nasadili a urychlili vývoj aplikací. [Přečtěte si další informace](https://aka.ms/TPD).
 
-- Partneři s nabídkami Gold, stříbrného a akčního balíčku můžou k konzultacím využívat hodiny partnerského poradenství. 
+Všechna cloudová nebo hybridní řešení jsou podporována kromě místních řešení Windows 10, Windows Serveru a Microsoft SQL Server. 
 
-- Partneři Gold a stříbrného dostanou neomezenou předprodejní podporu. 
+- Partneři s nabídkami programu Gold, Silver a Action Pack mohou využít hodiny poradenství pro partnery pro konzultace. 
 
-- Členové sítě mohou koupit [akční balíček](https://partner.microsoft.com/membership/action-pack) pro příjem pěti poradenských hodin.  
+- Partneři pro zlaté a zlaté se dozná neomezenou pomoc při předprodeji. 
 
-|     Typ nabídky    | Počet hodin poradenství |   Technický předprodej   |
+- Členové sítě si mohou [zakoupit akční balíček](https://partner.microsoft.com/membership/action-pack) a získat tak pět hodin poradenství.  
+
+|     Typ nabídky    | Počet hodin poradenství |   Technické předprodeje   |
 |:-----------------:|:------------------------:|:----------------------:|
 |        Gold       |            50            |        Unlimited       |
 |       Silver      |            20            |        Unlimited       |
-| Akční balíček (mapy) |             5            | Devedení – hodiny pro poradenství |
+| Akční balíček (MAPS) |             5            | Odečítá hodiny poradenství |
 
-Přihlaste se pomocí libovolného uživatelského účtu programu MPN, abyste **[vytvořili požadavek na technickou službu TPD (software pro prodej a nasazení)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (aktivace technickým přínosem se nevyžaduje).
+Přihlaste se pomocí libovolného uživatelského účtu přidruženého k MPN a vytvořte žádost o technickou předprodejní a deploymentovou službu **[(aktivace](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** technických výhod se nevyžaduje).
 
-:::image type="content" source="images/technical-benefits.png" lightbox="images/technical-benefits.png" alt-text="Technické výhody předprodejní a nasazení" border="false":::
+## <a name="delivery-scenarios"></a>Scénáře doručování
 
-## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Odeslat žádost o technickou službu pro předprodejní a nasazení 
+- **Technické předprodejní** konzultace se používají k definování nabídky hodnot, poskytování odhadů nákladů, řízení problémů zákazníků, reagování na zasílání zpráv konkurenci, demonstraci technických řešení, potvrzení konceptů nebo plánování a návrh architektury vedoucí k prohlášení o práci.
 
-Vaše technické výhody služby předprodeji a nasazení (TPD) se automaticky aktivují a jsou dostupné všem přidruženým uživatelům programu MPN. 
+  - *Nepodporuje se:* Plánování prodejních kanálů, ceny a ceníky
 
-Chcete-li zobrazit technické výhody v partnerském centru:
 
-1. Přihlaste se pomocí účtu přidruženého k programu MPN do [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra. 
+- **Konzultace k nasazení** se používají k plánování architektury a pokynům k návrhu, osvědčeným postupům, pokynům k nasazení, odkazům na produkty a dokumentaci.
+
+  - *Nepodporuje se:* Podpora nebo řešení potíží s opravami přerušení, služby na místě, dlouhodobé konzultace, přímé na zákaznickou podporu nebo zákaznickou podporu v produkčním prostředí. 
+
+
+- **Konzultace na Marketplace** slouží k publikování vašeho řešení pro průběžné generování potenciálních zájemců na komerčním marketplace Microsoftu. Pro vývojáře, konsistenční řízení ke konfiguraci služeb, architektuře nebo návrhu, migraci z místních řešení, revize kódu a pomoc s publikováním aplikací.
+
+  - *Nepodporuje se:* Ladění kódu, vývoj aplikací nad rámec světlého důkazu konceptů.
+
+## <a name="in-scope-products-and-services"></a>In-Scope produkty a služby
+
+Pro technické předprodejní a nasazování služby jsou v rozsahu následující produkty a služby:
+- **Microsoft 365:** Všechny komponenty systém Microsoft Office 365, jako jsou Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype pro Business Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection
+  - *Mimo rozsah: Výhradně místní servery Office – Exchange a SharePoint*
+- **Business Applications:** Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
+  - *Mimo rozsah: Výhradně místní verze Dynamics 365, GP, SL, AX, NAV*
+- **Microsoft Azure:** Všechna Microsoft Azure řešení a související služby, jako jsou infrastruktura jako služba, platforma jako služba, datová platforma, analýzy BI, Cognitive Services, Azure Machine Learning, Azure Stack
+- **Windows Server:** Hlavní verze podporovaného Windows Serveru (jak se řídí **[životním cyklem produktu)](/lifecycle/policies/fixed)**
+  - System Center související produkty, jako je SCCM, pokud souvisejí s cloudovými nebo hybridními scénáři
+- **Windows 10:** Windows 10 operační systém, zařízení, univerzální aplikace
+- **Produkty v privátních nebo Public Preview:** Pomoc se poskytuje s co nejlepším úsilím pro neprodukční prostředí a bez záruky dostupnosti informací nebo doby odezvy.
+
+## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Odeslání žádosti o technické předprodejní služby a služby nasazení 
+
+Vaše výhody technické předprodejní a nasazované služby (TPD) se aktivují automaticky a jsou dostupné všem uživatelům přidruženým k PROGRAMU MPN. 
+
+Pokud chcete zobrazit technické výhody v Partnerské centrum:
+
+1. Přihlaste se pomocí svého účtu přidruženého k MPN do Partnerské centrum [řídicího panelu](https://partner.microsoft.com/dashboard). 
 
    > [!NOTE]
-   > Pokud je váš účet přidružený jenom k CSP a není přidružený k programu MPN, zobrazí se chybová zpráva "nemáte oprávnění k provedení této akce". Musíte mít přidružený účet MPN.
+   > Pokud je váš účet přidružený pouze k programu CSP a není přidružený k MPN, zobrazí se chybová zpráva Nejste k této akci autorizováni. Musíte mít přidružený účet MPN.
 
-2. V navigační nabídce vlevo rozbalte **výhody** a vyberte **technické výhody**. Zobrazí se stránka s technickými výhodami, kde najdete seznam výhod technické podpory, které jsou k dispozici pro vaše nabídky služby Gold, stříbrného a sady Microsoft Action Pack. 
-
-   > [!NOTE]
-   > Pokud nemáte žádné aktivní nabídky členství, zobrazí se vám zpráva "Vypadá to, že ještě nemáte žádné výhody." Pokud má vaše společnost aktivní členství, ale nemůžete je zobrazit, možná jste se přihlásili pomocí nesprávného účtu. Pokud chcete zjistit účet, klikněte na ikonu **účtu** v pravém horním rohu stránky a potom klikněte na možnost **přihlásit s jiným účtem** (Pokud je to potřeba).
-
-3. Vyberte **[Odeslat žádost o technickou předprodejní a nasazení](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**.
-
-4. Použijte **Prohledat produkty** a zadejte relevantní produkt. Pokud získáte příliš mnoho výsledků, můžete filtrovat podle oblasti řešení nebo procházet témata a filtrovat jednotlivé úrovně taxonomie.
+2. V **levé navigační** nabídce rozbalte Výhody a vyberte Technické **výhody.** Zobrazí se stránka Technické výhody se seznamem výhod technické podpory, které jsou k dispozici pro vaše nabídky členství v programu Gold, Silver nebo Microsoft Action Pack. 
 
    > [!NOTE]
-   > Pokud vyžadujete, aby se Cloud prohlédl jako součást plánu podpory ASfP nebo smlouvou psfp můžou, obraťte se na správce účtů podpory (SAM).
+   > Pokud nemáte žádné aktivní nabídky členství, zobrazí se zpráva Vypadá to, že ještě nemáte žádné výhody. Pokud má vaše společnost aktivní nabídky členství, ale nevidíte je, možná jste se přihlásili pomocí nesprávného účtu. Pokud chcete zkontrolovat svůj  účet, klikněte na ikonu Účet v pravém horním rohu stránky a klikněte na **Přihlásit se pomocí jiného** účtu (pokud je to potřeba).
 
-5. **Vyplňte formulář a odešlete.** Ujistěte se, že jste do svého telefonního čísla zahrnuli celý kód mezinárodní vyčíslení. Pro země, které pokrývají několik časových pásem, například USA, Rusko, určete časové pásmo a upřednostňovanou pracovní dobu.
+3. Vyberte **[Odeslat technický požadavek na předprodej a nasazení.](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**
+
+:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Technické výhody předprodeje a nasazení" :::
+
+4. Použijte **search products (Hledat** produkty) a zadejte příslušný produkt. Pokud získáte příliš mnoho výsledků, můžete filtrovat podle oblasti Řešení nebo procházet témata a filtrovat jednotlivé úrovně taxonomie.
+
+:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Technické výhody předprodeje a nasazení – Vyhledávací produkty.":::
+
+   > [!NOTE]
+   > Pokud v rámci plánu podpory ASfP nebo PSfP vyžadujete cloud, obraťte se na správce účtu podpory (SAM).
+
+5. **Vyplňte formulář a odešlete ho.** Nezapomeňte ke svému telefonnímu číslu zahrnovat úplný mezinárodní číselník. U zemí, které pokrývají více časových pásem, například USA nebo Rusko, uveďte časové pásmo a upřednostňovanou pracovní dobu.
 
    > [!IMPORTANT]
-   > Ujistěte se, že jste vybrali příslušné země (nebo oblast) a jazyk, protože určují, kde se vaše žádost směruje.
+   > Nezapomeňte vybrat příslušnou zemi (nebo oblast) a jazyk, protože ty určují, kam se váš požadavek směruje.
 
-6. Na stránce potvrzení se zobrazí číslo a popis žádosti o podporu. Také obdržíte e-mail s potvrzením z partnerského centra s číslem případu.
+6. Na potvrzovací stránce se zobrazí číslo a popis žádosti o podporu. Obdržíte také potvrzovací e-mail od Partnerské centrum s číslem případu.
 
 ## <a name="next-steps"></a>Další kroky
 
-[Správa výhod a nabídek Microsoft Partner Network](manage-your-partner-network-benefits.md)
+[Správa výhod Microsoft Partner Network a nabídek](manage-your-partner-network-benefits.md)

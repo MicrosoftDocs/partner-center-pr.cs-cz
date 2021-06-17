@@ -1,6 +1,6 @@
 ---
 title: Sloučení partnerského účtu s jiným partnerským účtem
-description: Zjistěte, jak sloučit partnerský účet s jiným partnerským účtem v Partnerské centrum – pro společnosti, které jsou aktivními partnery Microsoftu v Partnerské centrum.
+description: Přečtěte si, jak sloučit svůj Partnerský účet s jiným partnerským účtem v partnerském centru – pro společnosti, které jsou aktivními partnery Microsoftu v partnerském centru.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -8,48 +8,48 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bcef4c771d748b0e2fbeae8cf1daaf41d7f53b43
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146506"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276633"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Sloučení partnerského účtu s jiným partnerským účtem
 
-**Odpovídající role:** Správce účtu
+**Příslušné role**: správce účtu
 
-Dvě nebo více společností, které jsou aktivními partnery Microsoftu a mají účty v Partnerské centrum si mohou zvolit sloučení svých účtů.
+Dvě nebo víc společností, které mají aktivní partnery Microsoftu a mají účty v partnerském centru, se můžou rozhodnout sloučit své účty.
 
-## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>Co se stane, když se dva partneři rozhodne sloučit své Partnerské centrum účty
+## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>Co se stane, když se dva partneři rozhodnou sloučit své účty partnerského centra
 
-- Partnerská organizace, která zahájí sloučení, bude globální účet partnera (PGA).
+- Partnerská organizace, která iniciuje sloučení, bude globální účet partnera (PGA).
 
-- Zzvaný PGA organizace se stane umístěním iniciující společnosti.
+- PGA pozvané organizace se stal místem inicializace společnosti.
 
-- Všechna umístění slučování účtu se stanou umístěními v rámci PGA.
+- Všechna umístění sloučeného účtu se stanou umístěními v rámci PGA.
 
-- Po sloučení účtu se zobrazí podrobnosti o účtu, jako jsou umístění i uživatelé v rámci profilu PGA. Tento proces nelze vrátit zpět.
+- Po dokončení sloučení účtu se v profilu PGA zobrazí podrobnosti účtu, jako jsou například umístění a uživatelé. Tento proces nemůžete vrátit zpět.
 
-- Během této konsolidace se zachovají všechna ID MPN pro umístění.
+- Všechna ID MPN pro umístění se během této konsolidace uchovávají.
 
-- Role uživatelů se přenesly. Pokud by například uživatel byl správcem pobídek pro konkrétní lokalitu, měl by i po fúzi roli a mohl by vidět pobídky, které viděl před fúzí.
+- Role uživatele se přenesou. Pokud byl například uživatel správcem pobídek pro konkrétní umístění, bude mít tuto roli stále po spojení a bude moci zobrazit pobídky, které viděli před fúzí.
 
-- Tenanti Azure AD a účty CSP se nesloučí a nemají žádný vliv.
+- Klienti Azure AD a účty CSP nejsou sloučeni a nemají žádný vliv.
 
-- Publikované nabídky a data kanálu spoluproduování přidružená k oběma společnostem se zachovají.
+- Publikované nabídky a data obchodních kanálů, která jsou přidružená k oběma firmám, se zachovají.
 
 ### <a name="view-of-merged-accounts"></a>Zobrazení sloučených účtů
 
-:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Fúze účtů":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Fúze účtu.":::
 
-## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Co očekávat, pokud jste byli pozváni ke sloučení účtu Partnerské centrum s jiným Partnerské centrum účtem
+## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Co očekávat, pokud jste pozváni ke sloučení účtu partnerského centra s jiným účtem partnerského centra
 
-Pokud se rozhodnete přijmout pozvánku ke sloučení účtů: · Vaše ID MPN a umístění se sloučí s PGA partnerského účtu, který vás pozval.
+Pokud se rozhodnete přijmout pozvánku ke sloučení účtů: · Vaše ID MPN a umístění se sloučí do PGA partnerského účtu, který vás pozval.
 
-- Vaši uživatelé se převedou do sloučeného účtu s jejich rolemi beze změny.
+- Vaši uživatelé budou přeneseni do sloučeného účtu se svými rolemi beze změny.
 
-- Stávající výhody a kompetence budou pro obě společnosti zachovány po fúzi až do prodloužení. Při obnovení se budou účty považovat za jednu společnost a standardní pravidla obnovy.
+- Stávající výhody a kompetence budou pro obě společnosti po spojení zachovaná až do obnovení. Při obnovení se budou účty považovat za jednu společnost a standardní pravidla obnovy.
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>Pochopení dopadů na programy a výhody, když se partneři rozhodnou sloučit účty
 
@@ -96,36 +96,36 @@ Pokud se rozhodnete přijmout pozvánku ke sloučení účtů: · Vaše ID MPN a
 
 1. Contoso, Ltd. má 
 
-    a. globální [ID MPN 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) a JEDNO ID MPN podřízeného [umístění 2222222.](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)
+    a. [ID globálního mpn 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) a jedno podřízené [umístění ID MPN 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. tenant Azure AD = @contoso.com
  
-    c. gold competency that expires October 1, 2020
+    c. Gold Competency, jehož platnost vyprší 1. října 2020
 2. Společnost Fabrikam, Inc. má
  
-    a.  globální ID MPN 333333 a ID MPN dvou podřízených umístění 4444444 a 5555555
+    a.  globální ID MPN 3333333 a dvě podřízená umístění ID MPN 4444444 a 5555555
 
     b.  tenant Azure AD = @fabrikam.com
 
-    c.  dvě zlaté kompetence, které vyprší 1. prosince 2020
-3.  Společnost Contoso koupí společnost Fabrikam a přejde [sem,](https://partner.microsoft.com/dashboard/account/merger) aby zahájila žádost o sloučení.
-4.  Společnost Fabrikam se Partnerské centrum přihlásí a přejde na stejnou stránku, na které se #3 contoso, aby schválila žádost společnosti Contoso.
-5.  Společnost Contoso na stejné stránce proše informace o sloučení a poskytne potvrzení, že může pokračovat v fúzi účtů.
-6.  Po fúzi se firemní účet zobrazí takto:
+    c.  dvě zlaté kompetence, jejichž platnost vyprší 1. prosince 2020
+3.  Společnost Contoso nakupuje společnost Fabrikam a přejde [sem](https://partner.microsoft.com/dashboard/account/merger) , aby zahájila žádost o sloučení.
+4.  Společnost Fabrikam se přihlásí do partnerského centra a přejde na stejnou stránku jako contoso, která byla v kroku #3, ke schválení žádosti společnosti Contoso.
+5.  Společnost Contoso kontroluje podrobnosti o sloučení na stejné stránce a poskytuje potvrzení, aby bylo možné pokračovat v spojování s účtem.
+6.  Po spojení se účet společnosti zobrazí jako:
 
-    a.  Společnost Contoso s globálním ID MPN 1111111 a 4 ID MPN podřízeného umístění 2222222, 3333333, 4444444 a 5555555
+    a.  Společnost s názvem contoso s globálním ID MPN 1111111 a 4 ID MPN v podřízeném umístění 2222222, 3333333, 4444444 a 5555555
     
-    b.  Bude mít dva tenanty Azure AD ( + ), kteří mají přístup ke @contoso.com @fabrikam.com stejnému Partnerské centrum účtu.
+    b.  Budou mít dva klienty Azure AD ( @contoso.com + @fabrikam.com ), kteří mají přístup ke stejnému účtu partnerského centra.
     
-    c.  Bude mít balíčky se dvěma výhodami kompetencí– jednu, která vyprší 1. října 2020 a druhá vyprší 1. prosince 2020. 1. prosince 2020 budou moct prodloužit platnost jako balíček výhod s jednou kompetencí. Po prodloužení si společnost Contoso zachová všechny tři kompetence, i když si může zachovat pouze jeden balíček výhod.
+    c.  Budou mít dva balíčky pro kompetenci, jednu, která vyprší od 1. října 2020 do 1. prosince 2020. Budou se moct prodloužit jako jeden balíček pro výhody kompetence od 1. prosince 2020. Po obnovení bude společnost Contoso uchovávat všechny tři kompetence, i když můžou udržovat jenom jeden balíček výhod.
     
-7.  Správci společnosti Contoso budou nadále spravovat Partnerské centrum role @contoso.com uživatelů společnosti Contoso. Správci společnosti Fabrikam budou nadále spravovat Partnerské centrum role @fabrikam.com uživatelů společnosti Fabrikam. Správci společnosti Contoso mohou spravovat uživatele společnosti Fabrikam pouze v případě, že jsou pozvaní jako host do tenanta společnosti Fabrikam.
-8.  Společnost Contoso se může rozhodnout tenanta ignorovat a znovu pro zaměstnance Fabrikam zadat nové přihlašovací údaje s novými rolemi a @fabrikam.com @contoso.com oprávněními.
+7.  Správci společnosti Contoso budou nadále spravovat role partnerského centra pro @contoso.com uživatele. Správci společnosti Fabrikam budou nadále spravovat role partnerského centra pro @fabrikam.com uživatele. Správci společnosti Contoso mohou spravovat uživatele společnosti Fabrikam pouze v případě, že jsou pozváni jako host v tenantovi společnosti Fabrikam.
+8.  Společnost Contoso by mohla rozhodnout ignorovat @fabrikam.com tenanta a znovu vydat nové přihlašovací údaje zaměstnanců společnosti Fabrikam @contoso.com s novými rolemi a oprávněními.
 
 ## <a name="next-steps"></a>Další kroky
 
 - [Přiřazování uživatelských rolí a oprávnění](permissions-overview.md)
 
-- [Ověření informací o profilu partnera](update-your-partner-profile.md)
+- [Ověření informací o partnerském profilu](update-your-partner-profile.md)
 
-- [Přidání Azure Partner Shared Services, aby si partneři mohli koupit předplatná Azure pro vlastní použití](shared-services.md)
+- [Přidejte služby Azure partner Shared Services, aby partneři mohli koupit předplatné Azure pro vlastní použití.](shared-services.md)

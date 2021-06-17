@@ -1,6 +1,6 @@
 ---
 title: Partner s nepřímými prodejci v CSP
-description: Jako nepřímý poskytovatel nebo distributora Zjistěte, jak se dá rozšířit o partnerství s nepřímými prodejci. To zahrnuje úlohy, které můžete provádět v partnerském centru.
+description: Jako nepřímý poskytovatel nebo distributor se dozvíte, jak rozšiřovat partnerství s nepřímými prodejci. To zahrnuje úlohy, které můžete provádět v Partnerské centrum.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,38 +9,38 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: bd11b65fb1f11839cba50d8bc1da94668009c56c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ec673f7dcf620f055be58dc3a333575addcd6cd1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146676"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277840"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partnerství s nepřímými prodejci v programu Cloud Solution Provider
 
-**Příslušné role**: globální správce | Správce správy uživatelů | Agent správce | Agent prodeje
+**Odpovídající role:** Globální správce | Správce správy uživatelů | Agent pro správu | Agent prodeje
 
-Díky takovému komplexnímu a rychle se měnícímu tržišti technologie můžou zákazníci chtít, aby jim byla konkurenční hrana, kterou jim poskytují technologická řešení. V takovém případě je vhodné, aby partneři investovali do zapojení partnerských partnerů a rozšířili nabídky a mohli zákazníkům dělat ještě víc.
+Díky tak složitému a rychle se měnícímu technologickému marketplace zákazníci chtějí konkurenční výhodu, kterou jim technologická řešení dají. V takovém klimatu dává partnerům smysl investovat do zapojení partnerů do partnerských řešení, aby rozšířili nabídky a umožnili zákazníkům dělat ještě více.
 
-Noví prodejci vstupují na trh a hledají způsoby, jak nabízet svá řešení zákazníkům mimo jejich trhy a národní prostředí. Jako zavedený poskytovatel technologických služeb je dobře umístěný na uvedení jejich trasy na trh. Partner s nepřímými prodejci v programu Cloud Solution Provider (CSP) pro připojení k ostatním partnerům, uvedení nových řešení na trh a zavedení cloudových služeb pro zákazníky předem.
+Noví prodejci vstupují na trh a hledají způsoby, jak nabídnout svá řešení zákazníkům mimo jejich trhy a národní prostředí. Jako zavedený poskytovatel technologií jste dobře umístění jako jeho trasa na trh. Spojte se s nepřímými prodejci v programu Cloud Solution Provider (CSP) a spojte se s dalšími partnery, přineste na trh nová řešení a pokroku v přijetí cloudových služeb zákazníky.
 
-V modelu nepřímých prodejců pro prodej (na dvou úrovních) jste partnerem nepřímými prodejci, kteří zákazníkům nabízejí cloudová řešení Microsoftu. Produkty a odběry si koupíte přímo od Microsoftu a pak je zákazníkům nabízíte prostřednictvím svých prodejců.
+V modelu nepřímého prodejce poskytovatelů (dvouvrstvých) spolupracujete s nepřímými prodejci a nabízíte zákazníkům cloudová řešení Microsoftu. Produkty a předplatná zakoupíte přímo od Microsoftu a pak tato řešení nabízíte zákazníkům prostřednictvím prodejců.
 
-Jako nepřímý poskytovatel použijete Partnerské centrum k těmto akcím:
+Jako nepřímý poskytovatel využijete následující Partnerské centrum:
 
-- Spojte se s nepřímými prodejci, kteří můžou přispět k rozšíření dosahu a zákaznické základny.
+- Spojte se s nepřímými prodejci, kteří vám můžou pomoct rozšířit váš dosah a zákaznickou základnu.
 
-- Navažte partnerství s nepřímými prodejci, kteří vám umožní spolupracovat se společnými zákazníky.
+- Navázání partnerství s nepřímými prodejci, které vám oběma umožní obsluhovat běžné zákazníky
 
 - Určení nepřímých prodejců pro správu konkrétních zákazníků a předplatných
 
 - Spravujte své vztahy s Microsoftem, zákazníky a nepřímými prodejci na jednom místě.
 
-Informace o tom, co je potřeba k účasti v programu CSP jako nepřímý prodejce, najdete v tématu [Začínáme jako nepřímý prodejce](https://partner.microsoft.com/membership/cloud-solution-provider/) na [webu Microsoft Partner Network](https://partner.microsoft.com).
+Informace o tom, co je potřeba k účasti v [](https://partner.microsoft.com/membership/cloud-solution-provider/) programu CSP jako nepřímý prodejce, najdete v tématu Začínáme jako nepřímý prodejce na Microsoft Partner Network [webu.](https://partner.microsoft.com)
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Úlohy nepřímého poskytovatele v Partnerském centru
 
-Provedením následujících kroků zřídíte a spravujete své partnerství s nepřímými prodejci a zákazníky. Kroky 2 a 3 jsou podrobněji popsané níže.
+Provedením následujících kroků vytvořte a spravujte partnerství s nepřímými prodejci a zákazníky. Kroky 2 a 3 jsou podrobněji popsány níže.
 
 1. Zkontrolujte profil vaší společnosti na [oficiálním seznamu nepřímých poskytovatelů Microsoftu.](https://partnercenter.microsoft.com/partner/find-a-provider)
 
@@ -65,7 +65,7 @@ Po dokončení těchto kroků můžete spravovat partnerství prodejců na strá
 
 Pokud chcete komunikovat s nepřímými prodejci v Partnerské centrum a provádět s nimi transakce, musíte s nimi navázat partnerství. Partnerství s nepřímým prodejcem umožňuje vám i prodejci obsluhovat běžné zákazníky.
 
-Pokud chcete vytvořit partnerství, pošlete e-mailem žádost o partnerství prodejci. Než začnete, ujistěte se, že máte k dispozici e-mailovou adresu prodejce.
+Pokud chcete vytvořit partnerství, pošlete e-mailem žádost o partnerství prodejci. Než začnete, ujistěte se, že máte po ruce e-mailovou adresu prodejce.
 
 Na stránce s podrobnostmi o předplatném přidejte do pole Reseller (MPN ID) prodejce, se kterého chcete pracovat. Nezapomeňte použít ID MPN přidružené k účtu umístění partnera prodejce, který použil k onboardování do Partnerské centrum. Tím se zajistí, že prodejce obdrží odpovídající pobídky a bude mít aktivní Smlouva s partnerem Microsoftu k zapojení do transakce.
 
@@ -73,31 +73,31 @@ Na stránce s podrobnostmi o předplatném přidejte do pole Reseller (MPN ID) p
 
 2. Na stránce **Nepřímí prodejci** vyberte **Požádat o partnerství.** Zobrazí se koncept e-mailové zprávy.
 
-3. Vyberte **Otevřít v e-mailu** a otevřete zprávu  ve výchozí e-mailové aplikaci. Pokud chcete zprávu zkopírovat a vložit do e-mailu, vyberte Zkopírovat do schránky. Po dokončení vyberte **Hotovo** .
+3. Vyberte **Otevřít v e-mailu** a otevřete zprávu  ve výchozí e-mailové aplikaci. Pokud chcete zprávu zkopírovat a vložit do e-mailu, vyberte Zkopírovat do schránky. Po **dokončení vyberte** Hotovo.
     > [!IMPORTANT]  
-    >  Text e-mailové zprávy můžete upravit, ale nezapomeňte zahrnout odkaz, který je přizpůsobený vašemu účtu partnerského centra.
+    >  Text v e-mailové zprávě můžete upravit, ale nezapomeňte zahrnout odkaz tak, jak je přizpůsobený pro váš Partnerské centrum účet.
 
-4. Až prodejce přijme žádost o partnerství, zobrazí se v seznamu nepřímých prodejců a pak můžete:
+4. Jakmile prodejce vaši žádost o partnerství přijme, zobrazí se v seznamu nepřímých prodejců. Pak můžete:
 
-   - Přidávání nových zákazníků jménem
+   - Přidání nových zákazníků jejich jménem
 
-   - Odeslání objednávek jménem svých zákazníků
+   - Odesílání objednávek jménem zákazníků
 
-   - Přidružte je k předplatnému, aby je mohl spravovat jménem zákazníka, který ho koupil.
+   - Přidružte je k předplatnému, aby ho mohli spravovat jménem zákazníka, který ho zakoupil.
 
-   - Označení pro konkrétní předplatné jako kontaktníka podpory zákazníka
+   - Určete je jako kontakt zákaznické podpory pro konkrétní předplatná.
 
-V závislosti na úrovni přístupu a zapojení, které má prodejce mít, možná budete chtít provést jednu nebo více akcí popsaných níže.
+V závislosti na úrovni přístupu a zapojení, které chcete mít u prodejce, můžete chtít použít jednu nebo více níže popsaných akcí.
 
-Pokud se u stávajících předplatných rozhodnete pracovat s nepřímým prodejcem, můžete aktualizovat podrobnosti předplatného tak, aby zahrnovaly nepřímý prodejce.
+Pokud se u stávajících předplatných rozhodnete pracovat s nepřímým prodejcem, můžete podrobnosti o předplatném aktualizovat tak, aby zahrnovaly nepřímého prodejce.
 
-- Na stránce Podrobnosti předplatného v poli **prodejce (MPN ID)** přidejte prodejce, se kterým chcete pracovat. Tím se zajistí, že prodejci dostanou vhodné pobídky.
+- Na stránce s podrobnostmi o předplatném přidejte do pole **Reseller (MPN ID)** prodejce, se kterého chcete pracovat. Tím se zajistí, že prodejce obdrží odpovídající pobídky.
 
-| **K tomuto účelu** | **Postup** | **,** |
+| **K dosažení tohoto** | **Postup** | **Kde** |
 |   ------------------   |   -------   |   -----   |
-| Umožněte prodejci spravovat účet zákazníka a mít oprávnění správce ke správě svých předplatných. | Přidružení prodejce k účtu zákazníka při přidávání nového zákazníka | Na stránce **Nový zákazník** |
-| Povolit prodejci spravovat účet zákazníka Azure|Přidružení prodejce k účtu zákazníka Azure při přidávání nového zákazníka|Na **portálu služby Azure** vyberte [uživatelská nastavení](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) a udělte nepřímým prodejcům oprávnění **vlastníka tenanta** .|
-| Poskytněte kreditu prodejce k motivaci | Přidružení prodejce k předplatnému (novému nebo existujícímu) | Na stránce **Nové předplatné** |
+| Povolit prodejci spravovat účet zákazníka a mít oprávnění správce ke správě svých předplatných | Přidružení prodejce k zákaznickému účtu při přidávání nového zákazníka | Na stránce **Nový zákazník** |
+| Povolení prodejci spravovat účet zákazníka Azure|Přidružení prodejce k zákaznickému účtu Azure při přidávání nového zákazníka|Na portálu **služeb Azure vyberte** [Uživatelská nastavení](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) a udejte nepřímému vlastníkovi **tenanta prodejce oprávnění.**|
+| Poskytnout kredit prodejce na pobídky | Přidružení prodejce k předplatnému (novému nebo existujícímu) | Na stránce **Nové předplatné** |
 | Delegování zákaznické podpory pro konkrétní předplatná na prodejce | V seznamu určených kontaktů podpory **vyberte prodejce.** | Na stránce s podrobnostmi o předplatném: Na stránce Zákazníci vyberte zákazníka a pak na stránce **Předplatná** zákazníka vyberte předplatné.  |
 
 ## <a name="remove-partnership-with-indirect-resellers"></a>Odebrání vztahu s nepřímými prodejci
@@ -108,11 +108,11 @@ Pokud chcete odebrat partnerství s existujícím nepřímým prodejcem, postupu
 
 2. Na stránce **Nepřímí prodejci** vyberte **Odebrat partnerství.** Zobrazí se zpráva s dotazem na potvrzení. Pokud chcete pokračovat, vyberte **Ano.**
 
-:::image type="content" source="images/ip-ir-relationship.png" alt-text="Odebrání partnerství":::
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Odeberte partnerství.":::
 
 >[!IMPORTANT]
 >Zákazníci přidružení k nepřímému prodejci nebudou odebráni. Udělená delegovaná oprávnění správce zůstanou beze změny.
->Vy zastupujete, že rozhodnutí o ukončení vašeho vztahu s partnerem bylo učiněno v dobré důvěry, pro oprávněné obchodní účely a v souladu s vaší smlouvou se zákazníkem nebo partnerem a souhlasíte s tím, že budete bránit a chránit společnost Microsoft před opačným tvrzením třetích stran a proti nim.
+>Vy zastupujete, že rozhodnutí ukončit váš vztah s partnerem bylo učiněno v dobré důvěry, pro oprávněné obchodní účely a v souladu s vaší smlouvou se zákazníkem nebo partnerem a souhlasíte s tím, že budete bránit společnosti Microsoft před opačným tvrzením a v rozporu s nimi.
 >Pokud to vaše smlouva vyžaduje, musíte zákazníkovi nebo partnerovi poskytnout právní oznámení o ukončení. Tento nástroj zákazníkovi nebo partnerovi nevygeneruje oznámení.
 
 3. Nepřímý prodejce, jehož partnerství jste odebrali, se v seznamu nezobrazí.
@@ -123,51 +123,51 @@ V závislosti na úrovni přístupu a zapojení můžete chtít o této změně 
 
 Když získáte nové zákazníky, musíte pro ně vytvořit účty v Partnerské centrum. Když přidáte nový zákaznický účet, můžete určit konkrétního prodejce, který bude účet spravovat a spravovat jeho předplatná a služby jejich jménem.
 
-Když přidružíte prodejce k novému účtu zákazníka, delegujete si prodejce účtu a předplatného. To znamená, že prodejce má přístup správce k předplatným a službám zákazníka a může je spravovat jménem zákazníka.
+Když přidružíte prodejce k novému zákaznickému účtu, delegujete na prodejce správu účtů a předplatných. To znamená, že prodejce má přístup správce k předplatným a službám zákazníka a může je spravovat jménem zákazníka.
 
-### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Přidejte nové zákazníky a přidružte je k nepřímým prodejcům
+### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Přidání nových zákazníků a jejich přidružení k nepřímým prodejcům
 
-1. V nabídce **partnerského centra** vyberte **nepřímé prodejce** .
+1. V **nabídce Partnerské centrum** **prodejců.**
 
-2. Vyhledejte nepřímý prodejce, ke kterému chcete přiřadit nové zákazníky, a pak vyberte **Přidat nového zákazníka**. Pamatujte na to, že nepřímý prodejce je už vybraný pro vás na formuláři s podrobnostmi o zákaznících. Zadejte podrobnosti o zákazníkovi a potom vyberte **Další: předplatná**.
+2. Vyhledejte nepřímého prodejce, ke kterého chcete přiřadit nové zákazníky, a pak vyberte **Přidat nového zákazníka.** Všimněte si, že nepřímý prodejce už je pro vás vybraný ve formuláři podrobností o zákazníkovi. Zadejte podrobnosti o zákazníkovi a pak vyberte **Další: Předplatná.**
 
-3. Na stránce **Nový odběr** vyberte předplatné, které chce zákazník koupit, a pak zadejte počet licencí, které zákazník potřebuje.
+3. Na **stránce Nové předplatné** vyberte předplatná, která chce zákazník koupit, a pak zadejte počet licencí, které zákazník potřebuje.
 
 4. Vyberte **Další: Kontrola**.
 
-5. Pokud je pořadí správné, vyberte **Odeslat**. Pokud je pořadí nesprávné, vyberte **Zrušit** a zrušte celou operaci a začněte znovu.
+5. Pokud je objednávka správná, vyberte **Odeslat.** Pokud je objednávka nesprávná, **výběrem možnosti Zrušit** celou operaci zrušte a začněte znovu.
 
-6. Po odeslání objednávky se zobrazí stránka **potvrzení** . V části **informace o nastavení** se zobrazí název uživatelského účtu správce a dočasné heslo. Zkopírujte informace o názvu a heslu uživatelského účtu, abyste ho mohli poslat novému zákazníkovi.
+6. Po odeslání objednávky se zobrazí **stránka Potvrzení.** V **části Informace o** nastavení se zobrazí název uživatelského účtu správce a dočasné heslo. Zkopírujte si název uživatelského účtu a informace o hesle, abyste je mohli poslat novému zákazníkovi.
 
     > [!IMPORTANT]  
-    > Nezapomeňte si poznamenat název a heslo uživatelského účtu, protože po zavření této stránky nebudete moct znovu získat přístup k těmto informacím.
+    > Nezapomeňte si poznamenat název a heslo uživatelského účtu, protože po zavření této stránky už k temě informacím nemáte přístup.
 
-7. Vyberte **Hotovo**. Nový zákazník se zobrazí v seznamu zákazníků, který je přidružený k nepřímému prodejci. Prodejce má teď přístup správce k informacím o účtu zákazníka a předplatným a může spravovat předplatná jménem zákazníka.
+7. Vyberte **Hotovo**. Nový zákazník se zobrazí v seznamu zákazníků přidruženém k nepřímému prodejci. Prodejce teď má přístup správce k informacím a předplatným účtu zákazníka a může spravovat předplatná jménem zákazníka.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Přidání nových předplatných do zákaznických účtů
 
-Když si zákazníci chtějí koupit nové předplatné, upgradovat existující nebo koupit další licence, provedete tyto změny v účtu zákazníka prostřednictvím portálu Microsoft 365. Nemůžete to provést v Azure Portal.
+Pokud zákazníci chtějí koupit nová předplatná, upgradovat stávající nebo koupit další licence, provedete tyto změny v účtu zákazníka prostřednictvím portálu Microsoft 365 Portal. Nemůžete to udělat v Azure Portal.
 
-1. V nabídce **partnerského centra** vyberte **zákazníci** .
+1. V **nabídce** služby **Partnerské centrum** zákazníci.
 
-2. Vyhledejte zákazníka, jehož účet chcete změnit. Seznam můžete filtrovat podle nepřímého prodejce, abyste mohli zúžit vaše volby. Rozbalte záznam zákazníka tak, že vyberete šipku dolů a pak vyberete **Přidat předplatné**.
+2. Najděte zákazníka, jehož účet chcete změnit. Seznam můžete filtrovat podle nepřímého prodejce a zúžit tak vaše volby. Rozbalte záznam zákazníka tak, že vyberete šipku dolů a pak vyberete **Přidat předplatné.**
 
-3. Na stránce **Nový odběr** vyberte odběry a zadejte počet licencí, které si zákazník chce koupit.
+3. Na **stránce Nové předplatné** vyberte předplatná a zadejte počet licencí, které chce zákazník koupit.
 
-4. Chcete-li přidružit předplatné k prodejci, vyberte ze seznamu název prodejce a pak vyberte **Odeslat**. Přidružení prodejce k předplatnému umožňuje získat pobídky, pokud jsou k dispozici.
+4. Pokud chcete předplatné přidružit k prodejci, vyberte ze seznamu jméno prodejce a pak vyberte **Odeslat.** Přidružení prodejce k předplatnému umožňuje získat pobídky, pokud je to možné.
 
-5. Nové odběry se zobrazí v seznamu předplatných zákazníka.
+5. Nová předplatná se zobrazí v seznamu předplatných zákazníka.
 
-6. Pokud chcete, aby prodejci zpracovávala žádosti o zákaznickou podporu pro nové předplatné, vyberte předplatné a pak vyberte prodejce ze seznamu **vyhrazených kontaktů podpory** . 
+6. Pokud chcete, aby prodejce pro nové předplatné zvládl žádosti o **zákaznickou podporu,** vyberte předplatné a pak v seznamu Určený kontakt pro podporu vyberte prodejce. 
 
-7. Po dokončení vyberte **Odeslat** .
+7. Po **dokončení vyberte** Odeslat.
 
 ## <a name="next-steps"></a>Další kroky
 
-Najděte odpovědi na své otázky týkající se smlouvy Microsoft Partner Agreement.
+Vyhledejte odpovědi na své dotazy týkající se Smlouva s partnerem Microsoftu
 
-- [Jak nepřímá poskytovatelé můžou svým prodejcům přizpůsobovat smlouvu s partnerem Microsoftu – Nejčastější dotazy](mpa-indirect-provider-faq.md)
+- [Jak můžou nepřímí poskytovatelé pomoci svým prodejcům přijmout Smlouva s partnerem Microsoftu – nejčastější dotazy](mpa-indirect-provider-faq.md)
 
-Další informace o správě účtů a předplatných zákazníka najdete v těchto tématech:
+Další informace o správě zákaznických účtů a předplatných najdete v těchto tématu:
 
-- [Zákaznická předplatná](customer-subscriptions.md)
+- [Předplatná zákazníků](customer-subscriptions.md)

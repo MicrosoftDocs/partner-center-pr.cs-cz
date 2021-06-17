@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148988"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276929"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Vyhledání počtu klientů a úrovně poplatků pro smlouvu
 
@@ -65,13 +65,13 @@ Po vyhledání čísla smlouvy v explore.ms pomocí výše uvedeného postupu vy
 
 2. Na stránce **Souhrn platby partnera** vyberte měsíc vykazování, který chcete zobrazit, a potom v rozevíracím seznamu **exportovat do aplikace Excel** vyberte možnost **Podrobnosti o výpočtech** :
 
-:::image type="content" source="images/chip/chiplocate.png" alt-text="Vyhledat podrobnosti o programu":::
+:::image type="content" source="images/chip/chiplocate.png" alt-text="Vyhledejte podrobnosti o programu.":::
 
 3. Export se spustí a můžete ho buď otevřít, nebo Uložit nebo Uložit jako do cílového umístění.
 
 4. Když je sestava otevřená, přejděte vlevo dolů na kartu **DetailReport-Flatfile** :
 
-:::image type="content" source="images/chip/flatfile.png" alt-text="Stažení plochého souboru":::
+:::image type="content" source="images/chip/flatfile.png" alt-text="Plochý soubor se stahuje.":::
 
 Nyní můžete vyhledat číslo smlouvy, které hledáte ve sloupci J. a získáte přiřazený počet klientů ve sloupci R, označený Agreement_DesktopCount. Úroveň poplatku pro tuto smlouvu můžete také potvrdit ve sloupci AI s popiskem úrovně.
 

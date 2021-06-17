@@ -1,136 +1,136 @@
 ---
-title: Práce s nepřímými zprostředkovateli v programu CSP
+title: Práce s nepřímými poskytovateli v programu CSP
 ms.topic: how-to
 ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si, jak můžou nepřímý prodejci spolupracovat s nepřímými poskytovateli Microsoftu (nebo distributory) a získat pomoc s zákaznickou podporou a fakturací.
+description: Zjistěte, jak můžou nepřímí prodejci spolupracovat s nepřímými poskytovateli Microsoftu (nebo distributory) a získat tak pomoc se zákaznickou podporou a fakturací.
 ms.prod: ''
 ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 2c869b35e85215c4f49e0494dddf316be6716638
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880782"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276803"
 ---
-# <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Naučte se, jak v programu Cloud Solution Provider spolupracuje s nepřímými poskytovateli.
+# <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Zjistěte, jak v programu Cloud Solution Provider partnery s nepřímými poskytovateli.
 
-**Příslušné role**
+**Odpovídající role**
 
 - Globální správce
 
-Rychle rostoucí poptávka pro cloudová řešení a služby nabízí spoustu příležitostí pro partnery Microsoftu všech velikostí, aby mohli sestavovat ziskové cloudy obchodních řešení. Partneři, kteří jsou připravení na uvedení na trh, ale kteří nechtějí spravovat více dodavatelů nebo kteří nemají na začátku koncovou infrastrukturu pro správu vztahů se zákazníky, mohou registrovat v programu Microsoft Cloud Solution Provider (CSP) jako nepřímý prodejce.
+Rychle rostoucí poptávka po cloudových řešeních a službách poskytuje partnerům Microsoftu všech velikostí mnoho příležitostí k vytvoření ziskových firem cloudových řešení. Partneři, kteří jsou připravení vstoupit na trh, ale nechcete spravovat více dodavatelů nebo kteří nemusí mít připravenou infrastrukturu pro správu vztahů se zákazníky, se mohou zaregistrovat do programu microsoftu Cloud Solution Provider (CSP) jako nepřímí prodejci.
 
-Jako nepřímý prodejce v CSP pracujete s nepřímými poskytovateli (označují se také jako distributoři), kteří mají přímý vztah s Microsoftem a můžou vám poskytnout zákaznickou podporu a fakturaci. Práce s nepřímými poskytovateli znamená, že nemusíte začít sami. Místo toho můžete spolupracovat s zkušeným poskytovatelem technologie, abyste mohli zajistit úspěch. V modelu zprostředkovatele-prodejce (se dvěma vrstvami) kupuje poskytovatel cloudových řešení a služeb od Microsoftu. Pak je budete prodávat zákazníkům.
+Jako nepřímý prodejce v CSP pracujete s nepřímými poskytovateli (označovaní také jako distributory), kteří mají přímý vztah s Microsoftem a mohou vám poskytnout zákaznickou podporu a fakturaci. Práce s nepřímými poskytovateli znamená, že nemusíte začínáte s vlastními poskytovateli. Místo toho můžete spolupracovat s zkušeným poskytovatelem technologií, který vám pomůže zajistit úspěch. V modelu prodejce poskytovatelů (dvouvrstvých) si poskytovatel koupí cloudová řešení a služby od Microsoftu. Pak je prodáte zákazníkům.
 
-Různí nepřímá zprostředkovatelé nabízejí různé podpory a služby. Vyhodnoťte poskytovatele ve vaší oblasti a určete, která z nich nejlépe vyhovuje vašim potřebám. Obecně platí, že většina zprostředkovatelů bude:
+Different indirect providers offer various support and services. Vyhodnoťte poskytovatele ve vaší oblasti a určete, kteří z nich nejlépe splňují vaše potřeby. Většina poskytovatelů obecně:
 
-- Poskytování technického školení a pomoci
-- Vaše produkty a služby vám pomůžou uvádět na trh.
-- Pomoc s vytvořením finančních a úvěrových podmínek
+- Zajištění technického školení a pomoci
+- Pomoc s prodát produkty a službami
+- Pomoc s vytvořením podmínek kreditu a kreditu
 
-Pokud ještě nepracujete se zprostředkovatelem (označuje se také jako distributor), můžete si ho vyhledat [v seznamu oficiálních poskytovatelů Microsoftu](https://partnercenter.microsoft.com/partner/find-a-provider) .
+Pokud ještě nepracujete s poskytovatelem (označuje se také jako distributor), můžete ho vyhledat v seznamu oficiálních poskytovatelů [Microsoftu.](https://partnercenter.microsoft.com/partner/find-a-provider)
 
-Další informace o tom, co je potřeba k prodeji v programu CSP jako nepřímý prodejce, najdete v tématu [Začínáme jako nepřímý](https://partner.microsoft.com/cloud-solution-provider/whats-required) prodejce na [webu Microsoft Partner Network](https://partner.microsoft.com/).
+Další informace o tom, co je potřeba k prodeji v [](https://partner.microsoft.com/cloud-solution-provider/whats-required) programu CSP jako nepřímý prodejce, najdete v tématu Začínáme jako nepřímý prodejce na Microsoft Partner Network [webu.](https://partner.microsoft.com/)
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Registrace do programu Cloud Solution Provider jako nepřímý prodejce
 
 > [!NOTE]  
-> Pokud jste už zaregistrovali v CSP, možná budete muset zadat jenom kontaktní informace zákaznické podpory, abyste mohli vytvořit účet prodejce v partnerském centru.
+> Pokud už jste v CSP zaregistrovaní, možná budete muset poskytnout jenom kontaktní informace zákaznické podpory, abyste vytvořili účet prodejce na Partnerské centrum.
 
 ### <a name="before-you-begin"></a>Než začnete
 
-Od října 2020 budou všichni partneři Microsoftu, kteří se od tohoto poskytovatele noví noví, zaregistrovaní v programu CSP jako nepřímý prodejce. Pak je potřeba vytvořit účet v partnerském centru. K tomu zadáte během procesu registrace následující informace. Než začnete, může trvat několik minut, než se shromáždí tyto položky:
+Od října 2020 se všichni partneři Microsoftu, kteří s CSP ne, zaregistrují v programu CSP jako nepřímý prodejce. Pak je potřeba vytvořit účet v Partnerské centrum. V průběhu procesu registrace zadáte následující informace. Než začnete, může trvat několik minut, než tyto položky shromáždíte:
 
-- **Přihlašovací údaje globálního správce pro váš pracovní účet**
+- **Globální správce přihlašovací údaje pro váš pracovní účet**
 
-   Budete muset zadat uživatelské jméno a heslo, které používáte k přihlášení k Office 365, Microsoft Azure nebo Microsoft Dynamics CRM. Pokud nemáte pracovní účet, můžete ho vytvořit během procesu registrace. Pokud si nejste jisti, jestli už máte pracovní účet, přečtěte si téma [pracovní účty a partnerské Centrum](azure-active-directory-tenants-and-partner-center.md).
+   Budete muset zadat uživatelské jméno a heslo, které používáte pro přihlášení k Office 365, Microsoft Azure nebo Microsoft Dynamics CRM. Pokud nemáte pracovní účet, můžete si ho vytvořit během procesu registrace. Pokud ještě nevíte, jestli už máte pracovní účet, podívejte se na pracovní účty a [na Partnerské centrum](azure-active-directory-tenants-and-partner-center.md).
 
-- **Uživatelské jméno a heslo, které používáte k přihlášení k webu partnerského centra členství**
+- **Uživatelské jméno a heslo, které používáte pro přihlášení k webu Partner Membership Center**
 
-   Tyto informace používáme k propojení ID Microsoft Partner Network vaší společnosti (MPN ID) s vaším novým účtem partnerského centra. Pak můžete spravovat výhody a data členství v partnerském centru.
+   Tyto informace použijeme k propojení ID id Microsoft Partner Network (MPN) vaší společnosti s novým Partnerské centrum účtem. Potom můžete spravovat výhody a data členství v Partnerské centrum.
 
-- **Oficiální obchodní název, adresa, primární kontakt a podrobnosti podpory vaší společnosti**
+- **Oficiální obchodní název, adresa, primární kontakt a podrobnosti o podpoře vaší společnosti**
 
-   Tyto informace potřebujeme, abychom ověřili, že vaše společnost má vytvořen profil s Microsoftem a že máte oprávnění k jednání jménem.
+   Tyto informace potřebujeme k potvrzení, že vaše společnost má u Microsoftu zavedený profil a že máte oprávnění jednat jejím jménem.
 
-   Kontrola a ověření informací, které jste poskytli, může trvat několik dní. Po dokončení naší recenze pošleme primární kontakt e-mailem.
+   Kontrola a ověření informací, které jste nám poskytli, může trvat několik dnů. Jakmile dokončíme naši recenzi, pošleme e-mail vašemu primárnímu kontaktu.
 
 ### <a name="get-started"></a>Začínáme
 
-1. Pokud chcete zahájit proces registrace, klikněte na [**uvítací stránku**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) , která se zaregistruje.
+1. Pokud chcete proces registrace zapnout, přejděte na [**úvodní stránku a**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) zaregistrujte se.
 
-2. Zkontrolujte **úvodní stránku** a ujistěte se, že máte informace, které potřebujete k registraci, a pak vyberte **Další**.
+2. Zkontrolujte úvodní **stránku a** ujistěte se, že máte informace potřebné k registraci, a pak vyberte **Další.**
 
-3. Přihlaste se pomocí svého pracovního účtu – uživatelské jméno a heslo, které používáte k přihlášení jako globální správce pro Office 365, Microsoft Azure nebo Microsoft Dynamics CRM. Pokud nemáte pracovní účet, vyberte **vytvořit** a nastavte si ho hned teď. Po vytvoření pracovního účtu se přihlaste pomocí přihlašovacích údajů globálního správce nového účtu.
+3. Přihlaste se pomocí svého pracovního účtu – uživatelské jméno a heslo, které používáte k přihlášení jako globální správce pro Office 365, Microsoft Azure nebo Microsoft Dynamics CRM. Pokud nemáte pracovní účet, vyberte Vytvořit a **nastavte** si ho hned. Po vytvoření pracovního účtu se přihlaste pomocí přihlašovacích údajů globálního správce nového účtu.
   
 
-4. Poskytněte nebo aktualizujte oficiální obchodní profil vaší společnosti, informace o primárních kontaktech a zákaznickou podporu. (Pokud chcete zjistit své právní informace, vyberte **Profil organizace** a pak vyberte **právní informace**.) Vyberte možnost **zaregistrovat nyní**.
+4. Zadejte nebo aktualizujte oficiální obchodní profil vaší společnosti, primární kontaktní informace a informace zákaznické podpory. (Pokud chcete vyhledat právní obchodní informace, vyberte **Profil organizace** a pak vyberte **Právní informace**.) Vyberte **Zaregistrovat.**
 
-   Primární kontakt je osoba ve vaší společnosti, kterou můžeme kontaktovat o vaší aplikaci. Může to být vy nebo jiný uživatel ve vaší společnosti. Poznámka: nepřijímáme e-mailové adresy z webových e-mailových služeb, jako je Gmail, Yahoo! Pošta, iCloud pošta, AOL mail nebo Outlook Mail.
+   Primárním kontaktem je osoba ve vaší společnosti, kterou můžeme kontaktovat ohledně vaší aplikace. Může to být vy nebo jiná osoba ve vaší společnosti. Poznámka: Nepřijímáme e-mailové adresy z webových e-mailových služeb, jako je Gmail nebo Yahoo! Mail, iCloud Mail, AOL Mail nebo Outlook Mail.
 
    > [!IMPORTANT]  
-   > Abychom vám pomohli zajistit zabezpečení a ochranu osobních údajů vaší společnosti, pošleme primární kontakt e-mailem, abyste ověřili, že (1) nebo se zaregistroval účet partnerského centra, a (2) Tato e-mailová adresa patří vaší společnosti. Jakmile primární kontakt ověří svou e-mailovou adresu, budeme pokračovat v naší kontrole informací, které jste zadali. Pošleme e-mailem aktualizace stavu registrace primárnímu kontaktu.
+   > Kvůli zajištění zabezpečení a ochrany osobních údajů vaší společnosti pošleme e-mail vašemu primárnímu kontaktu, abyste ověřili, že (1) si zaregistroval účet Partnerské centrum a (2) že tato e-mailová adresa patří vaší společnosti. Jakmile primární kontakt ověří jeho e-mailovou adresu, budeme pokračovat v naší recenzi informací, které jste poskytli. Primárnímu kontaktu pošleme e-mailem aktualizace stavu registrace.
 
-5. Přidružte své ID MPN k vašemu účtu CSP. Váš účet CSP a přidružené ID MPN se musí nacházet ve stejné zemi a ID MPN musí být v partnerském centru.
+5. Přidružte své ID MPN k účtu CSP. Váš účet CSP a přidružené ID MPN musí být umístěné ve stejné zemi a vaše ID MPN musí být ve stejné Partnerské centrum.
   
 
-   a. Přihlaste se do partnerského centra s přihlašovacími údaji účtu MPN (vaše přihlašovací údaje programu MPN se můžou lišit od vašich přihlašovacích údajů CSP).
+   a. Přihlaste se Partnerské centrum pomocí přihlašovacích údajů účtu MPN (vaše přihlašovací údaje MPN se mohou lišit od vašich přihlašovacích údajů CSP).
    
-   b. Přejít na **Nastavení**  ->  **účtu nastavení**  ->  **identifikátory organizačních profilů**  ->  .
+   b. Přejděte na **Nastavení**  ->  **Nastavení účtu**  ->  **Identifikátory profilů**  ->  **organizace.**
  
-    c. Vyhledejte ID MPN s typem "umístění", které odpovídá zemi tohoto účtu CSP. 
+    c. Vyhledejte ID MPN typu Umístění, které odpovídá zemi tohoto účtu CSP. 
 
-    d. Pokud nemůžete najít umístění MPN ID, které odpovídá účtu CSP, který chcete použít, můžete přidat nové umístění, ve kterém se vytvoří nové ID MPN. Další informace a [Správa umístění](manage-locations.md).
+    d. Pokud nemůžete najít ID MPN umístění odpovídající účtu CSP, který chcete použít, můžete přidat nové umístění, které vytvoří nové ID MPN. Přečtěte si další [informace o správě umístění.](manage-locations.md)
 
-    e. Tento krok prozatím můžete odložit, ale nebudete moct podepsat smlouvu o partnerovi Microsoftu (MPA) nebo transakční program v CSP, dokud nedokončíte přidružení ID MPN k vašemu účtu CSP.
+    e. Tento krok ale můžete pro tuto dobu odložit, ale nebudete moct v CSP podepisovat Smlouva s partnerem Microsoftu (MPA) ani transakce, dokud nedokončíte přidružení ID MPN k účtu CSP.
 
  > [!IMPORTANT]  
- > Vyberte ID MPN, které je dostupné v partnerském centru, ve stejné zemi jako váš účet CSP a ujistěte se, že je vaše ID MPN v partnerském centru.
+ > Vyberte ID MPN, které je k dispozici v Partnerské centrum a ve stejné zemi jako váš účet CSP, a ujistěte se, že je vaše ID MPN Partnerské centrum.
 
-6. Jakmile Microsoft dokončí ověření registrace, které trvá 3-5 pracovních dnů, podepište na [řídicím panelu partnerského centra](https://partner.microsoft.com/pcv/dashboard/overview) na stránce s použitím přihlašovacích údajů globálního správce smlouvu s partnerem Microsoftu. Pokud chcete před podepsáním zobrazit a stáhnout **smlouvu partnera Microsoftu** , klikněte na odkaz Microsoft Partner Agreement, jak je uvedeno níže.  Pokud je váš účet zablokovaný v ověřování po dobu 5 pracovních dnů, přečtěte si [proces ověření účtu](verification-responses.md).
+6. Jakmile Microsoft dokončí ověření registrace, což trvá 3 až 5 pracovních dnů, podepište přihlašovací Smlouva s partnerem Microsoftu v přehledu Partnerské centrum [pomocí](https://partner.microsoft.com/pcv/dashboard/overview) přihlašovacích údajů globálního správce. Pokud chcete zobrazit a stáhnout **Smlouva s partnerem Microsoftu** před podepsáním, klikněte na odkaz Smlouva s partnerem Microsoftu, jak je znázorněno níže.  Pokud se váš účet po 5 pracovních dnech zasekl v ověřování, přečtěte si [postup ověření účtu.](verification-responses.md)
 
 
-:::image type="content" source="images/agreement-three.png" alt-text="Nové umístění smlouvy o aktivaci":::
+:::image type="content" source="images/agreement-three.png" alt-text="Nové umístění smlouvy MPA.":::
 
  
-7. Potvrďte, že jste si zaregistrovali smlouvu s partnerem Microsoftu v části **informace o programu** v profilu partnera. Na stránce Přehled CSP se zobrazí také oznámení potvrzující hlavičku. 
+7. Ověřte, že jste přihlášení Smlouva s partnerem Microsoftu v **části Informace o programu** v profilu partnera. Na stránce přehledu CSP se také zobrazí oznámení s potvrzovacím nápisem. 
 
-:::image type="content" source="images/mpagreen.png" alt-text="Hlavička zeleného přijetí":::
+:::image type="content" source="images/mpagreen.png" alt-text="Zelený banner s přijetím":::
 
 
-8. Až bude váš účet partnerského centra připravený k použití, ověřte, že jste byli přidáni do skupiny agentů pro správu. Abyste mohli dokončit nastavování vašeho účtu, včetně přidávání dalších uživatelů, musíte mít oprávnění agenta správce. Pomocí těchto kroků můžete zobrazit nebo aktualizovat vaše oprávnění:
+8. Až bude Partnerské centrum účet připravený k použití, ověřte, že jste byli přidáni do skupiny agentů pro správu. K dokončení nastavení účtu, včetně přidání dalších uživatelů, musíte mít oprávnění agenta pro správu. Pokud chcete zobrazit nebo aktualizovat oprávnění, postupujte následovně:
 
-   1. Na řídicím panelu partnerského centra vyberte ikonu **Nastavení** a potom v části **Nastavení účtu** vyberte **Správa uživatelů**.
+   1. Na řídicím Partnerské centrum vyberte ikonu **Nastavení** a pak v části Nastavení **účtu** vyberte **Správa uživatelů.**
 
-   2. Ze seznamu uživatelů vyberte své jméno. Vyberte možnost **Agent správce** , pokud ještě není vybraný. Vyberte **Aktualizovat**.
+   2. V seznamu uživatelů vyberte své jméno. Pak vyberte **agenta pro** správu, pokud ještě není vybraný. Vyberte **Aktualizovat**.
 
 ## <a name="connect-with-an-indirect-provider"></a>Spojení s nepřímým poskytovatelem
 
-Spolupráce s nepřímým poskytovatelem vám umožní nabízet vašim zákazníkům širší výběr cloudových služeb a řešení Microsoftu. Nepřímí poskytovatelé mají systémy a infrastrukturu, které nabízejí robustní úroveň fakturace a podpory. Spoléhá se na ně tímto způsobem vám umožní soustředit se na vaše technologická řešení a na zapojení zákazníků.
+Spolupráce s nepřímým poskytovatelem vám umožní nabízet vašim zákazníkům širší výběr cloudových služeb a řešení Microsoftu. Nepřímí poskytovatelé mají systémy a infrastrukturu, které nabízejí robustní úroveň fakturace a podpory. Když se na ně budete tímto způsobem spoléhat, můžete se zaměřit na technologická řešení a zapojení zákazníků.
 
-Pokud ještě nepracujete se zprostředkovatelem (označuje se také jako distributor), můžete si ho vyhledat [v seznamu oficiálních poskytovatelů Microsoftu](https://partnercenter.microsoft.com/partner/find-a-provider) . Když najdete poskytovatele, se kterým chcete být spolupracovníka, obraťte se na ně přímo a prodiskutujte své programy pro prodejce, úroveň podpory a podmínek. Pokud vy i poskytovatel chcete společně spolupracovat, budete muset připojit své účty v partnerském centru.
+Pokud ještě nepracujete s poskytovatelem (označuje se také jako distributor), můžete ho vyhledat v seznamu oficiálních poskytovatelů [Microsoftu.](https://partnercenter.microsoft.com/partner/find-a-provider) Když najdete poskytovatele, se kterého chcete spojit, kontaktujte ho přímo a proberte programy pro prodejce, úroveň podpory a podmínky. Pokud vy i poskytovatel chcete spolupracovat, budete muset své účty připojit na webu Partnerské centrum.
 
-Pokud se chce nepřímý poskytovatel spojit s vámi v partnerském centru, zahájí následující pracovní postup:
+Pokud se nepřímý poskytovatel chce s Partnerské centrum připojit, zaknou následující pracovní postup:
 
-1. Nepřímý poskytovatel pošle e-mailem pozvánku k autorizaci svého nepřímého poskytovatele. E-mail obsahuje odkaz na partnerského centra a přidruží účet k účtu poskytovatele.
+1. Nepřímý poskytovatel vám e-mailem e-mailem pozvánku autorizuje, aby byl vaším nepřímým poskytovatelem. E-mail obsahuje odkaz na Partnerské centrum a přidruží váš účet k účtu poskytovatele.
 
-2. Pokud chcete pozvánku přijmout, použijte odkaz v e-mailu poskytovatele. Možná se budete muset znovu přihlásit k partnerskému centru.
+2. Pokud chcete pozvánku přijmout, použijte odkaz v e-mailu poskytovatele. Možná se budete muset znovu přihlásit k Partnerské centrum.
 
-3. Pokud chcete potvrdit partnerství se zprostředkovatelem, zaškrtněte políčko a potom vyberte **autorizovat nepřímý poskytovatel**. Poskytovatel je teď uvedený na stránce **nepřímých zprostředkovatelů** a vaše společnost je teď uvedená na stránce **nepřímé prodejce** tohoto poskytovatele.
+3. Pokud chcete partnerství s poskytovatelem potvrdit, zaškrtněte políčko a pak vyberte **Autorizovat nepřímého poskytovatele**. Poskytovatel je teď uvedený na stránce **nepřímých** poskytovatelů a vaše společnost je teď uvedená na stránce nepřímých **prodejců** poskytovatele.
 
    > [!NOTE]  
-   > Když vytvoříte partnerství s nepřímým poskytovatelem, autorizujete jim odeslání objednávek a přidávání předplatných jménem vašich zákazníků a udělíte jim oprávnění správce k pracovnímu účtu vaší společnosti. Po vytvoření partnerství s poskytovatelem můžete odebrat přístup správce poskytovatele k vašemu pracovnímu účtu na portálu Office 365.
+   > Při navázání partnerství s nepřímým poskytovatelem je autorizujete k odesílání objednávek a přidávání předplatných jménem vašich zákazníků a vy jim udělíte přístup správce k pracovnímu účtu vaší společnosti. Po nabytého partnerství s poskytovatelem můžete odebrat přístup správce poskytovatele k pracovnímu účtu na portálu služeb Office 365.
 
-4. Výběrem **nepřímých zprostředkovatelů** z nabídky **partnerského centra** zobrazíte seznam zprostředkovatelů, se kterými máte partnerství.
+4. V **nabídce služby** **Partnerské centrum** vyberte Nepřímí poskytovatelé. Zobrazí se seznam poskytovatelů, se Partnerské centrum se svými partnery.
 
-5. Vyberte možnost **Zobrazit zákazníky** , chcete-li zobrazit seznam zákazníků a sdílené složky poskytovatele.
+5. Vyberte **Zobrazit zákazníky** a zobrazte seznam zákazníků, které sdílíte s poskytovatelem.
 
-6. Vyberte **pozvat nové zákazníky** , pokud chcete požádat o nového zákazníka, aby schvalovali vztahy prodejců s vámi i vaším nepřímým poskytovatelem ve stejnou dobu. Ujistěte se, že máte e-mailovou adresu zákazníka, abyste na ně mohli pozvánku poslat e-mailem.  
+6. Vyberte **Pozvat nové zákazníky** a požádejte nového zákazníka, aby současně autorizuje vztahy prodejce s vaším i nepřímým poskytovatelem. Ujistěte se, že máte e-mailovou adresu zákazníka, abyste na ně mohli pozvánku poslat e-mailem.  
 
    > [!IMPORTANT]  
    > Váš nepřímý poskytovatel musí mít ve svých zákaznících svůj vztah prodejce, aby mohli odesílat objednávky jménem.

@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 24eba2969552b0403de9828e86d4fc73abfec585
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854957"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276259"
 ---
-# <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Kupte si plán Azure pro zákazníky& získat přístup k nejnovějším službám Azure podle tarifů s platbou za předplatné.
+# <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Nákup plánu Azure pro zákazníky& získat přístup k nejnovějším službám Azure podle tarifů s platbou za předplatné
 
 **Odpovídající role:** Globální správce | Správce správy uživatelů | Agent prodeje
 
@@ -33,7 +33,7 @@ Způsob nákupu plánu Azure se podobá nákupu jakéhokoli jiného předplatné
 1. Vyberte **Segment Commercial (Segmentovat** komerční) a zadejte **Microsoft Azure** 
 2. V části Plán Azure vyberte **Přidat do košíku.**
 
-:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Koupit":::
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Nákupní.":::
 
 Partner musí potvrdit, že zákazník tyto podmínky Smlouva se zákazníkem Microsoftu přijal. Další informace o tom, jak to partner může udělat, najdete v tématu Potvrzení [souhlasu zákazníka s Smlouva se zákazníkem Microsoftu](confirm-customer-agreement.md). Další prostředky jsou k dispozici v [galerii prostředků](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
@@ -43,34 +43,34 @@ Partner musí potvrdit, že zákazník tyto podmínky Smlouva se zákazníkem Mi
 
 2. Požádejte zákazníka, aby podepis Smlouva se zákazníkem Microsoftu přímo s Microsoftem. 
 
-### <a name="to-confirm"></a>Pro potvrzení 
+### <a name="to-confirm"></a>Potvrzení 
 
-1. Na stránce **účet** zákazníka vyberte **aktualizovat** vedle **smlouvy Microsoft Customer Agreement** .  
+1. Na stránce **Účtu** zákazníka vyberte Aktualizovat **vedle** **Smlouva se zákazníkem Microsoftu**  
 
-2. Vyplňte informace o jednotlivci společnosti zákazníka, který MCuA přijal.
+2. Vyplňte informace o jednotlivce ve společnosti zákazníka, která přijala MCuA.
 
 3. Vyberte **Uložit a pokračovat.**  
 
 ## <a name="review-and-buy"></a>Kontrola a nákup
 
-Vrátíte se na stránku **Přidat produkt** , kde vidíte, že byl přidán plán Azure. Vyberte **zkontrolovat** a zkontrolujte svůj nákup a pak vyberte **koupit**. 
+Vrátíte se na **stránku Přidat produkt,** kde uvidíte, že se přidal plán Azure. Vyberte **Zkontrolovat,** zkontrolujte svůj nákup a pak vyberte **Koupit.** 
 
 >[!Note]
->Po zakoupení plánu Azure pro zákazníka už nemůžete pro tohoto zákazníky koupit Microsoft Azure (0145p). V rámci plánu Azure budete muset vytvořit budoucí předplatná.
+>Po zakoupení plánu Azure pro zákazníka už pro tohoto zákazníka Microsoft Azure (0145p). Budoucí předplatná budete muset vytvořit prostřednictvím plánu Azure.
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Nákup rezervací Azure v rámci plánu Azure 
   
-V rámci plánu Azure si taky můžete koupit Microsoft Azure rezervace jménem svých zákazníků v partnerském centru. (Nebo, pokud chcete, můžete [svým zákazníkům udělit oprávnění k nákupu svých vlastních rezervací Azure](give-customers-permission.md) z předchozího předplatného, které pro ně jste si zakoupili.)
+Rezervace můžete také Microsoft Azure v rámci plánu Azure jménem vašich zákazníků v Partnerské centrum. (Nebo, pokud chcete, můžete svým zákazníkům udělit oprávnění k nákupu vlastních rezervací [Azure](give-customers-permission.md) z předchozího předplatného, které jste pro ně zakoupili.)
 
-1. V nabídce partnerského centra na [řídicím panelu](https://partner.microsoft.com/dashboard/)vyberte **zákazníci**. Najděte zákazníka, který chce koupit rezervace Azure, a potom výběrem šipky dolů rozbalte řádek zákazníka.
+1. V nabídce Partnerské centrum na [řídicím panelu](https://partner.microsoft.com/dashboard/)vyberte **Zákazníci.** Vyhledejte zákazníka, který chce zakoupit rezervace Azure, a pak výběrem šipky dolů rozbalte řádek zákazníka.
 
-2. Vyberte **Přidat produkty** a potom vyberte **Azure**. 
+2. Vyberte **Přidat produkty a** pak vyberte **Azure**. 
 
-   - Vyberte segment trhu zákazníka ze seznamu **segmentů** .
-   - V seznamu **typ produktu** vyberte možnost **rezervace** .
-   - Vyberte typ rezervace, kterou zákazník požaduje ze seznamu **typ rezervací** .
+   - Ze seznamu Segment zvolte segment **trhu** zákazníka.
+   - V **seznamu Typ** produktu **zvolte** Rezervace.
+   - V seznamu Typ rezervace zvolte typ rezervace, který zákazník **chce.**
 
-Rezervace Azure musí být přidružené k aktivnímu plánu Azure. V seznamu předplatných zákazníků vyberte plán Azure, ze kterého chcete přidat rezervace Azure. 
+Rezervace Azure musí být přidružené k aktivnímu plánu Azure. V seznamu Předplatné zákazníka zvolte plán Azure, do kterého chcete přidat rezervace Azure. 
 
 >[!Important] 
 >Pokud zákazník ještě nemá aktivní plán Azure, vyberte Azure a přidejte ho teď. Další pokyny najdete v [tématu Nákup rezervací Azure.](azure-reservations-buying.md#purchase-azure-reservations)
@@ -78,7 +78,7 @@ Rezervace Azure musí být přidružené k aktivnímu plánu Azure. V seznamu p�
 >[!Note]
 >Rozsah rezervace je možné nastavit pouze na hodnotu **Shared (Sdílené),** aktuálně Partnerské centrum. Pokud chcete vybrat rozsah jednoho předplatného nebo aktualizovat rozsah ze sdíleného předplatného na jedno předplatné, **Microsoft Azure podle** následujících pokynů. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Nastavení rezervace se sdíleným rozsahem":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Nastavení rezervace se sdíleným rozsahem.":::
 
 Pokud chcete spravovat rezervaci zákazníka v Azure Portal: 
 
@@ -88,14 +88,14 @@ Pokud chcete spravovat rezervaci zákazníka v Azure Portal:
  
 ## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Zobrazení předplatných Azure v rámci plánu Azure
 
-Na stránce **Předplatná** v části Na základě využití rozbalte plán **Azure** a zobrazte přidružená předplatná Azure v rámci plánu Azure.
+Na stránce **Předplatná** v části Založené na využití rozbalte plán **Azure** a zobrazte přidružená předplatná Azure v rámci plánu Azure.
 
 :::image type="content" source="images/azure/addprods2.png" alt-text="Zobrazení seznamu předplatných Azure"::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Přidání předplatných a konfigurace prostředků
 
-Přidáte předplatná a nakonfigurujete pro zákazníka prostředky v Azure Portal. Můžete také oddělit prostředí zákazníka podle úloh nebo projektu. Předplatná je možné spravovat prostřednictvím [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) i prostřednictvím Azure Portal. 
+Přidáte předplatná a nakonfigurujete pro zákazníka prostředky v Azure Portal. Můžete také oddělit prostředí zákazníka podle úlohy nebo projektu. Předplatná je možné spravovat [prostřednictvím Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) i prostřednictvím Azure Portal. 
 
 Ke správě prostředků a předplatných zákazníka potřebujete oprávnění AOBO **(Admin on Behalf Of).** Informace o správě přístupu najdete v tématu [Správa předplatných a prostředků v rámci plánu Azure.](azure-plan-manage.md)
 

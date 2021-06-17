@@ -9,16 +9,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854549"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276276"
 ---
 # <a name="trainings-dashboard"></a>Řídicí panel Trénování
 
-**Odpovídající role:** Prohlížeč sestav executive | Prohlížeč sestav
+**Vhodné role:** Prohlížeč sestav executive | Prohlížeč sestav
 
 Řídicí panel Školení poskytuje přehled o certifikacích, hodnoceních a zkoumáních provedených vaší společností zaměstnanců společnosti. Řídicí panel Trénování obsahuje následující části:
 
@@ -34,33 +34,33 @@ ms.locfileid: "109854549"
 
 Souhrnná část představuje číselný snímek různých ukazatelů výkonu souvisejících s vašimi trénováními. Různými ukazateli výkonu jsou certifikovaní jednotlivci, certifikace, jednotlivci s přihlašovacími údaji ke zkouškám, pověření zkoušky, jednotlivci s přihlašovacími údaji pro posouzení a přihlašovací údaje pro posouzení. Data v této části se aktualizují na základě vybraného rozsahu dat, což mohou být tři měsíce (3 m), šest měsíců (6 m) a 12 měsíců (1Y) nebo vlastní rozsah dat (Vlastní). 
 
-:::image type="content" source="images/pci/td-summary.png" alt-text="Souhrn":::
+:::image type="content" source="images/pci/td-summary.png" alt-text="Shrnutí:":::
 
 - **Jednotlivci s certifikacemi:** představuje počet jedinečných jednotlivců s certifikacemi ve vaší společnosti.
 - **Počet certifikací:** představuje celkový počet certifikací pořízených jednotlivci ve vaší společnosti.
 - **Osoby s posouzeními:** představuje počet jedinečných jednotlivců s přihlašovacími údaji pro posouzení ve vaší společnosti. 
 - **Assessments count**(Počet posouzení): Představuje celkový počet posouzení pořízených jednotlivci ve vaší společnosti.
-- **Jednotlivci s testy**: představuje počet různých jednotlivců s pověřením pro kontrolu ve vaší společnosti. 
-- **Počet testů**: představuje celkový počet testů pořízených jednotlivci ve vaší společnosti.
+- **Jedinci s prohlídkami:** představuje počet jedinečných jednotlivců s přihlašovacími údaji k prověření ve vaší společnosti. 
+- **Počet zkoumání:** představuje celkový počet zkoumání provedených jednotlivci ve vaší společnosti.
 
-## <a name="training-performance"></a>Školení výkonu
+## <a name="training-performance"></a>Výkon trénování
 
-Školení přináší měsíční počet jednotlivců a školení, která splnili jednotlivci ve vaší společnosti. Je rozdělen podle certifikace, posouzení a zkoušek ve formě grafu pro vybraný rozsah dat. Osa X představuje měsíce pro vybraný rozsah dat. Osa Y představuje jedinečný počet jednotlivců a počet pořízených školení pro vybraný typ školení. Výběrem příslušných karet nad graf zobrazíte rozpis podle typu školení. Data grafu lze stáhnout pomocí ikony pro stažení ve formátu. TSV pro vybraný rozsah dat.
+Výkon školení představuje počet jednotlivců v průběhu měsíců a školení dokončená jednotlivci ve vaší společnosti. Je rozdělený podle certifikací, posouzení a zkoušek ve formě grafu pro vybraný rozsah dat. Osa X představuje měsíce pro vybraný rozsah dat. Osa Y představuje jedinečný počet jednotlivců a počet provedených školení pro vybraný typ trénování. Výběrem příslušných karet nad grafem zobrazíte rozpis podle typu trénování. Data grafu je možné stáhnout prostřednictvím ikony pro stažení ve formátu .tsv pro vybraný rozsah dat.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Školení výkonu":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Výkon trénování.":::
 
 ## <a name="individuals-performance"></a>Výkon jednotlivců
 
-V části výkon jednotlivců jsou uvedeny podrobnosti o školení jednotlivých jednotlivců ve vaší společnosti, a to pro vybraný rozsah kalendářních dat. Vyhledejte a vyberte jméno jednotlivce na levém panelu oddílu. Podrobnosti o školení pro vybranou osobu se zobrazí na pravém panelu oddílu.
+Část Výkon jednotlivců představuje podrobnosti o školení jednotlivců ve vaší společnosti pro vybraný rozsah dat. Na levém panelu oddílu vyhledejte a vyberte jméno jednotlivce. Podrobnosti trénování pro vybraného jednotlivce se zobrazí na pravém panelu oddílu.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Indiviual výkon":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Individuální výkon.":::
 
 >[!NOTE] 
-> Část výkon jednotlivců je k dispozici pouze uživatelům, kteří jsou správci sestav nástroje Executive. 
+> Část Výkon jednotlivců je dostupná jenom pro uživatele, kteří jsou diváky výkonných sestav. 
 
 ## <a name="next-steps"></a>Další kroky
 
-[Sestavy v centru pro partnery – přehled](partner-center-insights.md)
+[Sestavy v Partnerské centrum Insights](partner-center-insights.md)
 
 >[!NOTE] 
-> Nezpracovaných dat v této sestavě si můžete stáhnout z oddílu stažení sestav na řídicím panelu Insights. [Další informace](pci-download-reports.md)
+> Nezpracovaná data pohánějící tuto sestavu si můžete stáhnout z části Stažení sestav na řídicím panelu Přehledy. [Další informace](pci-download-reports.md)

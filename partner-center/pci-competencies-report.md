@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e480481304bda816afe0bf08c66fcb4b063f1f49
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152881"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277534"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Sestava kompetence k dispozici na řídicím panelu přehledů partnerského centra
 
@@ -26,32 +26,32 @@ Pokud se chcete dozvědět víc o životním cyklu kompetence, dosažené kompet
 
 ## <a name="competency-life-cycle"></a>Životní cyklus kompetence
 
-V rámci životního cyklu partneři začínají vytvořením klíčových ukazatelů výkonu (KPI), které jsou potřeba k dosažení konkrétních kompetencí. Jakmile dosáhnou prahové hodnoty nastavené pro danou kompetenci napříč všemi požadovanými metrikami, stanou se **kvalifikovány** pro kompetenci. Partneři potom můžou platit za nabídku kompetence (stříbrná nebo zlatá), aby dosáhli kompetence a v této kompetenci se staly **aktivní** . **Aktivní** stav kompetence je platný po dobu jednoho roku od data dosažení kompetence (označuje se jako **Datum výročí** kompetence). Na konci roku výročí musí partneři splňovat požadavky na kompetence. Pokud tyto požadavky znovu nesplňuje, ztratí kompetenci. Stav **Ohroženo** u dříve dosažené kompetence znamená, že některé klíčové metriky budou podle plánu klesnout pod prahovou hodnotu k datu výročí těchto **kompetencí.**
+V rámci životního cyklu partneři začínají vytvořením klíčových ukazatelů výkonu (KPI), které jsou potřeba k dosažení konkrétních kompetencí. Jakmile dosáhnou prahové hodnoty nastavené pro danou kompetenci napříč všemi požadovanými metrikami, stanou se **kvalifikovány** pro kompetenci. Partneři potom můžou platit za nabídku kompetence (stříbrná nebo zlatá), aby dosáhli kompetence a v této kompetenci se staly **aktivní** . **Aktivní** stav kompetence je platný po dobu jednoho roku od data dosažení kompetence (označuje se jako **Datum výročí** kompetence). Na konci ročního roku musí partneři splňovat požadavky kompetence. Pokud tyto požadavky znovu nesplňují, dojde ke ztrátě kompetence. Stav **rizika** u dříve dosažené kompetence znamená, že některé klíčové metriky se považují za prahovou hodnotu v tomto **datu výročí** kompetence.
 
 ## <a name="competency-attainment"></a>Dosažení kompetence
 
-Každá kompetence má konkrétní sadu požadavků, které musí být splněny. Požadavky na kompetence cloudu spadají do dvou kategorií: dovednosti a výkon.
+Každá kompetence má konkrétní sadu požadavků, které je potřeba splnit. Požadavky na kompetenci v cloudu spadají do dvou kategorií: dovednosti a výkon.
 
-- Dovednosti: Požadavky často zahrnují zkoušky, hodnocení nebo certifikace, které musí jednotlivci ve vaší společnosti projít.
+- Dovednosti: mezi požadavky často patří zkoušky, posouzení nebo certifikace, které jednotlivci ve vaší společnosti musí předat.
 
-- Výkon: Aby vaše společnost měla nárok na kompetence, musí splňovat určité prahové hodnoty výkonu, které jsou v souladu s oblastí kompetence. Vaše společnost může například potřebovat splnit minimální množství spotřeby Azure za posledních 12 měsíců.
+- Výkon: aby bylo možné mít nárok na kompetenci, musí vaše společnost splňovat určité prahové hodnoty výkonu zarovnané do oblasti kompetence. Vaše společnost může například potřebovat vyhovět minimálnímu množství spotřeby Azure za poslední 12 měsíců.
 
-## <a name="competencies-report-details"></a>Podrobnosti sestavy kompetencí
+## <a name="competencies-report-details"></a>Podrobnosti sestavy kompetence
 
-V sestavě Kompetencí se můžete podívat na následující části:
+V sestavě kompetence můžete vidět následující části:
 
 - Souhrn
-- Analýza metrik kompetencí
-- Historie kompetencí
+- Analýza metrik kompetence
+- Historie kompetence
 
  > [!NOTE]
- > Tato sestava je k dispozici na řídicím panelu Přehledy. Pokud chcete tuto sestavu zobrazit, musíte mít přiřazenou konkrétní roli v aplikaci Partnerské centrum, jako je globální správce, správce účtu, prohlížeč sestav nebo prohlížeč výkonných sestav. Další informace najdete v tématu Globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být k dispozici také pro uživatele s oprávněními Executive Report Viewer.
+ > Tato sestava je k dispozici na řídicím panelu Insights. Pokud chcete zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav v nástroji Executive. Další informace najdete v tématu globální správce vaší společnosti. konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními správce sestav nástroje Executive.
 
 ### <a name="summary"></a>Souhrn
 
-Souhrnné zobrazení obsahuje počet kompetencí s názvy na jednotlivých úrovních kompetencí (Gold/Silver) ve všech fázích životního cyklu kompetence. Fáze životního cyklu kompetence zahrnují: **Spuštěno,** **Kvalifikované,** **Aktivní** a **Ohroženo.** Příklad: Požadavky na kompetence cloudu spadají do dvou kategorií: dovednosti a výkon.
+Souhrnné zobrazení prezentuje počet kompetencí s jejich názvy na úrovni kompetence (Gold/stříbrné) ve všech fázích životního cyklu kompetence. Mezi fáze životního cyklu kompetence patří: **spuštěno**, **kvalifikované**, **aktivní** a **v ohrožení**. Příklad: požadavky na kompetenci cloudu spadají do dvou kategorií: dovednosti a výkon.
 
-- Spuštěno: Počet kompetencí, pro které máte jeden nebo více probíhajících základních požadavků.
+- Zahájeno: počet kompetencí, pro které máte jednu nebo více základních požadavků.
 Rozpis počátečních kompetencí podle úrovně kompetence (stříbrná/zlatá) s názvy kompetence.
 
 - Kvalifikované: kompetence, pro které jste splnili požadavky, ale může nebo nemusí ještě koupit přidruženou nabídku stříbrné/zlatou. Rozpis kvalifikovaných kompetencí podle úrovně kompetence (stříbrná/zlatá) s názvy kompetence.
@@ -61,7 +61,7 @@ Rozpis počátečních kompetencí podle úrovně kompetence (stříbrná/zlatá
 - Ohroženo (příští rok): počet kompetencí, které jsou aktuálně **aktivní** , ale také **rizika** nesplňující požadavky na další rok.
 Rozpis kompetencí (podle úrovně kompetence, jako je stříbrná/zlatá, s názvy kompetence), které jsou ohroženy nenárokem na příští rok.
 
-:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Souhrn kompetencí":::
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Souhrn kompetencí.":::
 
 ### <a name="competency-metric-analysis"></a>Analýza metrik kompetence
 
@@ -72,7 +72,7 @@ Sestavu můžete překlopit následujícími dvěma rozsahy dat:
 1. TTM zobrazení: vyčíslení partnerského výkonu za posledních 12 měsíců (TTM).
 2. Zobrazení ročního roku: vyčíslení partnerského výkonu od předchozího data výročí k následujícímu datu výročí.
 
-:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="Analýza metrik kompetence":::
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="Analýza metrik kompetence.":::
 
 > [!NOTE]
  > V analýze nejsou zahrnuté všechny metriky. Metriky přidružené k učení a certifikaci v současné době nejsou v sestavě kompetence podporovány. V analýze metriky pro stav **aktivní** kompetence se v současnosti nepodporují kompetence cloudových Business Applications (certifikátů).
@@ -81,11 +81,11 @@ Sestavu můžete překlopit následujícími dvěma rozsahy dat:
 
 Toto zobrazení ukazuje podrobnou tabulku všech kompetencí, které jste doposud dosáhli, s úrovní kompetence a kompetencí.
 
-:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="Historie kompetence":::
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="Historie kompetence.":::
 
 ## <a name="next-steps"></a>Další kroky
 
-- Další sestavy najdete v tématu [Partnerské centrum Insights.](partner-center-insights.md)
+- Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).
 
 >[!NOTE] 
-> Nezpracovaná data pohánějící tuto sestavu si můžete stáhnout z části Stažení sestav na řídicím panelu Přehledy. [Další informace](pci-download-reports.md) 
+> Nezpracovaných dat v této sestavě si můžete stáhnout z oddílu stažení sestav na řídicím panelu Insights. [Další informace](pci-download-reports.md) 
