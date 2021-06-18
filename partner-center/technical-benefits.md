@@ -9,16 +9,16 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276378"
+ms.locfileid: "112318091"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Prozkoumání technických služeb předprodeje a nasazení (TPD) 
 
-**Odpovídající role:** Správce partnera MPN
+**Odpovídající role:** Jakýkoli uživatelský účet MPN, pokud má organizace aktivní kompetenci nebo Microsoft Action Pack.
 
 Přečtěte si o výhodách Microsoft Partner Network (MPN), které získáte pro technické předprodejní a nasazování služeb, včetně konzultace, předprodejní pomoci, hodin poradenství a dalších.
 
@@ -44,14 +44,14 @@ Přihlaste se pomocí libovolného uživatelského účtu přidruženého k MPN 
 
 ## <a name="delivery-scenarios"></a>Scénáře doručování
 
-- **Technické předprodejní** konzultace se používají k definování nabídky hodnot, poskytování odhadů nákladů, řízení problémů zákazníků, reagování na zasílání zpráv konkurenci, demonstraci technických řešení, potvrzení konceptů nebo plánování a návrh architektury vedoucí k prohlášení o práci.
+- **Technické předprodejní** konzultace se používají k definování nabídky hodnot, poskytování odhadů nákladů, technické licencování, řízení problémů zákazníků, reagování na zasílání zpráv konkurentů, demonstraci technických řešení, potvrzení konceptů nebo plánování a návrh architektury vedoucí k prohlášení o práci.
 
-  - *Nepodporuje se:* Plánování prodejních kanálů, ceny a ceníky
+  - *Nepodporuje se:* Plánování prodejních kanálů, diskuze o koncových zákaznících, ceny licencí a ceníky
 
 
 - **Konzultace k nasazení** se používají k plánování architektury a pokynům k návrhu, osvědčeným postupům, pokynům k nasazení, odkazům na produkty a dokumentaci.
 
-  - *Nepodporuje se:* Podpora nebo řešení potíží s opravami přerušení, služby na místě, dlouhodobé konzultace, přímé na zákaznickou podporu nebo zákaznickou podporu v produkčním prostředí. 
+  - *Nepodporuje se:* Podpora nebo řešení potíží s opravou přerušení, opravy hotfix, služby na místě, dlouhodobé konzultace (méně než 25 hodin na zapojení), přímé na zákaznickou podporu nebo zákaznickou podporu v produkčním prostředí. 
 
 
 - **Konzultace na Marketplace** slouží k publikování vašeho řešení pro průběžné generování potenciálních zájemců na komerčním marketplace Microsoftu. Pro vývojáře, konsistenční řízení ke konfiguraci služeb, architektuře nebo návrhu, migraci z místních řešení, revize kódu a pomoc s publikováním aplikací.
@@ -66,7 +66,7 @@ Pro technické předprodejní a nasazování služby jsou v rozsahu následujíc
 - **Business Applications:** Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Mimo rozsah: Výhradně místní verze Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure:** Všechna Microsoft Azure řešení a související služby, jako jsou infrastruktura jako služba, platforma jako služba, datová platforma, analýzy BI, Cognitive Services, Azure Machine Learning, Azure Stack
-- **Windows Server:** Hlavní verze podporovaného Windows Serveru (jak se řídí **[životním cyklem produktu)](/lifecycle/policies/fixed)**
+- **Windows Server a SQL Server:** V rámci hlavní fáze podpory, která se řídí **[životním cyklem produktu](/lifecycle/policies/fixed)**)
   - System Center související produkty, jako je SCCM, pokud souvisejí s cloudovými nebo hybridními scénáři
 - **Windows 10:** Windows 10 operační systém, zařízení, univerzální aplikace
 - **Produkty v privátních nebo Public Preview:** Pomoc se poskytuje s co nejlepším úsilím pro neprodukční prostředí a bez záruky dostupnosti informací nebo doby odezvy.
@@ -106,5 +106,6 @@ Pokud chcete zobrazit technické výhody v Partnerské centrum:
 6. Na potvrzovací stránce se zobrazí číslo a popis žádosti o podporu. Obdržíte také potvrzovací e-mail od Partnerské centrum s číslem případu.
 
 ## <a name="next-steps"></a>Další kroky
+[Technická podpora pro místní nebo cloudové produkty](/mpn-benefits-technical-support.md)
 
 [Správa výhod Microsoft Partner Network a nabídek](manage-your-partner-network-benefits.md)
