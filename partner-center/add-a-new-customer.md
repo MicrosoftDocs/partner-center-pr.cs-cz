@@ -1,7 +1,7 @@
 ---
 title: Postup přidání záznamu nového zákazníka
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 04/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Naučte se přidat nový záznam zákazníka v partnerském centru. Pak můžete prodávat předplatné zákazníka, spravovat fakturaci nebo poskytovat zákaznickou podporu.
@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 76e15992355eff88e3a9391ea4af327c3ad969e0
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150552"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373354"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Postup přidání záznamu nového zákazníka v partnerském centru
 

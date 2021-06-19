@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412603"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373452"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace fakturace a fakturace
 
@@ -47,6 +47,9 @@ Vaše opakované nákupy se vám budou účtovat v období, ve kterém jste ho z
 
 >[!NOTE]
 > Období služby je období, za které jste zaplatili za používání služby. Pokud nestornujete předem, automaticky se prodlouží v a období služby.
+
+> [!NOTE]
+> Pokud se datum v měsíci obnovení nerovná datu nákupního měsíce, upraví se na poslední den fakturačního měsíce. To znamená, že pokud se jeden z nich přihlásil k odběru 1/31, datum ukončení fakturace pro únor by bylo 2/27 s novým fakturačním obdobím začínajícím na 2/28 (2/28 a 2/29, pokud začíná v průběhu přestupného roku).
 
 ## <a name="invoices"></a>Faktury
 
