@@ -1,73 +1,73 @@
 ---
-title: Vytvoření a Správa privátních Azure Marketplace v Azure Portal
-description: Seznamte se s vytvářením a správou privátních Azure Marketplace (Preview) v Azure Portal. Privátní Azure Marketplace (Preview) umožňuje správcům řídit, která řešení třetích stran můžou uživatelé používat.
+title: Vytvoření a správa privátních Azure Marketplace v Azure Portal
+description: Přečtěte si o vytváření a správě privátních Azure Marketplace (Preview) v Azure Portal. Privátní Azure Marketplace (Preview) umožňuje správcům řídit, která řešení třetích stran můžou uživatelé používat.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 9da9eb4944508e815d1664fb44b13bce52f37150
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712762"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431675"
 ---
-# <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Vytvoření a Správa privátních Azure Marketplace v Azure Portal
+# <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Vytvoření a správa privátních Azure Marketplace v Azure Portal
 
-Privátní Azure Marketplace umožňuje správcům řídit, která řešení třetích stran můžou uživatelé používat. Tím umožníte uživateli nasadit jenom nabídky, které schválil správce a splní zásady vaší organizace. Pomocí privátních Azure Marketplace můžou uživatelé v online obchodu vyhledat odpovídající nabídky k nákupu a nasazení.
+Privátní Azure Marketplace umožňuje správcům řídit, která řešení třetích stran můžou uživatelé používat. Umožňuje uživateli nasadit pouze nabídky, které jsou schválené správcem a jsou v souladu se zásadami vašeho podniku. Díky privátním Azure Marketplace mohou uživatelé hledat v online obchodě vyhovující nabídky, které si kupovat a nasazovat.
 
-Jako správce Marketplace (přiřazená role) začnete s neaktivním a prázdným soukromým úložištěm, kde můžete přidat vaše schválené nabídky a plány. Tento článek vysvětluje, jak přiřadit potřebnou roli, vytvořit privátní úložiště, spravovat položky, schvalovat požadavky uživatelů a povolit pro uživatele soukromé Azure Marketplace.
+Jako správce Marketplace (přiřazená role) začnete se zakázaným a prázdným privátním úložištěm, ve kterém můžete přidat schválené nabídky a plány. Tento článek vysvětluje, jak přiřadit potřebnou roli, vytvořit privátní úložiště, spravovat položky, schvalovat žádosti uživatelů a povolit privátní Azure Marketplace pro vaše uživatele.
 
 > [!NOTE]
-> - Soukromé Azure Marketplace jsou na úrovni tenanta, takže všichni uživatelé v tenantovi uvidí stejný seznam.
-> - Všechna řešení společnosti Microsoft (včetně schválených [distribucí systému Linux](/azure/virtual-machines/linux/endorsed-distros)) jsou automaticky přidána do privátního Azure Marketplace.
+> - Privátní Azure Marketplace je na úrovni tenanta, takže všichni uživatelé v tenantovi uvidí stejný kurátorovaný seznam.
+> - Všechna řešení Microsoftu (včetně [schvalovaných linuxových](/azure/virtual-machines/linux/endorsed-distros)distribucí) se automaticky přidávají do privátních Azure Marketplace.
 
 ## <a name="assign-the-marketplace-admin-role"></a>Přiřazení role správce Marketplace
 
-Globální správce tenanta musí přiřadit roli **správce Marketplace** správci privátního Azure Marketplace, který bude spravovat soukromé úložiště.
+Správce tenanta Globální správce roli správce **Marketplace** správci privátního úložiště Azure Marketplace který bude privátní úložiště spravovat.
 
 >[!IMPORTANT]
-> Přístup ke správě privátních Azure Marketplace je k dispozici jenom správcům IT, kteří mají přiřazenou roli správce Marketplace.
+> Přístup ke správě privátních Azure Marketplace je dostupný jenom správcům IT s přiřazenou rolí správce Marketplace.
 
-### <a name="prerequisites"></a>Předpoklady
+### <a name="prerequisites"></a>Požadavky
 
-Tyto požadavky jsou nutné, aby bylo možné přiřadit roli správce webu Marketplace uživateli v oboru tenanta:
+Před přiřazením role správce Marketplace uživateli v oboru tenanta se vyžaduje splnění těchto požadavků:
 
-- Máte přístup k uživateli **globálního správce** .
-- Tenant má minimálně jedno předplatné (může to být libovolný typ).
-- Pro globálního správce se uživateli přiřadí role **Přispěvatel** nebo vyšší pro vybrané předplatné.
+- Máte přístup k **Globální správce** uživateli.
+- Tenant má alespoň jedno předplatné (může být libovolného typu).
+- Uživatel Globální správce vybranému **předplatnému** přiřazenou roli Přispěvatel nebo vyšší.
 
-### <a name="assign-the-marketplace-admin-role-with-access-control-iam"></a>Přiřazení role správce Marketplace k řízení přístupu (IAM)
+### <a name="assign-the-marketplace-admin-role-with-access-control-iam"></a>Přiřazení role správce Marketplace pomocí řízení přístupu (IAM)
 
-1. Přihlaste se na [Azure Portal](https://portal.azure.com/).
-1. Vyberte **všechny služby** a potom **Marketplace**.
-1. V nabídce na levé straně vyberte **soukromé tržiště** .
+1. Přihlaste se k webu [Azure Portal](https://portal.azure.com/).
+1. Vyberte **Všechny služby a** pak **Marketplace.**
+1. V **nabídce na** levé straně vyberte Privátní Marketplace.
 
-    [![Zobrazuje možnost nabídky privátní Marketplace na levé straně webu Marketplace.](media/private-azure/private-marketplace.png)](media/private-azure/private-marketplace-zoom.png#lightbox)
+    [![Zobrazuje možnost nabídky privátního marketplace na levé straně Marketplace.](media/private-azure/private-marketplace.png)](media/private-azure/private-marketplace-zoom.png#lightbox)
 
-1. Vyberte **řízení přístupu (IAM)** a přiřaďte roli správce webu Marketplace.
+1. Vyberte **Řízení přístupu (IAM)** a přiřaďte roli správce Marketplace.
 
-    :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="Zobrazuje obrazovku řízení přístupu I M.":::
+    :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="Zobrazuje obrazovku řízení přístupu K A M.":::
 
 1. Vyberte **+ Přidat** > **Přidat přiřazení role**.
-1. V části **role** vyberte **správce Marketplace**.
+1. V **části Role** zvolte Správce **Marketplace.**
 
-    :::image type="content" source="media/private-azure/iam-role-assignment.png" alt-text="Zobrazuje nabídku přiřazení role.":::
+    :::image type="content" source="media/private-azure/iam-role-assignment.png" alt-text="Zobrazí nabídku Přiřazení role.":::
 
-1. V rozevíracím seznamu vyberte požadovaného uživatele a potom vyberte **Hotovo**.
+1. V rozevíracím seznamu vyberte požadovaného uživatele a pak vyberte **Hotovo.**
 
-### <a name="assign-the-marketplace-admin-role-with-powershell"></a>Přiřazení role správce Marketplace k PowerShellu
+### <a name="assign-the-marketplace-admin-role-with-powershell"></a>Přiřazení role správce Marketplace pomocí PowerShellu
 
-K přiřazení role správce Marketplace použijte následující skript prostředí PowerShell; vyžaduje následující parametry:
+Pomocí následujícího skriptu PowerShellu přiřaďte roli správce Marketplace. Vyžaduje následující parametry:
 
-- **TenantId:** ID tenanta v oboru (role správce Marketplace se má přiřadit v oboru tenanta).
-- **SubscriptionId:** Předplatné, ke kterému má globální správce přiřazenou roli **Přispěvatel** nebo má vyšší přiřazení.
+- **Id tenanta:** ID tenanta v oboru (roli správce Marketplace je možné přiřadit v oboru tenanta).
+- **Id předplatného:** Předplatné, ke kterému má globální správce **přiřazenou** roli Přispěvatel nebo vyšší.
 - **GlobalAdminUsername:** Uživatelské jméno globálního správce.
-- **UsernameToAssignRoleFor:** Uživatelské jméno, ke kterému se přiřadí role správce webu Marketplace.
+- **UsernameToAssignRoleFor:** Uživatelské jméno, ke kterému bude přiřazena role správce Marketplace.
 
 > [!NOTE]
-> Pro uživatele typu Host, kteří jsou pozváni do tenanta, může trvat až 48 hodin, než bude k dispozici jejich účet pro přiřazení role správce Marketplace. Další informace najdete v tématu [vlastnosti Azure Active Directory uživatele spolupráce B2B](/azure/active-directory/b2b/user-properties).
+> Pro uživatele hosta pozvané do tenanta může trvat až 48 hodin, než bude jejich účet k dispozici pro přiřazení role správce Marketplace. Další informace najdete v tématu [Vlastnosti uživatele Azure Active Directory B2B.](/azure/active-directory/b2b/user-properties)
 
 ```PowerShell
 function Assign-MarketplaceAdminRole { 
@@ -149,194 +149,197 @@ New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $M
 Assign-MarketplaceAdminRole 
 ```
 
-Další informace o rutinách obsažených v modulu příkazového portálu AZ. Portal PowerShell najdete v tématu [Microsoft Azure PowerShell: rutiny řídicího panelu portálu](/powershell/module/az.portal/).
+Další informace o rutinách obsažených v modulu Az.Portal PowerShellu najdete v [Microsoft Azure PowerShell: Rutiny řídicího panelu portálu](/powershell/module/az.portal/).
 
-## <a name="create-private-azure-marketplace"></a>Vytvořit soukromé Azure Marketplace
+## <a name="create-private-azure-marketplace"></a>Vytvoření privátního Azure Marketplace
 
-1. Přihlaste se na [Azure Portal](https://portal.azure.com/).
-2. Vyberte **všechny služby** a potom **Marketplace**.
+1. Přihlaste se k webu [Azure Portal](https://portal.azure.com/).
+2. Vyberte **Všechny služby a** pak **Marketplace.**
 
-   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Zobrazuje hlavní okno Azure Portal.":::
+   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Zobrazí hlavní Azure Portal okno.":::
 
-3. V nabídce na levé straně vyberte **soukromé tržiště** .
+3. V **nabídce na** levé straně vyberte Privátní Marketplace.
 
-4. Vyberte **Začínáme** pro vytvoření privátního Azure Marketplace (stačí to udělat jenom jednou).
+4. Vyberte **Začínáme a** vytvořte privátní Azure Marketplace (to musíte udělat jenom jednou).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Ukazuje, jak vybrat položku Začínáme v hlavním okně Azure Portal.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Ukazuje, jak vybrat hlavní okno Začínáme Azure Portal okně.":::
 
-    Pokud pro tohoto tenanta už existuje privátní Azure Marketplace, bude ve výchozím nastavení vybraná možnost **Spravovat Marketplace** .
+    Pokud privátní Azure Marketplace pro tohoto tenanta již existuje, bude ve výchozím nastavení vybraná možnost Spravovat **Marketplace.**
 
-5. Po dokončení budete mít prázdné a zakázané soukromé Azure Marketplace.
+5. Po dokončení budete mít prázdný a zakázaný privátní Azure Marketplace.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Zobrazí prázdnou obrazovku Private Azure Marketplace.":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Zobrazí prázdnou obrazovku privátního Azure Marketplace obrazovky.":::
 
-## <a name="add-items-from-gallery"></a>Přidat položky z Galerie
+## <a name="add-items-from-gallery"></a>Přidání položek z galerie
 
-Položka je kombinací nabídky a plánu. Na stránce Spravovat web Marketplace můžete hledat a přidávat položky.
+Položka je kombinací nabídky a plánu. Položky můžete vyhledat a přidat na stránce Spravovat Marketplace.
 
-1. Vyberte **Přidat položky**.
+1. Vyberte **Přidat položky.**
 
-2. Přejděte do **Galerie** nebo vyhledejte požadovanou položku pomocí vyhledávacího pole.
+2. Přejděte do **Galerie** nebo pomocí vyhledávacího pole najděte položku, kterou chcete.
 
     [![Ukazuje, jak procházet galerii nebo použít vyhledávací pole.](media/private-azure/marketplace-gallery.png)](media/private-azure/marketplace-gallery-zoom.png#lightbox)
 
-3. Ve výchozím nastavení se při přidávání nové nabídky do seznamu schválených přidá všechny aktuální plány. Chcete-li před přidáním vybraných položek změnit výběr plánu, vyberte rozevírací nabídku v dlaždici nabídky a aktualizujte požadované plány.
+3. Ve výchozím nastavení se při přidávání nové nabídky všechny aktuální plány přidávají do seznamu schválených plánů. Pokud chcete před přidáním vybraných položek upravit výběr plánu, vyberte rozevírací nabídku na dlaždici nabídky a aktualizujte požadované plány.
 
     :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Ukazuje, jak aktualizovat požadované plány.":::
 
-4. Vyberte **Hotovo** vlevo dole po provedení výběru.
+4. Po **provedení** výběru vyberte v levém dolním rohu Hotovo.
 
 >[!Note]
-> **Přidat položky** na web Marketplace budou k dispozici pouze pro nabídky, které nejsou od Microsoftu. Řešení Microsoftu (včetně schválených [distribucí systému Linux](/azure/virtual-machines/linux/endorsed-distros)) budou označena jako schválená ve výchozím nastavení a nelze je spravovat na soukromém webu Marketplace.
+> **Možnost Přidat** položky na Marketplace bude dostupná jenom pro nabídky od jiných společností než Microsoft. Řešení Microsoftu (včetně [schválených linuxových](/azure/virtual-machines/linux/endorsed-distros)distribucí) budou ve výchozím nastavení označená jako Schválená a nelze je spravovat na privátním marketplace.
 
-## <a name="edit-items-plans"></a>Upravit plány položky
+## <a name="edit-items-plans"></a>Úprava plánů položek
 
-Plány položky můžete upravit na stránce Spravovat web Marketplace.
+Plány položky můžete upravit na stránce Spravovat Marketplace.
 
-1. Ve sloupci **plány** zkontrolujte dostupné plány z rozevírací nabídky pro danou položku.
-2. Zaškrtnutím nebo zrušením zaškrtnutí políček zvolte, které plány mají být uživatelům k dispozici.
+1. Ve **sloupci** Plány zkontrolujte dostupné plány z rozevírací nabídky pro tuto položku.
+2. Zaškrtnutím nebo zrušte zaškrtnutí políček, abyste zvolili, které plány budou uživatelům k dispozici.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Ukazuje, jak vybrat nebo zrušit zaškrtnutí políčka pro požadovanou položku.":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Ukazuje, jak vybrat nebo vymazat zaškrtávací políčko pro požadovanou položku.":::
 
 > [!NOTE]
-> Každá nabídka potřebuje aspoň jeden plán vybraný k aktualizaci. Chcete-li odebrat všechny plány související s nabídkou, odstraňte celou nabídku (viz další oddíl).
+> Každá nabídka musí mít vybraný alespoň jeden plán, aby k aktualizaci došlo. Pokud chcete odebrat všechny plány související s nabídkou, odstraňte celou nabídku (viz další část).
 
-## <a name="delete-offers"></a>Odstranit nabídky
+## <a name="delete-offers"></a>Odstranění nabídek
 
 Na stránce Spravovat Marketplace zaškrtněte políčko vedle názvu nabídky (viz obrazovka výše) a vyberte **Odstranit položky**.
 
-## <a name="enabledisable-private-azure-marketplace"></a>Povolit nebo zakázat privátní Azure Marketplace
+## <a name="enabledisable-private-azure-marketplace"></a>Povolení nebo zakázání privátních Azure Marketplace
 
-Na stránce Spravovat Marketplace se zobrazí jedna z těchto proužkových proužků, která zobrazí aktuální stav privátních Azure Marketplace:
+Na stránce Spravovat Marketplace se zobrazí jeden z těchto bannerů, které zobrazují aktuální stav privátních Azure Marketplace:
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Zobrazuje informační zprávu &quot;zakázat stav&quot;.":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="Zobrazí banner Disable state (Zakázat stav).":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Zobrazuje informační zprávu &quot;Povolit stav&quot;.":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="Zobrazí banner Enable state (Povolit stav).":::
 
-V případě potřeby můžete povolit nebo zakázat privátní Azure Marketplace.
+Podle potřeby můžete privátní Azure Marketplace zakázat.
 
-- Pokud je tato možnost zakázaná, vyberte **Povolit privátní tržiště** .
-- Pokud je povoleno, vyberte **Zakázat privátní tržiště** , které chcete zakázat.
+- Pokud je zakázané, **povolte povolení výběrem možnosti** Povolit privátní marketplace.
+- Pokud je tato možnost povolená, **zakažte** ji výběrem možnosti Zakázat privátní marketplace.
 
-## <a name="private-azure-marketplace-notification-center"></a>Soukromé Azure Marketplace centra oznámení
+## <a name="private-azure-marketplace-notification-center"></a>Centrum Azure Marketplace oznámení služby Private Azure Marketplace
 
 Centrum oznámení se skládá ze tří typů oznámení a umožňuje správci Marketplace provádět akce na základě oznámení:
 
-- Žádosti o schválení od uživatelů pro položky, které nejsou v seznamu schválených (viz [žádost o přidání nabídek nebo plánů](#request-to-add-offers-or-plans) níže).
-- Nové oznámení plánu pro nabídky, které již mají jeden nebo více plánů v seznamu schválených.
-- Byla odebrána oznámení plánu pro položky, které jsou v seznamu schválených, ale byly odebrány z globálního Azure Marketplace.
+- Žádosti uživatelů o schválení položek, které nejsou v seznamu schválených položek (viz žádost o [přidání nabídek nebo plánů](#request-to-add-offers-or-plans) níže).
+- Oznámení o novém plánu pro nabídky, které už mají jeden nebo více plánů v seznamu schválených
+- Odebrání oznámení plánu pro položky, které jsou v seznamu schválených položek, které byly odebrány z globálního Azure Marketplace.
 
 Přístup k centru oznámení:
 
-1. V nabídce na levé straně vyberte **oznámení** .
+1. V **nabídce vlevo** vyberte Oznámení.
 
-    [![Zobrazí nabídku oznámení.](media/private-azure/marketplace-notifications-small.png)](media/private-azure/marketplace-notifications.png#lightbox)
+    [![Zobrazí nabídku Oznámení.](media/private-azure/marketplace-notifications-small.png)](media/private-azure/marketplace-notifications.png#lightbox)
 
-1. Pro další akce vyberte nabídku se třemi tečkami.
+1. Výběrem nabídky se třemi tečkami zobrazíte další akce.
 
-    :::image type="content" source="media/private-azure/notifications-more-options.png" alt-text="Zobrazí další výsledky nabídky možností.":::
+    :::image type="content" source="media/private-azure/notifications-more-options.png" alt-text="Zobrazí výsledky nabídky Další možnosti.":::
 
-1. V případě požadavků na plán se otevře formulář žádosti o **schválení, kde** můžete zkontrolovat všechny požadavky uživatelů na konkrétní nabídku.
-1. Vyberte **schválit** nebo **zamítnout**.
+1. V případě žádostí o plán **otevře možnost** Zobrazit žádosti formulář žádosti o schválení, kde můžete zkontrolovat všechny žádosti uživatelů o konkrétní nabídku.
+1. Vyberte **Schválit** nebo **Odmítnout.**
 
-    [![Zobrazuje možnosti schválení a odmítnutí.](media/private-azure/notifications-approve-reject-small.png)](media/private-azure/notifications-approve-reject.png#lightbox)
+    [![Zobrazí možnosti schválit a odmítnout.](media/private-azure/notifications-approve-reject-small.png)](media/private-azure/notifications-approve-reject.png#lightbox)
 
-1. Z rozevírací nabídky vyberte plán, který chcete schválit.
-1. Přidejte komentář a vyberte **Odeslat**.
+1. V rozevírací nabídce vyberte plán ke schválení.
+1. Přidejte komentář a vyberte **Odeslat.**
 
-## <a name="browsing-private-azure-marketplace"></a>Procházení soukromých Azure Marketplace
+## <a name="browsing-private-azure-marketplace"></a>Procházení privátních Azure Marketplace
 
-Když je povolený privátní Azure Marketplace, zobrazí se uživatelům, kteří plánují schválení správcem Marketplace.
+Když je Azure Marketplace privátní účet povolený, uživatelé uvidí, které plány správce Marketplace schválil.
 
-- Zelená **schválená** zpráva indikuje, že partnerská nabídka (jiná než Microsoft) je schválená.
-- Modré **schválené** oznámení indikuje, že nabídka Microsoft (včetně schválených [distribucí systému Linux](/azure/virtual-machines/linux/endorsed-distros)) je schválená.
+- Zelené schválené **oznámení** značí schválenou nabídku partnera (jiné společnosti než Microsoft).
+- Modré schválené **oznámení** označuje nabídku Microsoftu (včetně [schválených linuxových](/azure/virtual-machines/linux/endorsed-distros)distribucí), která je schválená.
 
-Uživatelé mohou filtrovat mezi nabídkami, které jsou a nejsou schváleny:
+Uživatelé mohou filtrovat mezi nabídkami, které jsou a nejsou schválené:
 
-[![Zobrazuje možnost filtrování.](media/private-azure/filter-option-small.png)](media/private-azure/filter-option.png#lightbox)
+[![Zobrazí možnost filtrování.](media/private-azure/filter-option-small.png)](media/private-azure/filter-option.png#lightbox)
 
-## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Koupit nebo nasadit v privátních Azure Marketplace
+## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Nákup nebo nasazení v privátním Azure Marketplace
 
-I když se zobrazí stránka s podrobnostmi o produktu, která je podobná globálním Azure Marketplace, existují tři privátní Azure Marketplace specifické scénáře.
+Stránka s podrobnostmi o produktu se podobá globálnímu prostředí Azure Marketplace, ale existují tři scénáře, které Azure Marketplace privátním prostředím.
 
-- Když uživatel vybere schválený plán, aktivuje se tlačítko **vytvořit** :
+- Když uživatel vybere schválený plán, **tlačítko** Vytvořit se povolí:
 
-    [![Zobrazuje hlavičku nabídky s informacemi o plánu, který se dá vytvořit.](media/private-azure/button-create-enabled-small.png)](media/private-azure/button-create-enabled.png#lightbox)
+    [![Zobrazuje banner nabídky s nápisem, že je možné vytvořit plán.](media/private-azure/button-create-enabled-small.png)](media/private-azure/button-create-enabled.png#lightbox)
 
-- Pokud se výběr plánu produktu nezobrazuje na stránce s podrobnostmi o produktu, ale správce schválil jeden nebo více plánů, poznamenejte si, které plány se schvalují a že je povolené tlačítko **vytvořit** :
+- Pokud se výběr plánu produktu nezobrazí na stránce s podrobnostmi o produktu, ale správce  schválil jeden nebo více plánů, zobrazí se banner s upozorněním, které plány jsou schválené a tlačítko Vytvořit je povolené:
 
-    [![Zobrazuje hlavičku nabídky, která označuje, že je možné vytvořit plán a Zobrazit dostupné plány.](media/private-azure/button-create-enabled-and-plans-small.png)](media/private-azure/button-create-enabled-and-plans.png#lightbox)
+    [![Zobrazuje banner nabídky s nápisem, že plán je možné vytvořit a zobrazit dostupné plány.](media/private-azure/button-create-enabled-and-plans-small.png)](media/private-azure/button-create-enabled-and-plans.png#lightbox)
 
-- Když uživatel vybere neschválený plán, banner se naplánuje jako Neschváleno a tlačítko **vytvořit** je zakázané. Uživatel si stále může vyžádat přidání plánu do seznamu schválených (viz další část).
+- Když uživatel vybere neschválený plán, zobrazí se banner s upozorněním, že se plán neschválí, a tlačítko Vytvořit **se** deaktivuje. Uživatel může požádat o přidání plánu do seznamu schválených položek (viz další část).
 
 ## <a name="request-to-add-offers-or-plans"></a>Žádost o přidání nabídek nebo plánů
 
-Můžete požádat o přidání veřejné nabídky nebo plánu, který není aktuálně schválen v soukromém Azure Marketplace.
+Můžete požádat o přidání veřejné nabídky nebo plánu, které nejsou aktuálně schválené v privátním Azure Marketplace.
 
-1. Vyberte **požadavek, který chcete přidat** do banneru pro otevření **formuláře žádosti o přístup**.
+1. Výběrem **možnosti Request to add** (Žádost o přidání) v banneru otevřete formulář žádosti o **přístup.**
 
-    [![Zobrazí banner s odkazem požadavek na přidání.](media/private-azure/request-banner-small.png)](media/private-azure/request-banner.png#lightbox)
+    [![Zobrazí banner s odkazem Požádat o přidání.](media/private-azure/request-banner-small.png)](media/private-azure/request-banner.png#lightbox)
 
     [![Zobrazí formulář žádosti o přístup pro nabídky nebo plány.](media/private-azure/access-request-form-small.png)](media/private-azure/access-request-form.png#lightbox)
 
-1. Vyberte plány, které chcete přidat do žádosti (**jakýkoliv plán** oznamuje správci Marketplace, že nemáte předvolbu plánu v rámci nabídky).
+1. Vyberte plány, které chcete k žádosti přidat **(Jakýkoli** plán informuje správce Marketplace, že pro plán v rámci nabídky nemáte nějaké preference).
 
-1. Přidejte **odůvodnění** a vyberte **žádost** o odeslání žádosti.
+1. Přidejte **justification (Odůvodnění)** a **vyberte Request** to submit your request (Žádost o odeslání žádosti).
   
-    [![Zobrazuje formulář žádosti o přístup pro nabídky nebo plány s ukázkovými položkami.](media/private-azure/access-request-form-filled-small.png)](media/private-azure/access-request-form-filled.png#lightbox)
+    [![Zobrazí formulář žádosti o přístup pro nabídky nebo plány s ukázkovými položkami.](media/private-azure/access-request-form-filled-small.png)](media/private-azure/access-request-form-filled.png#lightbox)
 
-1. Ve formuláři žádosti o přístup se zobrazí označení pro nevyřízenou žádost s možností **odvolání žádosti**.
+1. Ve formuláři žádosti o přístup se zobrazí indikace čekající žádosti s možností Žádosti **o žádost o přístup**.
 
-    [![Zobrazuje seznam schválených nebo nevyřízených plánů s odkazem na žádost o stažení.](media/private-azure/approved-pending-plans-small.png)](media/private-azure/approved-pending-plans.png#lightbox)
+    [![Zobrazí seznam schválených nebo nevyřízených plánů s odkazem Na žádost o schválení.](media/private-azure/approved-pending-plans-small.png)](media/private-azure/approved-pending-plans.png#lightbox)
 
 > [!NOTE]
-> Po odeslání se formulář žádosti o schválení pošle do [centra oznámení](#private-azure-marketplace-notification-center) pro správce Marketplace, aby zkontroloval požadavek a provedl akci.
+> Po odeslání se formulář žádosti o [](#private-azure-marketplace-notification-center) schválení zasílá správci Marketplace do Centra oznámení, aby žádost zkontrolovat a provést akci.
+
+> [!CAUTION]
+> Schválení na privátním marketplace neznačí nákup řešení.
 
 ## <a name="frequently-asked-questions-faqs"></a>Nejčastější dotazy
 
-#### <a name="i-am-already-blocking-marketplace-third-party-application-through-azure-policy-how-is-this-different"></a>Již jsem blokoval aplikaci třetí strany Marketplace prostřednictvím Azure Policy. Jak se to liší?
+#### <a name="i-am-already-blocking-marketplace-third-party-application-through-azure-policy-how-is-this-different"></a>Aplikaci třetí strany z Marketplace už blokujem prostřednictvím Azure Policy. Jak se to liší?
 
-V současné době existují dva způsoby, jak omezit služby třetích stran na webu Marketplace:
+V současné době existují dva způsoby, jak na Marketplace omezit služby třetích stran:
 
-1. Prostřednictvím portálu EA nebo Azure Portal zakažte služby třetích stran nebo omezte pouze na bezplatné nebo BYOL SKU.
+1. Prostřednictvím portálu EA portal nebo Azure Portal zakažte služby třetích stran nebo omezte na "Pouze skladové sklady Free nebo BYOL".
 
     :::image type="content" source="media/private-azure/disable-services.png" alt-text="Ukazuje, jak omezit služby v Azure Portal.":::
 
-    :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Ukazuje, jak omezit služby na portálu E.":::
+    :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Ukazuje, jak omezit služby na portálu E A.":::
 
-2. Vytvořte zásadu Azure, která povolí jenom konkrétní virtuální počítače. Podrobnosti o vystavení zásad pro virtuální počítače s Windows najdete v tématu věnovaném [použití zásad pro virtuální počítače s Windows pomocí Azure Resource Manager](/azure/virtual-machines/windows/policy).
+2. Vytvořte zásadu Azure, která povolí jenom konkrétní virtuální počítače. Podrobnosti o tom, jak vynutit zásady pro virtuální počítače s Windows, najdete v tématu Použití zásad na virtuální počítače s [Windows pomocí Azure Resource Manager](/azure/virtual-machines/windows/policy).
 
-Soukromé Azure Marketplace umožňují větší flexibilitu při omezování a povolování konkrétních nabídek a plánů. Informuje koncové uživatele o dostupnosti pro nasazení v galerii Marketplace, a to i předtím, než se pokusí nasadit služby třetích stran. Pokud chcete povolit nasazení služeb třetích stran, nastavte Azure Marketplace na zapnuto nebo povoleno na portálu EA a v Azure Portal.
+Privátní Azure Marketplace nabízí větší flexibilitu při omezování a povolování konkrétních nabídek a plánů. Informuje koncové uživatele o dostupnosti nasazení v galerii Marketplace ještě předtím, než se pokusí nasadit služby třetích stran. Pokud chcete povolit nasazení služeb třetích stran, nastavte Azure Marketplace na Zapnuto/povoleno v EA Portal a Azure Portal.
 
-- Privátní Azure Marketplace můžou využívat Partnerská řešení, která nejsou omezená na virtuální počítače.
-- Privátní Azure Marketplace můžou obsloužit na úrovni plánu a můžou také nastavit "aktuální a budoucí plán".
-- Privátní Azure Marketplace můžou koncovým uživatelům informovat o tom, co můžou a nemůžou být nasazené.
+- Privátní Azure Marketplace může partnerská řešení nastavit nejen na virtuální počítače.
+- Privátní Azure Marketplace může být na úrovni plánu a může také nastavit aktuální a budoucí plán.
+- Privátní Azure Marketplace může předem informovat koncové uživatele o tom, co může a nemůže být nasazeno.
 
-#### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Jaký je rozdíl mezi soukromou nabídkou a soukromým Azure Marketplace?
+#### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Jaký je rozdíl mezi privátní nabídkou a privátní nabídkou Azure Marketplace?
 
-**Soukromá nabídka** umožňuje vydavatelům vytvářet plány, které jsou viditelné pouze cílovým zákazníkům. To jim umožní soukromě sdílet přizpůsobená řešení s vyjednávacími cenami, soukromými podmínkami a podmínkami a specializovanými konfiguracemi. Podrobnosti najdete v tématu [soukromé nabídky na komerčním webu Marketplace](/azure/marketplace/private-offers).
+Privátní **nabídka umožňuje vydavatelům** vytvářet plány, které jsou viditelné pouze cílovým zákazníkům. Díky tomu mohou soukromě sdílet přizpůsobená řešení s vyjednanou cenou, privátními podmínkami a zvláštními konfiguracemi. Podrobnosti najdete v tématu [Privátní nabídky na komerčním marketplace.](/azure/marketplace/private-offers)
 
-**Soukromý Azure Marketplace** v Azure Portal umožňuje správcům předem schvalovat, která řešení třetích stran můžou uživatelé nasazovat. Pomocí privátního Azure Marketplace můžou uživatelé využít výhod Azure Marketplace tak, že si vyhledají, kupují a nasazují vyhovující nabídky. Aby bylo možné spravovat soukromé nabídky na základě předplatného na soukromém webu Marketplace, musí mít správce webu Marketplace minimálně roli "číst" na daném předplatném.
+**Privátní Azure Marketplace** v Azure Portal umožňuje správcům předem schválit, která řešení třetích stran můžou jejich uživatelé nasadit. Díky privátní Azure Marketplace mohou uživatelé využívat výhody těchto Azure Marketplace hledáním, nákupem a nasazením vyhovujících nabídek. Pokud chcete spravovat privátní nabídky založené na předplatném na privátním marketplace, musí mít správce Marketplace minimální roli čtení pro konkrétní předplatné.
 
-#### <a name="i-added-a-private-offer-to-the-private-azure-marketplace-why-is-it-not-showing-in-the-manage-marketplace-tab"></a>K privátním Azure Marketplace jsem přidal soukromou nabídku, proč se na kartě Spravovat Marketplace nezobrazuje?
+#### <a name="i-added-a-private-offer-to-the-private-azure-marketplace-why-is-it-not-showing-in-the-manage-marketplace-tab"></a>Proč se privátní nabídka po přidání Azure Marketplace nezobrazuje na kartě Spravovat marketplace?
 
-Soukromé nabídky na základě předplatného jsou viditelné jenom pro uvedená předplatná v nastavení soukromé nabídky. Pokud chcete zobrazit soukromou nabídku, ujistěte se, že globální filtr předplatného zobrazuje všechna předplatná.
+Privátní nabídky založené na předplatném jsou viditelné jenom pro uvedená předplatná v nastavení privátní nabídky. Pokud chcete zobrazit privátní nabídku, ujistěte se, že globální filtr předplatných zobrazuje všechna předplatná.
 
-[![Zobrazuje soukromý filtr Marketplace.](media/private-azure/private-marketplace-filter.png)](media/private-azure/private-marketplace-filter.png#lightbox)
+[![Zobrazí filtr privátního marketplace.](media/private-azure/private-marketplace-filter.png)](media/private-azure/private-marketplace-filter.png#lightbox)
 
-#### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Můžeme do privátních Azure Marketplace zahrnout vlastní image?
+#### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Můžeme do privátních imagí zahrnout Azure Marketplace?
 
-No. Privátní Azure Marketplace umožňuje všem správcům IT spravovat řešení třetích stran z globálních Azure Marketplace. Vzhledem k tomu, že vlastní image nejsou na globálním Azure Marketplace, nemůže správce IT vybírat a vybírat vlastní image. Chcete-li sdílet vlastní image, použijte [galerii sdílených imagí](/azure/virtual-machines/shared-image-galleries).
+No. Privátní Azure Marketplace umožňuje libovolnému správci IT spravovat a spravovat řešení třetích stran z globálních Azure Marketplace. Vzhledem k tomu, že vlastní image nejsou v globální Azure Marketplace, správce IT nemůže vybrat a vybrat vlastní image. Pokud chcete sdílet vlastní image, použijte [Shared Image Gallery](/azure/virtual-machines/shared-image-galleries).
 
-1. Podrobný průvodce vytvořením Galerie sdílených imagí (SIG) ([CLI](/azure/virtual-machines/shared-images-cli), [PowerShell](/azure/virtual-machines/shared-images-powershell)).
-2. Vytvoří definici obrázku v rámci SIG. Zákazník by měl zvolit **zobecněný** pro pole stav operačního systému. (Rozhraní příkazového[řádku](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShellu](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
-3. Přeneste spravovanou bitovou kopii do galerie sdílených imagí ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
-4. Image virtuálního počítače SIG by se měly nacházet v jednom předplatném. Pokud ho chcete zpřístupnit ostatním předplatným, použijte registraci aplikace (rozhraní příkazového[řádku](/azure/virtual-machines/linux/share-images-across-tenants), [PowerShellu](/azure/virtual-machines/windows/share-images-across-tenants)).
+1. Podrobný průvodce Vytvořením Shared Image Gallery (SIG)[(CLI,](/azure/virtual-machines/shared-images-cli) [PowerShell).](/azure/virtual-machines/shared-images-powershell)
+2. Vytvořte definici image v rámci SKUPINY SIG. Zákazník by měl **jako pole** Stav operačního systému zvolit Generalized (Generalizované). ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
+3. Přenést spravovanou image do Shared Image Gallery ([ROZHRANÍ příkazového řádku](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
+4. Image virtuálních počítače SIG se nacházejí v jednom předplatném. K jeho zvidilení pro ostatní předplatná použijte registraci aplikace ([CLI,](/azure/virtual-machines/linux/share-images-across-tenants) [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants)).
 
-#### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Proč se mi zobrazují některé nabídky **schválené ve výchozím nastavení,** i když Vydavatel není Microsoft?
+#### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Proč se některé nabídky ve výchozím nastavení **schvalují,** i když vydavatel není Microsoft?
 
-Microsoft podporuje v Azure technologii Linux a open source. [Schválené distribuce systému Linux](/azure/virtual-machines/linux/endorsed-distros) jsou podporovány v Azure a cena je integrována do virtuálních počítačů. Vzhledem k tomu, že je agent Azure Linux už v Azure Marketplace předinstalovaný, považuje se za nabídku Microsoftu. Vzhledem k tomu, že jsou nabídky společnosti Microsoft schváleny ve výchozím nastavení, nelze spravovat schválené distribuce systému Linux v privátních Azure Marketplace a jsou schváleny ve výchozím nastavení.
+Microsoft podporuje linuxovou a open source technologii v Azure. [Schválené linuxové distribuce jsou](/azure/virtual-machines/linux/endorsed-distros) podporované v Azure a cena je integrovaná ve virtuálních počítačích. Vzhledem k tomu, že agent Azure Linux je už na zařízeních Azure Marketplace, je považován za nabídku Microsoftu. Vzhledem k tomu, že nabídky Microsoftu jsou standardně schválené, schválené linuxové distribuce se nespravují v privátních Azure Marketplace a ve výchozím nastavení se schvalují.
 
 ## <a name="contact-support"></a>Kontaktování podpory
 
-- Podporu Azure Marketplace najdete na webu [Microsoft Q&A](/answers/products/).
+- Další Azure Marketplace najdete na webu [Microsoft Q&A.](/answers/products/)

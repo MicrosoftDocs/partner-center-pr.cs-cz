@@ -1,6 +1,6 @@
 ---
 title: Informace o dani z přidané hodnoty (DPH) v registraci v Partnerském centru
-description: Pokud v rámci procesu registrace partnerského centra potřebujete zadat číslo ID DPH, vám tyto informace pomůžou začít.
+description: Pokud během procesu registrace Partnerské centrum DIČ, pomůže vám tyto informace začít.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
@@ -8,45 +8,45 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-ms.openlocfilehash: bd0399f16fb2bdaf1099597cd48c89d7e9d3651d
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: bcdb6b4da0911eb9b6600218f926517d9ef1728e
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794985"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431683"
 ---
-# <a name="value-added-tax-vat-information"></a>Údaje o dani z přidané hodnoty (DPH)
+# <a name="value-added-tax-vat-information"></a>Informace o dani z přidané hodnoty (DIČ)
 
-**Příslušné role**: správce účtu
+**Odpovídající role:** Správce účtu
 
 
-Pokud v rámci procesu registrace partnerského centra potřebujete zadat ID DPH, najdete tady nějaké informace, které vám pomůžou začít.
+Pokud během procesu registrace Partnerské centrum musíte zadat DIČ přidané hodnoty, tady jsou některé informace, které vám poskytnou základní informace.
 
-## <a name="understanding-vat-numbers"></a>Porozumění číslům DPH
+## <a name="understanding-vat-numbers"></a>Principy čísel DIČ
 
-Hodnota daně z přidané hodnoty (DPH) je identifikátor používaný pro země nebo oblasti v Evropské unii. Další informace najdete na stránce oficiálního [VIES](http://ec.europa.eu/taxation_customs/vies/vieshome.do)v Evropské unii.
+DIČ je identifikátor používaný pro země nebo oblasti Evropské unie. Další informace najdete na oficiálním webu systému [VIES (VAT Information Exchange System) Evropské unie.](http://ec.europa.eu/taxation_customs/vies/vieshome.do)
 
 ## <a name="location-specific-vat-information"></a>Informace o DPH pro konkrétní umístění
 
 Následující podrobnosti jsou jedinečné pro země nebo oblasti uvedené níže.
 
-### <a name="european-union"></a>Evropská unie
+### <a name="european-union"></a>Evropské unie
 
-V členských státech Evropské unie musí partneři poskytnout své platné daňové identifikační číslo pro zpětný poplatek a správné fakturace. Číslo DPH musí být přijato jako platné.
+V členských státech Evropské unie musí partneři zadat své platné DIČ pro reverse charge a správnou fakturaci. DIČ musí být přijato jako platné.
 
-Společnost Microsoft nepodporuje kredity a opětovné vyúčtování. Před prodejem všech předplatných musíte [zaregistrovat číslo ID DPH](organization-tax-info.md) v partnerském centru.
+Microsoft nepodporuje kredit ani přeúčtování. Před prodejem jakýchkoli předplatných musíte své [DIČ](organization-tax-info.md) zaregistrovat v Partnerské centrum.
 
 ### <a name="south-africa"></a>Jižní Afrika
 
-Microsoft teď používá standardní DPH pro digitální obsah a služby zakoupené partnery v Jižní Africe. Pokud chcete DPH z vašich faktur vyloučit a spravovat ji sami, musíte aktualizovat svůj fakturační profil partnera tím, že [Odešlete své identifikační číslo pro společnost Microsoft](organization-tax-info.md).
+Microsoft teď na digitální obsah a služby zakoupené partnery v Jižní Americe uplatňuje standardní DPH. Pokud chcete DPH vyloučit z faktur a spravovat ji sami, musíte fakturační profil partnera aktualizovat odesláním dičovacího [čísla Microsoftu.](organization-tax-info.md)
 
 ### <a name="turkey"></a>Turecko
 
-Microsoft teď používá standardní DPH k digitálnímu obsahu a službám koupeným partnery v Turecku. Pokud chcete DPH z vašich faktur vyloučit a spravovat ji sami, musíte aktualizovat svůj fakturační profil partnera tím, že [Odešlete své identifikační číslo pro společnost Microsoft](organization-tax-info.md).
+Microsoft teď uplatňuje standardní DPH na digitální obsah a služby zakoupené partnery v Indu. Pokud chcete DPH vyloučit z faktur a spravovat ji sami, musíte fakturační profil partnera aktualizovat odesláním dičovacího [čísla Microsoftu.](organization-tax-info.md)
 
-## <a name="accepted-formats-for-vat-numbers"></a>Přijaté formáty pro čísla DPH
+## <a name="accepted-formats-for-vat-numbers"></a>Přijímané formáty pro DIČ
 
-Všimněte si, že společnost Microsoft neposkytuje daňové poradenství a v následující tabulce jsou uvedeny pouze doprovodné materiály. Pokud tyto pokyny nepostačují k tomu, abyste Microsoftu poskytli DIČ, měli byste se podívat u místních daňových autorit na nedávné změny.
+Upozorňujeme, že Microsoft neposkytuje daňové rady a následující tabulka je k dispozici pouze jako vodítko. Pokud tyto pokyny nepostačují k tomu, abyste Microsoftu poskytli DIČ, měli byste se podívat u místních daňových autorit na nedávné změny.
 
 |Země | Informace k DPH |
 |:------------|:----------|
@@ -55,30 +55,30 @@ Všimněte si, že společnost Microsoft neposkytuje daňové poradenství a v n
 | Bulharsko  |- Formát DIČ: 9 nebo 10 číslic<br/>- Kód země/oblasti: BG<br/>- Příklad: 123456789 nebo 0123456789 |
 | Chorvatsko |- Formát DIČ: 2 písmena a 11 číslic<br/>- Kód země/oblasti: Personální oddělení<br/>- Příklad: HR12345678901<br/>- Poznámky: První znaky budou vždy "PERSONÁL". |
 |Kypr |- Formát DIČ: 2 písmena a 8 číslic a 1 písmeno<br/>- Kód země/oblasti: CY<br/>- Příklad: 12345678, 123456789 nebo 0123456789 |
-|Čeština |– Formát čísla DPH: 8, 9 nebo 10 číslic<br/>– Kód země/oblasti: CZ<br/>-Příklad: 12345678, 123456789 nebo 0123456789 |
-| Dánsko |-Formát čísla DPH: 8 číslic<br/>– Kód země/oblasti: DK<br/>-Příklad: 12345678<br/> |
-|Estonsko |-Formát čísla DPH: 9 číslic<br/>– Kód země/oblasti: EE<br/>-Příklad: 123456789<br/> |
-|Finsko |-Formát čísla DPH: číslice<br/>– Kód země/oblasti: FI<br/>-Příklad: 12345678 |
-|Francie |-Formát čísla DPH: 11 číslic<br/>– Kód země/oblasti: FR<br/>-Příklad: 12345678901, X1234567890, 1X123456789 nebo XX123456789<br/>-Poznámky: může obsahovat jakékoli abecední znaky s výjimkou nebo Q jako první nebo druhý znak nebo jako první a druhý znak následovaný 9 číslicemi. |
-|Německo |-Formát čísla DPH: 9 číslic<br/>– Kód země/oblasti: DE<br/>-Příklad: 123456789<br/>-Poznámky: musí se jednat o 9 číslici ' Umsatzsteur Identifikationnummer ' (tým UST ID Nr.) |
+|Čeština |- Formát DIČ: 8, 9 nebo 10 číslic<br/>- Kód země/oblasti: CZ<br/>- Příklad: 12345678, 123456789 nebo 0123456789 |
+| Dánsko |- Formát DIČ: 8 číslic<br/>- Kód země/oblasti: DK<br/>- Příklad: 12345678<br/> |
+|Estonsko |- Formát DIČ: 9 číslic<br/>- Kód země/oblasti: EE<br/>- Příklad: 123456789<br/> |
+|Finsko |- Formát DIČ: číslice<br/>- Kód země/oblasti: FI<br/>- Příklad: 12345678 |
+|Francie |- Formát DIČ: 11 číslic<br/>- Kód země/oblasti: FR<br/>- Příklad: 12345678901, X1234567890, 1x123456789 nebo XX123456789<br/>- Poznámky: Může obsahovat libovolné abecední znaky kromě I nebo Q jako prvního nebo druhého znaku nebo jako první a druhý znak následovaný 9 číslicemi. |
+|Německo |- Formát DIČ: 9 číslic<br/>- Kód země/oblasti: DE<br/>- Příklad: 123456789<br/>- Poznámky: Musí to být 9ciferné číslo Umsatzstčtěte Identifikationnummer (Ust ID Nr.) |
 |Řecko |- Formát DIČ: 9 číslic<br/>- Kód země/oblasti: EL, GR<br/>- Příklad: 123456789 |
 |Maďarsko |- Formát DIČ: 8 číslic<br/>- Kód země/oblasti: HU<br/>- Příklad: 12345678 |
 |Irsko |- Formát DIČ: 8 číslic<br/>- Kód země/oblasti: IE<br/>- Příklad: 1234567X nebo 1x34567X<br/>- Poznámky: Obsahuje 1 nebo 2 abecední znaky: poslední nebo druhý a poslední. |
 |Itálie |- Formát DIČ: 11 číslic<br/>– Kód země/oblasti: IT<br/>- Příklad: 12345678901 |
 |Lotyšsko |- Formát DIČ: 11 číslic<br/>- Kód země/oblasti: LV<br/>- Příklad: 01234567890 |
 |Litva |- Formát DIČ: 9 nebo 12 číslic<br/>- Kód země/oblasti: LT<br/>- Příklad: 123456789 nebo 012345678901 |
-|Lucembursko |- Formát DIČ: 8 číslic<br/>– Kód země/oblasti: LU<br/>-Příklad: 12345678 |
-|Malta |-Formát čísla DPH: 2 písmena a 8 číslic<br/>– Kód země/oblasti: MT</br>-Příklad: MT12345678<br/>-Poznámky: první znaky budou vždy "MT". |
-|Nizozemsko |-Formát čísla DPH: 11 číslic a 1 písmeno<br/>– Kód země/oblasti: NL<br/>-Příklad: 123456789B01<br/>-Poznámky: desátý znak je vždycky ' B '. |
-|Polsko |-Formát čísla DPH: 10 číslic<br/>– Kód země/oblasti: PL<br/>-Příklad: 1234567890 |
-|Portugalsko |-Formát čísla DPH: 9 číslic<br/>– Kód země/oblasti: PT<br/>-Příklad: 123456789 |
-|Rumunsko |-Formát čísla DPH: 2 písmena a 8-10 číslic<br/>– Kód země/oblasti: RO<br/>-Příklad: RO12345678, RO123456789 nebo RO1234567890<br/>-Poznámky: první znaky budou vždy "RO" |
+|Lucembursko |- Formát DIČ: 8 číslic<br/>- Kód země/oblasti: LU<br/>- Příklad: 12345678 |
+|Malta |- Formát DIČ: 2 písmena a 8 číslic<br/>- Kód země/oblasti: MT</br>-Example: MT12345678<br/>- Poznámky: První znaky budou vždy "MT". |
+|Nizozemsko |- Formát DIČ: 11 číslic a 1 písmeno<br/>- Kód země/oblasti: NL<br/>- Příklad: 123456789B01<br/>- Poznámky: Desetinový znak je vždy "B". |
+|Polsko |- Formát DIČ: 10 číslic<br/>- Kód země/oblasti: PL<br/>- Příklad: 1234567890 |
+|Portugalsko |- Formát DIČ: 9 číslic<br/>- Kód země/oblasti: PT<br/>- Příklad: 123456789 |
+|Rumunsko |- Formát DIČ: 2 písmena a 8 až 10 číslic<br/>- Kód země/oblasti: RO<br/>- Příklad: RO12345678, RO123456789 nebo RO1234567890<br/>- Poznámky: První znaky budou vždy ro. |
 |Slovensko |- Formát DIČ: 10 číslic<br/>- Kód země/oblasti: SK<br/>- Příklad: 1234567890<br/>- Poznámky: První znaky budou vždy "SI". |
 |Slovinsko |- Formát DIČ: 2 písmena a 8 číslic<br/>- Kód země/oblasti: SI<br/>- Příklad: SI12345678<br/>- Poznámky: První znaky budou vždy "SI". |
 |Španělsko |- Formát DIČ: 9 číslic<br/>- Kód země/oblasti: ES<br/>- Příklad: X12345678, 12345678X nebo X1234567X<br/>- Poznámky: Obsahuje 1 nebo 2 písmena: první, poslední nebo první a poslední. |
 |Švédsko |- Formát DIČ: 12 číslic<br/>- Kód země/oblasti: SE<br/>- Příklad: 123456789001<br/>- Poznámky: Poslední 2 znaky musí být 01. |
-|Spojené království |- Formát DIČ: 9 nebo 12 číslic<br/>- Kód země/oblasti: GB<br/>- Příklad: 123456789 nebo 123456789001<br/>- Poznámky: obecně 9 číslic, ale 12 číslic, pokud číslo představuje podskupině v rámci skupiny. |
+|Spojené království |- Formát DIČ: 9 nebo 12 číslic<br/>- Kód země/oblasti: GB<br/>- Příklad: 123456789 nebo 123456789001<br/>- Poznámky: Obecně 9 číslic, ale 12 číslic, pokud číslo představuje podskupině v rámci skupiny. |
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Daňové informace o společnosti a postup přidání nebo odeslání ID DPH pro nákupy partnerského centra](organization-tax-info.md)
+- [Daňové údaje společnosti a postup přidání nebo odeslání DIČ pro Partnerské centrum nákupy](organization-tax-info.md)

@@ -1,50 +1,50 @@
 ---
-title: Upgradovat Windows 10 Home na Windows 10 – vzdělávání
+title: Upgrade Windows 10 Home na Windows 10 Education
 ms.topic: article
 ms.date: 10/28/2020
-description: Přečtěte si, jak partneři poskytovatele Cloud Solution Provider (CSP) můžou upgradovat některé ze svých zákazníků z oblasti vzdělávání z Windows 10 domů na Windows 10 – vzdělávání
+description: Zjistěte, Cloud Solution Provider partneři CSP (CsP) upgradují některé ze svých zákazníků v oblasti vzdělávání z Windows 10 Home na Windows 10 Education
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 806ddcd6e55a72ac2e1d15bdbec7c27c604917dc
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 4835a620cd414370525a5c441e0db5a7de1bfed1
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818690"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431508"
 ---
-# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Upgradujte některé zákazníky pro vzdělávání z Windows 10 Home na Windows 10 vzdělávání.
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Upgrade některých zákazníků v oblasti vzdělávání z Windows 10 Home na Windows 10 Education
 
-**Příslušné role**: Agent správce | Správce fakturace
+**Odpovídající role:** Agent pro správu | Správce fakturace
 
 ## <a name="overview"></a>Přehled
 
-Od 1. listopadu 2020 můžou poskytovatelé CSP, kteří si zakoupili Microsoft 365 a3 nebo a5 nebo Windows 10 Enterprise a3 nebo A5, pomáhat svým zákazníkům v oblasti vzdělávání upgradovat z Windows 10 Home na vzdělávání Windows 10, které je navržené pro učebnu i pro vzdálené učení.
+Od 1. listopadu 2020 můžou poskytovatelé cloudových služeb, kteří si zakoupili předplatná Microsoft 365 A3 nebo A5 nebo Windows 10 Enterprise A3 nebo A5, pomáhat svým zákazníkům se vzděláváním s upgradem z Windows 10 Home na Windows 10 Education, který je určený pro učebnu i vzdálené učení.
 
-Od 1. listopadu 2020 budou Windows 10 Home opravňující operační systém pro zákazníky s licencí pro vzdělávání prostřednictvím Microsoft Cloud smlouvy (prostřednictvím CSP). Tato způsobilost, která byla nyní dostupná pouze v vzdělávacích programech multilicencí (Volume Licensing), byla povolena prostřednictvím podpory Microsoft 365 portálu pro správu. 
+Od 1. listopadu 2020 bude Windows 10 Home oprávněným operačním systémem pro zákazníky v oblasti vzdělávání licencovaný prostřednictvím Smlouva o službách Microsoft Cloud (prostřednictvím programu CSP). Tato způsobilost, která dosud byla k dispozici pouze v programech pro multilicence (VL), byla povolena prostřednictvím podpory Microsoft 365 portálu pro správu. 
 
 ## <a name="how-the-upgrade-process-works"></a>Jak proces upgradu funguje
 
-Partneři CSP můžou zákazníkům pomáhat při upgradu tím, že na jejich jménem odesílají žádost o podporu. Podpora Microsoftu zkontroluje požadavek, aby se zajistilo, že zákazník bude vyhodnocený. Po schválení žádosti vám podpora poskytne klíč Windows 10 pro vzdělávání partnerovi, který ho pak může dát zákazníkovi.
+Partneři CSP můžou svým zákazníkům pomoct s upgradem odesláním žádosti o podporu jejich jménem. Podpora Microsoftu žádost zkontrolovat, aby se zajistilo, že zákazník splňuje požadavky. Po schválení žádosti poskytne podpora klíč Windows 10 Pro Education partnerovi, který ji pak může poskytnout zákazníkovi.
 
-Když zákazník nainstaluje klíč a zařízení se připojí k doméně tenanta přes Azure Active Directory (AAD), zařízení se automaticky upgraduje na vzdělávání Windows 10 (předplatné).   
+Když zákazník nainstaluje klíč a zařízení je připojené k doméně tenanta prostřednictvím Azure Active Directory (AAD), zařízení se automaticky upgradune na Windows 10 Education (předplatné).   
 
-## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>Podrobný postup pro zákazníky, kteří získají vzdělávání s Windows 10
+## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>Podrobný postup, který zákazníkům nabízí Windows 10 Education
 
-Partneři by měli vytvořit žádost o podporu a získat klíče z podpory. Partneři pak tyto klíče Sdílejte se svými zákazníky.
+Partneři by měli vytvořit žádost o podporu a získat klíče z podpory. Partneři pak tyto klíče sdílejí se svými zákazníky.
 
 ### <a name="partners--how-to-get-the-keys"></a>Partneři – jak získat klíče:
 
 1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard).
 
-2. V nabídce partnerské Centrum vyberte **zákazníci** a pak vyberte zákazníka, který potřebuje podporu.
+2. V nabídce Partnerské centrum vyberte **Zákazníci** a pak vyberte zákazníka, který potřebuje podporu.
 
-3. Vyberte možnost **Správa služeb** a vyberte **žádosti o služby**.
+3. Vyberte **Service management (Správa** služeb) a **vyberte Service requests (Žádosti o služby).**
 
-4. Vyberte **nový požadavek** a pak vyberte **Office 365 a Enterprise Mobility Suite**.
+4. Vyberte **Nový požadavek** a pak **vyberte Office 365** a Enterprise Mobility Suite.
 
 5. Budete na portálu Office 365, kde se musíte přihlásit pomocí svých přihlašovacích Partnerské centrum účtu.
 
@@ -52,10 +52,10 @@ Partneři by měli vytvořit žádost o podporu a získat klíče z podpory. Par
 
 7. Do následujícího seznamu Support request:
 
-- **Název:** Windows 10 Home upgradu Windows 10 Education kód Product Key
+- **Název:** Windows 10 Home se Windows 10 Education kód Product Key
 - **Popis:** Vyžádání klíčů [insert number] pro povolení upgradu na Windows 10 Education. (Všimněte si, že požadovaný počet klíčů nesmí být větší než vaše licence předplatného Microsoft 365 A3/A5 nebo Windows 10 Enterprise předplatného A3/A5.) ID předplatného zákazníka [vložte GUID ID předplatného zákazníka pro Microsoft 365 předplatné A3/A5 nebo Windows 10 Enterprise předplatné A3/A5.]
 - **Kontaktní číslo:** Toto bude předem vyplněno. zkontrolujte, zda chcete tuto aktualizaci potvrdit nebo aktualizovat.
-- **E-mail:** Bude předem vyplněný a měl by to být e-mail, který používáte jako správce portálu Microsoft Portal (jenom globální správce nebo správce fakturace).
+- **E-mail:** Ten bude předem vyplněný a měl by to být e-mail, který používáte jako správce portálu Microsoft Portal (jenom globální správce nebo správce fakturace).
 - **Upřednostňovaný způsob kontaktování:** Zvolte **Telefon** nebo **Naplánovat volání zpět.**
 
 8. Vyberte **Kontaktujte mě.** Očekávaná doba čekání je uvedená v **podokně Potřebujete pomoc?**
@@ -68,30 +68,30 @@ Partneři by měli vytvořit žádost o podporu a získat klíče z podpory. Par
 
 Pokud Windows 10 Home pomocí Windows 10 Pro Education kód Product Key, musí zákazník provést následující akce:  
 
-1. Vyberte **Start** a pak vyberte **Nastavení > Update & Security > Activation**. Vyberte **Změnit kód Product Key** a pak zadejte 25 znaků Windows 10 Pro Kód Product Key. Výběrem **možnosti** Další spusťte upgrade na Windows 10 Pro.
+1. Vyberte **Start** a pak vyberte **Nastavení > Update & Security > Activation**. Vyberte **Změnit kód Product Key** a pak zadejte 25znaky Windows 10 Pro Kód Product Key. Výběrem **možnosti** Další spusťte upgrade na Windows 10 Pro.
 
 2. Když je zařízení připojené k doméně tenanta (prostřednictvím AAD), automaticky se upgradune na Windows 10 Education.  
 
 ## <a name="frequently-asked-questions"></a>Nejčastější dotazy
 
 **Kteří zákazníci mají nárok?**
-Zákazníci CSP, kteří mají nárok na akademickou verzi a mají aktivní předplatná Windows 10 Enterprise a3/a5 nebo Microsoft 365 a3/A5, mohou upgradovat svoje domácí zařízení s Windows 10 na vzdělávání s Windows 10. Nasměrováním dalších zákazníků pro vzdělávání, kteří si tyto nabídky vypracují, prostřednictvím VL na Volume Licensing Service Center (VLSC).
+Zákazníci CSP, kteří mají nárok na akademické instituce a mají aktivní předplatná s licencí Windows 10 Enterprise A3/A5 nebo Microsoft 365 A3/A5, mohou svá zařízení Windows 10 Home upgradovat na Windows 10 Education. Nasměrovat ostatní zákazníky v oblasti vzdělávání, kteří tyto nabídky licenčním prostřednictvím VL, nasměrují na Volume Licensing Service Center (VLSC).
 
-**Je možné, že tento proces používají vaši zákazníci s VL?**
-Ne, zákazníci s multilicencí, kteří mají licenci prostřednictvím registrace řešení pro vzdělávání (EES), Open Value Subscription for školství Solutions (OVS-ES) a School by měli přejít na [VLSC](https://www.microsoft.com/Licensing/servicecenter/default.aspx) a stáhnout si produkty a klíče. 
+**Mohou zákazníci s virtuálními klienty tento proces použít?**
+Ne, zákazníci SL, kteří licenciují prostřednictvím programu Enrollment for Education Solutions (EES), předplatného Open Value for Education Solutions (OVS-ES) a školy, by si měli stáhnout produkty a klíče na [VLSC.](https://www.microsoft.com/Licensing/servicecenter/default.aspx) 
 
-**Můj zákazník potřebuje více klíčů, než bylo původně požadováno. Jak je můžu získat?**
-Můžete odeslat další žádost o podporu pro klíče pro domácí zařízení s Windows 10 pro zákazníka. Celkové množství v rámci více požadavků by nemělo být větší než jejich celková aktivní licence na předplatná Microsoft 365 a3/a5 nebo Windows 10 Enterprise a3/a5.
+**Zákazník potřebuje víc klíčů, než původně požadoval. Jak je můžu získat?**
+Můžete odeslat další žádost o podporu ke klíčům pro zařízení zákazníka Windows 10 Home zařízení. Celkové množství napříč několika požadavky by nemělo být větší než jejich celkové aktivní licence Microsoft 365 A3/A5 nebo Windows 10 Enterprise předplatných A3/A5.
 
-**Zákazník se chystá koupit další domácí zařízení s Windows 10. Můžou získat další upgrady?**
-Zákazníci s vzděláváním by měli zvážit nízké náklady na zařízení s Windows 10, a to prostřednictvím našeho [tvaru budoucího](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) programu a eliminující nutnost upgradovat zařízení s Windows 10 Home. Pokud si koupíte další domácí zařízení s Windows 10, partneři musí odeslat novou žádost o podporu prostřednictvím portálu pro správu Microsoftu.
+**Můj zákazník si koupí další Windows 10 Home zařízení. Mohou získat další upgrady?**
+Zákazníci v oblasti vzdělávání by měli zvážit nízkonákladová zařízení Windows 10 Education prostřednictvím našeho Shape the Future [programu](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) a eliminovat potřebu upgradu Windows 10 Home zařízení. Pokud si zakoupí více Windows 10 Home zařízení, musí partneři odeslat novou žádost o podporu prostřednictvím portálu pro správu Microsoftu.
 
-**Existuje konečný termín, kdy kontaktovat podporu a získat kód pro upgrade?**
-Upgrade Windows 10 školství je založený na aktivních předplatných Microsoft 365 a3/a5 nebo Windows 10 Enterprise a3/a5. Pokud zákazník předplatné neprodlouží nebo neobnoví, způsobila se taky platnost tohoto upgradu.
+**Existuje konečný termín, kdy se obrátit na podporu a získat klíč upgradu?**
+Upgrade Windows 10 Education Microsoft 365 je založený na aktivních předplatných A3/A5 nebo A3/A5 Windows 10 Enterprise předplatného A3/A5 zákazníka. Pokud zákazník předplatné neprodlouží ani neprodlouží, nárok na upgrade také skončí.
 
 ## <a name="next-steps"></a>Další kroky
 
-**Kde se můžou partneři dozvědět víc o vzdělávání Windows 10?**
+**Kde mohou partneři získat další informace o Windows 10 Education?**
 
-- [Funkce Eduction systému Windows](https://www.microsoft.com/education/products/windows/features)
-- [Centrum vzdělávání Windows](/education/windows/)
+- [Funkce Windows Eduction](https://www.microsoft.com/education/products/windows/features)
+- [Centrum Windows Education](/education/windows/)

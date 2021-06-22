@@ -9,18 +9,18 @@ ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc31915660b6a82954daee5fcc8fb2d5292e725c
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 6c486d4866b0a2a912801d2648a1822418687078
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795002"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431705"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Pochopení souborů odsouhlasení na základě využití a jejich konkrétních polí v Partnerské centrum
 
 **Odpovídající role:** Správce účtu | Správce fakturace
 
-Pokud chcete porovnat poplatky s využitím zákazníka, porovnejte hodnoty **ResellerID**, **ResellerName** a  **ResellerBillableAccount** ze souboru s vyrovnáním se jménem zákazníka a **ID** předplatného ze seznamu Partnerské centrum.
+Pokud chcete poplatky odsouhlasit s využitím zákazníka, porovnejte hodnoty **ResellerID**, **ResellerName** a  **ResellerBillableAccount** ze souboru s vyrovnáním se jménem zákazníka a **ID** předplatného ze seznamu Partnerské centrum.
 
 ## <a name="fields-in-usage-based-reconciliation-files"></a>Pole v souborech s vyrovnáním na základě využití
 
@@ -31,35 +31,35 @@ V následujících polích jsou vysvětlené použité služby a sazba.
 | ID partnera | Identifikátor partnera ve formátu GUID. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | Název partnera. | *Contoso, Ltd.* |
 | PartnerBillableAccountId | Identifikátor partnerského účtu. | *1010578050* |
-| CustomerCompanyName | Název organizace zákazníka, jak je hlášeno v Partnerské centrum. *Velmi důležité pro odsoustavu faktury s informacemi o systému.* | *Testování zákazníka* |
-| MpnId | Identifikátor MPN partnera CSP. | *4390934* |
+| CustomerCompanyName | Název organizace zákazníka, jak je hlášeno v Partnerské centrum. *To je velmi důležité pro odsoustavu faktury s informacemi o systému.* | *Testování zákazníka* |
+| ID mpn | Microsoft Partner Network (MPN) partnera Cloud Solution Provider (CSP). | *4390934* |
 | ResellerMpnId | Identifikátor MPN prodejce záznamu pro předplatné.  |
-| InvoiceNumber | Číslo faktury, kde se zobrazí zadaná transakce. | *D020001IVK* |
-| ChargeStartDate | Počáteční datum fakturačního cyklu, s výjimkou, kdy se prezentují data dříve neúčtovaných dat o latentních použitích (z předchozího cyklu vyúčtování). Čas je vždy začátek dne, tj. 0:00. | *2/1/2019 0:00* |
-| ChargeEndDate | Koncové datum fakturačního cyklu, s výjimkou, kdy prezentují data dříve neúčtovaných dat latentního použití (z předchozího cyklu vyúčtování). Čas je vždy koncem dne, 23:59. | *2/28/2019 23:59* |
-| SubscriptionId | Jedinečný identifikátor předplatného na platformě fakturace Microsoftu Může být užitečné k identifikaci předplatného při kontaktování podpory. Nepoužívá se pro odsouhlasení. *To není stejné jako **ID předplatného** v konzole pro správu partnerů.* | *usCBMgAAAAAAAAIA* |
-| SubscriptionName | Přezdívka pro nabídku služby | *Microsoft Azure* |
-| SubscriptionDescription | Odvětví nabídky služeb. | *Microsoft Azure* |
-| OrderID | Jedinečný identifikátor pro objednávku na platformě fakturace Microsoftu. Může být užitečné k identifikaci předplatného při kontaktování podpory. Nepoužívá se pro odsouhlasení. | *566890604832738111* |
-| ServiceName | Název příslušné služby Azure. | *VIRTUÁLNÍ POČÍTAČE* |
-| ServiceType | Konkrétní typ služby Azure. | *Service Bus – jednotlivec nebo balíček*, *databáze SQL Azure – Business nebo Web Edition* |
-| ResourceGuid | Specifický jedinečný identifikátor pro všechna data služby a cenovou strukturu. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
-| ResourceName | Název prostředku Azure. | *Přenos dat v (GB)* *přenos odchozích dat (GB)* |
-| Oblast | Oblast, na kterou se vztahuje použití Primárně se používá k přiřazování sazeb přenosům dat, protože tarify se liší podle oblasti. | *Asie a Tichomoří*, *evropa*, *Latinská Amerika* *Severní Amerika* |
-| Skladová jednotka (SKU) | Jedinečný identifikátor Microsoft pro nabídku | *7UD – 00001* |
+| InvoiceNumber | Číslo faktury, kde se zadaná transakce objeví. | *D020001IVK* |
+| ChargeStartDate | Počáteční datum fakturačního cyklu, s výjimkou případů, kdy se prezentují data dříve nevyúčtovaných latentních dat o využití (z předchozího fakturačního cyklu). Čas je vždy začátek dne, tj. 0:00. | *2/1/2019 0:00* |
+| ChargeEndDate | Koncové datum fakturačního cyklu, s výjimkou případů, kdy se prezentují data dříve nevyúčtovaných latentních dat o využití (z předchozího fakturačního cyklu). Čas je vždy konec dne, 23:59. | *2/28/2019 23:59* |
+| SubscriptionId | Jedinečný identifikátor předplatného na fakturační platformě Microsoftu Může být užitečné identifikovat předplatné při kontaktování podpory. Nepouží se k odsouhlasení. *Toto není stejné jako **ID předplatného** v konzole pro správu partnera.* | *usCBMgAAAAAAAAIA* |
+| SubscriptionName | Přezdívku pro nabídku služby. | *Microsoft Azure* |
+| Popis předplatného | Obchodní činnost nabídky služby. | *Microsoft Azure* |
+| OrderID | Jedinečný identifikátor objednávky na fakturační platformě Microsoftu Může být užitečné identifikovat předplatné při kontaktování podpory. Nepouží se k odsouhlasení. | *566890604832738111* |
+| ServiceName | Název této služby Azure. | *VIRTUÁLNÍ POČÍTAČE* |
+| ServiceType | Konkrétní typ služby Azure. | *Service Bus – individuální nebo balíček*, databáze SQL Azure – Business nebo Web *Edition* |
+| ResourceGuid | Konkrétní jedinečný identifikátor pro všechna data služby a cenovou strukturu. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
+| ResourceName | Název prostředku Azure. | *Přenos dat v (GB)*, *přenos dat (GB)* |
+| Oblast | Oblast, na kterou se využití vztahuje. Primárně slouží k přiřazování sazeb k přenosům dat, protože sazby se liší podle oblastí. | *Asie a Tichomoří*, *Evropa,* *Latinská Amerika*, *Severní Amerika* |
+| Skladová jednotka (SKU) | Jedinečný identifikátor Microsoftu pro nabídku | *7UD-00001* |
 | ID položky DetailLineItem | Identifikátor a množství pro položky různých sazeb pro službu nebo prostředek v daném fakturačním období. U cen v úrovních Azure může být jedna sazba až pro určité množství fakturovatelných jednotek a po tomto množství jiná sazba. | *1* |
 | ConsumedQuantity | Množství spotřebované služby (například hodiny nebo GB) během období generování sestav. Zahrnuje také jakékoli nefaktované využití z předchozích období generování sestav. | *11* |
 | IncludedQuantity | Jednotky zahrnuté jako součást nabídky. V CSP se obvykle nenacháduje. | *0* |
 | OverageQuantity | Jednotky, které nejsou součástí nabídky. Za tyto účty musí platit partner. Rovná **se ConsumedQuantity** minus **IncludedQuantity**. | *11* |
 | Listprice | Cena nabídky, která platí k počátečnímu datu předplatného. | *0,0808 USD* |
 | PretaxCharges | Rovná se **ListPrist vynásobené** **hodnotou OverageQuantity** zaokrouhlené na nejbližší cent. | *0,085 USD* |
-| TaxAmount (Částka daně) | Účtované částky daně. Na základě daňových pravidel a konkrétních okolností vašeho trhu. | *0,08 USD* |
-| PostTaxTotal | Total after tax, when tax is applicable. | *0,93 USD* |
-| Měna | Typ měny. Každá fakturační entita má jenom jednu měnu. Zkontrolujte, že odpovídá vaší první faktuře a potom po všech hlavních aktualizacích fakturační platformy. | *EUR* |
-| PretaxEffectiveRate | Cena předtávk na jednotku. Rovná se **PretaxCharges** dělené **overageQuantity** zaokrouhlené na nejbližší cent. | *0,08 USD* |
-| PostTaxEffectiveRate | Po zdanění za jednotku Rovná se **PostTaxTotal** dělené **overageQuantity** zaokrouhlené na nejbližší cent. Nebo se rovná **PretaxEffectiveRate** plus daňová sazba za jednotku, zaokrouhleno na nejbližší cent. | *0,08 USD* |
-| ChargeType | Typ [poplatku nebo](recon-file-charge-types.md) úpravy. | Viz [typy poplatků.](recon-file-charge-types.md) |
-| CustomerId | Jedinečný identifikátor Microsoftu pro zákazníka ve formátu GUID | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| TaxAmount (Částka daně) | Účtuje se částka daně. V závislosti na daňových pravidlech na trhu a konkrétních okolnostech. | *$0,08* |
+| PostTaxTotal | Celkem po dani, pokud je daň platná. | *$0,93* |
+| Měna | Typ měny. Každá fakturační entita má pouze jednu měnu. Ověřte, že odpovídá vaší první faktuře a potom po všech hlavních aktualizacích fakturačních platforem. | *EUR* |
+| PretaxEffectiveRate | Pretax cena za jednotku. Rovná se **PretaxCharges** dělený **OverageQuantity**, zaokrouhlený na nejbližší cent. | *$0,08* |
+| PostTaxEffectiveRate | Účtujte daňovou cenu na jednotku. Rovná se **PostTaxTotal** dělený **OverageQuantity**, zaokrouhlený na nejbližší cent. Nebo se rovná **PretaxEffectiveRate** plus daňová sazba za jednotku a zaokrouhluje se na nejbližší cent. | *$0,08* |
+| ChargeType | [Typ poplatků](recon-file-charge-types.md) nebo úprav. | Viz [typy poplatků](recon-file-charge-types.md). |
+| CustomerId | Jedinečný identifikátor Microsoft pro zákazníka ve formátu GUID. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | DomainName | Název domény zákazníka. Toto pole může být prázdné až do druhého fakturačního cyklu. | *example.onmicrosoft.com* |
 | BillingCycleType | Frekvence fakturace času.| **měsíčně**  |
 | Jednotka | Jednotka **názvu** prostředku. | *GB* nebo *hodiny* |
