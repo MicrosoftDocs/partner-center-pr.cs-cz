@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: 9d34a8e7674d178dc3217e36cee25b2d9ad6c36a
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 06/18/2021
+ms.openlocfilehash: 101d67e42970e0aab4b2ea8bf0bc230cf57109d1
+ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740348"
+ms.lasthandoff: 06/21/2021
+ms.locfileid: "112424988"
 ---
 # <a name="december-2020-announcements"></a>Oznámení z prosince 2020
 
@@ -51,39 +51,39 @@ Zůstatek souběžnosti můžete na [řídicím panelu příjmů](https://partne
 
 ### <a name="next-steps"></a>Další kroky
 
-- Pokračujte v řízení marketingu, generování poptávky a úsilí o připravenost a do 45 dnů od dokončení odešlete žádosti o oprávněné aktivity.
-- Pravidelně zkontrolujte zůstatek na účtu spolupráce a ujistěte se, že celou částku využijete do 30. června 2021 do ukončení období využití H2.
+- Pokračujte v řízení marketingu, generování poptávky a úsilí o připravenost a odešlete deklarace identity pro oprávněné aktivity do 45 dnů od dokončení.
+- Pravidelně kontrolujte svůj zůstatek účtu souběžného nastavování, abyste měli jistotu, že použijete celou částku na konci období použití H2 dne 30. června 2021.
 
 ### <a name="questions"></a>Máte otázky?
 
-Doporučené kroky a články samoobslužné podpory pro dotazy související s pobídkou najdete tak, že na panelu hledání na domovské stránce Partnerské centrum "incentives". Pokud potřebujete další pomoc, můžete žádost o podporu [vytvořit](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) přímo v Partnerské centrum. Další informace najdete [na aka.ms/IncentivesSupport](https://aka.ms/IncentivesSupport).
+Doporučené kroky a články věnované samoobslužným nápovědu pro otázky týkající se pobídky najdete na domovské stránce centra hledání na domovské stránce partnerského centra. Pokud potřebujete další pomoc, můžete vytvořit [žádost o podporu](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) přímo v partnerském centru. Další informace najdete na adrese [aka.MS/IncentivesSupport](https://aka.ms/IncentivesSupport).
 
 ________________
 
-## <a name="docusign-migration-to-adobe-sign-in-2021-for-partners-who-have-microsoft-partner-agreements-mpas"></a><a name="12"></a>Migrace DocuSign na Adobe Sign v roce 2021 pro partnery, kteří mají smlouvy MPA (Microsoft Partner Agreements)
+## <a name="docusign-migration-to-adobe-sign-in-2021-for-partners-who-have-microsoft-partner-agreements-mpas"></a><a name="12"></a>DocuSign migrace do Adobe Signing 2021 pro partnery, kteří mají partnerské smlouvy Microsoftu (MPAs)
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 22. 12. 2020
-- Možnosti – vylepšuje dodržování předpisů zabezpečení & zabezpečení.
+- Datum: 2020-12-22
+- Možnosti – vylepšuje zabezpečení & dodržování předpisů
 
 ### <a name="summary"></a>Souhrn
 
-Microsoft přechází veškeré zpracování elektronických podpisů z DocuSign na Adobe Sign.
+Microsoft převede všechny e-mailové zpracování podpisů z DocuSign na symbol Adobe.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Cloud Solution Provider (CSP) se Smlouvami o partnerech Microsoftu (MPA)
+Partneři poskytovatele Cloud Solution Provider (CSP) s smlouvami o partnerech Microsoftu (MPAs)
 
 ### <a name="details"></a>Podrobnosti
 
-Adobe Sign je preferované řešení MICROSOFTu pro elektronické podpisy (ESS). V lednu 2021 začne Microsoft převést veškeré zpracování elektronických podpisů z DocuSign na Adobe Sign, počínaje mpa. Měli byste očekávat hladký přechod. Po migraci budete dostávat e-maily z účtu, který vám poskytne odkaz na [adobesign@adobesign.com](mailto:adobesign@adobesign.com) nové podpisové prostředí. Nejlepších je přidat uživatele do [adobesign@adobesign.com](mailto:adobesign@adobesign.com) seznamu bezpečných odesílatelů.
+Adobe signed je preferované řešení elektronické signatury Microsoftu (ESS) od Microsoftu. V lednu 2021 začne Microsoft přecházet všemi elektronickými zpracováními podpisů z DocuSign na symbol Adobe počínaje MPAs. Měli byste očekávat hladký přechod. Po migraci obdržíte e-maily z [adobesign@adobesign.com](mailto:adobesign@adobesign.com) účtu, který vám poskytne odkaz na nové podpisové prostředí. Pro dosažení co nejlepších výsledků přidejte [adobesign@adobesign.com](mailto:adobesign@adobesign.com) do seznamu Bezpeční odesílatelé.
 
-Přechod na Adobe Sign zajistí zabezpečené a efektivní prostředí pro elektronické podpisy, které zákazníkům a partnerům zajistí větší hodnotu. Další informace o plánech migrace účtu na Adobe Sign získáte v lednu 2021.  
+Přechod na symbol Adobe zajišťuje zabezpečené a efektivní prostředí elektronického podpisu, které našim zákazníkům a partnerům poskytne větší hodnotu. Další informace týkající se plánů migrace účtů získáte v lednu 2021. ledna.  
 
 ### <a name="next-steps"></a>Další kroky
 
-Tyto informace můžete sdílet s příslušnými účastníky ve vaší organizaci. Další informace o migraci odešleme v lednu 2021.
+Tyto informace sdílejte s příslušnými zúčastněnými stranami ve vaší organizaci. Do ledna 2021 budeme posílat další informace týkající se migrace.
 
 ### <a name="questions"></a>Máte otázky?
 
@@ -119,41 +119,41 @@ V souhrnu budou následující soubory s cenami k dispozici obvyklým způsobem 
 - Cenové soubory založené na využití, ale jenom s aktualizacemi až do 21. prosince 2020
 - Ceníky rezervací na základě využití
 - Ceníky předplatných softwaru
-- Ceníky časově neomezeného softwaru
-- Ceníky spotřeby plánu Azure
+- Seznamy ceníků trvalého softwaru
+- Ceníky pro spotřebu plánu Azure
 - Ceníky rezervací plánu Azure
-- Směnné kurzy spotřeby cizích kurzů plánu Azure
+- Tarify pro cizí Exchange s využitím plánu Azure
 
-Následující soubor s cenami se aktualizuje do 4. ledna 2021 ve 18:00 PST:
+Následující soubor cen bude aktualizován souborem 18:00 PST 4. ledna 2021:
 
-- Soubory cen na základě využití
+- Cenové soubory na základě využití
 
-Partnerské centrum bude aktualizován aktualizacemi z ledna 2021 do 5. ledna 2021 ve 18:00 PST.
+Katalog partnerského centra se aktualizuje s aktualizacemi z ledna 2021 od 5. ledna 2021 v 18:00 PST.
  
 ______________
 
-## <a name="microsoft-365-apps-and-services-support-of-internet-explorer-11-and-microsoft-edge-legacy-announcement"></a><a name="10"></a>Microsoft 365 podpory aplikací a služeb pro Internet Explorer 11 a Microsoft Edge starší verze
+## <a name="microsoft-365-apps-and-services-support-of-internet-explorer-11-and-microsoft-edge-legacy-announcement"></a><a name="10"></a>Podpora aplikací Microsoft 365 Apps a služeb pro Internet Explorer 11 a Microsoft Edge – oznámení starší verze
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 21. 12. 2020
+- Datum: 2020-12-21
 - Možnosti
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Správci IT, pracovníci s rozhodovací pravomocí v IT, vedoucí pracovníci v oddělení informačních informací a koncoví uživatelé
+Správci IT, IT pracovníci IT, ředitelé informačních pracovníků a koncoví uživatelé
 
 ### <a name="details"></a>Podrobnosti
 
-Microsoft 365, a to jak v kontextu spotřebitele, tak v komerčním kontextu, se tato změna dobře posloužila díky rychlejšímu a responzivnímu webovému přístupu k více sadám funkcí v běžných sadách nástrojů, jako jsou Outlook, Teams, SharePoint a další.
+Microsoft 365 předplatitelé v obou spotřebitelských i obchodních kontextech budou dobře obsluhováni s touto změnou prostřednictvím rychlejšího a většího reakce na webový přístup k více sadám funkcí v každodenních sadách nástrojů, jako je Outlook, týmy, SharePoint a další.
 
-Nový Microsoft Edge je naším nejlepším výrazem moderního prohlížeče a těšíme se, až si ji zákazníci chytí. Teď, když jsme dodali nové Microsoft Edge a upgradovali většinu našich zákazníků Windows 10 do nového prohlížeče, končíme podporou starší Microsoft Edge desktopové aplikace.
+Nový Microsoft Edge je náš nejlepší výraz pro moderní prohlížeč a myslíme se na to, že se na něj zákazníci setkávají. Teď, když jsme poslali nové Microsoft Edge a upgradovali jsme většinu našich zákazníků s Windows 10 do nového prohlížeče, končíme podporu pro desktopovou aplikaci Microsoft Edge starší verze.
 
 **Dopad změny**
 
-- Od **30. listopadu 2020** se zákazníci už nebudou moct připojit k webové aplikaci Microsoft Teams na Internet Explorer 11. Microsoft věří, že zákazníci budou při používání nového Microsoft 365 co nejlépe používat moderní [Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
-- Po **9. březnu 2021** budou aplikace Microsoft Edge weby vytvořené pro starší verzi fungovat i v novém Microsoft Edge, ale pokud dojde k problému s kompatibilitou, existuje příslib [App Assure,](/fasttrack/products-and-capabilities#app-assure) že budou poskytovat podporu.
-- Po **17. srpnu 2021** budou mít zákazníci snížený výkon nebo se nebudou moci připojit k Microsoft 365 aplikacím a službám na Internet Explorer 11. Microsoft věří, že zákazníci budou při používání nového Microsoft 365 co nejlépe používat moderní [Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+- Od **listopadu 30 2020** se zákazníci už nebudou moci připojit k webové aplikaci Microsoft Teams v Internet Exploreru 11. Microsoft se domnívá, že zákazníci budou mít na maximum Microsoft 365 a nejlepší výraz pro moderní prohlížeč při použití [nového Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+- Od **března 9 2021** budou aplikace a weby vytvořené pro starší verze Microsoft Edge nadále fungovat v novém Microsoft Edge, ale pokud dojde k potížím s kompatibilitou, bude mít aplikace k dispozici [příslib](/fasttrack/products-and-capabilities#app-assure) k zajištění podpory.
+- Od **srpna 17 2021** budou mít zákazníci zhoršené prostředí nebo se nebudou moci připojit k Microsoft 365 aplikacím a službám v Internet Exploreru 11. Microsoft se domnívá, že zákazníci budou mít na maximum Microsoft 365 a nejlepší výraz pro moderní prohlížeč při použití [nového Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
 
 ### <a name="next-steps"></a>Další kroky
 
@@ -208,7 +208,7 @@ Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující
 
 1. Partner má přímý fakturační vztah s Microsoftem (to znamená, že partner je buď přímým partnerem, nebo nepřímým poskytovatelem).
 
-2. Partner spolupracuje s novými nebo stávajícími zákazníky v následujících zemích:
+2. Partner pracuje s novými nebo stávajícími zákazníky v těchto zemích:
 
     - Thajsko
     - Vietnam
@@ -224,11 +224,11 @@ Microsoft běží na důvěryhodnosti. Zavázali jsme se poskytovat vyhovující
     - Spojené arabské emiráty
     - Venezuela
 
-Partneři, kteří splňují tato kritéria, budou muset při příští aktualizaci nebo vytvoření předplatného pro tohoto zákazníka odeslat ID registrace společnosti zákazníka (označované také jako INN organizace zákazníka) a telefonní číslo. Tito partneři můžou volitelně zadat také druhé jméno zákazníka.
+Partneři, kteří splňují kritéria, budou muset odeslat registrační ID společnosti zákazníka (označované také jako DIČ organizace zákazníka) a telefonní číslo při příští aktualizaci nebo vytvoření předplatného pro daného zákazníka. Tito partneři můžou volitelně zadat také druhé jméno zákazníka.
 
-Upozorňujeme, že když přidáte ID registrace společnosti, měli byste použít své DIČ, a ne osobní ID zákazníka.
+Všimněte si, že při přidání registračního ID vaší společnosti byste měli použít své obchodní daňové ID, nikoli osobní ID zákazníka.
 
-Partneři, kteří podniká s novými nebo stávajícími zákazníky v následujících zemích, jsou už v listopadu 2020 onboardované s předchozím vydáním.
+Partneři, kteří pracují s novými nebo stávajícími zákazníky v následujících zemích, už jsou připojení k předchozí verzi v listopadu 2020.
 
 - Arménie
 - Ázerbájdžán
@@ -242,34 +242,34 @@ Partneři, kteří podniká s novými nebo stávajícími zákazníky v následu
 - Ukrajina
 - Uzbekistán
 
-Partneři se zákazníky ve zbytku světa budou mít na konci března 2021 možnost zadat jako volitelné podrobnosti ID registrace společnosti, telefonní číslo a prostřední jméno pro zákazníky.
+Partneři se zákazníky ve zbývající části světa budou mít na konci března 2021 možnost zadat ID registrace společnosti, telefonní číslo a prostřední jméno pro zákazníky jako volitelné podrobnosti.
 
 ### <a name="next-steps"></a>Další kroky
 
-- Podrobnější pokyny najdete v technické dokumentaci [](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) a nejčastějších dotazech ve vyhrazené kolekci partnerů.
-- Připravte se na začlenění změn pomocí Partnerské centrum API a webového uživatelského prostředí. Rozhraní API nebo sdk budou k dispozici pro testování.
-- Nezapomeňte odeslat další data při onboardingu nových zákazníků nebo úpravě stávajících podrobností o zákaznících.
-- Pokud používáte řešení dodavatele ovládacích panelů (CPV), obraťte se na svého dodavatele CPV.
+- Podrobnější pokyny najdete v technické dokumentaci a nejčastější dotazy v [kolekci](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) vyhrazených partnerů.
+- Připravte se na začlenění změn pomocí rozhraní API partnerského centra a uživatelského prostředí pro web. Pro testování bude k dispozici rozhraní API/sady SDK.
+- Nezapomeňte odeslat další data při připojování nových zákazníků nebo úpravách stávajících informací o zákaznících.
+- Pokud používáte řešení v rámci ovládacího panelu (CPV), obraťte se na CPV.
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud máte nějaké dotazy související s ID registrace společnosti (nazývaným také "INN" nebo "TIN"). Microsoft nemůže poskytnout pokyny k daňovým záležitostem.
+Pokud máte dotazy související s ID registrace společnosti (označované také jako DIČ nebo DIČ), kontaktujte daňového poradce nebo místní finanční kancelář. Microsoft nemůže poskytnout pokyny k daňovým aspektům.
 
-Pokud potřebujete podporu k operacím s Microsoftem, otevřete žádost [o služby.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Pokud potřebujete podporu s vašimi operacemi s Microsoftem, otevřete [žádost o služby](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ### <a name="change-log"></a>Protokol změn:
 
-17. prosince 2020: Původní publikace
+17. prosince 2020: původní publikace
 
-Druhé aktualizace dubna:
+2. dubna aktualizace:
 
 - Zadané datum spuštění
-- Název zařízení ORGANIZATION INN byl aktualizován na ID registrace společnosti.
-- Přidání poznámky pro objasnění ID registrace společnosti
+- Název DIČ organizace byl aktualizován na ID registrace společnosti.
+- Přidali jsme poznámku, která poskytuje objasnění ID registrace společnosti.
 
 ______________
 
-## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Připomenutí: Časově neomezené software v Cloud Solution Provider (CSP) široce dostupný od ledna 2021
+## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Připomenutí: trvalá aplikace v programu Cloud Solution Provider (CSP), která je v podstatě dostupná od ledna 2021
 
 ### <a name="categories"></a>Kategorie
 
@@ -299,7 +299,7 @@ K následujícímu datu dojde také:
 
 ### <a name="perpetual-software-in-csp"></a>Trvalé software v CSP
 
-Přidání trvalého softwaru do programu CSP v novém prostředí pro obchod zkrátí čas a náklady, které partneři musí strávit při správě více licenčních programů. To bude mít za následek vylepšené možnosti prodeje, provozu a správy. Partneři rozšiřují své firmy tím, že nabízejí různorodá řešení a spravované služby s flexibilitou kombinovat licence a spravované služby pro hybridní cloudová prostředí a dále urychlit přechod jejich zákazníků na cloud. Zákazníci pak budou těžit ze zjednodušeného přístupu a větší flexibility při nákupu softwarových licencí. Tento proces nákupu je snadno pochopitelný, přímo vylepšuje správu licenčních prostředků a má předvídatelné náklady.
+Přidání trvalého softwaru do programu CSP v novém prostředí pro obchod zkrátí čas a náklady, které partneři musí strávit při správě více licenčních programů. To bude mít za následek vylepšené možnosti prodeje, provozu a správy. Partneři můžou své firmy rozšířit tak, že nabízejí různá řešení a spravované služby s flexibilitou pro kombinování licencí a spravovaných služeb pro hybridní cloudová prostředí a dále urychlují přechod zákazníků do cloudu. Zákazníci zase budou využívat zjednodušený přístup a větší flexibilitu při nákupu softwarových licencí. Tento nákupní proces je snadno srozumitelný, přímo vylepšuje správu prostředků licencování a má předvídatelné náklady.
 
 ### <a name="next-steps"></a>Další kroky
 
@@ -315,7 +315,7 @@ Projděte si následující zdroje informací a podělte se o ně s příslušn�
 
 ### <a name="questions"></a>Máte otázky?
 
-Pokud máte další dotazy k těmto nabídekm, podívejte se na příslušné komunity Yammeru.
+Pokud máte k těmto nabídek jakékoli další dotazy, podívejte se na příslušné komunity Yammeru.
 
 ### <a name="change-log"></a>Protokol změn:
 
@@ -334,58 +334,58 @@ ______________
  
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Přímá faktura, nepřímí poskytovatelé a vícevrství partneři, kteří se účastní Cloud Solution Provider (CSP).
+Přímá faktura, nepřímí poskytovatelé a vícevrství partneři účastnící se Cloud Solution Provider (CSP).
 
 ### <a name="details"></a>Podrobnosti
 
 V souladu s vaším Smlouva s partnerem Microsoftu (viz část Online služby a autorizace softwarového kanálu **–** Oznámení o změnách – Změny v příručkách) vás Microsoft upozorní, že se aktualizuje Průvodce autorizací online služeb a softwarového kanálu. 
 
-[Zde je dostupná](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf)verze Preview aktualizované příručky s Redline, která značí změny, [které jsou k dispozici](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf). Tato aktualizace vstoupí v platnost 30 dní od data tohoto oznámení; v tuto chvíli není potřeba žádná další akce.
+Verze Preview aktualizovaného průvodce je k [dispozici tady](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf)s červenou linou, která značí změny, které jsou k [dispozici tady.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf) Tato aktualizace začne na vstupu do 30 dnů od data tohoto oznámení. V tuto chvíli od vás není potřeba nic dalšího.
 
 ### <a name="next-steps"></a>Další kroky
 
-Nevyžaduje se žádná akce. Tato informace je pouze pro informaci.
+Nevyžaduje se žádná akce. To je jenom pro informaci.
 
 ______________
 
-## <a name="power-apps-promo-offer-now-available"></a><a name="5"></a>Propagační nabídka Power Apps je teď k dispozici.
+## <a name="power-apps-promo-offer-now-available"></a><a name="5"></a>Power Apps dostupná propagační nabídka
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2020-12-16
+- Datum: 16. 12. 2020
 - Nabídky/trhy
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina
 
-Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Podrobnosti
 
-Nabízená nabídka Power Apps, která byla původně naplánována na 1. prosince 2020, byla mírně odložena. Nabídka by měla být k dispozici 16. prosince 2020. Tato nabídka je k dispozici za sníženou cenu a má za následek další významné rozdíly z typických nabídek v partnerském centru.
+Power Apps propagační nabídky původně naplánované na 1. prosince 2020 se mírně zpožďovala. Nabídka by měla být dostupná 16. prosince 2020. Tato nabídka je k dispozici za sníženou cenu a má jiný velký rozdíl od obvyklých nabídek v Partnerské centrum.
  
-**Podrobnosti nabídky**
+**Podrobnosti o nabídce**
 
-- Nabídka bude k dispozici k nákupu až do 30. června 2021.
-- Nabídka je 12 měsíců za sníženou cenu, jako jsou další nabídky CSP.
-- Tato nabídka se neobnoví a vyprší na konci 12 měsíců. Zpočátku bude vlastnost autorenew nastavená na **hodnotu true** , ale tato hodnota se změní, takže platnost nabídky skončí na konci dvanáctiměsíčního období nabídky.
-- Pokud chtějí dál používat služby poskytované počáteční propagační nabídkou, musí si partneři koupit nabídku nepropagačních cenových nabídek (ID nabídky: 5e1087b6-246b-4503-b88a-b60bdf0b3840).
+- Nabídka bude k dispozici k nákupu do 30. června 2021.
+- Nabídka je 12měsíční období za sníženou cenu, podobně jako u jiných nabídek CSP.
+- Tato nabídka nebude automatickynová a její platnost vyprší na konci 12měsíčního období. Zpočátku se vlastnost autoenew nastaví na **True,** ale změní se, takže platnost nabídky vyprší na konci 12měsíčního období nabídky.
+- Pokud chtějí partneři dál používat služby poskytované počáteční propagační nabídkou, musí si koupit nabídku bez propagační ceny (ID nabídky: 5e1087b6-246b-4503-b88a-b60bdf0b3840) před uplynutím 12měsíčního platnosti.
 
 **Podrobnosti o cenách**
 
-Podrobnosti o cenách nabídky níže v této nabídce budou uvedené v seznamu ceníků z ledna 2021.
+Podrobnosti o cenách nabídek pro tuto nabídku najdete v ceníku pro leden 2021.
 
-- Zobrazované jméno nabídky: zvýšení úrovně pro Power Apps podle plánu aplikace (minimální pracovní stanice 200)
+- Zobrazovaný název nabídky: Power Apps na povýšení plánu aplikace (200 míst min)
 - ID nabídky: 988b7b06-e034-4b3e-89ea-51198cb2723e
-- Typ licenční smlouvy: firemní
+- Typ licenční smlouvy: Firemní
 - Nákupní jednotka: 1 měsíc(y)
 - Typ sekundární licence: NEURČITÁ
-- Ceníkové ceny: Ceníkové ceny si můžete stáhnout [z tohoto umístění.](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n) Poznámka: Ke stažení cen budete muset být Partnerské centrum přihlášení. Pokud nejste přihlášení k Partnerské centrum, zobrazí se chybová zpráva o stavu **Neautorizované.**
-- Erp Price (Cena ERP): Zatím není k dispozici, vyhledejte ERP této nabídky v příští lednové aktualizaci ceníku 1. ledna 2021.
+- Ceníkové ceny: Ceníkové ceny si můžete stáhnout [z tohoto umístění.](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n) Poznámka: Ke stažení cen budete muset být Partnerské centrum přihlášení. Pokud nejste přihlášení k Partnerské centrum, zobrazí se chybová  zpráva o stavu Neautorizované.
+- Cena ERP: Zatím není k dispozici, vyhledejte ERP této nabídky v příští lednové aktualizaci ceníku dne 1. 1. 2021
 - ID materiálu: SEQ-00016
  
 **Podrobnosti o nabídce**
 
-Podrobnosti o nabídce níže pro tuto nabídku najdete v matici seznamu nabídek pro leden 2021.
+Podrobnosti o nabídce níže pro tuto nabídku najdete v matici seznamu nabídek z ledna 2021.
 
 - ID zřizování: POWERAPPS_PER_APP
 - Doba trvání: 1 rok
@@ -393,16 +393,15 @@ Podrobnosti o nabídce níže pro tuto nabídku najdete v matici seznamu nabíde
 - Minimální počet míst: 200
 - Max Seat Count (Maximální počet míst): 10000000
 - Limit nabídky: Žádné
-- Povolené země: odlehlé ostrovy USA, angličtina (Francouzská jižní teritoria), Bouvet – ostrov, Britské území v Indickém oceánu, Jemen, Heardův and Mc Donald ostrovy, Wallis a Futuna, Vanuatu, Antarktida, Tuvalu, Somálsko, Tokelau, Sierra Leone, Svazijsko, Svatá Helena, ascension, Tristan da Cunha, SÃ ł o TomÃ © a PrÃncipe, Pitcairnovy ostrovy, Palau, Šalamounovy ostrovy, Nauru, Niue, ostrov Guiney, Guinea-Bissau , Cookovy ostrovy, Eritrea, Vánoční ostrov, Burkina Faso, Středoafrická republika, Kosova, Kokosové ostrovy (Keeling), Svalbard a Jan Mayen, Ã... pozemní ostrovy, Jižní Súdán, Jižní Georgie a Jižní Sandwichovy ostrovy, Samoa, Svatý BarthÃ © lemy, Britské Panenské ostrovy, Saint Pierre a Miquelon, Čad, Niger, Montserrat, Guyana, Haiti, Gambie, Guam, Guinea, Gabon, Grenada, Gibraltar, Guernsey, Libérie, Mikronésie, Falklandské ostrovy, Dominika, Džibutsko, Konžská demokratická republika, Zimbabwe, Americká Samoa, Zambie, Jižní Afrika, Mayotte, Svatý Vincent a Grenadiny, USA (Vatikán) , Ukrajina, Uganda, Uzbekistán, USA, Uruguay, Tanzanie, Tchaj-wan, Trinidad a Tobago, Turecko, Tunisko, Tonga, Východní Timor, Turkmenistán, Tádžikistán, Thajsko, Togo, Salvador, Sint Martin, Turks a Caicos, Surinam, Singapur, Slovinsko, San Marino, Senegal, Slovensko, Švédsko, Seychely, Saúdská Arábie, Srbsko, Rwanda, Srbsko, Rumunsko, RÃ © unie, Katar, Paraguay, Portugalsko, palestinská Nová Guinea, Francouzská Polynésie , Nový Zéland, Omán, Nepál, Nizozemsko, Norsko, Nigérie, Mexiko, Nikaragua, Nová Kaledonie, Namibie, Mosambik, Malajsie, Mexiko, Martinik, Malawi, Maledivy, Mauricius Malta, Myanmar, Macao – zvláštní administrativní oblast, Mongolsko, Mali, Madagaskar, Marshallovy ostrovy, Makedonie, BRJ, Jižní hory, Svatý Martin, Maroko, Malta, Moldavsko, Lotyšsko, Lucembursko, Lucembursko, Maďarsko, Lichtenštejnsko, Malta, Lotyšsko, Lotyšsko, Lotyšsko, Lotyšsko, Lotyšsko, Kuvajt, Jugoslávie , Jamajka, Jersey, Itálie, Island, Irák, Irsko, Indie, Indonésie, ostrov Man, Honduras, Izrael, Maďarsko, Hongkong – zvláštní správní oblast, Chorvatsko Guatemala, Řecko, francouzština, francouzština, Grónsko, Kypr, Faerské ostrovy, Spojené království, Gruzie, Francie, ostrovy, Etiopie, Finsko, Španělsko, Egypt, Estonsko, Dominikánská republika, Rakousko, Německo, Švýcarsko, Kolumbie, Kolumbie, CuraÃ § Ao, mysu Verde, Kostarika, Chile, Kamerun, Kolumbie, CÃ ́te dâ €™ Ivoire, Kanada, Švýcarsko , Belize, Bělorusko, Botswana, Bhútán, Bahamy, Bonaire, Sint Eustach a Saba, Brazílie, Benin, Bělorusko, Bermudy, Bolívie, Belgie, Bulharsko, Bahrajn, Burundi, Bosna, Rakousko, Egypt, Barbados, Ázerbájdžán, Aruba, Austrálie, albánsk, Spojené arabské emiráty, Antigua a Barbuda
+- Povolené země: Odlelých ostrovy USA, angličtina (francouzština jižní území), Bouvetův ostrov, Britská indickou oceánská oblast, Yemen, Heard And Mc Donald Islands, Wallis and Futuna, Vanuatu, Antarctica, Tuvalu, Somalia, Tokelau, Sierra Kaskády, Swaziland, St Pohromy, Ascension, Tristan da Emha, S O© a PrÇncipe, Pitcairnovy ostrovy, Vynu, Šimonské ostrovy, Na zamířené, Niue, Ostrůvek, Otevírané a Severní Asie , Lesotho, Kiribati, Equatorial Guinea, Guinea-Bissau, Cookovy ostrovy, Eritrea, Nasín Faso, Středoafrická republika, Připové, Cocos (Keelingovy) ostrovy, Špicbard a Jan Mayen, Ka... land Islands, South Neso, Jižní Káiye a Jižní Sandwichovy ostrovy, Samoa, Svatý Barthréj©lemie, Britské Panenské ostrovy, Svatý Pierre a Miquelon, Chad, Niger, Montserrat, Guyana, Guyana, Saom, Pomíj, Korea, Sémanton, Guernsey, Liberia, Micronesia, <3>landské ostrovy, <6>a, Djibouti, Zamísťování( DRC), Zamíce, Americká Samoa, Jižní Afrika, Mayotte, Vietnam, Djibouti, Zamísťování (DRC), <6>, Americká Samoa, Jižní Afrika, Mayotte, Vietnam, Stáj a Aracy , U.S. Virgin Islands, <0>, <0> See (Kaskádové město), U.S. Virgin Islands, U.S. Virgin Islands, USA, <0>, Ku wan, Tchaj-wan, <0> a Tobago, Kaskády, Tonga, Timor-Leste, Pomaleji, Tchaj-wan, Togo, El Polan, Sint Maarten, Sint Maarten, Suriname, Singapur, Slacku, Slacku, San Polanu, Slacku, Slacku, Saúdskou Arábii, Saúdskou Arábii©union, Zem, Zamísku, Saúdská Arábie, Portugalsko, Čína, Čína , Territory, Occupied, Kaskády, Portoriko, Kaskádová, Užívná, Čína, Papua New Guinea, Francouzština Polynéština, Nový Zéland, Oman, Kaskády, Nizozemsko, Nikarda, Nikardon, New Caledonia, Spojené království, Mexiko, Martinique, Séman, Macao SAR, Zamícené, Zamícené ostrovy, Zamícené, Zamířené, Zamíscené, Zamířené, Zamíscené ostrovy, Zamíscené ostrovy, Zamíce, Zamířené, Zamícené, Zamířené a zašedené , Jejich Ostrov, Caymanovy ostrovy, Kaskády, Laos, Kaskády, Korea, Comidas, Kaskády, Svatý Kitts a Nevis, Kaskády, Japonsko, Korea, Jižní Korea, Malajsie, Indonéština, Isle of Man,Speci,Speci, Hongkong SAR, Intuice, Pomaleji, Sjednocené Ostrovy, Francie, Fiji, Zamísťování, Sjednocené ostrovy, Francie, Fiji, Zamísťování, Francie, Francie, Fiji, Arménie, Greenland, United Kingdom, United Kingdom, France, Fiji, Zamísku, Zamísce, Zamíce, Arménie, Francie, Francie, Fiji, Arménie, Indie, Indonie, Isle of Man a Nevis. , Česká republika, Švýcarsko, Německo, Nizozemsko, Česká republika, CuraÇ©ao, Kapverdy, <8> <8> <8>, <8>, Kamerun, Kaskády, C te dí™Ivoire, Kanada, Švýcarsko, <8>, Zamíce, Zamíří, Zamíce, Sint Eustatius a Sint Eustatius, Brazílie, Benin, <9>ei, Síba, Zamíce, Zamíce, Zamíce, Zamísce, Austrálie, Argentina, Argentina, Čína, Čína, Zamísce, Zamísce, Zamíce, Arménie, Austrálie, Argentina, Arménie , Narština, Anemla, Kaskády, Spojené arabské emiráty, <1> a Barbuda
 
 ### <a name="next-steps"></a>Další kroky
 
-- Propagační nabídka bude k dispozici v oficiálním ceníku a seznamu nabídek v Partnerském centru CSP 1. ledna 2021. 
-- Dotazy týkající se této propagační akce je možné odeslat do oznámení [komunity Microsoftu.](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540)
+- Propagační nabídka bude k dispozici v oficiálním ceníku a seznamu nabídek partnerského centra CSP 1. ledna 2021.
 
 ______________
 
-## <a name="sdk-release-on-net-standard-v1163"></a><a name="4"></a>Vydání sady SDK na .NET Standard (v1.16.3)
+## <a name="sdk-release-on-net-standard-v1163"></a><a name="4"></a>Vydání sady SDK na .NET Standard (verze 1.16.3)
 
 ### <a name="categories"></a>Kategorie
 
@@ -436,52 +435,52 @@ Od prosince 08 2020 mohou partneři začít stahovat verzi [sady MicrosoftPartne
 ### <a name="next-steps"></a>Další kroky
 
 - Stáhněte si nejnovější verzi [MicrosoftPartnerCenter.NETSDK (galerie NuGet | Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)
-- Stažení a kontrola ukázek [GitHubu](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
+- Stažení a kontrola [ukázek GitHubu](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
 
 ______________
 
-## <a name="december-2020-license-based-price-list-release-notes"></a><a name="3"></a>Poznámky k verzi ceníku založené na licencích z prosince 2020
+## <a name="december-2020-license-based-price-list-release-notes"></a><a name="3"></a>Poznámky k verzi ceníku založeného na licencích z prosince 2020
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2020-12-8
+- Datum: 8. 12. 2020
 - Nabídky/trhy
 
 ### <a name="summary"></a>Souhrn 
 
-V tabulce ceníku na základě licence a seznamu nabídek v prosinci 2020 se nachází několik problémů.
+Tabulka ceníků a nabídek založená na licencích z prosince 2020 má několik problémů.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina 
 
-Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Podrobnosti
 
-Seznam ceníků pro licence a seznam nabídek v prosinci obsahuje několik anomálií. Tyto problémy se vztahují jenom na cenové soubory založené na licencích a měly by se v aktualizacích od ledna 2021 opravovat.
+Prosincové ceníky založené na licencích a maticové soubory seznamu nabídek obsahují několik anomálií. Tyto problémy se týkají pouze souborů s cenami na základě licencí a v aktualizacích z ledna 2021 by se měly opravit.
 
-#### <a name="incorrect-offers-in-the-license-based-price-list"></a>Nesprávné nabídky v ceníku na základě licence
+#### <a name="incorrect-offers-in-the-license-based-price-list"></a>Nesprávné nabídky v ceníku založeném na licencích
 
-Ceníky na základě licence v prosinci obsahují níže uvedené nabídky, které by neměly být v ceníkech. Tyto nabídky byly dříve zahrnuty do ceníku v chybě a neměly by být publikovány. Neexistuje žádný plán, podle kterého mohou být tyto nabídky k dispozici. V budoucnu budou v případě, že jsou přidány zpět, uvedeny jako přidané v budoucích verzích Preview.
+Prosincové ceníky založené na licencích obsahují následující nabídky, které by neměly být v ceníkech. Tyto nabídky byly dříve zahrnuty do ceníků chybně a neměly by být publikovány. Neexistuje žádný plán, kdy mohou být tyto nabídky k dispozici. Pokud se v budoucnu přičtou zpět, budou v budoucích ceníkech preview uvedené jako ADD.
 
    |**Název nabídky**|**ID nabídky**|
    |-------------------|:------|
-   |Dynamics 365 lidské zdroje (ceny nezisků)|1596fa61-7da1-4263-98f8-b27dfa4cfbb5|
-   |Dynamics 365 lidské zdroje připojit k opravňující nabídce Dynamics 365 Base (ceny za neziskové ceny)|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
-   |Dynamics 365 lidské zdroje připojit k opravňujícímu Dynamics 365 Base nabídky (nabídka neziskových cen) (kvalifikovaná nabídka)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
-   |Dynamics 365 lidské zdroje – Sandbox (ceny nezisků)|079ec5ba-d726-4384-95af-62d135c210d2|
+   |Dynamics 365 Human Resources (ceny pro neziskové organizace)|1596fa61-7da1-4263-98f8-b27dfa4cfbb5|
+   |Dynamics 365 Human Resources Attach to Qualifying Dynamics 365 Base Offer (Nonprofits Pricing)|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
+   |Dynamics 365 Human Resources Attach to Qualifying Dynamics 365 Base Offer (Nonprofits Pricing) (Kvalifikovaná nabídka)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
+   |Dynamics 365 Human Resources Sandbox (ceny pro neziskové organizace)|079ec5ba-d726-4384-95af-62d135c210d2|
    |Dynamics 365 Human Resources Self-Service (Ceny pro neziskové organizace)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
    |Dynamics 365 Operations – Order Lines (Ceny pro neziskové organizace)|7dd6b78a-3d53-47f8-8a64-bd84609a9a70|
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Nesprávné nabídky v matici seznamu nabídek
    
-Následující nabídky byly v matici seznamu nabídek chybně. Nejsou k dispozici, zatím není k dispozici cílové datum dostupnosti. Partneři by tyto řádkové položky měli ignorovat.
+Níže uvedené nabídky byly v matici seznamu nabídek chybně. Nejsou k dispozici, zatím není k dispozici cílové datum dostupnosti. Partneři by tyto řádkové položky měli ignorovat.
 
    |**Název nabídky**|**ID nabídky**|
    |-------------------|:------|
    |Dynamics 365 Operations – Kapacita databáze (ceny pro neziskové organizace)|1d3f4d81-89b9-419e-a880-31b2c50b8d66|
    |Dynamics 365 Operations – Kapacita souborů (ceny pro neziskové organizace)|dc173a86-285b-444c-881e-3ece531f67da|
 
-#### <a name="powerapps-offer"></a>Nabídka Powerapps
+#### <a name="powerapps-offer"></a>Nabídka PowerApps
 
 Tato nabídka byla součástí matice seznamu nabídek, ale ne v prosincovém ceníku. Nabídka je dostupná a ceny najdete v souboru ceníku z listopadu z předchozího měsíce. Tato nabídka by se měla přidat zpět do ceníku pro leden.
 
@@ -491,7 +490,7 @@ Tato nabídka byla součástí matice seznamu nabídek, ale ne v prosincovém ce
 
 ### <a name="next-steps"></a>Další kroky
 
-Při odhalení dalších problémů se často podívejte na poznámky k verzi, které budou k tomuto oznámení připojeny.
+Při odhalení dalších problémů se často podívejte na poznámky k verzi, které se k tomuto oznámení připojí.
 
 ### <a name="last-updated"></a>Naposledy aktualizované
 
@@ -499,37 +498,37 @@ Při odhalení dalších problémů se často podívejte na poznámky k verzi, k
 
 ______________
 
-## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Brzy bude k dispozici aktualizace nabídky us Microsoft 365 Business Voice s volajícím plánem.
+## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Brzy bude k dispozici aktualizace nabídky US Microsoft 365 Business Voice s volajícím plánem.
 
 ### <a name="categories"></a>Kategorie
 
-- Datum: 2020-12-3
+- Datum: 3. 12. 2020
 - Nabídky/trhy
 
 ### <a name="summary"></a>Souhrn 
 
-Od 1. ledna 2021 začne Microsoft přecházet mezi partnery a zákazníky v USA na nový Microsoft 365 Business hlas pomocí nabídky plánu volání. Není vyžadována žádná akce partnera.
+1. ledna 2021 začne Microsoft přechádovat partnery a zákazníky v USA na novou nabídku Microsoft 365 Business Voice s nabídkou vvolání plánu. Nevyžaduje se žádná akce partnera.
 
 ### <a name="impacted-audience"></a>Ovlivněná cílová skupina 
 
-Všechny partnery, kteří se docházejí prostřednictvím programu Cloud Solution Provider (CSP)
+Všichni partneři, kteří provádí transakce prostřednictvím Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Podrobnosti
 
-Společnost Microsoft nahradí stávající obchodní hlas pomocí nabídky plánu volání v USA novou nabídkou pro podporu vnitřních požadavků na produkty výpovědi. Nová nabídka bude mít stejnou sadu funkcí a ceny. Změny nabídky jsou interní pro společnost Microsoft a neměly by mít vliv na způsob, jakým partneři CSP budou mít na trh, prodávat nebo podporovat obchodní hlas pomocí nabídky plánu volání. Tato změna se vztahuje pouze na tuto nabídku.
+Microsoft nahradí stávající nabídku obchodního plánu v USA nabídkou vvolání za novou nabídku na podporu interních požadavků na produkty telco. Nová nabídka bude mít stejnou sadu funkcí a ceny. Změny nabídek jsou interní a neměly by mít vliv na to, jak partneři CSP nabízejí, prodávají nebo podporují nabídku Business Voice s plánem volání. Tato změna se bude vztahovat pouze na tuto nabídku.
 
-V případě nových prodejů použijete novou nabídku od 1. ledna 2021. Stará nabídka bude nahrazena novou nabídkou na ceníku.
+Pro nové prodeje použijete novou nabídku od 1. ledna 2021. Původní nabídka bude nahrazena novou nabídkou v ceníku.
 
-Stávající zákazníci budou po datu obnovení automaticky převedeni na novou nabídku. Od partnerů se nevyžaduje žádná akce, která by obnovila zákazníky.
+Stávající zákazníci budou automaticky přecházení na novou nabídku k datu jejich prodloužení. Partneři a prodlužující platnost zákazníků nepožadují žádnou akci.
 
 
-* * Nové nabídky – podrobnosti
+**Podrobnosti o nové nabídce
  
    |**Název nabídky**|**ID nabídky**|**ID materiálu**|
    |-------------------|:------|:------|
-   |Microsoft 365 Business hlas (US)|86713ec1-ad33-42cf-a1ce-8397d4d875fe|PZW-00023|
+   |Microsoft 365 Business Voice (USA)|86713ec1-ad33-42cf-a1ce-8397d4d875fe|PZW-00023|
    
-* * Staré nabídky – podrobnosti
+**Podrobnosti o staré nabídce
 
    |**Název nabídky**|**ID nabídky**|**ID materiálu**|
    |-------------------|:------|:------|
@@ -554,7 +553,7 @@ Partneři, kteří prodávají akademické nabídky prostřednictvím Cloud Solu
 
 ### <a name="summary"></a>Souhrn 
 
-Microsoft běží na vztahu důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečnou a zabezpečenou metodu ověřování zákazníků pro transakce s akademickými nabídkami v Cloud Solution Provider programu. V rámci tohoto závazku představujeme vylepšení rozhraní PARTNERSKÉ CENTRUM API Partnerské centrum uživatelského rozhraní, která zlepší úspěšnost prověřování zákazníků a umožní vám získat přehled o procesu prověřování zákazníků. 
+Microsoft běží na vztahu důvěryhodnosti. Zavázali jsme se poskytovat vyhovující, bezpečnou a zabezpečenou metodu ověřování zákazníků pro transakce s akademickými nabídkami v Cloud Solution Provider programu. V rámci tohoto závazku představujeme vylepšení rozhraní PARTNERSKÉ CENTRUM API Partnerské centrum uživatelského rozhraní, která přidávají přehlednost Partnerské centrum přehled o procesu prověřování zákazníků a také možnost zadat přesnější data, což zlepší úspěšnost prověřování zákazníků. 
 
 **Partnerské centrum vylepšení** 
 
@@ -562,9 +561,9 @@ Microsoft běží na vztahu důvěryhodnosti. Zavázali jsme se poskytovat vyhov
 
 - Vylepšení uživatelského rozhraní pro podporu přesného zadávání dat a vylepšení procesu ověřování zákazníků v oblasti vzdělávání od Microsoftu. 
 
-**Vyněcování stávajících rozhraní GET a PUT kvalifikačních rozhraní API** 
+**Vynění stávajících rozhraní GET a PUT kvalifikačních rozhraní API** 
 
-Stávající kvalifikační rozhraní API GET a PUT budou vyřazena **do konce února 2021.** V tu chvíli budete muset přejít na nová rozhraní API get a POST Partnerské centrum, abyste mohli nakupovat nabídky pro vzdělávání.  
+Stávající kvalifikační rozhraní API GET a PUT se vyřazení před **koncem února 2021.** V tu chvíli budete muset přejít na nová rozhraní API get a POST Partnerské centrum, abyste mohli nakupovat nabídky pro vzdělávání.  
 
 **Testování** 
 
@@ -572,26 +571,26 @@ Aby partneři lépe pochopili rozhraní API a zadávání dat vyžadované pro �
 
 **Zákazníci knihoven a kaskád** 
 
-Kromě výše uvedených vylepšení jsme s radostí oznamujeme, že budeme umožňovat akademické nabídky pro zákazníky s knihovnou a Museum a rozšíříte si zákazníky s vzděláváním, se kterými můžete vyřizovat nabídky služby Transact CSP. 
+Kromě výše uvedených vylepšení s radostí oznamujeme, že povolíme nabídky pro zákazníky knihoven a kytek za akademické ceny a rozšíříme zákazníky v oblasti vzdělávání, se kterými můžete nabídky CSP provádět. 
 
-Společnost Microsoft si vyhrazuje právo zkontrolovat stav každého zákazníka nebo navrženého zákazníka jako kvalifikovaného vzdělávacího uživatele. Úplné podrobnosti najdete v článku [požadavky školního uživatele na vzdělávání](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) . 
+Microsoft si vyhrazuje právo zkontrolovat stav libovolného zákazníka nebo navrhovaného zákazníka jako kvalifikovaný vzdělávací uživatel. Úplné podrobnosti [najdete v části Academic Qualified Education User Requirements.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
 
-### <a name="next-stepsadditional-resources"></a>Další kroky/další zdroje informací
+### <a name="next-stepsadditional-resources"></a>Další kroky / další zdroje informací
 
-- Projděte si nové uživatelské rozhraní partnerského centra, změny rozhraní API a průvodce v prostředcích připravenosti operací: vylepšení procesu  [ověřování zákazníků z partnerského centra](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) . 
+- Projděte si nové Partnerské centrum Uživatelské rozhraní, změny rozhraní API a průvodce v nárocích k provozní připravenosti: vylepšení procesu ověřování zákazníků [Partnerské centrum education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) 
 
-- Zajistěte, aby vaše organizace byla obeznámena s [požadavky školního uživatele na vzdělávání](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+- Ujistěte se, že je vaše organizace obeznámená s [požadavky uživatelů academic qualified education](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
 
-- Tyto informace můžete sdílet s příslušnými týmy v rámci vaší organizace a s prodejci, aby se mohly připravit na tyto změny. 
+- Tyto informace můžete sdílet s příslušnými týmy ve vaší organizaci a s prodejci, aby se na tyto změny připravili. 
 
 ### <a name="change-log"></a>Protokol změn 
 
-31. srpna 2020: původní publikace 
+_ 31. srpna 2020: Původní publikace 
 
-- 25. září 2020: přidala se aktualizace testovacího okna. 
+- 25. září 2020: Přidání aktualizace testovacího okna 
 
-- 4. října 2020: připomenutí pro registraci k testování 
+- 4. října 2020: Připomenutí registrace k testování 
 
-- 10. listopadu 2020: připomenutí pro registraci k testování 
+- 10. listopadu 2020: Připomenutí registrace k testování 
 
-- 3. prosince 2020: Dynamická aktualizace rozhraní API
+- 3. prosince 2020: Živé aktualizace rozhraní API
