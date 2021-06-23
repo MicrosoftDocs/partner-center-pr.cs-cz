@@ -1,159 +1,159 @@
 ---
-title: Přepnutí partnera s přímým vyúčtováním na nepřímého prodejce
+title: Přepínací partner s přímým fakturací na nepřímý prodejce
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zjistěte, jak může programový partner CSP Partnerské centrum k přechodu z partnera s přímým vyúčtováním na nepřímého prodejce.
+description: Přečtěte si, jak může partner programu Cloud Solution Provider (CSP) využít partnerského centra k přechodu od přímého vyúčtování do nepřímého prodejce.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e57c4a5d0a02079e887b38fa9754d276062d20cc
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 205451a1c42c6538936df49ba8a4314372a94082
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276412"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490049"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Přechod z partnera CSP (Cloud Solution Provider) s přímým vyúčtováním na nepřímého prodejce CSP
 
-**Odpovídající role:** Globální správce
+**Příslušné role**: globální správce
 
 >[!Note]
->Tento článek je určený pro partnery s přímým vyúčtováním, kteří se rozhodli přejít na nepřímé prodejce. I když jste se ale ještě explicitně nerozhodla, že se zaregistrují jako nepřímý [](direct-partner-new-requirements.md) prodejce, budou partneři s přímým vyúčtováním, kteří nesplňuje nové požadavky na program partnera CSP s přímým vyúčtováním, informováni Microsoft, že jejich možnosti přímého vyúčtování budou [omezené.](restricted-direct-bill-capabilities.md)
-<br>Od ledna 2021 se přidá nový požadavek na výnosy. Partneři zaregistrovaní jako partner s přímým vyúčtováním budou muset v průběhu předchozích 12 měsíců provést transakce s výnosy z programu Cloud Solution Provider minimálně 300 000 USD na úrovni globálního účtu partnera.
+>Tento článek je určený pro přímé partnery, kteří se rozhodli přejít na nepřímé prodejce. Nicméně i v případě, že jste ještě neučinili explicitní rozhodnutí k registraci jako nepřímý prodejce, partneři s přímým účtováním, kteří nesplňují nové [požadavky](direct-partner-new-requirements.md) na partnerský program pro přímý přístup CSP, budou od Microsoftu informováni, když [budou jejich přímé možnosti vyúčtování omezeny](restricted-direct-bill-capabilities.md).
+<br>Od ledna 2021 se přidá nový požadavek na tržby. Partneři, kteří se zaregistrovali jako poskytovatel s přímým účtováním, budou muset v výnosech programu CSP za předchozích 12 měsíců brát v úvahu aspoň USD $300K.
 
-Do programu nepřímého prodejce se budete moct zaregistrovat pomocí stávajícího tenanta s přímým vyúčtováním.
+V programu nepřímý prodejce se budete moci zaregistrovat pomocí stávajícího klienta přímé fakturace.
 
 ## <a name="get-started"></a>Začínáme
 
-1. Ujistěte se, že váš profil partnera Partnerské centrum a ID MPN jsou aktuální.
+1. Zajistěte, aby byl váš partnerský profil v partnerském centru a ID Microsoft Partner Network (MPN) aktuální.
 
-2. Přihlaste se Partnerské centrum jako globální správce tenanta s přímým vyúčtováním, který přecházíte na nepřímého prodejce.
+2. Přihlaste se do partnerského centra jako globální správce pro klienta přímé fakturace, který přecházíte na nepřímý prodejce.
 
    :::image type="content" source="images/direct/direct1.png" alt-text="Přehled.":::
 
-3. Zkontrolujte podrobnosti o partnerovi ve formuláři pro registraci.
+3. Projděte si podrobnosti o partnerovi ve formuláři Registrace.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Zaregistrujte se hned.":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Zaregistrujte se hned teď.":::
 
-4. Vyberte Zaregistrovat. Váš nepřímý prodejce bude používat stejného tenanta AAD, který používáte pro vaši přímou firmu.
-
-    > [!NOTE]
-    > Na začátku bude tato nová možnost přechodu dostupná pro partnery od září do prosince. Pokud mezi zářím a prosincem nemáte datum výročí, tuto možnost v tuto chvíli neuvidíte. Partneři s kalendářními daty výročí po prosinci 2018 budou upozorněni později, jakmile je tato funkce pro partnery povolená.
-
-5. Po schválení registrace se znovu přihlaste Partnerské centrum přihlášení.
+4. Vyberte možnost zaregistrovat nyní. Váš nepřímý prodejce bude používat stejný tenant Microsoft Azure Active Directory (Azure AD), kterého používáte pro svůj přímý podnik.
 
     > [!NOTE]
-    > Schválení je obvykle okamžité, ale může trvat až pět pracovních dnů. Po schválení obdržíte oznámení na e-mailovou adresu, kterou jste zadali v primárním kontaktu ve formuláři registrace. Stav registrace můžete zkontrolovat také v části **Nastavení**  >  **Nastavení účtu**  >  **Profil partnera a** > programu.
+    > Zpočátku bude tato nová možnost přechodu dostupná pro partnery, kteří budou mít datum výročí od září do prosince. Pokud nebudete mít datum výročí od září do prosince, tato funkce se v tuto chvíli nezobrazí. Po povolení funkce pro partnery budou partneři s datem výročí od prosince 2018 upozorněni později.
 
-6. Na stránce **Přehled** uvidíte smlouvu s nepřímým prodejcem. Vyberte **Přijmout a pokračujte.** Tato akce povolí možnosti nepřímého prodejce.
+5. Po schválení registrace se znovu přihlaste do partnerského centra.
 
-Po přijetí smlouvy s nepřímým prodejcem si všimněte, že váš profil partnera vás identifikuje jako **přímého** i nepřímého prodejce.
+    > [!NOTE]
+    > I když je schválení obvykle okamžité, může trvat až pět pracovních dnů. Po schválení obdržíte oznámení na e-mailovou adresu, kterou jste zadali v části primární kontakt v registračním formuláři. Stav registrace můžete také ověřit v části **Nastavení**  >  **Nastavení účtu**  >  **profil partnera** > informace o programu.
 
-:::image type="content" source="images/direct/direct3.png" alt-text="Smlouva s nepřímým prodejcem.":::
+6. Na stránce s **přehledem** se zobrazí smlouva nepřímý prodejce. Vyberte **přijmout a pokračovat**. Tato akce povoluje možnosti nepřímých prodejců.
+
+Když přijmete nepřímý prodejce, Všimněte si, že váš partnerský profil vás **identifikuje jako přímý a** nepřímý prodejce.
+
+:::image type="content" source="images/direct/direct3.png" alt-text="Nepřímá smlouva pro prodejce.":::
 
 > [!IMPORTANT]
-> Jakmile se zaregistrujete jako nepřímý prodejce pomocí nové funkce, není možné se vrátit k tenantovi s přímým vyúčtováním. Než se zaregistrujete jako nepřímý prodejce, ujistěte se, že plně vyhodnotíte své obchodní potřeby.
+> Po registraci jako nepřímý prodejce pomocí nové funkce není k dispozici možnost vrátit se zpět k přímému klientovi pouze s fakturací. Před registrací jako nepřímý prodejce prosím ověřte, že jste plně vyhodnotili své obchodní potřeby.
 
-## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Při přechodu z přímého na nepřímého prodejce
+## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Při přechodu z přímého na nepřímý prodejce
 
-Během této fáze budete dál spravovat potřeby předplatného vašich přímých zákazníků, včetně fakturačního procesu. Můžete také začít přijímat zákazníky od nepřímého poskytovatele a pracovat jako nepřímý prodejce.
+V průběhu této fáze budete nadále spravovat požadavky vašich přímých zákazníků do předplatného, včetně fakturačního procesu. Můžete také začít přijímat zákazníky od svého nepřímého poskytovatele a provozovat jako nepřímý prodejce.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Jste přímým i nepřímým prodejcem.":::
+:::image type="content" source="images/direct/direct4.png" alt-text="Máte přímý i nepřímý prodejce.":::
 
 ## <a name="find-an-indirect-provider"></a>Vyhledání nepřímého poskytovatele
 
-Po registraci se v levém navigačním panelu zobrazí odkaz na nepřímé poskytovatele. Jako nepřímý prodejce navázáním vztahu s nepřímým poskytovatelem, který pak může zpracovávat fakturaci, kupovat produkty pro vaše zákazníky a infrastrukturu podpory.
+Po registraci se v levém navigačním panelu zobrazí odkaz na nepřímé poskytovatele. Jako nepřímý prodejce vytvoříte relaci s nepřímým poskytovatelem, který potom může zpracovávat vaše fakturace, koupit produkty pro vaše zákazníky a podporovat infrastrukturu.
 
-Different indirect providers offer different support and services, so you should evaluate the providers in your area to determine which ones best meet your needs. Většina poskytovatelů obecně:
+Různí nepřímá zprostředkovatelé nabízejí různé podpory a služby, takže byste měli vyhodnotit poskytovatele ve vaší oblasti, abyste zjistili, které z nich nejlépe vyhovují vašim potřebám. Obecně platí, že většina zprostředkovatelů bude:
 
-- Zajištění technického školení a pomoci
-- Pomoc s prodát produkty a službami
-- Správa licenčních podmínek a podmínek kreditu
+- Poskytování technického školení a pomoci
+- Vaše produkty a služby vám pomůžou uvádět na trh.
+- Spravujte svoje finanční a úvěrové smlouvy.
 
-Vyhledejte seznam oficiálních nepřímých [poskytovatelů Microsoftu.](https://partnercenter.microsoft.com/partner/find-a-provider)
+Vyhledejte v seznamu oficiálních [zprostředkovatelů nepřímých od Microsoftu](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-Další informace najdete v informacích  [o partnerech s nepřímými poskytovateli.](indirect-reseller-tasks-in-partner-center.md)
+Další informace, přečtěte si  [partnera pomocí nepřímých zprostředkovatelů](indirect-reseller-tasks-in-partner-center.md)
 
 ## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Přijetí pozvánky k partnerství od nepřímého poskytovatele
 
-Když najdete nepřímého poskytovatele pro partnery, navázání partnerství s nepřímým poskytovatelem v Partnerské centrum.
+Když najdete nepřímý poskytovatel s partnerem, vytvořte partnerství s nepřímým zprostředkovatelem v partnerském centru.
 
-Nepřímý poskytovatel, který vyberete, vám pošle e-mailem odkaz na pozvánku k partnerství, který vás na jeho pozvánku v Partnerské centrum. Ujistěte se, že se globální správce přihlásí k Partnerské centrum a že následuje odkaz na pozvánku. Když pozvánku přijmete, název poskytovatele se zobrazí v seznamu nepřímých poskytovatelů.
+Nepřímo vybraný poskytovatel vám pošle e-mail s oznámením o partnerství, které vás přesměruje na jejich pozvánku v partnerském centru. Ujistěte se, že se globální správce přihlašuje do partnerského centra a sleduje odkaz na pozvánku. Po přijetí pozvánky se v seznamu nepřímých zprostředkovatelů zobrazí název poskytovatele.
 
-## <a name="acquire-new-customers-as-indirect-reseller"></a>Získání nových zákazníků jako nepřímý prodejce
+## <a name="acquire-new-customers-as-indirect-reseller"></a>Získat nové zákazníky jako nepřímý prodejce
 
-Vy i váš nepřímý poskytovatel musíte mít se zákazníky vztah prodejce. Tyto vztahy s prodejcem umožňují spravovat předplatná a služby zákazníka jejich jménem. Pokud chcete získat nového zákazníka, který má existujícího tenanta Azure AD, můžete zákazníka pozvat, aby ve stejnou chvíli vytvořil vztah prodejce s vaším i vaším poskytovatelem.
+Vy i váš nepřímo váš zprostředkovatel potřebujete mít zákazníkům vztahy prodejců. Tyto vztahy prodejců vám umožňují spravovat předplatná a služby zákazníka jménem. Pokud chcete získat nového zákazníka, který má stávajícího tenanta služby Azure AD, můžete zákazníka pozvat k navázání vztahu prodejce s vámi i vaším poskytovatelem ve stejnou dobu.
 
-Vytvoření pozvánky nepřímého prodejce:
+Postup vytvoření nepřímých pozvání k prodejci:
 
-1. V **levém navigačním** panelu vyberte Partnerské centrum poskytovatelé.
+1. Výběr **nepřímých zprostředkovatelů** z partnerského centra s levou navigací
 
-2. Vyberte **Pozvat nové zákazníky,** aby pozvat zákazníka, aby navázání vztahu prodejce současně s vám i nepřímým poskytovatelem. Poskytovatel musí mít se zákazníkem vztah prodejce, aby mohl odesílat objednávky jménem zákazníka, když chce zákazník koupit nová předplatná nebo přidat nové licence do stávajících předplatných.
+2. Vyberte **pozvat nové zákazníky** a pozvat zákazníka k navázání vztahu prodejce s vámi i nepřímým poskytovatelem ve stejnou dobu. Poskytovatel musí mít k vašemu zákazníkovi vztah prodejce, aby mohl odeslat objednávky jménem zákazníka, pokud chce zákazník koupit nové předplatné nebo přidat nové licence k existujícím předplatným.
 
-3. Na další stránce zkontrolujte koncept e-mailové zprávy. Koncept zprávy můžete otevřít e-mailem nebo si ji můžete zkopírovat do schránky a vložit do e-mailu.
+3. Na další stránce zkontrolujte koncept e-mailové zprávy. Koncept zprávy můžete otevřít v e-mailu, nebo můžete zprávu zkopírovat do schránky a vložit ji do e-mailu.
 
-4. Upravte text v e-mailu tak, abyste řekli, co potřebujete, ale nezapomeňte přidat odkaz tak, jak je přizpůsobený pro připojení zákazníka přímo k vašemu účtu i účtu poskytovatele. Potom vyberte **Done** (Hotovo).
+4. Upravte text v e-mailu tak, aby řekl, co potřebujete, ale nezapomeňte odkaz zahrnout, protože je přizpůsobený, aby se zákazník připojil přímo k vašemu účtu i účtu vašeho poskytovatele. Potom vyberte **Done** (Hotovo).
 
-5. Jakmile zákazník udělí vám a vašemu poskytovateli oprávnění k záznamu, budete mít oprávnění správce ke správě jejich předplatných, licencí a uživatelů jejich jménem a nepřímý poskytovatel bude moct za něj odesílat objednávky.
-6. Pokud chcete spravovat účet zákazníka, služby, uživatele a licence, rozbalte záznam zákazníka výběrem šipky dolů vedle jeho jména.
+5. Po tom, co vám zákazník autorizuje a poskytovatele, aby byli prodejci záznamů, budete mít oprávnění správce ke správě svých předplatných, licencí a uživatelů jménem a váš nepřímý poskytovatel bude moci odesílat objednávky jménem.
+6. Pokud chcete spravovat účet, služby, uživatele a licence zákazníka, rozbalte záznam zákazníka tak, že vyberete šipku dolů v blízkosti jeho názvu.
 
-Na rozdíl od partnerů s přímým vyúčtováním nepřímí prodejci nemůže vytvářet tenanty Azure AD pro své nové zákazníky v Partnerské centrum. Váš poskytovatel vytvoří tenanta a zadá vás jako nepřímého prodejce pro tohoto zákazníka. Tím se zajistí, že se zákazník zobrazí v seznamu zákazníků v Partnerské centrum.
+Na rozdíl od přímých partnerů pro fakturaci nemůžou nepřímo prodejci vytvářet klienty Azure AD pro své nové zákazníky v partnerském centru. Poskytovatel vytvoří tenanta a zadá vám jako nepřímý prodejce pro tohoto zákazníka. Tím se zajistí, že se zákazník zobrazí v seznamu zákazníků v partnerském centru.
 
 >[!Note]
->Funkci přímého vyúčtování nebudete moct použít k vytváření nákupů pro zákazníky, které získáte jako nepřímý prodejce.
+>K vytvoření nákupu pro zákazníky, kteří získají jako nepřímý prodejce, nebudete moci využívat možnost přímé faktury.
 
-## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Správa zákazníků s přímým vyúčtováním a zákazníků s nepřímým prodejcem
+## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Správa zákazníků s přímým účtováním a zákazníky nepřímých prodejců
 
-Své zákazníky s přímým vyúčtováním a zákazníky s nepřímým prodejcem spravujete odlišně.
+Zákazníkům s přímým účtováním můžete spravovat různé zákazníky a nepřímými prodejci.
 
-### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>Zákazníci s přímým vyúčtováním (věci, které jako nepřímý prodejce nebudete dělat)
+### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>Zákazníci s přímým účtováním (věci, které neuděláte jako nepřímý prodejce)
 
-- Vytváření objednávek pro produkty
+- Vytvoření objednávek pro produkty
 - Správa rezervací Azure
-- Správa historie objednávek
-- Nákup softwaru
-- Přímé vyúčtování zákazníků
+- Správa historie jejich objednávek
+- Koupit software
+- Fakturovat zákazníky přímo
 
-### <a name="indirect-reseller-customers"></a>Zákazníci s nepřímým prodejcem
+### <a name="indirect-reseller-customers"></a>Nepřímý prodejci pro zákazníky
 
-- Váš nepřímý poskytovatel objednává produkty zákazníkům.
-- Správa licencí a uživatelů zákazníků
-- Zpracování prodlužování platnosti předplatného
+- Váš nepřímý poskytovatel objednávek produktů pro vaše zákazníky
+- Správa licencí a uživatelů pro zákazníky
+- Zpracování obnovení předplatného
 
-### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Identifikace zákazníků, které jste získali jako partner s přímým vyúčtováním
+### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Identifikace zákazníků, které jste získali jako přímého partnera pro fakturaci
 
 1. Vyberte **Zákazníci**.
 
-2. Výběrem zákazníka zobrazíte jeho podrobnosti.
+2. Vyberte zákazníka, pro který chcete zobrazit podrobnosti.
 
-3. Pokud je tento zákazník zákazníkem, který jste získali  jako  partner s přímým vyúčtováním, uvidíte možnosti pro přidání nebo zobrazení produktů a zobrazí se jejich předplatná.
+3. Pokud je tento zákazník ten, kterého jste získali jako přímý účet pro fakturaci, zobrazí se vám možnosti pro **Přidání** nebo **zobrazení produktů** a jejich odběry se zobrazí.
 
-4. Pokud s váma zákazník má vztah nepřímého prodejce, nebudou tyto možnosti k dispozici.
+4. Pokud zákazník má s vámi nepřímý vztah prodejců, tyto možnosti nebudou k dispozici.
 
-## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Přesun zákazníků s přímým vyúčtováním na nepřímého poskytovatele
+## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Přesuňte zákazníky z přímých faktur na svého nepřímého poskytovatele.
 
-Váš nepřímý poskytovatel nemůže odesílat objednávky nebo stávající převody předplatných stávajícím zákazníkům s přímým vyúčtováním, dokud s nimi nemají vztah prodejce. K navázání vztahu prodejce mezi vaším nepřímým poskytovatelem a vaším stávajícím zákazníkem s přímým vyúčtováním můžete použít jednu z následujících metod:
+Váš nepřímý poskytovatel nemůže odesílat objednávky nebo existující převody předplatného pro zákazníky s přímým účtováním, dokud nebudou mít k těmto zákazníkům vztah prodejce. Pokud chcete zřídit vztah prodejce mezi nepřímým poskytovatelem a vaším stávajícím zákazníkem s přímým účtováním, můžete použít jednu z následujících metod:
 
 - [Rozšíření vztahu prodejce](#reseller-relationship-extension)
 
-- [Odeslání pozvánky nepřímého prodejce zákazníkovi](#send-an-indirect-reseller-invitation-to-the-customer)
+- [Odeslání pozvánky k nepřímému prodejci zákazníkovi](#send-an-indirect-reseller-invitation-to-the-customer)
 
-Podrobný přehled tohoto podrobného procesu najdete v dokumentu Přímý na [nepřímý přechod.](https://partner.microsoft.com/resources/collection/Direct-Bill-transition-to-Indirect-reseller#/)
+Podrobný přehled podrobného procesu najdete v [dokumentu přímá na přímý přechod](https://partner.microsoft.com/resources/collection/Direct-Bill-transition-to-Indirect-reseller#/) .
 
 ### <a name="reseller-relationship-extension"></a>Rozšíření vztahu prodejce
 
-Pomocí funkce rozšíření vztahu prodejce můžete vytvořit vztah prodejce mezi vašimi stávajícími zákazníky s přímým vyúčtováním a nepřímým poskytovatelem pomocí Partnerské centrum Dashboard. Než funkci začnete používat, mějte na vědomí následující:
+Pomocí funkce rozšíření vztahů mezi prodejci můžete vytvořit vztah prodejce mezi stávajícími zákazníky s přímým účtováním a vaším nepřímým poskytovatelem pomocí řídicího panelu partnerského centra. Před použitím této funkce mějte na paměti následující:
 
-- Tato funkce je dostupná jenom pro partnery s přímým vyúčtováním, kteří přechádují a stanou se nepřímými prodejci, kteří dokončili registraci [nepřímého prodejce.](#get-started)
+- Tato funkce je k dispozici pouze pro přímé partnery, kteří přecházejí, aby se staly nepřímým prodejcem, dokončili [nepřímý zápis prodejce](#get-started).
 
-- Tuto funkci můžete použít jenom u stávajících zákazníků s přímým vyúčtováním. Nelze ho použít pro zákazníky [s nepřímým prodejcem.](#acquire-new-customers-as-indirect-reseller)
+- Tuto funkci můžete použít jenom pro existující zákazníky s přímým fakturací. Neplatí pro [nepřímým zákazníkům prodejců](#acquire-new-customers-as-indirect-reseller).
 
-- Můžete vybrat pouze nepřímého poskytovatele, pro kterého jste přijali [pozvánku partnera od nepřímého poskytovatele](#accept-a-partnership-invitation-from-your-indirect-provider).
+- Můžete vybrat pouze nepřímý poskytovatel, pro který jste [přijali pozvánku partnera od svého nepřímého poskytovatele](#accept-a-partnership-invitation-from-your-indirect-provider).
 
-- Kopie informací o fakturách, které máte pro tohoto zákazníka, bude k dispozici nepřímému poskytovateli. K informacím o vyúčtování se můžete dostat na stránku Account (Účet) pro tohoto zákazníka na Partnerské centrum Řídicí panel.
+- Kopie informací o fakturaci, kterou máte k tomuto zákazníkovi, bude zpřístupněna nepřímému poskytovateli. Přístup k informacím o fakturaci získáte tak, že na stránce účtu pro tohoto zákazníka na řídicím panelu partnerského centra přistupujete.
 
     > [!NOTE]
     > Pomocí funkce rozšíření vztahů mezi prodejci souhlasíte s tím, že si vydáte informace o fakturaci pro tohoto zákazníka s nepřímým zprostředkovatelem.
@@ -167,17 +167,17 @@ Pomocí funkce rozšíření vztahu prodejce můžete vytvořit vztah prodejce m
 
 Pokud chcete tuto funkci použít u stávajícího tenanta zákazníka:
 
-1. Přihlaste se do partnerského centra jako **Agent pro správu**.
+1. Přihlaste se k partnerskému centru jako **Agent pro správu**.
 
 2. Na **stránce zákazníci** vyberte existujícího zákazníka a kliknutím na ikonu **rychlých odkazů** rozbalte souhrnné zobrazení zákazníka.
 
-3. V části **nepřímé zprostředkovatele** klikněte na **přenést zákazníka u nepřímého poskytovatele**.
+3. V části **nepřímé zprostředkovatele** vyberte **přenést zákazníka na nepřímého poskytovatele**.
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="Přeneste zákazníka na nepřímoého poskytovatele.":::
 
 4. V místním dialogovém okně vyberte **nepřímý zprostředkovatel** , který chcete, aby se zákazníkem zobrazoval vztah prodejce.
 
-5. Klikněte na **Uložit a pokračujte**.
+5. Vyberte **Uložit a pokračovat**.
 
 6. Ověřte, zda se vybraný nepřímý zprostředkovatel zobrazuje v části **nepřímá zprostředkovatelé**.
 
@@ -231,7 +231,7 @@ V části nepřímý model CSP nemají nepřímý prodejci k dispozici fakturač
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>Přechod na stav nepřímý prodejce
 
-Tato funkce je 4 kroky procesu, kde:
+Tato funkce je proces se čtyřmi kroky, kde:
 
 - Přechodná partner vytvoří požadavek na převod předplatného. Požadavek obsahuje jedno nebo více stávajících předplatných přidružených ke stejnému zákazníkovi a je adresováno nepřímému poskytovateli.
 
@@ -258,17 +258,17 @@ Tato funkce je 4 kroky procesu, kde:
 
 Postup při vytváření žádosti o převod jako převádění partnera:
 
-1. Přihlaste se do partnerského centra jako **Agent pro správu**.
+1. Přihlaste se k partnerskému centru jako **Agent pro správu**.
 
-2. Na stránce **zákazníci** vyberte zamýšleného zákazníka a kliknutím na ikonu Rychlé odkazy rozbalte souhrnné zobrazení zákazníka.
+2. Na stránce **zákazníci** vyberte zamýšleného zákazníka a výběrem ikony rychlé odkazy rozbalte souhrnné zobrazení zákazníka.
 
 3. V části **nepřímé zprostředkovatele** ověřte, zda je uveden zamýšlený nepřímý poskytovatel.
 
-4. Klikněte na **Zobrazit předplatná**.
+4. Vyberte **Zobrazit předplatná**.
 
 5. Na stránce **předplatná** vyhledejte **přenos předplatného**.
 
-6. V části **přenos předplatného** klikněte na **žádost přenos předplatného**.
+6. V části **přenos předplatných** vyberte **požádat o přenos předplatného**.
 
     :::image type="content" source="images/direct/direct8.png" alt-text="Vyžádejte si přenos předplatného.":::
 
@@ -276,7 +276,7 @@ Postup při vytváření žádosti o převod jako převádění partnera:
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Vytvořit žádost o přenos":::
 
-8. Klikněte na **Vytvořit**.
+8. Vyberte **Vytvořit**.
 
 9. V části **přenos předplatného** se zobrazí aktivní žádost o převedení předplatného.
 
@@ -294,15 +294,15 @@ Postup revize a přijetí žádosti o přenos jako nepřímý poskytovatel:
 
 3. V části **nepřímý prodejci** potvrďte, že je uveden přechod partner.
 
-4. Klikněte na **Zobrazit předplatná**.
+4. Vyberte **Zobrazit předplatná**.
 
 5. Na stránce **předplatná** vyhledejte **přenos předplatného**.
 
     :::image type="content" source="images/direct/direct11.png" alt-text="Zobrazit žádost o přenos":::
 
-6. V části **přenos předplatného** klikněte na žádost o přenos, kterou chcete zkontrolovat.
+6. V části **přenos předplatného** vyberte žádost o přenos, kterou chcete zkontrolovat.
 
-7. V případě potřeby klikněte na **přijmout** (nebo **odmítnout**).
+7. Podle potřeby vyberte **přijmout** (nebo **odmítnout**).
 
     :::image type="content" source="images/direct/direct12.png" alt-text="Přijmout žádost o přenos":::
 
@@ -318,11 +318,11 @@ Postup revize a přijetí žádosti o přenos jako nepřímý poskytovatel:
 
 Převedený partner by měl provádět tyto akce:
 
-1. Přihlaste se k partnerskému centru jako **Agent pro správu** nebo **agenta prodeje**.
+1. Přihlaste se do partnerského centra jako **Agent pro správu** nebo **agenta prodeje**.
 
-2. Na stránce **zákazníci** vyberte zamýšleného zákazníka a kliknutím na ikonu **Rychlé odkazy** rozbalte souhrnné zobrazení zákazníka.
+2. Na stránce **zákazníci** vyberte zamýšleného zákazníka a výběrem ikony **Rychlé odkazy** rozbalte souhrnné zobrazení zákazníka.
 
-3. Klikněte na **Zobrazit předplatná**.
+3. Vyberte **Zobrazit předplatná**.
 
 4. Na stránce **předplatná** vyhledejte **přenos předplatného**.
 

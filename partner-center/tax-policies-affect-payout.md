@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: a93e94912f840e4cb69c3cc834f03af1b34f19aa
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 32c5cda9558aaaeddaf194eb8258ba732e2ac698
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856011"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489964"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Jak daňové zásady ovlivňují výběr pro Azure Marketplace
 
@@ -20,7 +20,7 @@ ms.locfileid: "109856011"
 
 ## <a name="introduction"></a>Úvod
 
-Obchod Microsoft Commercial Marketplace má globální dosah. K transakcím dochází napříč ohraničením a v závislosti na tom, kde se nachází ISV a zákazník, se může lišit finanční důsledky. Microsoft AppSource a Azure Marketplace k určení země ISV použijte informace o daňovém profilu partnerského centra. K určení země zákazníka buď použijte fakturační údaje zákazníka, nebo pokud je zákazník v EU, používáme dvě různé informace.
+Obchod Microsoft Commercial Marketplace má globální dosah. K transakcím dochází přes hranice a v závislosti na tom, kde se nachází nezávislý výrobce softwaru (ISV) a zákazník, se může lišit finanční důsledky. Microsoft AppSource a Azure Marketplace k určení země ISV použijte informace o daňovém profilu partnerského centra. K určení země zákazníka buď použijte fakturační údaje zákazníka, nebo pokud je zákazník v EU, používáme dvě různé informace.
 
 Chcete-li lépe porozumět následujícím scénářům, přečtěte si tabulku s [daňovými podrobnostmi](tax-details-marketplace.md) , která ukazuje, zda společnost Microsoft shromažďuje a vyplatí daně jménem vydavatele nebo pokud tato odpovědnost patří vydavateli.
 
@@ -37,35 +37,35 @@ Podívejte se na [scénář D](#foreign-publisher-transacts-with-us-customer) pr
 
 ## <a name="publisher-transacts-in-microsoft-managed-tax-country-where-marketplace-fee-is-taxable-service"></a>Publisher působí v případě daňové země spravované společností Microsoft, kde poplatek za Marketplace je služba zdanitelná.
 
-**Scénář B** – transakce, které probíhají mezi vydavatelem založeným na USA (jak je definoval informace o daňovém profilu partnera), zákazníkovi v daňové zemi spravované společností Microsoft, kde země ukládá daň na poplatek za tržišti (zdanitelná služba). V tomto scénáři se od výplaty vydavatele odečte daň z poplatku za obchod.
+**Scénář B** – transakce, které probíhají mezi vydavatelem založeným na USA (jak je definoval informace o daňovém profilu partnera), zákazníkovi v daňové zemi spravované společností Microsoft, kde země ukládá daň na poplatek za tržišti (zdanitelná služba). V tomto scénáři se daň za poplatek za službu Store odečte od výběr vydavatele.
 
-:::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="Zobrazuje pracovní postup pro scénář procesu výplaty B.":::
+:::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="Zobrazuje pracovní postup pro scénář vydaných procesů B.":::
 
-## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>Transakce vydavatele v daňové zemi spravované vydavatelem
+## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>Vydavatel se chová jako daňová země spravovaná vydavatelem
 
-**Scénář C** – transakce, ke které došlo mezi vydavatelem a zákazníkem v zemi daně spravované vydavatelem, která zákazníkům neukládá srážkovou daň. Zákazníci neplatí v okamžiku prodeje žádnou daň a vydavatel má povinnost platit všechny příslušné daně.
+**Scénář C** – transakce prováděné mezi vydavatelem a zákazníkem v daňové zemi spravované vydavatelem, která neukládá srážkovou daň na zákazníky. Zákazníci platí bez daně v místě prodeje a jedná se o závazek vydavatele uhradit všechny použitelné daně.
 
-Další informace o cenách pro konkrétní zemi (například pro vyrovnání nadcházejících daní) najdete v tématu Plány a [ceny pro nabídky komerčního marketplace.](/azure/marketplace/plans-pricing#custom-prices)
+Další informace o cenách specifických pro země (například pro vyrovnání nadcházejících daní) najdete v tématu [plány a ceny pro komerční nabídky na webu Marketplace](/azure/marketplace/plans-pricing#custom-prices).
 
-:::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Zobrazuje pracovní postup pro scénář procesu výplaty C.":::
+:::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Zobrazuje pracovní postup pro scénář vydaných procesů C.":::
 
-## <a name="foreign-publisher-transacts-with-us-customer"></a>Transakce cizích vydavatelů u zákazníka v USA
+## <a name="foreign-publisher-transacts-with-us-customer"></a>Cizí Vydavatel překládá se zákazníkem v USA.
 
-**Scénář D** – všichni cizí vydavatelé (definovaní jejich informacemi o daňovém profilu Partnerské centrum) v zemích, které nejsou v USA (viz Scénář [E)](#foreign-publisher-with-a-treaty-transacts-with-us-customer)a prodá se zákazníkovi v USA (jak je definováno adresou jejich zákaznického účtu). Státní správa USA vyžaduje, aby za vydavatele byla srážková daň od Microsoftu. Srážka daně z výplaty vydavateli se počítá na základě ceny nabídky.
+**Scénář D** – všichni cizí vydavatelé (jak je definovala informace o daňovém profilu partnerského centra) v zemích bez smlouvy US (viz [scénář E](#foreign-publisher-with-a-treaty-transacts-with-us-customer)) prodej k zákazníkovi na bázi USA (jak je definováno adresou zákaznického účtu). Státní správa USA vyžaduje, aby se za vydavatele jménem Microsoftu srážková daň. Daň sražená z výběrů do vydavatele se vypočítá na základě ceny nabídky.
 
-:::image type="content" source="images/tax-policies/payout-scenario-d.png" alt-text="Zobrazuje pracovní postup pro scénář procesu výplaty D.":::
+:::image type="content" source="images/tax-policies/payout-scenario-d.png" alt-text="Zobrazuje pracovní postup pro scénář vypsání procesu D.":::
 
-## <a name="foreign-publisher-with-a-treaty-transacts-with-us-customer"></a>Cizí vydavatel se zákazníkem v USA
+## <a name="foreign-publisher-with-a-treaty-transacts-with-us-customer"></a>Cizí Vydavatel se smlouvou přepracuje se zákazníkem v USA.
 
-**Scénář E** – všichni cizí vydavatelé (definovaní jejich informacemi o daňovém profilu Partnerské centrum) v zemích, kde zákazník v USA obchoduje se zákazníkem v USA (jak je definováno adresou jejich zákaznického účtu). Státní správa USA nevyžaduje, aby Microsoft srážkovou daň za vydavatele zatápí.
+**Scénář E** – všichni zahraniční vydavatelé (jak je definovala informace o daňovém profilu partnerského centra) v zemích se SMLOUVou US, která provádí prodej na zákazníky na bázi USA (jak je definováno adresou zákaznického účtu). Státní správa USA nepožaduje od Microsoftu srážku daně jménem vydavatele.
 
-:::image type="content" source="images/tax-policies/payout-scenario-e.png" alt-text="Zobrazuje pracovní postup pro scénář procesu výplaty E.":::
+:::image type="content" source="images/tax-policies/payout-scenario-e.png" alt-text="Zobrazuje pracovní postup pro scénář vypsání procesu E.":::
 
-## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>Cizí vydavatel prodává zákazníkovi zaregistrovanému k DPH v zemi spravované Microsoftem (mimo Irsko).
+## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>Cizí Vydavatel prodává zákazníka, který je registrovaný v EU, v zemi spravované společností Microsoft (mimo Irsko).
 
-**Scénář F** – všechny transakce mezi cizími vydavateli a zákazníky registrovanými k DPH v EU (mimo Irsko) v Microsoft-Managed zemi. Zákazník při prodeji neplatí daň.
+**Scénář F** – všechny transakce mezi cizími vydavateli a daně z přidané hodnoty (DPH), které zákazníci zaregistrovali (mimo Irsko) ve Microsoft-Managed zemi. Zákazník neplatí daň na prodej.
 
-:::image type="content" source="images/tax-policies/payout-scenario-f.png" alt-text="Zobrazuje pracovní postup pro scénář procesu výplaty F.":::
+:::image type="content" source="images/tax-policies/payout-scenario-f.png" alt-text="Zobrazuje pracovní postup pro scénář pro výběr procesu F.":::
 
 ## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-in-ireland"></a>Cizí Vydavatel prodává zákazníka, který je registrovaný v EU, v zemi spravované společností Microsoft (v Irsku).
 

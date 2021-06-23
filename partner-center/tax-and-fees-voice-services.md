@@ -7,12 +7,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854719"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490066"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Regionální daně, předpisy pro služby PTSN (Public Switched Telephone Network)
 
@@ -26,17 +26,17 @@ Zapojte se do svého daňového a právního poradce a pochopte zodpovědnost va
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Prezentace faktury a soubor pro odsouhlasení s partnerským serverem
 
-Soubory faktur CSP a odsouhlasení CSP v USA, Portoriko a Kanadě, které zahrnují službu Skype pro firmy pro veřejné telefonní hovory a Microsoft 365 hlasové služby, budou poskytovat samostatné položky řádku pro součásti veřejné sítě a jiné než veřejné telefonní služby.
+Faktury poskytovatele Cloud Solution Provider (CSP) a soubory odsouhlasení CSP v USA, Portoriko a Kanadě, které zahrnují službu Skype pro firmy pro veřejné telefonní služby a Microsoft 365 hlasové služby, budou poskytovat samostatné položky řádku pro součásti veřejné sítě a jiné než veřejné telefonní služby.
 
 Ve fakturách CSP se navíc zobrazí následující poznámka pod čarou:
 
-* Zobrazená cena je poplatek za službu audio Conferencing a službu pro plánování volání.  Jakékoli použitelné transakční daně se účtují výhradně na zobrazené množství, s výjimkou prodejů provedených v rámci USA.  V USA je zobrazená cena DPH včetně poplatků za volání plánu a služeb zvukové konference a poplatků za daně a poplatky, které se musí účtovat.  Služba audiokonference a služby volajícího plánu zajišťuje přidružená společnost Microsoft, která je oprávněna je poskytnout.  Podrobnosti najdete v [multilicenčním programu společnosti Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247).
+* Zobrazená cena je poplatek za službu audio Conferencing a službu pro plánování volání.  Jakékoli použitelné transakční daně se účtují výhradně na zobrazené množství, s výjimkou prodejů provedených v rámci USA.  V USA je zobrazená cena DPH včetně poplatků za volání plánu a služeb zvukové konference a poplatků za daně a poplatky, které se musí účtovat.  Služby zvukového konferenčního a služeb pro naplánování se účtují podle afilace společnosti Microsoft autorizované k jejich poskytování.  Podrobnosti najdete v [multilicenčním programu společnosti Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247).
 
-## <a name="reconciliation-file-example"></a>Příklad souboru s vyrovnáním
+## <a name="reconciliation-file-example"></a>Příklad souboru pro odsouhlasení
 
-Office 365 Enterprise E5 se v souboru s vyrovnáním prezentuje jako dvě řádkové položky se stejnými názvy a identickými ID, ale každá položka řádku má jedinečnou jednotkovou cenu (například 28,40 USD a 2,00 USD). Tím se oddělí komponentakonferenční složka skype pro firmy– konference v síti PSTN v nabídce Office 365, abyste mohli správně uplatnit daně.
+Office 365 Enterprise E5 prezentuje soubor pro odsouhlasení jako dvě řádkové položky se stejnými názvy a stejnými ID, ale každá položka řádku má jedinečnou jednotkovou cenu (například: $28,40 a $2,00). Tím se oddělí komponenta konferenčních konferencí Skypu pro firmy v rámci nabídky Office 365, takže můžete správně použít daně.
 
-**Příklad odsouhlasení partnerů #1 (vybrané sloupce):**
+**Příklady odsouhlasení partnerů #1 (výběr sloupců):**
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -45,7 +45,7 @@ Office 365 Enterprise E5 se v souboru s vyrovnáním prezentuje jako dvě řádk
 
 **Příklad odsouhlasení partnerů #2**
 
-Microsoft 365 Business hlas dostupný v Kanadě má další komponenty zdanitelné na veřejné síti, které jsou konsolidovány na faktuře CSP (podobně jako u Office 365 E5, jsou uvedeny dvě řádkové položky, jeden pro součásti PSTN a druhý pro jiné součásti než PSTN).  Soubor pro odsouhlasení CSP pro Microsoft 365 Business hlas zobrazí všechny komponenty s zdanitelným odkazem na síť PSTN jednotlivě (jednotlivé komponenty veřejné sítě PSTN nebudou konsolidovány. Soubor CSV nebo nástroj rozhraní API).  Souhrn podrobností objednávky a fakturované částky pro zákazníky nalezené v souboru pro odsouhlasení budou odpovídat faktuře CSP.
+Microsoft 365 Business hlas dostupný v Kanadě má další komponenty zdanitelné na veřejné síti, které jsou konsolidovány na faktuře CSP (podobně jako u Office 365 E5, jsou uvedeny dvě řádkové položky, jeden pro součásti PSTN a druhý pro jiné součásti než PSTN).  Soubor pro odsouhlasení CSP pro Microsoft 365 Business hlas zobrazí všechny komponenty s zdanitelným odkazem na síť PSTN jednotlivě (jednotlivé komponenty veřejné sítě PSTN nebudou konsolidovány v .CSV nebo nástroji rozhraní API).  Souhrn podrobností objednávky a fakturované částky pro zákazníky nalezené v souboru pro odsouhlasení budou odpovídat faktuře CSP.
 
 ## <a name="additional-resources"></a>Další materiály
 Další podrobnosti najdete na webu [Microsoft 365 pro partnery](https://www.microsoft.com/microsoft-365/partners/) .

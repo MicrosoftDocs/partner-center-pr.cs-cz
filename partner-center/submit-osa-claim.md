@@ -4,43 +4,43 @@ ms.topic: article
 ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Vytvořte přidružení zákazníků s CPOR (Claiming Partner of Record) (CPOR). Pomáhá spravovat prodeje, využití a pobídky pro Microsoft 365 & Dynamics 365.
+description: Vytvořte přidružení zákazníka s modelem deklarace identity Partner of Record (CPOR). Pomáhá spravovat prodej, použití, pobídky pro Microsoft 365 & zákazníky Dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9526a47d0b6d734bde48f403c11fa84d734511c1
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 196009d9271324377be02d0b2d12ba8a4d7a993c
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856096"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489947"
 ---
-# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Přidružení zákazníků prostřednictvím modelu CPOR (Claimed Partner of Record) pro Microsoft 365 a Dynamics 365
+# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Přidružení zákazníků prostřednictvím deklarovaného modelu CPOR (Partner of Record) pro Microsoft 365 a Dynamics 365
 
 
-**Odpovídající role:** Správce pobídek
+**Příslušné role**: pobídek admin
 
-1. října 2019 začal Microsoft používat model CPOR (Claiming Partner of Record) (CPOR) ke správě přidružení, která máte se zákazníky Microsoft 365 a Dynamics 365, s ohledem na poradce pro online služby (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 a OSU-Business Application Incentives.
+Od 1. října 2019 společnost Microsoft zahájila používání modelu CPOR (Claim Partner of Record) pro správu přidružení, která máte s vašimi zákazníky Microsoft 365 a Dynamics 365 s ohledem na online Poradce pro služby Online Services (OSU) – Microsoft 365 a OSU-Businessch motivů aplikací.
 
 >[!Important]
-> Žádosti o přidružení zákazníků (CPOR) se vztahují pouze na programy OSA (Online Services Advisory) Sell, Online Services Usage (OSU)-Microsoft 365 and OSU-Business Application Incentives. Pokud odesíláte žádost o spolupráci pro jiný program, například Cloud Solution Provider, Managed Reseller, hosting nebo Surface, projděte si proces žádostí o spolupráci popsaný tady. <br><br>Když žádost odešlete, Microsoft ji ověří. V tuto chvíli vás můžeme požádat o další informace. Upozorníme také zákazníka na vaši žádost o přidružení. Zákazníci mají na odhlášení pět pracovních dnů. Pokud se nevyjáddí výslovný souhlas, bude vaše přidružení k tomuto konkrétnímu tenantovi a úlohě oficiální. V tuto chvíli budete mít přístup k datům o využití zákazníka. 
+> Deklarace identity Customer (CPOR) se vztahují jenom na zákazníky Online Services Advisor (OSA), používání služeb online (OSU) – Microsoft 365 a OSU-Business aplikací pro motivaci aplikací. Pokud odesíláte deklaraci identity pro jiný program, například pro Cloud Solution Provider (CSP), spravovaného prodejce, hostování nebo Surface, přečtěte si téma proces deklarace identity, který je zde popsaný. <br><br>Po odeslání vaší deklarace ji Microsoft ověří. V tomto okamžiku vám můžeme požádat o další informace. Také upozorníme zákazníka na vaši žádost o přidružení. Zákazníci mají pět pracovních dnů na odhlášení. Pokud se nerozhodnete, vaše přidružení k tomuto konkrétnímu tenantovi a úlohám budou oficiální. V tomto okamžiku budete mít přístup k datům o využití zákazníka. 
 
 K dokončení deklarace identity budete potřebovat následující informace:
 
-- **ID MPN vaší** entity, která vytváří deklaraci identity
+- **ID MPN** (ID Microsoft Partner Network) pro vaši entitu, která provádí deklaraci identity
 
-- Název domény **zákazníka –** [Najít](find-ids-and-domain-names.md)
+- **Název domény** zákazníka (Další informace najdete v tématu [Vyhledání ID tenanta, název domény, ID objektu uživatele](find-ids-and-domain-names.md)).
 
-- ID adresáře **nebo tenanta** **zákazníka – Vyhledejte** [ho.](find-ids-and-domain-names.md)
+- **ID adresáře** nebo **ID tenanta** zákazníka (Další informace najdete v tématu [Vyhledání ID TENANTA, název domény, ID objektu uživatele](find-ids-and-domain-names.md)).
 
-- Oblast **Řešení,** například Business Applications nebo Microsoft 365
+- **Oblast řešení**, například Business Applications nebo Microsoft 365
 
-- **Aktivita,** kterou jste provedli, a typ žádosti, kterou chcete vytvořit, například Předprodej, Využití nebo Přidružení výnosů
+- **Aktivita** , kterou jste provedli, a typ deklarace identity, kterou chcete provést, například přidružení před prodejem, využití nebo výnosy
 
-- Kontaktní jméno, název **a e-mailová** adresa zákazníka
+- **Kontaktní jméno**, název a e-mailové adresy vašeho zákazníka
 
-- Pro Dynamics 365 musíte také zadat  technické kontaktní jméno, název a e-mailovou adresu zákazníka.
+- Pro Dynamics 365 musíte taky **zadat jméno, název a** e-mailovou adresu zákazníka.
 
 - **Kontaktní jméno** a e-mailová adresa vaší společnosti
 
@@ -54,7 +54,7 @@ K dokončení deklarace identity budete potřebovat následující informace:
 
 Měli byste taky pochopit následující body:
 
-- Pokud již máte Microsoft 365 zákazníky, bude nutné znovu přidružit ty, které chcete nadále získávat OSU pobídky pomocí tohoto procesu.
+- Pokud již máte Microsoft 365 zákazníky, bude nutné se znovu přidružit k uživatelům, kteří chtějí nadále získávat OSU pobídky pomocí tohoto procesu.
 
 - Pokud máte existující přidružení k Dynamics 365 nebo zákazníkům Power BI, budou tato přidružení platit až do vypršení platnosti jejich předplatných.
 
@@ -88,7 +88,7 @@ Měli byste taky pochopit následující body:
    >[!NOTE]
    >Pokud máte produkt Dynamics 365 a produkt, který zvolíte, má více předplatných pro tohoto konkrétního zákazníka, budete také muset zadat ID předplatného.
 
-10. Poskytněte důkaz o provedení (PoE). Můžete ho přetáhnout do pole, vyhledat ve vaší doprovodné dokumentaci nebo vybrat **Stáhnout šablonu** a použít šablonu. 
+10. Zadejte své PoE. Můžete ho přetáhnout do pole, vyhledat ve vaší doprovodné dokumentaci nebo vybrat **Stáhnout šablonu** a použít šablonu. 
 
 11. Pokud chcete, přidejte a uložte komentáře, a pak vyberte **Odeslat žádost**. Zákazníkovi pošleme e-mail s žádostí o schválení vašeho přidružení zákazníka.
 

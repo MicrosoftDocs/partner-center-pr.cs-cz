@@ -1,35 +1,35 @@
 ---
-title: Podrobnosti o daních pro komerční tržiště Microsoftu
-description: Přečtěte si o daňových faktorech pro výběr ceny, důsledcích výběru a daňové zodpovědnosti pro vaše země a oblasti distribuce.
+title: Podrobnosti o daních pro komerční marketplace Microsoftu
+description: Přečtěte si o daňových aspektech pro výběr cen, důsledcích pro výplatu a daňové zodpovědnosti pro vaše země nebo oblasti distribuce.
 ms.topic: conceptual
 ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: 06abd261e4d71b2e5e37eb2d77c1e62794c99a95
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 673620843ea8d469f1a665982f2a120b4b1e2d7e
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277755"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490015"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Podrobnosti o daních pro vydavatele na komerčním marketplace
 
-**Příslušné role**: globální správce
+**Odpovídající role:** Globální správce
 
-Tato stránka uvádí daňové zodpovědnosti a daňové požadavky pro obchodní vydavatele (vydavatelé) a vývojáře na portálu pro zákazníky (vývojáře) v souvislosti s nákupem produktů vydavatelů a vývojářů v souvislosti s koncovým zákazníkem v souladu se [smlouvou pro Microsoft Azure Marketplace vydavatele](/legal/marketplace/msft-publisher-agreement) a [smlouvou pro vývojáře aplikací](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)v uvedeném pořadí.  Níže uvedené informace jsou kromě a nejsou určeny k nahrazení, podmínek a ujednání v rámci smlouvy Microsoft Publisher a smlouvy o vývojářích aplikací.  Pokud není uvedeno jinak, vztahují se tyto informace na komerční vydavatelé obchodu Marketplace i na vývojáře na portálu pro zákazníky, kteří mají své produkty/nabídky k dispozici pro prodej prostřednictvím webů Microsoft Marketplace. 
+Na této stránce jsou uvedené daňové povinnosti a daňové požadavky pro vydavatele na komerčním marketplace (vydavatelé) a vývojáře na consumer marketplace (vývojáři) v souvislosti s nákupy produktů vydavatelů a vývojářů koncovými zákazníky, a to na základě smlouvy [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement) a [Smlouva s vývojářem aplikací](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH), v uvedeném pořadí.  Níže uvedené informace jsou a nejsou určené k nahrazení podmínek a ujednání ve Smlouvě s vydavatelem Microsoftu a ve smlouvě Smlouva s vývojářem aplikací.  Pokud není uvedeno jinak, platí níže uvedené informace jak pro vydavatele na komerčním marketplace, tak pro vývojáře na consumer marketplace, kteří své produkty nebo nabídky zřkují k prodeji prostřednictvím Microsoft Marketplace. 
 
-## <a name="end-customer-taxation"></a>Zdanění koncových zákazníků
+## <a name="end-customer-taxation"></a>Daně pro koncové zákazníky
 
-Jednotlivé zodpovědnosti společnosti Microsoft a vydavatelé/Developers pro prodej, použití, zboží a služby, přidané hodnoty nebo podobné daně, pokud jsou nějaké, na prodejech koncových zákazníků (**zdanění koncových zákazníků**) závisí na zemi, ve které se vydavatelé a vývojáři rozhodnou zpřístupnit produkty/nabídky k prodeji koncovým zákazníkům prostřednictvím Microsoft Marketplace (e). Níže uvedená tabulka stanoví okolnosti a zodpovědnost za daně z koncových zákazníků v zemích s potenciálním prodejem prostřednictvím Microsoft Marketplace (s).  Níže uvedené informace se mohou změnit a vydavatelé nebo vývojáři jsou odpovědní za kontrolu této stránky aktuálními a přesnými informacemi.
+Každá z zodpovědností Microsoftu a vydavatelů a vývojářů za prodej, používání, zboží a služby, přidané hodnotynebo podobné daně, pokud nějaké jsou, na prodejích koncových zákazníků (ukončování zdanění zákazníků) závisí na zemi, ve které se vydavatelé/vývojáři rozhodnout, že mají produkty/nabídky k dispozici pro prodej koncovým zákazníkům prostřednictvím Microsoft Marketplace(s). V následující tabulce jsou uvedeny okolnosti a odpovědnost za zdanění koncových zákazníků v zemích s prodejem způsobilým Microsoft Marketplace nebo zemích.  Níže uvedené informace se dají změnit a vydavatelé a vývojáři zodpovídají za to, že na této stránce prošly aktuální a přesné informace.
 
-V **zemích spravovaných vydavatelem nebo vývojářem** Microsoft funguje jako agent nebo dodavatelem (podle potřeby) vydavatele nebo vývojáře. Vydavatelé a vývojáři uznávají a potvrzují, že vydavatelé nebo vývojáři mají výlučnou zodpovědnost za určení veškerého dodržování předpisů, které vyžaduje, a pro správu a ke správě, zdanění koncových zákazníků, včetně neomezené registrace, výpočetních daní, daňového sběru, daňového převodu, ověření obchodního stavu zákazníků a poskytování daňových faktur zákazníkům. Vydavatelé nebo vývojáři potvrzují, že v souvislosti s jakýmkoli prodejem v zemi spravované vydavatelem nebo vývojářem v současnosti nemusí společnost Microsoft v současné době poskytovat podrobnosti o transakcích potřebných pro vydavatele nebo vývojáře, kteří zákazníkům poskytují daňové faktury. 
+V **zemích spravovaných** vydavatelem nebo vývojářem funguje Microsoft jako agent nebo povizí vydavatele nebo vývojáře .) Vydavatelé/vývojáři potvrzují a souhlasí s tím, že vydavatelé/vývojáři mají výhradní odpovědnost za určení všech požadovaných dodržování předpisů a za správu, zdanění koncových zákazníků, mimo jiné registrace, výpočtu daně, sběru daně, úhrady daní, ověření stavu firmy zákazníků a poskytování daňových faktur zákazníkům. Vydavatelé a vývojáři potvrzují, že s ohledem na jakýkoli prodej v zemi spravované vydavatelem nebo vývojářem microsoft v současné době nemusí být schopen poskytnout podrobnosti o transakcích, které vydavatelé nebo vývojáři potřebují k tomu, aby zákazníkům mohli poskytovat daňové faktury. 
 
-V **zemích spravovaných společností** Microsoft se společnost Microsoft chová jako agent vydavatele nebo vývojáře. Microsoft předpokládá zodpovědnost za správu zdanění koncových zákazníků, včetně výpočtu, shromažďování a nebo přebírání určitých daní. V případě komerčního tržiště to může také zahrnovat ověřování obchodního stavu koncových zákazníků tím, že získá daňové registrační údaje nebo certifikáty výjimek. Společnost Microsoft spravuje zdanění koncových zákazníků prostřednictvím místních poboček nebo vzdálených poboček registrovaných místně. Microsoft fakturuje číslo registračního čísla společnosti Microsoft. Společnost Microsoft zahrnuje veškeré poplatky shromážděné od koncových zákazníků od společnosti Microsoft vracející daňové služby.
+V **zemích spravovaných** Microsoftem funguje Microsoft jako agent vydavatele nebo vývojáře. Microsoft přebírá odpovědnost za správu zdanění koncových zákazníků, včetně výpočtu, shromažďování nebo vymáhat určité daně. V případě komerčního marketplace to může také zahrnovat ověření obchodního stavu koncových zákazníků získáním čísel daňové registrace nebo certifikátů pro osvobození od daně. Microsoft spravuje zdanění pro koncové zákazníky prostřednictvím místních afilací nebo vzdálených afilací zaregistrovaných místně. Faktury Microsoftu pod registračním číslem Microsoftu. Microsoft zahrnuje veškeré daně získané od koncových zákazníků na základě daňového výnosu Microsoftu.
 
-Společnost Microsoft neposkytuje žádné záruky, které akce Microsoftu plně splní v zemích spravovaných Microsoftem.  Pro všechny země spravované společností Microsoft důrazně doporučuje, aby vydavatelé a vývojáři pracovali s vlastními poradci daní, aby zjistili, jestli jsou požadavky na daň spravovaná společností Microsoft dostatečně nakonfigurované na dodržování předpisů vydavatelů/Developers. To je obzvláště důležité pro všechny země spravované společností Microsoft, od kterých vydavatelé nebo vývojáři prodávají své produkty/nabídky.  Microsoft se chová jako agent vydavatele nebo vývojáře v zemích spravovaných Microsoftem.
+Microsoft neposkytuje žádné záruky, že akce Microsoftu plně splňují povinnosti vydavatelů a vývojářů v zemích spravovaných Microsoftem.  Ve všech zemích spravovaných Microsoftem Microsoft důrazně doporučuje, aby vydavatelé a vývojáři pracovali se svými vlastními daňovými poradci, aby zjistili, jestli daňové úhrady spravované Microsoftem dostatečně řeší požadavky na dodržování předpisů vydavatelů a vývojářů. To je zvlášť důležité pro všechny země spravované Microsoftem, ze kterých vydavatelé/vývojáři prodávají své produkty/nabídky.  Microsoft funguje jako agent vydavatele/vývojáře v zemích spravovaných Microsoftem.
 
-V **zemích prodejce** se společnost Microsoft chová jako prodejce, nikoli jako agent vydavatele nebo vývojáře, při zpřístupnění produktů a nabídek pro vývojáře, které jsou k dispozici pro prodej koncovým zákazníkům prostřednictvím Microsoft Marketplaceů.  Vydavatelé a vývojáři zodpovídají za prodej, použití, zboží a služby, přidané hodnoty nebo podobné daně, pokud jsou nějaké, na prodej produktů nebo nabídek společnosti Microsoft a Microsoft zodpovídá za všechny daně z prodeje koncových zákazníků.
+V **zemích** prodejců funguje Microsoft jako prodejce, nikoli jako agent vydavatele nebo vývojáře, a to tím, že produkty/nabídky vydavatelů/vývojářů jsou k dispozici k prodeji koncovým zákazníkům prostřednictvím Microsoft Marketplace služeb.  Vydavatelé/vývojáři zodpovídají za prodej, používání, zboží a služby, přidané hodnoty nebo podobné daně, pokud existují, při prodeji produktů nebo nabídek společnosti Microsoft a Microsoft zodpovídá za všechna zdanění koncovým zákazníkům za opětovný prodej koncovým zákazníkům.
 
 
 ### <a name="publisherdeveloper-managed-countries"></a>Země spravované vydavatelem nebo vývojářem: 
@@ -39,13 +39,13 @@ V **zemích prodejce** se společnost Microsoft chová jako prodejce, nikoli jak
 |Americké Panenské ostrovy|Konžská demokratická republika|Jersey|Norfolk|
 |Afghánistán|Cookovy ostrovy|Jordánsko|Severní Makedonie|
 |Albánie|Kostarika|Kazachstán|Ukrajina|
-|Alžírsko|Côte d'Ivore|Keňa|Vanuatu|
+|Alžírsko|Cote d'Ivore|Keňa|Vanuatu|
 |Americká Samoa|Curaçao|Kiribati|Vatikán|
-|Andorra|Dübouti|Kuvajt|Venezuela|
+|Andorra|D bouti|Kuvajt|Venezuela|
 |Angola|Dominika|Kyrgyzstán|Vietnam|
 |Anguilla|Dominikánská republika|Laos|Wallis & Futuna|
 |Antarktida|Ekvádor|Libanon|Jemen|
-|Antigua & Barbuda|Egypt|Lesotho|Zambie|
+|Kaša & Barbuda|Egypt|Lesotho|Zambie|
 |Aruba|Salvador|Libérie|Uruguay|
 |Ázerbájdžán|Rovníková Guinea|Libye|
 |Bangladéš|Eritrea|Macao |
@@ -54,7 +54,7 @@ V **zemích prodejce** se společnost Microsoft chová jako prodejce, nikoli jak
 |Benin|Faerské ostrovy|Maledivy|
 |Bermudy|Fidži|Mali|
 |Bhútán|Gabon|Marshallovy ostrovy|
-|Bolívie|Ghana|Martinque|
+|Bolívie|Ghana|Martinik|
 |Bonaire|Gruzie|Mauritánie|
 |Kaskádová & Naga|Gibraltar|Mauricius|
 |Botswana|Grónsko|Ma Ote|
@@ -98,7 +98,7 @@ V **zemích prodejce** se společnost Microsoft chová jako prodejce, nikoli jak
 
 |**Země**|**Komerční tržiště (Azure Marketplace & AppSource)**| **Tržiště uživatelů (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|Brazílie|Prodejce s výjimkou: Vydavatel spravovaný pro nákupy prostřednictvím zprostředkovatele CSP scénář nákupu|Spravovaná vývojářům s výjimkou: prodejce při nákupu prostřednictvím zařízení se systémem Windows 10|
+|Brazílie|Prodejce s výjimkou: Vydavatel spravovaný pro nákupy prostřednictvím scénáře nákupu zákazníka Cloud Solution Provider (CSP)|Spravovaná vývojářům s výjimkou: prodejce při nákupu prostřednictvím zařízení se systémem Windows 10|
 |Mexiko|Spravované Microsoftem s výjimkou: prodejce pro nákupy prostřednictvím smlouvy Enterprise Customer purchase Scenario|Spravované Microsoftem|
 |Austrálie|Spravované Microsoftem s výjimkou: prodejce pro nákupy prostřednictvím smlouvy Enterprise Customer purchase Scenario|Spravované Microsoftem|
 Čína|Marketplace není povolený.|Povolený prodejce s výjimkou: vývojář spravovaný pro zařízení s mobilní komunikací, na kterých běží Windows Phone 7. x a na osobních počítačích se systémem Windows 8. x|
@@ -126,15 +126,15 @@ Společnost Microsoft shromažďuje daňové poplatky za Store v následujícíc
 
 ### <a name="end-customer-taxation"></a>Zdanění koncových zákazníků
 
-- Scénář 1: zákazník v nabídce správy země spravované vydavatelem
+- Scénář 1: zákazník v zemi spravované vydavatelem, která si koupí nabídku
 
   :::image type="content" source="images/tax/scenario-one.png" alt-text="Graf znázorňující, jak Vydavatel platí":::
 
-- Scénář 2: zákazník v nabídce země spravované společností Microsoft (země vydavatele je nerelevantní)
+- Scénář 2: zákazník v zemi spravované společností Microsoft nabídka (země vydavatele je nerelevantní)
 
   :::image type="content" source="images/tax/scenario-two.png" alt-text="Graf znázorňující zdanění v zemi spravované společností Microsoft":::
 
-- Scénář tři: cizí Vydavatel poskytuje přeshraniční prodej k registrovanému zákazníkovi, který se nachází v zemi spravované společností Microsoft.
+- Scénář 3: cizí Vydavatel poskytuje přeshraniční prodej k registrovanému zákazníkovi (DPH), který se nachází v zemi spravované společností Microsoft.
 
   :::image type="content" source="images/tax/scenario-three.png" alt-text="Graf znázorňující, jaký vliv na daň z EU – DPH"::: 
 
@@ -142,13 +142,13 @@ Společnost Microsoft shromažďuje daňové poplatky za Store v následujícíc
 
   :::image type="content" source="images/tax/scenario-four.png" alt-text="Graf znázorňující způsob zpracování DPH":::
 
-- Scénář 5: zákazník v nabídce země spravované společností Microsoft, kde se účtují poplatky za službu Store
+- Scénář 5: zákazník v zemi, ve které je spravovaná společnost Microsoft, nabízí nabídku, kde se účtují daň za službu Store.
 
   :::image type="content" source="images/tax/scenario-five.png" alt-text="Graf znázorňující, jak poplatky za službu Store ovlivňují daň":::
 
 ### <a name="withholding-tax"></a>Srážková daň
 
-- Scénář 1: cizí Vydavatel (bez relevantních výhod daňové smlouvy na daňovém profilu) dává zákazníkům v USA prodej. 
+- Scénář 1: cizí Vydavatel (bez relevantních výhod daňové smlouvy pro daňový profil) provede prodej zákazníkovi v USA. 
 
   :::image type="content" source="images/tax/withholding-one.png" alt-text="Graf ukazující srážkovou daň bez daňové smlouvy":::
 

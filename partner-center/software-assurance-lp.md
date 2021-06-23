@@ -9,18 +9,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 212eef8294b7d293a9bc9f55b56498e12e3f402a
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: cccb1701e196781b2e002ef6bb37f0e47521b2b5
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "92527154"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489930"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Účast v programech Software Assurance, včetně školicích dokladů a plánovacích služeb
 
 Účast v programech Software Assurance, včetně školicích dokladů Software Assurance (SATV) a plánovacích služeb, nabízí možnost rozšířit svoji firmu na podnikové zákazníky Microsoftu. 
 
-- Jako partner pro školení v rámci programu Software Assurance vám Microsoft kompenzuje, abyste mohli poskytovat školení od studia v technické učebně, které vyvinuli odborníci Microsoftu. 
+- Jako partner SATV vás Microsoft dosadí za účelem poskytování výukových kurzů pro technické učebny, které vyvinuli odborníci Microsoftu. 
 
 - Jako partner služby pro plánování služeb vám Microsoft kompenzuje předem definované zapojení plánování implementace. 
 

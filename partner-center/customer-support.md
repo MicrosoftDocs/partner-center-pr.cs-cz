@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: 83006da3a25285105d6fc073a203bedb19e681fe
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450743"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489879"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Poskytování různých typů podpory zákazníkům
 
@@ -36,7 +36,7 @@ Zákazníci CSP si sami lístky podpory nevytvářejí. Musí vás kontaktovat k
 
   - [Premier Support pro partnery (PSfP) (základ poplatků,](https://partner.microsoft.com/support/microsoft-services-premier-support) použití pro všechny produkty)
 
-  - [Pokročilá podpora pro partnery (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (základ poplatků, použití pouze pro cloudové produkty)
+  - [Rozšířená podpora pro partnery (ASfP)](https://partner.microsoft.com/support/advanced-cloud-support) (základ poplatků, použití pouze pro cloudové produkty)
 
   - [Signature Cloud Support](manage-your-partner-network-benefits.md) (součástí výhod PROGRAMU MPN pro kompetence Gold nebo Silver) používejte pouze pro cloudové produkty. Viz [Technické výhody](mpn-benefits-technical-support.md).
 
