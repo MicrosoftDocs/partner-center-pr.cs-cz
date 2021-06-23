@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855671"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551669"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Obnovte své nabídky MPN pro kompetence a rozšířené specializace během intervalu obnovování.
 
@@ -22,7 +22,7 @@ ms.locfileid: "109855671"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Reakce na COVID-19: Microsoft Partner Network Update
 
-Microsoft nabízí rozšíření kompetence (kromě Business Applications kompetence cloudu) a rozšířené rozšíření specializace pro partnery s daty výročí (AD) mezi 1. ledna 2021 a 30. června 2021. Další informace najdete v [příspěvku na blogu pro partnery](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
+Microsoft nabízí rozšíření pro kompetenci (kromě Business Applications kompetence cloudu) a rozšířené rozšíření specializace pro partnery s daty o výročí od 1. ledna 2021 do 30. června 2021. Další informace najdete v [příspěvku na blogu pro partnery](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="renewal-reminders"></a>Připomenutí obnovení
 
@@ -40,7 +40,7 @@ Po obnovení během intervalu obnovování bude vaše nové datum výročí 365 
 
 4. Pokud chcete tuto nabídku využít, Projděte si **nabídky členství**. Pro dokončení tohoto procesu možná budete muset zaplatit poplatek za kompetenci v závislosti na stavu nákupu nebo obnovení kompetence.
 
-Pokud chcete využít výhod tohoto rozšíření, musíte přesunout své členství z centra pro členství v partnerovi (PMC) do partnerského centra, aby se obnovila vaše kompetence a platil poplatek. Pokud jste nepřesunuli vaše členství, [Přečtěte si další informace](prepare-pmc-pc-migration.md)   a [proveďte přechod](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   ještě dnes.  
+Pokud chcete využít výhod tohoto rozšíření, musíte přesunout své členství z centra pro členství v partnerovi (PMC) do partnerského centra, aby se obnovila vaše kompetence a platil poplatek. Pokud jste nepřesunuli vaše členství, [Přečtěte si další informace](partner-membership-center-retirement-faq.md)   a [proveďte přechod](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   ještě dnes.  
 
 ## <a name="next-steps"></a>Další kroky
 

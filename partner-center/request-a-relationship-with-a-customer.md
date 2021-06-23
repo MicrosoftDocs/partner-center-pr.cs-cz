@@ -1,5 +1,5 @@
 ---
-title: Žádost o vztah se zákazníkem
+title: Žádost o vytvoření vztahu prodejce se zákazníkem
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ description: Požádejte zákazníka o vztah ve scénářích s více partnery n
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83f615e69a9285365e68305fa909104e0da52992
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856113"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551635"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Jak požádat zákazníka o navázání vztahu na úrovni prodejce v Partnerském centru
 
@@ -40,7 +40,7 @@ Můžete požádat o vztah prodejce se zákazníkem ze své země nebo stejné o
 
 4. Odešlete e-mail zákazníkovi.
 
-5. Jakmile zákazník vaši pozvánku přijme, zobrazí  se na stránce Vašich zákazníků a může tam pro zákazníka zřídit a spravovat službu.
+5. Jakmile zákazník vaši pozvánku přijme, zobrazí  se na stránce vašich zákazníků a může tam pro zákazníka zřídit a spravovat službu.
 
    > [!NOTE]
    > Pokud zákazník ještě nepřijal Smlouva se zákazníkem Microsoftu, zobrazí se výzva k přijetí vaší pozvánky. Aby zákazník přijal pozvánku, musí být globálním správcem.
@@ -48,21 +48,21 @@ Můžete požádat o vztah prodejce se zákazníkem ze své země nebo stejné o
 6. Pokud chcete spravovat účet zákazníka, služby, uživatele a licence, rozbalte záznam zákazníka výběrem šipky dolů vedle jeho jména.
 
 > [!IMPORTANT]  
-> Zákazníci mohou změnit přiřazení nebo odebrání oprávnění správce na portálu pro správu služby. Nicméně pokud a dokud nebudete smlouvu se zákazníkem znovu vyjednávat, budete mít i nadále odpovědnost za poskytování zákaznické podpory a dodržování podmínek v rámci smlouvy o partnerovi společnosti Microsoft, i když zákazník znovu přiřadí nebo odebere oprávnění správce. V takové situaci, pokud zákazník vyžaduje pomoc, můžete zavolat podporu Microsoftu a otevřít žádost o služby jménem zákazníka.
+> Zákazníci mohou změnit přiřazení nebo odebrání oprávnění správce na portálu pro správu služby. Pokud ale nedosá vašimi smlouvami se zákazníkem nedosážete, nesete nadále odpovědnost za poskytování zákaznické podpory a dodržování podmínek Smlouva s partnerem Microsoftu, a to i v případě, že zákazník znovu přisoudí nebo odebere oprávnění správce. Pokud zákazník v této situaci vyžaduje pomoc, můžete zavolat podporu Microsoftu a jménem zákazníka otevřít žádost o služby.
 
-## <a name="changes-to-the-customer-invitation-experience"></a>Změny v prostředí pozvánky zákazníka
+## <a name="changes-to-the-customer-invitation-experience"></a>Změny prostředí pro pozvánky zákazníků
 
-Uživatelské prostředí pro přijetí pozvánky na vztah prodejce z partnera poskytovatele Cloud Solution Provider se hostuje v různých zákaznických portálech. Umístění portálu závisí na tom, jestli je zákazník ve veřejném cloudu Microsoftu nebo v národním cloudu:
+Prostředí zákazníka pro přijetí pozvánky k relaci prodejce od partnera Cloud Solution Provider (CSP) je hostované na různých portálech pro zákazníky. Umístění portálu závisí na tom, jestli je zákazník ve veřejném cloudu Microsoftu nebo v národním cloudu:
 
-|Typy zákazníků v cloudu  | Kde zákazník přijme pozvánku pro vztah prodejce? |
+|Typy cloudových zákazníků  | Kde zákazník přijme pozvánku na vztah prodejce? |
 |---------|---------
-| Zákazníci ve veřejném cloudu | Centrum pro správu Microsoft 365 |
-| Zákazníci v partnerském centru pro Microsoft Cloud Německo | Portál pro správu systém Microsoft Office |
-| Zákazníci v partnerském centru pro státní správu USA Microsoft Cloud | Portál pro správu systém Microsoft Office |
+| Zákazníci ve veřejném cloudu | Microsoft 365 pro správu |
+| Zákazníci v Partnerské centrum pro Microsoft Cloud (Německo) | systém Microsoft Office správce |
+| Zákazníci ve Partnerské centrum pro Microsoft Cloud for US Government | systém Microsoft Office správce |
 |
 
 ## <a name="next-steps"></a>Další kroky
 
 - [Přiřazení kontaktů podpory](assign-support-contacts.md)
 
-- [Odebrat relaci se zákazníkem](remove-a-relationship.md)
+- [Odebrání vztahu se zákazníkem](remove-a-relationship.md)

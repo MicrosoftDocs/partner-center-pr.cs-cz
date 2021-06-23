@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 725050d370d1266205f979aa6317768d05ae5c4c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: c7c06f5ed7b147625afb5020f63ead411ef58fa8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277177"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551516"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nové obchodní prostředí v CSP – Fakturace Azure 
 
@@ -139,7 +139,9 @@ Přístup k faktuře a souboru s vyrovnáním:
 
 Služby Azure prostřednictvím plánu Azure se budou účtovat v USD a fakturují se v měně přiřazené zemi zákazníka. Pokud je fakturační měna mimo USD, použitá sazba devizové výměny (FX) se zobrazí na poslední stránce faktury. Směnné kurzy se určují měsíčně a použijí se na následující faktuře. Úplný seznam měn zemí najdete v nových obchodních nabídek pro země dostupnosti a [v matici měn zákazníků.](https://go.microsoft.com/fwlink/?linkid=2112354)
 
-Microsoft pro převod dodržuje london stock exchange. Používáme směnný kurz, který se rovná směnné sazbě zaznamenané k poslední sekundě posledního obchodního dne v měsíci na londýnské burze. Sazby FX se aktualizují a budou k dispozici den před prvním měsícem, pro který platí.
+Microsoft použije předem určený směnný kurz na základní ceny v USD, aby vznikly celkové poplatky za služby Azure zakoupené nebo spotřebované každý kalendářní měsíc. Měsíční směnný kurz je střední kurz publikovaný společností Thomson Reuters (obvykle) dva pracovní dny před koncem předchozího měsíce ve 16:00 GMT. 
+
+**Příklad:** Prosincový směnný kurz Microsoftu by byl střední kurz společnosti Thomson Reuters přibližně 29. listopadu pro danou měnu. Tato sazba se použije na všechny nákupy v této měně od 1. prosince do 31. prosince. 
 
 ## <a name="azure-reservations"></a>Rezervace Azure
 

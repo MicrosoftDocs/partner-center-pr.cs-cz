@@ -1,46 +1,46 @@
 ---
-title: Objekt služby Azure AD
+title: Instanční objekt služby Azure AD
 ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zjistěte, jak přidat objekt služby do tenanta Azure AD. To znamená přidání aplikace Azure AD (instančního objektu) do Partnerské centrum.
+description: Přečtěte si, jak přidat instanční objekt k vašemu tenantovi služby Azure AD. To znamená, že přidání aplikace Azure AD (instančního objektu) v partnerském centru.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d12bb66574e6bcee60b2a1df1673dc9171fbee2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 3698032a632384e8416664c9564819d7c4da9c38
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854923"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551550"
 ---
-# <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Přidání aplikace Azure AD (instančního objektu) v Partnerské centrum
+# <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Přidání aplikace Azure AD (instančního objektu) v partnerském centru
 
-**Odpovídající role:** Globální správce
+**Příslušné role**: globální správce
 
-V programu komerčního marketplace v Partnerské centrum teď můžete přidat aplikaci Azure AD (instanční objekt) jako uživatele ve vašem Partnerské centrum účtu. (Dříve jste to mohli udělat ve svém portál partnerů cloudu neboli CPP. Teď, když jste migroval do Partnerské centrum, je účet CPP jen pro čtení.)
+V programu pro komerční tržiště v partnerském centru teď můžete do svého účtu partnerského centra přidat aplikaci Microsoft Azure Active Directory (Azure AD) (instanční objekt) jako uživatele. (To jste na svém účtu portál partnerů cloudu (CPP) mohli provést dříve. Teď, když jste migrovali do partnerského centra, je účet CPP jen pro čtení.)
  
 >[!Note] 
->Objekt služby je synonymem pro aplikaci Azure AD.
+>Instanční objekt je synonymem pro aplikaci Azure AD.
 
-## <a name="add-an-azure-ad-application-service-principal"></a>Přidání aplikace Azure AD (objekt služby)
+## <a name="add-an-azure-ad-application-service-principal"></a>Přidat aplikaci Azure AD (instanční objekt)
 
-1. Na řídicím Partnerské centrum vyberte **Nastavení** a pak vyberte **Nastavení pro vývojáře.**
+1. Z řídicího panelu partnerského centra vyberte **Nastavení** a potom vyberte **Nastavení vývojáře**.
 
-2. Vyberte **Uživatelé a** pak vyberte Přidat aplikace Azure **AD.**
+2. Vyberte **Uživatelé** a pak vyberte **Přidat aplikace Azure AD**.
 
 3. Vyberte existující aplikaci Azure AD nebo vytvořte novou.
 
-4. Pokud vytvoříte novou aplikaci Azure AD, zahrnte následující informace:  
+4. Pokud vytvoříte novou aplikaci Azure AD, zahrňte tyto informace:  
 
-   - **Adresa URL odpovědi:** Adresa URL, na které se uživatelé mohou přihlásit, aby mohli používat vaši aplikaci Azure AD.
+   - **Adresa URL odpovědi**: adresa URL, kde se uživatelé můžou přihlásit k používání vaší aplikace Azure AD.
 
-   - **Identifikátor URI ID aplikace:** Logický identifikátor aplikace Azure AD, který se zobrazí při odeslání požadavku na jednotné přihlašování do Azure AD.
+   - **Identifikátor URI ID aplikace**: logický identifikátor pro aplikaci Azure AD, který se zobrazí, když pošle žádost o jednotné přihlašování do Azure AD.
 
-   - **Role zabezpečení:** Správce rolí **(totéž** jako role Vlastník v CPP) a Vývojář **(totéž** jako role Přispěvatel v CPP) se vztahují na program komerčního marketplace v Partnerské centrum a mohou být přidružené k této aplikaci Azure AD.  
+   - **Role zabezpečení**: **správce** rolí (stejné jako role Owner v CPP) a **Developer** (stejné jako role Přispěvatel v CPP) platí pro program komerčního tržiště v partnerském centru a je možné ho přidružit k této aplikaci Azure AD.  
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Přehled komerčního marketplace v Partnerské centrum](csp-commercial-marketplace-overview.md)
+- [Přehled komerčního tržiště v partnerském centru](csp-commercial-marketplace-overview.md)

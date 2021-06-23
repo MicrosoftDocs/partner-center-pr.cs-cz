@@ -1,52 +1,52 @@
 ---
-title: Migrace z partnerského prodejního připojení (PSC)
+title: Migrace z programu Partner Sales Connect (PSC)
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si, jak můžou partneři Microsoftu migrovat z partnerského prodejního připojení (PSC) do partnerského centra a vytvářet nebo spravovat obchody odesílané prodejci Microsoftu.
+description: Zjistěte, jak mohou partneři Microsoftu migrovat ze služby Partner Sales Connect (PSC) Partnerské centrum a vytvářet a spravovat dohody odeslané prodejci Microsoftu.
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 584f8a7f2794cb64be49fe7f790904eff50c4c26
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5be1c09a26cfcc0d038663e5814ccda7e535d4d1
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855094"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551431"
 ---
-# <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Průvodce spoluprodejem v partnerském centru (PC) pro partnery, kteří se migrují z partnerského prodejního připojení (PSC)
+# <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Průvodce spoluprodejem v partnerském Partnerské centrum (PC) pro partnery migrující z programu Partner Sales Connect (PSC)
 
-**Příslušné role**: správce účtu | Správce odkazů | Prodejce partnera Sales Connect (PSC) | Správce PSC (partner Sales Connect) | Manažer koupě partnera Sales Connect (PSC)
+**Odpovídající role:** Správce účtu | Referenční | Partner Sales Connect (PSC) seller | Partner Sales Connect (PSC) admin | Partner Sales Connect (PSC) Deal Manager
 
-Tento článek poskytuje pokyny pro partnery, kteří se migrují z partnerských obchodních připojení k partnerskému centru, aby mohli dál vytvářet a spravovat obchody v partnerském centru.
+Tento článek obsahuje pokyny pro partnery migrující z Partner Sales Connect (PSC) na Partnerské centrum (PC), aby mohli pokračovat ve vytváření a správě dohod o spoluprodeji v Partnerské centrum.
 
 >[!Note]
-> Pokud jste tady, protože jste si v části PSC o migraci viděli banner, jste na správném místě. Tato příručka se nedá použít pro posouzení řešení (SA) a obchodní partneři OEM Licensing, kteří spravují jejich obchody v PBV.
+> Pokud jste tady, protože jste v PSC viděli banner o migraci, jste na správném místě. Tato příručka není platná pro obchodní partnery pro licencování OEM a posouzení řešení (SA) a OEM, kteří spravují své obchody v PSC.
 
 >[!Important]
-> Od 1. dubna 2021 nebude vaše společnost moci vytvářet ani upravovat obchody v PBV. **Stále budete moct stáhnout existující data o seprodejech pomocí funkce hromadného exportu v PBV. Po tomto datu můžete také [migrovat otevřené obchody](psc-to-pc.md#psc-deals-migration) z PSC do partnerského centra.** <br><br> Pokud existují obchody, na kterých aktivně pracujete, které obsahují řešení s motivací, která jsou k dispozici pro vlastní prodej, máte dvě možnosti: <br><br> 1. Zaregistrujte se jako získaná a kompletní registrace koupě v řadiči PSC do 31. března 2021. <br> 2. [migrujte obchody](psc-to-pc.md#psc-deals-migration) do partnerského centra, abyste získali více času na práci a mohli začít registraci.
+> Od 1. dubna 2021 vaše společnost nebude moct v PSC vytvářet ani upravovat dohody. **Pomocí funkce hromadného exportu v PSC si stále budete moct stáhnout existující data o obchodech. Otevřené obchody [můžete také migrovat](psc-to-pc.md#psc-deals-migration) z PSC do Partnerské centrum po tomto datu.** <br><br> Pokud aktivně pracujete na dohodám, které obsahují řešení s nárokem na pobídky v rámci spoluproduování IP adres, máte dvě možnosti: <br><br> 1. Před 31. březnem 2021 označte dohodu jako won a dokončete registraci dohody v PSC. <br> 2. [Migrace dohod na](psc-to-pc.md#psc-deals-migration) Partnerské centrum abyste měli více času na práci na dohody a zahájení registrace dohody.
 
-Jak víte, **Společnost ztratí přístup k řadiči PSC po 30. dubnu 2021**. Pořád ale najdete všechno, co chcete dělat v partnerském centru, jako je například vytváření spolupracujících obchodů, Správa vašich obchodů a jednání s obchody, které vám poslali prodejci Microsoftu.
+Jak víte, **firma ztratí přístup k PSC po 30. dubnu 2021.** Stále ale najdete všechno, co chcete dělat v Partnerské centrum, jako je vytváření dohod o spoluprodávači, správa dohod a akce, které vám poslali prodejci Microsoftu.
 
-K dispozici jsou však rozdíly. Následující pokyny vám mohou pomoci s přechodem do služby partner Center hladší a pružnější.
+Budou ale mezi nimi rozdíly. Následující pokyny vám můžou pomoct zajistit, aby byl přechod Partnerské centrum plynulejší a jednodušší.
 
-## <a name="before-you-move-things-you-need-to-know"></a>Než přesunete, co potřebujete znát
+## <a name="before-you-move-things-you-need-to-know"></a>Co potřebujete vědět, než se přesunete
 
-### <a name="if-you-are-a-psc-admin"></a>Pokud jste správce PSC
+### <a name="if-you-are-a-psc-admin"></a>Pokud jste správcem PSC
 
-- K přihlášení do [partnerského centra](https://partner.microsoft.com/)potřebujete pracovní e-mail.
+- Pracovní e-mail potřebujete pro přihlášení k [Partnerské centrum](https://partner.microsoft.com/).
 - Nastavte svůj účet pomocí správce Partnerské centrum [účtu.](permissions-overview.md)
 - Přečtěte si tento dokument a zjistěte, jak Partnerské centrum spoluprodávat v tomto dokumentu.
 - Nastavte uživatelské účty v Partnerské centrum pro všechny uživatele PSC (role správce, správce dohody a prodejce) a přiřaďte jim role [správce referenčních seznamu.](permissions-overview.md)
 
 >[!IMPORTANT]
-> Ujistěte se, že ID MPN zobrazené v banneru PSC je k dispozici v seznamu umístění MPN v Partnerské centrum.
+> Zkontrolujte, že ID Microsoft Partner Network (MPN) zobrazené v banneru PSC je k dispozici v seznamu umístění MPN v Partnerské centrum.
 
 :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Obrázek znázorňující banner PSC, kde partneři mohou najít ID MPN":::
 
- Pokud chcete ověřit, že se ID MPN zobrazuje jako umístění Partnerské centrum MPN, přihlaste se k řídicímu panelu [Partnerské centrum,](https://partner.microsoft.com/dashboard)pak v pravém horním rohu obrazovky vyberte Nastavení **(ikona** ozubeného kola) a pak Nastavení **účtu.** V levé navigační nabídce druhé úrovně  vyberte Umístění. Zobrazí se seznam všech ID a umístění MPN přidružených k účtu mpn Partnerské centrum účtu.
+ Pokud chcete ověřit, že se ID MPN zobrazuje jako umístění MPN Partnerské centrum, přihlaste se k řídicímu panelu [Partnerské centrum,](https://partner.microsoft.com/dashboard)pak v pravém horním rohu obrazovky vyberte Nastavení **(ikona** ozubeného kola) a pak Nastavení **účtu.** V levé navigační nabídce druhé úrovně  vyberte Umístění. Zobrazí se seznam všech ID a umístění MPN přidružených k účtu mpn Partnerské centrum účtu.
 
 ### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Pokud jste manažerem nebo prodejcem dohody PSC
 
@@ -67,42 +67,42 @@ Pokud možnost Referenční seznam  v nabídce Partnerské centrum nebo na strá
 
 Vyhledání správce účtu vaší společnosti:
 
-1. Z ikony ozubeného kolečka v pravém horním rohu řídicího panelu partnerského centra vyberte **Nastavení účtu** .
+1. Vyberte **Nastavení účtu** z ikony ozubeného kola v pravém horním rohu řídicího Partnerské centrum zařízení.
 
-1. V navigační nabídce druhé úrovně vyberte **Správa uživatelů** .
+1. V **levé navigační** nabídce druhé úrovně vyberte Správa uživatelů.
 
-1. V horní části seznamu uživatelů vyberte rozevírací nabídku **Filtr** . Změňte možnost na **správce účtu**.
+1. V horní části seznamu uživatelů vyberte **rozevírací** nabídku Filtr. Změňte možnost na **Správce účtu.**
 
-   Na stránce se zobrazí všichni správci účtu se svými příslušnými e-mailovými adresami. Pošlete jednu z nich e-mailem a požádejte je o přiřazení role Správce odkazů pro váš pracovní účet.
+   Na stránce se zobrazí všichni správci účtu s příslušnými e-mailových adresami. Jednomu z nich pošlete e-mail a požádejte ho, aby přiřadili roli správce referenčních seznamu pro váš pracovní účet.
 
-  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Obrázek znázorňující správce účtu na stránce Správa uživatelů nastavení partnera.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Obrázek znázorňující správce účtu na stránce pro správu uživatelů v nastavení partnera":::
 
 >[!Important]
->- Pokud vaše role zahrnuje jenom správu uživatelů v PSC, požádejte správce účtu vaší společnosti, aby vám přidělil roli [správce účtu](permissions-overview.md#manage-mpn-membership-and-your-company) v partnerském centru. 
->- Pokud vaše role zahrnuje i správu příležitostí pro společný prodej, požádejte o přiřazení role [Správce odkazů](permissions-overview.md#manage-referrals) .
-> - Je vhodné také pojmenovat jednoho vedoucího řízení změn mezi správci PBV. Tím se zabrání všem správcům PSC v tom, aby se mohli jednotlivě spojit s správci účtů partnerského centra. Místo toho může být vedoucí změny v rámci správy změn primární osobou, která spolupracuje se správcem účtu partnerského centra.
+>- Pokud vaše role zahrnuje jenom správu uživatelů v PSC, požádejte [](permissions-overview.md#manage-mpn-membership-and-your-company) správce účtu vaší společnosti, aby vám přiřadí roli správce účtu v Partnerské centrum. 
+>- Pokud vaše role také zahrnuje správu příležitostí ke spoluprodání, požádejte o přiřazení role [správce referenčních](permissions-overview.md#manage-referrals) odkazů.
+> - Je vhodné také nominovat jednoho vedoucího řízení změn mezi správci PSC. Tím zabráníte tomu, aby se všichni správci PSC museli jednotlivě kontaktovat Partnerské centrum účtu. Místo toho může být vedoucí správy změn primární osobou, která pracuje s Partnerské centrum účtem.
 
 ## <a name="user-migration"></a>Migrace uživatelů
 
-Po nastavení účtu v partnerském centru můžete pomocí Průvodce migrací uživatelů na stránce příležitosti společného prodeje automaticky přiřadit role partnerského centra zaměstnancům vaší společnosti.
+Po nastavení účtu v Partnerské centrum můžete pomocí průvodce migrací uživatelů na stránce Příležitosti ke spoluprodávu automaticky přiřazovat Partnerské centrum role zaměstnancům vaší společnosti.
 
 >[!Note]
-> Migraci uživatelů můžou provádět jenom [Správci účtu](permissions-overview.md#manage-mpn-membership-and-your-company) vaší společnosti. Pokud nemáte roli správce účtu, najděte správce účtu, který vám může pomáhat s nastavením uživatelských účtů pomocí Průvodce migrací uživatele.
+> Migraci uživatelů mohou provádět pouze [správci](permissions-overview.md#manage-mpn-membership-and-your-company) účtů vaší společnosti. Pokud nemáte roli správce účtu, najděte správce účtu, který vám může pomoct nastavit uživatelské účty pomocí průvodce migrací uživatelů.
 
-:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Obrázek znázorňující Průvodce migrací uživatele":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Obrázek znázorňující průvodce migrací uživatelů":::
 
-Správci účtů uvidí odkaz Průvodce migrací uživatele PSC na stránce příležitosti společného prodeje vedle Průvodce referenčními postupy. Kliknutím na odkaz můžete zahájit migraci uživatelů. Aby bylo možné zahájit migraci uživatelů, mohou správci vybrat odkaz. Tento krok migrace uživatelů může provést vícekrát, dokud nebudou mít všichni uživatelé přiřazené správné role v Partnerské centrum.
+Správcům účtu se na stránce příležitosti ke spoluprodávce vedle referenčních odkazů zobrazí odkaz průvodce migrací uživatelů DOS. Výběrem odkazu mohou zahájit migraci uživatelů. Pokud chcete zahájit migraci uživatelů, mohou správci tento odkaz vybrat. Tento krok migrace uživatelů může provést vícekrát, dokud nebudou mít všichni uživatelé přiřazené správné role v Partnerské centrum.
 
 Tabulka migrace uživatelů obsahuje následující podrobnosti:
 
 - Uživatelský účet – ID e-mailu zaměstnance
 - Partnerský účet PSC – Účet, ke kterému je zaměstnanec přidružený v PSC
 - Role uživatele PSC – jedna ze tří rolí přiřazených v PSC.
-- Umístění PC MPN – umístění, pro které bude mít uživatel příslušné role počítače. MPN partnerského účtu PSC slouží k vyhledání ekvivalentního umístění MPN v Partnerské centrum přiřazení oprávnění. Celá organizace označuje ID MPN virtuální organizace.
-- Role uživatele počítače – Zaměstnanci mají přiřazené role na základě jejich uživatelských rolí PSC. Správce v PSC bude mít v počítači přiřazené role správce referenčních odkazů. Prodejce bude mít v počítači přiřazenou roli uživatele referenčních odkazů. Další informace o rolích počítačů a o tom, co mohou uživatelé s těmito rolemi dělat v Partnerském [centru, najdete tady.](permissions-overview.md#manage-referrals)
-- Tenant AAD v PC – tenant, ke kterému jsou uživatelé přiřazení v Partnerské centrum
+- Umístění PC MPN – umístění, pro které bude mít uživatel příslušné Partnerské centrum (PC). MPN partnerského účtu PSC slouží k vyhledání ekvivalentního umístění MPN v Partnerské centrum přiřazení oprávnění. Celá organizace označuje ID MPN vOrg.
+- Role uživatele počítače – Zaměstnanci mají přiřazené role na základě jejich uživatelských rolí PSC. Správce v PSC bude mít přiřazené role správce referenčních Partnerské centrum. Prodejce bude mít přiřazenou roli uživatele referenčních Partnerské centrum. Další informace o rolích Partnerské centrum a o tom, co uživatelé s těmito rolemi mohou dělat v [Partnerské centrum.](permissions-overview.md#manage-referrals)
+- Pc AAD Tenant – tenant Microsoft Azure Active Directory (Azure AD), ke kterému jsou uživatelé přiřazení v Partnerské centrum
 - Stav – Existují tři možné stavy pro stav migrace.
-    - **Nemigrován** – Uživatel nemá přiřazenou žádnou roli referenčních doporučení v počítači.
+    - **Nemigrován** – Uživatel nemá přiřazenou žádnou Partnerské centrum referenčních odkazů.
     - **Migrován** – Uživatel byl úspěšně migrován s přiřazenou odpovídající rolí, jak je znázorněno v tabulce.
     - **Chyba** – Migraci se nepodařilo dokončit kvůli nějaké chybě
 
@@ -110,29 +110,29 @@ Někdy může migrace selhat a vést k chybám. Tady je několik důvodů, proč
 
 1. Uživatelé PSC mohou používat nepracují účet.
 
-2. Uživatel PSC může používat účet z jiné domény než tu, kterou používáte v partnerském centru.
+2. Uživatel PSC může používat účet z jiné domény, než kterou používáte v Partnerské centrum.
 
-   Pokud chcete vyřešit chyby související s scénáři 1 a 2, požádejte uživatele, aby se přihlásil do partnerského centra pomocí svého pracovního účtu připojeného k vašemu tenantovi služby Azure AD. Váš [globální správce](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) může pomáhat.
+   Pokud chcete vyřešit chyby související se scénáři 1 a 2, požádejte uživatele, aby se Partnerské centrum pomocí svého pracovního účtu připojeného k vašemu tenantovi Azure AD. Může [vám pomoct globální](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) správce.
    
-   Pokud chcete najít globálního správce: 
-   - Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard) partnerského centra a v pravém horním rohu vyberte **Nastavení účtu** .
-   - V levém navigačním panelu na druhé úrovni vyberte **Správa uživatelů** .
-   - V horní části seznamu uživatelů vyberte rozevírací nabídku **Filtr** a změňte možnost **globální správce**. Na stránce se pak zobrazí všichni globální správci s příslušnými e-mailovými adresami. Položte jednu z nich, abyste přiřadili roli správce odkazů pro váš pracovní účet.
+   Vyhledání globálního správce: 
+   - Přihlaste se k Partnerské centrum [a](https://partner.microsoft.com/dashboard) **v** pravém horním rohu vyberte Nastavení účtu z ikony ozubeného kola.
+   - Na **levém navigačním** panelu druhé úrovně vyberte Správa uživatelů.
+   - V horní části seznamu uživatelů  vyberte rozevírací nabídku Filtr a změňte možnost na **Globální správce.** Na stránce se pak zobrazí všichni globální správci s příslušnými e-mailových adresami. Požádejte jednoho z nich o přiřazení role správce referenčních seznamu pro váš pracovní účet.
    
-      Globální správce může buď vytvořit nový uživatelský účet v tenantovi Azure AD, nebo přiřadit přístup uživatelů typu Host k ostatním uživatelům účtu domény. Jakmile jsou účty nastavené pro všechny správce a uživatele pro řízení účtu PSC, musí se přihlásit k partnerskému centru, vybrat **odkazy** z nabídky vlevo a potvrdit, že uvidí stránku odkazy.
+      Globální správce může buď vytvořit nový uživatelský účet ve vašem tenantovi Azure AD, nebo přiřadit přístup uživatele hosta ostatním uživatelům účtu domény. Jakmile jsou účty nastavené pro všechny správce dohody a uživatele PSC, musí se přihlásit  k Partnerské centrum, v levé navigační nabídce vybrat Referenční odkazy a ověřit, že se jim zobrazí stránka Referenční odkazy.
 
-3. Uživatel už má přiřazenou roli reference v partnerském centru.
-    - Můžete ověřit stávající roli uživatele. V pravém horním rohu partnerského centra vyberte **Nastavení** (ikona ozubeného kola) a pak **Nastavení účtu**. Když se zobrazí druhá levá navigační nabídka, vyberte **Správa uživatelů** a vyhledejte uživatele.
+3. Uživatel už má v seznamu přiřazenou roli Partnerské centrum.
+    - Můžete ověřit existující roli uživatele. V pravém horním rohu okna vyberte Partnerské centrum **(ikona** ozubeného kola) a pak **Nastavení účtu.** Když se zobrazí druhá levá navigační nabídka, vyberte **Správa uživatelů** a vyhledejte uživatele.
 
-## <a name="psc-deals-migration"></a>Při migraci do PSC se zakoupí
+## <a name="psc-deals-migration"></a>Migrace dohody o PSC
 
-Po dokončení migrace uživatelů můžete použít Průvodce migrací do provozu na stránce s příležitostmi k prodeji a přenést všechny opravňující otevřené obchody z PSC do počítače. **Odkaz na migraci se bude zobrazovat jenom správcům odkazů s celým oborem organizace v partnerském centru.** V pravém horním rohu stránky s příležitostmi k prodeji bude odkaz s názvem **"PBV rozdat Migration"** . tím se otevře Průvodce migrací obchodu.
+Po dokončení migrace uživatelů použijte průvodce migrací dohody na stránce Příležitosti ke spoluprodávce a přenesete všechny oprávněné otevřené obchody z PSC na Partnerské centrum. **Odkaz na migraci dohody bude viditelný jenom správcům referenčních doporučení s celým rozsahem organizace v Partnerské centrum.** Vpravo nahoře na stránce Příležitosti ke spoluprodávce bude odkaz s názvem Migrace dohody **PSC,** který otevře průvodce migrací dohody.
 
-Před zahájením migrace obchodu si přečtěte tento oddíl.
+Před zahájením migrace dohody si přečtěte tuto část.
 
-**Vhodné pro migraci**
+**Nárok na migraci**
 
-K migraci z PSC do PC mají nárok pouze některé dohody. Tento průvodce migrací je vytvořen tak, aby partnerům pomohl Partnerské centrum tam, kde stále aktivně spolupracuje se svými zákazníky na uzavření dohody. **Na migraci mají nárok jenom dohody, které jsou v otevřeném stavu vytvořené od 1. ledna 2020 s platnými podrobnostmi o partnerském účtu (platné ID MPN) a procházejí registrací dohody.**
+K migraci z PSC na Partnerské centrum. Tento průvodce migrací je vytvořen tak, aby partnerům pomohl Partnerské centrum, kde stále aktivně spolupracuje se svými zákazníky na uzavření dohody. **Na migraci mají nárok jenom dohody, které jsou v otevřeném stavu vytvořené od 1. ledna 2020 s platnými podrobnostmi o partnerském účtu (platné ID MPN) a procházejí registrací dohody.**
 
 **Není možné migrací**
 
@@ -142,12 +142,12 @@ K migraci z PSC do PC mají nárok pouze některé dohody. Tento průvodce migra
 
 ## <a name="pre-requisites-for-deal-migration"></a>Předpoklady pro migraci dohody
 
-Před zahájením migrace dohody z PC postupujte podle následujících pokynů a nastavte obchody v PSC pro úspěšnou migraci.
+Před zahájením migrace dohody z Partnerské centrum podle následujících pokynů nastavte obchody v PSC pro úspěšnou migraci.
 
 1. O této migraci jsou informováni všichni členové prodejního týmu ve vaší společnosti, kteří pracují na otevřených obchodech.
 2. Členové prodejního týmu jsou vytrénované tak, aby Partnerské centrum k řízení dohody.
 3. Obchody mají všechny požadované informace, jak je popsáno níže.
-    - Podrobnosti o společnosti zákazníka, včetně názvu a adresy
+    - Podrobnosti o společnosti zákazníka včetně názvu a adresy
     - Kontaktní údaje zákazníka, pokud se jedná o dohodu o spoluprodát
     - Alespoň jedno řešení
     - Alespoň jeden člen týmu se všemi podrobnostmi – jméno, příjmení, ID e-mailu a telefonní číslo
@@ -155,32 +155,32 @@ Před zahájením migrace dohody z PC postupujte podle následujících pokynů 
     - Odhadované datum uzavření dohody
     - Poznámky pro partnery
 
-Možnosti hromadného stažení a nahrání v PSC můžete použít k přidání všech chybějících detailů do obchodu pro všechny oprávněné obchody.
+Pomocí možností hromadného stahování a nahrávání v PSC můžete přidat všechny chybějící podrobnosti v rámci dohody pro všechny oprávněné dohody.
 
 >[!Note]
-> Migrace do provozu bude úspěšná i v případě, že nejsou splněné výše uvedené požadavky. Ale nemůžete změnit stav obchodu, pokud některá z výše uvedených povinných polí v partnerském centru nejsou k dispozici. Potom budete muset zadat všechny požadované informace v části obchody v partnerském centru, abyste na ně mohli začít pracovat. **Důrazně doporučujeme vyčistit opravňující obchody v PSC před jejich migrací do partnerského centra.**
+> Migrace dohody bude úspěšná i v případě, že výše uvedené požadavky nebudou splněny. Nemůžete ale změnit stav dohody, pokud některé z výše uvedených požadovaných polí v Partnerské centrum nejsou k dispozici. Pak budete muset zadat všechny požadované informace, které v obchodech chybí Partnerské centrum na nich začít pracovat. **Před migrací oprávněných obchodů v PSC důrazně doporučujeme vyčistit je Partnerské centrum.**
 
-Migrace obchodu na partnerském centru je postavená na jednom kliknutí. Stačí kliknout na tlačítko **migrovat obchody** , jakmile je vaše společnost připravená na migraci oprávněných obchodů. **Nemůžete zvolit obchody, které chcete migrovat z PSC. Pokud nechcete migrovat žádné obchody do partnerského centra, před zahájením migrace je přesuňte do zavřeného stavu v poli PSC.**
+Migrace dohody v Partnerské centrum je sestavená jako prostředí jedním kliknutím. Jakmile bude vaše společnost  připravená na migraci oprávněných dohod, musíte vybrat tlačítko Migrovat obchody. **Nemůžete zvolit dohody, které chcete migrovat z PSC. Pokud nechcete migrovat žádné dohody do Partnerské centrum, před zahájením migrace je přesuňte do uzavřeného stavu v PSC.**
 
 >[!Note]
-> Po zahájení migrace **může trvat až 24 hodin**, než se budou tyto obchody migrovat.
+> Po zahájení migrace může migrace dohod trvat až **24 hodin.**
 
-Po dokončení migrace se stav zprávy změní na dokončeno s odkazem na sestavu migrace. Stáhněte si sestavu a zobrazte si podrobnosti o tom, které byly migrovány z protokolu PSC do počítače PC.
+Po dokončení migrace se stav banneru změní tak, aby se dokončil s odkazem na sestavu migrace. Stáhněte si sestavu, abyste si prohlédněte podrobnosti o dohodách, které se migrují z PSC do Partnerské centrum.
 
-Sestava obsahuje níže uvedené podrobnosti.
+Sestava obsahuje následující podrobnosti.
 
-1. **ID zapojení partnerského centra** – jedinečný identifikátor v partnerském centru pro všechny obchody ve službě Engagement. Existují dva obchody – jeden pro každého partnera a jeden pro Microsoft v rámci účasti v partnerském centru pro spoluprodejní zapojení.
-2. **ID odkazu partnerského centra** – jedinečný identifikátor v partnerském centru pro obchod patřící partnerovi.
-3. **Název obchodu** – identifikátor uvedený pro obchod v PBV.
-4. **ID transakce PSC** – jedinečný identifikátor v poli PSC pro obchod.
-5. **Chyby** – k označení, zda při migraci konkrétního obchodování dojde k chybě.
+1. **Partnerské centrum zapojení –** jedinečný identifikátor v Partnerské centrum pro všechny obchody v rámci zapojení. Existují dvě dohody – jedna pro partnera a jedna pro Microsoft ve spolupráci v Partnerské centrum.
+2. **Partnerské centrum referenčního odkazu** – jedinečný identifikátor Partnerské centrum pro dohodu, která patří partnerovi.
+3. **Název dohody** – identifikátor zadaný pro dohodu v PSC.
+4. **ID dohody PSC** – jedinečný identifikátor v PSC pro dohodu.
+5. **Chyby** – značí, jestli při migraci konkrétní dohody dojde k nějaké chybě.
 
-Všechny obchody, které byly úspěšně migrovány, nebudou viditelné v PSC. Můžete pokračovat v práci na migrovaných dohod v počítači, včetně dokončení registrace dohody v PC. Interakce s prodejci Microsoftu pro dohody o spoluprodávačích se nemění.
+Všechny obchody, které byly úspěšně migrovány, se v PSC nezobrazí. Migrované dohody můžete dál pracovat v Partnerské centrum včetně dokončení registrace dohody v Partnerské centrum. Interakce s prodejci Microsoftu při dohodách o spoluprodávačích se nemění.
 
 Dohody migrované z PSC budou k dispozici na kartách Příchozí a Odchozí v závislosti na zdroji dohody. Všechny dohody sdílené vaší společností budou dostupné na kartě Odchozí a dohody iniciované Microsoftem budou k dispozici na kartě Příchozí v Partnerské centrum. Po migraci budou vytvořeny dva typy dohod.
 
 1. **Dohody o spoluprodávce** – Dohody, které jsou v PSC označené jako spoluprodávné, se vytvoří jako dohody o spoluprodávce v Partnerské centrum.
-2. **Dohody vedené partnery** – Dohody, které nejsou označené jako spoluprodáky, se vytvoří jako dohody vedené partnery v Partnerské centrum. Nabídky vedené partnery jsou viditelné prodejcům Microsoftu a před dosažením stavu terminálů (won, lost) je možné upgradovat na dohody o spoluprodávači. Dohody vedené partnery mají také nárok na registraci dohody, pokud se v rámci dohody nachází řešení s nárokem na pobídky.
+2. **Dohody vedené partnery** – Dohody, které nejsou označené jako spoluprodáky, se vytvoří jako dohody vedené partnery v Partnerské centrum. Dohody vedené partnery jsou viditelné prodejcům Microsoftu a před dosažením terminálových stavů (won, lost) je možné upgradovat na dohody o spoluprodávači. Dohody vedené partnery mají také nárok na registraci dohody, pokud se v rámci dohody nachází řešení s nárokem na pobídky.
 
 >[!Important]
 > Pokud dojde k chybám, kvůli kterým se některé dohody nemigrují, můžete migraci dohody znovu zahájit kliknutím na tlačítko **Migrovat dohody.** Tato možnost se povolí jenom v případě, že ještě existuje několik oprávněných dohod, které se mají migrovat. To bude užitečné také v případě, že jste ve fázi přechodu, ve které se v PSC vytvářejí nové dohody po zahájení migrace dohody.
@@ -189,34 +189,34 @@ Po úspěšné migraci všech dohod se zobrazí banner No **deals to migrate** (
 
 Po dokončení migrace uživatelů nebo dohody o migraci použijte následující pokyny k rozhodnutí o strategii migrace:
 
-Pokud má vaše společnost manažera pro vývoj partnerů (PDM) – Když je váš účet Partnerské centrum nastavený a vaši uživatelé se přesunuli a mají role a oprávnění, můžete aktivity spoluprodáva přesunout do Partnerské centrum. Informujte PDM, aby místo čekání na dokončení migrace nečekala na dokončení migrace. Tím umožníte, aby všechny vaše nové obchody pokračovaly do partnerského centra.
+Pokud má vaše společnost manažera pro vývoj partnerů (PDM) – Když je váš účet Partnerské centrum nastavený a vaši uživatelé se přesunuli a mají role a oprávnění, můžete aktivity spoluprodáva přesunout do Partnerské centrum. Informujte pdm, aby přepne, místo abyste čekali na dokončení migrace, což umožní, aby se všechny nové obchody dostaly do Partnerské centrum.
 
 >[!Note]
->Po provedení tohoto přepínače budete moct pracovat jenom s existujícími aktivními obchody v PBV. Nemůžete ani vytvořit nové obchody ani dostávat žádné obchody od prodejců Microsoftu v PBV.
+>Jakmile tento přepínač změníte, budete moct jednat pouze s existujícími aktivními obchody v PSC. V PSC nemůžete vytvářet nové dohody ani přijímat žádné dohody od prodejců Microsoftu.
 
-Pokud vaše společnost nemá PDM, ujistěte se, že jsou všechny uživatelské účty nastavené a ověřené všemi uživateli. Budete upozorněni e-mailem a bannerem v části PSC ohledně přesného data, kdy můžete začít prodávat v partnerském centru. Mějte na paměti, že stále budete muset spravovat existující aktivní obchody v PSC.
+Pokud vaše společnost nemá pdm , ujistěte se, že jsou všechny uživatelské účty nastavené a ověřené všemi uživateli. Prostřednictvím e-mailu a banneru v PSC budete upozorněni na přesné datum zahájení spoluprodávek v Partnerské centrum. Mějte na paměti, že stávající aktivní obchody budete muset spravovat i nadále v PSC.
 
 >[!Important]
-> Až do 30. dubna 2021 zaregistrujete obchody, které jsou označené jako získané.
+> Do 30. dubna 2021 máte zaregistrovat obchody označené jako won.
 
-## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Další kroky pro správce PSC, správci koupích a PBV
+## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Další kroky pro správce PSC, manažery dohody PSC a prodejce PSC
 
-Přečtěte si, jak v partnerském centru využít společný prodej.
-Toto je důležitý krok, který vám pomůže připravit se na společný prodej v partnerském centru. Seznamte se s pracovními postupy a změnami v partnerském centru, abyste mohli efektivně prodávat hned. Začněte tím, že dokument přečtete úplně. V [galerii možností společného prodeje](https://aka.ms/cosellexperience)je dostupná i dobrá sada prostředků.
+Naučte se spoluprodávat v Partnerské centrum.
+Jedná se o důležitý krok, který vám pomůže být připraveni na spoluprodáva v Partnerské centrum. Porozuměli jste pracovním postupům a změnám v Partnerské centrum, abyste mohli efektivně ihned spoluprodávat. Začněte tím, že si tento dokument kompletně pročtete. Dobrá sada prostředků je k dispozici také v galerii [prostředí spoluprodáce.](https://aka.ms/cosellexperience)
 
-## <a name="major-differences-between-psc-and-pc-workflows"></a>Hlavní rozdíly mezi pracovními postupy PSC a počítačů
+## <a name="major-differences-between-psc-and-partner-center-workflows"></a>Hlavní rozdíly mezi pracovními postupy PSC a Partnerské centrum pracovními postupy
 
-|**Scénář**|**Partner – prodejní připojení**|**Partnerské centrum**|
+|**Scénář**|**Partner Sales Connect**|**Partnerské centrum**|
 |-----|:-----|:-----|
-|Role uživatelů|PBV má role správce, správce rozdat a prodejce.|POČÍTAČ má pouze roli [Správce odkazů](permissions-overview.md#manage-referrals) , která poskytuje oprávnění ke čtení i zápisu pro všechny obchody.|
-|Pozvání Microsoftu k účasti na společném prodeji|Od Microsoft prodávajícího neexistují žádné výslovné otázky od partnera.|Partner bude muset vytvořit [explicitní požadavek](manage-co-sell-opportunities.md#add-solutions) , pokud je pro obchod potřeba pomáhat prodejce Microsoftu. Prodejce Microsoftu má možnost žádost odmítnout.|
-|Vypršení platnosti|Neexistuje žádný koncept vypršení platnosti dohody.|Platnost příchozích dohod partnerů vyprší za 14 dnů, pokud je partner nepřijme. Totéž platí i pro odchozí dohody partnerů, jejichž platnost vyprší, pokud prodejce Microsoftu za 14 dnů nevyhodí.|
+|Role uživatelů|PSC má role správce, manažera dohody a prodejce.|Partnerské centrum má jenom roli [správce referenčních](permissions-overview.md#manage-referrals) seznamu, která uděluje oprávnění ke čtení i zápisu pro všechny obchody.|
+|Pozvání Microsoftu k dohody o spoluprodávaní|Inicioval/a prodejce Microsoftu a partner se na to výslovně neptal.|Partner bude muset provést explicitní [žádost, pokud](manage-co-sell-opportunities.md#add-solutions) je pro dohodu potřeba pomoc s prodejcem Microsoftu. Prodejce Microsoftu má možnost žádost odmítnout.|
+|Vypršení platnosti|Neexistuje žádný koncept vypršení platnosti dohody.|Platnost příchozích dohod partnerů vyprší za 14 dnů, pokud je partner nepřijme. Totéž platí i pro odchozí dohody partnerů, jejichž platnost vypršela, pokud prodejce Microsoftu za 14 dnů nevyhodí.|
 |Podrobnosti o prodejci Microsoftu|Viditelné, jakmile se vytvoří dohoda.|Podrobnosti o prodejci Microsoftu se s partnerem sdílí jenom v případě, že prodejce výslovně přijme pozvánku ke spoluprodávači od partnera.|
-|[Privátní kanál](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Není k dispozici.|Partneři mohou sdílet svůj kanál, aniž by prodejcům Microsoftu dávají přehled.|
-|Řešení|Řešení, která patří pouze do jednoho ceníku, je možné přidat do dohody.|Partner může přidat [řešení,](manage-co-sell-opportunities.md#add-solutions) která patří do následujících seznamů. a) Vlastní řešení b) Řešení z katalogu Microsoftu první strany (podobně jako u role dohody o transakcích v PSC) a c) Řešení spoluproduování od jiných partnerů třetích stran (podobně jako u role dohody ISV v PSC).|
+|[Privátní kanál](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Není k dispozici.|Partneři mohou sdílet svůj kanál, aniž by prodejci Microsoftu dáváme přehled.|
+|Řešení|Řešení, která patří jenom do jednoho ceníku, je možné přidat do dohody.|Partner může přidat [řešení,](manage-co-sell-opportunities.md#add-solutions) která patří do následujících seznamů. a) Vlastní řešení b) Řešení z katalogu Microsoftu první strany (podobně jako u role dohody o transakcích v PSC) a c) Řešení spoluproduování od jiných partnerů třetích stran (podobně jako u role dohody ISV v PSC).|
 |Přiřazení dohody|Jen přiřazený prodejce může obchody zobrazit a jednat s ohledem na to.|Členy týmu je možné přidat do dohody, aby mohli určit lidi, kteří pracují na dohody, a ostatní správci referenčních seznamu nemají žádné blokování v zobrazení těchto dohod nebo v jejich náplní.|
-|Organizace zákazníků|Zadání textu volného formuláře.|Zadáním několika znaků [můžete v](manage-co-sell-opportunities.md#select-your-customer) organizaci zákazníka vyhledat databázi D [&B.](https://www.dnb.com/) Právní název a adresa se vyplní automaticky podle volby.|
-|Kontakt zákazníka|Není povinná.|Není povinné pro sdílení privátních kanálů. Požadováno v případě, že se prodejce Microsoftu pozve k účasti na žádosti o společný prodej.|
+|Organizace zákazníků|Zadání textu volného formuláře.|Zadáním několika [znaků můžete v](manage-co-sell-opportunities.md#select-your-customer) organizaci zákazníka vyhledat databázi [D&B.](https://www.dnb.com/) Právní název a adresa se vyplní automaticky podle volby.|
+|Kontakt zákazníka|Není povinné.|Pro sdílení privátních kanálů to není povinné. Požadováno v případě, že se prodejce Microsoftu pozve k účasti na žádosti o společný prodej.|
 |Veřejné rozhraní API|Není k dispozici.|[Veřejné rozhraní API](/partner/develop/referrals) pro programové řízení odkazů partnerského centra|
 
 ## <a name="map-the-fields-in-psc-to-the-corresponding-fields-in-partner-center"></a>Mapování polí v PBV na odpovídající pole v partnerském centru
@@ -237,30 +237,30 @@ Mapování polí pro PSČ do partnerského centra se zobrazí v následujících
 1. Zobrazení mřížky PSC mapované na zobrazení obchodu partnerského centra
 1. Zobrazení podrobností o koupi PSC mapované na zobrazení Podrobnosti o koupi partnerského centra
 1. PBV přidat zobrazení produktů mapované do partnerského centra přidat zobrazení řešení
-1. Zobrazení správy uživatelů PSC namapované na Partnerské centrum správy uživatelů
-1. Zobrazení přiřazení role uživatele PSC namapované Partnerské centrum zobrazení přiřazení role uživatele
-1. Zobrazení oznámení PSC namapované na Partnerské centrum oznámení
+1. Zobrazení správy uživatelů PBV mapované na zobrazení správy uživatelů v partnerském centru
+1. Zobrazení přiřazení role uživatele PBV mapované na zobrazení přiřazení role partnerského centra
+1. Zobrazení oznámení PSC mapované na zobrazení oznámení v partnerském centru
 
-### <a name="1---psc-home-page-mapped-to-the-partner-center-co-sell-opportunities-default-view"></a>1 . Domovská stránka PSC namapovaná na výchozí Partnerské centrum příležitosti ke spoluprodávce
+### <a name="1---psc-home-page-mapped-to-the-partner-center-co-sell-opportunities-default-view"></a>1 – Domovská stránka PSC mapovaná na výchozí zobrazení příležitostí partnerského centra pro souběžné prodejy
 
-Porovnejte odpovídající očíslované kruhy mezi horním snímkem obrazovky PSC a Partnerské centrum snímku obrazovky pod nimi. Odpovídající čísla ukazují, kde můžete najít funkci nebo atribut související s PSC v Partnerské centrum. Červené kruhy označují, že v poli Partnerské centrum žádná shoda.  
+Porovnejte párové a očíslované kružnice mezi horním snímkem PSC a snímkem partnerského centra pod ním. Čísla odpovídajících čísel ukazují, kde můžete najít funkci nebo atribut související s PSC v partnerském centru. Červené kroužky označují, že neexistuje žádné odpovídajícího pole partnerského centra.  
 
-:::image type="content" source="images/pscmigration/homepage.png" alt-text="Obrázek znázorňující mapování polí mezi domovskou stránkou aplikace Partner Sales Connect a výchozím zobrazením příležitostí ke spoluprodeji v Partnerské centrum" lightbox="images/pscmigration/home-page-expanded.png":::
+:::image type="content" source="images/pscmigration/homepage.png" alt-text="Obrázek znázorňující mapování polí mezi domovskou stránkou partnera Sales Connect a výchozím zobrazením příležitostí v partnerském centru pro společné prodeje." lightbox="images/pscmigration/home-page-expanded.png":::
 
-### <a name="2---psc-grid-view-mapped-to-the-partner-center-deal-view"></a>2 . Zobrazení mřížky PSC namapované na Partnerské centrum dohody
+### <a name="2---psc-grid-view-mapped-to-the-partner-center-deal-view"></a>2 – zobrazení tabulky PSC mapované na zobrazení obchodu v partnerském centru
 
-Porovnejte odpovídající očíslované kruhy mezi horním snímkem obrazovky PSC a Partnerské centrum snímku obrazovky pod nimi. Odpovídající čísla ukazují, kde můžete najít funkci nebo atribut související s PSC v Partnerské centrum. Červené kruhy označují, že v poli Partnerské centrum žádná shoda.  
+Porovnejte párové a očíslované kružnice mezi horním snímkem PSC a snímkem partnerského centra pod ním. Čísla odpovídajících čísel ukazují, kde můžete najít funkci nebo atribut související s PSC v partnerském centru. Červené kroužky označují, že neexistuje žádné odpovídajícího pole partnerského centra.  
 
 > [!NOTE]
-> Pod snímky obrazovky se zobrazí další důležité informace.
+> Pod snímky obrazovky se zobrazí další požadavky.
 
-:::image type="content" source="images/pscmigration/gridview.png" alt-text="Obrázek znázorňující mapování polí mezi zobrazením mřížky Partner Sales Connect (PSC) a zobrazením Partnerské centrum dohody" lightbox="images/pscmigration/grid-view-expanded.png":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Obrázek znázorňující mapování polí mezi zobrazením mřížky partnera Sales Connect (PSC) a zobrazením obchodu v partnerském centru." lightbox="images/pscmigration/grid-view-expanded.png":::
 
-**Zvláštní aspekty:**
+**Zvláštní požadavky:**
 
-- Zobrazení seznamu v tomto Partnerské centrum jako v PSC.  Všechny dohody jsou uvedené na základě nejnovějšího přijatého nebo vytvořeného data s informacemi o zákazníkovi a typem dohody. Ve výchozím nastavení je vybrána první dohoda v zobrazení. Většina hodnot zobrazených ve formátu tabulky PSC je k dispozici v podrobném zobrazení dohody v PC.
-- Role dohody není povinné pole v počítači. Nezobrazuje se ani se nezachycuje v žádném z pracovních postupů. Je odvozená automaticky na straně prodejce Microsoftu na základě řešení přidaných do obchodu.
-- Datum poslední změny se nezobrazí na stránce podrobností odkazu v počítači PC. Partneři mohou pomocí funkce řazení seřadit obchody na základě data poslední aktualizace.
+- V partnerském centru neexistuje žádné zobrazení seznamu, jako je třeba PBV.  Všechny obchody jsou uvedené na základě nejnovějšího data přijetí nebo vytvoření s informacemi o zákaznících a typu obchodu. Ve výchozím nastavení je vybrán první obchod v zobrazení. Většina hodnot zobrazených ve formátu tabulky PSC je k dispozici v podrobném zobrazení obchodu v partnerském centru.
+- Role koupě není požadované pole v partnerském centru. Nezobrazuje se ani se nezachycuje v žádném z pracovních postupů. Je odvozená automaticky na straně prodejce Microsoftu na základě řešení přidaných do obchodu.
+- Datum poslední změny se nezobrazí na stránce podrobností odkazu v partnerském centru. Partneři mohou pomocí funkce řazení seřadit obchody na základě data poslední aktualizace.
 
 ### <a name="3---psc-deal-details-view-mapped-to-partner-center"></a>3 – zobrazení podrobností o koupi PSC mapované na partnerské Centrum
 
@@ -275,34 +275,34 @@ Porovnejte párové kroužky na horním (PBV) snímku obrazovky, na které se na
 
 - Partneři můžou upravit práci výběrem tlačítka upravit v zobrazení podrobností o partnerském obchodu (6). Po výběru tlačítka pro úpravy se všechna pole stanou upravitelná. Pak máte možnost buď uložit, nebo zrušit úpravy provedené v obchodu.
 - Neexistuje možnost uzavřít obchod jako duplicitní v partnerském centru.
-- Výsledek zákazníka není v partnerském centru k dispozici. Všechny podrobnosti související s interakcí zákazníků lze aktualizovat v části poznámky v počítači PC.
+- Výsledek zákazníka není v partnerském centru k dispozici. Všechny podrobnosti související se zákaznickými interakcemi se dají aktualizovat v části poznámky v partnerském centru.
 - Odhadované datum ukončení řešení je k dispozici pouze pro obchody OEM IOT v partnerském centru. Tyto informace se nezobrazují pro žádné jiné typy obchodování.
-- V počítači není vyžadován licenční program. Tyto informace se automaticky odvodí na základě řešení vybraných v obchodě.
+- Licenční program není vyžadován v partnerském centru. Tyto informace jsou automaticky odvozené v závislosti na řešeních vybraných v obchodu.
 
 >[!Note]
->Žádnou dohodu označenou jako won (vyhrála) nebo ztracenou (lost) není možné upravit. Při přesunu dohody do jednoho z těchto terminálových stavů buďte opatrní.
+>Jakoukoli práci označenou jako získanou nebo ztracenou nelze následně upravit. Při přesunu obchodu do jednoho z těchto stavů terminálu Vyzkoušejte opatrnost.
 
-### <a name="4---psc-add-products-view-mapped-to-the-partner-center-add-solutions-view"></a>4. Zobrazení PsC Přidat produkty namapované na Partnerské centrum zobrazení Přidat řešení
+### <a name="4---psc-add-products-view-mapped-to-the-partner-center-add-solutions-view"></a>4-PBV zobrazení přidat produkty mapované na zobrazení partnerského centra přidat řešení
 
-Porovnejte odpovídající očíslované kruhy na horním snímku obrazovky (PSC) s Partnerské centrum snímku obrazovky pod ním. Odpovídající čísla ukazují, kde můžete najít funkci nebo atribut související s PSC v Partnerské centrum. Červené kroužky označují, že v seznamu není žádné odpovídající pole nebo Partnerské centrum.
+Porovnejte párové kroužky na horním (PBV) snímku obrazovky, na které se nachází snímek obrazovky partnerského centra. Čísla odpovídajících čísel ukazují, kde můžete najít funkci nebo atribut související s PSC v partnerském centru. Červené kroužky označují, že v partnerském centru neexistuje žádné vyhovující pole ani oblast.
   
-:::image type="content" source="images/pscmigration/products.png" alt-text="Obrázek znázorňující mapování polí mezi zobrazením Přidání produktů v nástroji Partner Sales Connect (PSC) a Partnerské centrum zobrazení pro přidání řešení" lightbox="images/pscmigration/products-expanded.png":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Obrázek znázorňující mapování polí mezi zobrazením pro přidání produktů z partnerského prodeje (PSC) a v partnerském centru pro přidání řešení." lightbox="images/pscmigration/products-expanded.png":::
 
-### <a name="5---user-management-in-psc-versus-partner-center"></a>5. Správa uživatelů v PSC versus Partnerské centrum
+### <a name="5---user-management-in-psc-versus-partner-center"></a>5. Správa uživatelů v PSC a partnerské Centrum
 
-Porovnejte odpovídající očíslované kruhy na horním snímku obrazovky (PSC) s Partnerské centrum snímku obrazovky pod ním. Odpovídající čísla ukazují, kde můžete najít funkci nebo atribut související s PSC v Partnerské centrum. Červené kroužky označují, že v seznamu není žádné odpovídající pole nebo Partnerské centrum.  
+Porovnejte párové kroužky na horním (PBV) snímku obrazovky, na které se nachází snímek obrazovky partnerského centra. Čísla odpovídajících čísel ukazují, kde můžete najít funkci nebo atribut související s PSC v partnerském centru. Červené kroužky označují, že v partnerském centru neexistuje žádné vyhovující pole ani oblast.  
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Obrázek znázorňující mapování polí mezi domovskou stránkou pro správu uživatelů Partner Sales Connect (PSC) a zobrazením stránky pro správu Partnerské centrum uživatele v oblasti Nastavení účtu."  lightbox="images/pscmigration/user-management-expanded.png":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Obrázek znázorňující mapování polí pro domovskou stránku správy uživatelů (PSC) pro partnery a zobrazení stránky pro správu uživatelů v partnerském centru v oblasti nastavení účtu."  lightbox="images/pscmigration/user-management-expanded.png":::
 
-### <a name="6---user-role-assignment-in-psc-versus-partner-center"></a>6. Přiřazení role uživatele v PSC v porovnání s Partnerské centrum
+### <a name="6---user-role-assignment-in-psc-versus-partner-center"></a>6. přiřazení role uživatele v PSC a partnerském centru
 
-Porovnejte odpovídající očíslované kruhy na horním snímku obrazovky (PSC) s Partnerské centrum snímku obrazovky pod ním. Odpovídající čísla ukazují, kde můžete najít funkci nebo atribut související s PSC v Partnerské centrum. Červené kroužky označují, že v seznamu není žádné odpovídající pole nebo Partnerské centrum.  
+Porovnejte párové kroužky na horním (PBV) snímku obrazovky, na které se nachází snímek obrazovky partnerského centra. Čísla odpovídajících čísel ukazují, kde můžete najít funkci nebo atribut související s PSC v partnerském centru. Červené kroužky označují, že v partnerském centru neexistuje žádné vyhovující pole ani oblast.  
 
-:::image type="content" source="images/pscmigration/roles.png" alt-text="Obrázek znázorňující mapování polí mezi zobrazením přiřazení role Partner Sales Connect (PSC) a zobrazením přiřazení Partnerské centrum role" lightbox="images/pscmigration/roles-expanded.png":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Obrázek znázorňující mapování polí mezi zobrazením přiřazení role partnerský prodej Connect (PSC) a zobrazení přiřazení role partnerského centra." lightbox="images/pscmigration/roles-expanded.png":::
 
-**Zvláštní aspekty:**
+**Zvláštní požadavky:**
 
-- Ekvivalentní rolí pro správce PSC je role správce účtu v Partnerské centrum.
+- Ekvivalentní role pro správce PSC je role správce účtu v partnerském centru.
 - V partnerském centru existuje jenom jedna role pro spoluprodejní správu koupek. Tato role je role Správce odkazů.
 
 ### <a name="7---notifications-in-psc-versus-partner-center"></a>7 – oznámení v PBV versus partnerské Centrum
@@ -325,15 +325,15 @@ Můžete se obrátit na správce, kteří jsou uvedeni na stránce "bez přístu
 
 [Správce účtu](permissions-overview.md#manage-mpn-membership-and-your-company) vám může udělit přístup k kartě odkazy. Pokud chcete najít správce účtu, vyberte **Nastavení účtu** z ikony ozubeného kolečka v pravém horním rohu [řídicího panelu](https://partner.microsoft.com/dashboard)partnerského centra. Pak vyberte **Správa uživatelů** z druhé úrovně vlevo v navigačním panelu. V horní části seznamu uživatelů vyberte rozevírací nabídku **Filtr** a změňte možnost na **správce účtu**. Na stránce se zobrazí všichni správci účtu se svými příslušnými e-mailovými adresami. Položte jednu z nich, abyste přiřadili roli správce odkazů pro váš pracovní účet.
 
-### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3 – tlačítko + nové koupě je pro náš účet šedé. Co mám udělat, když mám začít vytvářet dohody?
+### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3 – tlačítko + nové koupě je pro náš účet šedé. Co mám udělat, pokud chcete začít vytvářet obchody?
 
-K tomu dochází pouze v případě, že k organizaci MPN, kterou používáte v rámci programu , nejsou připojená žádná řešení připravená ke spoluprodávce Partnerské centrum. Obraťte se na váš pdm a získejte ID MPN vašich řešení opravené nebo vytvořte lístek podpory s informací o problému "Po migraci PSC je tlačítko Nové dohody zašedé".
+K tomu dochází pouze v případě, že k organizaci MPN, kterou používáte v rámci programu , nejsou připojená žádná řešení připravená ke spoluprodávce Partnerské centrum. Kontaktujte primární řadič domény a získejte ID MPN vašich řešení opravené nebo vytvořte lístek podpory s informací o problému " Po migraci PSC je tlačítko Nové dohody zašedé".
 
 ### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 – Můžu přiřadit dohody konkrétní osobě z naší organizace, jako je PSC?
 
-Ke konkrétní dohody můžete přiřadit členy týmu. Nezablokuje ostatním správcům referenčních nabídek jejich zobrazení ani akce s těmito obchody.
+Ke konkrétní dohodu můžete přiřadit členy týmu. Nezablokuje ostatním správcům referenčních nabídek jejich zobrazení ani akce s těmito obchody.
 
-### <a name="5---is-there-a-view-of-all-the-deals-assigned-to-me"></a>5 – Je k dispozici zobrazení všech dohod, které mi byly přiřazeny?
+### <a name="5---is-there-a-view-of-all-the-deals-assigned-to-me"></a>5 – Je k dispozici zobrazení všech dohod, které jsou mi přiřazeny?
 
 Můžete použít funkci oblíbených položek, což je karta na úrovni uživatele. Všechny dohody, které jsou vám přiřazeny, můžete označit jako oblíbené a získat tak rychlý přístup k dohodám.
 
@@ -353,31 +353,31 @@ Pokud dohoda splňuje následující kritéria, zobrazí se automaticky otevíra
 
 Tlačítko **+Nová registrace** dohody mají používat jenom partneři zaregistrovaní v programu ISV Connect k registraci dohody bez odpovídající příležitosti ke spoluprodávce v Partnerské centrum. Při registraci dohod s příležitostí ke spoluprodávce se při označení dohody jako won zobrazí automaticky otevírané okno, které splňuje kritéria pro registraci dohody.
 
-### <a name="9---is-adding-a-customer-organization-mandatory"></a>9 – je nutné přidat organizaci zákazníka povinnou?
+### <a name="9---is-adding-a-customer-organization-mandatory"></a>9 – Je přidání zákaznické organizace povinné?
 
-Ano, v partnerském centru je přidání [organizace zákazníka](./manage-co-sell-opportunities.md#select-your-customer) povinné. Začněte tím, že vyhledáte umístění, kde se zákazník nachází. Na základě podrobností, které máte; můžete být specifické, včetně přesného názvu budovy, nebo jenom poskytnout podrobnosti o městech. Hledání v organizaci načte všechny platné entity, které odpovídají názvu, který zadáte, abyste nemuseli zadávat žádné podrobnosti o adrese. Všechny podrobnosti se vyplní automaticky na základě vybrané organizace.
+Ano, přidání [organizace zákazníka je](./manage-co-sell-opportunities.md#select-your-customer) ve Partnerské centrum. Nejprve začněte vyhledáním místa, kde se nachází zákazník. Na základě podrobností, které máte. Můžete být konkrétní, včetně přesného názvu budovy, nebo prostě dejte podrobnosti o městě. Vyhledávání v organizaci načte všechny právní entity odpovídající názvu, který zadáte, takže nemusíte zadávat žádné podrobnosti o adrese. Všechny podrobnosti se vyplní automaticky na základě vybrané organizace.
 
-### <a name="10---are-customer-contact-details-mandatory"></a>10 jsou povinnými kontaktními údaji zákazníka?
+### <a name="10---are-customer-contact-details-mandatory"></a>10 – Jsou kontaktní údaje zákazníků povinné?
 
-Závisí na [typu obchodu](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) , kterou vytváříte. Pokud sdílíte svůj kanál a nevyžadujete žádnou technickou podporu z prodejní organizace Microsoftu, můžete se rozhodnout nedávat kontaktní údaje od zákazníka. Pokud společně vydáváte, kde aktivně hledáte pomocníka od společnosti Microsoft, budete muset zadat kontaktní údaje zákazníka. Před vytvořením žádosti o společný prodej v partnerském centru byste měli získat výslovný souhlas od zákazníka.
+Závisí na [typu dohody, kterou](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) vytváříte. Pokud kanál jenom sdílíte a nevyžadujete žádnou pomoc od prodejní organizace Microsoftu, můžete se rozhodnout neposíolit kontaktní údaje zákazníků. Pokud spoluprodáte, kde aktivně hledáte pomoc od prodejce Microsoftu, budete muset zadat kontaktní údaje zákazníka. Před vytvořením žádosti o spoluprodát v Partnerském centru byste měli od zákazníka získat explicitní souhlas.
 
-### <a name="11---how-many-solutions-can-i-add-to-a-deal"></a>11 – kolik řešení mohu do obchodu přidat?
+### <a name="11---how-many-solutions-can-i-add-to-a-deal"></a>11 – Kolik řešení můžu přidat do dohody?
 
-Do obchodu můžete přidat až 50 řešení (podobných produktům v PBV). Na rozdíl od PSC můžete kombinovat řešení ze svých vlastních řešení vhodných pro vlastní prodej, SKU Microsoft First stran a dalších oprávněných řešení pro vlastní prodej třetích stran. V partnerském centru neexistuje žádná role koupě, která by se měla vybrat nebo k dispozici. U položek SKU společnosti Microsoft můžete volitelně přidat množství a cenu za každou SKU, která je do obchodu přidána.
+Do dohody můžete přidat až 50 řešení (podobně jako u produktů v PSC). Na rozdíl od PSC můžete kombinovat řešení z vlastních oprávněných řešení pro spoluprodávku, skladových náklady Microsoftu a dalších oprávněných řešení pro spoluprodávku třetích stran. V Partnerském centru není vybraná nebo dostupná žádná role dohody. Pro skladové položky Microsoftu můžete volitelně přidat množství a cenu pro každou SKU, která se přidá do dohody.
 
-### <a name="12---when-will-i-get-to-know-the-microsoft-seller-details-after-creating-a-deal"></a>12. po vytvoření obchodu se dozvíte o podrobnostech o prodejci Microsoftu?
+### <a name="12---when-will-i-get-to-know-the-microsoft-seller-details-after-creating-a-deal"></a>12 – Kdy se po vytvoření dohody se budu seznamovat s podrobnostmi o prodejci Microsoftu?
 
-Prodejci Microsoftu se přiřazují až po splnění přesného požadavku na podporu, který jste uvedli při vytváření obchodu s relevantním prodejcem na straně Microsoftu. I po přiřazení budou mít prodejci Microsoftu možnost přijmout nebo odmítnout pozvánku pro spoluprodej. V případě, že prodávající akceptuje pozvání k spoluprodeji, bude aktualizace aktualizována o kontaktní údaje prodejce Microsoftu. Smlouva SLA pro prodejce Microsoftu, kteří se dohodu dohodí, je 14 dnů. Jedná se o stejnou smlouvu SLA, kterou partneři musí na základě dohody jednat, než přejde do stavu vypršení platnosti.
+Prodejci Microsoftu se přiřadí až po vyhotovění přesně uvedeného požadavku na pomoc při vytváření dohody s příslušnou osobou prodejce na straně Microsoftu. I po přiřazení budou mít prodejci Microsoftu možnost pozvánku ke spoluprodávači přijmout nebo odmítnout. Jenom v případě, že prodejce přijme pozvánku ke spoluprodávači, aktualizuje se dohoda s kontaktními údaji na prodejce Microsoftu. Smlouva SLA pro prodejce Microsoftu, kteří se dohodu dohodí, je 14 dnů. Jedná se o stejnou smlouvu SLA, kterou partneři musí na základě dohody jednat, než přejde do stavu, kdy vypršela její platnost.
 
 ### <a name="13---where-can-i-find-the-opportunity-id"></a>13 – Kde najdu ID příležitosti?
 
-ID příležitosti v PSC je stejné jako ID dohody v PC. ID dohody najdete při otevření dohody vedle názvu dohody.
+ID příležitosti v PSC je stejné jako ID dohody v Partnerské centrum. ID dohody najdete při otevření dohody vedle názvu dohody.
 
-### <a name="14---how-can-my-pdm-get-access-to-pc"></a>14. Jak může můj pdm získat přístup k počítači?
+### <a name="14---how-can-my-pdm-get-access-to-partner-center"></a>14. Jak můj pdm může získat přístup k Partnerské centrum?
 
-Partnerské centrum přímo na rozdíl od PSC k primárním řadičům domény, k nimž nelze přistupovat. Tuto funkci můžete povolit několika možnostmi, které jsou uvedené níže.
+Partnerské centrum na rozdíl od PSC k primárním řadičům domény přístup nesdílí. Tuto funkci můžete povolit několika možnostmi, které jsou uvedené níže.
 
-- Přehledy OCP – Pokud si primární počítače jen prohlíhá obchody a průběh, které s nimi souvisejí, mohou k zobrazení vaší organizace použít portál OCP Insights. Jedná se o interní nástroj, který je k dispozici pouze pro pdmy. Upozorňujeme, že přehledy OCP nejsou k dispozici pro uživatele vaší společnosti.
+- Přehledy OCP – Pokud si primární počítače jen prohlíhá obchody a průběh, které s nimi souvisejí, mohou k zobrazení vaší organizace použít portál Přehledy OCP (One Commercial Partner). Jedná se o interní nástroj, který je k dispozici pouze pro pdmy. Přehledy OCP nejsou k dispozici pro uživatele vaší společnosti.
 - Uživatel hosta v Partnerské centrum – V Partnerském centru můžete přidat svůj účet PDM jako uživatele hosta a přiřadit mu roli správce referenčních seznamu, aby si mohli zobrazit referenční odkazy a úlohu @microsoft.com s nimi stoupit.
 - Vytvoření nového uživatele ve vašem tenantovi – Můžete vytvořit nového uživatele ve vlastním tenantovi [a](./create-user-accounts-and-set-permissions.md#add-a-new-user) tyto podrobnosti sdílet s PDM, aby mohl zobrazit referenční seznam podobný ostatním uživatelům referenčních seznamu ve vašem účtu a jednat s ním.
 
@@ -386,35 +386,35 @@ Partnerské centrum přímo na rozdíl od PSC k primárním řadičům domény, 
 Pokud jste tady, protože jste v PSC viděli banner se zmínkou o problému s neplatným přidružením ID MPN v PSC, jste na správném místě. Váš účet mohl být propojený s neplatným ID MPN z následujících důvodů:
 
 - Vaše společnost nemá Partnerské centrum účet.
-- Váš PDM udělal chybu při zadávání ID MPN vašeho účtu v interních systémech, které propojují váš účet PSC s vaším Partnerské centrum účtem (MPNID).
-- Vaše společnost dokončila migraci z Partner Membership Center (PMC) do PC.
+- Váš PDM udělal chybu při zadávání ID MPN vašeho účtu v interních systémech, které propojují váš účet PSC s vaším Partnerské centrum účtem (ID MPN).
+- Vaše společnost migraci z Partner Membership Center (PMC) do Partnerské centrum.
 
 Nejprve pomocí následujících kroků vyhledejte správné ID MPN.
 
-- Přihlaste se k účtu partnerského centra.
-- Pomocí pokynů uvedených v [dokumentaci nastavení účtu](./partner-center-account-setup.md#locate-your-mpn-id) vyhledejte ID MPN.
+- Přihlaste se ke svému Partnerské centrum účtu.
+- K vyhledání ID MPN použijte [pokyny](./partner-center-account-setup.md#locate-your-mpn-id) uvedené v dokumentaci k nastavení účtu.
 
-Níže je zobrazený snímek obrazovky s přesným umístěním, kde můžete najít ID MPN partnerského centra.
+Níže je snímek obrazovky s přesným umístěním, kde najdete Partnerské centrum MPN.
 
-:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Obrázek znázorňující nastavení účtu, kde partner může najít své ID MPN."  lightbox="images/pscmigration/findingMPNID.png":::
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Obrázek znázorňující nastavení účtu, kde partner může najít své ID MPN"  lightbox="images/pscmigration/findingMPNID.png":::
 
 Další, 
 
-- Pokud máte PDM, požádejte je, aby se opravilo ID programu MPN se správným ID MPN z účtu partnerského centra.
-- Pokud nemáte PDM, pošlete e-mail na adresu uvedenou v proužku PSC s použitím informací účtu PSC zobrazených v hlavičce PSC a správného ID MPN z účtu partnerského centra.
+- Pokud máte pdm, požádejte ho, aby vaše ID MPN opravili pomocí správného ID MPN z vašeho účtu v Partnerském centru.
+- Pokud nemáte pdm, odešlete e-mail na adresu v banneru PSC s informacemi o účtu PSC zobrazenými v banneru PSC a správným ID MPN z vašeho účtu v Partnerském centru.
 
-## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Materiály, které vám pomůžou vytvářet a spravovat vaše obchody v partnerském centru
+## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Zdroje informací, které vám pomůžou vytvářet a spravovat obchody v Partnerské centrum
 
-Pokud jste si ještě neučinili témata nápovědy pro spoluprodeji, pomůžou vám následující zdroje informací, které vám pomůžou se správou obchodů v partnerském centru.
+Pokud jste si ještě nečetl témata nápovědy ke spoluprodátu, následující zdroje informací vám pomůžou se spravovat obchody v Partnerském centru.
 
-|**K tomu**   |**Přečtěte si:**   |
+|**Chcete-li to provést**   |**Přečtěte si:**   |
 |-----------------------|:-----------------------|
-|Přehled karet a navigace na stránce s příležitostmi k vzájemnému prodeji|[Navigace v části společný prodej](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
-|Výběr organizace zákazníka ze seznamu D&B |[Vybrat zákazníka](./manage-co-sell-opportunities.md#select-your-customer)|
-|Úprava polí v části Podrobnosti o koupi|[Podrobnosti o obchodu](./manage-co-sell-opportunities.md#deal-details)|
-|Přidání členů týmu do týmu pro koupce|[Přidání zaměstnanců](./manage-co-sell-opportunities.md#add-team-members)|
-|Reakce na společný obchod|[Správa obchodů společného prodeje](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
-|Zaregistrujte obchody, které jste vyhráli v partnerském centru |[Registrace nové dohody](./register-deals.md)
+|Vysvětlení karet a navigace na stránce příležitosti ke spoluprodání|[Navigace v oddílu spoluprodádání](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|Výběr organizace zákazníka ze seznamu D&B |[Výběr zákazníka](./manage-co-sell-opportunities.md#select-your-customer)|
+|Úprava polí v části podrobnosti dohody|[Podrobnosti o dohody](./manage-co-sell-opportunities.md#deal-details)|
+|Přidání členů týmu do dohody|[Přidání zaměstnanců](./manage-co-sell-opportunities.md#add-team-members)|
+|Reakce na dohodu o spoluprodátu|[Správa dohod o spoluprodátu](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
+|Registrace dohod, které jste vyhráli v Partnerské centrum |[Registrace nové dohody](./register-deals.md)
 |Získejte přehledy referenčních seznamu a zjistěte, jak si vaše referenční reference vede. |[Přehledy referenčních seznamů](./referral-insights.md)
 |Vytvoření a správa obchodního profilu|[Správa obchodního profilu](./create-a-marketing-profile.md)
 |Správa potenciálních zákazníků pro obchodní profil |[Správa potenciálních zákazníků](./manage-leads.md)|

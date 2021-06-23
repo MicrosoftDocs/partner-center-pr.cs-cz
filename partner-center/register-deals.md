@@ -4,82 +4,82 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Když zaregistrujete obchod, který jste vyhráli v partnerském centru, pomůže vám to společnosti Microsoft v budoucnu s dalšími příležitostmi.
+description: Když zaregistrujete dohodu, kterou jste získali v Partnerské centrum, pomůže vám Microsoft v budoucnu poskytnout více příležitostí.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17133ec7c37d65dde5e01bd0fc90b161a44051fd
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 4709236b8887bc262cac3bf36b5dd7fcf3c17c92
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431587"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551142"
 ---
-# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Zaregistrujte obchody, které jste vyhráli v partnerském centru, abyste později mohli získat další příležitosti.
+# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Zaregistrujte obchody, které jste vyhráli v Partnerské centrum, abyste mohli později získat další příležitosti.
 
-**Příslušné role**: Správce odkazů
+**Odpovídající role:** Správce referenčních odkazů
 
-Obchody, které jste vyhráli v partnerském centru, můžete zaregistrovat poskytnutím dalších informací o smlouvě. Tyto informace nám pomáhají zajistit další příležitosti v budoucnu.
+Dohody, které jste vyhráli, můžete zaregistrovat Partnerské centrum další informace o smlouvě. Tyto informace nám v budoucnu poskytují více příležitostí.
 
-V případě určitých oprávněných řešení se po výběru **získaného** v [procesu odpovědi na odkaz](manage-leads.md)zobrazí výzva k zadání dalších informací k registraci vašeho obchodu. Microsoft bude kontrolovat informace, které poskytnete, a může požádat o další podrobnosti během procesu kontroly.
+U některých oprávněných řešení po [](manage-leads.md)výběru **možnosti Won** (Vyhrál) v procesu reakce na referenční reference budete požádáni o poskytnutí dalších informací pro registraci vaší dohody. Microsoft si informace, které poskytnete, prošeptá a může během procesu revize požádat o další podrobnosti.
 
-Můžete také zaregistrovat nové obchody, které jste vyhráli, a to i v případě, že nepocházejí prostřednictvím [odkazu](referrals.md).
+Můžete také zaregistrovat nové obchody, které jste vyhráli a které používají jedno z vašich řešení, i když nepocházely prostřednictvím referenčního [seznamu](referrals.md).
 
-## <a name="register-a-new-deal"></a>Registrace nové koupě
+## <a name="register-a-new-deal"></a>Registrace nové dohody
 
-Pokud chcete zaregistrovat nové **obchodování v rámci protokolu IP**, přejděte k příslušné příležitosti společného prodeje a klikněte na tlačítko **zaregistrovat** se k práci v části průběh obchodování s vaší firmou.
+Pokud chcete zaregistrovat novou **dohodu o** spolu dealování  IP adres, přejděte na příslušnou příležitost ke spoluprodátu a v části Průběh dohody vaší společnosti vyberte Zaregistrovat dohodu.
 
-Na stránce **koncept obchodu** zadejte následující informace.
+Na **stránce konceptu** dohody zadejte následující informace.
 
-- **Stav transakce Marketplace**: zaškrtněte políčko, pokud chcete vytvořit registraci pro práci, která bude v Azure Marketplace transakce.
-- **Datum transakce Marketplace**: Pokud je zaškrtnuté políčko související se stavem transakce Marketplace, je toto pole k dispozici a musí být nakonfigurováno. Hodnota je buď datum poslední transakce, nebo odhadované budoucí datum transakce.
-- **Celková hodnota kontraktu**: celková očekávaná hodnota pro zapojení. To by mělo zahrnovat všechny poplatky za software a služby, ale ne hardwarové náklady. Nezapomeňte vybrat příslušnou měnu.
-- **Hodnota řešení**: celková hodnota cloudového řešení, které se bude používat pro obchod. Nezapomeňte zahrnout všechny náklady spojené s poplatky za software a údržbu, ale Nezahrnovat nenávratové položky, poplatky za vlastní nastavení nebo přímo přidružené licenční poplatky za CSP placené Microsoftem.
-- **Nasazeno**: vyberte **Azure** nebo **jiný**.
-- **Kde bude řešení nasazeno?**: vyberte **tenanta zákazníka** nebo **partnerský tenant**.
-- **Datum podpisu smlouvy**: datum, kdy byl poslední kontrakt podepsán vaší organizací a zákazníkem. Pro obchody s průběžnými platbami (PAYG) použijte datum první faktury.
-- **Počáteční datum smlouvy**: datum zahájení smlouvy. Pro obchody s průběžnými platbami (PAYG) použijte datum první faktury. V rámci návrhu se v partnerském centru neumožní zadat počáteční datum, které je dřívější než datum podpisu smlouvy. To může mít vliv na některé obchody, jako jsou například nasazení protokolu IP, která začínají před datem podpisu. Aby bylo možné tyto obchody úspěšně zadat, použijte pro pole Datum podpisu a počáteční datum **Datum podpisu smlouvy** , když posíláte. (Kontrakt by měl explicitně stanovit dobu trvání obchodu, aby bylo možné ACV správně vypočítat.)
-- **Datum ukončení smlouvy**: Pokud bude smlouva ukončena na konkrétní datum, zadejte toto datum. V případě obchodů s průběžnými platbami (PAYG) použijte datum poslední nebo poslední faktury.
-- **Typ kontraktu**: neplatí pro spoluprodejní obchody.
-- **Kontakt na registraci**: **křestní jméno**, **příjmení**, **telefonní číslo** a **e-mail** pro osobu ve vaší organizaci, které můžeme kontaktovat, pokud potřebujeme další podrobnosti o jakékoli z informací, které tady poskytneme.
+- **Stav transakce Marketplace:** Zaškrtnutím políčka vytvořte registraci pro dohodu, která se bude provádět v Azure Marketplace.
+- **Datum transakce Marketplace:** Pokud je zaškrtnuté políčko týkající se stavu transakce Marketplace, je toto pole dostupné a musí být nakonfigurované. Hodnota je buď datum minulé transakce, nebo odhadované budoucí datum transakce.
+- **Celková hodnota kontraktu:** Celková očekávaná hodnota pro zapojení. To by mělo zahrnovat všechny poplatky za software a služby, ale ne náklady na hardware. Nezapomeňte vybrat příslušnou měnu.
+- **Hodnota řešení:** Celková hodnota cloudového řešení, které se použije pro dohodu. Nezapomeňte zahrnout všechny náklady spojené s poplatky za software a údržbu, ale nezahrnujte znovu fakturovatelné položky, opakující se poplatky za přizpůsobení nebo přímo přidružené licenční poplatky Cloud Solution Provider (CSP) placené Microsoftem.
+- **Nasazeno v**: Vyberte **Azure** nebo **Jiné.**
+- **Kde se řešení nasadí?**: Vyberte **tenanta zákazníka** nebo **partnerského tenanta**.
+- **Datum podpisu smlouvy:** Datum, kdy byla finální smlouva podepsána vaší organizací a zákazníkem. V případě nabídek s platbou podle aktuálních dat použijte datum první faktury.
+- **Počáteční datum smlouvy:** Datum, od kterého bude kontrakt začínat. V případě dohod PAYG použijte datum první faktury. Z návrhu Partnerské centrum vám neumění zadat počáteční datum, které je dřívější než datum podepsání smlouvy. To může mít vliv na některé obchody, například nasazování IP adres, která začínají před datem podepsání. Pokud chcete tyto obchody úspěšně zadat,  použijte při odesílání datum podepsání i počáteční datum data smlouvy. (Kontrakt by měl explicitně určit dobu trvání dohody, aby bylo možné ACV správně vypočítat.)
+- **Koncové datum smlouvy:** Pokud kontrakt skončí ke konkrétnímu datu, zadejte toto datum. V případě dohod payg použijte datum poslední nebo nejnovější faktury.
+- **Typ smlouvy:** Neudává se pro dohody o spolu prodeji IP adres.
+- **Registrační kontakt:** **Jméno,** **Příjmení,** Telefonní číslo  a E-mail pro osobu ve vaší organizaci, na kterou se můžeme obrátit, pokud potřebujeme další podrobnosti o kterékoli z zde uvedených informací. 
 
-Po dokončení všech sekcí stránky vyberte možnost **Registrovat**. Registrace do obchodu se pak přesune do **odeslaného** stavu. Microsoft pak zkontroluje informace, které jste zadali po přesunu obchodu na stav **Revize** . Pomocí filtrů můžete zobrazit obchody na základě jejich stavu.
+Po dokončení všech částí stránky vyberte **Zaregistrovat.** Registrace dohody se pak přesune do stavu **Odesláno.** Microsoft pak zobrazí informace, které jste poskytli po přesunu dohody do **stavu Kontrola.** Pomocí filtrů můžete zobrazit obchody na základě jejich stavu.
 
-Pokud chcete zaregistrovat uzavřenou práci s **nezávislým výrobcem softwaru**, klikněte na **+ Sestava uzavřeno. obchod ISV Connect**
+Pokud chcete zaregistrovat uzavřenou **dohodu ISV Connect,** vyberte **+Report closed ISV Connect deal (+Nahlásit uzavřenou dohodu ISV Connect).**
 
-Na stránce **nový obchod** zadejte následující informace.
+Na **stránce Nová dohoda** zadejte následující informace.
 
-- **Podrobnosti o zákazníkovi**: zadejte **název společnosti** pro zákazníka a vyberte svou **zemi/oblast**. Pak zadejte své **město** a **kraj**.
-- **Řešení**: vyberte řešení, které se bude používat pro obchod. Pokud nevidíte správné řešení v seznamu, obraťte se na podporu.
-- **Typ kontraktu**: Určete, jestli se jedná o **Nový** kontrakt nebo **obnovení** předchozí smlouvy.
-- **Celková hodnota kontraktu**: celková očekávaná hodnota pro zapojení. To by mělo zahrnovat všechny poplatky za software a služby, ale ne hardwarové náklady. Nezapomeňte vybrat příslušnou měnu.
-- **Hodnota řešení**: celková hodnota cloudového řešení, které se bude používat pro obchod. Nezapomeňte zahrnout všechny náklady spojené s poplatky za software a údržbu, ale Nezahrnovat nenávratové položky, poplatky za vlastní nastavení nebo přímo přidružené licenční poplatky za CSP placené Microsoftem.
-- **Nasazeno**: vyberte **Azure** nebo **jiný**.
-- **Kde bude řešení nasazeno?**: vyberte **tenanta zákazníka** nebo **partnerský tenant**.
-- **Počáteční datum smlouvy**: datum zahájení smlouvy. Pro obchody s průběžnými platbami (PAYG) použijte datum první faktury. V rámci návrhu se v partnerském centru neumožní zadat počáteční datum, které je dřívější než datum podpisu smlouvy. To může mít vliv na některé obchody, jako jsou například nasazení protokolu IP, která začínají před datem podpisu. Aby bylo možné tyto obchody úspěšně zadat, použijte pro pole Datum podpisu a počáteční datum **Datum podpisu smlouvy** , když posíláte. (Kontrakt by měl explicitně stanovit dobu trvání obchodu, aby bylo možné ACV správně vypočítat.)
-- **Datum ukončení smlouvy**: Pokud bude smlouva ukončena na konkrétní datum, vyberte **má datum ukončení** a zadejte datum. Pokud kontrakt nemá konkrétní datum ukončení, vyberte možnost **trvalá**. V případě obchodů s průběžnými platbami (PAYG) použijte datum poslední nebo poslední faktury.
-- **Datum podpisu smlouvy**: datum, kdy byl poslední kontrakt podepsán vaší organizací a zákazníkem. Pro obchody s průběžnými platbami (PAYG) použijte datum první faktury.
-- **Kontakt na registraci**: **křestní jméno**, **příjmení**, **telefonní číslo** a **e-mail** pro osobu ve vaší organizaci, které můžeme kontaktovat, pokud potřebujeme další podrobnosti o jakékoli z informací, které tady poskytneme.
+- **Podrobnosti o zákazníkovi:** **Zadejte název společnosti** zákazníka a vyberte jeho Zemi nebo **oblast.** Pak zadejte jejich **City (Město)** **a State/Province (Kraj).**
+- **Řešení:** Vyberte řešení, které se použije pro dohodu. Pokud nevidíte správné řešení, obraťte se na podporu.
+- **Typ kontraktu:** Určete, jestli  se jedná o **nový** kontrakt nebo obnovení předchozího kontraktu.
+- **Celková hodnota kontraktu:** Celková očekávaná hodnota pro zapojení. To by mělo zahrnovat všechny poplatky za software a služby, ale ne náklady na hardware. Nezapomeňte vybrat příslušnou měnu.
+- **Hodnota řešení:** Celková hodnota cloudového řešení, které se použije pro dohodu. Nezapomeňte zahrnout všechny náklady spojené s poplatky za software a údržbu, ale nezahrnujte znovu fakturovatelné položky, opakující se poplatky za přizpůsobení ani přímo přidružené licenční poplatky CSP placené Microsoftem.
+- **Nasazeno v**: Vyberte **Azure** nebo **Jiné.**
+- **Kde se řešení nasadí?**: Vyberte **tenanta zákazníka** nebo **partnerského tenanta**.
+- **Počáteční datum smlouvy:** Datum, od kterého bude kontrakt začínat. V případě dohod PAYG použijte datum první faktury. Z návrhu Partnerské centrum vám neumění zadat počáteční datum, které je dřívější než datum podepsání smlouvy. To může mít vliv na některé obchody, například nasazování IP adres, která začínají před datem podepsání. Pokud chcete tyto dohody úspěšně zadat,  použijte při odesílání datum podepsání i pole počátečního data datum podepsání smlouvy. (Kontrakt by měl explicitně určit dobu trvání dohody, aby bylo možné ACV správně vypočítat.)
+- **Koncové datum smlouvy:** Pokud kontrakt skončí ke konkrétnímu datu, vyberte Má koncové **datum** a zadejte toto datum. Pokud kontrakt nemá konkrétní koncové datum, vyberte **Časově neomezené**. V případě nabídek s platbou s platbou (PAYG) použijte datum poslední nebo nejnovější faktury.
+- **Datum podpisu smlouvy:** Datum, kdy byla finální smlouva podepsána vaší organizací a zákazníkem. V případě dohod PAYG použijte datum první faktury.
+- **Registrační kontakt:** **Jméno,** **Příjmení,** Telefonní číslo  a E-mail pro osobu ve vaší organizaci, na kterou se můžeme obrátit, pokud potřebujeme další podrobnosti o kterékoli z zde uvedených informací. 
 
-Po dokončení všech sekcí stránky vyberte možnost **Registrovat**. Registrace do obchodu se pak přesune **na stránku probíhá** . Společnost Microsoft pak zkontroluje informace, které jste zadali.
+Po dokončení všech částí stránky vyberte **Zaregistrovat.** Registrace dohody se pak přesune na **stránku Probíhá.** Microsoft si pak proše jako informace, které jste poskytli.
 
-Pomocí filtrů můžete zobrazit jenom **neúplné** nebo **Aktualizovat požadované** registrace obchodu.
+Pomocí filtrů můžete zobrazit  pouze neúplné nebo **aktualizovat požadované** registrace dohody.
 
 ## <a name="viewing-active-and-closed-deal-registrations"></a>Zobrazení aktivních a uzavřených registrací zakázek
 
-Nové, aktivní a uzavřené registrace koupí můžete zkontrolovat s různými stavy v části **references > registrace koupí** pomocí filtru stavů v části filtr v pravém horním rohu stránky.
+Nové, aktivní a uzavřené registrace dohody můžete zkontrolovat s různými stavy v části Referenční seznam **>** Registrace dohody pomocí filtru stavů v části filtru v pravém horním rohu stránky.
 
 ### <a name="action-required"></a>Požadovaná akce
 
-Na stránce registrace Koupek filtr pro stav vyžadované akce uvidíte nové registrace, které ještě nejsou zaregistrované, nebo potřebujete aktualizaci. Pomocí filtrů můžete zobrazit jenom **neúplné** nebo **Aktualizovat požadované** registrace obchodu. **Neúplné** registrace koupě jsou ty, které pocházejí z odkazů, ale ještě nejsou zaregistrované. **Aktualizace vyžadované** registrace koupě, které byly vytvořeny a zaregistrovány, ale vyžadují, abyste aktualizovali informace, které jste zadali.
+Na stránce Registrace dohody vyfiltrujte Požadovaný stav akce. Zobrazí se nové registrace, které ještě nejsou zaregistrované nebo které je potřeba aktualizovat. Pomocí filtrů můžete zobrazit  pouze neúplné nebo **aktualizovat požadované** registrace dohody. **Neúplné** registrace dohody jsou ty, které pocházejí z referenčních odkazů, ale ještě nejsou zaregistrované. **Aktualizace požadovaných** registrací dohody jsou ty, které byly vytvořeny a zaregistrovány, ale které vyžadují aktualizaci informací, které jste poskytli.
 
 ### <a name="under-review"></a>Probíhá kontrola
 
-Na stránce registrace Koupek můžete filtrovat podle stavu revize, kde se zobrazí registrace koupě, které Microsoft kontroluje. Pokud budeme potřebovat další informace, budeme používat poskytnuté kontaktní údaje pro **registraci** .
+Na stránce Registrace dohody vyfiltrujte Stav pod kontrolou. Zobrazí se registrace dohody, které Microsoft přezkoumá. Pokud potřebujeme další informace, použijeme kontaktní údaje **pro registraci,** které jste poskytli.
 
-Pokud je potřeba aktualizovat nějaké informace, můžeme přesunout registraci obchodu do stavu **požadované akce** .
+Pokud je potřeba nějaké informace aktualizovat, můžeme registraci dohody přesunout do **stavu Vyžaduje se akce.**
 
 ### <a name="closed"></a>Uzavřeno
 
-Na stránce registrace Koupek filtr pro uzavřený stav uvidíte obchody, které byly úspěšně registrovány a zkontrolovány společností Microsoft. Pomocí filtrů můžete zobrazit jenom **schválené** nebo **odmítnuté** registrace obchodu.
+Na stránce Registrace dohody vyfiltrujte Uzavřený stav. Zobrazí se obchody, které Microsoft úspěšně zaregistroval a zhodnotil. Pomocí filtrů můžete zobrazit  pouze schválené nebo **zamítnuté** registrace dohody.

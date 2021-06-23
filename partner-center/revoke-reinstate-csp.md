@@ -4,23 +4,23 @@ ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zjistěte, jak zákazníkům pomoct obnovit oprávnění správce partnera, aby partner mohl pomoci spravovat předplatná Azure CSP předplatného zákazníka.
+description: Zjistěte, jak zákazníkům pomoct obnovit oprávnění správce partnera, aby partner mohl pomoci spravovat předplatná csP (Azure Cloud Solution Provider zákazníka).
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81df7578f7f15def64a3c20b15f95f3b89a28d1c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 5d784aef33cce2a722583a77e73c35d5fc8136b1
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277772"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551584"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Obnovení oprávnění správce pro předplatná Azure CSP zákazníka  
 
 **Odpovídající role:** Globální správce | Agent pro správu
 
-Jako partner CSP vaši zákazníci často očekávají, že za ně budete spravovat využití Azure a jejich systémy. K tomu musíte mít oprávnění správce. Některá oprávnění jsou udělena, když se nastane vztah prodejce se zákazníkem. Jiné vám udělí váš zákazník.
+Jako partner Cloud Solution Provider (CSP) vaši zákazníci často očekávají, že za ně budete spravovat jejich využití Azure a jejich systémy. K tomu musíte mít oprávnění správce. Některá oprávnění jsou udělena, když se nastane vztah prodejce se zákazníkem. Jiné vám udělí váš zákazník.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>Oprávnění správce pro Azure v CSP
 

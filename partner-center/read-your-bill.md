@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bbdf85d20e15841189191d6b415b54c26378850e
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855909"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551193"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Seznamte se se souborem vyúčtování a odsouhlasení – zjistěte, jak je najít v Partnerské centrum
 
@@ -22,13 +22,13 @@ ms.locfileid: "109855909"
 **Odpovídající role:** Globální správce | Správce fakturace | Agent pro správu
 
 
-Vaše **faktura** obsahuje **souhrn všech poplatků za Partnerské centrum** poplatky (v rámci programu, všech produktů a všech zákazníků). 
+Vaše **faktura** obsahuje **souhrn všech poplatků za Partnerské centrum** (v rámci programu, všech produktů a všech zákazníků). 
 
-## <a name="find-your-bill-and-reconciliation-file"></a>Vyhledání vyúčtování a souboru s vyrovnáním 
+## <a name="find-your-bill-and-reconciliation-file"></a>Vyhledání souboru vyúčtování a odsouhlasení 
 
 Fakturu najdete na stránce Fakturace na řídicím panelu v Partnerské centrum. Na této stránce také najdete historii fakturace, trendy útraty a soubory s vyrovnáním. 
 
-1. Přihlaste se k Partnerské centrum [řídicího panelu.](https://partner.microsoft.com/dashboard/home) 
+1. Přihlaste se k řídicímu [Partnerské centrum.](https://partner.microsoft.com/dashboard/home) 
 
 2. V nabídce vlevo vyberte **Fakturace.** 
 
@@ -40,56 +40,56 @@ Předchozí faktury najdete v části Historie fakturace. Zvolte odpovídající
 
 ## <a name="invoice-types"></a>Typy faktur
 
-Microsoft vydá jednu fakturu za všechny poplatky založené na licencích (například Office 365) a poplatky na základě využití (například Azure) a samostatnou fakturu za poplatky za jednotlivé poplatky (jako je azure RI, Marketplace nebo plán Azure).
+Microsoft vydá jednu fakturu za všechny poplatky založené na licencích (například Office 365) a poplatky na základě využití (například Azure) a samostatnou fakturu za poplatky za jednotlivé poplatky (například azure RI, Marketplace nebo plán Azure).
 
 Třeba  
 
-**Scénář 1 [Jedna měna]**: Partner má nákupy pro nabídku 145P a licence O365.  
+**Scénář 1 [Jedna měna]**: Partner má nákupy pro nabídku 145P a licence Office 365.  
 
-- Partner dostane jednu fakturu ve formátu PDF a 2 soubory s vyrovnáním pokrývající poplatky za O365 i Azure (145p).  
+- Partner dostane jednu fakturu ve formátu PDF a dva soubory s vyrovnáním pokrývající poplatky za Office 365 i Azure (145p).  
 
 **Scénář 2 [Jedna měna]**: Partneři mají nákupy rezervovaných tržišť Azure, marketplace nebo plánu Azure společně s nákupy s 145 000 000 000 000 000 000 000.
 
-- Partner dostane pro Azure (145p) jednu fakturu a soubor pro odsouhlasení. 
+- Partner dostane jednu fakturu ve formátu PDF a jeden soubor s vyrovnáním, který pokrývá poplatky za Azure (145p). 
 
-- Partner dostane další fakturační soubory PDF a soubor s odsouhlaskou, který pokrývá poplatky za Azure rezervovaných, Marketplace a plán Azure. 
+- Partner obdrží další fakturu ve formátu PDF a jeden soubor s vyrovnáním, který pokrývá poplatky za rezervované instance (RI) Azure, Marketplace a plán Azure. 
 
-**Scénář 3 [více měn]**: partner má nákupy pro Azure Ri v DKK a v plánu Azure v eurech společně s 145p nákupy v EUR.
+**Scénář 3 [Multi-Currency]**: Partner má nákupy rezervovaných rezervovaných rezervovaných prostředků Azure v podniku VEI, plán Azure v EUR a také nákupy s 145 000 000 000 000 000 000 000 000.
 
-- Partner dostane jeden soubor PDF s fakturací a soubor pro odsouhlasení, který pokrývá poplatky za Azure RI v DKK. 
+- Partner obdrží jednu fakturu ve formátu PDF a jeden soubor s vyrovnáním, který pokrývá poplatky za ri ri v Azure ve službě FUNKCE. 
 
-- Partner dostane v EUR jednu fakturu a soubor pro odsouhlasení zahrnující poplatky za plán Azure. 
+- Partner obdrží jednu fakturu ve formátu PDF a jeden soubor s vyrovnáním, který pokrývá poplatky za plán Azure v EUR. 
 
-- Partner dostane další fakturační PDF a soubor pro odsouhlasení, který pokrývá své poplatky za 145p nabídku v EUR (nebo fakturační měně partnera). 
+- Partner obdrží další fakturu ve formátu PDF a jeden soubor s vyrovnáním, který pokrývá poplatky za nabídku 145p v EUR (nebo fakturační měna partnera). 
 
 
-## <a name="understanding-invoice-pdf"></a>Porozumění formátu PDF faktury 
+## <a name="understanding-invoice-pdf"></a>Vysvětlení faktury ve formátu PDF 
 
-**Faktury za využití a poplatky na základě licencí**: faktury za poplatky za služby, jako je Office 365 a Azure, budou dostupné do dvou (2) dnů od vybraného fakturačního data [UTC].  
+**Faktury za poplatky** za využití a licence: Faktury za poplatky za služby jako Office 365 a Azure budou k dispozici do dvou (2) dnů od vybraného fakturačního data [UTC].  
 
-**Faktury za jednorázová a periodické poplatky**: faktury za poplatky za služby, jako je Azure ri, plán Azure, Marketplace budou dostupné až do 8. roku v každém měsíci.  
+**Faktury za jedno a** opakované poplatky: Faktury za poplatky za služby, jako jsou ri ri azure, plán Azure nebo Marketplace, budou k dispozici nejpozději do 8. dne každého měsíce.  
 
-Níže jsou uvedená některá klíčová pole v dokumentu PDF faktury –
+Níže jsou některá z klíčových polí v dokumentu PDF faktury:
 
-**Číslo faktury**: jedinečný identifikátor dokumentu faktury vygenerovaný pro příslušné fakturační období. 
+**Číslo faktury:** Jedinečný identifikátor pro fakturovaný dokument vygenerovaný pro příslušné fakturační období. 
 
-**Fakturační období**: Toto je období, během kterého máte využití a služby založené na licencích. 
+**Fakturační období:** Toto je období, během kterého máte využití a služby založené na licencích. 
 
-**Datum faktury**: datum fakturace nebo datum výročí, na které se fakturuje každý měsíc. 
+**Datum faktury:** Fakturační datum nebo datum výročí, kdy se faktura generuje každý měsíc. 
 
-**Datum splatnosti platby**: datum, kdy se platba musí přijmout. 
+**Datum splatnosti** platby: Datum, do kterého musí být vaše platba přijata. 
 
-**Poplatky**: částka splatná v fakturační měně pro příslušné fakturační období. 
+**Charges**(Poplatky): Částka splatná ve vaší fakturační měně pro příslušné fakturační období. 
 
-**Kredity**: kredity (například SLA) nebo úpravy provedené u předplatných (například zvýšení nebo snížení licence). 
+**Kredity:** Kredity (například smlouvy o úrovni služeb (SLA)) nebo úpravy změn provedených v předplatných (například zvýšení nebo snížení licencí). 
 
-**Pokyny pro platbu**: Popis způsobu platby faktury na základě vaší oblasti. Při platbě vždycky nezapomeňte zahrnout číslo vaší faktury. 
+**Pokyny k** platbě: Popis způsobu úhrady faktury v závislosti na vaší oblasti. Při provádění platby vždy nezapomeňte zahrnovat číslo faktury. 
 
 Podrobný popis všech polí v souboru faktury (včetně polí pro jednofakturové poplatky) najdete v tématu [Pole souboru faktur.](invoice-file.md) 
 
 ## <a name="understand-reconciliation-files"></a>Principy souborů odsouhlasení
 
- Soubory s vyrovnáním, které poskytují podrobnosti o podrobnostech o poplatcích nebo podrobnostech o položkách, si můžete stáhnout spolu s fakturou PDF. Soubory s vyrovnáním zahrnují identifikátory zákazníků a identifikátory předplatného, které můžete použít k vytváření faktur zákazníků. Další podrobnosti  [o souborech](use-the-reconciliation-files.md) odsouhlasení najdete v tématu Jak používat soubory s vyrovnáním. 
+ Soubory s vyrovnáním, které poskytují podrobnosti o vašich poplatcích v podrobnostech nebo položkách, si můžete stáhnout spolu s fakturou PDF. Soubory s vyrovnáním zahrnují identifikátory zákazníků a identifikátory předplatného, které můžete použít k vytváření faktur zákazníků. Další informace o souborech odsouhlasení najdete v [tématu Jak používat soubory s vyrovnáním.](use-the-reconciliation-files.md) 
 
 ## <a name="next-steps"></a>Další kroky
 
