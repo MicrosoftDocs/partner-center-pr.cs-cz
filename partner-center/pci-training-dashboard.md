@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 37a4f6cdce2b77f194fc91e0490e1c87ee137b43
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276276"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565096"
 ---
 # <a name="trainings-dashboard"></a>Řídicí panel Trénování
 
@@ -28,7 +28,7 @@ ms.locfileid: "112276276"
 - Podrobnosti o aktivitách
 
 >[!NOTE] 
->Tato sestava je dostupná v centru Přehledy v Partnerské centrum. Pokud chcete tuto sestavu zobrazit, měli byste mít přiřazenou roli Prohlížeče sestav nebo Prohlížeče výkonných sestav. Několik částí této sestavy bude viditelných jenom pro uživatele, kteří jsou diváky výkonných sestav. Další informace týkající se řízení přístupu pro sestavy Přehledy najdete v tématu Role [PCI.](pci-roles.md)
+>Tato sestava je dostupná v centru Přehledy v Partnerské centrum. Pokud chcete tuto sestavu zobrazit, měli byste mít přiřazenou roli Prohlížeče sestav nebo Manažer. Několik částí této sestavy bude viditelných jenom pro uživatele, kteří jsou diváky výkonných sestav. Další informace týkající se řízení přístupu pro sestavy Přehledy najdete v tématu Role [PCI.](pci-roles.md)
 
 ## <a name="summary"></a>Souhrn
 

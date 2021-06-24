@@ -1,83 +1,83 @@
 ---
-title: Sestava využití Enterprise Mobility + Security služby partner Center Insights
+title: Partnerské centrum Přehledy Enterprise Mobility + Security využití
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Podívejte se, co dobře děláte, a kde můžete vylepšit využití Enterprise Mobility + Security předplatných, která pro vaše zákazníky prodáváte nebo spravujete.
+description: Podívejte se, co si vedete dobře a kde můžete zlepšit využití předplatných, Enterprise Mobility + Security prodáte nebo spravujete pro své zákazníky.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 38eeb13c04edca803321e4ccc532b204af5bb9bf
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277823"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565385"
 ---
-# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Enterprise Mobility + Security k dispozici na řídicím panelu přehledů partnerského centra
+# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security využití dostupná na řídicím panelu Partnerské centrum Insights
 
-**Příslušné role**: globální správce | Agent správce | Prohlížeč sestav | Prohlížeč sestav Executive
+**Odpovídající role:** Globální správce | Agent pro správu | Prohlížeč sestav | Prohlížeč výkonných sestav
 
-Sestava využití Enterprise Mobility + Security poskytuje data o využití Enterprise Mobility + Security předplatných, která jste pro zákazníky prodali nebo spravovali. Následující části můžete zobrazit v sestavě využití Enterprise Mobility + Security.
+Sestava Enterprise Mobility + Security využití poskytuje data o využití pro Enterprise Mobility + Security předplatná, která prodáte nebo spravujete pro své zákazníky. Následující části si můžete prohlédnout v sestavě Enterprise Mobility + Security využití.
 
 - Souhrn
-- Využití Enterprise Mobility + Security podle geografie
-- Využití Enterprise Mobility + Security podle SKU
+- Enterprise Mobility + Security využití podle zeměpisné oblasti
+- Enterprise Mobility + Security využití podle SKU
 - Výkon předplatných
-- Distribuce využití Enterprise Mobility + Security
+- Enterprise Mobility + Security využití
 
  > [!NOTE]
- > Tato sestava je k dispozici na řídicím panelu Insights. Pokud chcete zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav v nástroji Executive. Další informace najdete v tématu globální správce vaší společnosti. konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními správce sestav nástroje Executive.
+ > Tato sestava je k dispozici na řídicím panelu Přehledy. Pokud chcete tuto sestavu zobrazit, musíte mít přiřazenou konkrétní roli v Partnerské centrum, jako je globální správce, správce účtu, prohlížeč sestav nebo prohlížeč sestav Executive. Další informace najdete v tématu Globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními pro zobrazení sestav Executive.
 
 ## <a name="summary"></a>Souhrn
 
-V části Souhrn najdete zobrazení snímků klíčových ukazatelů souvisejících s předplatnými Enterprise Mobility + Security využití, která jste prodali nebo spravovali pro vaše zákazníky. 
+V souhrnné části najdete snímek klíčových indikátorů souvisejících s předplatným Enterprise Mobility + Security využití, která jste prodali nebo spravují pro své zákazníky. 
 
-- Nové odběry: celkový počet předplatných prodaných nebo spravovaných během vybraného časového období.
+- Nová předplatná: Celkový počet prodaných nebo spravovaných předplatných během vybraného časového rámce.
 
-   Mikrograf představuje měsíční trend nového předplatného pro vybraný rozsah dat.
+   Mikro chart představuje trend nového předplatného od měsíce po měsíci pro vybraný rozsah dat.
 
-- Dostupné křesla: celkový počet licencí prodaných během vybraného časového rámce.
+- Dostupné licence: Celkový počet licencí prodaných během vybraného časového rámce.
 
-   Mikrograf prezentuje trend počtu dostupných míst v měsíci v průběhu vybraného období.
+   Mikro chart představuje trend počtu dostupných licencí ve vybraném rozsahu dat od měsíce.
 
-- Měsíční aktivní využití: počet licencí, které byly použity během předchozího měsíce.
+- Měsíční aktivní využití: Počet licencí použitých během předchozího měsíce.
 
-   Mikrograf prezentuje měsíční trend licencí používaných ve vybraném časovém období.
+   Mikro chart představuje měsíční trend licencí používaných během vybraného časového období.
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Souhrn využití EMS.":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Souhrn využití EMS":::
 
-## <a name="enterprise-mobility--security-usage-by-geography"></a>Využití Enterprise Mobility + Security podle geografie
+## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security využití podle zeměpisné oblasti
 
-**Využití Enterprise mobility + Security podle geografie** znázorňuje distribuci měsíčních aktivních uživatelů (MAU) a placených dostupných jednotek (PAU) podle země zákazníka. MAU odkazuje na počet licencí použitých během předchozího měsíce a PAU označuje počet placených nebo spravovaných pracovních stanic během vybraného časového období. Světlejší barvy na mapě znázorňují nižší hodnoty, zatímco tmavší barvy reprezentují vyšší hodnoty. V mřížce můžete hledat a vybrat zemi. Můžete také přiblížit lepší vzhled.
+Přehled **Enterprise Mobility + Security podle** zeměpisné oblasti znázorňuje rozdělení měsíčních aktivních uživatelů (MAU) a placených dostupných jednotek (PAU) podle země zákazníka. MAU odkazuje na počet licencí použitých za předchozí měsíc a PAU odkazuje na počet prodaných nebo spravovaných placených licencí během vybraného časového období. Světlejší barvy na mapě představují nižší hodnoty, zatímco tmavší barvy představují vyšší hodnoty. V mřížce můžete vyhledat a vybrat zemi. Pokud se chcete na to podívat blíže, můžete si ho přiblížit.
 
-V tabulce **počet zemí/oblastí** je uvedena celková země/oblasti, ve kterých jsou generovány události využití Azure.
+Tabulka Number of countries/region (Počet **zemí/oblastí)** uvádí celkový počet zemí/oblastí, ve kterých se generují události využití Azure.
 
-Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Výběrem možnosti **Domů** na mapě se vraťte k původnímu zobrazení.
+Země v mřížce můžete vyhledat a vybrat a přiblížit tak umístění na mapě. Výběrem **možnosti Domů** na mapě se vrátíte k původnímu zobrazení.
 
-:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Použití EMS podle geografie.":::
+:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Využití EMS podle zeměpisné oblasti.":::
 
-## <a name="enterprise-mobility--security-usage-by-sku"></a>Využití Enterprise Mobility + Security podle SKU
+## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security využití podle SKU
 
-Využití Enterprise Mobility + Security podle SKU znázorňuje měsíční rozdělení MAU a PAU podle SKU.
+Přehled Enterprise Mobility + Security podle SKU znázorňuje měsíční rozpis MAU a PAU podle SKU.
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Použití EMS podle SKU.":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Využití EMS podle SKU.":::
 
 ## <a name="subscriptions-performance"></a>Výkon předplatných
 
-Výkon předplatných znázorňuje rozdělení MAU a PAU podle předplatných podle zákaznického předplatného. Data pro hlavní 100 zákazníky podle fakturovaných výnosů se zobrazí v tabulce a můžete vyhledat libovolného zákazníka nebo stáhnout nezpracovaná data a zobrazit podrobnosti pro všechny zákazníky.
+Výkon předplatných znázorňuje rozpis MAU a PAU podle skladových ů na předplatné zákazníka. Data pro 100 nejlepších zákazníků podle fakturovaných výnosů se zobrazí v tabulce a můžete vyhledat libovolného zákazníka nebo stáhnout nezpracovaná data a zobrazit podrobnosti pro všechny zákazníky.
 
 :::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Výkon předplatného EMS.":::
 
-## <a name="enterprise-mobility--security-usage-distribution"></a>Distribuce využití Enterprise Mobility + Security
+## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security využití
 
-Distribuce využití Enterprise Mobility + Security znázorňuje rozdělení PAU a předplatných podle skladových položek.
+Distribuce Enterprise Mobility + Security využití znázorňuje rozpis pau a předplatných podle skladových měr.
 
 :::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Distribuce využití EMS.":::
 
 ## <a name="next-steps"></a>Další kroky
 
-- Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).
+- Další sestavy najdete v tématu [Partnerské centrum Insights.](partner-center-insights.md)
 
-- Nezpracovaných dat v této sestavě si můžete stáhnout z oddílu stažení sestav na řídicím panelu Insights. [Další informace](pci-download-reports.md) 
+- Nezpracovaná data pohánějící tuto sestavu si můžete stáhnout z části Stažení sestav na řídicím panelu Přehledy. [Další informace](pci-download-reports.md) 

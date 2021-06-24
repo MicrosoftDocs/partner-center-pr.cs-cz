@@ -8,12 +8,12 @@ description: Podívejte se, co dobře děláte, a kde můžete vylepšit využit
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 43ac7763b32eed5c63fd3766262ad1649ae81e11
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277806"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565368"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Office 365 dostupná na řídicím panelu přehledů partnerského centra
 
@@ -28,7 +28,7 @@ Sestava využití Office 365 poskytuje data o využití pro předplatná Office 
 - Distribuce využití Office 365
 
  > [!NOTE]
- > Tato sestava je k dispozici na řídicím panelu Insights. Pokud chcete zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav v nástroji Executive. Další informace najdete v tématu globální správce vaší společnosti. konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními správce sestav nástroje Executive.
+ > Tato sestava je k dispozici na řídicím panelu Insights. Chcete-li zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav nástroje Executive. Další informace najdete v tématu globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněním správce sestav nástroje Executive.
 
 ## <a name="summary"></a>Souhrn
 

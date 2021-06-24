@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c85ff428fd6ffb6ced38be16f4bd163c2b0b548
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5b3976d34cbe70b3d26577fbda86751ebda29fbd
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855212"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565062"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Insights – Nejčastější dotazy
 
@@ -24,7 +24,7 @@ Tento článek popisuje známé problémy pro zobrazení nebo vykreslování ses
 
 Otázka) **nevidím centrum Insights v účtu partnerského centra. Co mám dělat?**
 
-A) Zkontrolujte, že jste přihlášeni k účtu MPN vaší organizace. Z vašeho účtu CSP nemáte přístup k řídicímu panelu Insights. Také se ujistěte, že máte k dispozici správce sestav nebo role manažera sestavy pro správu vašeho globálního správce.  Další informace o rolích najdete v [tomto článku](./pci-roles.md).
+A) Ujistěte se, že jste se přihlásili k účtu Microsoft Partner Network (MPN) pro vaši organizaci. Nemůžete získat přístup k řídicímu panelu Insights z účtu CSP (Cloud Solution Provider). Také se ujistěte, že máte k dispozici správce sestav nebo role manažera sestavy pro správu vašeho globálního správce.  Další informace o rolích najdete v [tomto článku](./pci-roles.md).
 
 Dotaz) **v sestavách nemůžeme zobrazit data o účtovaných výnosech a spotřebovaných výnosech z Azure (ACR). Proč je to?**
 
@@ -38,18 +38,18 @@ Otázka) **země uvedená pro zákazníka pravděpodobně není správná. Proč
 
 A) zákaznická země je odvozena od země globální nadřazené organizace tohoto zákazníka. Tato země se může lišit od země zákazníka, se kterou jste se mohli vyřizovat transakce. Proto se může stát, že se země hlášené zákazníky liší od toho, co očekáváte.
 
-Otázka: V sestavách je zahlceno několik **jmen zákazníků. Je to očekávané?**
+Dotaz) **v sestavách je zakódováno několik názvů zákazníků. Očekává se?**
 
-A) Názvy zákazníků jsou pro určitá předplatná z důvodu dodržování předpisů zahlcené. K dispozici je však TPID zákazníka a můžete z něj použít vyhledávání jmen zákazníků.
+A) názvy zákazníků jsou pro určitá předplatná zakódovány z důvodu dodržování předpisů. K dispozici je ale nejvyšší nadřazený identifikátor zákazníka (TPID), který můžete použít k vyhledání názvů zákazníků.
 
-Otázka: **Jaká je typická latence sestav?**
+Dotaz) **Jaká je obvyklá latence sestavování?**
 
-A) Data předplatných a zákazníků se aktualizují každý den a data se hlásí s týdenní latencí. Data o využití Azure se hlásí s týdenní latencí. Data o využití Office 365, Teams, Dynamic365, EMS a Power BI se hlásí s latencí za jeden měsíc.
+A) předplatná a zákaznická data se aktualizují každý den a data se oznamují s latencí v týdnu. Data o využití Azure se hlásí s latencí v jednom týdnu. Office 365, týmy, Dynamics 365, Enterprise mobility and Security (EMS) a data o využití Power BI jsou hlášena s jednou měsícovou latencí.
 
-Otázka: **Sestavy se nevykresluje v Internet Explorer – je to očekávané?**
+Dotaz) sestavy nejsou vykreslovat **v aplikaci Internet Explorer – je očekáváno?**
 
-A) Sestavy mají problémy s vykreslováním Internet Explorer. Fungují dobře s Microsoft Edge a dalšími prohlížeči.
+A) sestavy obsahují problémy vykreslování v aplikaci Internet Explorer. Dobře fungují s Microsoft Edge a dalšími prohlížeči.
 
 **Další kroky**
 
-- Další informace o [Partnerské centrum Insights.](partner-center-insights.md)
+- Přečtěte si další informace o [službě partner Center – přehled](partner-center-insights.md).

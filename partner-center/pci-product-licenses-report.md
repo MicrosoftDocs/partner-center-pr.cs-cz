@@ -1,87 +1,87 @@
 ---
-title: Přehledy partnerských Center – licence k produktu
+title: Partnerské centrum Insights – licence k produktům
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Podívejte se na tuto sestavu licence na produkt a zjistěte, jak vylepšit pomocí licencovaných cloudových produktů, které prodáváte nebo spravujete pro vaše zákazníky.
+description: Podívejte se na tuto sestavu licencí k produktům a zjistěte, jak zlepšit použití licencovaných cloudových produktů, které prodáváte nebo spravujete pro své zákazníky.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: e5500e975f5fa8baea91a0db55896426983d19a8
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277466"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565351"
 ---
-# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Sestava licencí produktů na řídicím panelu přehledy partnerského centra
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Sestava licencí produktů na řídicím panelu Partnerské centrum Insights
 
-**Příslušné role**: globální správce | Agent správce | Prohlížeč sestav | Prohlížeč sestav Executive
+**Odpovídající role:** Globální správce | Agent pro správu | Prohlížeč sestav | Prohlížeč výkonných sestav
 
-Sestava licence produktu představuje licenci pro cloudové produkty založené na licencích, jako je například Office 365, Dynamics, Microsoft 365, Power BI a další. Zde uvedené analýzy jsou spojené s používáním licencí, které jste prodali nebo kterou spravujete pro vaše zákazníky. Následující části můžete zobrazit v sestavě licence produktu.
+Sestava licencí k produktům představuje analýzu licencí pro cloudové produkty založené na licencích, jako jsou Office 365, Dynamics, Microsoft 365, Microsoft Power BI a další. Analýzy uvedené tady jsou spojené s používáním licencí, které jste prodali nebo které spravujete pro své zákazníky. Následující části si můžete prohlédnout v sestavě licencí k produktům.
 
 - Souhrn
-- Geografické rozšiřování licencí
-- Licence přidávají
-- Distribuce licencí podle umístění partnerů, prodejní kanál, SKU, typ připojení partnera, segment
+- Geografické rozložení licencí
+- Přidání licence
+- Distribuce licencí podle umístění partnerů, prodejního kanálu, skladových tržeb, typu připojení partnera, segmentu
 
  > [!NOTE]
- > Tato sestava je k dispozici na řídicím panelu Insights. Pokud chcete zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav v nástroji Executive. Další informace najdete v tématu globální správce vaší společnosti. konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními správce sestav nástroje Executive.
+ > Tato sestava je k dispozici na řídicím panelu Přehledy. Pokud chcete tuto sestavu zobrazit, musíte mít přiřazenou konkrétní roli v Partnerské centrum, jako je globální správce, správce účtu, prohlížeč sestav nebo prohlížeč sestav executive. Další informace najdete v tématu Globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními pro přístup k sestavám vedení.
 
 ## <a name="summary"></a>Souhrn
 
-V části Souhrn najdete zobrazení snímků klíčových ukazatelů výkonu (KPI) přidružených k prodaným, nasazeným a použitým cloudovým licencím produktů. To vám pomůže sledovat aktivní využití na základě licencí prodávaných zákazníkům.
+V souhrnné části se zobrazí snímek klíčových ukazatelů výkonu přidružených k prodaných, nasazených a používaným cloudovým licencím na produkty. To vám pomůže sledovat aktivní využití licencí prodávaných vašim zákazníkům.
 
-:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Souhrn sestavy licencí":::
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="souhrn sestavy licencí.":::
 
-Další informace o jednotlivých částech souhrnu najdete níže:
+Další informace o jednotlivých oddílech souhrnu najdete níže:
 
-- Vázaný 
-  - Aktuální počet všech zakoupených a spravovaných licencí pro cloudové produkty založené na licencích, například Office 365, Dynamics, Microsoft 365, Power BI a dalších.
-  - Procentuální nárůst nebo odmítnutí těchto licencí v rámci vybraného rozsahu kalendářních dat.
-  - License Trend Micro graf: mikrograf představuje trend počtu licencí v měsíci, který je v průběhu vybraného rozsahu kalendářních dat.
+- Licence: 
+  - Aktuální počet všech licencí, které prodáváte nebo spravujete pro cloudové produkty založené na licencích, jako jsou Office 365, Dynamics, Microsoft 365, Microsoft Power BI a další.
+  - Procentuální růst nebo odmítnutí těchto licencí ve vybraném rozsahu dat.
+  - Mikro chart trendu licencí: Mikro chart představuje trend počtů licencí za měsíc během vybraného rozsahu dat.
 
 - Nasazené licence:
-  - Aktuální počet všech přiřazených licencí vašeho zákazníka.
-  - Procentuální nárůst nebo odmítnutí těchto licencí v průběhu vybraného časového období.
-  - Graf počtu vydaných licencí: mikrograf představuje trend počtu přiřazených licencí přidělených v rámci vybraného rozsahu dat v měsíci.
+  - Aktuální počet všech přiřazených licencí zákazníka
+  - Procentuální růst nebo odmítnutí těchto licencí během vybraného časového období.
+  - Mikro chart počtu licencí: Mikro chart představuje trend počtu přiřazených licencí mezi měsíci během vybraného rozsahu dat.
 
 - Aktivní licence: 
-  - Aktuální počet všech zákaznických licencí s jakýmkoli aktivním využitím za posledních 30 dní v průběhu vybraného období.
-  - Procentuální nárůst nebo odmítnutí těchto licencí v průběhu vybraného rozsahu kalendářních dat.
-  - Mikrograf představuje trend počtu licencí v měsíci, který se počítá během vybraného rozsahu dat.
+  - Aktuální počet všech zákaznických licencí s aktivním využitím za posledních 30 dnů ve vybraném rozsahu dat.
+  - Procentuální růst nebo odmítnutí těchto licencí během vybraného rozsahu dat.
+  - Mikro chart představuje trend počtů licencí po měsících ve vybraném rozsahu dat.
 
-## <a name="geographical-spread-of-licenses"></a>Geografické rozšiřování licencí
+## <a name="geographical-spread-of-licenses"></a>Geografické rozložení licencí
 
-Zobrazení **geografická dvojstránka licencí** ukazuje geografickou distribuci aktuálních licencí a aktivní licence na trhy zákazníků. ( **Aktuální** počet licencí zahrnuje také nepřiřazené licence.)
+Zobrazení **Geografické rozprostření** licencí ukazuje geografickou distribuci aktuálních licencí a aktivních licencí na zákaznických trzích. (Aktuální **počet** licencí zahrnuje také nepřiřazené licence.)
 
-**Počet zemí/oblastí** představuje celkový počet zemí nebo oblastí, ve kterých máte aktuální a aktivní licence na zákazníky.
+**Počet zemí/oblastí představuje** celkový počet zemí/oblastí, ve kterých máte aktuální a aktivní zákaznické licence.
 
-Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Stisknutím možnosti **Domů** na mapě se vraťte k výchozímu zobrazení. Pokud chcete zobrazit aktuální licence a aktivní licence podle zákaznických zemí, najeďte myší na mapu. Obě pole v mřížce lze seřadit.
+Země v mřížce můžete vyhledat a vybrat a přiblížit tak umístění na mapě. Stisknutím možnosti **Domů** na mapě se vrátíte k výchozímu zobrazení. Najeďte myší na mapu a zobrazte aktuální licence a aktivní licence podle země zákazníka. Obě pole v mřížce jsou seřaditelná.
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="Geografická rozprostřená licence.":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="geografické rozpětí licence.":::
 
-## <a name="license-adds"></a>Licence přidávají
+## <a name="license-adds"></a>Přidání licence
 
-Toto zobrazení ukazuje trend licencí přidaných během vybraného rozsahu kalendářních dat. 
+Toto zobrazení ukazuje trend licencí přidaných během vybraného rozsahu dat. 
 
-Pokud chcete trend podle produktu a služby nebo úlohy prezentovat, vyberte produkt v horní části obrazovky a službu/úlohu z rozevíracího seznamu SKU.
+Pokud chcete trend prezentovat podle produktů, služeb nebo úloh, vyberte v horní části obrazovky produkt a v rozevíracím seznamu **skladových** položek vyberte službu nebo úlohu.
 
-Osa X představuje měsíce vybraného rozsahu kalendářních dat. Osa Y představuje počet přidaných licencí. Chcete-li zvětšit určité období, použijte posuvník v horní části grafu.
+Osa X představuje měsíce vybraného rozsahu dat. Osa Y představuje počet přidaných licencí. Pokud chcete zobrazit konkrétní období, použijte posuvník v horní části grafu.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="licence přidává.":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="přidává licence.":::
 
 ## <a name="license-distribution"></a>Distribuce licencí
 
-Toto zobrazení ukazuje rozpis zákaznických licencí podle produktů a zemí zákazníka nebo oblastí. Když vyberete produkt v hierarchickém grafu **licence podle produktu** , zobrazí se u sousedního grafu rozpis licencí podle oblasti zákazníka.
+Toto zobrazení zobrazuje rozpis licencí zákazníků podle produktu a země/oblasti zákazníka. Když ve výsečovém grafu **Licence podle** produktu vyberete produkt, zobrazí se v sousedním grafu rozpis licencí podle oblasti zákazníka.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribuce licencí.":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribuci licencí.":::
 
 ## <a name="next-steps"></a>Další kroky
 
-Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).
+Další sestavy najdete v tématu [Partnerské centrum Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> Nezpracovaných dat v této sestavě si můžete stáhnout z oddílu stažení sestav na řídicím panelu Insights. [Další informace](pci-download-reports.md)
+> Nezpracovaná data pohánějící tuto sestavu si můžete stáhnout z části Stažení sestav na řídicím panelu Přehledy. [Další informace](pci-download-reports.md)

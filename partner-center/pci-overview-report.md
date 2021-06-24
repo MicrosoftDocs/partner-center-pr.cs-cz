@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cca136670fa2891eea32e4561b97692ca98a77a9
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277483"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565402"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Přehled sestav řídicích panelů dostupných ve službě partner Center – přehledy
  
 **Příslušné role**: globální správce | Agent správce | Prohlížeč sestav | Prohlížeč sestav Executive
 
-Řídicí panel přehled Insights nabízí zobrazení snímků klíčových ukazatelů výkonu, jako jsou zákazníci, předplatná, výnosy za využití Azure a licence. V sestavě přehledu můžete vizualizovat následující grafy.
+Řídicí panel přehled Insights nabízí zobrazení snímků klíčových ukazatelů výkonu (KPI), jako jsou zákazníci, předplatná, výnosy za využití Azure a licence. V sestavě přehledu můžete vizualizovat následující grafy.
 
 - Souhrn  
 - Geografické rozšiřování vašich zákazníků, předplatných a licencí  
@@ -49,12 +49,12 @@ Oblast **zákazníci** zahrnuje:
 
 Oblast **Azure spotřebované tržby (ACR)** na souhrnu zahrnuje:
 
-- Celkový počet spotřebovaných výnosů za Azure (v USD), které se přiřadí k vybranému rozsahu kalendářních dat.
-- Procentuální nárůst nebo pokles v ACR v atributu (v US $) v průběhu vybraného rozsahu kalendářních dat.
-- Mikrograf prezentuje měsíční trend ACR US $, na který jste v rámci vybraného rozsahu kalendářních dat. 
+- Celkový počet ACR (v amerických dolarech) přidaných na vybraný rozsah dat
+- Procentuální nárůst nebo pokles v ACR s atributy (v amerických dolarech) v průběhu vybraného období.
+- Mikrograf prezentuje měsíční trend ACR v amerických dolarech, na které jste ve vybraném rozsahu kalendářních dat. 
 
 > [!NOTE]
-> Data využívání výnosů v Azure (ACR) jsou k dispozici uživatelům, kteří mají přiřazenou roli vedoucího prohlížeče sestav. 
+> ACR data jsou k dispozici uživatelům, kterým byla přiřazena role vedoucího prohlížeče sestav.
  
 ### <a name="subscriptions-sold"></a>Prodávaná předplatná
 
@@ -68,7 +68,7 @@ Vydaná oblast **předplatných** obsahuje tyto informace:
 
 Oblast **aktivních předplatných** na souhrnu zahrnuje:
 
-- Aktuální počet odběrů cloudových produktů s aktivním využitím měřený na základě telemetrie produktů. Tím se vyloučí všechna zkušební předplatná v případě předplatných Azure.  
+- Aktuální počet odběrů cloudových produktů s aktivním využitím měřený na základě telemetrie produktů. Vyloučí se všechna zkušební předplatná Azure.  
 - Procentuální nárůst aktivních předplatných v rámci vybraného rozsahu kalendářních dat.
 - Mikrograf prezentuje trend aktivních předplatných za měsíc v průběhu vybraného období.
  
@@ -100,10 +100,10 @@ To indikuje trend počtu předplatných zákazníků pro vybraný rozsah kalend�
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Trend růstu spotřebovaných výnosů v Azure
 
-Měsíční trend využívání Azure s využitím výnosů, který je na vás za vybraným rozsahem dat. Osa X představuje měsíce vybraného rozsahu kalendářních dat a osa Y představuje celkový počet zpracovaných výnosů v Azure, které vám za tento měsíc platil.
+Měsíční trend spotřebovaných výnosů v Azure v amerických dolarech, který se na vás přiřadí za vybraný rozsah kalendářních dat. Osa X představuje měsíce vybraného rozsahu kalendářních dat a osa Y představuje celkový počet spotřebovaných výnosů za měsíc v amerických dolarech.
 
 > [!NOTE]
-> Výnosy za Azure (ACR) budou viditelné jenom uživatelům, kterým byla přiřazena role vedoucího prohlížeče sestav. 
+> ACR budou viditelné pouze uživatelům, kterým byla přiřazena role vedoucího prohlížeče sestav. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Využití Azure.":::
 

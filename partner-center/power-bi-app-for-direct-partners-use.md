@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Naučte se zobrazovat obchodní data pomocí aplikace Datacenter Center Analytics pro Power BI (pro přímé partnery v CSP).
+description: Naučte se, jak zobrazit obchodní data pomocí aplikace Datacenter Center Analytics pro Power BI (pro přímé partnery v programu Cloud Solution Provider (CSP)).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855025"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112564977"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Zobrazení obchodních dat pomocí aplikace Datacenter Center Analytics pro Microsoft Power BI
 
@@ -25,7 +25,7 @@ ms.locfileid: "109855025"
 
 ## <a name="view-your-business-data"></a>Zobrazení obchodních dat
 
-Získejte vizuální reprezentaci vašich obchodních dat pomocí aplikace Datacenter Center Analytics pro Power BI, včetně těchto:
+Získejte vizuální reprezentaci vašich obchodních dat pomocí aplikace partnera Center Analytics pro Microsoft Power BI, včetně těchto:
 
 - Růst zákaznické základny, předplatných a licencí
 
@@ -39,7 +39,7 @@ Získejte vizuální reprezentaci vašich obchodních dat pomocí aplikace Datac
 
 ### <a name="about-the-partner-center-analytics-app-preview-release"></a>Informace o verzi Preview partnerského centra pro aplikaci Analytics
 
-- Tato aplikace je určena pouze pro přímé partnery v programu Cloud Solution Provider. Jiní partneři v CSP (například nepřímo prodejci) se nebudou moci přihlásit.
+- Tato aplikace je určena pouze pro přímé partnery v programu Cloud Solution Provider (CSP). Jiní partneři v CSP (například nepřímo prodejci) se nebudou moci přihlásit.
 
 - Všechny odhadované náklady jsou platby před zdaněním a fakturaci a nejsou právně závazné. Odhadované náklady se mají použít jenom pro data Insights.
 
@@ -49,39 +49,39 @@ Získejte vizuální reprezentaci vašich obchodních dat pomocí aplikace Datac
 
 - Dny jsou dny kalendáře.
 
-### <a name="business-insights-report"></a>Sestava Business Insights
+### <a name="business-insights-report"></a>Sestava obchodních přehledů
 
-- **Tenanti zákazníků:** Počet různých tenantů Azure AD zákazníků, kteří si zakoupili předplatná
+- **Klienti zákazníka**: počet různých tenantů Azure Active Directory (Azure AD) pro zákazníky, kteří si zakoupili předplatná
 
-- **Nové (posledních 30 dnů):** Noví zákazníci kupující alespoň jedno předplatné za posledních 30 dnů
+- **Novinka (posledních 30 dnů)**: noví zákazníci, kteří si nakupují aspoň jedno předplatné za posledních 30 dní
 
-- **Četnost změn (posledních 30 dnů):** Zákazníci bez jakýchkoli aktivních předplatných, předplatných s odkladem nebo zakázaných předplatných
+- Změny **(posledních 30 dnů)**: zákazníci bez všech předplatných "aktivní", "v odkladu" nebo "zakázáno".
 
-- **Nové (posledních 24 hodin):** Noví zákazníci kupující alespoň jedno předplatné za posledních 24 hodin
+- **Novinka (posledních 24 hodin)**: noví zákazníci nakupují aspoň jedno předplatné za posledních 24 hodin
 
-- **Odhadované měsíční náklady za posledních 12** měsíců: Trend odhadované částky faktury před zdaněním agregované měsíčně za období posledních 12 měsíců
+- **Odhadované měsíční náklady za posledních 12 měsíců**: Měsíční trend odhadované částky za měsíc v měsíci, který je v období posledních 12 měsíců agregovaný měsíčně.
 
-- **Odhadované náklady podle produktu za posledních 12** měsíců: Prodané produkty seřazené podle odhadované částky faktury před zdaněním agregované za období posledních 12 měsíců. Tento stav označuje hlavní produkty, které mají největší výnosy.
+- **Odhadované náklady podle produktu za posledních 12 měsíců**: produkty prodávané podle odhadované částky pro fakturační dolary, které jsou shrnuty v období posledních 12 měsíců. Tento stav označuje nejdůležitější produkty, které přináší většinu výnosů.
 
-- **Zákazníci za posledních 12 měsíců:** Trend nových zákazníků po měsících a zákazníků se četností změn agregovaný měsíčně za období posledních 12 měsíců
+- **Zákazníci za posledních 12 měsíců**: trend za měsíc měsíčně nových zákazníků a změny, které se zákazníkům v období posledních 12 měsíců agreguje měsíčně
 
-- **Odhadované náklady podle zákazníků za posledních 12** měsíců: Zákazníci seřazení podle odhadované částky faktury před zdaněním agregované za období posledních 12 měsíců. Tento stav indikuje, že nejvíce výnosů mají zákazníci s nejvyššími tržby.
+- **Odhadované náklady podle zákazníka za posledních 12 měsíců**: zákazníci setříděni podle odhadované částky předběžného daňového dolaru shrnuté v období posledních 12 měsíců. Tento stav označuje nejdůležitější zákazníky, kteří přinášejí většinu výnosů.
 
-- **Počet zákazníků podle produktu:** Prodané produkty seřazené podle přidružených zákazníků. Tento stav označuje nejprodávané produkty většině zákazníků.
+- **Počet zákazníků podle produktu**: produktů prodávaných seřazené podle přidružených zákazníků. Tento stav označuje nejdůležitější produkty prodávané většině zákazníků.
 
-### <a name="subscription-insights-report"></a>Sestava Přehledy předplatného
+### <a name="subscription-insights-report"></a>Sestava přehledů předplatných
 
-- **Stav předplatného:**
+- **Stav předplatného**:
 
-- Aktivní: Předplatná patřící do "aktivní" nebo "v odkladu"
+- Aktivní: předplatná, která patří do stavu "aktivní" nebo "ve lhůtě".
 
-  - Pozastaveno: Předplatná patřící do stavu Zakázáno
+  - Pozastaveno: odběry patřící do stavu zakázáno
 
-  - Zrušit zřízení: Předplatná patřící do stavu "není zřízeno" nebo "vypršela jeho platnost".
+  - Nezřízeno: odběry patřící do stavu "de-provisioned" nebo "vypršela platnost"
 
-- **Stav vypršení platnosti:**
+- **Stav vypršení platnosti**:
 
-  - Platnost vypršela: Předplatná, jejichž platnost už vypršela (u kterých vypršelo koncové datum předplatného)
+  - Vypršela platnost předplatných, jejichž platnost již vypršela (kde koncové datum předplatného je v minulosti).
 
   - Vypršení platnosti po 30 dnech: předplatná, jejichž platnost vyprší po 30 dnech (kde koncové datum předplatného je po následujících 30 dnech)
 
@@ -121,33 +121,33 @@ Získejte vizuální reprezentaci vašich obchodních dat pomocí aplikace Datac
 
 - **Počet aktivních licencí podle zákazníka**: zákazníci seřazené podle počtu aktivních licencí
 
-- Podrobnosti o události zákaznické licence za **posledních 90** dnů: Podrobné zobrazení událostí zákazníků, předplatných a odběrů, včetně data události, názvu události, množství a změny množství.
+- **Podrobnosti o licenční události zákazníka v posledních 90 dnech**: podrobné zobrazení událostí zákazníků, předplatných a předplatných včetně data události, názvu události, množství a změny v množství.
 
 ### <a name="licenses-usage-report"></a>Sestava využití licencí:
 
-- **Licence přiřazené podle produktu:** Prodané produkty seřazené podle počtu přiřazení licencí
+- **Licence přiřazené produktem**: prodávané produkty seřazené podle počtu přiřazení licencí
 
-- **Licence, které se používají podle produktu:** Prodané produkty seřazené podle počtu využití licencí
+- **Licence používané produktem**: produkty prodávané seřazené podle počtu využití licencí
 
-- **Distribuce přiřazených licencí ze strany** zákazníků: % rozdělení celkového počtu zákazníků v kbelíkůch po 20 % rozsahu podle % přiřazení licence
+- **Zákaznická distribuce přiřazených licencí**:% rozdělení celkových zákazníků v intervalech, které jsou v intervalech 20% v rozsahu podle přiřazení licencí%
 
-- **Distribuce licencí, které se používají** pro zákazníky: % distribuce celkového počtu zákazníků rozdělených do kbelíků o 20% rozsahu podle % využití licencí
+- **Zákaznická distribuce licencí, které se používají**:% rozdělení celkových zákazníků v intervalech po 20% rozsahu podle využití licencí%
 
-- **Licence přiřazené zákazníkem:** Podrobné zobrazení prodaných licencí a licencí přiřazených zákazníky a produkty
+- **Licence přiřazené zákazníkem**: podrobné zobrazení prodaných licencí a licencí přiřazených zákazníky a produkty
 
-- **Licence, které používá zákazník:** Podrobné zobrazení prodaných licencí a licencí, které používají zákazníci a produkty
+- **Licence používané zákazníkem**: podrobné zobrazení prodaných licencí a licencí používaných zákazníky a produkty
 
 ### <a name="azure-insights-report"></a>Sestava Azure Insights:
 
-- Zákazníci se založenými na využití za **posledních 12** měsíců: Trend měsíčních trendů nových zákazníků založených na využití a zákazníků založených na churnedu využití agregovaných měsíčně za období posledních 12 měsíců
+- **Zákazníci na základě využití za posledních 12 měsíců**: Měsíční trend nových zákazníků založených na používání a změny v rámci využívání, které jsou v průběhu posledních 12 měsíců shrnuté měsíčně.
 
-- Předplatná založená na využití za **posledních 12** měsíců: Trend nových předplatných založených na využití a předplatných založených na četnosti změn agregovaných měsíčně za období posledních 12 měsíců
+- **Předplatná založená na využití za posledních 12 měsíců**: Měsíční trend nových předplatných založených na využití a změny předplatných na základě využití, které jsou v období posledních 12 měsíců shrnuté po měsících.
 
-- **Odhadované náklady** na využití podle zákazníka za posledních 60 dnů: Zákazníci na základě využití seřazení podle odhadované částky faktury před zdaněním agregované za období posledních 60 dnů. Tento stav znamená, že zákazníci s nejvyšším využitím mají největší výnosy.
+- **Odhadované náklady na využití od zákazníka za posledních 60 dní**: zákazníci na základě využití setříděni podle odhadované částky za použití předběžného daňového dolaru v období posledních 60 dnů. Tento stav indikuje zákazníky s nejvyšším využitím, který přináší nejvíc výnosů.
 
-- Odhadované náklady na využití podle kategorií za posledních **60** dnů: Kategorie měřičů předplatných založených na využití seřazené podle odhadované částky faktury před zdaněním agregované za období posledních 60 dnů.
+- **Odhadované náklady na využití podle kategorie za posledních 60 dní**: kategorie měřičů předplatných založených na použití seřazené podle odhadované částky předběžného daňového dolaru v období posledních 60 dnů.
 
-- **Odhadované náklady** na využití podle předplatného za posledních 60 dnů: Předplatná založená na využití podle odhadované částky faktury před zdaněním agregované za období posledních 60 dnů.
+- **Odhadované náklady na využití podle předplatného v posledních 60 dnech**: předplatná na základě využití odhadovaná částka za fakturační dolary, která se agreguje za období posledních 60 dnů.
 
 - **Odhadované náklady na využití na zákazníky podle rozpočtu útraty**: zákazníci, kteří se seřadili podle procenta jejich aktuálního využití, překračuje prahovou hodnotu (100%).
 

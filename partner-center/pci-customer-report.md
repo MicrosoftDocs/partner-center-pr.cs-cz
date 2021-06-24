@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9207e793865bcf7fa2f205fc69b0b5def65b4d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f1ec30db0d568c7477b6fba9639e6481ffecaaf5
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152898"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565521"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Sestavy řídicího panelu Customers z Partnerské centrum Insights
 
-**Odpovídající role:** Globální správce | Agent správy | Prohlížeč sestav | Prohlížeč výkonných sestav
+**Odpovídající role:** Globální správce | Agent pro správu | Prohlížeč sestav | Prohlížeč výkonných sestav
 
-Řídicí panel Zákazníci prezentuje data vašich zákazníků, kteří prostřednictvím vás získali cloudové produkty, jako je Office, Azure, Dynamics atd., nebo vás použili k nasazení a správě těchto produktů ve svých tenantech. 
+Řídicí panel Zákazníci prezentuje data vašich zákazníků, kteří si koupili cloudové produkty, jako je Office, Azure nebo Dynamics. prostřednictvím vás nebo jste je použili k nasazení a správě těchto produktů v jejich tenantech. 
  
 Řídicí panel Zákazníci má následující části: 
 
@@ -34,40 +34,40 @@ ms.locfileid: "110152898"
 
 ## <a name="summary"></a>Souhrn
 
-V souhrnné části se zobrazí snímek různých KPI souvisejících s vašimi zákazníky, jako jsou zákazníci, aktivní zákazníci, předplatná, přidaní zákazníci, zákazníci se změnou a zákazníci podle jednotlivých produktů. Filtry na úrovni stránek platí pro každý oddíl.
+V souhrnné části se zobrazí snímek různých klíčových ukazatelů výkonu (KPI) souvisejících s vašimi zákazníky, jako jsou zákazníci, aktivní zákazníci, předplatná, přidaní zákazníci, zákazníci, kteří každý produkt mění. Filtry na úrovni stránek platí pro každý oddíl.
 
 :::image type="content" source="images/pci/customerproduct.png" alt-text="Snímek obrazovky s řídicím panelem Souhrn zákazníků znázorňuje pruhové grafy a počet aktivních, nedávno přidaných, ztracených nebo výpovědí zákazníků nebo konkrétního produktu":::
 
 ### <a name="customers"></a>Zákazníci
 
-- Aktuální počet všech zákazníků ve vaší organizaci je spojený prostřednictvím různých typů přisuzování napříč všemi cloudovými produkty, jako jsou Office, Azure, Dynamics atd. Zákazník se započítá, pokud má alespoň jedno předplatné se stavem Aktivní.  
+- Aktuální počet všech zákazníků ve vaší organizaci je spojený prostřednictvím různých typů přisuzování napříč všemi cloudovými produkty, jako jsou Office, Azure a Dynamics. Zákazník se započítá, pokud má alespoň jedno předplatné se stavem Aktivní.  
 - Odmítnutí % zákazníků během vybraného rozsahu dat 
 - Micro chart presents month over month trend of customers count over the selected date range
 
 ### <a name="active-customers"></a>Aktivní zákazníci
 
-- Aktuální počet zákazníků s jakýmkoli aktivním využitím produktu, například aktivním využitím na všech cloudových produktech.
-- Růst nebo odmítnutí aktivních zákazníků v průběhu vybraného časového období
-- Mikrograf představuje trend měsíčního měsíčního počtu aktivních zákazníků v rámci vybraného rozsahu dat.
+- Aktuální počet zákazníků s aktivním využitím produktů, jako je například aktivní využití u libovolného cloudového produktu.
+- Růst nebo pokles % aktivních zákazníků během vybraného časového období
+- Micro chart presents a month-over-month trend of active customers count over the selected date range.
 
-### <a name="customers-added"></a>Zákazníci Přidali
+### <a name="customers-added"></a>Přidání zákazníků
 
-- Počet všech zákazníků přidaných během vybraného časového období.
-- Růst nebo odmítnutí procento zákazníků přidaných během vybraného sate rozsahu.
-- Mikrograf představuje trend měsíčního podílu zákazníků přidaných přes vybraný rozsah kalendářních dat.
+- Počet všech zákazníků přidaných během vybraného časového období
+- Růst nebo pokles % zákazníků přidaných během vybraného rozsahu
+- Micro chart presents month over month trend of customers added over the selected date range.
 
-### <a name="customers-churned"></a>Změny zákazníků
-- Počet všech zákazníků v průběhu vybraného časového období v každém měsíci. Zákazník se považuje za ztracené, pokud zákazník nemá jedno předplatné s aktivním stavem. 
-- Procento zákazníků, které bylo v průběhu vybraného období změněno 
-- Mikrograf prezentuje trend od zákazníků po měsících, který se v rámci vybraného časového období převzal za měsíc. 
+### <a name="customers-churned"></a>Zákazníci s četností změn
+- Count of all customers churned each month during the selected time period. Zákazník se považuje za ztraceného, pokud nemá jedno předplatné s aktivním stavem. 
+- Procento zákazníků, kteří v průběhu vybraného rozsahu dat četnosti změn 
+- Micro chart presents a month over month trend of customers churned over the selected time period 
  
 ### <a name="customers-by-products"></a>Zákazníci podle produktů
 
-- Aktuální počet zákazníků distribuovaných v různých cloudových produktech, jako jsou O365, Azure, Dynamics atd.  
+- Aktuální počet zákazníků distribuovaných napříč různými cloudovými produkty, jako jsou Office 365, Azure a Dynamics.  
 
-## <a name="geographical-spread-of-your-customers"></a>Geografické rozšiřování vašich zákazníků
+## <a name="geographical-spread-of-your-customers"></a>Geografické rozšíření vašich zákazníků
 
-Počet aktuálních zákazníků, aktuálních aktivních zákazníků a nově přidaných zákazníků v průběhu vybraného období jsou geograficky mapovány pomocí země zákazníka. Procentní podíly zobrazené pod metrikou označují procento podílu dané země součtu této metriky. Po najetí myší na mapu můžete zobrazit celkový počet aktivních nových zákazníků pro danou zemi. Můžete vyhledat a vybrat zemi v mřížce pro přiblížení do umístění v mapě. Kliknutím na tlačítko **Domů** na mapě se vraťte k původnímu zobrazení. Všechny sloupce v mřížce jsou seřaditelné.  
+Počet aktuálních zákazníků, aktuálních aktivních zákazníků a zákazníků nově přidaných během vybraného rozsahu dat se mapuje geograficky pomocí země zákazníka. Procenta zobrazená pod metrikou udávají procento příspěvku této země ze součtu pro metriku. Když na mapu najedete myší, zobrazí se celkový počet aktivních nových zákazníků pro vaši zemi. Země v mřížce můžete vyhledat a vybrat a přiblížit tak umístění na mapě. Výběrem tlačítka Domů na  mapě se vrátíte k původnímu zobrazení. Všechny sloupce v mřížce jsou seřaditelné.  
 
 :::image type="content" source="images/pci/customersgeo.png" alt-text="Snímek obrazovky Partnerské centrum Insights Customer report by geography zobrazuje světovou mapu a seznam celkových, přidaných a nových zákazníků podle oblasti":::
 
@@ -75,11 +75,11 @@ Počet aktuálních zákazníků, aktuálních aktivních zákazníků a nově p
 
 Trend zákazníků s rozpisem na nové, existující a churned pro vybraný rozsah dat Osa X představuje měsíce vybraného rozsahu dat a osa Y představuje počet zákazníků. Zákazníci se změnou jsou reprezentování na záporné stupnici osy Y. Skládaný sloupcový graf představuje přerušení nových, stávajících a výpovědí zákazníků za měsíc. Sloupcový graf můžete znovu sestavit s konkrétními položkami zásobníku tak, že je vyberete v legendě. Pomocí posuvníku v horní části grafu můžete přiblížit konkrétní období. 
 
-:::image type="content" source="images/pci/customerslost.png" alt-text="Snímek obrazovky Partnerské centrum Insights Customer (Přehledy) s pruhový grafem zobrazující počet přidaných a ztracených zákazníků nebo jejich četnost změn v určitém časovém období":::
+:::image type="content" source="images/pci/customerslost.png" alt-text="Snímek obrazovky Partnerské centrum Insights Customer (Přehledy) s pruhový grafem zobrazující počet zákazníků přidaných a ztracených nebo ztracených za určité časové období":::
 
 ## <a name="customer-distribution"></a>Distribuce zákazníků
 
-Rozpis aktuálních zákazníků podle umístění MPN, segmentů zákazníků, prodejního kanálu nebo cenového modelu Azure a typu atribuce (například DPOR, DAP). Výběrem příslušných karet nad grafem zobrazíte rozpis podle těchto kategorií. Graf můžete znovu sestavit výběrem nebo zrušením výběru konkrétních dimenzí výběrem položek legendy. 
+Rozpis aktuálních zákazníků podle umístění Microsoft Partner Network (MPN), segmentů zákazníků, prodejního kanálu nebo cenového modelu Azure a typu atribuce. Výběrem příslušných karet nad grafem zobrazíte rozpis podle těchto kategorií. Graf můžete znovu sestavit výběrem nebo zrušením výběru konkrétních dimenzí výběrem položek legendy. 
 
 ## <a name="customers-by-products"></a>Zákazníci podle produktů
 
@@ -89,19 +89,19 @@ Rozpis aktuálních zákazníků podle produktů a SKU/plánů Výběrem produkt
 
 ## <a name="customer-distribution-trend"></a>Trend distribuce zákazníků 
 
-Měsíční trend distribuce vašich zákazníků během vybraného rozsahu dat podle trhů, segmentů, umístění MPN a produktů, které získali. Vyberte příslušné karty v grafu, abyste zobrazili trend podle těchto kategorií. Osa X představuje měsíce pro rozsah kalendářních dat, které jste vybrali, a osa Y má počet zákazníků pro vybranou kategorii (výběr karty). Po najetí myší na sloupce grafu můžete zobrazit hodnoty rozložení jednotlivých zásobníků. Pomocí posuvníku nad grafem můžete přiblížit určité období.   
+Měsíční trend distribuce vašich zákazníků během vybraného rozsahu dat podle trhů, segmentů, umístění MPN a produktů, které získali. Výběrem příslušných karet v grafu zobrazíte trend podle těchto kategorií. Osa X představuje měsíce pro vybraný rozsah dat a osa Y obsahuje počet zákazníků pro vybranou kategorii (výběr tabulátoru). Když na sloupce grafu najedete myší, zobrazí se hodnoty jednotlivých zásobníků. Pomocí posuvníku v horní části grafu můžete přiblížit konkrétní období.   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="Snímek sestavy trendů distribuce zákazníka znázorňující pruhové grafy, které můžete zobrazit podle trhu, segmentu, umístění partnera nebo produktů.":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="Snímek obrazovky se sestavou trendu distribuce zákazníků zobrazující pruhové grafy, které můžete zobrazit podle trhu, segmentu, umístění partnera nebo produktů":::
 
 ## <a name="active-customers"></a>Aktivní zákazníci
 
-Graf měsíčního trendu, který porovnává aktivní a celkové zákazníky pro vybraný rozsah kalendářních dat. Sloupce představují každý měsíc aktivní počty zákazníků a řádek představuje celkový počet zákazníků každý měsíc. 
+Graf měsíčního trendu porovnávající aktivní a celkový počet zákazníků pro vybraný rozsah dat Sloupce představují aktivní počty zákazníků každý měsíc a řádek představuje celkový počet zákazníků každý měsíc. 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="Snímek obrazovky s aktivními zákazníky služby partner Center Insights znázorňující pruhové grafy v čase aktivních zákazníků.":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="Snímek obrazovky Partnerské centrum sestavy aktivních zákazníků Insights zobrazující pruhové grafy v průběhu času aktivních zákazníků":::
 
 ## <a name="next-steps"></a>Další kroky
 
-Další sestavy najdete v tématu [Přehled služby partner Center](partner-center-insights.md).
+Další sestavy najdete v tématu [Partnerské centrum Insights.](partner-center-insights.md)
 
 >[!NOTE]
-> Nezpracovaných dat v této sestavě si můžete stáhnout z oddílu stažení sestav na řídicím panelu Insights. [Další informace](pci-download-reports.md) 
+> Nezpracovaná data pohánějící tuto sestavu si můžete stáhnout z části Stažení sestav na řídicím panelu Přehledy. [Další informace](pci-download-reports.md) 

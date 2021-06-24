@@ -8,18 +8,18 @@ description: Podívejte se, co dobře děláte, a kde můžete vylepšit využit
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 76a589037817707378e39f4301313eee7284422a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277500"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565453"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Dynamics k dispozici na řídicím panelu přehledů partnerského centra
 
 **Příslušné role**: globální správce | Agent správce | Prohlížeč sestav | Prohlížeč sestav Executive
 
-Sestava využití Dynamics poskytuje data o využití pro předplatná Dynamics 365, která jste prodali nebo spravovali pro vaše zákazníky. Následující části můžete zobrazit v sestavě využití Dynamics.
+Sestava využití Dynamics poskytuje data o využití pro předplatná Microsoft Dynamics 365, která jste pro zákazníky prodali nebo spravovali. Následující části můžete zobrazit v sestavě využití Dynamics.
 
 - Souhrn
 - Využití Dynamics podle geografie
@@ -28,7 +28,7 @@ Sestava využití Dynamics poskytuje data o využití pro předplatná Dynamics 
 - Distribuce využití Dynamics
 
  > [!NOTE]
- > Tato sestava je k dispozici na řídicím panelu Insights. Pokud chcete zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav v nástroji Executive. Další informace najdete v tématu globální správce vaší společnosti. konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními správce sestav nástroje Executive.
+ > Tato sestava je k dispozici na řídicím panelu Insights. Chcete-li zobrazit tuto sestavu, musíte mít přiřazenou konkrétní roli v partnerském centru, jako je například globální správce, správce účtu, Prohlížeč sestav nebo správce sestav nástroje Executive. Další informace najdete v tématu globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněním správce sestav nástroje Executive.
 
 ## <a name="summary"></a>Souhrn
 

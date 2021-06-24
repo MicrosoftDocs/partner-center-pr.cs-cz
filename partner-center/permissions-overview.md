@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: b1ac34bbb92d600805465ca5f6d1b28af54cd5e1
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 582fdc98617be7d82c0bc61a0bf46ceb662954d3
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855127"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565079"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Přiřaďte uživatelům role a oprávnění pro firemní uživatele, kteří potřebují pracovat v Partnerské centrum
 
@@ -24,10 +24,10 @@ Nastavili jste profil partnera, včetně oficiálního jména a adresy, podrobno
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Nastavení zaměstnanců pro práci v Partnerské centrum
 
-Určíte typy přístupu, které vaši uživatelé musí Partnerské centrum rolemi a oprávněními, které jim poskytnete. Role souvisejí s programy, do které se vaše firma podílí. Pokud je například vaše firma podnikem Cloud Solution Provider (CSP), budete mít nejen standardní role správy tenantů Azure Active Directory, jako je globální správce, ale budete potřebovat role specifické pro program CSP. Každý program má role, které jsou pro něj specifické.
+Určíte typy přístupu, které uživatelé musí Partnerské centrum rolemi a oprávněními, které jim poskytnete. Role souvisejí s programy, do které se vaše firma podílí. Pokud je například vaše firma podnikem Cloud Solution Provider (CSP), budete mít nejen standardní role správy tenanta Azure Active Directory (Azure AD), jako je globální správce, ale budete potřebovat role specifické pro program CSP. Každý program má role, které jsou pro něj specifické.
 
 >[!Note]
-> Azure Active Directory tenanta zahrnují role globálního správce, správce uživatelů a CSP. Role mimo Azure-Active-Directory jsou role, které tenanta nespravuje, a zahrnují správce MPN, správce obchodního profilu, správce referenčních seznamu, správce pobídek a uživatele pobídek. 
+> Role tenanta Azure AD zahrnují role globálního správce, správce uživatelů a CSP. Role mimo Azure-AD jsou role, které tenanta nespravuje, a zahrnují správce partnera MPN (Microsoft Partner Network), správce obchodního profilu, správce referenčních doporučení, správce pobídek a uživatele pobídek. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Správa komerčních transakcí v Partnerské centrum (role Azure AD a CSP)
 
@@ -38,22 +38,22 @@ Určíte typy přístupu, které vaši uživatelé musí Partnerské centrum rol
 ||* Zobrazit lístky podpory pro partnery, které vytvoříte
 ||* Zobrazení smluv, ceníků a nabídek
 ||* Zobrazení, vytváření a správa partnerských uživatelů|
-||  Zobrazení, vytvoření a správa fakturace, faktur a souborů rekognoskaci
-|Správce správy uživatelů   | * Zobrazení, vytvoření a Správa uživatelů|[Správa výhod a nabídek členství v Microsoft Partner Network v partnerském centru](manage-your-partner-network-benefits.md)
-||* Zobrazit všechny profily partnerů
-||* Vytvoření lístků podpory pro partnerské Centrum
-||* Zobrazit lístky podpory partnerů, které vytvoříte
-|Správce fakturace | – Zobrazení, vytvoření a správa fakturace, faktur a souborů rekognoskaci|[Čtení informací na faktuře](billing.md)
+||  Zobrazení, vytvoření a správa fakturace, faktur a souborů odsoustavy
+|Správce správy uživatelů   | * Zobrazení, vytváření a správa uživatelů|[Správa výhod a nabídek Microsoft Partner Network vašeho členství v Partnerské centrum](manage-your-partner-network-benefits.md)
+||* Zobrazit vše profily partnerů
+||* Vytvoření lístků podpory pro Partnerské centrum
+||* Zobrazit lístky podpory pro partnery, které vytvoříte
+|Správce fakturace | – Zobrazení, vytvoření a správa faktur, faktur a souborů odsoustavy|[Čtení informací na faktuře](billing.md)
 ||* Zobrazit ceny
-||* Vytvoření lístků podpory pro partnerské Centrum
-||* Zobrazit lístky podpory partnerů, které vytvoříte
-|Výchozí uživatel|  Zobrazit můj profil   |[Resetování hesla](reset-my-pasword.md)
-|Agent správce | * Správa zákazníků|[Spojení se zákazníky](connect-with-your-customers.md)
-||* Přidat seznam zařízení do partnerského centra
-||* Vytvoření a použití profilů pro zařízení
-||* Správa předplatných
-||* Požadavky na stav služby a služby pro zákazníky
-||* Požádejte o oprávnění delegovaného správce.
+||* Vytvoření lístků podpory pro Partnerské centrum
+||* Zobrazit lístky podpory pro partnery, které vytvoříte
+|Výchozí uživatel|  Zobrazit Můj profil   |[Resetování hesla](reset-my-pasword.md)
+|Agent pro správu | * Správa zákazníků|[Spojení se zákazníky](connect-with-your-customers.md)
+||* Přidání seznamu zařízení do Partnerské centrum
+||* Vytvoření a použití profilů na zařízeních
+||* Správa předplatného
+||* Stav služby a žádosti o služby pro zákazníky
+||* Požádat o delegovaná oprávnění správce
 ||* Zobrazení cen a nabídek
 ||* Fakturace
 ||* Správa jménem zákazníka
@@ -71,54 +71,54 @@ Určíte typy přístupu, které vaši uživatelé musí Partnerské centrum rol
 ||* Registrace prodejce s přidanou hodnotou
 ||* Vytvoření lístků podpory pro Partnerské centrum
 ||* Zobrazit lístky podpory pro partnery, které vytvoříte|
-|Agent helpdesku| * Vyhledat a zobrazit zákazníka|[Eskalace problémů společnosti Microsoft a zjištění, které problémy mají větší předpoklady pro eskalaci Microsoftu](escalate-problems-to-microsoft.md)
+|Agent helpdesku| * Vyhledání a zobrazení zákazníka|[Eskalace problémů do Microsoftu a informace o problémech, které jsou pro eskalaci Microsoftu vhodné](escalate-problems-to-microsoft.md)
 ||* Upravit podrobnosti o zákazníkovi
-||* Pomůžou vyřešit problémy zákazníků pomocí fakturace nebo správy předplatných.
-||* Požádat o podporu jménem zákazníků 
-||* Správa předplatných a fakturačních problémů jménem zákazníků
-||* Vytvoření lístků podpory pro partnerské Centrum
-||* Zobrazit lístky podpory partnerů, které vytvoříte| 
+||* Pomoc s řešením problémů zákazníků s fakturací nebo s předplatným
+||* Žádost o podporu jménem zákazníků 
+||* Správa předplatných a problémů s fakturací jménem zákazníků
+||* Vytvoření lístků podpory pro Partnerské centrum
+||* Zobrazit lístky podpory pro partnery, které vytvoříte| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Dodavatel ovládacího panelu (CPV). (Role CSP a role mimo Azure AD)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Ovládací panely dodavatele (CPV). (role CSP a role mimo Azure AD)
 
-CPVs vyvíjet aplikace pro použití partnery CSP (Cloud Solution Provider), aby jim umožnily integraci svých systémů s rozhraními API partnerského centra. 
+Společnost CPV vyvíjí aplikace, které používají partneři CSP, aby jim umožnily integrovat své systémy s Partnerské centrum rozhraními API. 
 
 |**Role**   |**Co můžete dělat**|**Další informace**|
 |------------------------------|:----------------------------|----|
-|Globální správce| Umožňuje zobrazit a spravovat váš profil CPV.|[Zaregistrovat jako dodavatele ovládacích panelů, který umožňuje integrovat partnerské systémy CSP s rozhraními API partnerského centra](enroll-as-cpv.md)
-||Umožňuje zobrazit a spravovat všechny uživatele, kteří potřebují přístup k možnostem CPV.|
+|Globální správce| Zobrazení a správa profilu Ovládací panely dodavatele hardwaru (CPV)|[Zaregistrujte se jako dodavatel Ovládací panely, který vám pomůže integrovat partnerské systémy CSP s Partnerské centrum API.](enroll-as-cpv.md)
+||Zobrazení a správa všech uživatelů, kteří potřebují přístup k funkcím CPV|
 
-### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>Uživatel typu Host (musí být přidán do tenanta Azure Active Directory)
+### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Uživatel hosta (musí být přidán do tenanta Azure AD)
 
-|**Uživatel typu Host**   | **Role**|
+|**Uživatel hosta**   | **Role**|
 |---------------------------|:--------------------|
 ||Správce partnera MPN|
 ||Správce obchodního profilu|
-||Správce odkazů|
+||Správce referenčních odkazů|
 
 
-## <a name="manage-mpn-membership-and-your-company"></a>Spravovat členství v programu MPN a vaši společnost 
+## <a name="manage-mpn-membership-and-your-company"></a>Správa členství v programu MPN a vaší společnosti 
 
-Tyto role nejsou Azure Active Directory role. Tyto role spravují podnik společnosti, nikoli tenanta.
+Tyto role nejsou role Azure AD. Tyto role spravují podnik společnosti, nikoli tenanta.
 
 |**Role** | **Co můžete dělat**|**Další informace**|
 |----------------------------|:----------------------------|-----|
 |Správce partnera MPN|* Zobrazení, vytváření a správa žádostí o partnerské služby|[Nákup nebo prodloužení platnosti předplatného programu Microsoft Action Pack nebo kompetencí Silver a Gold Competency](mpn-get-action-pack.md)
-||* Zobrazit právní profily, profily společnosti, firmy a MPN
-||* Zobrazit podrobnosti o uživateli a jeho dovednosti
-||* Zobrazení kompetencí
-||* Zobrazení a správa výhod
-||* Zobrazení a nákup nabídek MPN
-||* Zobrazení historie objednávek a faktur nabídek MPN
-||* Zobrazit data indikátoru příspěvku partnera
-||* Může pracovat v nástroji pro ověřování poukazů|
-||* Zobrazení analýzy dat zákazníků
-||* Zobrazit další role uživatelů v rámci společnosti, ale nemůže přiřazovat role
-||* Vytvoření lístků podpory pro Partnerské centrum
-||* Zobrazit lístky podpory pro partnery, které vytvoříte
-|Správce účtu| Přidání umístění|[Správa umístění](manage-locations.md)
-|| Správa profilů souvisejících s účty, pro které jste správcem 
-||* Přiřaďte role uživatelům v tenantovi k rolím mimo Azure-Active-Directory. 
+||* Zobrazit profily legálního, podnikového a MPN
+||* Zobrazení podrobností o uživateli a jejich údajů o dovednostech
+||* Zobrazit kompetence
+||* Zobrazení a Správa výhod
+||* Zobrazit a koupit nabídky MPN
+||* Zobrazit nabídku MPN nabízí historii objednávek a faktury
+||* Zobrazit data ukazatele příspěvku partnera
+||* Může fungovat v nástroji pro ověřování dokladů.|
+||* Zobrazení analýzy zákaznických dat
+||* Zobrazit další uživatelské role v rámci společnosti, ale nemůžou přiřadit role
+||* Vytvoření lístků podpory pro partnerské Centrum
+||* Zobrazit lístky podpory partnerů, které vytvoříte
+|Správce účtu| Přidat umístění|[Správa umístění](manage-locations.md)
+|| Správa profilů souvisejících s účty, ke kterým jste správce 
+||* Přiřaďte role pro uživatele v tenantovi k rolím mimo Azure AD. 
 ||* Registrace umístění do programů
 ||* Vytvoření lístků podpory pro partnerské Centrum
 ||* Zobrazit lístky podpory partnerů, které vytvoříte
@@ -140,28 +140,28 @@ Tyto role nejsou Azure Active Directory role. Tyto role spravují podnik společ
 |Správce obchodního profilu|Vytváření a Správa obchodních profilů | [Správa obchodních profilů](create-a-marketing-profile.md)
 ||    Může vytvářet a zobrazovat lístky podpory
 
-Společně s novou referenční rolí uživatele zavádíme také rozsah umístění pro obchody. Následující tabulka vysvětluje přístup k obchodům na základě umístění.
+Společně s novou referenční rolí uživatele zavádíme také rozsah umístění pro obchody. V tabulce níže najdete informace o přístupu na základě umístění.
 
 |**Scope** | **Co můžete dělat** |
 |------------------------------|:-------------------------|
-|Celá společnost | Správci i uživatelé mají přístup k vytváření dohod pro libovolnou lokalitu ve své společnosti.|
-|| Správce referenčních seznamu má přístup k zobrazení a úpravám všech dohod. |
-|| Uživatelé referenčních seznamu mají přístup k zobrazení a úpravě všech dohod jenom v případě, že jsou součástí týmu. |
-|Jedno nebo více umístění | Správci i uživatelé mají přístup k vytváření dohod pro přiřazenou lokalitu ve své společnosti.|
-|| Správce referenčních seznamu má přístup k zobrazení a úpravě všech dohod, které patří do přiřazených umístění.|
-|| Uživatelé referenčních seznamu mají přístup k zobrazení a úpravě všech dohod, které patří do přiřazených umístění, pokud jsou součástí týmu.|
+|Celá společnost | Správci i uživatelé mají přístup k vytváření obchodů pro libovolné umístění ve své společnosti.|
+|| Správce odkazů má přístup k zobrazení a úpravám všech obchodů. |
+|| Uživatelé s odkazem mají přístup k zobrazení a úpravám všech obchodů pouze v případě, že jsou součástí týmu. |
+|Jedno nebo více umístění | Správci i uživatelé mají přístup k vytváření obchodů pro přiřazené umístění ve společnosti.|
+|| Správce odkazů má přístup, který umožňuje zobrazit a upravit všechny obchody patřící do přiřazených umístění.|
+|| Příslušní uživatelé mají přístup k zobrazení a úpravám všech obchodů náležejících k přiřazeným umístěním, pokud jsou součástí týmu.|
 
 ## <a name="manage-incentives"></a>Správa pobídek
 
 |**Role** | **Co můžete dělat**|**Další informace**
 |------------------------------|:-------------------------|---|
-|Správce pobídek|* Iniciuje a spravuje pobídky |[Tyto zdroje informací vám pomůžou začít s pobídky.](incentives-get-started-intro.md)
-||* Může zobrazit a upravit všechny aspekty programů pobídek.
-||* Může zobrazit a upravit bankovní a daňové údaje.
-||* View rebate and co-op earnings
+|Motivace správce|* Iniciuje a spravuje pobídky. |[Tyto materiály vám pomůžou začít s motivací.](incentives-get-started-intro.md)
+||* Může zobrazit a upravit všechny aspekty programu pobídek.
+||* Může zobrazit a upravit informace o bance a daních
+||* Zobrazit příjem rabatu a souběžných op
 ||* Podpora přístupu
-||* Platby za pobídky sporů|
-|Uživatel pobídek|* Může zobrazit programy pobídek
+||* Pobídky sporů|
+|Motivace uživatelů|* Může zobrazit pobídky programů
 ||* Může zobrazit a iniciovat deklarace motivů.
 ||* Zobrazit příjem rabatu a souběžných op
 ||* Vytvoření lístků podpory pro partnerské Centrum

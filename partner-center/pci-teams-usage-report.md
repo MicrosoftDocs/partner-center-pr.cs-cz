@@ -8,12 +8,12 @@ description: Podívejte se, co si vedete dobře a kde můžete zlepšit využit�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4148848984a541eca4eee9e71785660aa6402bc7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277330"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565011"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Sestava využití Teams dostupná na řídicím panelu Partnerské centrum Insights
 
@@ -27,7 +27,7 @@ Sestava využití Teams obsahuje metriky související s úlohami Služby Teams,
 - Nejčtení zákazníci podle využití
 
  > [!NOTE]
- > Tato sestava je k dispozici na řídicím panelu Přehledy. Pokud chcete tuto sestavu zobrazit, musíte mít přiřazenou konkrétní roli v Partnerské centrum, jako je například globální správce, správce účtu, prohlížeč sestav nebo prohlížeč sestav vedoucího pracovníka. Další informace najdete v tématu Globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být dostupné také pro uživatele s oprávněními Executive Report Viewer.
+ > Tato sestava je k dispozici na řídicím panelu Přehledy. Pokud chcete tuto sestavu zobrazit, musíte mít přiřazenou konkrétní roli v Partnerské centrum, jako je globální správce, správce účtu, prohlížeč sestav nebo prohlížeč sestav Executive. Další informace najdete v tématu Globální správce vaší společnosti. Konkrétní typy dat v této sestavě mohou být také k dispozici pouze uživatelům s oprávněními pro zobrazení sestav Executive.
 
 ## <a name="summary"></a>Souhrn
 
