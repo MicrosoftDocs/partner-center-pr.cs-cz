@@ -1,0 +1,100 @@
+### YamlMime:FAQ
+metadata:
+  title: Microsoft Partner Network výhody – Nejčastější dotazy
+  ms.topic: article
+  ms.date: 12/15/2020
+  description: Odpovědi na otázky týkající se vypršení platnosti, obnovení a Aktivace licencí pro Azure, Cloud, Visual Studio a technické výhody a výhody podpory
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-mpn
+  author: arpithakanuganti
+  ms.author: v-arkanu
+  ms.localizationpriority: medium
+  ms.custom: SEOJUNE20
+  ms.openlocfilehash: 72db9073e071581e1f8b7eb685da1d1d7db56294
+  ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "112915655"
+title: Nejčastější dotazy k Microsoft Partner Network výhodám
+summary: >
+  **Příslušné role**: správce partnerů MPN
+
+
+  V tomto článku jsou řešeny mnohé běžné otázky týkající se výhod Microsoft Partner Network (MPN).
+sections:
+- name: Obecné otázky
+  questions:
+  - question: >
+      Co znamená "datum vypršení platnosti výhody"
+    answer: "Datum vypršení platnosti výhody znamená poslední datum, kdy se mají vaše výhody aktivovat.\n\nAž do data obnovení uplatníte výhody, které jsou k dispozici během období registrace v rámci jednoho roku. Datum zahájení obnovení můžete najít na stránce [nabídky členství](https://partner.microsoft.com/dashboard/mpn/offers) na řídicím panelu programu MPN.\n\nMůžete ale použít kódy Product Key po dobu jednoho roku od dne uplatnění klíčů na příslušných cloudových portálech.\n\nNapříklad pokud vaše výhody vyprší od 31. ledna 2021, budete muset klíče uplatnit v příslušném cloudovém portálu do 31. ledna 2021. A pokud použijete kód Product Key od 1. prosince 2020, můžete tento klíč použít do 1. prosince 2021, a to i v případě, že datum vypršení platnosti výhody je 31.\n\n> [!NOTE]  \n> Pokud máte výhody, které vyžadují přiřazení uživatele (například předplatná sady Visual Studio), můžete tyto výhody aktivovat a používat na dalších 30 dnů od data obnovení registrace.\n"
+  - question: >
+      Návody obnovení svých výhod
+    answer: >
+      K obnovení svých výhod použijte následující postup:
+
+
+      1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
+
+
+      2. V levém navigačním panelu vyberte **MPN**.
+
+
+      3. Na kartě **MPN** vyberte možnost **výhody** .
+
+
+      4. Aktivujte výhodu, kterou chcete.
+
+
+      Pokud výhoda, kterou potřebujete, není k dispozici, bude nutné obnovit členství v partnerském centru a postup opakovat výše.
+  - question: >
+      Zobrazilo se mi oznámení o tom, že platnost mého předplatného brzy vyprší – co mám dělat
+    answer: >
+      Přihlaste se na cloudový portál, který vygeneroval oznámení, zkontrolujte datum vypršení platnosti stávajících předplatných a pak přidejte licence do předplatného, nebo po příštím roce pro registraci existující předplatné prodlužte.
+  - question: >
+      Kdy je možné obnovit členství
+    answer: >
+      Stávající členství je možné prodloužit kdykoli po počátečním datu prodloužení.
+- name: Výhody Aktivace Azure a cloudu
+  questions:
+  - question: >
+      Jak přidávat, rozšiřovat a obnovovat licence fungují v Azure
+    answer: "Když přidáváte licence, zvýšíte celkový počet licencí pro stávající předplatné.\n\nKdyž obnovíte nebo rozšíříte odběry, počet licencí zůstane stejný, ale prodloužete dobu pro tyto odběry.\n\n> [!IMPORTANT]  \n> Pokud se rozhodnete přidat licence v existujícím předplatném, platnost předplatného vyprší za méně než 12 měsíců v závislosti na počtu existujících a přidaných licencí. Až klíč znovu použijete, nemůžete ho uplatnit znovu. Před uplatněním klíče se ujistěte, jestli potřebujete přidat licence nebo prodloužit nebo prodloužit předplatné.\n"
+  - question: >
+      Můžu aktivovat licenci na účtu mého zákazníka
+    answer: >
+      No. Licence k produktu se vydávají pro demonstrační účely. Zaměstnanci prodeje a marketingu můžou tento software využít k předvedení produktů zákazníkům, ale ukázkové produkty se nedají nainstalovat na hardware nebo infrastrukturu zákazníka a musí se používat s partnerským dohledem.
+  - question: >
+      Mám potíže s přiřazením uživatelů do hromadného kreditu Azure. Co mám dělat
+    answer: >
+      Nemůžete kombinovat nabídky hromadného kreditu Azure s dalšími nabídkami. Pokud přiřazení uživatele nefunguje, pravděpodobně to znamená, že uživatel, kterého chcete přiřadit, již používá jiné nabídky licencování, předplacené nebo kredity, jako je například Microsoft smlouva Enterprise, partner Cloud Solution, Systém Azure v rámci licenčního programu Open, Azure Pass, Akční balíček atd. Pokud uživatel není přihlášen k odběru žádné z těchto smluv nebo plánů a stále je nemůžete přiřadit, obraťte se na podpora Microsoftu.
+- name: Výhody sady Visual Studio
+  questions:
+  - question: >
+      Jak funguje aktivace sady Visual Studio v partnerském centru
+    answer: "Můžete přiřadit odběry komukoli v seznamu správy uživatelů v partnerském centru nebo v tenantovi Azure Active Directory (AAD), a to provedením následujících kroků:\n\n1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).\n\n2. V nabídce partnerské Centrum vyberte **MPN**.\n\n3. Vyberte možnost **výhody** a pak vyberte možnost **Visual Studio**.\n\n4. Přiřaďte požadované uživatele k dispozici stávajícím předplatným sady Visual Studio.\n\nPo přiřazení předplatného se uživatel musí přihlásit k aplikaci Visual Studio, aby ho mohl spravovat.\n\n> [!Note]  \n> Předplatná sady Visual Studio může být přeřazena z jednoho předplatitele do druhé, pokud 90 dnů uplynulo od doby původního přiřazení.\n"
+- name: Technické výhody a podpora
+  questions:
+  - question: >
+      Nemůžu nainstalovat stažený software z partnerského centra. Návody získat nápovědu
+    answer: >
+      Instalace, aktivace a další informace související s produktem jsou k dispozici prostřednictvím podpora Microsoftu. Chcete-li získat pomoc, proveďte následující kroky:
+
+
+      1. Přihlaste se k [řídicímu panelu pro Partnerské centrum](https://partner.microsoft.com/dashboard/).
+
+
+      2. V nabídce partnerské Centrum vyberte **MPN**.
+
+
+      3. Vyberte **výhody** a pak vyberte **technické výhody**.
+
+
+      4. Část technické výhody použijte k aktivaci a získání ID a ID smlouvy pro přístup.
+
+
+      5. Přihlaste se [Podpora Microsoftu](https://support.microsoft.com/supportforbusiness/productselection).
+
+
+      6. Vyberte produkt, který se pokoušíte nainstalovat, a pak vytvořte lístek technické podpory.
+additionalContent: "\n## <a name=\"next-steps\"></a>Další kroky\n\n- [Získejte pokročilou specializaci pro předvedení vaší odbornosti.](advanced-specializations.md)"
