@@ -1,56 +1,56 @@
 ---
-title: Jak zakoupit nabídky SaaS na Microsoft AppSource
-description: Naučte se koupit aplikace SaaS (software jako služba) od partnerů Microsoftu na Microsoft AppSource.
+title: Nákup aplikací SaaS na Microsoft AppSource
+description: Nákup aplikací SaaS (software jako služba) od partnerů Microsoftu na Microsoft AppSource.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412688"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896794"
 ---
-# <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Jak koupit aplikace SaaS na Microsoft AppSource
+# <a name="purchase-saas-apps-on-microsoft-appsource"></a>Nákup aplikací SaaS na Microsoft AppSource
 
-[Microsoft AppSource](https://appsource.microsoft.com/) obsahuje tisíce podnikových aplikací, včetně aplikací SaaS (software jako služba) a doplňků pro Dynamics 365, Microsoft 365, Power BI a Power Apps. AppSource zahrnuje bezplatné aplikace, zkušební verze a placené odběry. poplatky, upgrady, Downgrady a zrušení můžete spravovat na jednom místě pomocí [centra pro správu Microsoft 365](/microsoft-365/admin/admin-overview/about-the-admin-center). Tento článek vysvětluje, jak zakoupit placené předplatná SaaS v AppSource.
+[Microsoft AppSource](https://appsource.microsoft.com/) obsahuje tisíce obchodních aplikací, včetně aplikací SaaS (software jako služba) a doplňků pro Dynamics 365, Microsoft 365, Power BI a Power Apps. AppSource zahrnuje bezplatné aplikace, zkušební verze a placená předplatná a vy můžete spravovat poplatky, upgrady, downgrady a zrušení na jednom místě pomocí [služby Centrum pro správu Microsoftu 365](/microsoft-365/admin/admin-overview/about-the-admin-center). Tento článek vysvětluje, jak zakoupit placená předplatná SaaS v AppSource.
 
 ## <a name="requirements"></a>Požadavky
 
-K zakoupení aplikace SaaS potřebujete následující:
+Nákup aplikace SaaS vyžaduje následující:
 
-- Pracovní nebo školní účet. Pokud nemáte pracovní nebo školní účet, během procesu nákupu použijte odkaz na zaregistrovat bezplatný účet.
+- Pracovní nebo školní účet. Pokud nemáte pracovní nebo školní účet, během procesu nákupu použijte odkaz "Registrace bezplatného účtu".
 
-- Platná platební karta v zemi nebo oblasti, kde si nabídku koupíte. Podporované kreditní karty: Visa, hlavní karta, American Express a vyhledat.
+- Platná platební karta v zemi nebo oblasti, ve které nabídku kupujete. Podporované platební karty: Visa, Master Card, American Express a Discover.
 
     > [!Note]
-    > Země/oblast fakturace platební karty může být zamčená do umístění vaší instance Azure Active Directory.
+    > Země nebo oblast fakturace platební karty může být uzamčená na umístění vaší Azure Active Directory instance.
 
-## <a name="purchase-the-application"></a>Koupit aplikaci
+## <a name="purchase-the-application"></a>Zakoupení aplikace
 
-1. Vyberte zemi nebo oblast fakturace v [AppSource](https://appsource.microsoft.com/).
+1. Vyberte svou fakturační zemi nebo oblast na [AppSource.](https://appsource.microsoft.com/)
 1. Najděte aplikaci, kterou chcete koupit.
-1. Vyberte **získat hned**.
-1. Vyberte plán:
+1. Vyberte **Získat.**
+1. Zvolte plán:
 
-    1. Nastavení počtu stanic
+    1. Nastavení počtu licencí
     1. Nastavte fakturační období.
-    
-1. Zadejte fakturační adresu.
-1. Zadejte způsob platby (informace o kreditní kartě).    
-1. Vyberte možnost **pořadí míst**.
+
+1. Zadejte svou fakturační adresu.
+1. Zadejte způsob platby (informace o platební kartě).
+1. Vyberte **Place order (Objednat).**
 
 ## <a name="configure-the-application"></a>Konfigurace aplikace
 
-Po přijetí vaší objednávky může trvat několik sekund, než se potvrzení dostanou. Obdržíte odkaz na konfiguraci předplatného SaaS na stránce a také e-mail potvrzující nákup a odkaz pro dokončení konfigurace.
+Po přijetí objednávky může potvrzení trvat několik sekund. Na stránce obdržíte odkaz pro konfiguraci předplatného SaaS a e-mail s potvrzením nákupu a odkaz na dokončení konfigurace.
 
-1. Na stránce **potvrzení objednávky** vyberte **Konfigurovat**. Případně můžete použít odkaz na konfiguraci, který jste poslali v e-mailu s potvrzením.
-1. Dokončete zřizování a nastavte na webu poskytovatele softwaru.
+1. Na stránce **Potvrzení objednávky** vyberte **Konfigurovat.** Alternativně můžete použít odkaz Konfigurace, který vám byl odeslán v potvrzovacím e-mailu.
+1. Dokončete zřizování a nastavení na webu poskytovatele softwaru.
 
     > [!Note]
-    > Tento krok je povinný, ale můžete ho dokončit kdykoli.
+    > Tento krok je povinný, ale můžete ho kdykoli dokončit.
 
 ## <a name="next-steps"></a>Další kroky
 
