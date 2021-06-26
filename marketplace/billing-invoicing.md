@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.date: 05/04/2021
+ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
+ms.sourcegitcommit: b6959846c30d062d05028c9b4ba14c07e903e61a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373452"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112970187"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace fakturace a fakturace
 
@@ -49,7 +49,7 @@ Vaše opakované nákupy se vám budou účtovat v období, ve kterém jste ho z
 > Období služby je období, za které jste zaplatili za používání služby. Pokud nestornujete předem, automaticky se prodlouží v a období služby.
 
 > [!NOTE]
-> Pokud se datum v měsíci obnovení nerovná datu nákupního měsíce, upraví se na poslední den fakturačního měsíce. To znamená, že pokud se jeden z nich přihlásil k odběru 1/31, datum ukončení fakturace pro únor by bylo 2/27 s novým fakturačním obdobím začínajícím na 2/28 (2/28 a 2/29, pokud začíná v průběhu přestupného roku).
+> Upravený platební období (nebo poslední den fakturačního měsíce) upravujeme, pokud datum měsíce obnovení nemůže být stejné jako datum v měsíci nákupu. To znamená, že pokud se jeden z nich přihlásil k odběru 1/31, datum ukončení fakturace se upraví na 2/27, přičemž datum obnovení je 2/28 (2/28 a 2/29, pokud začíná v rámci přestupného roku).
 
 ## <a name="invoices"></a>Faktury
 
