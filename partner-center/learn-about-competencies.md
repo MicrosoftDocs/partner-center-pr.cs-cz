@@ -1,5 +1,5 @@
 ---
-title: Požadavky na kompetence Microsoft Gold a Silver Competency
+title: Požadavky na kompetence Microsoft Gold, Silver Competency
 ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
@@ -9,18 +9,18 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24dd96126ab96b3e3790e9ebc00c128cac07ad24
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
+ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146591"
+ms.lasthandoff: 06/28/2021
+ms.locfileid: "112989338"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Odlišení vaší firmy dosažením kompetencí Microsoftu
 
 **Odpovídající role:** Globální správce | Správce správy uživatelů
 
-Předvete své prověřené znalosti v oblasti poskytování kvalitních řešení v jedné nebo více specializovaných oblastech podnikání. Kompetence Microsoftu jsou navržené tak, aby vás připravily tak, aby splňovaly potřeby vašich zákazníků, a pomohly vám přilákat nové zákazníky, kteří hledají poskytovatele řešení certifikovaných Microsoftem. Připojte se k elitní úrovni partnerů Microsoftu a odchyťte se od svých partnerů.
+Předvete své prověřené znalosti v oblasti poskytování kvalitních řešení v jedné nebo více specializovaných oblastech podnikání. Kompetence Microsoftu jsou navržené tak, aby vás připravily na splnění potřeb vašich zákazníků a pomohly vám přilákat nové zákazníky, kteří hledají poskytovatele řešení certifikovaných Microsoftem. Připojte se k elitní úrovni partnerů Microsoftu a odchyťte se od svých partnerů.
 
 - Dosažení silver **competency** pro předvedení vašich konzistentních schopností a závazků
 
@@ -30,7 +30,7 @@ Dosažení kompetence může být také vstupem k dalším výhodám a přílež
 
 - [Odemkněte výkonné nabídky a](mpn-learn-about-go-to-market-benefits.md) programy, které vám pomůžou rozšířit a rozšířit podnikání. [Přečtěte si další informace o tom, jak s Microsoftem přejít na trh.](https://partner.microsoft.com/solutions/go-to-market)
 
-- Dosažení zlaté kompetence vám dává příležitost prosahat a přidat do portfolia pokročilejší specializace. [](advanced-specializations.md) Pokročilé specializace vám pomůžou předvést vaše stále se zdokucializační znalosti zákazníků. [Přečtěte si další informace o rozšířených specializacích.](https://partner.microsoft.com/membership/advanced-specialization)
+- Dosažení zlaté kompetence vám dává příležitost využít a [](advanced-specializations.md) přidat do vašeho portfolia pokročilejší specializace. Pokročilé specializace vám pomůžou předvést vaše rostoucí znalosti zákazníků. [Přečtěte si další informace o rozšířených specializacích.](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="check-your-status-as-you-attain-a-competency"></a>Kontrola stavu při dosažení kompetence
 
@@ -44,14 +44,14 @@ Požadavky a výsledky, které vaše společnost dosáhla, můžete zobrazit v o
 
 ## <a name="competency-areas"></a>Oblasti kompetencí
 
-Abyste získali kompetence členství ve zlatém nebo zlatém členství, jste požádáni o předvedení odborných znalostí v různých oblastech podnikání a technologií.
+Abyste získali kompetence členství ve zlatém nebo zlatém členství, jste požádáni, abyste předvedli odborné znalosti v různých oblastech podnikání a technologií.
 
-|**Plošný**            |**Kompetencí**                    |
+|**Plošný**            |**Kompetence**                    |
 |--------------------|--------------------------------|
 |Aplikace a infrastruktura| – Vývoj aplikací<br/> – Integrace aplikací<br/> – Cloudová platforma<br/> – DevOps<br/> – Datacenter |
-|Podnikové aplikace | -Cloud Business Applications</br> – Podnikové plánování prostředků (ERP)</br> – Projekt a portfolio |
-|Data a AI| – Analýza dat<br/> – Datová platforma |
-|Moderní pracoviště a zabezpečení | – Spolupráce a obsah<br/> -Komunikace<br/> – Produktivita cloudu<br/> – Enterprise Mobility Management (EMM)<br/> – Zasílání zpráv<br/> – Zabezpečení<br/> – Malá a Midmarket cloudová řešení<br/> – Windows a zařízení |
+|Podnikové aplikace | – Cloudové Business Applications</br> – Plánování podnikových zdrojů (ERP)</br> – Projekt a portfolio |
+|Data a AI| – Data Analytics<br/> – Datová platforma |
+|Moderní pracoviště a zabezpečení | – Spolupráce a obsah<br/> – Komunikace<br/> – Produktivita cloudu<br/> – Enterprise Mobility Management (EMM)<br/> – Zasílání zpráv<br/> – Zabezpečení<br/> – Malá a střední cloudová řešení<br/> – Windows a zařízení |
 
 Úrovně silver a gold competency mají pro každou z oblastí různé požadavky. V každé oblasti jsou třídy a zkoušky, které mohou zaměstnanci ve vaší společnosti udělat, aby dosáhli požadované úrovně kompetence. 
 
@@ -61,14 +61,14 @@ Další informace o tom, co je potřeba k dosažení silver a gold competencies,
 
 - Přečtěte si další [informace o požadavcích na dosažení silver a gold competencies](https://partner.microsoft.com/membership/competencies).
 
-- Naučte se dále předvést své znalosti spárování zlaté kompetence s jednou nebo více [pokročilými specializacemi.](advanced-specializations.md)
+- Zjistěte, jak své znalosti ještě více předvést spárování zlaté kompetence s jednou nebo více [pokročilými specializacemi.](advanced-specializations.md)
 
 - Seznamte se [s konkrétními prostředky pro trh, které](mpn-learn-about-go-to-market-benefits.md) jsou součástí kompetencí.
 
 - Seznamte [se s fakturami a daněmi za kompetence.](mpn-view-print-maps-invoice.md)
 
-- Zjistěte, [jak zaplatit poplatek spojený](mpn-pay-fee-silver-gold-competency.md) s členstvím v silver nebo gold competency.
+- Zjistěte, [jak zaplatit poplatek spojený](mpn-pay-fee-silver-gold-competency.md) s členstvím v kompetenci Silver nebo Gold Competency.
 
 - Zobrazte sestavu Partnerské centrum Přehledy [kompetencí,](pci-competencies-report.md) která zobrazuje aktuální stav vašich kompetencí.
 
-- Získejte odpovědi [na nejčastější dotazy týkající](competencies-faq.md) se kompetencí.
+- Získejte odpovědi [na nejčastější dotazy týkající](competencies-faq.yml) se kompetencí.
