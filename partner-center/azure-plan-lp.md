@@ -9,14 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: de0f13bab73eebde3c1cf12db586d07c47b277f6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 74595843e4aaf2fe0e92fb92d417343dd7e4b81d
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149617"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013297"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Úvod: plán Azure umožňuje partnerům koupit Azure na základě průběžných plateb pro zákazníky.
+
+**Platí pro**: partnerské Centrum
 
 **Příslušné role**: Agent správce | Prodejní agent | Globální správce
 
@@ -37,12 +39,12 @@ Převeďte zákazníky ze svých stávajících poskytovatelů CSP Azure do slu�
 |**K tomu**   |**Přečtěte si:**   |
 |------------------|---------------------|
 |Začít přesun do plánu Azure|[Přejít na Azure Plan – Začínáme](azure-plan-get-started.md)
-|Převod zákazníků z payg na plán Azure|[Převod zákazníků na plán Azure](azure-plan-transition.md)|
-|Nákup plánu Azure pro vaše zákazníky|[Nákup plánu Azure](purchase-azure-plan.md)|
-|Fakturační partneři, kteří poskytují správu 24 × 7 cloudových operací, stávají nárokem na kredit získaný partnerem za služby **spravované** pro účely této práce.|[Kredit získaný partnerem – přehled](partner-earned-credit.md) a způsob, jakým se určuje kredit [získaný partnerem – podrobnosti](partner-earned-credit-explanation.md)|
-|Zobrazení porovnání typů nabídek Azure vedle sebe|[Porovnání nabídek Azure](compare-azure-offers.md)|
+|Přechod zákazníků z PAYG do plánu Azure|[Převod zákazníků na plán Azure](azure-plan-transition.md)|
+|Zakupte si plán Azure pro vaše zákazníky.|[Nákup plánu Azure](purchase-azure-plan.md)|
+|Fakturační partneři, kteří poskytují 24 X 7 cloudových operací, budou mít nárok na **kredit získaný pro partnery pro služby** , které jsou pro tuto práci spravované.|[Získaný kredit partnerů – přehled](partner-earned-credit.md) a [způsob, jakým je stanovený kredit pro partnery – podrobnosti](partner-earned-credit-explanation.md)|
+|Zobrazit souběžné porovnání typů nabídek Azure|[Porovnání nabídek Azure](compare-azure-offers.md)|
 |Správa předplatných a prostředků zákazníků v rámci plánu Azure|[Správa předplatných a prostředků v rámci plánu Azure](azure-plan-manage.md)|
-|Přečtěte si, jak si přečíst ceník plánu Azure.   |[Vysvětlení ceníku plánu Azure](azure-plan-price-list.md)|
-|Kde je plán Azure k dispozici?|[Úplný seznam zemí/oblastí, ve kterých je plán Azure k dispozici](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
-|Pokud se chcete podívat, jak se kredit získaný partnerem vypočítá, musíte se přihlásit ke svému ceníku Partnerské centrum řídicího panelu.|[Partnerské centrum řídicí panel](https://partner.microsoft.com/dashboard/home)|
+|Přečtěte si, jak si přečíst Ceník plánu Azure   |[Vysvětlení ceníku plánu Azure](azure-plan-price-list.md)|
+|Kde je plán Azure dostupný?|[Úplný seznam zemí nebo oblastí, ve kterých je plán Azure k dispozici](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
+|Pokud chcete zjistit, jak se vypočítal partner získaný kredit, musíte se přihlásit k ceníku řídicího panelu partnerského centra.|[Řídicí panel partnerského centra](https://partner.microsoft.com/dashboard/home)|
 |Fakturace v rámci plánu Azure|[Fakturace Azure](azure-plan-billing.md)|

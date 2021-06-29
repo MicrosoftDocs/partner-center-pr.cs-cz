@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276854"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013314"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Další informace o výnosech předplatného získáte pomocí analýzy.
 
@@ -33,7 +33,7 @@ Plánování způsobů rozvoje podnikání v programu CSP zahrnuje porozumění 
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Příjem na konci Twelve-Month (TTM) CSP
 
-Koncový výnos CSP na 12 měsíců představuje koncové výnosy programu poskytovatele Cloud Solution Provider v USD na úrovni globální účet partnera. Data se aktualizují na osmá v každém měsíci, aby se zobrazila koncová výnosy na 12 měsíců až do předchozího měsíce. Například na 9. září 2020 byste měli být schopni zobrazit TTM pro pevné období od září 2019 do srpna 2020.
+Koncový výnos CSP na 12 měsíců představuje koncové výnosy programu poskytovatele Cloud Solution Provider v USD na úrovni globální účet partnera. Data se aktualizují na osmá v každém měsíci, aby se zobrazila koncová výnosy na 12 měsíců až do předchozího měsíce. Například na 9. září 2020 byste měli být schopni zobrazit TTM pro pevné období od září 2019 do srpna 2020. Odběry softwaru jsou vyloučené. TTM výnosy odrážejí jenom potenciální výnosy, pro které se faktury už vyplácejí. 
 
 Výnosy zobrazené na partnerském centru se vypočítají za pevný časový interval 12 měsíců a nelze je upravit na kratší časový rámec.
 

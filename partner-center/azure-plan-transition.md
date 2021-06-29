@@ -9,20 +9,22 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 37b77e434d20a2efe4a298f773f0356bbb958ac2
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 770df3cff40b8cc51eab16fb95d0bd43967a5a69
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149583"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013263"
 ---
-# <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Převod zákazníků na plán Azure ze stávajících nabídek Azure CSP
+# <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Přechod zákazníků na plán Azure ze stávajících nabídek Azure CSP
+
+**Platí pro:** Partnerské centrum 
 
 **Odpovídající role:** Agent pro správu | Správce fakturace | Globální správce | Agent helpdesku | Sales agent | Správce správy uživatelů
 
 Tento článek vysvětluje, jak zprostředkovatelé CSP Partnerské centrum k přesunu zákazníků z existujících nabídek Azure CSP do služeb Azure v rámci plánu Azure. Nepřímí poskytovatelé a partneři s přímým vyúčtováním mohou přejít na nové komerční prostředí dostupné v programu Microsoft Cloud Service Provider Program (CSP) pro Azure. (Nepřímí prodejci budou muset pracovat se svými nepřímými poskytovateli.) Zákazníci budou mít zjednodušený způsob nákupu cloudových služeb, ať už nákup od partnerů, prodejců Microsoftu nebo přímo na webu.
 
-Přechod je pouze pro zákazníky, kteří přechádují na nové obchodní prostředí Pro Azure a kteří podepsali Smlouva se zákazníkem Microsoftu. Není pro jiné nabídky v CSP, jako je Office 365 nebo Dynamics 365.
+Možnost přechodu je pouze pro zákazníky, kteří přechádují na nové obchodní prostředí Pro Azure a kteří podepsali Smlouva se zákazníkem Microsoftu. Není pro jiné nabídky v CSP, jako je Office 365 nebo Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Převod stávajících nabídek CSP na plán Azure
 
@@ -38,39 +40,39 @@ V novém komerčním prostředí v programu CSP můžete zákazníka přecházet
 
 3. Vyberte **Pokračovat**.
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Dialogové okno s názvem Přechod na plán Azure s důsledky pro přečtení informací o přechodu a dvou možnostech, které je třeba vybrat: Pokračovat nebo Zrušit.":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Dialogové okno s názvem Přechod do plánu Azure s důsledky pro přečtení informací o přechodu a dvou možnostech, které je třeba vybrat: Pokračovat nebo Zrušit.":::
 
-   Váš zákazník se převede na plán Azure.
+   Váš zákazník bude přeován na plán Azure.
 
-   **Pracovní postup přechodu automatizuje požadavky na tyto kroky**:
+   **Pracovní postup přechodu automatizuje** požadované kroky:
 
    - Nákup plánů Azure
-   - Jeden plán na zákazníka ve scénářích přímého CSP  
+   - Jeden plán na zákazníka ve scénářích s přímým CSP  
    - Jeden plán na prodejce  
 
-   Například partneři koupili dvě Microsoft Azure nabídky a zahrnuli do nákupu dvě jedinečné POR. V takovém případě bude pracovní postup přechodu nakoupit dva plány Azure (jeden na prodejce) a automaticky namapovat příslušné předplatné Azure v rámci plánů Azure.  
+   Partner například zakoupil dvě nové Microsoft Azure a do nákupu zahrnul dvě odlišné por. V takovém případě pracovní postup přechodu zakoupí dva plány Azure (jeden na prodejce) a automaticky namapuje příslušná předplatná Azure v rámci plánů Azure.  
 
    **Mapování předplatného Azure na plán Azure**
 
-   Po zakoupení plánů Azure provede náš systém mapování stávajících předplatných Azure na plány Azure. Průběh můžete zobrazit v Azure Portal i v partnerském centru.
+   Po zakoupení plánů Azure bude náš systém mapovat stávající předplatná Azure na plány Azure. Průběh můžete zobrazit v Azure Portal i v Partnerském centru.
 
-4. Vraťte se na stránku **předplatná** partnerského centra zákazníka a aktualizujte svůj limit rozpočtu pomocí místní měny.
+4. Vraťte se na stránku Partnerské centrum **předplatných** zákazníka a aktualizujte limit rozpočtu pomocí místní měny.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Částečné zobrazení stránky předplatná partnerského centra s limity rozpočtu nastavenými v místní měně pro fakturační období":::
-
-   >[!NOTE]
-   >Rozpočet, který jste nastavili v partnerském centru, se nepřenese do Azure Portal. Měli byste také nastavit rozpočet a výstrahu v Azure Portal.
-
-   Když přejdete na plán Azure, nebudete už moct koupit předplatné Azure pro tohoto zákazníka. Předplatná můžete vytvořit v rámci plánu Azure v Azure Portal.
+   :::image type="content" source="images/azure/transition3.png" alt-text="Částečné zobrazení stránky Partnerské centrum s limity rozpočtu nastavenými v místní měně pro fakturační období.":::
 
    >[!NOTE]
-   > Všechna předplatná Azure zakoupená prostřednictvím služby RBAC v rámci plánu Azure se účtují a účtují v místní měně. Sazby za FX nebudou použity.
+   >Rozpočet, který jste nastavili Partnerské centrum, se do tohoto Azure Portal. Měli byste také nastavit rozpočet a upozornění v Azure Portal.
 
-### <a name="track-your-transition-details"></a>Sledovat podrobnosti přechodu
+   Po přechodu na plán Azure už pro tohoto zákazníka nemůžete kupovat předplatná Azure. Předplatná vytvoříte v rámci plánu Azure v Azure Portal.
 
-Sledujte průběh přechodu v Azure Portal i v partnerském centru.
+   >[!NOTE]
+   > Všechna předplatná Azure zakoupená prostřednictvím RBAC v rámci plánu Azure se budou účtovat v místní měně. Nebudou se používat sazby FX.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Snímek obrazovky zobrazující tabulku se seznamem podrobností o přechodu na předplatné – zahrnuje ID předplatného, datum přechodu a stav přechodu":::
+### <a name="track-your-transition-details"></a>Sledování podrobností o přechodu
+
+Průběh přechodu můžete sledovat Azure Portal i v Partnerské centrum.
+
+:::image type="content" source="images/azure/details1.png" alt-text="Snímek obrazovky zobrazující tabulku se seznamem podrobností o přechodu na předplatné – zahrnuje ID předplatného, datum přechodu a stav převodu":::
 
 ### <a name="billing-impact-to-partners"></a>Dopad fakturace na partnery
 
