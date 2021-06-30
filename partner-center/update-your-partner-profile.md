@@ -9,18 +9,21 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 49f5e30df241c8a29c3282c1958b39ebd9add36e
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 9f9a055ce3bfbff568287267b74b04e8f9d03ad1
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431745"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080618"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Ověření nebo aktualizace informací o profilu společnosti 
 
 **Příslušné role**: globální správce | Správce účtu MPN
 
 Při prvním přihlášení do partnerského centra jako globální správce byste měli potvrdit, že jsou všechny podrobnosti o vaší společnosti správné. Mezi ně patří primární kontakt, právní jméno a adresa firmy a informace o programu. Pokud má vaše společnost více než jedno umístění, zkontrolujte přesnost dat o poloze. Jako globální správce, správce fakturace nebo Agent správce budete moci zobrazit a aktualizovat fakturační a daňové údaje.
+
+> [!NOTE]
+> Fakturační adresu můžete aktualizovat pouze v případě, že jste globálním správcem.
 
 Váš partnerský profil se skládá z vašich obchodních informací, primárního kontaktního jména a e-mailu, programů, ve kterých se vaše společnost účastní, a v případě potřeby i dalších společností, které jsou teď sloučené do vaší právní firmy. Ujistěte se, že název a adresa společnosti ve vašem oficiálním obchodním profilu neobsahují pravopisné chyby a zkratky a přesně odpovídají vašim formálním záznamům o registraci společnosti. Pokud pracujete jako jediný vlastník, musíte jako svůj právní název použít název vaší společnosti.
 
@@ -88,18 +91,18 @@ Aktualizace ID MPN přidruženého k vašemu účtu CSP:
 
 ## <a name="update-your-csp-legal-billing-address"></a>Aktualizujte si platnou fakturační adresu CSP.
 
-Pokud jste globálním správcem, správcem fakturace nebo agentem pro správu, můžete adresu, která se zobrazí na vaší faktuře, změnit ve vydaných **a daňových profilech**. Kvůli omezení fakturačního systému však nemůžete změnit název společnosti na faktuře.
+Pokud jste globální správce, můžete změnit adresu, která se zobrazí na vaší faktuře, ve vašem **výběrovém a daňovém profilu**. V současné době nemůžete změnit název společnosti na faktuře z důvodu omezení se systémem faktury.
 
 :::image type="content" source="images/billing-profile.png" alt-text="Snímek obrazovky oblasti, kde jsou přidány informace o fakturaci.":::
 
 |**Pole**  |**Popis**|  
 |---------------------|:------------------|
-|Název vyúčtování společnosti|Název společnosti, který se zobrazí v informacích o Bill-To na faktuře CSP.  V partnerském centru to není editovatelné.  Pokud chcete aktualizovat, vytvořte lístek podpory.|
+|Název vyúčtování společnosti|Název společnosti, který se zobrazí v informacích o Bill-To na faktuře CSP.  Tyto informace nelze upravovat v partnerském centru.  Pokud chcete aktualizovat, vytvořte lístek podpory.|
 |Adresa pro fakturaci|Adresa pro fakturaci uvedená na faktuře CSP. Dá se aktualizovat z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Kontakt pro fakturaci|Podrobnosti o fakturačním kontaktu (křestní jméno, příjmení, primární číslo) pro účet CSP.  Dá se aktualizovat z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Číslo nákupní objednávky|Číslo nákupní objednávky zobrazené na faktuře partnera. Dá se aktualizovat z [fakturačního profilu](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Daňové ID společnosti|Firmy v některých zemích můžou poskytovat [daň za daň z přidané hodnoty (DPH) nebo místní ekvivalent](./organization-tax-info.md). Pokud chcete své DIČ aktualizovat, musíte být globálním správcem, správcem fakturace nebo agentem správce.|
-|Fakturační měna|Fakturační měna pro váš účet CSP se stanoví v poli právnická země účtu CSP.  Po vytvoření účtu CSP ho nelze změnit.|
+|Fakturační měna|Fakturační měna pro váš účet CSP se stanoví v poli právnická země účtu CSP.  Po vytvoření účtu CSP nelze tyto informace změnit.|
 
 ## <a name="next-steps"></a>Další kroky
 
