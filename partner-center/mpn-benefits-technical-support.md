@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 0052f4dd352789245eadf157823119cd5f05f2a8
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
+ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373295"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113105035"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Technická podpora místních nebo cloudových produktů
 
@@ -52,7 +52,7 @@ Jak zobrazit nebo aktivovat technické výhody v partnerském centru:
    > [!NOTE]
    > Pokud je váš účet přidružený jenom k CSP a není přidružený k programu MPN, zobrazí se chybová zpráva "nemáte oprávnění k provedení této akce". Musíte mít přidružený účet MPN.
 
-2. V navigační nabídce vlevo rozbalte **výhody** a vyberte **technické výhody**. Na stránce technické výhody se budou zobrazovat vaše organizace: aktivní Gold, stříbrná nebo sady Microsoft Action Pack pro členství v nabídce.
+2. V navigační nabídce vlevo rozbalte **výhody** a vyberte [**technické výhody**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical). Na stránce technické výhody se budou zobrazovat vaše organizace: aktivní Gold, stříbrná nebo sady Microsoft Action Pack pro členství v nabídce.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Technické výhody pak rozšiřují výhody." :::
 
@@ -123,36 +123,36 @@ Při prvním použití výhody pro Azure, Dynamics 365 a další cloudové produ
 
 Partneři CSP vytvářející požadavky Azure můžou používat plán podpory "poskytovatel Cloud Solution Provider" bez přidání smlouvy o podpoře.
 
-Uživatelé s rolí **agenta správce** můžou v navigační nabídce vlevo vybrat možnost [zákazníci](https://partner.microsoft.com/commerce/customers/list) v části CSP, vybrat možnost **Správa služeb** a vybrat **nový požadavek**.  Když vyberete relevantní úlohu, otevře se portál specifický pro úlohy a přidáte kontrakt podpory a vytvoříte žádost.
+Uživatelé s **rolí agenta pro** správu mohou v části CSP v levé navigační nabídce vybrat Zákazníci, vybrat **Správa** služeb a vybrat **Nová žádost.** [](https://partner.microsoft.com/commerce/customers/list)  Když vyberete relevantní úlohu, otevře se portál pro konkrétní úlohy a přidáte smlouvu o podpoře a vytvoříte žádost.
 
-### <a name="azure-portal-error-access-id-is-already-associated-"></a>Chyba Azure Portal: ID přístupu už je přidružené...
+### <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure Portal chyba Přístupové ID je už přidružené...
 
-Když použijete Azure Portal, použijete podporu Signature cloudu, a to tak, že vyberete možnosti podpora a podpora, plány podpory, potom "propojit výhody podpory" a zadáte ID přístupu a ID smlouvy.
+Když použijete Azure Portal, použijete Signature Cloud Support tak, že vyberete Nápověda a podpora, Plány podpory, pak Propojit výhody podpory a zadáte Přístupové ID a ID smlouvy.
 
 > [!NOTE]
-> Pokud máte Microsoft Action Pack, nebudete mít cloudovou podporu, protože nezahrnuje signatury signatur podpory – jenom Podpora produktů Microsoftu (místní)
+> Pokud máte Microsoft Action Pack, nezískal se vám podpora cloudu, protože nezahrnuje Signature Cloud Support – pouze místní podporu produktů Microsoftu.
 
-Může se zobrazit chybová zpráva `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` . Tato chybová zpráva není platná a měla by být ignorována. Požádali jsme, aby byla chyba zakázaná a nahrazena užitečnou chybovou chybovou zprávou.
+Může se zobrazit chybová zpráva `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` . Tato chybová zpráva je neplatná a měla by se ignorovat. Požádali jsme o to, aby byla chyba zakázaná a nahrazena užitečnou diagnostickou chybovou zprávou.
 
-Předchozí chyba se zobrazí, `Access ID is already associated …` Pokud přidružíte smlouvu o podpoře k účtu více než jednou při použití Azure Portal. Podívejte se na následující scénáře:
+Předchozí chyba se zobrazí, pokud přidružíte smlouvu o podpoře k účtu více než jednou při použití `Access ID is already associated …` Azure Portal. Podívejte se na následující scénáře:
 
-1. Pokud máte technické výhody Gold nebo stříbrného a dříve jste přidali smlouvu pro místní podporu, pak použijete Azure Portal a druhý čas do stejného účtu přidáte. Smlouvu o podpoře je potřeba přidružit jenom jednou k účtu, takže v Azure nemusíte připojovat výhody podpory. Pokud používáte výhody podpory odkazů i v případě, že je smlouva již k účtu přidružena, zobrazí se chyba a měla by být ignorována. Použijte + nový Support request a vytvořte incident podpory jako normální a zobrazí se plán podpory.
+1. Pokud máte zlaté nebo zlaté technické výhody a už jste přidali smlouvu o místní podpoře, použijete Azure Portal a přidáte kontrakt znovu ke stejnému účtu. Smlouvu o podpoře je potřeba přidružit k účtu pouze jednou, a proto nepotřebujete propojovat výhody podpory v Azure. Pokud výhody podpory linku použijete v případě, že už je kontrakt přidružený k účtu, zobrazí se chyba, která by se měla ignorovat. Použijte + Nový Support request a vytvořte incident podpory jako obvykle a zobrazí se plán podpory.
 
-2. Pokud vypršela platnost kontraktu podpory, nebo signatura 10-Pack (Gold Hybrid kompetence) nebo signatury 5-Pack (v případě hybridních kompetencí stříbrná), kontrakt podpory bude skrytý, protože je neplatný. Pokud propojíte výhody podpory znovu, zobrazí se chyba, protože kontrakt je již přidružen. Pro získání incidentů podpory Azure si můžete koupit nový plán podpory.
+2. Pokud vypršela platnost smlouvy o podpoře nebo pokud zbývá žádný incident v balíčku Signature 10 (Gold Hybrid Competency) nebo Signature 5-pack (Silver Hybrid Competency), smlouva o podpoře bude skrytá, protože je neplatná. Pokud znovu propojíte výhody podpory, zobrazí se chyba, protože kontrakt už je přidružený. Můžete si koupit nový plán podpory, abyste mohli podpora Azure incidenty.
 
-Nabídky podpory placené pro partnery najdete níže v článku plány podpory partnerů.
+Nabídky placené partnery najdete níže v plánech podpory pro partnery.
 
-## <a name="partner-support-plans"></a>Plány podpory partnerů
+## <a name="partner-support-plans"></a>Plány podpory pro partnery
 
-Můžete získat placenou podporu Microsoftu, která zahrnuje technickou podporu, a řadu dalších možností služby.
+Můžete získat placenou podporu od Microsoftu, která zahrnuje technickou podporu a řadu dalších možností služeb.
 
-Můžete [Porovnat plány podpory partnerů](https://partner.microsoft.com/support/partnersupport) nebo zobrazit následující plány pro konkrétní partnery:
+Můžete porovnat [plány podpory pro partnery](https://partner.microsoft.com/support/partnersupport) nebo se můžete podívat na následující informace týkající se plánů pro partnery:
 
 - [Premier Support pro partnery](https://partner.microsoft.com/support/microsoft-services-premier-support) – nejvyšší úroveň technické podpory od Microsoftu
-- [Rozšířená podpora pro partnery](https://partner.microsoft.com/support/advanced-cloud-support) – jenom pro cloudové produkty
+- [Pokročilá podpora pro partnery](https://partner.microsoft.com/support/advanced-cloud-support) – pouze cloudové produkty
 
 ## <a name="next-steps"></a>Další kroky
 
-- [Správa výhod a nabídek Microsoft Partner Network](manage-your-partner-network-benefits.md)
-- [Aktivace technických přínosů pro členy centra pro členství v Partnerích (PMC)](partner-membership-center-tech-benefits-activate.md)
-- [Služba TPD (Technical insales and Deployment Services)](technical-benefits.md)
+- [Správa výhod Microsoft Partner Network a nabídek](manage-your-partner-network-benefits.md)
+- [Aktivace technických výhod pro členy Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+- [Technické služby předprodeje a nasazení (TPD)](technical-benefits.md)
