@@ -7,17 +7,32 @@ ms.reviewer: dannyevers
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
-ms.date: 06/04/2021
-ms.openlocfilehash: 8dba9f95607a4172e6d5d0bc2ec148a25b599cd1
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/29/2021
+ms.openlocfilehash: a124e4c5bb31a1fbb744bf2c5e1ea65a356bdd54
+ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431454"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "113221436"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Nákup nabídky SaaS v Azure Portal
 
 Tento článek popisuje různé možnosti a požadavky pro hledání, zkoušení a nákup nabídky SaaS (software jako služba) z Azure Portal.
+
+## <a name="create-a-saas-subscription"></a>Vytvoření předplatného SaaS
+
+K zakoupení předplatného SaaS potřebujete uživatelský účet Azure s přístupem k příslušnému předplatnému Azure. Toto předplatné se bude používat k fakturaci i k compartmentalization zakoupených cloudových prostředků. Další informace o předplatných Azure najdete v tématu [vytvoření dalšího předplatného Azure](/azure/cost-management-billing/manage/create-subscription).
+
+V Azure Portal v části **Marketplace** vyberte požadovanou nabídku SaaS.
+
+Předplatné typu software jako služba poskytuje právo používat službu po určitou dobu prostřednictvím online předplatného místo místní instalace na jednotlivé počítače. Předplatné je smlouvou, která používá jednu nebo více cloudových platforem nebo služeb, pro které se účtují poplatky na základě licenčního poplatku za uživatele nebo spotřeby prostředků založených na cloudu. Organizace může mít několik předplatných SaaS.
+
+K předplatným SaaS patří:
+
+- Žádná předplatná studenta.
+- žádné předplatné Visual Studio Enterprise.
+- Žádná bezplatná kreditová předplatná.
+- Pro placené nabídky se vyžaduje platební nástroj.
 
 ## <a name="saas-offers-discovery-in-azure-portal"></a>SaaS nabízí zjišťování v Azure Portal
 
@@ -36,7 +51,7 @@ Filtrované zobrazení zobrazuje všechny dostupné nabídky SaaS reprezentovan�
 
 - Přehled – Podrobnosti o službě, marketingových a studijních materiálech
 - Plány a ceny – Každá nabídka bude zahrnovat aspoň jeden plán s různými fakturačními podmínkami a cenami.
-- Informace o využití a podpora – zahrnuje ID vydavatele, ID nabídky a ID plánu.
+- informace o využití a podpora – zahrnuje id Publisher, id nabídky a id plánu.
 - Hodnocení a přezkoumání konkrétní nabídky SaaS
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>Dostupné modely fakturace (plány/SKU) pro nabídky SaaS
@@ -95,16 +110,16 @@ Chybové zprávy, se kterými se můžete setkat v průběhu procesu:
 - Nákup se nezdařil, protože požadovaný fakturační termín je prázdný nebo neplatný.
   - Zkuste si koupit jiný plán nebo fakturační období.
 
-- Nákup se nezdařil, protože se nám nepovedlo ověřit vaše přihlášení k právní smlouvě.
-  - Opakujte. Pokud s tím budou dál problémy, zkuste si koupit v rámci jiného předplatného Azure nebo kontaktujte podporu.
+- Nákup selhal, protože jsme nemohli ověřit vaše podepisování právní smlouvy.
+  - Opakovat. Pokud chyba přetrvává, zkuste nákup provést pomocí jiného předplatného Azure nebo se obraťte na podporu.
 
-- Nákup nabídky *hodnotami OfferId* vydavatelem *PublisherId* se nezdařil. Tato nabídka není momentálně k dispozici k nákupu.
-  - Zkuste to později. Pokud se tato chybová zpráva zobrazuje po hodinové zprávě, obraťte se prosím na podporu.  
+- Nákup offer *offerID* podle id *vydavatele* selhal. Tato nabídka momentálně není k dispozici pro nákup.
+  - Zkuste to později. Pokud se vám po hodině stále zobrazí tato chybová zpráva, kontaktujte podporu.  
 
-- Nákup plánu *planID* nabídky *hodnotami OfferId* od vydavatele *PublisherId* se nezdařil. Tento plán není v současné době k dispozici k nákupu.
-  - Zkuste to později. Pokud se tato chybová zpráva zobrazuje po hodinové zprávě, obraťte se prosím na podporu. 
+- Nákup *planID nabídky* *offerID* podle id *vydavatele* selhal. Tento plán momentálně není k dispozici pro nákup.
+  - Zkuste to později. Pokud se vám po hodině stále zobrazí tato chybová zpráva, kontaktujte podporu. 
 
-- *E-mailová adresa* klienta s ID objektu *objectID* nemá autorizaci k provedení akce *DeploymentValidationAction* , která se nachází v oboru *zdrojů. DeploymentScope* nebo obor je neplatný.  
+- *E-mailová adresa klienta* s ID objektu *ObjectID* nemá oprávnění k provedení akce *DeploymentValidationAction* v oboru *ResourceGroup. DeploymentScope* nebo obor je neplatný.  
   - Tato zpráva se zobrazí, pokud nemáte příslušná oprávnění k předplatnému nebo skupině prostředků Azure.  
     Pokud byl přístup udělen nedávno, aktualizujte své přihlašovací údaje.  
     Pokud chcete nasadit prostředky do skupiny prostředků, musíte mít alespoň přístup přispěvatele. Zkontrolujte stav přístupu v **části Skupiny prostředků** a pak **Access Control**. To ukazuje, kdo je vlastník, kterého můžete požádat, abyste byli přiřazeni jako Přispěvatel.
