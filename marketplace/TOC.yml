@@ -2,19 +2,25 @@
   href: index.yml
 - name: Microsoft AppSource
   items:
-    - name: Informace o Microsoft AppSource
+    - name: Informace
       href: appsource-overview.md
-    - name: Nákup softwaru na AppSource
+    - name: Nákup softwaru
       href: purchase-software-appsource.md
+    - name: Privátní plány
+      href: appsource-private-plans.md
 - name: Azure Marketplace
   items:
-    - name: Informace o Azure Marketplace
+    - name: Informace
       href: azure-marketplace-overview.md
     - name: Nákup
       href: azure-purchasing-invoicing.md
+    - name: Zakoupení nabídky SaaS v Azure Portal
+      href: purchase-saas-offer-in-azure-portal.md
     - name: Vyúčtování a fakturace
       href: billing-invoicing.md
-    - name: Soukromé nabídky
+    - name: Zvýhodnění závazku využití Azure
+      href: azure-consumption-commitment-benefit.md
+    - name: Privátní plány
       href: private-offers.md
     - name: Způsobilost k převodu předplatného
       href: transfer-eligibility.md
@@ -22,8 +28,8 @@
       href: create-manage-private-azure-marketplace.md
     - name: Správa privátního Azure Marketplace – PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Integrace partnerů na Azure Marketplace
-      href: partner-integrations.md
+    - name: Rozšíření Azure o řešení od partnerů
+      href: /azure/partner-solutions/overview
 - name: Obecné prostředky
   items:
     - name: Zásady pro refundace
@@ -36,5 +42,3 @@
   items:
     - name: Azure PowerShell
       href: /powershell/module/az.marketplace
-    - name: Upřednostňovaná řešení
-      href: preferred-solutions.md
