@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/30/2021
-ms.openlocfilehash: a6f249a83abb7dfb7a1e516864696e1bfcc6a853
-ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
+ms.openlocfilehash: a3d7bc5cbcd8809fd1682265891a617966e6e953
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "113221453"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297648"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,36 +22,37 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z července 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
-|Možnosti|[Zobrazit spuštění produktu a nabídky z tohoto měsíce](2021-july.md#2)|1\. července|
+|Možnosti|[Windows 7 rozšířených aktualizací zabezpečení (ESU) 2. roku (2021)](2021-july.md#3)|2. července |
+|Možnosti|[Zobrazení nabídek a uvedení produktů pro tento měsíc na trh](2021-july.md#2)|1\. července|
 |Možnosti|[Dynamics 365 Migrace do cloudu povýšení a vyřazení zlevněných nabídek](2021-july.md#1)|1\. července|
 |**Kategorie**|**Oznámení z června 2021**|**Datum oznámení**|
-|Možnosti|[Aktualizace fáze 2: EU/ESVO a Velká Británie – změna v zúčtovací měně pro nové nabídky obchodu](2021-june.md#9)|24. června|
-|Možnosti|[Zobrazit nejnovější propagační akce a nabídky](2021-june.md#8)|22. června|
-|Možnosti|[fáze 1: změny dostupnosti nabídky Azure v Cloud Solution Provider (CSP) týkající se nového prostředí pro obchod připravujeme](2021-june.md#7)|21. června|
-|Rozšiřte svou firmu|[aktualizace a připomenutí komunity z června Cloud Solution Provider (CSP)](2021-june.md#6)|11. června|
-|Nabídky a trhy|[Cloud Solution Provider (CSP) propagační rozšíření pro Microsoft 365 Audio Conferencing a Microsoft 365 Business Voice](2021-june.md#5)|11. června|
-|Možnosti|[Seznam ceníků trvalého softwaru byl opraven a znovu publikován.](2021-june.md#4)|4. června|
-|Možnosti|[Opravy ceníku pro služby založené na licencích z července Preview](2021-june.md#3)|4. června|
-|Možnosti|[Další sloupce pro rozsáhlejší informace v sestavách využití Azure](2021-june.md#2)|2\. červen|
-|Možnosti|[Zobrazit spuštění produktu a nabídky z tohoto měsíce](2021-june.md#1)|1\. červen|
-|**Kategorie**|**Květen 2021 oznámení**|**Datum oznámení**|
-|Možnosti|[Podpora izolovaného modelu (sandbox) pro nepřímý model umožňující koncové testování rozhraní API](2021-may.md#15)|25. května|
-|Funkce, vylepšuje zabezpečení & dodržování předpisů |[Aktualizace služby Online Services (OLS) a Průvodce autorizací softwarového kanálu](2021-may.md#14)|25. května|
-|Možnosti|[Aktualizace pro provádění transakcí trvalého softwaru v CSP a změny Open License programu](2021-may.md#13)|May 17|
-|Možnosti|[Fáze 2 se brzy dopravuje: EU/ESVO a Velká Británie v zúčtovací měně pro nové nabídky obchodu](2021-may.md#12)|May 17|
-|Možnosti|[vyřazení průvodce Microsoft 365 Business Voice Začínáme (GSW)](2021-may.md#11)|Květen 14|
-|Možnosti|[může Cloud Solution Provider (CSP) aktualizace a připomenutí komunity.](2021-may.md#10)|13. května|
-|Možnosti|[Analýzy pro spoluprodejní obchody v rámci partnerů](2021-may.md#9)|10. května|
-|Možnosti|[Hostování a SPLA prodejců pro prodejce, které jsou prodloužené do 30. září 2021](2021-may.md#8)|7\. května|
-|Možnosti|[V partnerském centru jsou k dispozici výchozí funkce profilu banky pro motivační zápis.](2021-may.md#7)|7\. května|
-|Možnosti|[Aktualizace: spuštění produktu Scheduler bylo zpožděno.](2021-may.md#6)|5. května|
-|Možnosti|[Software CSP trvalá už brzy k Číně](2021-may.md#5)|5. května|
-|Možnosti|[Konečné připomenutí: vyřazení získání kvalifikace z května 6, 2021](2021-may.md#4)|4. května|
-|Nabídky/trhy|[Opravy pro ceník 1. května 2021 služby na základě licencí](2021-may.md#3)|4. května|
-|Možnosti|[Oznámení kvalifikace vlastněné přístavy](2021-may.md#2)|4. května|
-| Nabídky/Business Applications|[Zobrazit spuštění produktu a nabídky z tohoto měsíce](2021-may.md#1)|3. května, aktualizace – 7. května|
+|Možnosti|[Aktualizace fáze 2: Změna měny fakturace partnerů pro nové obchodní nabídky v eu/EFTA a Spojeném království](2021-june.md#9)|24. června|
+|Možnosti|[Zobrazení nejnovějších propagačních akcí a nabídek](2021-june.md#8)|22. června|
+|Možnosti|[Fáze 1: Změny dostupnosti nabídek Azure v Cloud Solution Provider (CSP) související s novým komerčním prostředím](2021-june.md#7)|21. června|
+|Rozšiřte svou firmu|[Aktualizace a připomenutí z června Cloud Solution Provider (CSP)](2021-june.md#6)|11. června|
+|Nabídky a trhy|[Cloud Solution Provider propagační rozšíření CSP (Microsoft 365 audiokonference a Microsoft 365 Business Voice](2021-june.md#5)|11. června|
+|Možnosti|[Oprava a opětovné publikování ceníku časově neomezeného softwaru](2021-june.md#4)|4. června|
+|Možnosti|[Opravy verze Preview ceníku služeb založených na licencích](2021-june.md#3)|4. června|
+|Možnosti|[Další sloupce pro bohatší informace v sestavách využití Azure](2021-june.md#2)|2\. červen|
+|Možnosti|[Zobrazení nabídek a uvedení produktů pro tento měsíc na trh](2021-june.md#1)|1\. červen|
+|**Kategorie**|**Oznámení z května 2021**|**Datum oznámení**|
+|Možnosti|[Podpora nepřímého modelu v sandboxu pro povolení testování rozhraní API od konce](2021-may.md#15)|25. května|
+|Možnosti, vylepšuje dodržování předpisů zabezpečení & zabezpečení |[Aktualizace online služeb (OLS) a průvodce autorizací softwarového kanálu z června](2021-may.md#14)|25. května|
+|Možnosti|[Aktualizace časově neomezeného softwaru v PROGRAMU CSP a změny Open License programu](2021-may.md#13)|May 17|
+|Možnosti|[Fáze 2 již brzy: Změna měny pro fakturaci partnerů v rámci EU/EFTA a Spojeného království pro nové obchodní nabídky](2021-may.md#12)|May 17|
+|Možnosti|[Vyzení průvodce Microsoft 365 Business Voice Začínáme (GSW)](2021-may.md#11)|14. května|
+|Možnosti|[Aktualizace Cloud Solution Provider (CSP) a připomenutí](2021-may.md#10)|13. května|
+|Možnosti|[Analýzy pro dohody o spoluprodátech vedené partnery](2021-may.md#9)|10. května|
+|Možnosti|[Hostování a programy SPLA Reseller Incentives pro prodloužení do 30. září 2021](2021-may.md#8)|7\. května|
+|Možnosti|[Výchozí funkce bankovního profilu je dostupná v Partnerské centrum pro registraci v programu Incentives.](2021-may.md#7)|7\. května|
+|Možnosti|[Aktualizace: Spuštění produktu Scheduler bylo zpožděno](2021-may.md#6)|5. května|
+|Možnosti|[Časově neomezené software CSP se už brzy do Číny vrací](2021-may.md#5)|5. května|
+|Možnosti|[Závěrečné připomenutí: Vyněcování kvalifikace GET 6. května 2021](2021-may.md#4)|4. května|
+|Nabídky/trhy|[Oprava ceníku licenčních služeb k 1. květnu 2021](2021-may.md#3)|4. května|
+|Možnosti|[Oznámení kvalifikace vlastněné státem](2021-may.md#2)|4. května|
+| Nabídky/Business Applications|[Zobrazení nabídek a uvedení produktů pro tento měsíc na trh](2021-may.md#1)|3. května, aktualizováno 7. května|
 |**Kategorie**|**Oznámení z dubna 2021**|**Datum oznámení**|
-|Připravenost|[Aktualizované rozhraní API pro ověření adresy zákazníka zprostředkovatele CSP v červnu; možnost testování je teď dostupná.](2021-april.md#10)|30. dubna|
+|Připravenost|[Aktualizované rozhraní API pro ověřování adres zákazníků CSP bude živě k červnu. funkce testování je nyní k dispozici](2021-april.md#10)|30. dubna|
 |Možnosti|[Nová poloha pro dokumentaci k rozhraní API partnerského centra pro Swagger](2021-april.md#9)|26. dubna|
 |Možnosti|[zásada pro vracení softwaru Cloud Solution Provider (CSP) a oznámení o vypršení platnosti odkazu ke stažení](2021-april.md#8)|21. dubna|
 |Rozšiřte svou firmu|[otevřený licenční program: přechod prodejců do programu Cloud Solution Provider (CSP)](2021-april.md#7)|19. dubna|
@@ -85,9 +86,9 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 |Možnosti|[Sdílení obchodů ve společném prodeji pomocí funkce hromadné operace v partnerském centru](2021-february.md#13)|25. února|
 |Možnosti|[migrujte své obchody z části Partner Sales Připojení (PSC) pomocí nové funkce pro migraci do služby rozdat.](2021-february.md#12)|25. února|
 |Možnosti|[Zvýšená flexibilita s využitím spoluprodejních obchodů v rámci partnerů](2021-february.md#11)|25. února|
-|Možnosti|[změny v registraci zákazníka Cloud Solution Provider (CSP)](2021-february.md#10)|25. února|
+|Možnosti|[Změny v onboardingu Cloud Solution Provider (CSP) zákazníků](2021-february.md#10)|25. února|
 |Možnosti|[Nyní živě: Migrace DocuSign na Adobe Sign pro partnery v rámci Smluv s partnerem Microsoftu (MPA)](2021-february.md#9)|16. února|
-|Rozšiřte svou firmu|[Připomenutí: Představujeme omezování rozhraní API pro partnery, kteří volají rozhraní API Partnerského centra](2021-february.md#8)|16. února|
+|Rozšiřte své podnikání|[Připomenutí: Představujeme omezování rozhraní API pro partnery, kteří volají rozhraní API Partnerského centra](2021-february.md#8)|16. února|
 |Možnosti|[Představení témat Microsoft Viva](2021-february.md#7)|12. února|
 |Nabídky/trhy|[Microsoft 365 E3 cen pro březen 2021](2021-february.md#6)|11. února|
 |Nabídky/trhy|[Aktualizace ceníku na základě licencí ve verzi Preview pro norštinu](2021-february.md#5)|10. února|

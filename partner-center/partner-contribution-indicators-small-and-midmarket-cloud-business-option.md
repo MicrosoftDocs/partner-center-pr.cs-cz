@@ -1,307 +1,307 @@
 ---
-title: Indikátory příspěvků pro partnery – SMMCS
+title: Ukazatele příspěvku partnera – SMMCS
 ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Přečtěte si o ukazatelích příspěvků partnerů (PCI), které musí partneři splnit, aby mohli dosáhnout kompetence Cloudová řešení pro malé a střední podniky.
+description: Přečtěte si informace o tom, že partneři pro partnery z partnerských příspěvků (PCI) musí splnit, než budou moct dosáhnout Midmarket cloudových řešení a jejich kompetenci.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6fdc5687379d7bca08802f2301fdb8587f38da20
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 44a5d2a6b845168cf73dbabfea05c218e9357091
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277636"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297631"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Použití indikátorů podílu partnerů k dosažení kompetence pro cloudová řešení pro malé a střední trhy
 
-**Odpovídající role:** Globální správce | Správce partnera MPN | Správce účtu
+**Příslušné role**: globální správce | Správce partnerského programu MPN | Správce účtu
 
-Tento článek popisuje šest klíčových indikátorů příspěvku partnera (PCI), které se používají k vyhodnocení pokroku partnera k dosažení nebo zachování kompetence Cloudová řešení pro malé nebo zlaté a střední tržnice prostřednictvím možnosti SMB cloudových Business Applications společnosti.
+tento článek popisuje šest klíčových ukazatelů pro přispěvatele partnerů (PCI), které se používají k vyhodnocení pokroku partnera směrem k získání nebo udržení stříbrného a Midmarketho cloudového řešení v rámci cloudu Business Applications možnosti protokolu SMB.
 
 > [!NOTE]
-> Zjistěte, jak partneři používají k dosažení kompetence Silver nebo Gold Cloud jinou sadu metrik indikátoru příspěvků Business Applications partnerů. Další informace najdete v tématu [Použití indikátorů příspěvků partnerů pro cloudovou Business Applications kompetence.](partner-contribution-indicators.md) Můžete si také [přečíst další](https://partner.microsoft.com/membership/competencies) informace o různých dostupných kompetencí a jejich požadavcích.
+> přečtěte si, jak partneři používají jinou sadu metrik ukazatelů na partnerských partnerů k dosažení Business Applications kompetenci pro stříbro nebo Gold Cloud. další informace najdete v tématu [použití indikátorů příspěvků partnerů pro Cloud Business Applications kompetenci](partner-contribution-indicators.md). Můžete si také [přečíst další](https://partner.microsoft.com/membership/competencies) informace o různých dostupných kompetencích a jejich požadavcích.
 
 Tento článek obsahuje informace o:
 
-- [Způsob hodnocení jednotlivých indikátorů PCI](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
+- [Určení skóre každého indikátoru PCI](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
 
-- [Prahové hodnoty pro jednotlivé indikátory PCI](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#thresholds-for-each-pci-metric-for-this-competency)
+- [Prahové hodnoty pro každý indikátor PCI](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#thresholds-for-each-pci-metric-for-this-competency)
 
-- [Podrobné definice jednotlivých indikátorů PCI](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#detailed-pci-metrics-definitions-for-this-competency)
+- [Podrobné definice indikátoru PCI](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#detailed-pci-metrics-definitions-for-this-competency)
 
-- [Jak získat přístup k této oblasti Partnerské centrum](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#how-to-access-partner-contribution-indicators)
+- [Jak získat přístup k této oblasti partnerského centra](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#how-to-access-partner-contribution-indicators)
 
-## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Přehled indikátorů příspěvků pro partnery pro tuto kompetenci
+## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Přehled ukazatelů příspěvku partnerů pro tuto kompetenci
 
-Indikátory příspěvků partnerů poskytují holistické měření dopadu partnera na řízení úspěšných výsledků zákazníků a tím větší odlišení na trhu, když partner dosáhne nebo si zachová kompetence Cloudová řešení pro malé a střední podniky prostřednictvím možnosti Cloud Business Applications SMB.
+ukazatele příspěvku na partnery poskytují holistický míru dopadu partnera při vyřízení úspěšných výsledků zákazníků, a proto se větší rozlišení na trhu, když partner dosahuje nebo zachovává cloudová řešení s malým a Midmarket prostřednictvím možnosti cloud Business Applications SMB.
 
-Díky PCI dostanou partneři kredit za klíčové míry úspěchu zákazníků, jako jsou úspěšná nasazení a zvýšení využití. Jsou odměňovány za to, že i nadále investují a škálují své technické možnosti.
+S PCI obdrží partneři kredit pro klíčové míry úspěšnosti zákazníků, jako je třeba úspěšná nasazení a zvýšení využití. Neúčtují se pro pokračování v investicích do a horizontálního navýšení kapacity jejich technických schopností.
 
-Když partner dosáhne určitých úrovní dopadu na klíčové ukazatele, může například dosáhnout (nebo zachovat) kompetence Cloudová řešení pro malé a střední podniky prostřednictvím možnosti Cloud Business Applications SMB.
+když partner dosáhne určité úrovně dopadu v klíčových ukazatelích, může například dosáhnout (nebo zachovat) malá a Midmarket cloudová řešení prostřednictvím možnosti cloudové Business Applications protokolu SMB.
 
 > [!NOTE]
-> Další informace o výhodách dosažení kompetencí najdete v tématu Kompetence [partnerů Microsoftu.](https://partner.microsoft.com/membership/competencies)
+> Další informace o výhodách získání kompetencí najdete v tématu [kompetence partnerů Microsoftu](https://partner.microsoft.com/membership/competencies).
 
-## <a name="pci-scoring-based-on-six-key-indicators"></a>Skóre PCI na základě šesti klíčových ukazatelů
+## <a name="pci-scoring-based-on-six-key-indicators"></a>Bodování PCI na základě šesti klíčových ukazatelů
 
-PCI poskytuje sofistikovaný přehled o technických možnostech partnera, jeho schopnosti řídit úspěchy zákazníků a prodejní výkonnost. Aby partneři dosáhli kompetence Cloudová řešení pro malé nebo zlaté a střední trhy prostřednictvím možnosti SMB Cloud Business Applications, PCI měří výkon vaší společnosti v předchozím roce napříč šesti klíčovými ukazateli:
+PCI nabízí sofistikované zobrazení technických možností partnera, jejich schopnost řídit úspěch zákazníků a jejich prodejní výkon. aby mohli partneři získat podporu pro Midmarket cloudových řešení stříbrného a Gold přes cloudové Business Applications možnosti protokolu SMB, měří PCI svůj firemní výkon v průběhu šesti klíčových ukazatelů:
 
-*Ukazatele výkonu:*
+*Indikátory výkonu:*
 
-1. **Čisté nové výnosy:** Čisté nové výnosy napříč všemi prodejními kanály pro konkrétní produkty Microsoftu. (Podrobnosti o této metrikě najdete v tématu [Definice čistých nových výnosů](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue).)
+1. **Čisté nové tržby**: čisté nové tržby napříč všemi prodejními kanály pro konkrétní produkty Microsoftu. (Podrobnosti o této metrikě najdete v tématu [definice pro NET New tržby](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. **Čistý zákazník přidá:** Čisté zákazníky získané pro konkrétní produkty Microsoftu ve všech prodejních kanálech. (Podrobnosti o této metrice najdete v tématu [Definice pro čisté zákazníky přidá](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds).)
+2. **Čistý zákazník přidá**: čisté zákazníky, kteří získali pro konkrétní produkty Microsoftu napříč všemi prodejními kanály. (Podrobnosti o této metrikě najdete v tématu [definice pro NET Customer přidat](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds).)
 
 *Indikátory schopností:*
 
-3. **Konzultanti pro funkce:** Počet jednotlivců, kteří mají aktuálně aktivní Konzultanti funkcí Associate pro Dynamics 365. (Podrobnosti o této metrice najdete v článku [Definice pro konzultanty pro funkce.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
+3. **Funkční konzultanti**: počet jednotlivců držících aktuálně aktivní funkční konzultanta přidružuje certifikaci pro Dynamics 365. (Podrobnosti o této metrikě najdete v tématu [definice pro funkční konzultanty](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants).)
 
-4. **Vývojáři:** Počet jednotlivců, kteří mají aktuálně aktivní certifikaci Developer Associate pro Dynamics 365. (Podrobnosti o této metrice najdete v článku [Definice pro vývojáře](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers).)
+4. **Vývojáři**: počet jednotlivců držících aktuálně aktivní přidružit certifikaci pro vývojáře pro Dynamics 365. (Podrobnosti o této metrikě najdete v tématu [definice pro vývojáře](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers).)
 
-*Indikátory úspěchu zákazníka:*
+*Indikátory úspěšnosti zákazníka:*
 
-5. **Nová nasazení:** Počet produkčních tenantů, které překročily konkrétní prahovou hodnotu využití za posledních 12 měsíců. (Podrobnosti o této metrice najdete v tématu [Definice pro nová nasazení](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments).)
+5. **Nová nasazení**: počet produkčních klientů, které během posledních 12 měsíců překročí určitou prahovou hodnotu využití. (Podrobnosti o této metrikě najdete v tématu [definice nových nasazení](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments).)
 
-6. **Měsíční aktivní růst uživatelů:** Růst měsíčních aktivních uživatelů ve všech vašich zákaznících za posledních 12 měsíců. (Podrobnosti o této metrice najdete v tématu [Definice měsíčního aktivního](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)růstu uživatelů.)
+6. **Měsíční nárůst uživatelů**: růst měsíčně aktivních uživatelů napříč všemi vašimi zákazníky za posledních 12 měsíců. (Podrobnosti o této metrikě najdete v tématu [definice pro měsíční nárůst uživatele](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth).)
 
-### <a name="how-pci-score-impacts-competency-eligibility"></a>Vliv skóre PCI na způsobilost kompetencí
-Body se přidělí každému dosaženému indikátoru, což vede ke skóre PCI s jedním číslem. Je možné 100 maximálních bodů. 
+### <a name="how-pci-score-impacts-competency-eligibility"></a>Jak skóre PCI ovlivňuje způsobilost kompetence
+Body se udělují pro každý ukazatel dosažený v důsledku jednoho čísla PCI. je možné použít maximálně 100 bodů. 
 
-Vaše skóre PCI určuje nárok na kompetence následujícím způsobem:
+Vaše skóre PCI určuje způsobilost kompetence následujícím způsobem:
 
 |Pokud je vaše skóre PCI  | Vy  |
 |:----------------------|:-----------------|
-|1–59 bodů  | **nemají nárok** na silver nebo gold competency |
-|60–79 bodů  | splnění požadavků na silver competency  |
-|80–100 bodů  | splnění požadavků na kompetence Gold Competency
+|body 1-59  | **nemají** nárok na stříbrné nebo Gold Competency |
+|body 60-79  | splnění požadavků na Silver Competency  |
+|body 80-100  | splnění požadavků na Gold Competency
 
-Následující obrázek nabízí stručnou vizuální referenci.
-:::image type="content" source="images/pcinew1.png" alt-text="Zobrazuje skóre PCI pro dosažení kompetence Silver nebo Gold." border="false":::
+Následující obrázek nabízí rychlý a vizuální odkaz.
+:::image type="content" source="images/pcinew1.png" alt-text="Zobrazuje skóre PCI pro dosažení stříbrné nebo zlaté kompetence." border="false":::
 
 ### <a name="maximum-pci-indicator-scores-for-this-competency"></a>Maximální skóre indikátoru PCI pro tuto kompetenci
 
-Každý indikátor přináší skóre, které se přidá k součtu. Tady jsou maximální skóre, která můžete získat pro jednotlivé indikátory, abyste dosáhli kompetencí Silver nebo Gold Small a Midmarket Cloud Solutions prostřednictvím možnosti Cloud Business Applications SMB:
+Každý indikátor přináší skóre, které je přidáno k celkovému součtu. tady je maximální počet výsledků, které můžete pro každý indikátor získat, abyste mohli dosáhnout Midmarket cloudových řešení stříbrného a zlata v rámci cloudu Business Applications možnosti protokolu SMB:
 
-|Pro tento indikátor | Vaše maximální skóre pro tuto kompetenci je  |
+|Pro tento indikátor | Vaše maximální skóre této kompetence je  |
 |:------------|:--------------:|
-|Výkon – čisté nové výnosy  | 10 bodů  |
-|Výkon – čistý zákazník přidá  | 10 bodů  |
-|Capability – konzultanti pro funkce  | 30 bodů  |
+|Výkon – nový čistý výnos  | 10 bodů  |
+|Výkon – NET Customer – přidání  | 10 bodů  |
+|Funkce – funkční konzultant  | 30 bodů  |
 |Schopnosti – vývojáři  | 5 bodů |
-|Úspěch zákazníka – nová nasazení  | 20 bodů  |
-|Úspěch zákazníka – měsíční aktivní růst uživatelů  | 25 bodů |
+|Úspěšnost zákazníků – nová nasazení  | 20 bodů  |
+|Úspěch zákazníka – měsíční nárůst aktivních uživatelů  | 25 bodů |
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Prahové hodnoty pro každou metriku PCI pro tuto kompetenci
 
-Každá metrika PCI má nastavené prahové hodnoty Microsoftu, které mohou získat maximální body vaší společnosti k dosažení kompetence Cloudová řešení pro malé nebo zlaté a střední trhy prostřednictvím možnosti Cloud Business Applications SMB.
+každá metrika PCI má prahové hodnoty sady Microsoft-set, které mohou získat maximální body vaší společnosti k dosažení Midmarket cloudových řešení stříbrného nebo Gold malého a prostřednictvím možnosti cloudové Business Applications protokolu SMB.
 
-Body napříč jednotlivými metrikami se s metrikou soucítí, aby se vyneslo odlišné skóre PCI. Toto skóre se aktualizuje každý měsíc.
+Body napříč jednotlivými metrikami jsou sečteny tak, aby zadávaly odlišné skóre PCI. Toto skóre bude aktualizováno měsíčně.
 
-Partneři mohou získat maximální počet bodů pro danou metriku, pokud splní nebo překročí níže uvedené prahové hodnoty. Částečné body je možné získat za všechny metriky.
+Partneři mohou získat maximální body pro danou metriku, pokud splňují nebo překračují prahové hodnoty uvedené níže. Částečné body lze získat pro všechny metriky.
 
-Například tržní partner s 15 000 USD v oblasti Net New Revenue získá polovinu (15 000 USD/30 000 USD) maximálního počtu 10 bodů.
+Například tržní partner s $15 000 v čistém novém výnosu bude mít poloviční ($ 15 000/$ 30000) z maxima 10 bodů.
 
-Následující tabulka popisuje konkrétní prahové hodnoty indikátoru příspěvku partnera, které můžete dosáhnout, abyste dosáhli maximálních bodů k dosažení kompetence Cloudová řešení pro malé nebo zlaté a střední trhy prostřednictvím možnosti Cloud Business Applications SMB.
+následující tabulka popisuje konkrétní prahové hodnoty indikátoru příspěvku partnera, které můžete využít k získání maximálního počtu bodů pro dosažení vysoké nebo Gold malých a Midmarket cloudových řešení v rámci možnosti cloudové Business Applications protokolu SMB.
 
-| Metrika PCI | Ukazatel výkonu: Čisté nové výnosy | Ukazatel výkonu: Čistý zákazník přidá | Ukazatel schopností: Konzultanti pro funkce | Ukazatel schopností: Vývojáři | Indikátor úspěchu zákazníka: Nová nasazení | Indikátor úspěchu zákazníka: Měsíční aktivní růst uživatelů |
+| Metrika sběrnice PCI | Ukazatel výkonu: NET New výnos | Ukazatel výkonu: Přidání čistého zákazníka | Indikátor schopností: funkční konzultanti | Indikátor schopností: vývojáři | Indikátor úspěšnosti zákazníka: nová nasazení | Indikátor úspěšnosti zákazníka: měsíční nárůst uživatele na aktivní |
 |---|:---:|:---:|:------:|:---:|:---:|:----:|
 | **Maximální počet bodů** | 10 bodů | 10 bodů | 30 bodů | 5 bodů | 20 bodů | 25 bodů |
 | **Kritéria**       | 30 000 $  | 10  | 5    | 2  | 10  | 35 % |
 
-## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Požadavky na získání kreditu PCI pro zákazníka
+## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Předpoklady pro příjem kreditu PCI pro zákazníka
 
-Určité indikátory příspěvku partnera umožňují získat kredit pro daného zákazníka pouze v případě, že s ním máte konkrétní přidružení mezi partnerem a zákazníkem. Mezi indikátory nebo metriky PCI, na které mají vliv tyto požadavky, patří:
+Některé indikátory partnerských příspěvků vám umožňují získat kredit pro daného zákazníka, pokud máte konkrétní přidružení typu partner k zákazníkům. Indikátory nebo metriky PCI, na které mají vliv tyto požadavky, jsou tyto:
 
-- Čisté nové výnosy
-- Přidání čistých zákazníků
+- Čistý nový výnos
+- NET Customer – přidat
 - Nová nasazení
-- Měsíční růst aktivních uživatelů
+- Měsíční nárůst mezi aktivními uživateli
 
-Kredit za tyto metriky PCI pro daného zákazníka můžete získat pouze v případě, že máte jedno z následujících přidružení partnerů k zákazníkovi:
-- Jste poskytovatelem Cloud Solution Provider (CSP) pro placené předplatné, které patří do tenanta tohoto zákazníka.
-- Jste správcem CPOR (Claiming Partner of Record) (CPOR) pro placené předplatné, které patří do tenanta tohoto zákazníka.
-- Jste digitálním partnerem záznamu (DPOR) pro placené předplatné, které patří do tenanta tohoto zákazníka.
+Pokud máte jedno z následujících přidružení typu partner-zákazník, můžete pro daného zákazníka získat pouze kredit těchto metrik:
+- jste Cloud Solution Provider (CSP) pro placené předplatné patřící k tenantovi daného zákazníka.
+- U placeného předplatného, které patří do tenanta daného zákazníka, jste partnerem deklarací záznamů (CPOR).
+- Jste digitální partner záznamu (partnera DPOR) pro placené předplatné patřící tomuto tenantovi zákazníka.
 
-Partner se stane CPOR, pokud na úrovni předplatného navázán na přidružení se zákazníkem prostřednictvím pobídek Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) nebo pobídek využití služeb Dynamics 365 [Online Services](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU).
+Partner se stane CPORou, pokud má navázat spojení se zákazníkem na úrovni předplatného prostřednictvím motivačního Poradce pro služby Dynamics 365 Online Services (OSA) nebo Dynamics 365 Online Service Usage (OSU).
 
-Partner se stane zprávou DPOR, pokud v rámci produktu navázán přidružení se zákazníkem na úrovni předplatného.
+Partner se stane partnera DPORou, pokud mají přidružení se zákazníkem na úrovni předplatného v rámci produktu.
 
 > [!NOTE]
-> Pokud pro dané zákaznické předplatné existuje CPOR i DPOR, obdrží CPOR kredit za relevantní metriky PCI přidružené k tomuto předplatnému. Pokud přidružení bylo prostřednictvím OSA, CPOR obdrží kredit za čisté nové výnosy a čisté tržby zákazníků. Pokud přidružení bylo prostřednictvím OSU, CPOR obdrží kredit za nová nasazení a měsíční aktivní růst uživatelů.
+> Pokud pro dané předplatné zákazníka existují jak CPOR, tak partnera DPOR, obdrží CPOR kredit pro příslušné metriky PCI přidružené k tomuto předplatnému. Pokud přidružení proběhlo přes OSA, obdrží CPOR kredit pro čisté nové tržby a přidá se k němu čistý zákazník. Pokud bylo přidružení přes OSU, CPOR obdrží kredit pro nová nasazení a měsíční nárůst od aktivního uživatele.
 
-## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Podrobné definice metrik PCI pro tuto kompetenci
+## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Podrobné definice metriky PCI pro tuto kompetenci
 
-Následující části popisují další podrobnosti o každé ze šesti metrik PCI a o tom, jak se body počítají. Tyto metriky jsou spojené s dosažením kompetence Cloudová řešení pro malé nebo zlaté a střední trhy prostřednictvím možnosti Cloud Business Applications SMB.
+V následujících částech jsou popsány další podrobnosti o každé šesti metrikách PCI a o tom, jak se počítají body. tyto metriky jsou spojené s dosažením Midmarketch cloudových řešení stříbrného nebo zlata, a to prostřednictvím možnosti cloudové Business Applications protokolu SMB.
 
-Pomocí následujícího seznamu můžete rychle přejít ke konkrétní definici:
+K rychlému přechodu do konkrétní definice použijte následující seznam:
 
-- [Definice čistých nových výnosů](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue)
-- [Definice čistých zákaznických přidání](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds)
-- [Definice pro konzultanty pro funkce](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
+- [Definice pro NET New výnosů](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue)
+- [Definice pro NET Customer – přidat](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds)
+- [Definice pro funkční konzultanty](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
 - [Definice pro vývojáře](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)
 - [Definice pro nová rozsáhlá nasazení](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments)
-- [Definice měsíčního aktivního růstu uživatelů](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)
+- [Definice pro měsíční nárůst uživatelů](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)
 
-### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>Definice metrik PCI #1 – Čisté nové výnosy
+### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>Definice pro #1 metriky PCI – čistý nový výnos
 
-Čisté nové výnosy jsou [ukazatelem výkonu.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Body tohoto indikátoru se pro tuto kompetenci počítají takto:
+NET New tržby je [ukazatel výkonu](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Body tohoto ukazatele se počítají pro tuto kompetenci následujícím způsobem:
 
-- Čisté nové výnosy se definují jako čisté nové fakturované výnosy ve všech prodejních kanálech pro kvalifikace produktů Dynamics 365.
-- Čisté nové výnosy se sčítá za posledních 12 měsíců s maximálním možným příjmem 10 bodů.
-- Body pro čisté nové výnosy se počítají jako fakturace minus kredity a agregují se za 12 měsíců.
-- Čisté nové výnosy se počítají na základě jakékoli kombinace následujících oprávněných produktů:
-  - Mezi produkty, které mají nárok na Dynamics 365 Customer Engagement, patří: Sales, Marketing, Customer Service, Field Service, Project server, Plan 1, Automation, Marketing, Microsoft Relationship Sales
-  - Mezi produkty kvalifikované pro finance a provoz patří: Dynamics 365 Business Central, Kapacita a úložiště, Finance and Operations (včetně ochrany před podvody, provozu, maloobchodu, lidských zdrojů, plánu 2), hybridní reality, člena týmu
+- Čisté nové tržby se definují jako čisté nové fakturované tržby napříč všemi prodejními kanály pro opravňující produkty Dynamics 365.
+- Čisté nové tržby se sčítají na konci 12 měsíců s maximálním možným počtem 10 bodů.
+- Body pro čisté nové tržby se počítají jako faktury minus kredity a agreguje se za 12 měsíců.
+- Čisté nové tržby se vypočítávají na základě libovolné kombinace následujících opravňujících produktů:
+  - Dynamics 365 customer Engagement – opravňující produkty zahrnují: Sales, Marketing, customer service, Field service, Project server, plán 1, automatizace, Marketing, prodejní vztahy Microsoft.
+  - mezi finance a provozní operace patří: Dynamics 365 Business Central, kapacita a Storage, Finance a operace (včetně ochrany proti podvodům, provozu, maloobchodu, HR, plan 2), smíšené reality, člen týmu
   
-- Prodejní kanály zahrnují smlouva Enterprise (EA), Cloud Solution Provider (CSP) a Web Direct.
-- Pouze smlouva Enterprise výnosy: Tyto výnosy zahrnují výnosy z prvního roku smlouvy. Opakované výnosy z druhého a třetího roku nejsou zahrnuty.
+- prodejní kanály zahrnují smlouva Enterprise (EA), Cloud Solution Provider (CSP) a Web Direct.
+- pro smlouva Enterprise jenom pro tržby: toto tržby zahrnuje tržby z prvního roku smlouvy. Nezahrnují se periodické výnosy z druhého a třetího roku.
 
-### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definice metrik PCI #2 – Čisté zákazníky
+### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definice pro metriky PCI #2 – NET Customer přidat
 
-Čistý zákazník přidává je [ukazatel výkonu](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Body tohoto indikátoru se pro tuto kompetenci počítají takto:
+NET Customer přidá [ukazatel výkonu](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Body tohoto ukazatele se počítají pro tuto kompetenci následujícím způsobem:
 
-- Čisté součet pro zákazníky se sčítá za posledních 12 měsíců. 
+- Přidání čistého zákazníka se sčítají na konci 12měsíční období. 
 
-- Je možné přidat celkem 10 čistých zákazníků s maximálními možnými příjmy 10 bodů (jeden bod pro každého čistého zákazníka).
+- K dispozici je celkem 10 zákaznických přidaných, s maximálními možnými tržbami po 10 bodech (jeden bod pro každé přidání na NET zákazníka).
 
-- Zákazníci s čistými sítěmi se přidávají do všech prodejních kanálů.
+- Mezi všechny prodejní kanály se přidávají čisté zákazníky.
 
-- Body čistých zákaznických přidaných náplní se počítají měsíčně s přičtení zákazníků bez ztráty zákazníků a agregují se za 12 měsíců.
+- Body pro NET Customer se počítají měsíčně, protože zákazníci přidali mínus zákazníky a jsou agregováni po dobu 12 měsíců.
 
-- Přidání **zákazníka je** definováno za těchto podmínek: Pokud zákazník nemá v předchozím měsíci žádné placené licencí ve všech svých předplatných, ale má v aktuálním měsíci alespoň jednu placenou pracovní pozici.
+- **Přidání zákazníka** se definuje za těchto podmínek: Pokud zákazník nemá během předchozího měsíce placené místo na všech svých předplatných, ale má v aktuálním měsíci alespoň jednu placenou stanici.
 
-- Za **těchto podmínek** se definuje ztráta zákazníka: Pokud má zákazník v předchozím měsíci alespoň  jednu placenou pracovní pozici ve všech svých předplatných a v aktuálním měsíci nemá žádné placené licencí.
+- **Ztráta zákazníka** je definována za tyto podmínky: když má zákazník alespoň jednu placené místo na všech svých předplatných během předchozího měsíce **a** v aktuálním měsíci žádné placené licence nezahrnuje.
 
-- Za čisté zákaznické přičtení je možné získat maximální a částečné body.
+- Maximální a částečné body lze získat pro přidat k čistému zákazníkovi.
 
-- Prodejní kanály zahrnují smlouva Enterprise (EA), Cloud Solution Provider (CSP) a Web Direct.
+- prodejní kanály zahrnují smlouva Enterprise (EA), Cloud Solution Provider (CSP) a Web Direct.
 
-- Pro více partnerů nebo stejných zákazníků nebo zákazníků pracujících přímo  s Microsoftem: Existují různé výpočty přidání zákazníků a ztráty zákazníků v případech, kdy je více partnerů přidruženo ke stejnému zákazníkovi prostřednictvím různých předplatných nebo v případech, kdy zákazník již může pracovat přímo s Microsoftem.  Tyto výpočty jsou uvedené níže.
+- Pro více partnerů/stejného zákazníka nebo zákazníka, kteří pracují přímo s Microsoftem: Existují různé výpočty **zákazníků** a jejich **ztráty** v případech, kdy je více partnerů přidruženo ke stejnému zákazníkovi prostřednictvím různých předplatných nebo v případech, kdy zákazník již může pracovat přímo se společností Microsoft. Tyto výpočty se zobrazí níže.
 
-  **Pro více partnerů, stejného zákazníka a různá předplatná:**
+  **U více partnerů se stejným zákazníkem a různými předplatnými:**
 
-  - Všichni partneři přidružení k zákazníkovi 1. měsíc, kdy se zákazník přidá, pomocí kreditu přidá nového zákazníka.
+  - Všem partnerům přidruženým k zákazníkovi se získá kredit za nového zákazníka v měsíci, kdy se zákazník přidá.
   
-  - Další partneři přidružení ke stejnému zákazníkovi prostřednictvím starých nebo nových předplatných nezískují pro tohoto zákazníka nový kredit.
+  - Další partneři, kteří přiřadí se ke stejnému zákazníkovi prostřednictvím starých nebo nových předplatných, nebudou pro daného zákazníka dostávat nové kredity pro zákazníky.
   
-  - Všichni partneři přidružení k zákazníkovi v měsíci, kdy se zákazník ztratí, ztratí kredit za přidání nového zákazníka.
+  - Všichni partneři přidružení k zákazníkovi ztratí kredit na nového zákazníka v měsíci, kdy se zákazník ztratí.
   
-  - Každý partner, který se následně přidruží ke stejnému zákazníkovi prostřednictvím starých nebo nových předplatných, získá pro tohoto zákazníka kredit pro nového zákazníka.
+  - Každý partner, který se později přiřadí ke stejnému zákazníkovi prostřednictvím starých nebo nových předplatných, získá novému zákazníkovi přidat kredit pro tohoto zákazníka.
   
-  **Pokud už zákazník pracuje přímo s Microsoftem:**
+  **Pokud zákazník již pracuje přímo s Microsoftem:**
 
-   - Pokud zákazník již pracuje přímo s Microsoftem a splnil kritéria přidání nového zákazníka, partneři přidružení ke stejnému zákazníkovi následně prostřednictvím starých nebo nových předplatných nezískali pro tohoto zákazníka kredit pro přidání nového zákazníka.
+   - Pokud zákazník již spolupracuje s Microsoftem a splnil kritéria pro přidání nového zákazníka, partneři přidružování ke stejnému zákazníkovi následně prostřednictvím starých nebo nových předplatných nebudou pro daného zákazníka dostávat nové kredity pro zákazníky.
 
-### <a name="definitions-for-pci-metric-3---functional-consultants"></a>Definice metrik PCI #3 – konzultanti pro funkce
+### <a name="definitions-for-pci-metric-3---functional-consultants"></a>Definice pro funkce PCI metric #3 – funkční konzultanti
 
-Konzultanti pro funkce jsou [indikátorem schopností](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Body tohoto indikátoru se pro tuto kompetenci počítají takto:
+Funkční konzultanty jsou [indikátorem schopností](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Body tohoto ukazatele se počítají pro tuto kompetenci následujícím způsobem:
 
-- Body indikátorů konzultanta pro funkce vycházejí ze snímku aktuálního měsíce s maximálními možnými příjmy 30 bodů.
+- Body indikátoru funkčního konzultanta jsou založené na snímku aktuálního měsíce s maximálními možnými tržbami po 30 bodech.
 
-- Konzultanti pro funkce jsou definováni jako počet jednotlivců, kteří mají aktuálně aktivní certifikaci Konzultanti funkcí Associate, jako je například certifikace Customer Engagement Konzultanti funkcí nebo certifikace oddělení financí a operací Konzultanti funkcí certifikaci.
+- Funkční konzultanty jsou definovány jako počet jednotlivců držících aktuálně aktivní funkční konzultanta přidružit certifikaci, jako je například certifikace funkčního konzultanta zapojení zákazníka nebo finanční certifikace konzultanta a provozu.
 
-Aby partneři získali **maximálně 30** bodů konzultantů pro funkce k dosažení této kompetence, musí mít **5** konzultantů, kteří mají:
-- Certifikace Konzultanti funkcí Customer Engagement
-- Certifikace provozního a finančního Konzultanti funkcí
-- Certifikace služby Business Central Konzultanti funkcí
+Aby partneři dosáhli maximálního počtu **30** funkčních bodů konzultanta k dosažení této kompetence, musí mít partneři **5** konzultantů, kteří uchovávají jednu z těchto akcí:
+- Certifikace funkčního konzultanta pro zapojení zákazníků
+- Certifikace a finanční konzultantské funkce pro finance a provoz
+- Certifikace funkčního konzultanta firmy Business Central
 
-Aby mohli partneři oslovit pět konzultantů, mohou kombinovat konzultanty, kteří mají kterýkoli ze tří typů certifikace.
+Aby mohli partneři kontaktovat pět konzultantů, můžou vzájemně kombinovat a hledat konzultanty, kteří mají kterýkoli ze tří typů certifikace.
 
-K získání certifikace Customer Engagement Konzultanti funkcí Associate musí jednotlivec složit následující zkoušku:
+K získání služby Customer Engagement Functions konzultantovi přidružit certifikaci musí osoba předat následující zkoušku:
   - PL-200<br/>
   **a** jednu z následujících zkoušek:
   - MB-210, MB-220, MB-230 nebo MB-240
 
-Pokud chcete získat certifikaci Finance and Operations Konzultanti funkcí Associate, musí jednotlivec složit tyto zkoušky:
+Aby bylo možné získat finanční a provozní konzultantovi, aby mohl přidružit certifikaci, musí jednotlivec předat tyto zkoušky:
 
-  - MB–300<br/>
+  - MB – 300<br/>
   **a** jednu z následujících zkoušek:
   - MB-310, MB-320 nebo MB-330
 
-Pokud chcete získat certifikaci Business Central Konzultanti funkcí Associate, musí jednotlivec složit tuto zkoušku:
-  - MB–800
+Aby mohl společnost Business Central Functions přidružit certifikaci, musí tuto zkoušku předat jednotlivci:
+  - MB – 800
 
-### <a name="definitions-for-pci-metric-4---developers"></a>Definice metrik PCI #4 – vývojáři
+### <a name="definitions-for-pci-metric-4---developers"></a>Definice pro #4 metriky PCI – vývojáři
 
-Vývojáři jsou [indikátorem schopností](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Body tohoto indikátoru se pro tuto kompetenci počítají takto:
+Vývojáři jsou [indikátorem schopností](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Body tohoto ukazatele se počítají pro tuto kompetenci následujícím způsobem:
 
-- Vývojáři se definují jako počet jednotlivců, kteří mají aktuálně aktivní certifikaci Customer Engagement Developer Associate nebo certifikaci Finance and Operations Developer Associate.
+- Vývojáři jsou definováni jako počet jednotlivců držících aktuálně aktivní vývojáře Customer Engagement Customer Engagement Customer Engagement.
 
-- Body indikátoru Vývojáři jsou založené na snímku aktuálního měsíce s maximálně 5 dostupnými body.
+- Body pro vývojáře jsou založené na snímku aktuálního měsíce, který má maximálně 5 bodů k dispozici.
 
-- Aby mohli partneři oslovit pět konzultantů, mohou kombinovat a párovat konzultanty, kteří mají který chcete použít pro certifikaci, a to následujícím způsobem:
+- Aby mohli partneři kontaktovat pět konzultantů, můžou kombinovat a porovnávat konzultanty, kteří drží typ certifikace, takto:
 
-  Aby jednotlivec získal certifikaci Customer Engagement Developer Associate, musí složit následující zkoušku:
+  Aby bylo možné přidružit certifikaci vývojářům zapojení zákazníka, musí osoba předat následující zkoušku:
   - PL-400
 
-  Pokud chcete získat certifikaci Finance and Operations Developer Associate, musí jednotlivec složit tyto zkoušky:
-  - MB–300<br/>
+  Aby bylo možné získat finanční prostředky a přidružit certifikaci k nástroji Operations Developer, musí osoba předat tyto zkoušky:
+  - MB – 300<br/>
     **a** jednu z následujících zkoušek:
   - MB-500 nebo MB-700
 
-### <a name="definitions-for-pci-metric-5---new-deployments"></a>Definice metrik PCI #5 – Nová nasazení
+### <a name="definitions-for-pci-metric-5---new-deployments"></a>Definice pro #5 metriky PCI – nová nasazení
 
-Nová nasazení jsou [indikátorem úspěchu zákazníka.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Body tohoto indikátoru se pro tuto kompetenci počítají takto:
+Nová nasazení jsou [indikátorem úspěšnosti zákazníka](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Body tohoto ukazatele se počítají pro tuto kompetenci následujícím způsobem:
 
-- Nová nasazení se sčítá za posledních 12 měsíců s maximálně 20 dostupnými body. Částečné body je také možné získat.
+- Nová nasazení se sčítají po uplynutí 12 měsíců, přičemž je k dispozici maximálně 20 bodů. Lze také získat částečné body.
 
-- K získání maximálních bodů pro tuto možnost kompetence musí mít partneři **10** produkčních tenantů, z nichž každý překročil prahovou hodnotu **5** měsíčních aktivních uživatelů za posledních 12 měsíců.
+- Aby bylo možné získat maximální body této možnosti kompetence, partneři musí mít **10** produkčních klientů, přičemž každý tenant překročil prahovou hodnotu **5** měsíčně aktivních uživatelů za posledních 12 měsíců.
 
-- Tenant má za to, že překročil měsíční prahovou hodnotu aktivního uživatele, pokud byl:
+- Tenant se považuje za překročení měsíční prahové hodnoty aktivního uživatele, pokud byl tenant:
 
-  - Před 12 měsíci pod zadanou prahovou hodnotou (určitý počet produkčních instancí v rámci tenanta)<br/> *and*
-  - Překročila se prahová hodnota alespoň jednou během následujících 11 měsíců.
-
-- Měsíční aktivní uživatelé se počítají na úrovni tenanta a sečtou se jenom za placená předplatná v rámci tenanta.
-
-- Měsíční aktivní uživatelé se počítají na konci každého měsíce.
-
-- Partneři jsou přidruženi k tenantům na úrovni předplatného. Předplatná jsou namapována na následující, opravňující produkty:
-  - Dynamics 365 Customer Engagement – opravňující produkty zahrnují: Sales, marketing, Customer Service, Field Service, Project Server, plán 1, automatizace, marketing, prodejní vztahy Microsoft.
-  - Mezi finance a provozní operace patří: obchodní oddělení, kapacita a úložiště, finance a operace (včetně ochrany před podvody, provozu, maloobchodu, HR, Plan 2), smíšené reality, člen týmu
-
-- Všichni partneři přidružení k jakémukoli placenému předplatnému v rámci tenanta získají kredit pro všechny instance v rámci tohoto tenanta. 
-
-### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>Definice pro metriky PCI #6 – měsíční nárůst aktivních uživatelů
-
-Měsíčně aktivním růstem uživatelů je [indikátor úspěšnosti zákazníka](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Body tohoto ukazatele se počítají pro tuto kompetenci následujícím způsobem:
-
-- Měsíční nárůst počtu aktivních uživatelů je definovaný jako nárůst měsíčních aktivních uživatelů v celém zákaznickém základu za posledních 12 měsíců. 
+  - Pod zadanou prahovou hodnotou (určitý počet instancí výroby v rámci tenanta) před 12 měsíci,<br/> *and*
+  - Překročila se tato prahová hodnota nejméně jednou za dalších 11 měsíců.
 
 - Měsíčně aktivních uživatelů se počítá na úrovni tenanta a sčítají se jenom s placenými předplatnými v rámci tenanta.
 
-- Ukazatel měsíčního aktivního uživatelského růstu porovnává aktuální měsíc s směrným plánem před uplynutím 12 měsíců. je k dispozici 25 maximálních bodů, které je možné využít k dosažení Midmarket cloudových řešení Gold nebo stříbrného, a to prostřednictvím možnosti cloudové Business Applications protokolu SMB.
-
 - Měsíčně aktivních uživatelů se počítá na konci každého měsíce.
 
-- Aby mohli partneři mít nárok na body, musí mít po celou dobu 12 měsíců v celém zákaznickém předplatným aspoň **50** měsíčně aktivních uživatelů.
+- Partneři jsou přidruženi ke klientům na úrovni předplatného. Předplatná se mapují na následující kvalifikující produkty:
+  - Mezi produkty, které mají nárok na Dynamics 365 Customer Engagement, patří: Sales, Marketing, Customer Service, Field Service, Project server, Plan 1, Automation, Marketing, Microsoft Relationship Sales
+  - Mezi produkty kvalifikované pro finance a provoz patří: Business Central, Capacity and Storage, Finance and Operations (včetně ochrany před podvody, provozu, maloobchodu, lidských zdrojů, plánu 2), hybridní reality, člena týmu
 
-- Partneři jsou přidruženi ke klientům na úrovni předplatného. Předplatná jsou namapována na opravňující produkty.
+- Všichni partneři přidružení ke všem placeným předplatným v rámci tenanta pomocí 100% kredit za všechny produkční instance v rámci tohoto tenanta. 
 
-- Všem partnerům přidruženým k jakémukoli placenému předplatnému v rámci tenanta získáte kredit za všechny aktivní uživatele v rámci tohoto tenanta v rámci všech placených předplatných.
+### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>Definice metrik PCI #6 – měsíční aktivní růst uživatelů
 
-## <a name="how-to-access-partner-contribution-indicators"></a>Jak přistupovat k ukazatelům příspěvku partnerů
+Měsíční aktivní růst uživatelů je [indikátorem úspěchu zákazníka.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Body tohoto indikátoru se pro tuto kompetenci počítají takto:
 
-Tato část popisuje, jak získat přístup k podrobnostem o partnerům pro partnery a průběh partnerů.
+- Měsíční aktivní růst uživatelů se definuje jako růst měsíčních aktivních uživatelů napříč celou zákaznickou základnou za posledních 12 měsíců. 
 
-### <a name="access-partner-contribution-indicators"></a>Přístup k ukazatelům příspěvků partnerů
+- Měsíční aktivní uživatelé se počítají na úrovni tenanta a sečtou se jenom za placená předplatná v rámci tenanta.
 
-Pokud chcete zobrazit tabulku ukazatelů na příspěvek partnera, postupujte takto:
+- Indikátor měsíčního aktivního růstu uživatelů porovnává aktuální měsíc se základní hodnotou z období před 12 měsíci. K dosažení kompetence Cloudová řešení pro středně malé a střední trhy (Gold nebo Silver Small and Midmarket) prostřednictvím možnosti Cloud Business Applications SMB je k dispozici 25 maximálních bodů.
+
+- Měsíční aktivní uživatelé se počítají na konci každého měsíce.
+
+- Aby partneři byli způsobilí pro body, musí mít směrný plán alespoň **50** měsíčních aktivních uživatelů napříč celou zákaznickou základnou před 12 měsíci.
+
+- Partneři jsou přidruženi k tenantům na úrovni předplatného. Předplatná se mapují na kvalifikující produkty.
+
+- Všichni partneři přidružení ke všem placeným předplatným v rámci tenanta 1. 5.
+
+## <a name="how-to-access-partner-contribution-indicators"></a>Jak získat přístup k indikátorům příspěvků partnerů
+
+Tato část popisuje, jak získat přístup k podrobnostem o ukazatelích příspěvků pro partnery a postupu partnera.
+
+### <a name="access-partner-contribution-indicators"></a>Přístup k indikátoru příspěvků pro partnery
+
+Pokud chcete zobrazit tabulku Indikátory příspěvků pro partnery, postupujte takto:
 
 1. Přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard) pro Partnerské centrum.
 
-2. V navigační nabídce vyberte **MPN** a pak vyberte **kompetence**.
+2. V navigační nabídce vyberte **MPN** a pak **kompetence.**
 
-3. Vyberte **malá a Midmarketá kompetence cloudových řešení** a pak **možnost Cloud Business Applications SMB**.
+3. Vyberte **kompetenci Cloudová** řešení pro malé a střední podniky a potom možnost **Cloud Business Applications SMB.**
 
-4. V části Summary (souhrn) si můžete prohlédnout svůj průběh, úspěchy a související skóre do data.
+4. V části Souhrn si můžete zobrazit průběh, dosažené cíle a související skóre k datu.
 
-   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Jak číst tabulku ukazatelů na příspěvek partnera":::
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Přečtěte si tabulku Indikátory příspěvků partnerů.":::
 
 ## <a name="next-steps"></a>Další kroky
 
-Podívejte se na tyto [informační zdroje](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) , kde se dozvíte víc o tom, jak pomocí možnosti cloudu Business Applications protokolu SMB získat řešení Gold nebo stříbrného malého a Midmarket cloudových řešení.
+Pokud chcete [získat další informace o](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) dosažení kompetence Cloudová řešení pro malé a střední střední tržnice gold nebo Silver small and Midmarket prostřednictvím možnosti Cloud Business Applications SMB.
