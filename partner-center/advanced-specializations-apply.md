@@ -1,7 +1,7 @@
 ---
 title: Použít pro pokročilé specializace
 ms.topic: how-to
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Posílit obchodní profil v adresáři partnerů Microsoftu. Naučte se používat Partnerské centrum k aplikování a získání pokročilých specializací.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c617d3bde3bbfe17896631b3c761c01fe2f299a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 76500ebf1b594e6097040ee810a94635cbb65eb7
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125969"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489822"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Použití partnerského centra k použití pro pokročilou specializaci a kontrolu jejich stavu
 
@@ -65,9 +65,11 @@ Mezi pokročilé specializace, které vyžadují audit s auditorem jiného výro
 - Modernizace webových aplikací s využitím Microsoft Azure
 - Migrace Windows Serveru a SQL Serveru do Microsoft Azure
 - AI a Machine Learning v Microsoft Azure
-- Hybridní cloudová infrastruktura s Microsoft Azure Stackmi HCI
-- Hybridní operace a správa pomocí Microsoft Azure ARC
-- Microsoft Azure řešení VMware
+- hybridní cloudová infrastruktura pomocí Microsoft Azureového zásobníku HCI
+- hybridní operace a správa pomocí Microsoft Azure Arc
+- Microsoft Azure Řešení VMware
+- DevOps s GitHub na Microsoft Azure
+- Síťové služby v Microsoft Azure
 
 Mezi pokročilé specializace, které vyžadují odkazy na zákazníky, patří:
 
@@ -137,67 +139,74 @@ Pak postupujte podle těchto kroků a poskytněte odkazy na zákazníky v partne
 | Úroveň služby 1 | Nejvyšší úroveň, na které jsou seskupené služby Azure (viz: https://azure.microsoft.com/services/) . |
 | Úroveň služby 2 | Druhá nejvyšší úroveň na základě služeb Azure (např.: https://azure.microsoft.com/pricing/) |
 | Úroveň služby 3 | Na třetí nejvyšší úrovni založené na službách Azure (např.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
-| Úroveň služeb 4 | Na čtvrté nejvyšší úrovni služby Azure (např.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Úroveň služeb 4 | Čtvrtá nejvyšší úroveň založená na službách Azure (např.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | Skupina služeb 2 | Seskupení služeb Azure podle kategorie služby |
 | Skupina služeb 3 | Seskupení služeb Azure podle podkategorie služby |
-| Vliv služby | Seskupení služeb Azure mapovaných na konkrétní aktivitu spotřeby |
-| Operační systém COMPUTE | Výpočetní operační systém |
-| COMPUTE Core software | COMPUTE Core software |
+| Vliv na službu | Seskupení služeb Azure namapovaných na konkrétní aktivitu využití |
+| Výpočetní operační systém | Výpočetní operační systém |
+| Základní výpočetní software | Základní výpočetní software |
 
-**Filtry výnosů využití Azure pro pokročilou specializaci**
+**Filtry výnosů ze spotřeby Azure pro pokročilou specializaci**
 
 - Migrace datových skladů do Microsoft Azure
-    - SQL DW ACR: úroveň služby 1 = databáze a úroveň služby 2 = SQL Data Warehouse
+    - Azure Synapse Analytics ACR: Skupina služeb 3 = SQL DW
 - Kubernetes v Microsoft Azure
-    - Azure Kubernetes Service (AKS) ACR: vliv na služby = AKS, AKS-Engine
-- Virtuální počítač Microsoft Windows
-    - Virtuální plocha Windows ACR: vliv služby = NATIVNÍ WVD
+    - Azure Kubernetes Service (AKS) ACR: Vliv na službu = AKS , AKS-Engine
+    - Azure RedHat OpenShift ACR: Service Group 3 = ARO, Service Level 2 = All kromě "Unknown"
+- Microsoft Windows Virtual Desktop
+    - Windows ACR služby Virtual Desktop: Vlivové prostředí služby = NATIVE WVD
 - Modernizace webových aplikací s využitím Microsoft Azure
-    - Azure App Service ACR: úroveň služby 1 = COMPUTE a úroveň služby 2 = Azure App Service
-- Analýza na Microsoft Azure
-    - Azure synapse Analytics ACR: Service Group 3 = SQL DW
+    - Azure App Service ACR: Service Level 1 = Compute a Service Level 2 = Azure App Service
+    - Azure Spring Cloud ACR:
+        - Typ úpravy ACR = Není k dispozici
+        - Skupina služeb 2 = App Dev
+        - Skupina služeb 3 = Spring Cloud 
+        - Úroveň služby 2 = vše kromě "Neznámé"
+
+- Analýzy na Microsoft Azure
+    - Azure Synapse Analytics ACR: Skupina služeb 3 = SQL DW
     - Data Lake ACR: Skupina služeb 3 = Azure Data Lake
-    - Datacihly ACR: Service Skupina3 = datacihly, virtuální počítač datacihly
-    - Azure Data Factory ACR: Service Skupina3 = Data Factory  
-- Hybridní cloudová infrastruktura s Microsoft Azure Stackmi HCI
-    - Azure Stack HCI ACR: úroveň služby 2 = Azure Stack HCI
-- Microsoft Azure řešení VMware
-    - Řešení Azure VMware (AVS) ACR: úroveň služby 4 = řešení Azure VMware, řešení Azure VMware podle CloudSimple, řešení Azure VMware podle Virtustream, Specialized Compute řešení Azure VMware
-- Hybridní operace a správa pomocí Microsoft Azure ARC 
-    - Server s podporou ARC ACR: úroveň služby 4 = Azure Policy
-    - Kubernetes ACR s podporou ARC: úroveň služby 4 = ARC Azure
+    - Databricks ACR: Skupina služeb3 = Databricks, virtuální počítač Databricks
+    - Azure Data Factory ACR: Skupina služeb3 = Data Factory  
+- Hybridní cloudová infrastruktura s Microsoft Azure Stack HCI
+    - Azure Stack HCI ACR: Úroveň služby 2 = Azure Stack HCI
+- Microsoft Azure Řešení VMware
+    - Azure VMware Solutions(AVS) ACR: Service Level 4 = Azure VMware Solution, Azure VMware Solution by CloudSimple, Azure VMware Solution by Virtustream, Specialized Compute Azure VMware Solution
+- Hybridní operace a správa s Microsoft Azure Arc 
+    - ACR serveru s podporou služby Arc: Service Level 4 = Azure Policy
+    - Kubernetes ACR s podporou služby Arc: Úroveň služby 4 = Azure Arc
 - AI a Machine Learning v Microsoft Azure
-    - AI ACR: Service Group 2 = AI
+    - AI ACR: Skupina služeb 2 = AI
 
 
 - Migrace Windows Serveru a SQL Serveru do Microsoft Azure
-    - ACR Windows: 
-        - Typ úpravy ACR = N/A, COMPUTE Core SW = Core,
-        - COMPUTE OS = WINDOWS pak COMPUTE atribut OS = WINDOWS, UNKNOWN nebo COMPUTE OS = LINUX. potom je atribut OS pro systém Windows-AHUB.
+    - Windows Acr: 
+        - ACR Adjustment Type = N/A, Compute Core SW = Core,
+        - Compute OS = WINDOWS THEN Compute OS Attribute = WINDOWS, UNKNOWN nebo Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
         - Úroveň služby 2 = Cloud Services, Container Instances, Container Registry, Specialized Compute, Virtual Machines, Virtual Machines Licenses
-    - SQL Database (DB) ACR: Service Group 3 = SQLDB
-    - Managed instance SQL (MI) ACR: Service Group 3 = SQL DB MI
-    - SQL VM ACR: Service Group 3 = SQL on IaaS, SQL na virtuálním počítači IaaS
-- Migrace databáze pro Linux a Open-Source do Microsoft Azure
-    - Linux Virtual Machines (VM) ACR:
+    - SQL Database (DB) ACR: Skupina služeb 3 = SQLDB
+    - SQL Spravovaná instance (MI) ACR: Skupina služeb 3 = SQL DB MI
+    - SQL ACR virtuálního počítače: Skupina služeb 3 = SQL na IaaS, SQL na virtuálním počítači IaaS
+- Migrace databází Open-Source Linuxem a Microsoft Azure
+    - Linux Virtual Machines (virtuální počítač)ACR:
         - Možnost 1:
-            - ACR úprav typ = N/A, úroveň služby 2 = Virtual Machines, COMPUTE OS = Linux, atribut operačního systému = non-Windows, neznámý, Windows
-            - Úroveň služby 4 = všechny kromě Cloud Servicesch MS Series, Virtual Machines MS Series, Virtual Machines Windows řady MS, Virtual Machines MSv2 Series, Virtual Machinesch oken MSv2 Series, vyhrazený hostitel MS Series, vyhrazený hostitel řady MSv2 Series
-        - Možnost 2: vyžadovat jenom filtry na úrovni služby 4, další pole, jako je COMPUTE OS/COMPUTE – atributy operačního systému se nevyžadují.
-            - Úroveň služby 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux s HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
-    - Azure Database (DB) pro MariaDB ACR: úroveň služby 1 = databáze a úroveň služby 2 = Azure Database for MariaDB
-    - Azure DB for MySql ACR: úroveň služby 1 = databáze a úroveň služby 2 = Azure Database for MySQL a MySQL Database on Azure
-    - Azure DB for Postgre SQL ACR: úroveň služby 1 = databáze a úroveň služby 2 = PostgreSQL
-    - Azure COSMOS DB ACR: úroveň služby 1 = databáze a úroveň služeb 2 = CosmosDB
+            - ACR Adjustment Type= N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = Non-Windows , UNKNOWN , Windows
+            - Service Level 4= All EXCEPT Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 series Windows, MS Series Dedicated Host, MSv2 series Dedicated Host
+        - Možnost 2: Vyžaduje pouze filtry na úrovni služby Service Level 4, jiná pole, jako jsou atributy výpočetního operačního systému nebo výpočetního operačního systému, se nevyžadují.
+            - Service Level 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux s HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
+    - Azure Database (DB) for MariaDB ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MariaDB
+    - Azure DB for MySql ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MySQL and MySQL Database on Azure
+    - Azure DB for Postgre SQL ACR: Service Level 1 = Databases and Service Level 2 = PostgreSQL
+    - Azure COSMOS DB ACR: Service Level 1 = Databases and Service Level 2 = CosmosDB
 - Ochrana před hrozbami
-    - Azure Sentinel ACR: úroveň služby 4 = Sentinel
+    - Azure Sentinel ACR: Úroveň služby 4 = Sentinel
 - Zabezpečení cloudu
-    - Hybridní prostředí XDR a zabezpečení sítě ACR: úroveň služby 4 = Azure Defender pro SQL, Azure Defender pro Registry kontejnerů, Azure Defender pro Kubernetes, Azure Defender pro úložiště, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory pro externí identity, Azure bastionu, Azure DDOS Protection, Azure Firewall , Azure Firewall Manager, Azure front-dveří, Azure Defender pro IoT, vyhrazený modul HARDWAROVÉho zabezpečení Azure, Key Vault, Network Watcher, Azure Defender pro App Service, Azure Defender pro servery, Sentinel
+    - XDR hybridního prostředí a ACR zabezpečení sítě: Service Level 4 = Azure Defender for SQL, Azure Defender for container registry, Azure Defender pro Kubernetes, Azure Defender for Storage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory pro externí identity, Azure Bastion, Azure DDoS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender pro App Service, Azure Defender pro servery, Sentinel
 
 ## <a name="next-steps"></a>Další kroky
 
-- Přečtěte si další informace o [pokročilých specializacích, jejich výhodách a jedinečných požadavcích](https://partner.microsoft.com/membership/advanced-specialization).
+- Přečtěte si další [informace o pokročilých specializacích, jejich výhodách a jedinečných požadavcích.](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Přečtěte si, jak [dosáhnout kompetence členství v programu Microsoft stříbrné nebo Gold](learn-about-competencies.md).
+- Seznamte se [s dosažením kompetencí pro členství Microsoft Silver nebo Gold Membership.](learn-about-competencies.md)
 
-- Přečtěte si další informace o [Microsoft Partner Network kompetencích](https://partner.microsoft.com/membership/competencies).
+- Další informace o [Microsoft Partner Network kompetencí.](https://partner.microsoft.com/membership/competencies)

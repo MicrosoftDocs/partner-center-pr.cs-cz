@@ -1,6 +1,6 @@
 ---
 title: Nastavení velikosti virtuálního počítače Azure, která maximálně využívá rezervace
-description: Zjistěte, jak při nákupu virtuálních rezervací virtuálního počítače (VM) podle potřeb vašich zákazníků Microsoft Azure jejich rezervace.
+description: Zjistěte, jak velikost virtuálního počítače podle výpočetních potřeb vašich zákazníků při nákupu virtuálních Microsoft Azure za ně.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 2d8bc76e0da51abf433e49028445b398c6a1db31
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 650618de7460f4667c60ac58cbe6716530db7f16
+ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276990"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113510189"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Nastavení velikosti virtuálního počítače Microsoft Azure, která maximálně využívá rezervaci
 
@@ -23,11 +23,11 @@ ms.locfileid: "112276990"
 Tento článek vysvětluje, jak velikost virtuálního počítače podle výpočetních potřeb vašich zákazníků při nákupu virtuálních Microsoft Azure za ně.
  
 > [!NOTE]
-> Tento článek se týká jenom partnerů v Cloud Solution Provider (CSP). Zákazníci, kteří používají jiné typy předplatných (například předplatná s předplatným s předplatným s platbami, jednotlivá předplatná, Smlouva se zákazníkem Microsoftu nebo předplatná smlouva Enterprise), by si místo toho měli přečíst tuto dokumentaci k rezervacím [Azure.](/azure/cost-management-billing/reservations)
+> Tento článek se týká jenom partnerů v Cloud Solution Provider (CSP). Zákazníci, kteří používají jiné typy předplatných (například předplatná s předplatným podle předplatného s platbami, jednotlivá předplatná, Smlouva se zákazníkem Microsoftu nebo předplatná smlouva Enterprise), by si místo toho měli přečíst tuto dokumentaci k [rezervacím Azure.](/azure/cost-management-billing/reservations)
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Určení velikosti virtuálního počítače pro rezervaci Azure zákazníka
 
-Při Microsoft Azure rezervací jménem vašich zákazníků budete muset zvolit virtuální počítač s velikostí, která bude splňovat výpočetní potřeby zákazníka. Tyto informace najdete pomocí jedné z těchto metod:
+Při nákupu Microsoft Azure rezervací jménem vašich zákazníků budete muset zvolit virtuální počítač s velikostí, která bude splňovat výpočetní potřeby zákazníka. Tyto informace najdete pomocí jedné z těchto metod:
 
 - Rozhraní API využití Azure
 - Azure Portal
@@ -48,11 +48,11 @@ Pokyny pro použití každé z těchto metod jsou uvedené níže. Po zakoupení
 
 2. Další informace najdete v [tématu Získání záznamů o využití Azure zákazníkem](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) v rozhraní PARTNERSKÉ CENTRUM [API.](/partner-center/develop/)
 
-### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Získání informací o velikosti virtuálního počítače pomocí portál Microsoft Azure
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Získání informací o velikosti virtuálního počítače pomocí Microsoft Azure Portal
 
 1. V Partnerské centrum přejděte na stránku **zákazníci.**
 
-2. Vyhledejte zákazníka, který chce koupit rezervace virtuálních počítače Azure, a pak výběrem šipky dolů rozbalte informace o zákazníkovi. Výběrem **Portál pro správu Microsoft Azure** otevřete záznam zákazníka v Azure Portal.
+2. Vyhledejte zákazníka, který chce koupit rezervace virtuálních počítače Azure, a pak výběrem šipky dolů rozbalte informace o zákazníkovi. Výběrem **Microsoft Azure Portál pro správu** otevřete záznam zákazníka v Azure Portal.
 
 3. V **nabídce portálu** vyberte Virtuální počítače a pak vyberte virtuální počítač, pro který chcete koupit rezervaci.
 
@@ -70,7 +70,7 @@ Pomocí informací na obrázku níže získejte umístění a velikost virtuáln
 
 1. Pomocí armclient nebo rozhraní API ARM zavolejte klienta ARM pro virtuální počítač, pro který chcete koupit rezervaci.
 
-2. /subscriptions/ <Subscription ID> /resourceGroups/ <Resource group name> /providers/Microsoft.Compute/virtualMachines/ <VM Instance Name> ?api-version=2017-12-01
+2. `/subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/providers/Microsoft.Compute/virtualMachines/<VM Instance Name>?api-version=2017-12-01`
 
 3. Volání vrátí hodnoty pro **vmSize** a **location**, jak je znázorněno níže.
 
@@ -91,11 +91,11 @@ Pokyny pro použití každé z těchto metod jsou uvedené níže.
 >[!NOTE]
 >Pouze rozhraní API využití Azure ukazuje, na který virtuální počítač se sleva uplatňuje.  
 
-### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Ověření využití rezervací zákazníka v portál Microsoft Azure
+### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Ověření využití rezervací zákazníka na portálu Microsoft Azure Portal
 
 1. V Partnerské centrum přejděte na stránku **zákazníci.**
 
-2. Vyhledejte zákazníka, jehož slevu za rezervaci a využití chcete ověřit, a pak výběrem šipky dolů rozbalte informace o zákazníkovi. Výběrem **Portál pro správu Microsoft Azure** otevřete záznam zákazníka v Azure Portal.
+2. Vyhledejte zákazníka, jehož slevu za rezervaci a využití chcete ověřit, a pak výběrem šipky dolů rozbalte informace o zákazníkovi. Výběrem **Microsoft Azure Portál pro správu** otevřete záznam zákazníka v Azure Portal.
 3. V **nabídce portálu** vyberte Rezervace a pak vyberte rezervaci, u které chcete zkontrolovat využití.
 4. Na stránce **Přehled** zkontrolujte graf využití rezervace, který ukazuje, jak velká část rezervace se použila na virtuální počítače.
 
@@ -124,7 +124,7 @@ Pomocí rozhraní API pro využití Azure můžete získat data o využití reze
 Další informace najdete v [tématu Získání záznamů o využití Azure zákazníkem](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) v rozhraní PARTNERSKÉ CENTRUM [API.](/partner-center/develop/)
 
 >[!IMPORTANT]
->Náklady na software, jako je Například Microsoft Windows Server, nejsou aktuálně zahrnuté v ceně rezervace virtuálního počítače a zobrazí se jako samostatné řádkové položky v záznamu objednávky a na faktuře. Pokud má ale zákazník Zvýhodněné hybridní využití Azure, náklady na software se neuplatní. Další informace najdete v tématu [Náklady na software Windows, které nejsou součástí rezervovaných instancí](/azure/billing/billing-reserved-instance-windows-software-costs).  
+>Náklady na software, jako je Microsoft Windows Server, se v současné době nezahrnou do ceny za rezervaci virtuálního počítače a v záznamu objednávky a na faktuře se zobrazí jako samostatné řádkové položky. Pokud má ale zákazník Zvýhodněné hybridní využití Azure, náklady na software se neuplatní. Další informace najdete v tématu [Windows softwaru, který není součástí rezervovaných instancí](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
 ## <a name="next-steps"></a>Další kroky
 
