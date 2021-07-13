@@ -1,0 +1,69 @@
+### YamlMime:FAQ
+metadata:
+  title: Nejčastější dotazy k programu Solution Assessment Incentives
+  ms.topic: how-to
+  ms.date: 11/09/2020
+  description: Přečtěte si odpovědi na nejčastější dotazy týkající se posouzení řešení na platformě CHIP (Channel Incentives Platform).
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: Karthic83
+  ms.author: kashanum
+  ms.localizationpriority: medium
+  ms.custom: SEOMAY.20
+  ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
+  ms.sourcegitcommit: 0b6e24e54faf9ccd05d11e673bbd9add27c82567
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113658017"
+title: Nejčastější dotazy k pobídkům posouzení řešení pro platformu CHIP (Channel Incentives Platform)
+summary: >
+  **Odpovídající role:** Primární kontakt nebo správce programu
+
+
+  Odpovědi na nejčastější dotazy najdete níže.
+sections:
+- name: Ignorováno
+  questions:
+  - question: >
+      Jaké jsou podmínky způsobilosti pro program pobídek pro posouzení řešení?
+    answer: "Partneři, kteří mají aktivní a zaregistrovaný stav v programu Pobídky posouzení řešení ve verzi FY20, budou mít nadále nárok na pobídky ve verzi FY21, pokud mají aktivní členství v programu MPN a aktivní kompetenci MPN silver nebo Gold MPN. Kvalifikace partnera se bude každý rok posouvalo ke kontrola způsobilosti.  Pokud zavedení partneři v aktuálním roce nedosáhodnou požadavků na způsobilost a účast, v dalším ročním hodnocení budou odebráni.  Všichni noví partneři jsou onboardované prostřednictvím místního specialisty na posouzení řešení (SAS) ve své oblasti.  Sas identifikuje partnery, kteří mají být onboardované, na základě odpovídajících dovedností a odborných znalostí v partnerské společnosti a obchodních potřeb poboček podporovaných SAS.\nPřed zahájením procesu onboardingu budou muset partneři projednat se SAS možnosti, které má jejich společnost při podpoře posouzení v jejich lokalitách. \n\nPartneři, kteří nejsou aktuálně zaregistrovaní v programu pobídek, musí splňovat následující kritéria pobídek FY21, aby byli způsobilí pro onboarding pobídek posouzení řešení. Podrobnosti najdete v [tématu Způsobilost k posouzení řešení.](chip-solutions-assessment-eligible.md)\n"
+  - question: >
+      Návody se zaregistrovat do programu Pobídky posouzení řešení?
+    answer: >
+      Pokud chcete zahájit proces, obraťte se na místního specialistu na posouzení řešení (SAS).
+  - question: >
+      Návody své bankovní a daňové údaje?
+    answer: >
+      Podrobné pokyny k odeslání bankovního a daňového profilu najdete v tématu Navigace na čipu [CHIP.](chip-intro.md)
+  - question: >
+      Můj stav dohody byl schválen na chipu. Proč ještě nebyla zaplacena?
+    answer: >
+      Kromě stavu dohody musí být stav použití také schválen na chipu, aby bylo možné příležitosti odeslat k platbě. Zkontrolujte svou příležitost na chipu a ujistěte se, že tým pro ověřování POE na chipu nahrál a schválil poee. Pokud chcete zobrazit stav POE, přihlaste se k chipu a **v** okně Potřebuji k vyberte Hledat **dohody.** . Zadejte **ID příležitosti a** vyberte **Hledat.** Ve výsledcích hledání vyberte hypertextový odkaz Upravit v části POE. Na výsledné stránce se posuňte do části Kontrola, abyste viděli stav POE. Zkontrolujte také pole Komentáře pro případ, že tým pohotového týmu požádal o další informace o pou3/4išování.
+  - question: >
+      Proč mi za příležitost za Milník 1 nepřichytáme žádnou platbu?
+    answer: >
+      Od 15. srpna 2020 se milník 1 vyplácí na 0 % schválené úrovně pobídek a Milník 2 zaplacený na 100 % schválené úrovně pobídek. Všechna otevřená zapojení registrovaná na čipu CHIP před 15. srpnem 2020 se budou dál platit podle pokynů KY20. Pokyny ke [změnám v](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) procesu milníku najdete v nejčastějších dotazech pro partnery.
+  - question: >
+      Jak roztát příležitost nebo platbu, kterou jsem obdržel(a)?
+    answer: >
+      Obraťte se na svého SAS, který vám může s touto žádostí poskytnout pokyny.
+  - question: >
+      Příležitost je uzavřena na čipu CHIP, což mi brání v nahrání poe. Co můžu udělat, aby byla příležitost zaplacena?
+    answer: >
+      Jakmile je příležitost uzavřena, už není způsobilá pro pobídky. Další pokyny vám pomůže váš SAS.
+  - question: >
+      Návody chipu přidat nového správce nebo uživatele?
+    answer: >
+      Primární kontakt partnera (správce) zodpovídá za pozvání všech ostatních uživatelů ve společnosti k registraci do chipu. Zodpovídá také za přístup uživatelů, včetně deaktivace všech uživatelů, kteří opouštění společnost opustí. Přečtěte si průvodce [platformou Channel Incentives.](chip-intro.md)
+  - question: >
+      Primární správce opustil naši společnost. Jak změníme primárního správce na chipu?
+    answer: >
+      Primárním správcem na čipu CHIP by měl být primární kontakt partnera v programu MPN. Ujistěte se, že je název MPN aktualizovaný o nový kontakt, a požádejte o změnu na chipu váš tým regionální podpory.
+
+
+      Na řídicím Partnerské centrum vyberte **v levé** nabídce Podpora. Jako **kategorii** vyberte Pobídky nebo v oblasti Procházet témata vyhledejte název programu.
+
+
+      Pokud po zobrazení dostupné nápovědy ke konkrétnímu tématu stále potřebujete pomoc, můžete vytvořit lístek přímo z možnosti Doporučené dokumenty – Vytvořit **lístek** podpory.
+additionalContent: "\n## <a name=\"next-steps\"></a>Další kroky\n\n- [Navigace na chipu](chip-intro.md)"
