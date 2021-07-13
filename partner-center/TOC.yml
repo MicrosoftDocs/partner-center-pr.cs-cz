@@ -9,27 +9,13 @@
     - name: Partner Microsoftu
       href: mpn-overview.md
       displayName: mpn
-    - name: Vytvoření účtu MPN v partnerském centru
+    - name: Vytvoření účtu MPN v Partnerském centru
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Řešení potíží s nastavením účtu
       href: troubleshoot-account-sign-n.md
-    - name: Přesuny z PMC
-      items:
-        - name: Příprava k migraci z PMC
-          href: prepare-pmc-pc-migration.md
-          displayName: 'role, roles, ro, mpn'
-        - name: Průvodce přesunem z PMC
-          href: guide-to-migration.md
-        - name: Porovnání PMC a Partnerského centra
-          href: move-pmc-pc-map.md
-        - name: Přesun více společností
-          href: move-multiple-companies.md
-        - name: Konsolidace společností
-          href: consolidate-accounts.md
-        - name: Aktivace výhod pro PMC
-          href: partner-membership-center-tech-benefits-activate.md
-          displayName: mpn
+    - name: Vyřazení partnerského centra členství
+      href: partner-membership-center-retirement-faq.md
     - name: Výhody členství
       items:
         - name: Přehled výhod
@@ -48,9 +34,9 @@
           href: mpn-find-benefits.md
           displayName: mpn
         - name: Zásady a používání výhod – Nejčastější dotazy
-          href: benefits-faq-new.md
+          href: benefits-faq-new.yml
         - name: Nejčastější dotazy k výhodám
-          href: benefits-faq.md
+          href: benefits-faq.yml
           displayName: 'renew, license,'
         - name: Zobrazení nebo stažení faktury MPN
           href: mpn-view-print-maps-invoice.md
@@ -68,7 +54,7 @@
         - name: Softwarové produkty
           href: mpn-benefits-software.md
           displayname: 'software, on-premise benefit, mpn'
-        - name: Výhody sady Visual Studio
+        - name: výhody Visual Studio
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
         - name: Technické předprodejní a zaváděcí služby
@@ -97,11 +83,11 @@
         - name: Informace o kompetencích
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Zaregistrovat jako vzdělávacího partnera
+        - name: zaregistrovat jako partnerský Učení
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Nejčastější dotazy ke kompetencím
-          href: competencies-faq.md
+          href: competencies-faq.yml
           displayName: 'renew, mpn'
         - name: Poplatky za kompetenci
           href: mpn-pay-fee-silver-gold-competency.md
@@ -114,12 +100,13 @@
       items:
         - name: Předvedení vaší odbornosti
           href: advanced-specializations.md
+          displayName: Advanced specializations
         - name: Žádost nebo kontrola stavu
           href: advanced-specializations-apply.md
-          displayName: mpn
+          displayName: 'mpn, Advanced specializations'
     - name: Staňte se Poskytovatelem spravovaných služeb Azure Expert
       href: azure-expert-msp.md
-- name: Program poskytovatele Cloud Solution Provider (CSP)
+- name: Cloud Solution Provider program (CSP)
   href: csp-overview.md
   displayName: csp
   items:
@@ -161,7 +148,7 @@
         - name: Partnerské centrum pro Microsoft Cloud for US Government
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: Nejčastější dotazy – Microsoft Cloud for US Government
-          href: faq-for-us-govt-cloud.md
+          href: faq-for-us-govt-cloud.yml
           displayName: csp
         - name: Partnerské centrum pro Microsoft Cloud pro Německo
           href: partner-center-for-microsoft-cloud-germany.md
@@ -204,7 +191,9 @@
         - name: Aktualizace partnerského profilu
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Informace o čísle ID registrace
+        - name: Certifikace seznamu hledání partnerů
+          href: partner-finder-certification.md
+        - name: Registrační identifikační číslo – informace
           href: reg-number-id.md
         - name: Staňte se dodavatelem ovládacího panelu
           href: enroll-as-cpv.md
@@ -231,7 +220,7 @@
           href: reset-a-user-password.md
         - name: Resetování hesla
           href: reset-my-pasword.md
-        - name: Řešení potíží s přihlášením
+        - name: Řešení potíží s přihlašováním
           href: unable-to-sign-in.md
         - name: Uživatel nemá žádného správce MPN
           href: no-mpn-admin.md
@@ -263,12 +252,12 @@
           href: bulk-operations.md
         - name: Používání konektorů CRM por spoluprodej
           items:
-            - name: Pro Dynamics 365
+            - name: Konektor pro Dynamics 365
               href: connector-dynamics.md
-            - name: Pro Salesforce
+            - name: Konektor pro Salesforce
               href: connector-salesforce.md
-        - name: Řešení potíží s konektory
-          href: connectors-troubleshoot.md
+            - name: Řešení potíží s konektory
+              href: connectors-troubleshoot.md
         - name: Spoluprodej – Migrace z PSC na Partnerské centrum
           href: psc-to-pc.md
           displayName: mpn
@@ -276,7 +265,7 @@
       href: register-deals.md
     - name: Získání přehledů o referencích
       href: referral-insights.md
-    - name: Získání přehledů potenciálních zákazníků
+    - name: Získání přehledů o potenciálních zákaznících
       href: analyze-your-marketing-profile.md
       displayName: mpn
 - name: Pobídky
@@ -365,7 +354,7 @@
         - name: Stav plateb pro Solution Assessment
           href: chip-solution-assessment-payment.md
         - name: Nejčastější dotazy k programu Solution Assessment
-          href: chip-faq.md
+          href: chip-faq.yml
         - name: Potíže s přístupem k platformě CHIP
           href: chip-access-trouble.md
 - name: Fakturace a daně
@@ -444,7 +433,7 @@
           displayName: 'region, regio'
         - name: Žádost o kredit SLA od Microsoftu
           href: request-credit.md
-        - name: Vliv daňových zásad na výplatu
+        - name: Jak daňové zásady ovlivňují výběr
           href: tax-policies-affect-payout.md
     - name: Nastavení rozpočtu na útratu zákazníků v Azure
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -511,7 +500,7 @@
         - name: Nákup nabídek na marketplace
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
-        - name: Správa licencování v nabídek marketplace
+        - name: Správa licencování v nabídkách Marketplace
           href: csp-commercial-marketplace-licensing.md
           displayName: csp
         - name: Exkluzivní nabídky od nezávislých výrobců softwaru na marketplace
@@ -576,7 +565,7 @@
         - name: Přenos předplatných Azure
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
-        - name: Převod předplatných plánu Azure zákazníka na jiného partnera
+        - name: Přenos předplatných plánu Azure pro zákazníka na jiného partnera
           href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Předplatná softwaru
       href: csp-software-subscriptions.md
@@ -787,5 +776,5 @@
       href: partner-security-compliance.md
       displayName: csp
     - name: Nejčastější dotazy
-      href: partner-security-requirements-faq.md
+      href: partner-security-requirements-faq.yml
       displayName: 'sandbox, csp'
