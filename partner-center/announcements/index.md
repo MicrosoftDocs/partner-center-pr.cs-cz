@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: 81b687e6c1f5fe1f35fc12f7dbb53e76416b5005
-ms.sourcegitcommit: 285c0007cb2c2e26ff6a3d2fd6bf91edc82a3946
+ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "113648361"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684266"
 ---
 # <a name="partner-center-announcements"></a>Oznámení Partnerského centra
 
@@ -22,6 +22,7 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 
 |**Kategorie**|**Oznámení z července 2021**|**Datum oznámení**|
 |---------|:---------|:---------|
+|Možnosti|[Software v programu Microsoft čína Corporation s omezením (MCCL) Cloud Solution Provider (CSP) a Open License změnit](2021-july.md#9)| 13. července |
 |Připravenost|[změny v rozhraní API pro ověřování adres zákazníka v Cloud Solution Provider (CSP) k provozu 13. července 2021](2021-july.md#8)| 12. července |
 |Možnosti|[aktualizace a připomenutí od komunity Cloud Solution Provider (CSP)](2021-july.md#7)| 12. července |
 |Možnosti|[Udržování aktivních certifikátů Microsoftu s využitím partnerského centra](2021-july.md#6)| 9. července |
@@ -85,35 +86,35 @@ Seznamte se s důležitými aktualizacemi Partnerského centra. Tyto informace �
 |Možnosti|[Licenční klíč softwaru partnerského centra a stažení](2021-march.md#4)|5. března|
 |Možnosti|[migrace vašich obchodů z partner Sales Připojení (PSC) do partnerského centra](2021-march.md#3)|5. března|
 |Možnosti|[Nové produkty a nabídky společnosti Microsoft Dynamics 365, které jsou k dispozici od 1. dubna 2021](2021-march.md#2)|4. března|
-|Možnosti|[Univerzální tisk společnosti Microsoft je nyní k dispozici v některých sadách.](2021-march.md#1)|3. březen|
+|Možnosti|[Microsoft Univerzální tisk nyní k dispozici v některých sadech](2021-march.md#1)|3. března|
 |**Kategorie**|**Oznámení z února 2021**|**Datum oznámení**|
-|Možnosti|[Rozhraní API kvalifikace pro vložení je vyřazeno, může se stát, že se vyřadí](2021-february.md#14)|25. února|
-|Možnosti|[Sdílení obchodů ve společném prodeji pomocí funkce hromadné operace v partnerském centru](2021-february.md#13)|25. února|
-|Možnosti|[migrujte své obchody z části Partner Sales Připojení (PSC) pomocí nové funkce pro migraci do služby rozdat.](2021-february.md#12)|25. února|
-|Možnosti|[Zvýšená flexibilita s využitím spoluprodejních obchodů v rámci partnerů](2021-february.md#11)|25. února|
-|Možnosti|[změny v registraci zákazníka Cloud Solution Provider (CSP)](2021-february.md#10)|25. února|
-|Možnosti|[Nyní Live: DocuSign migrace do Adobe Signing pro partnery v rámci smluv partnerů Microsoftu (MPAs)](2021-february.md#9)|16. února|
+|Možnosti|[Rozhraní PUT Qualification API se vyřazena, v květnu se vyřazení pomocí GET](2021-february.md#14)|25. února|
+|Možnosti|[Sdílejte dohody o spoluprodát ve velkém měřítku s využitím Partnerské centrum hromadného provozu.](2021-february.md#13)|25. února|
+|Možnosti|[Migrace dohod z programu Partner Sales Připojení (PSC) pomocí funkce migrace nové dohody](2021-february.md#12)|25. února|
+|Možnosti|[Větší flexibilita díky dohodám o spoluprodátech vedené partnery](2021-february.md#11)|25. února|
+|Možnosti|[Změny onboardingu Cloud Solution Provider zákazníka (CSP)](2021-february.md#10)|25. února|
+|Možnosti|[Nyní živě: Migrace DocuSign na Adobe Sign pro partnery v rámci Smluv s partnerem Microsoftu (MPA)](2021-february.md#9)|16. února|
 |Rozšiřte svou firmu|[Připomenutí: Představujeme omezování rozhraní API pro partnery, kteří volají rozhraní API Partnerského centra](2021-february.md#8)|16. února|
-|Možnosti|[Představujeme témata Microsoft vivae](2021-february.md#7)|12. února|
-|Nabídky/trhy|[Microsoft 365 E3 cenové změny přicházejí 2021. března](2021-february.md#6)|11. února|
-|Nabídky/trhy|[Aktualizovaný ceník verze Preview založený na licencích pro norské koruna](2021-february.md#5)|10. února|
-|Možnosti|[Premium posouzení, doplněk ke správci dodržování předpisů přichází 1. března 2021](2021-february.md#4)|5. února|
-|Možnosti|[Reakce na COVID-19: Microsoft Partner Network Update](2021-february.md#3)|4. února|
-|Možnosti|[Nové aktualizace modulu odkazy v partnerském centru](2021-february.md#2)|4. února|
-|Moderní pracoviště|[Vyřazení a vyřazení rozhraní API kvalifikace pro vzdělávání pro proces ověření zákazníka od 25. února 2021 a získání kvalifikace podle dne 4. května 2021](2021-february.md#1)|4. února|
+|Možnosti|[Představení témat Microsoft Viva](2021-february.md#7)|12. února|
+|Nabídky/trhy|[Microsoft 365 E3 cen pro březen 2021](2021-february.md#6)|11. února|
+|Nabídky/trhy|[Aktualizace ceníku na základě licencí ve verzi Preview pro norštinu](2021-february.md#5)|10. února|
+|Možnosti|[Premium posouzení, doplněk Správce dodržování předpisů, se bude 1. března 2021](2021-february.md#4)|5. února|
+|Možnosti|[Reakce na COVID-19: Microsoft Partner Network aktualizace](2021-february.md#3)|4. února|
+|Možnosti|[Nové aktualizace modulu Referenční odkazy v Partnerské centrum](2021-february.md#2)|4. února|
+|Moderní pracoviště|[Vyřazení a vyřazení kvalifikačních rozhraní API PUT pro proces ověřování zákazníků v oblasti vzdělávání do 25. února 2021 a kvalifikace GET do 4. května 2021](2021-february.md#1)|4. února|
 | **Kategorie** | **Oznámení z ledna 2021** | **Datum oznámení** |
-|Moderní pracoviště|[Fáze 1: Dnes: v rámci EU/ESVO & Velká Británie v měně pro nové nabídky obchodu](2021-january.md#15)|28. ledna|
+|Moderní pracoviště|[Fáze 1: Eu/EFTA & Měna fakturace pro nové obchodní nabídky ve Spojeném království](2021-january.md#15)|28. ledna|
 |Moderní pracoviště|[Změny požadavků na onboarding zákazníků do programu Cloud Solution Provider (CSP)](2021-january.md#14)|28. ledna|
-|Možnosti|[Partnerská smlouva Microsoft (MPA) – aktualizace nepřímých prodejců & nových nejčastějších dotazech](2021-january.md#13)|27. ledna|
-|Možnosti|[Změny protokolu auditu partnerského centra pro zahrnutí dvou nových typů operací pro DAP](2021-january.md#12)|25. ledna|
-|Možnosti|[Změny nabídky Azure v cloudu, které souvisejí s novým prostředím Commerce pro Azure](2021-january.md#11)|21. ledna|
+|Možnosti|[Smlouva s partnerem Microsoftu (MPA) – aktualizace nepřímých prodejců & nejčastější dotazy](2021-january.md#13)|27. ledna|
+|Možnosti|[Partnerské centrum protokolu auditu tak, aby zahrnovaly dva nové typy operací pro DAP](2021-january.md#12)|25. ledna|
+|Možnosti|[Změny dostupnosti nabídek Azure v CSP související s novým komerčním prostředím v CSP pro Azure](2021-january.md#11)|21. ledna|
 |Podpora růstu vaší firmy|[Časově neomezený software nově obecně dostupný v programu Cloud Solution Provider](2021-january.md#10)|19. ledna|
 |Podpora růstu vaší firmy|[Připomenutí: Představujeme omezování rozhraní API pro partnery, kteří volají rozhraní API Partnerského centra](2021-january.md#9)|19. ledna|
 |Nabídky/trhy|[Vydání SCI (Security, Compliance, and Identity) chystaná na 1. února 2021](2021-january.md#8)|15. ledna|
 |Možnosti|[Migrace DocuSignu na Adobe Sign pro partnery, kteří mají uzavřené Smlouvy s partnerem Microsoftu (MPA)](2021-january.md#7)|15. ledna|
 |Nabídky/trhy|[Aktualizace komerčních cen pro NOK](2021-january.md#6)|14. ledna|
 |Nabídky/trhy|[Aktualizace komerčních cen pro INR](2021-january.md#5)|8\. ledna|
-|Nabídky/trhy|[plánování volání a Telefonní systém aktualizace pro 1. února 2021](2021-january.md#4)|8\. ledna|
+|Nabídky/trhy|[Aktualizace plánu volání a Telefonní systém pro 1. února 2021](2021-january.md#4)|8\. ledna|
 |Nabídky/trhy|[Aktualizace ceníku na základě licencí pro leden 2021](2021-january.md#3)|8\. ledna|
 |Možnosti|[Vyřazení stávajících kvalifikačních rozhraní API GET a PUT pro proces ověřování zákazníků z oblasti vzdělávání do konce února 2021](2021-january.md#2)|5\. ledna|
 |Nabídky/trhy|[Nabídky Dynamics 365 pro únor 2021](2021-january.md#1)|4\. ledna|

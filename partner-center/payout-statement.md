@@ -1,151 +1,151 @@
 ---
 title: Výpisy plateb
-description: Další informace o příkazech výběr a souhrnech a o tom, jak zobrazit a exportovat platební data z partnerského centra Microsoftu
+description: Přečtěte si o výpisech a souhrnech plateb a o tom, jak zobrazit a exportovat platební údaje z Microsoft Partnerské centrum
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: 4dac00e420b8787d2c8f67072a45bc29cbe7a645
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: b905d422b10e0b82225966fa5379283ea0b83a69
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599785"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684011"
 ---
 # <a name="payout-statements"></a>Výpisy plateb
 
-**Příslušné role**: správce účtu | Globální správce
+**Odpovídající role:** Správce účtu | Globální správce
 
-**Příkaz Výběr** nabízí přehled o vašich výběrech z nabídek prodávaných prostřednictvím komerčního tržiště. Zobrazuje transakční historii příjmů, odhaduje vaši další platbu a znázorňuje trendy plateb. Můžete si také stáhnout historii transakcí a výpisy plateb. V tomto článku se dozvíte, jak získat přístup k příkazu pro výběr, a k různým stránkám výběr a ke stažení dostupným v partnerském centru.
+Výpis **platby představuje** přehled vašich výplat z nabídek prodaných prostřednictvím komerčního marketplace. Zobrazuje historii transakcí vašich příjmů, odhadne vaši další platbu a zobrazuje trendy plateb. Můžete si také stáhnout historii transakcí a výpisy plateb. Tento článek vysvětluje, jak získat přístup k výpisu platby a různým stránkám výplat a souborům ke stažení, které máte Partnerské centrum.
 
 >[!NOTE]
->Zobrazí se pouze data pro MPN ID a programy, ke kterým jste přidruženi. Pokud chcete zobrazit další data, spolupracujte se správcem účtu s oprávněním. 
+>Zobrazí se pouze data pro ID MPN a programy, ke které jste přidruženi. Pokud chcete zobrazit další data, pracujte s oprávněními u správce účtu. 
 
 ## <a name="roles-and-permissions"></a>Role a oprávnění
 
-Chcete-li získat přístup k příkazu typu výběr, je nutné přiřadit roli **vlastníka účtu** nebo **finančního přispěvatele** .
+Pokud chcete získat přístup k výpisu platby, musíte mít přiřazenou roli Vlastník **účtu** nebo **Přispěvatel finančních** prostředků.
 
-| Sestavy/stránky | Vlastník účtu | Manažer | Vývojář | Obchodní Přispěvatel | Přispěvatel pro finance | Obchodník |
+| Sestavy/stránky | Vlastník účtu | Manažer | Vývojář | Přispěvatel pro firmy | Přispěvatel financí | Marketingu |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sestava pořízení (včetně dat téměř v reálném čase) | Může zobrazit | Může zobrazit | Bez přístupu | Bez přístupu | Může zobrazit | Bez přístupu |
-| Sestava nebo odpovědi zpětné vazby | Může zobrazit a odeslat názor. | Může zobrazit a odeslat názor. | Může zobrazit a odeslat názor. | Bez přístupu | Bez přístupu | Může zobrazit a odeslat názor. |
-| Sestava stavu (včetně dat téměř v reálném čase) | Může zobrazit | Může zobrazit | Může zobrazit | Může zobrazit | Bez přístupu | Bez přístupu |
+| Sestava pořízení (včetně dat v reálném čase) | Může zobrazit | Může zobrazit | Bez přístupu | Bez přístupu | Může zobrazit | Bez přístupu |
+| Sestava zpětné vazby / odpovědi | Může zobrazit a odeslat zpětnou vazbu. | Může zobrazit a odeslat zpětnou vazbu. | Může zobrazit a odeslat zpětnou vazbu. | Bez přístupu | Bez přístupu | Může zobrazit a odeslat zpětnou vazbu. |
+| Sestava stavu (včetně dat v reálném čase) | Může zobrazit | Může zobrazit | Může zobrazit | Může zobrazit | Bez přístupu | Bez přístupu |
 | Sestava využití | Může zobrazit | Může zobrazit | Může zobrazit | Může zobrazit | Bez přístupu | Bez přístupu |
-| Účet pro výběr | Může aktualizovat | Bez přístupu | Bez přístupu | Bez přístupu | Může aktualizovat | Bez přístupu |
+| Platební účet | Může aktualizovat | Bez přístupu | Bez přístupu | Bez přístupu | Může aktualizovat | Bez přístupu |
 | Daňový profil | Může aktualizovat | Bez přístupu | Bez přístupu | Bez přístupu | Může aktualizovat | Bez přístupu |
 | Přehled plateb | Může zobrazit | Bez přístupu | Bez přístupu | Bez přístupu | Může zobrazit | Bez přístupu |
 |
 
-## <a name="access-your-payout-statement"></a>Přístup k příkazu výběr
+## <a name="access-your-payout-statement"></a>Přístup k výpisu platby
 
-Přihlaste se k [partnerskému centru](https://partner.microsoft.com/dashboard/home) a v pravém horním rohu obrazovky vyberte ikonu výběr, abyste měli přístup k těmto různým souhrnům:
+Přihlaste se [Partnerské centrum](https://partner.microsoft.com/dashboard/home) a výběrem ikony výplaty v pravém horním rohu obrazovky získejte přístup k těmto různým souhrnům:
 
 - Historie transakcí
 - Platby
 - Exportovat data
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ukazuje ikonu Výběr v pravém horním rohu portálu partnerského centra.":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Znázorňuje ikonu Výplata v pravém horním rohu portálu Partnerské centrum Portal.":::
 
-[Rozhraní API pro výběr partnerů](/rest/api/partner-center/partner-payouts) můžete použít také k připojení a získání transakcí výběrů a platebních údajů přímo. Další informace najdete v [části Správa výběrů pomocí rozhraní API služby výběr](/partner-center/develop/manage-payouts).
+K přímému připojení a získání transakčních a platebních údajů o platbě můžete použít také rozhraní [PARTNER Payout API.](/rest/api/partner-center/partner-payouts) Další informace najdete v rozhraní API pro [výplaty v rozhraní API pro správu výplat.](/partner-center/develop/manage-payouts)
 
 
 ## <a name="transaction-history"></a>Historie transakcí
 
-Na stránce **historie transakcí** se zobrazuje souhrn příjmů, odhad další platby a trend a podíl plateb za posledních 36 měsíců. Z této části si také můžete stáhnout podrobnosti o transakcích.<br><br>Tato sestava zobrazuje všechny příjmy, které mají nárok na výběr, včetně dosud neodeslaných plateb. Tržby mají nárok na výběr, když ISV dokončí všechny bankovní a daňové informace v partnerském centru, vygenerovala >$50, účet ISV je aktivní a zákazník se účtuje (pro transakce EA) nebo platba byla přijata (pro transakce, které nejsou EA).
+Na **stránce Historie transakcí** se zobrazuje souhrn vašich příjmů, odhadovaná příští platba a trend příjmů a plateb za posledních 36 měsíců. Podrobnosti o transakcích si také můžete stáhnout z této části.<br><br>Tato sestava zobrazuje všechny příjmy vhodné k výplatě, včetně dosud neposlaných plateb. Příjmy jsou způsobilé k výplatě, když isV dokončí všechny bankovní a daňové údaje v Partnerské centrum, získá >50 USD, účet ISV je aktivní a zákazníkovi se fakturuje (za transakce EA) nebo byla přijata platba (za transakce mimo EA).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Přehled transakcí":::
 
-- **Příjmy zaslaly tento rok** – celkové tržby a rozpis výdělků, které byly placené a budou vypláceny v nadcházejícím měsíci.
-- **Odhadované platební měsíc** – očekávané tržby v nadcházejících měsících.
-- **Trend a trend plateb** – měsíční výnosy a částky plateb za posledních 36 měsíců.
-- **Stáhnout** – podrobnosti o transakcích se stáhnou ve formátu .csv nebo. TSV.
+- **Příjmy odeslané v tomto roce** – celkové příjmy a rozpis příjmů, které byly zaplaceny a budou zaplaceny v nadcházejícím měsíci.
+- **Odhadovaný měsíc platby** – celkové příjmy očekávané v nadcházejících měsících.
+- **Výnosy a trend plateb** – měsíční příjmy a částky plateb za posledních 36 měsíců.
+- **Download** – stáhne podrobnosti o transakcích .csv nebo .tsv.
 
-Pomocí výběru rozsahu kalendářních dat v pravém horním rohu stránky můžete vyfiltrovat výstup stránky, aby se zobrazily poslední 3, 6, 12 nebo 36 měsíců. Případně vyberte vlastní rozsah kalendářních dat až do 36 měsíců. Výchozí rozsah kalendářních dat je 12 měsíců. Můžete také filtrovat podle ID registrace, programu, ID platby, typu odblokování, páky a stavu. Data jsou k dispozici pro aktuální fiskální rok (1. června 30) a předchozí dva fiskální roky.
+Pomocí výběru rozsahu dat v pravém horním rohu stránky vyfiltrujte výstup stránky tak, aby se zobrazí posledních 3, 6, 12 nebo 36 měsíců. Nebo vyberte vlastní rozsah dat až 36 měsíců. Výchozí rozsah dat je 12 měsíců. Můžete také filtrovat podle ID registrace, programu, ID platby, typu příjmu, využití a stavu. Data jsou k dispozici pro aktuální fiskální rok (1. července až 30. června) a předchozí dva fiskální roky.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Vyhledávací filtr v pravém horním rohu stránky.":::
 
-Chcete-li zobrazit další podrobnosti o objektu k dispozici, vyberte šipku dolů na pravé straně stránky. Tím se zobrazí páčka, objem výnosů, produkt a zákazník. Pokud z nějakého důvodu není k dispozici některá z těchto dat, ale potřebujete k ní přístup, obraťte se na podporu. Pokud je vznikne výsledek úpravy, a ne transakce, nezobrazí se pole produktu a zákazníka.
+Pokud chcete zobrazit další podrobnosti o výdělku, vyberte šipku dolů na pravé straně stránky. Tím se zobrazí využití, výše výnosů, produkt a zákazník. Pokud z nějakého důvodu některá z těchto dat nejsou k dispozici, ale potřebujete k ní přístup, obraťte se na podporu. Pokud je příjmem výsledek úpravy, a ne transakce, pole Product (Produkt) a Customer (Zákazník) se nezobrazí.
 
 ### <a name="transaction-history-summary"></a>Souhrn historie transakcí
 
-V tomto zobrazení se zobrazují podrobnosti o převádění, včetně původu z produktů, které se prodávají z dat, stavu a odhadované platební měsíce.
+V tomto zobrazení se zobrazují podrobnosti o příjmech, včetně původu výdělku z dat výdělku prodaného produktu, stavu a odhadovaného měsíce platby.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Historie transakcí.":::
 
-- **Datum výpočtu** – datum nákupu.
-- **Typ** vlastnictví – typ přijetí, jako je například prodej, Rabat nebo souběžná op.
-- **Celková částka** – částka za netto Na komerčním webu Marketplace to znamená po odečtení standardního poplatku za Marketplace.
-- **Stav** – obsahuje tři možnosti:
-    - **Nadcházející** – příjmy jsou v nevyřízeném období chlazení.
-    - **Zpracované** – příjmy se připravují na další platbu.
-    - **Odeslané** – příjmy byly placené.
-- **Odhadovaný měsíční měsíc** – měsíc, ve kterém se mají platby zaplatit. Další informace najdete v [Další části](#estimated-payment-month) .
+- **Datum** vydělání – datum nákupu
+- **Typ příjmových** ingem – typ příjmových ingem, jako je prodej, rebace nebo spolupráce.
+- **Total amount** – částka čistého výdělku. Na komerčním marketplace to znamená po odečtení standardního poplatku za marketplace.
+- **Stav** – má tři možnosti:
+    - **Upcoming** – Příjmy jsou v období čekání na chlazení.
+    - **Zpracované –** Příjmy jsou připravené k další platbě.
+    - **Odeslané** – Příjmy byly zaplaceny.
+- **Odhadovaný měsíc platby** – měsíc, ve který se očekává platba příjmů. Další [informace najdete v](#estimated-payment-month) další části.
 
-Transakce se zobrazí, jakmile transakce splňuje podmínky pro výběr. Informace o tom, proč možná nemáte nějaké nebo neočekávané tržby, najdete v tématu [běžné otázky o výběrech na komerčním webu Marketplace](payout-faq.md#why-are-my-earnings-missing).
+Transakce příjmů se zobrazí, jakmile transakce splňuje podmínky způsobilosti k výplatě. Informace o tom, proč vám můžou chybět nebo neočekávané příjmy, najdete v tématu Běžné dotazy týkající se výplat [na komerčním marketplace.](payout-faq.yml#why-are-my-earnings-missing-)
 
 #### <a name="estimated-payment-month"></a>Odhadovaný měsíc platby
 
-Stránka historie transakcí nyní obsahuje tabulku zobrazující odhadované částky plateb za několik následujících měsíců. Tyto informace můžete také zobrazit a stáhnout v části Historie transakcí a export sestavy souhrnu. Tyto informace usnadňují sladění a platební projekce.
+Stránka Historie transakcí teď obsahuje tabulku s odhadovanou částkou plateb za několik příštích měsíců. Tyto informace můžete také zobrazit a stáhnout v části Historie transakcí a Souhrnná exporty sestavy. Tyto informace usnadňují odsouhlasení a odhady plateb.
 
-Odhadovaný měsíc platby se vypočítá na základě pravidel konfigurace programu a časových os a zpracovává se v nejbližším nebo nadcházejícím platebním cyklu.
+Odhadovaný měsíc platby se počítá na základě pravidel konfigurace programu a časových os a zpracovává se v dalším/nadcházejícím platebním cyklu.
 
-Odhadovaný platební měsíc je aktuálně k dispozici pro všechny typy vyloučení s výjimkou souběžného op, který se zobrazí jako **nepoužitelné**. V případě zisků do 1. července 2020 se odhadované platební měsíc zobrazí jako **nedostupné**.
+Odhadovaný měsíc platby je aktuálně k dispozici pro všechny typy příjmových položek s výjimkou spolupráce, která se zobrazí jako **Nepoužili jste**. U příjmů před 1. červencem 2020 se odhadovaný měsíc platby zobrazí jako **Není k dispozici**.
 
-Příklad očekávaného měsíčního měsíce je uveden v následující tabulce.
+V následující tabulce je příklad odhadovaného měsíce platby.
 
 | Month (Měsíc) | Částka |
 | ------ | :-----------: |
-|  SEP-2020 |  $7 273,99   |
-|  Říjen – 2020 | $8 692,30  |
-|  Listopadu – 2020 | $107,89  |
+|  Sep-2020 |  7 273,99 USD   |
+|  Říjen–2020 | 8 692,30 USD  |
+|  Listopad 2020 | 107,89 USD  |
 
-Odhadovaná částka se může lišit od skutečné částky z nejrůznějších důvodů:
+Odhadovaná částka se může lišit od skutečného množství z různých důvodů:
 
-- Přepočítání stavu: Pokud se přepočítá zisky, skutečná částka bude odlišná.
-- Úpravy: skutečná hodnota se liší v závislosti na úpravách, které nastaly nebo byly odeslány.
-- Změna pravidel: Změna pravidel může odrážet přepočítání v rámci skutečné placené částky
+- Přepočítání příjmů: Pokud se příjmy přepočítájí, skutečná částka se bude lišit.
+- Úpravy: Skutečná částka se liší v závislosti na úpravách, ke kterým došlo nebo byly odeslány.
+- Změna pravidel: Změna pravidel může odrážet přepočítání skutečné zaplacené částky.
 - Splatné: Pokud dojde k selhání platby, skutečná částka se může lišit.
 
-Všimněte si, že vaše platba se vydává v předpokládaném měsíci, pokud jsou splněné prahové hodnoty a podmínky pro nárok na platbu v programu. Tato pravidla zahrnují, ale nejsou omezená na seznam níže:
+Mějte na vědomí, že vaše platba se uvolní v promítané měsíci pouze v případě, že jsou splněna prahová hodnota programu a pravidla způsobilosti pro platby. Mezi tato pravidla patří mimo jiné následující seznam:
 
 - Váš daňový profil musí být aktuální.
-- Vaše tržby musí splňovat nebo překročit prahovou hodnotu minimálního příjmu definovanou v Průvodci programem.
-- Výběr je zablokovaný: Pokud na stránce přiřazení profilů vyberete možnost podržet moji platbu.
-- Není k dispozici nástroj pro výběr: platba nebo daňový profil není dokončen.
+- Vaše příjmy musí splňovat nebo překročit prahovou hodnotu minimálních příjmů definovanou v průvodci programem.
+- Platba podržení: Pokud na stránce přiřazení profilů vyberete možnost "Hold my Payment" (Podržet platbu).
+- Platební nástroj není k dispozici: Platební nebo daňový profil se neskončí.
 
-### <a name="transaction-history-download"></a>Stažení Historie transakcí
+### <a name="transaction-history-download"></a>Stažení historie transakcí
 
-Pokud se chcete podívat na další podrobnosti o objektu, vyberte **Stáhnout** v horní části stránky. Následující tabulka vysvětluje jednotlivé sloupce v sestavě.
+Pokud chcete zobrazit další podrobnosti o výdělku, vyberte **Stáhnout** v horní části stránky. Následující tabulka vysvětluje jednotlivé sloupce v sestavě.
 
 >[!NOTE]
->Export historie transakcí má dvě nová pole, která jsou od srpna 2020:
+>Export historie transakcí ke stažení má k srpnu 2020 dvě nová pole:
 >
->- **lastPaymentCurrency**  Měna, ve které byla přijata poslední platba, ve všech MPNs, ke kterým má partner aktuálně přihlášený přístup. Pokud se nepřijme žádná platba, poslední platební měna bude US dolarů.
->- **earningAmountInLastPaymentCurrency**  Částka využitá v poslední platební měně
+>- **lastPaymentCurrency**  Měna, ve které byla přijata poslední platba, napříč všemi sítěmi MPN, ke kterým má momentálně přihlášený partner přístup. Pokud se neobdrží žádná platba, poslední měnou platby budou americké dolary.
+>- **earningAmountInLastPaymentCurrency**  Částka výdělku v měně poslední platby.
 
-| Název sloupce | Popis | Použitelnost pro pobídkové programy/tržiště |
+| Název sloupce | Popis | Použitelnost programů pobídek nebo marketplace |
 | --- | --- | --- |
-| agreementEndDate | Koncové datum smlouvy | Motivace – jenom některé programy |
-| agreementNumber | Číslo smlouvy | Motivace – jenom některé programy |
-| agreementStartDate | Počáteční datum smlouvy | Motivace – jenom některé programy |
-| calculationDate | Datum výpočtu v systému | Vše |
-| claimId | Jedinečný identifikátor pro deklaraci identity | Motivace – jenom některé programy |
-| customerCountry | Země nebo oblast zákazníka | tržišť |
+| agreementEndDate | Koncové datum smlouvy | Incentives – jenom některé programy |
+| agreementNumber | Číslo smlouvy | Incentives – jenom některé programy |
+| agreementStartDate | Počáteční datum smlouvy | Incentives – jenom některé programy |
+| calculationDate (datum výpočtu) | Datum výpočtu výdělku v systému | Vše |
+| ID deklarace identity | Jedinečný identifikátor deklarace identity | Incentives – jenom některé programy |
+| customerCountry | Země/oblast zákazníka | Tržiště |
 | customerEmail |  |  |
-| customerName | Může být prázdné | Jenom motivační programy (výjimka: OEM) a tržiště. V případě transakcí CSP zobrazí tržiště název CSP. |
+| customerName | Může být prázdné | Pouze programy pobídek (výjimka: OEM) a marketplace. V případě transakcí CSP se na marketplace zobrazí název CSP. |
 | customerTenantId |  |  |
-| distributorId | Identifikátor distributora | Motivace – jenom některé programy |
-| Distributor | Název distributora | Motivace – jenom některé programy |
-| earningAmount | Peněžní částka v původní transakční měně | Vše |
-| earningAmountInLastPaymentCurrency | Peněžní částka v poslední platební měně (pole bude prázdné, pokud se nezaplatily žádné předchozí platby) |  |
-| earningAmountUSD | Množství využité v USD | Vše |
-| earningDate | Datum přijetí | Vše |
-| earningExchangeRate | Exchange sazba použitá k zobrazení odpovídající částky v USD | Vše |
-| earningId | Jedinečný identifikátor pro každý z nich | Vše |
-| earningRate | Míra pobídek uplatňovaná na částku transakce pro vygenerování výnosu | Vše |
-| earningType | Indikuje, že se jedná o poplatek, Rabat, co-op, prodej atd. | Vše |
+| distributorId (ID distributora) | Identifikátor distributora | Incentives – jenom některé programy |
+| distributorName | Název distributora | Incentives – jenom některé programy |
+| earningAmount | Částka výdělku v původní měně transakce | Vše |
+| earningAmountInLastPaymentCurrency | Částka příjmů v měně poslední platby (pole bude prázdné, pokud nebyly zaplaceny žádné předchozí platby). |  |
+| earningAmountE | Částka výdělku v USD | Vše |
+| datum získání | Datum příjmů | Vše |
+| earningExchangeRate | Exchange použitá k zobrazení odpovídající částky v USD | Vše |
+| ID příjmu | Jedinečný identifikátor každého výdělku | Vše |
+| earningRate | Míra pobídek použitá na částku transakce k vygenerování příjmů | Vše |
+| earningType (typ příjmů) | Určuje, jestli se jedná o poplatek, slevu, spolupráci, prodej a tak dále. | Vše |
 | exchangeRateDate | datum sazby Exchange, která se používá k výpočtu EarningAmount USD | Vše |
 | externalReferenceId | Jedinečný identifikátor programu | Programy přímých plateb (pobídek a Marketplace) |
 | externalReferenceIdLabel | Popisek jedinečného identifikátoru | Programy přímých plateb (pobídek a Marketplace) |
@@ -190,11 +190,11 @@ Pokud se chcete podívat na další podrobnosti o objektu, vyberte **Stáhnout**
 | subscriptionStartDate | Počáteční datum předplatného | Incentives – jenom některé programy |
 | taxCity |  |  |
 | taxCountry |  |  |
-| taxRemitModel | Strana zodpovědná za daně (tržby, využití nebo daně z DPH/daně GST) | Tržiště |
+| taxRemitModel | Strana zodpovědná za daně (tržby, využití nebo DANĚ Z DPH/daně GST) | Tržiště |
 | taxRemitted (Vynecháno daně) | Částka zaplacené daně (tržby, využití nebo daně z DPH/GST) | Tržiště |
 | taxState | Stav zákazníka |  |
 | taxZipCode | PSČ zákazníka |  |
-| tpan (tpan) | Označuje síť reklam třetích stran. | marketplaces Pouze reklamy |
+| tpan (tpan) | Označuje síť reklam třetích stran. | marketplaces Pouze ads |
 | transactionAmount (částka transakce) | Částka transakce v původní měně transakce, na základě které se generují příjmy | Vše |
 | transactionAmount TRANSACTION | Částka transakce v USD | Vše |
 | transactionCountryCode | Kód země nebo oblasti, ve které došlo k transakci |  |
@@ -213,7 +213,7 @@ Následující tabulka uvádí kódy důvodů pro úpravy a jejich popisy.
 
 |**Kód důvodu**   |**Popis**   |
 |------------------|:-------------------------------------|
-| Dodržování předpisů ar | Úprava, která snižuje příjmy v případě, že partner nezaplatil faktury Microsoftu včas. |
+| Dodržování předpisů pro ar | Úprava, která snižuje příjmy v případě, že partner nezaplatil faktury Microsoftu včas. |
 | Převrácení spolupráce | Úprava, která převádí příjmy spolupráce na jiné období nebo převádí příjmy spolupráce na slevu. |
 | Úprava operací | Úprava, která opravuje chyby výpočtů systému microsoftu. |
 | Ops Adjustment Microsoft incorrect calc | Úprava, která opravuje přepočítání. |
@@ -227,11 +227,11 @@ Následující tabulka uvádí kódy důvodů pro úpravy a jejich popisy.
 Na **stránce Platby** najdete podrobnosti o penězích, které jste u Microsoftu získali. Také ukazuje, kdy a kolik budete platit.
 
 >[!Note]
-> Pokud chcete mít nárok na výplatu, musí vaše příjmy dosáhnout [prahové hodnoty platby](payment-thresholds-methods-timeframes.md) 50 USD. Další informace najdete v tématu Microsoft Publisher [smlouvy.](/legal/marketplace/msft-publisher-agreement)
+> Pokud chcete mít nárok na výplatu, musí vaše výnosy dosáhnout [prahové hodnoty platby](payment-thresholds-methods-timeframes.md) 50 USD. Další informace najdete v tématu Microsoft Publisher [smlouvy.](/legal/marketplace/msft-publisher-agreement)
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="Obrazovka s přehledem plateb":::
 
-- **Total paid this year** ( Celková částka zaplacená za tento rok v amerických dolarech) pro všechny vaše programy.
+- **Total paid this year** – celková celková částka, kterou vám tento rok zaplatily v amerických dolarech, pro všechny vaše programy.
 - **Příští odhadovaná platba** – jediná příští platba, která vám přijde (i když brzy nasází další) v amerických dolarech.
 - **Poslední platba** – částka (v amerických dolarech), název programu a program vaší poslední platby.
 - **Platba podle zdroje** – částka plateb (v amerických dolarech) na program za posledních 12 měsíců.
@@ -242,71 +242,71 @@ Tabulka **Seznam plateb zobrazuje** placené a nevyřízené platby. Můžete si
 
 :::image type="content" source="images/payouts/list-of-payments.png" alt-text="Export historie transakcí.":::
 
-- **Placené** – všechny úspěšně odeslané platby. Pokud chcete filtrovat platby vydané v tomto roce, zvolte rok v rozevírací nabídce.
+- **Placené** – všechny úspěšně odeslané platby. V rozevírací nabídce vyberte rok a vyfiltrujte platby vydané v tomto roce.
 - **Čeká** na vyřízení – nadcházející platby.
-- **Daň za poplatek za služby (formulář PDF)** – k dispozici pro platby, na které se vztahuje daň za poplatek za služby. Daně za poplatky za služby jsou uvedené v **dalších daních**.
-- **Zobrazení** – přesměruje na historii transakcí se seznamem výdělků zahrnutých do platby.
+- **Daň za poplatek za služby (formulář PDF)** – k dispozici pro platby, na které se vztahuje daň za poplatek za služby. Daně z poplatků za služby jsou uvedené v **části Ostatní daně**.
+- **Zobrazení** – přesměruje se na historii transakcí se seznamem příjmů, které jsou součástí platby.
 
-Informace o tom, proč možná nemáte nějaké nebo neočekávané tržby, najdete v tématu [běžné otázky o výběrech na komerčním webu Marketplace](payout-faq.md#why-are-my-earnings-missing).
+Informace o tom, proč vám můžou chybět nebo neočekávané příjmy, najdete v tématu Běžné dotazy týkající se výplat [na komerčním marketplace.](payout-faq.yml#why-are-my-earnings-missing-)
 
 ### <a name="payment-status"></a>Stav platby
 
-Následující tabulka popisuje různé stavy vystavení.
+Následující tabulka vysvětluje různé stavy výdělku.
 
-| Stav vystavení | Důvod | Je vyžadována akce partnera? |
+| Stav příjmů | Důvod | Vyžaduje se akce partnera? |
 | --- | --- | --- |
-| Nezpracované | Zisk má nárok na platbu. Zůstane v tomto stavu pro období chlazení, jak je definováno v Průvodci programu pro program pobídek. | No |
-| Nadcházející | Platební objednávka vygenerovala nevyřízené interní recenze před zpracováním platby. | No |
-| Nevyřízená daňová faktura | Vaše daňová faktura je neúplná nebo neplatná. | Abyste mohli platit, musíte si nejdřív aktualizovat svou daňovou fakturu. |
-| Zamítnuto během revize | Platba byla během revize odmítnuta. | Podrobnosti získáte od podpory Microsoftu. |
-| Neúspěšný | Platba se nezdařila z důvodu chyby systému společnosti Microsoft. | Podrobnosti získáte od podpory Microsoftu. |
+| Nezpracované | Příjmy jsou způsobilé k platbě. Zůstává v tomto stavu po dobu chlazení, jak je definováno v průvodci programem pro program Pobídky. | No |
+| Nadcházející | Před zpracováním platby vygenerovala platební objednávka nevyřízené interní kontroly. | No |
+| Nevyřízená daňová faktura | Vaše daňové doklady jsou neúplné nebo neplatné. | Než budete moci zaplatit platbu, musíte si aktualizovat fakturu za dani. |
+| Zamítnuto během revize | Platba se během revize zamítla. | Podrobnosti získáte od podpory Microsoftu. |
+| Neúspěšný | Platba selhala kvůli systémové chybě Microsoftu. | Podrobnosti získáte od podpory Microsoftu. |
 | Rozpracované | Platba probíhá. | No |
-| Nesprávná platba | Recouping platby probíhá. | No |
+| Nesprávná platba | Platba probíhá. | No |
 | Odesláno | Platba byla odeslána do vaší banky. | No |
-| Opětovného zpracování | V platbě došlo k systémové chybě společnosti Microsoft a probíhá její přepracování. | No |
-| Reversed | Platba byla stornována vaší bankou a bude odeslána znovu v dalším platebním cyklu. | No |
-| Daňová faktura odmítnuta | Vaše daňová faktura byla během revize odmítnuta. Všechny probíhající platby budou pozastaveny, dokud se nedokončí kontrola daňové faktury. | Podrobnosti získáte od podpory Microsoftu. |
-| Daňová faktura pod kontrolou | Vaše daňové faktury se přezkoumávají. Po schválení daňové faktury se vaše platba uvolní. | No |
-| Zamítnuto | Platba byla odmítnuta vaší bankou. | Podrobnosti získáte od své banky. |
+| Přepracování | Při platbě došlo k systémové chybě Microsoftu a znovu se zpracuje. | No |
+| Reversed | Vaše banka platbu převrácena a bude odeslána znovu v dalším platebním cyklu. | No |
+| Daňová faktura se zamítla | Vaše daňová faktura se během revize zamítla. Všechny nevyřízené platby budou ve stavu hold až do dokončení revize daňové faktury. | Podrobnosti získáte od podpory Microsoftu. |
+| Kontrola daňové faktury | Vaše daňové doklady se právě prochová. Po schválení daňové faktury se vaše platba uvolní. | No |
+| Zamítnuto | Vaše banka platbu zamítla. | S podrobnostmi se obraťte na svou banku. |
 |
 
 ### <a name="payments-download"></a>Stažení plateb
 
- Následující tabulka vysvětluje jednotlivé sloupce v sestavě. Pokud chcete zobrazit další podrobnosti o platbách, vyberte **Stáhnout** v horní části stránky s platbami.
+ Následující tabulka vysvětluje jednotlivé sloupce v sestavě. Pokud chcete zobrazit další podrobnosti o platbách, vyberte **Stáhnout** v horní části stránky Platby.
 
 | Název sloupce | Popis |
 | --- | --- |
-| participantID | Primární identita partnera v rámci programu |
-| participantIDType | Obvykle ID programu pro motivaci programů a ID prodejců pro aplikace ze Storu |
-| účastník | Název partnerského partnera |
-| programName | Pobídek/uložit název programu |
-| vytvořené | Množství realizované v měně za tento program/participantID |
-| earnedUSD | Množství získané pro ID programu/účastníka v USD |
-| withheldTax | Množství sražené daně v měně za program/participantID |
-| salesTax | Celková částka DPH v platbě za program/participantID (platí jenom pro programy pobídek) |
-| serviceFeeTax | Celková částka serviceFeeTax v platbě k měně pro program/participantID (platí pro programy pro Store a Azure Marketplace) |
-| totalPayment | Celková platba v místní měně s výjimkou srážkové daně a zahrnutí DPH (Pokud je k dispozici) pro program/participantID |
-| currencyCode | Plaťte podle kódu měny |
-| paymentMethod | Metoda použitá pro placení partnera, například přenos elektronické banky, dobropis |
-| paymentID | Jedinečný identifikátor pro platbu Toto číslo je obvykle viditelné v bankovním výpisu (platí pouze pro platby SAP). |
-| paymentStatus | Stav platby |
-| paymentStatusDescription | Popisný popis stavu platby |
-| paymentDate | Platba data byla odeslána od společnosti Microsoft. |
+| participantID | Primární identita partnera, který v programu získá příjmy |
+| participantIDType | Obvykle ID programu pro programy Incentives a ID prodejce pro programy Store |
+| participantName | Název partnera poskytujícího příjmy |
+| programName | Název programu Incentives/Store |
+| Vydělal | Částka získaná v měně Zaplatit za tento program/ID účastníka |
+| získané šoupáky | Částka získaná za ID programu nebo účastníka v USD |
+| withheldTax | Částka srážkové daně v měně Pay To pro program/participantID |
+| salesTax | Celková částka daně z prodeje v měně Pay To pro program/participantID (platí pouze pro programy pobídek) |
+| serviceFeeTax | Celková částka službyFeeTax v měně Pay To pro program/participantID (platí pouze pro programy v obchodech a Azure Marketplace) |
+| totalPayment | Celková platba v místní měně bez srážkové daně a včetně daně z prodeje (pokud je k dispozici) pro program/participantID |
+| currencyCode | Kód měny Pay To |
+| paymentMethod | Metoda použitá k platbě partnerovi, například elektronický bankovní převod, kreditní poznámka |
+| id platby | Jedinečný identifikátor platby Toto číslo je obvykle viditelné v bankovním výpisu (platí pouze pro platby SAP). |
+| stav platby | Stav platby |
+| popis stavu platby | Popis stavu platby |
+| datum platby | Datum odeslání platby od Microsoftu |
 |
 
 ## <a name="export-data"></a>Exportovat data
 
-Stránka **exportovat data** se neaktualizuje sama na sebe. Je možné, že budete muset stránku aktualizovat ručně, aby se zobrazila nejnovější data. Výběrem ze tří karet můžete exportovat **historii transakcí**, **platby**, **souhrn transakcí** nebo **historické příkazy**.
+Stránka **Export dat** se sama o sobě ne aktualizována. Možná budete muset stránku aktualizovat ručně, abyste viděli nejnovější data. Na těchto třech kartách můžete exportovat historii **transakcí,** **platby,** souhrn **transakcí** nebo **historický výpis**.
 
-Váš filtr může mít za následek **nedostupnou chybu dat** . K tomu může dojít, pokud jste opustili výchozí časové období, které jste vybrali po dobu tří měsíců, a pak jste si vybrali ID platby z vybírání, které je mimo tuto dobu. Pokud k tomu dojde, rozbalte své časové období a zkuste to znovu.
+Váš filtr může vést k chybě **Nejsou k dispozici žádná** data. K tomu může dojít v případě, že jste nechali výchozí časové období vybrané na tři měsíce a pak jste vybrali ID platby z příjmů, které jsou mimo toto období. Pokud k tomu dojde, rozbalte časové období a zkuste to znovu.
 
-Tady je ukázka exportu plateb:
+Tady je ukázkový export plateb:
 
-:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Sestava exportu plateb.":::
+:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Export sestavy plateb.":::
 
 ### <a name="historical-statements"></a>Historické příkazy
 
-Souhrn **exportu dat** také poskytuje přístup k historickým příkazům.
+Souhrn **Export dat** také poskytuje přístup k historickým výpisům.
 
 > [!NOTE]
 > Historický příkaz je snímek a není aktualizován. Obraťte se prosím na [podporu](https://partner.microsoft.com/support/v2/?stage=1) a v případě potřeby požádejte o nejnovější data.

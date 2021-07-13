@@ -9,12 +9,12 @@ metadata:
   author: JasonGroce
   ms.author: jasongroce
   ms.date: 02/01/2021
-  ms.openlocfilehash: 430f009e1fd7391ae06e49cb90611346a02b9f6c
-  ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
+  ms.openlocfilehash: efc7956295944a40a9574c7678da8ef20cd04fd9
+  ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 06/04/2021
-  ms.locfileid: "111446868"
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113684368"
 landingContent:
 - title: Začínáme s Partnerským centrem
   linkLists:
@@ -50,7 +50,7 @@ landingContent:
   linkLists:
   - linkListType: concept
     links:
-    - text: Přijměte Smlouva s partnerem Microsoftu
+    - text: Přijmout smlouvu s partnerem Microsoftu
       url: microsoft-partner-agreement.md
     - text: Požadavky na zabezpečení Partnerského centra
       url: partner-security-requirements.md
@@ -60,6 +60,10 @@ landingContent:
       url: azure-plan-lp.md
     - text: Získání podpory od Microsoftu
       url: support-from-microsoft.md
+    - text: Informace o Microsoft 365 Lighthouse
+      url: /microsoft-365/lighthouse/m365-lighthouse-overview
+    - text: Další informace o Azure Lighthouse
+      url: /azure/lighthouse/overview
   - linkListType: how-to-guide
     links:
     - text: Správa umístění účtu MPN

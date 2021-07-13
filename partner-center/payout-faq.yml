@@ -1,0 +1,229 @@
+### YamlMime:FAQ
+metadata:
+  title: Nejčastější dotazy k výplatám a daňovým profilům
+  description: Získejte odpovědi na běžné otázky týkající se vydaných a daňových údajů v partnerském centru. Obsahuje odpovědi na důvody, proč se vaše tržby liší od očekávání.
+  ms.service: marketplace
+  ms.subservice: partnercenter-marketplace-publisher
+  ms.topic: article
+  author: eunjkim520
+  ms.author: eunjkim
+  ms.date: 05/06/2021
+  ms.openlocfilehash: 30524899a85cff7439268d569e93810034109474
+  ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113686491"
+title: Běžné otázky k vydaným výběrům a daním
+summary: >
+  **Příslušné role**: správce účtu | Globální správce | Motivace správce
+
+
+  Tento článek obsahuje odpovědi na nejčastější dotazy k vydaným výběrům a daňovým podrobnostem v partnerském centru. Mezi zahrnuté předměty patří časování plateb, kontrola nároků na tržby a důležitost správného nastavení vašich výběrových a daňových profilů.
+sections:
+- name: Správa profilů
+  questions:
+  - question: >
+      Proč potřebuji zadat nebo aktualizovat můj výběr nebo podrobnosti daně?
+    answer: >
+      Všichni partneři, kteří registrují v novém programu, musí poskytnout platný výběr a daňové údaje, aby mohli dokončit jejich registraci a přijímat platby. Registrace se považuje za dokončenou až poté, co Microsoft ověří váš výběr a daňový profil.
+
+
+      Je také možné, že budete muset aktualizovat informace, pokud se změní pravidla pro váš program, nebo pokud vyprší platnost vašich aspektů vašeho profilu nebo se zastaraly. Pokud k tomu dojde, na stránce s přehledem se zobrazí stav **vyžadované akce – Aktualizovat banku nebo daňový profil**.
+  - question: >
+      Návody najít, nastavit nebo aktualizovat výběr a podrobnosti daně?
+    answer: >
+      Podrobné informace o tom, jak aktualizovat platební a daňové údaje v partnerském centru, najdete v tématu [Nastavení účtu výběr a daňového formuláře](set-up-your-payout-account.md).
+  - question: >
+      Proč se mi při pokusu o přiřazení platebního a daňového profilu nezobrazují moje registrace?
+    answer: >
+      Může to být tím, že nemáte potřebná oprávnění nebo jste se přihlásili pomocí účtu, který nemá tato oprávnění. Například jenom finanční správci pro vaše umístění MPN můžou vytvářet a spravovat výběr a daňové profily. Pokud chcete spravovat oprávnění pro bankovní a daňové údaje, obraťte se na správce vaší organizace.
+  - question: >
+      Můžu se přihlásit jenom s @onmicrosoft.com doménou. Co bych měl/a dělat?
+    answer: >
+      Požádejte správce účtu, aby do účtu AAD přidal více domén.
+  - question: >
+      Moje organizace se účastní více programů. Potřebuji zadat platbu a daňový profil několikrát?
+    answer: >
+      Záleží na potřebách vaší organizace. Profily plateb se vytvářejí na úrovni organizace, což umožňuje přiřadit ke stejnému bankovnímu profilu v rámci organizace několik ID MPN a programů. Ve většině případů můžete buď znovu použít stávající profil, nebo vytvořit nový.
+
+
+      Můžou však existovat výjimky, například při používání bankovního profilu pro jiné země nebo oblasti, kde můžou platit místní bankovní nebo daňová pravidla.
+
+
+      Daňové profily vytvořené pro umístění MPN se znovu použijí a automaticky naplní, když se stejné umístění MPN účastní v jiném programu. Můžou však existovat výjimky. Například pravidla pro platby nového programu pobídek můžou v daňovém profilu vyžadovat další podrobnosti.
+  - question: >
+      Můžu použít stejnou banku a daňové údaje pro všechny pobídkové programy v Microsoftu?
+    answer: >
+      Pokud je vaše společnost pozvaní na více programů, můžete použít stejný platební účet pro všechny programy nebo si můžete zvolit, aby pro různé programy používaly různé platební účty.
+  - question: >
+      Jak Microsoft zaručí, že informace o bance jsou vlastně společnosti, a ne osobní bankovní účet pro zaměstnance?
+    answer: >
+      Je zodpovědností společnosti, aby se zajistilo, že role pobídek Admins, která má oprávnění k úpravám těchto informací, je dána pouze vhodným zaměstnancům.
+  - question: >
+      Platnost mého daňového profilu vypršela. Návody opravu aktualizovat?
+    answer: >
+      Pokud vypršela platnost daňového profilu nebo brzy vyprší platnost, znamená to, že je nutné aktualizovat daňový formulář, který jste poskytli společnosti Microsoft. K aktualizaci svého daňového profilu použijte následující postup:
+
+
+      1. přihlaste se k [řídicímu panelu](https://partner.microsoft.com/dashboard/home)partnerského centra a výběrem ikony ozubeného kolečka otevřete nabídku **Nastavení** .
+
+      2. Vyberte **Nastavení účtu**, rozbalte část **Výběr a daň** a pak vyberte **Výběr a daňový** profil.
+
+      3. Vybrat **daňový** profil
+
+      4. Ověřte **Datum vypršení platnosti** sloupce a přejděte do vyprší platnost daňového profilu, jehož platnost vypršela nebo brzy vyprší.
+
+      5. Výběrem **Upravit** spusťte proces úpravy daňového profilu.
+
+      6. V části daňový formulář zadejte aktualizované podrobnosti.
+- name: Nesprávné nebo chybějící výdělky
+  questions:
+  - question: >
+      Proč moje příjmy chybí?
+    answer: >
+      - Objednávka zákazníka možná ještě není způsobilá k výplatě. V případě objednávek jiných než podnikových zákazníků musí Microsoft nejprve přijmout platbu zákazníka, a teprve pak vydavatel získá nárok na příjem. V případě objednávek podnikových zákazníků budou vaše příjmy k dispozici 1–2 dny od data nákupní objednávky. Ověřte stav objednávky v [sestavách objednávek](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
+
+      - V sestavě historie transakcí se nemusí zobrazovat příjmy z transakcí provedených před červencem 2019. Zkontrolujte historické výpisy ve [stažených informacích o platbách](https://partner.microsoft.com/dashboard/payouts/reports/incentiveexport).
+
+      - Podívejte se na [časový rámec cyklu](payment-thresholds-methods-timeframes.md) a zjistěte, kdy by se příjmy měly objevit v příkazu výběr.
+  - question: >
+      Proč se množství příjmů liší od toho, co jsem očekával?
+    answer: "- Pokud zákazník tuto objednávku zaplatil za částečně, bude vaše míra využití vycházet z částečně placené částky po odečtení poplatků a příslušné daně.\n- Ověřte odpovědnost za daňové úhrady podle země. V zemích, kde je daň zodpovědná za společnost Microsoft, společnost Microsoft shromažďuje a snižuje daň od výnosů vydavatelů. Částka transakce uvedená ve výpisu je částka po odečtení daní. Projděte si [podrobné informace o daních](tax-details-marketplace.md).\n- SaaS a IaaS nabídky mají poplatky za zlevněnou agenturu na 10% místo na úrovni Standard 20%, takže se sazba příjmů 90%. Toto je požadavek Co-Sell protokolu IP. Tato propagační akce platí do 30. června 2021. \n\n**další** materiály: [smlouvy o komerčním tržišti Publisher](/legal/marketplace/msft-publisher-agreement), [podrobnosti o](payout-policy-details.md)vydaných zásadách, [prahová hodnota platby, metoda a časový rámec](payment-thresholds-methods-timeframes.md), [vyplacení](marketplace-get-paid.md), [daňové detaily](tax-details-marketplace.md)a [výběrové příkazy](payout-statement.md)\n"
+- name: Vypořádání příjmů
+  questions:
+  - question: >
+      Jak odsouhlasím výpisy plateb pro sestavy objednávek nebo využití v analýzách?
+    answer: >
+      Použijte AssetID, ČísloObjednávky a ID položky řádku, které se zobrazují v sestavě historie transakcí vydaných položek s analytickými objednávkami a sestavami využití. Použít toto mapování:
+
+
+      - Payout Transaction History.AssetID = order.OrderID
+
+      - Payout Transaction History.OrderID & LineItem = Usage.UsageReferenceID [OrderID:LineItemID]
+  - question: >
+      Jak zjistím, kdy mám očekávat platby za objednávky zákazníků?
+    answer: >
+      - Nejprve pomocí své služby assetID ověřte objednávky zákazníků v [sestavách objednávek](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
+
+      - Podívejte se na kanál zákazníka pro předplatné zákazníka v [sestavě zákazníci](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer).
+
+      - V případě podnikových zákazníků se příjmy vydavatelů zobrazí v příkazu 1-2 dnů po datu nákupní objednávky.
+
+      - V případě nepodnikových zákazníků se příjmy vydavatelů zobrazí v prohlášení 1-2 dnů po přijetí platby zákazníkovi.
+
+
+      **Další** materiály: [příkazy výběrů](payout-statement.md), [řídicí panel objednávek v analýzách komerčního tržiště](/azure/marketplace/partner-center-portal/orders-dashboard)
+- name: Platby a úpravy
+  questions:
+  - question: >
+      Proč moje platba chybí?
+    answer: >
+      - Ujistěte se, že stav vypsaných a daňový profil se na [stránce Přehled](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)zobrazují jako *platné* .
+
+      - Možná jste nedosáhli minimální prahové hodnoty pro platbu. Abyste mohli přijmout platbu, příjmy musí dosahovat alespoň 50 USD.
+  - question: >
+      Návody nastavte můj účet na nepříjem plateb?
+    answer: >
+      Platby můžete uchovávat v [profilu výběr](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Provedete to tak, že **zablokujete blokování** a společnost Microsoft bude mít platbu za vás, dokud neuvolníte blokování.
+  - question: >
+      Proč mi platby přicházejí v jiné měně, než je měna použitá při nákupu?
+    answer: >
+      Měna výplaty vychází z měny, kterou jste vybrali v platebním profilu. Měna použitá při nákupu vychází z měny, ve které zákazník zaplatil.
+  - question: >
+      Jak odsouhlasím vyrovnání?
+    answer: >
+      Vyrovnání plateb představují opravy plateb za účelem kompenzačních vyrovnání například kvůli systémovým problémům. V příkazu výběr určuje ReasonCode důvod úpravy. Ty nejsou určeny pro sjednocení přímo na jednotlivé transakce.
+
+
+      **další** materiály: [smlouvy o komerčním tržišti Publisher](/legal/marketplace/msft-publisher-agreement), [podrobnosti o](payout-policy-details.md)vydaných zásadách, [podrobnosti o daních](tax-details-marketplace.md), [prahová hodnota platby, metoda a časový rámec](payment-thresholds-methods-timeframes.md)
+- name: Daně
+  questions:
+  - question: >
+      Jak ve výpisu plateb zjistíme, jestli je za odvod daní zodpovědný Microsoft, nebo vydavatel?
+    answer: >
+      Ve stažené historii transakcí vyhledejte sloupec Tax model (Daňový model). V tomto sloupci se zobrazí MS Managed (Spravuje Microsoft) nebo ISV Managed (Spravují nezávislí výrobci softwaru). Informace o daňových pravidlech v konkrétních zemích a důsledcích pro výplaty najdete v [podrobných informacích o daních](tax-details-marketplace.md).
+  - question: >
+      Jak si můžu stáhnout formuláře pro daň z poplatků za služby?
+    answer: >
+      Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Pro platby, na které se vztahuje daň z poplatků za služby, se zobrazí odkaz na formulář pro daň z poplatků za služby.
+  - question: >
+      Kde najdu daňové formuláře ke konci roku?
+    answer: >
+      Daňové formuláře ke konci roku můžete zobrazit na [profilové stránce](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage).
+  - question: >
+      Jak zjistí srážkovou daň pro konkrétní transakci?
+    answer: >
+      Srážkové dani podléhají vydavatelé z USA, kteří vyplnili formulář W-9. Srážková daň se počítá z měsíční výplaty.
+
+
+      **Další informace:** [Komerční marketplace Publisher smlouva,](/legal/marketplace/msft-publisher-agreement) [Podrobnosti o zásadách výplaty](payout-policy-details.md)
+- name: Přístup k výpisu platby
+  questions:
+  - question: >
+      Jak získám přístup k výpisu plateb?
+    answer: "1. Zkontrolujte své role. Abyste mohli získat přístup k výpisu plateb, musíte mít roli *finančního přispěvatele* nebo *vlastníka účtu*.\n2. V pravém horním navigačním panelu vyberte ikonu **Výplata** a zobrazte výpis platby. Zvolte mezi **Transaction History (Historie transakcí),** **Payment**(Platba) a **Download (Stáhnout).**\n\n**Další informace:** [Role a oprávnění pro výplaty,](payout-statement.md#roles-and-permissions) [výpisy výplat](payout-statement.md) \n"
+- name: Sestava výpisu platby
+  questions:
+  - question: >
+      Co znamenají jednotlivá pole ve stažených informacích o transakcích?
+    answer: >
+      Podrobný [seznam atributů](payout-statement.md) a jejich významu najdete v tématu Výpisy výplat.
+  - question: >
+      Co je stav příjmů?
+    answer: >
+      Zobrazí se vaše příjmy jako nezpracované, zpracované nebo odeslané.
+
+
+      - **Nezpracované –** příjmy jsou do data splatnosti v období escrow.
+
+      - **Zpracované –** Příjmy jsou vyspělé a jsou připravené na měsíční platbu. Platby se uvolňují do 15. dne každého měsíce.
+
+      - **Odesláno** – Platba se úspěšně uvolnila do vaší banky na základě vašeho platebního profilu.
+  - question: >
+      Jak si můžu stáhnout formuláře pro daň z poplatků za služby?
+    answer: >
+      Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Pro platby, na které se vztahuje daň z poplatků za služby, se zobrazí odkaz na formulář pro daň z poplatků za služby.
+  - question: >
+      Návody si formulář pro srážkovou daň ve formátu PDF?
+    answer: >
+      Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Vedle plateb se zobrazí odkaz na formulář pro srážkovou daň. Formulář srážkové daně se vztahuje pouze na vybrané programy pobídek, nikoli na výplatu na komerčním marketplace.
+  - question: >
+      Kde najdu daňové formuláře ke konci roku?
+    answer: >
+      Daňové formuláře ke konci roku můžete zobrazit na [profilové stránce](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage).
+
+
+      **Další informace:** [Výpisy výplat,](payout-statement.md) [Stažení historie transakcí](payout-statement.md#transaction-history-download)
+- name: Historické příkazy
+  questions:
+  - question: >
+      Návody zobrazit historické informace?
+    answer: >
+      V historickém výpisu se zobrazí snímek údajů o platbách k říjnu 2019. Informace o platbách se bohužel ne aktualizují. Pokud chcete získat nejnovější informace, odešlete lístek podpory s nejnovějšími daty.
+
+
+      **Další informace:** [Výpisy výplat,](payout-statement.md) [Stažení historie transakcí](payout-statement.md#transaction-history-download)
+- name: Rozhraní API pro export výplat
+  questions:
+  - question: >
+      Jak si můžu stáhnout údaje o platbách?
+    answer: >
+      Použijte rozhraní [PARTNER Payout API](https://apidocs.microsoft.com/services/partnerpayouts).
+- name: Zásady výplaty na komerčním marketplace
+  questions:
+  - question: >
+      Jak zjistím aktuální výši provize a výplaty?
+    answer: >
+      - Projděte si smlouvu pro vydavatele na komerčním marketplace. Standardní provize je 20 %. U transakcí způsobilých ke spoluhodě SaaS se účtuje poplatek 10 %. Informace o případných propagačních provizích najdete v oznámeních.
+
+      - Ve výpisu platby určuje sazba za příjmy skutečnou sazbu za výplatu pro danou transakci.
+  - question: >
+      Kdy můžu očekávat platbu od Microsoftu, jakmile se ve výpisu zobrazí příjmy?
+    answer: >
+      - Jakmile budou vaše příjmy v nezpracovaném stavu, můžete zkontrolovat datum splatnosti a zjistit tak, ve kterém měsíci se zpracuje jejich platba. Jakmile je vaše platba připravená, stav příjmů se změní na "zpracovaný".  Microsoft uvolňuje platby do 15. dne měsíce splatnosti.
+
+      - V případě objednávek placených platební kartou Microsoft drží platby 30 dní, dokud se příjmy nedozrály.
+
+       **Další čtení:** [Smlouva o Publisher marketplace,](/legal/marketplace/msft-publisher-agreement)podrobnosti o zásadách [plateb,](payout-policy-details.md)podrobnosti o daních, [](tax-details-marketplace.md)prahová hodnota [platby, způsob](payment-thresholds-methods-timeframes.md) a časový rámec
+additionalContent: "\n## <a name=\"next-steps\"></a>Další kroky\n\n- [Vyplacení](marketplace-get-paid.md)\n- [Nastavení platebního účtu a daňových formulářů](set-up-your-payout-account.md)"
