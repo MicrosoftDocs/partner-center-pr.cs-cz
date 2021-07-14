@@ -1,0 +1,81 @@
+### YamlMime:FAQ
+metadata:
+  title: Motivace – Nejčastější dotazy
+  ms.topic: how-to
+  ms.date: 02/05/2021
+  description: Nejčastější dotazy k motivům Microsoftu Tento článek obsahuje otázky týkající se uživatelských rolí, postupu při registraci nebo k tomu, co dělat s chybovými zprávami.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: mseamons
+  ms.author: mseamons
+  ms.localizationpriority: medium
+  ms.openlocfilehash: 868b47431eb6d04c0885f82c13f7611bace24d2c
+  ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/14/2021
+  ms.locfileid: "113753568"
+title: Nejčastější dotazy k motivům
+summary: >
+  **Příslušné role**: pobídky admin | Motivace uživatelů
+sections:
+- name: Ignorováno
+  questions:
+  - question: >
+      Potřebuji být globálním správcem pro registraci v rámci pobídek?
+    answer: >
+      No. Globální správce i správce účtu můžou přiřadit uživatele jako pobídky správců. Pomocí partnerského centra můžou správci IT spravovat IT programu společnosti. Další informace najdete v tématu [Přehled oprávnění](permissions-overview.md).
+  - question: >
+      Co musím udělat, když se mi moje společnost už členem Microsoft Partner Network (MPN)?
+    answer: >
+      Pokud se pokusíte připojit k programu MPN a vaše společnost již je členem, program MPN tuto doménu rozpozná a přidruží k existujícímu účtu. Existující účet může být stejná společnost nebo související společnost pomocí stejné e-mailové domény nebo stejného adresáře aktivity Azure (Azure AD) pro správu víc domén.
+
+
+      Primární kontakt můžete identifikovat na stránce právní profil. Pokud se jedná o umístění MPNHQ, stačí, když nastavíte požadované oprávnění ke správě pobídek. Další informace o rolích a oprávněních najdete v tématu [Přehled oprávnění](permissions-overview.md).
+
+
+      Pokud nejste ve stejné zemi jako umístění MPNHQ, najdete další podrobnosti o tomto scénáři v [pokynech pro více národních účtů](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) .
+  - question: >
+      Jaké role uživatelů jsou k dispozici?
+    answer: >
+      Osoba, která zaregistrovala společnost v partnerském centru, se ve výchozím nastavení stane primárním kontaktem a globálním správcem. Správce může pozvat a spravovat uživatele na portálu.
+
+
+      Klíčovými rolemi pro pobídky jsou pobídky správce a pobídky uživatele. Správce pobídek se může zaregistrovat v motivačních programech a spravovat bankovní a daňové údaje pro partnera. Uživatelé pobídek mohou zobrazit sestavy v nástroji, abyste viděli, co bylo placeno, a rozpis každé platby, ale nemůžou zobrazit ani upravit informace o bance. Obě role se můžou vztahovat na všechna místa v rámci globálního účtu partnera.
+
+
+      Další informace najdete v tématu [Přehled oprávnění](permissions-overview.md).
+  - question: >
+      Jak zjistím, kdo má pro moji společnost globální práva nebo oprávnění správce účtu?
+    answer: "Pokud chcete najít správce globálního správce nebo účtu, který může provádět změny rolí nebo přiřazovat role novému uživateli:\n\n1. V ikoně nastavení účtu v pravém horním rohu partnerského centra vyberte **Správa uživatelů**.\n2. Filtrujte buď na správce **globálního správce** , nebo na **správce účtu**.\n3. Můžete také přejít na **můj profil**, vybrat **role a oprávnění** a zobrazit seznam různých správců, kteří vám pomůžou zvýšit oprávnění.\n \nDalší informace najdete v tématu [vyhledání vaší role](find-your-role.md).  \n"
+  - question: >
+      Nemůžu získat přístup k motivům pomocí mých přihlašovacích údajů
+    answer: >
+      Pravděpodobným důvodem, proč nemůžete zobrazit pobídky, je, že nemáte správná oprávnění. Tuto chybu můžete vyřešit pomocí následujícího postupu.
+
+
+      1. Přihlaste se k [řídicímu panelu partnerského centra](https://partner.microsoft.com/dashboard/) pomocí svých přihlašovacích údajů TENANTA Azure AD (vaše pracovní přihlašovací údaje). Pokud se nemůžete přihlásit, obraťte se na globálního správce vaší společnosti.
+
+
+      2. Pokud se přihlašujete, zobrazí se výzva k výběru z **pracovního účtu** nebo **osobního účtu**, vyberte **pracovní účet**.
+
+
+      3. V nabídce partnerské Centrum vyberte možnost **motivace** a pak vyberte **Přehled**. Pokud nemáte k dispozici oprávnění správce nebo motivovat uživatele, zobrazí se kontaktní informace pro všechny globální správce účtu a správce účtů vaší společnosti. Obraťte se na jednoho z těchto správců, aby získal roli motivace pro požadovaná ID MPN a motivační program.
+
+
+      4. Pokud již máte roli správce pobídky, zobrazí se registrace pro vaši společnost pro ID MPN a k motivačním programům, ke kterým máte přístup.
+  - question: >
+      Na stránce s přehledem pobídek chybí některá registrace.
+    answer: >
+      Pokud jste obdrželi pozvánku z nebo jste ji zaregistrovali v nástroji, je vhodné, abyste si poklepali, že máte odpovídající přístup. Program uvidí jenom uživatelé s rolí pobídky uživatel nebo motiv správce. Viz [najít vaši roli](./find-your-role.md).
+
+
+      Pokud potřebujete změnit svoji roli nebo oprávnění, obraťte se na svého globálního správce nebo správce účtu vaší společnosti. Pokud se chcete dozvědět, kdo jsou lidé, přečtěte si téma [vyhledání globálního správce](./find-your-role.md#find-your-global-admin).
+
+
+      Na stránce Přehled se zobrazí pouze registrace, které jsou spojeny s globálním účtem partnera (PGA) přidruženým ke klientovi služby Azure AD. Pokud má vaše společnost více než jeden PGA, budete pro každé z nich potřebovat jiné přihlašovací údaje.
+  - question: >
+      Kdo bych mi kontaktoval, když se mi zobrazí chybová zpráva nebo potřebujete pomoc během procesu registrace?
+    answer: >
+      Pokud narazíte na nějaký problém v části pobídky na řídicím panelu, je k dispozici online služba podpory. Další informace najdete v možnosti podpora (? Ikona) vpravo nahoře.
+additionalContent: "\n## <a name=\"next-steps\"></a>Další kroky\n\n- [Začínáme s pobídkami](incentives-get-started-intro.md)"

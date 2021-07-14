@@ -14,7 +14,7 @@
       displayName: mpn
     - name: Řešení potíží s nastavením účtu
       href: troubleshoot-account-sign-n.md
-    - name: Partner Membership Center vyřazení
+    - name: Vyřazení partnerského centra členství
       href: partner-membership-center-retirement-faq.md
     - name: Výhody členství
       items:
@@ -27,18 +27,18 @@
         - name: Prodloužení platnosti nabídek
           href: renew-mpn-offers.md
           displayName: mpn
-        - name: Žádost o refundaci
+        - name: Požádat o refundaci
           href: mpn-refund-request.md
           displayName: mpn
         - name: Vyhledání výhod programu MPN
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Zásady výhod a využití – Nejčastější dotazy
+        - name: Zásady a používání výhod – Nejčastější dotazy
           href: benefits-faq-new.yml
         - name: Nejčastější dotazy k výhodám
           href: benefits-faq.yml
           displayName: 'renew, license,'
-        - name: Zobrazení nebo stažení faktury za MPN
+        - name: Zobrazení nebo stažení faktury MPN
           href: mpn-view-print-maps-invoice.md
     - name: Dostupné výhody
       items:
@@ -54,7 +54,7 @@
         - name: Softwarové produkty
           href: mpn-benefits-software.md
           displayname: 'software, on-premise benefit, mpn'
-        - name: Visual Studio výhody
+        - name: výhody Visual Studio
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
         - name: Technické předprodejní a zaváděcí služby
@@ -63,7 +63,7 @@
         - name: Technické výhody
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
-        - name: Vytvoření loga pomocí Logo Builderu
+        - name: Vytvoření loga pomocí Tvůrce loga
           href: mpn-logo-builder.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
@@ -83,13 +83,13 @@
         - name: Informace o kompetencích
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Registrace jako Učení partner
+        - name: zaregistrovat jako partnerský Učení
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Nejčastější dotazy ke kompetencím
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Poplatky za platby kompetencí
+        - name: Poplatky za kompetenci
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Výjimka z kompetence Application Development
@@ -121,12 +121,12 @@
     - name: Přechod z přímého vyúčtování CSP na nepřímého prodejce
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: Partneři se už nebudou moci zaregistrovat jako poradci.
+    - name: Partneři už se nemůžou registrovat jako poradci.
       href: advisors-no-csp.md
 - name: Smlouvy CSP
   href: microsoft-partner-agreement.md
   items:
-    - name: Jak můžou nepřímí poskytovatelé pomoci svým prodejcům přijmout MPA
+    - name: Jak nepřímá poskytovatelé můžou svým prodejcům přispět.
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
     - name: 'Smlouvy, ceníky, nabídky v CSP'
@@ -134,7 +134,7 @@
       displayName: csp
     - name: Smlouvy se zákazníkem Microsoftu (podle oblasti a jazyka)
       href: agreements.md
-    - name: Potvrzení souhlasu zákazníka s Smlouva se zákazníkem Microsoftu
+    - name: Jak potvrdit přijetí smlouvy o zákaznících Microsoftu v zákazníkovi
       href: confirm-customer-agreement.md
     - name: Regionální trhy a měny v CSP
       href: regional-authorization-overview.md
@@ -191,9 +191,9 @@
         - name: Aktualizace partnerského profilu
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Certifikace partnerského vyhledávače
+        - name: Certifikace seznamu hledání partnerů
           href: partner-finder-certification.md
-        - name: Informace o čísle ID registrace
+        - name: Registrační identifikační číslo – informace
           href: reg-number-id.md
         - name: Staňte se dodavatelem ovládacího panelu
           href: enroll-as-cpv.md
@@ -220,7 +220,7 @@
           href: reset-a-user-password.md
         - name: Resetování hesla
           href: reset-my-pasword.md
-        - name: Řešení potíží s přihlášením
+        - name: Řešení potíží s přihlašováním
           href: unable-to-sign-in.md
         - name: Uživatel nemá žádného správce MPN
           href: no-mpn-admin.md
@@ -273,7 +273,7 @@
     - name: Začínáme s pobídkami
       items:
         - name: Nejčastější dotazy k pobídkám
-          href: incentives-faq.md
+          href: incentives-faq.yml
           displayName: mpn
         - name: Začínáme s pobídkami
           href: incentives-get-started-intro.md
@@ -500,7 +500,7 @@
         - name: Nákup nabídek na marketplace
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
-        - name: Správa licencování v nabídkách Marketplace
+        - name: Správa licencování v nabídek marketplace
           href: csp-commercial-marketplace-licensing.md
           displayName: csp
         - name: Exkluzivní nabídky od nezávislých výrobců softwaru na marketplace
@@ -565,7 +565,7 @@
         - name: Přenos předplatných Azure
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
-        - name: Přenos předplatných plánu Azure pro zákazníka na jiného partnera
+        - name: Převod předplatných plánu Azure zákazníka na jiného partnera
           href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Předplatná softwaru
       href: csp-software-subscriptions.md

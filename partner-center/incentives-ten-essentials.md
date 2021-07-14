@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 32b7575e0110eba8c04e971845f54ca71bfb45c5
+ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146710"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113753353"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>10 základních součástí práce s pobídky
 
@@ -21,11 +21,11 @@ ms.locfileid: "110146710"
 
 Microsoft program Pobídky je výkonný nástroj, který odměňuje partnery za zapojení zákazníků do produktů a služeb Microsoftu. Čím více programu rozumíte, tím větší je šance na úspěch.
 
-Než s programem pobídek začnete,  doporučujeme vám udělat 10 základních součástí uvedených níže. Pomohou vám zajistit, aby vaše prostředí pobídek bylo dobré, a zabrání zpoždění při platbách v rámci pobídek.
+Než s programem pobídek začnete,  doporučujeme vám udělat 10 základních součástí uvedených níže. Pomohou vám zajistit, aby vaše prostředí pobídek bylo dobré, a zabránit zpožděním při platbách v rámci pobídek.
 
 ## <a name="1-join-the-microsoft-partner-network"></a>1. Připojení k Microsoft Partner Network
 
-Pokud ještě nejste partnerem Microsoftu, budete se muset připojit k PROGRAMU MPN, abyste využili výhod pobídek a dalších výhod. Další informace najdete v tématu [Microsoft Partner Network členství.](https://partner.microsoft.com/membership)
+Pokud ještě nejste partnerem Microsoftu, budete se muset připojit k programu MPN, abyste využili výhod pobídek a dalších výhod. Další informace najdete v tématu [Microsoft Partner Network členství.](https://partner.microsoft.com/membership)
 
 ## <a name="2-read-your-incentives-program-guide"></a>2. Přečtěte si informace o pobídkách Průvodce programem
 
@@ -35,17 +35,17 @@ Každý program pobídek má svého vlastního podrobného průvodce programem. 
 
 Téměř všechna zpoždění při platbách nebo jiná přerušení procesu pobídek jsou výsledkem nepřesných nebo neúplných daňových a bankovních profilů. Před zahájením programu pobídek se ujistěte, že je váš profil v dobrém stavu. Další informace najdete v tématu [Platební a daňový profil v Partnerské centrum](incentives-create-and-manage-your-payout-and-tax-profiles.md).
 
-## <a name="4-learn-about-roles-and-permissions"></a>4. Informace o rolích a oprávněních
+## <a name="4-learn-about-roles-and-permissions"></a>4. Další informace o rolích a oprávněních
 
-Je důležité pochopit role a oprávnění, které jsou součástí programu pobídek. Až to budete mít, můžete se rozhodnout, které role se mají přiřadit lidem ve vaší společnosti. Další informace najdete v tématu [Jaké role uživatelů jsou k dispozici?](incentives-faq.md#what-user-roles-are-available)
+Je důležité pochopit role a oprávnění, které jsou součástí programu pobídek. Až to budete mít, můžete se rozhodnout, které role se mají přiřadit lidem ve vaší společnosti. Další informace najdete v tématu [Jaké role uživatelů jsou k dispozici?](incentives-faq.yml#what-user-roles-are-available-)
 
 ## <a name="5-review-the-incentives-faq"></a>5. Kontrola nejčastějších dotazů k pobídám
 
-Získejte odpovědi na běžné dotazy týkající se pobídek ještě před tím, než se jich vůbec zeptáte. Nejčastější dotazy k pobídám často aktualizujeme pomocí informací z Podpora Microsoftu a přímé komunikace s partnery. Nejčastější dotazy najdete [tady.](incentives-faq.md)
+Získejte odpovědi na běžné dotazy týkající se pobídek ještě před tím, než se jich vůbec zeptáte. Nejčastější dotazy k pobídám často aktualizujeme pomocí informací z Podpora Microsoftu a přímé komunikace s partnery. Nejčastější dotazy najdete [tady.](incentives-faq.yml)
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Potvrzení způsobilosti programu
 
-To obecně zahrnuje zajistit, že jste Microsoftu poskytli všechen požadovaný profil společnosti a že jste dosáhli všech požadovaných kompetencí. Další [informace najdete v tématu Potvrzení způsobilosti programu.](incentives-determined-your-program-eligibility.md)
+To obecně zahrnuje, že jste Microsoftu poskytli všechen požadovaný profil společnosti a že jste dosáhli všech požadovaných kompetencí. Další [informace najdete v tématu Potvrzení způsobilosti pro váš program.](incentives-determined-your-program-eligibility.md)
 
 ## <a name="7-confirm-your-earnings-eligibility"></a>7. Potvrzení způsobilosti pro vaše příjmy
 
@@ -61,7 +61,7 @@ K dispozici je spousta dobrých článků týkajících se pobídek a obecných 
 
 ## <a name="10-read-the-partner-center-online-help"></a>10. Přečtěte si Partnerské centrum online nápovědu.
 
-Najdete zde podrobné postupy pro všechny výše uvedené úlohy. Celý oddíl pro všechny pobídky si můžete přečíst přibližně za hodinu a většina článků trvá jenom minutu nebo dvě. Další informace o tom, jak začít číst, najdete v tématu [Začínáme](incentives-get-started-intro.md).
+Najdete zde podrobné postupy pro provádění všech výše uvedených úloh. Celý oddíl Incentives si můžete přečíst přibližně za hodinu a většina článků bude trvat jen minutu nebo dvě. Pokud chcete začít číst nápovědu, podívejte se na [článek Začínáme.](incentives-get-started-intro.md)
 
 ## <a name="next-steps"></a>Další kroky
 
