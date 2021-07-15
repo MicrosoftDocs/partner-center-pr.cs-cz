@@ -2,80 +2,82 @@
 title: Typy poplatků v souborech s vyrovnáním
 ms.topic: article
 ms.date: 06/05/2020
-description: Seznamte se s typy poplatků (jako jsou založené na licencích a na základě využití a jednorázové), kredity a slevy v souborech pro odsouhlasení partnerského centra.
+description: Seznamte se s typy poplatků (například na základě licencí, na základě využití a jednou), kredity a slevy v Partnerské centrum sesouhlasení.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 10438ba30c6eb5ba5b1daef1ad16521f1f8e77c6
+ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855875"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113989770"
 ---
-# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Pochopení různých typů poplatků v souborech pro odsouhlasení partnerského centra
+# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Principy různých typů poplatků v souborech Partnerské centrum odsouhlasení
 
-**Platí pro**: partnerské Centrum | Partnerské centrum pro Microsoft Cloud pro státní správu USA
+**Platí pro**: Partnerské centrum | Partnerské centrum pro Microsoft Cloud for US Government
 
-**Příslušné role**: Agent správce | Správce fakturace | Globální správce
+**Odpovídající role:** Agent pro správu | Správce fakturace | Globální správce
 
-Tento článek popisuje mapování mezi oddílem faktury a typy přidružených poplatků, které mohou být na vašem souboru pro odsouhlasení. Vaše faktura poskytuje souhrn poplatků. Váš soubor pro odsouhlasení poskytuje podrobný rozpis transakcí položek řádků, včetně typů poplatků. Další informace o souborech pro odsouhlasení najdete v tématu [Jak používat soubory pro odsouhlasení](use-the-reconciliation-files.md).
+Tento článek popisuje mapování mezi oddílem faktury a přidruženými typy poplatků, které můžou být v souboru s vyrovnáním. Na faktuře se zobrazí souhrn poplatků. Soubor s vyrovnáním poskytuje podrobný rozpis transakcí řádkové položky, včetně typů poplatků. Další informace o souborech odsouhlasení najdete v [tématu, jak používat soubory s vyrovnáním.](use-the-reconciliation-files.md)
 
-[Soubory odsouhlasení založené na použití](usage-based-recon-files.md) a [soubory odsouhlasení založené na licencích](license-based-recon-files.md) zobrazují jenom transakce a poplatky související s využitím (spotřebované jednotky a související poplatky).
+Jak [soubory s vyrovnáním na](usage-based-recon-files.md) základě využití, tak soubory odsouhlasení na základě licencí zobrazují jenom transakce a poplatky související s využitím (spotřebované jednotky a související poplatky). [](license-based-recon-files.md)
 
 > [!NOTE]
-> Jednorázové kredity, slevy nebo refundace, které se zobrazí na faktuře jako **Úpravy** , se v souboru pro odsouhlasení nezobrazují.
+> V souboru s vyrovnáním se nezobrazují nesplacené kredity, slevy nebo refundace, které se zobrazují na faktuře jako vyrovnání. 
 
-## <a name="map-charge-types-to-invoice-charges"></a>Mapování typů nákladů na faktury
+## <a name="map-charge-types-to-invoice-charges"></a>Mapování typů poplatků na poplatky za fakturu
 
-Chcete-li náklady na křížové odkazy mezi vaším souborem faktury a odsouhlasení, použijte možnosti filtru v aplikaci Microsoft Excel. Filtrovat poplatky za fakturu na sadu rozdělení poplatků v souboru odsouhlasení podle typu poplatků za poplatek.
+Pokud chcete mezi fakturou a souborem s vyrovnáním odkazovat na výše poplatků, použijte možnosti filtrování v Microsoft Excel. Filtrováním podle typů poplatků v souboru s vyrovnáním namapujte poplatky za fakturu na sadu rozpisů poplatků v souboru s vyrovnáním.
 
 ## <a name="license-based-charges"></a>Poplatky na základě licencí
 
-Chcete-li namapovat tyto poplatky na základě licencí na fakturu, sečtěte sloupec **částky** ze souboru založeného na licencích.
+Pokud chcete tyto poplatky na základě licencí namapovat na fakturu, sečtete sloupec **Amount** (Částka) ze souboru založeného na licencích.
 
-| Popis poplatku (sloupec ChargeType v souboru pro odsouhlasení) | Vysvětlení poplatků |
+| Popis poplatku (sloupec ChargeType v souboru s vyrovnáním) | Vysvětlení poplatků |
 | ------------------------------------------------------------- | ------------------ |
-| Aktivační poplatek | Částka, která se účtuje zákazníkovi při použití předplatného po nákupu |
-| Zrušit poplatek | Po změně přidružených licencí se zákazníkovi vrátí zaceněné poplatky. |
+| Aktivační poplatek | Částka účtované zákazníkovi při použití předplatného po zakoupení. |
+| Poplatek za zrušení | Po změně přidružených licencí se zákazníkovi vrátí zaceněné poplatky. |
 | Zrušení přenosové rychlosti instancí | Poplatky za předplatná se zruší v případě, že u zákazníka s měsíčním předplatným je předplatné pozastavené a přidružené licence se během stejného měsíce změnily. |
 | Poplatek za cyklus | Pravidelné poplatky za předplatné. |
 | Cyklické přenosy instancí | Poplatky rozceněné zákazníkem posuzované při změně přidružených licencí. |
 | Poplatky za přenos při zrušení | Naceněná refundace za nevyužitou část služby po zrušení. |
 | Poplatky za přenos při převodu z aktuální nabídky | Přeceněné poplatky po převodu z aktuálního měsíčního předplatného na roční předplatné. |
-| Poplatky za přenos při převodu na novou nabídku | Přehodnocené poplatky po převodu měsíčního předplatného na nové roční předplatné. |
+| Poplatky za přenos při převodu na novou nabídku | Přehodnocené poplatky po převodu měsíčního předplatného na nové roční předplatné |
 | Poplatky za přenos při nákupu | Typ poplatku za předplatné při použití měsíční i roční fakturace. |
 | Poplatek za přenos při prodloužení platnosti | Poplatky na základě předplatných při prodloužení platnosti předplatného. |
 | Poplatek za prodloužení platnosti | Poplatek za prodloužení platnosti předplatného |
-| Poplatky za přenos při aktivaci | Poměrné poplatky od aktivace až do konce fakturačního období. |
+| Poplatky za přenos při aktivaci | Poplatky naceněné od aktivace do konce fakturačního období. |
 
-## <a name="one-time-charges"></a>Jednorázové poplatky
+## <a name="one-time-charges"></a>Poplatky za jeden čas
 
-Chcete-li namapovat tyto jednorázové poplatky na fakturu, sečtěte sloupec **částky** ze souboru založeného na licencích.
+Pokud chcete tyto jednorázové poplatky namapovat na fakturu, sečtete sloupec **Amount** (Částka) ze souboru založeného na licencích.
 
-| Popis poplatku (sloupec ChargeType v souboru pro odsouhlasení) | Vysvětlení poplatků |
+| Popis poplatku (sloupec ChargeType v souboru s vyrovnáním) | Vysvětlení poplatků |
 | ------------------------------------------------------------- | ------------------ |
-| Nová | Používá se při vytvoření nového nákupu. |
-| addQuantity | Používá se v refundaci původního nákupu i v novém množství po zvýšení. |
-| removeQuantity | Používá se v refundaci původního nákupu i v novém množství po zmenšení. |
-| Zrušit | Používá se při zrušení odběru. |
-| Převést | Používá se při upgradu licence, ale počet licencí zůstane beze změny. |
+| new | Používá se při vytvoření nového nákupu. |
+| prodloužení platnosti | Používá se při prodloužení platnosti předplatného po konci tohoto období. |
+| addQuantity | Používá se jak u refundace za původní nákup, tak v novém množství po zvýšení. |
+| removeQuantity | Používá se jak při refundaci původního nákupu, tak v novém množství po poklesu. |
+| cancel (zrušit)Mediate (Náprava) | Používá se při zrušení předplatného. |
+| převést | Používá se při upgradu licence. |
+| customerCredit | Používá se v případě, že jsou v transakci uvedeny kredity (např. Azure, SLA atd.). |
 
 ## <a name="usage-charges"></a>Poplatky za používání
 
-Pokud chcete namapovat tyto poplatky za použití na fakturu, sečtěte sloupec **PretaxCharges** ze souboru založeného na využití.
+Pokud chcete tyto poplatky za využití namapovat na fakturu, sečtete sloupec **PretaxCharges** ze souboru založeného na využití.
 
-| Popis poplatku (sloupec ChargeType v souboru pro odsouhlasení) | Vysvětlení poplatků |
+| Popis poplatku (sloupec ChargeType v souboru s vyrovnáním) | Vysvětlení poplatků |
 | ------------------------------------------------------------- | ------------------ |
-| Vyhodnotit poplatek za použití při zrušení | Použít poplatek za použití při zrušení neplaceného využití během aktuálního fakturačního období. |
-| Vyhodnotit poplatek za použití pro aktuální cyklus | Přístup k poplatku za použití pro aktuální fakturační období |
+| Vyhodnocení poplatku za využití při zrušení | Přístup k poplatkům za využití při zrušení nezaplaceného využití během aktuálního fakturačního období. |
+| Vyhodnocení poplatku za využití pro aktuální cyklus | Přístup k poplatku za využití pro aktuální fakturační období |
 
 ### <a name="credits"></a>Kredity
 
-Chcete-li namapovat tyto kredity na vaši fakturu:
+Pokud chcete tyto kredity namapovat na vaši fakturu:
 
 - Sečte **totalForCustomer** ze souboru založeného na licencích.
 - Sečte **sloupec PostTaxTotal** ze souboru založeného na využití.
@@ -99,4 +101,4 @@ Pokud chcete tyto slevy založené na využití namapovat na fakturu, sečtete s
 
 Pokud chcete na svou fakturu mapovat slevy založené na licencích, sečtete sloupec **TotalOtherDiscount** ze souboru založeného na licencích.
 
-*Slevy založené na licencích mohou být uplatněny na více typů poplatků.*
+*Slevy založené na licencích je možné uplatnit na více typů poplatků.*

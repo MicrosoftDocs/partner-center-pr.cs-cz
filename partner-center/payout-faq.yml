@@ -8,12 +8,12 @@ metadata:
   author: eunjkim520
   ms.author: eunjkim
   ms.date: 05/06/2021
-  ms.openlocfilehash: 30524899a85cff7439268d569e93810034109474
-  ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+  ms.openlocfilehash: 350c726467c3ba4342159a56b8ccfe77610c6b63
+  ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/13/2021
-  ms.locfileid: "113686491"
+  ms.lasthandoff: 07/14/2021
+  ms.locfileid: "113798332"
 title: Běžné otázky k vydaným výběrům a daním
 summary: >
   **Příslušné role**: správce účtu | Globální správce | Motivace správce
@@ -89,7 +89,7 @@ sections:
       - Podívejte se na [časový rámec cyklu](payment-thresholds-methods-timeframes.md) a zjistěte, kdy by se příjmy měly objevit v příkazu výběr.
   - question: >
       Proč se množství příjmů liší od toho, co jsem očekával?
-    answer: "- Pokud zákazník tuto objednávku zaplatil za částečně, bude vaše míra využití vycházet z částečně placené částky po odečtení poplatků a příslušné daně.\n- Ověřte odpovědnost za daňové úhrady podle země. V zemích, kde je daň zodpovědná za společnost Microsoft, společnost Microsoft shromažďuje a snižuje daň od výnosů vydavatelů. Částka transakce uvedená ve výpisu je částka po odečtení daní. Projděte si [podrobné informace o daních](tax-details-marketplace.md).\n- SaaS a IaaS nabídky mají poplatky za zlevněnou agenturu na 10% místo na úrovni Standard 20%, takže se sazba příjmů 90%. Toto je požadavek Co-Sell protokolu IP. Tato propagační akce platí do 30. června 2021. \n\n**další** materiály: [smlouvy o komerčním tržišti Publisher](/legal/marketplace/msft-publisher-agreement), [podrobnosti o](payout-policy-details.md)vydaných zásadách, [prahová hodnota platby, metoda a časový rámec](payment-thresholds-methods-timeframes.md), [vyplacení](marketplace-get-paid.md), [daňové detaily](tax-details-marketplace.md)a [výběrové příkazy](payout-statement.md)\n"
+    answer: "- Pokud zákazník tuto objednávku zaplatil za částečně, bude vaše míra využití vycházet z částečně placené částky po odečtení poplatků a příslušné daně.\n- Ověřte odpovědnost za daňové úhrady podle země. V zemích, kde je daň zodpovědná za společnost Microsoft, společnost Microsoft shromažďuje a snižuje daň od výnosů vydavatelů. Částka transakce uvedená ve výpisu je částka po odečtení daní. Projděte si [podrobné informace o daních](tax-details-marketplace.md).\n- Nabídky mají poplatek za službu Store na 3%, přičemž je sazba příjmů 97%. \n\n**další** materiály: [smlouvy o komerčním tržišti Publisher](/legal/marketplace/msft-publisher-agreement), [podrobnosti o](payout-policy-details.md)vydaných zásadách, [prahová hodnota platby, metoda a časový rámec](payment-thresholds-methods-timeframes.md), [vyplacení](marketplace-get-paid.md), [daňové detaily](tax-details-marketplace.md)a [výběrové příkazy](payout-statement.md)\n"
 - name: Vypořádání příjmů
   questions:
   - question: >
@@ -157,73 +157,73 @@ sections:
       Srážkové dani podléhají vydavatelé z USA, kteří vyplnili formulář W-9. Srážková daň se počítá z měsíční výplaty.
 
 
-      **Další informace:** [Komerční marketplace Publisher smlouva,](/legal/marketplace/msft-publisher-agreement) [Podrobnosti o zásadách výplaty](payout-policy-details.md)
-- name: Přístup k výpisu platby
+      **další** materiály: [smlouva o Publisher komerčního tržiště](/legal/marketplace/msft-publisher-agreement), [podrobnosti o](payout-policy-details.md) vydaných zásadách
+- name: Přístup k příkazu výběr
   questions:
   - question: >
       Jak získám přístup k výpisu plateb?
-    answer: "1. Zkontrolujte své role. Abyste mohli získat přístup k výpisu plateb, musíte mít roli *finančního přispěvatele* nebo *vlastníka účtu*.\n2. V pravém horním navigačním panelu vyberte ikonu **Výplata** a zobrazte výpis platby. Zvolte mezi **Transaction History (Historie transakcí),** **Payment**(Platba) a **Download (Stáhnout).**\n\n**Další informace:** [Role a oprávnění pro výplaty,](payout-statement.md#roles-and-permissions) [výpisy výplat](payout-statement.md) \n"
-- name: Sestava výpisu platby
+    answer: "1. Zkontrolujte své role. Abyste mohli získat přístup k výpisu plateb, musíte mít roli *finančního přispěvatele* nebo *vlastníka účtu*.\n2. V pravém horním rohu vyberte ikonu **Výběr** , abyste zobrazili příkaz výběr. Vyberte si mezi **historií transakcí**, **platbami** a **stažením**.\n\n**Další** materiály: [Výběr rolí a oprávnění](payout-statement.md#roles-and-permissions), [příkazů výběr](payout-statement.md) \n"
+- name: Sestava příkazu výběr
   questions:
   - question: >
       Co znamenají jednotlivá pole ve stažených informacích o transakcích?
     answer: >
-      Podrobný [seznam atributů](payout-statement.md) a jejich významu najdete v tématu Výpisy výplat.
+      Podrobný seznam atributů a jejich význam naleznete v tématu [Výběr příkazů](payout-statement.md) .
   - question: >
       Co je stav příjmů?
     answer: >
-      Zobrazí se vaše příjmy jako nezpracované, zpracované nebo odeslané.
+      Zobrazí se vaše tržby buď nezpracovaných, zpracovávaných, nebo odeslaných.
 
 
-      - **Nezpracované –** příjmy jsou do data splatnosti v období escrow.
+      - **Nezpracované** – příjmy jsou v v úschově období až do data splatnosti.
 
-      - **Zpracované –** Příjmy jsou vyspělé a jsou připravené na měsíční platbu. Platby se uvolňují do 15. dne každého měsíce.
+      - **Zpracované** – příjmy byly zralé a jsou připravené na měsíční platbu. Platby se uvolňují do 15. měsíce v měsíci.
 
-      - **Odesláno** – Platba se úspěšně uvolnila do vaší banky na základě vašeho platebního profilu.
+      - **Odeslané** – platba se úspěšně vydala do vaší banky na základě vašeho profilu vydaných.
   - question: >
       Jak si můžu stáhnout formuláře pro daň z poplatků za služby?
     answer: >
       Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Pro platby, na které se vztahuje daň z poplatků za služby, se zobrazí odkaz na formulář pro daň z poplatků za služby.
   - question: >
-      Návody si formulář pro srážkovou daň ve formátu PDF?
+      Návody stáhnout formulář pro srážkovou daň ve formátu PDF?
     answer: >
-      Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Vedle plateb se zobrazí odkaz na formulář pro srážkovou daň. Formulář srážkové daně se vztahuje pouze na vybrané programy pobídek, nikoli na výplatu na komerčním marketplace.
+      Přejděte na stránku **Výplata plateb** a pak do části **Seznam plateb**. Vedle plateb se zobrazí odkaz na formulář pro srážkovou daň. Formulář srážkové daně se vztahuje jenom na vybrané pobídkové programy, nikoli na výběr komerčního tržiště.
   - question: >
       Kde najdu daňové formuláře ke konci roku?
     answer: >
       Daňové formuláře ke konci roku můžete zobrazit na [profilové stránce](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage).
 
 
-      **Další informace:** [Výpisy výplat,](payout-statement.md) [Stažení historie transakcí](payout-statement.md#transaction-history-download)
+      **Další** materiály: [příkazy výběrů](payout-statement.md), [stažení Historie transakcí](payout-statement.md#transaction-history-download)
 - name: Historické příkazy
   questions:
   - question: >
       Návody zobrazit historické informace?
     answer: >
-      V historickém výpisu se zobrazí snímek údajů o platbách k říjnu 2019. Informace o platbách se bohužel ne aktualizují. Pokud chcete získat nejnovější informace, odešlete lístek podpory s nejnovějšími daty.
+      V historickém výpisu se zobrazí snímek údajů o platbách k říjnu 2019. Informace o výběrech se bohužel neaktualizují. Pokud chcete dostávat nejnovější informace, odešlete lístek podpory pro nejnovější data.
 
 
-      **Další informace:** [Výpisy výplat,](payout-statement.md) [Stažení historie transakcí](payout-statement.md#transaction-history-download)
-- name: Rozhraní API pro export výplat
+      **Další** materiály: [příkazy výběrů](payout-statement.md), [stažení Historie transakcí](payout-statement.md#transaction-history-download)
+- name: Exportovat rozhraní API pro výběr
   questions:
   - question: >
       Jak si můžu stáhnout údaje o platbách?
     answer: >
-      Použijte rozhraní [PARTNER Payout API](https://apidocs.microsoft.com/services/partnerpayouts).
-- name: Zásady výplaty na komerčním marketplace
+      Použijte [rozhraní API pro výběr partnerů](https://apidocs.microsoft.com/services/partnerpayouts).
+- name: Zásady pro výběr komerčního tržiště
   questions:
   - question: >
-      Jak zjistím aktuální výši provize a výplaty?
+      Návody najít aktuální poplatek za službu Store a sazbu pro výběr?
     answer: >
-      - Projděte si smlouvu pro vydavatele na komerčním marketplace. Standardní provize je 20 %. U transakcí způsobilých ke spoluhodě SaaS se účtuje poplatek 10 %. Informace o případných propagačních provizích najdete v oznámeních.
+      - Poplatek za službu úložiště je 3%.
 
-      - Ve výpisu platby určuje sazba za příjmy skutečnou sazbu za výplatu pro danou transakci.
+      - V příkazu typu výběr určuje sazba za danou transakci skutečnou sazbu pro výběr.
   - question: >
       Kdy můžu očekávat platbu od Microsoftu, jakmile se ve výpisu zobrazí příjmy?
     answer: >
-      - Jakmile budou vaše příjmy v nezpracovaném stavu, můžete zkontrolovat datum splatnosti a zjistit tak, ve kterém měsíci se zpracuje jejich platba. Jakmile je vaše platba připravená, stav příjmů se změní na "zpracovaný".  Microsoft uvolňuje platby do 15. dne měsíce splatnosti.
+      - Jakmile budou vaše příjmy v nezpracovaném stavu, můžete zkontrolovat datum splatnosti a zjistit tak, ve kterém měsíci se zpracuje jejich platba. Po přípravě platby se stav vašeho vystavení změní na zpracováno.  Microsoft uvolňuje platby do 15. dne měsíce splatnosti.
 
-      - V případě objednávek placených platební kartou Microsoft drží platby 30 dní, dokud se příjmy nedozrály.
+      - V případě objednávek placených kreditními kartami má společnost Microsoft platby za 30 dní až do doby, kdy je vyčerpána.
 
-       **Další čtení:** [Smlouva o Publisher marketplace,](/legal/marketplace/msft-publisher-agreement)podrobnosti o zásadách [plateb,](payout-policy-details.md)podrobnosti o daních, [](tax-details-marketplace.md)prahová hodnota [platby, způsob](payment-thresholds-methods-timeframes.md) a časový rámec
+       **další** materiály: [smlouvy o komerčním tržišti Publisher](/legal/marketplace/msft-publisher-agreement), [podrobnosti o](payout-policy-details.md)vydaných zásadách, [podrobnosti o daních](tax-details-marketplace.md), [prahová hodnota platby, metoda a časový rámec](payment-thresholds-methods-timeframes.md)
 additionalContent: "\n## <a name=\"next-steps\"></a>Další kroky\n\n- [Vyplacení](marketplace-get-paid.md)\n- [Nastavení platebního účtu a daňových formulářů](set-up-your-payout-account.md)"

@@ -4,15 +4,15 @@ description: přečtěte si, jak přijímat platby za tržby jako partnera micro
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 11/25/2020
+ms.date: 07/12/2021
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: cc01a1aada6c6665d3fd8f6efc6e5ef873736bdc
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 99cc0172f9cb1e09bdc77bbd9187ad2452c19c61
+ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684385"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113798132"
 ---
 # <a name="getting-paid-in-partner-center"></a>Získání placeného centra partnera
 
@@ -27,7 +27,7 @@ Při získání placeného vyžadování musíte dodržovat zásady smluv a výb
 - [smlouva Microsoft Azure Marketplace Publisher](/legal/marketplace/msft-publisher-agreement): před tím, než se vyhradíte, musíte přijmout tuto smlouvu vydavatele. Tato smlouva vysvětluje vztah mezi vámi a Microsoftem, protože se vztahuje na prodávající nabídky na komerčním webu Marketplace, včetně poplatků za Store, které Microsoft účtuje za každý prodej.
 - [Zásada výběrů](payout-policy-details.md) zobrazuje zásady plateb na výběr, včetně platebního plánu a způsobů platby. Zásada také vysvětluje proces pro zákazníky, kteří nepoužívají platby.
 - [daňové detaily](tax-details-marketplace.md) vysvětlují daňovou pozornost pro výběr ceny a zodpovědnost za daň v rámci [smlouvy Microsoft Publisher](/legal/marketplace/msft-publisher-agreement).
-- **poplatky za Store** jsou v Publisher smlouvě úředně definovány. Poplatek za Store se použije na všechny prodejní nabídky shromážděné komerčním Marketplace, včetně doplňků.
+- **Poplatky za Store** jsou oficiálně poskytovány na [komerčních poplatcích na webu Marketplace](/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations).
 - **Platby** se účtují měsíčně (za předpokladu, že prahová hodnota platby byla splněná). Obvykle posíláme jakékoli platby splatné v daném měsíci do 15. dne v měsíci. Platby obecně přijímají 3 až 10 dalších pracovních dnů k přístupu k vašemu účtu na výběr. Podrobnosti najdete v tématu [prahové hodnoty pro platby, metody a časové rámce](payment-thresholds-methods-timeframes.md).
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>Před platbami požadovaných kroků
