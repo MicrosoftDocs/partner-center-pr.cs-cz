@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 582fdc98617be7d82c0bc61a0bf46ceb662954d3
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: a9cca322d7a37dce099c5bec44530b2006da7758
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565079"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373667"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Přiřaďte uživatelům role a oprávnění pro firemní uživatele, kteří potřebují pracovat v Partnerské centrum
 
@@ -104,77 +104,77 @@ Tyto role nejsou role Azure AD. Tyto role spravují podnik společnosti, nikoli 
 |**Role** | **Co můžete dělat**|**Další informace**|
 |----------------------------|:----------------------------|-----|
 |Správce partnera MPN|* Zobrazení, vytváření a správa žádostí o partnerské služby|[Nákup nebo prodloužení platnosti předplatného programu Microsoft Action Pack nebo kompetencí Silver a Gold Competency](mpn-get-action-pack.md)
-||* Zobrazit profily legálního, podnikového a MPN
-||* Zobrazení podrobností o uživateli a jejich údajů o dovednostech
-||* Zobrazit kompetence
-||* Zobrazení a Správa výhod
-||* Zobrazit a koupit nabídky MPN
-||* Zobrazit nabídku MPN nabízí historii objednávek a faktury
-||* Zobrazit data ukazatele příspěvku partnera
-||* Může fungovat v nástroji pro ověřování dokladů.|
-||* Zobrazení analýzy zákaznických dat
-||* Zobrazit další uživatelské role v rámci společnosti, ale nemůžou přiřadit role
-||* Vytvoření lístků podpory pro partnerské Centrum
-||* Zobrazit lístky podpory partnerů, které vytvoříte
-|Správce účtu| Přidat umístění|[Správa umístění](manage-locations.md)
-|| Správa profilů souvisejících s účty, ke kterým jste správce 
-||* Přiřaďte role pro uživatele v tenantovi k rolím mimo Azure AD. 
+||* Zobrazit právní profily, profily společnosti, firmy a MPN
+||* Zobrazit podrobnosti o uživateli a jeho dovednosti
+||* Zobrazení kompetencí
+||* Zobrazení a správa výhod
+||* Zobrazení a nákup nabídek MPN
+||* Zobrazení historie objednávek a faktur nabídek MPN
+||* Zobrazit data indikátoru příspěvku partnera
+||* Může pracovat v nástroji pro ověřování poukazů|
+||* Zobrazení analýzy dat zákazníků
+||* Zobrazit další role uživatelů v rámci společnosti, ale nemůže přiřazovat role
+||* Vytvoření lístků podpory pro Partnerské centrum
+||* Zobrazit lístky podpory pro partnery, které vytvoříte
+|Správce účtu| Přidání umístění|[Správa umístění](manage-locations.md)
+|| Správa profilů souvisejících s účty, pro které jste správcem 
+||* Přiřaďte role uživatelům v tenantovi k rolím mimo Azure AD. 
 ||* Registrace umístění do programů
-||* Vytvoření lístků podpory pro partnerské Centrum
-||* Zobrazit lístky podpory partnerů, které vytvoříte
+||* Vytvoření lístků podpory pro Partnerské centrum
+||* Zobrazit lístky podpory pro partnery, které vytvoříte
 
-## <a name="manage-referrals"></a>Správa odkazů
+## <a name="manage-referrals"></a>Správa referenčních odkazů
 
 |**Role** | **Co můžete dělat**|**Další informace**
 |------------------------------|:-------------------------|---|
-|Správce odkazů|Vytvoření a Správa všeho v části karta odkazy v partnerském centru|[Správa příležitostí ke spoluprodeji](manage-co-sell-opportunities.md)
-||    Může zobrazit a upravit všechny příležitosti a potenciální zákazníky ve společném prodeji.
-||    Může přiřadit členy týmu pro obchod.
-||    Může zobrazovat a upravovat obchodní profily.
-||    Může zobrazit a zaregistrovat obchody pro příležitosti, které jsou označené jako získané a které mají nárok na registraci koupí.
-||    Může vytvářet a zobrazovat lístky podpory
-|Uživatel s odkazy|Vytváření a správa příležitostí společného prodeje pouze v případě, že jsou součástí týmu |[Správa příležitostí ke spoluprodeji](manage-co-sell-opportunities.md)
-||    Může vytvořit příležitosti pro společný prodej pro umístění, kde jsou přiřazena role.
-||    Může zobrazit a zaregistrovat obchody pro příležitosti, které jsou označené jako získané a mají nárok na registraci koupě, pokud jsou členy týmu.
-||    Může vytvářet a zobrazovat lístky podpory
-|Správce obchodního profilu|Vytváření a Správa obchodních profilů | [Správa obchodních profilů](create-a-marketing-profile.md)
-||    Může vytvářet a zobrazovat lístky podpory
+|Správce referenčních odkazů|Vytvoření a správa všeho na kartě Referenční Partnerské centrum|[Správa příležitostí ke spoluprodeji](manage-co-sell-opportunities.md)
+||    Může zobrazit a upravit všechny potenciální zákazníky a příležitosti ke spoluprodání.
+||    Může přiřazovat členy týmu k dohody.
+||    Může zobrazit a upravit obchodní profily.
+||    Může zobrazit a zaregistrovat dohody pro příležitosti, které jsou označené jako won a mají nárok na registraci dohody.
+||    Může vytvářet a prohlížet lístky podpory.
+|Uživatel referenčních odkazů|Vytvářejte a spravujte příležitosti ke spoluprodání jenom v případě, že jsou součástí týmu. |[Správa příležitostí ke spoluprodeji](manage-co-sell-opportunities.md)
+||    Může vytvářet příležitosti ke spoluprodání pro lokality, ve kterých mají přiřazenou roli.
+||    Může zobrazit a zaregistrovat dohody pro příležitosti označené jako won a způsobilé k registraci dohody, pokud jsou členy týmu.
+||    Může vytvářet a prohlížet lístky podpory.
+|Správce obchodního profilu|Vytvoření a správa obchodních profilů | [Správa obchodních profilů](create-a-marketing-profile.md)
+||    Může vytvářet a prohlížet lístky podpory.
 
-Společně s novou referenční rolí uživatele zavádíme také rozsah umístění pro obchody. V tabulce níže najdete informace o přístupu na základě umístění.
+Spolu s novou rolí uživatele referenčních seznamů také zavádíme rozsah umístění pro obchody. Následující tabulka vysvětluje přístup k obchodům na základě umístění.
 
 |**Scope** | **Co můžete dělat** |
 |------------------------------|:-------------------------|
-|Celá společnost | Správci i uživatelé mají přístup k vytváření obchodů pro libovolné umístění ve své společnosti.|
-|| Správce odkazů má přístup k zobrazení a úpravám všech obchodů. |
-|| Uživatelé s odkazem mají přístup k zobrazení a úpravám všech obchodů pouze v případě, že jsou součástí týmu. |
-|Jedno nebo více umístění | Správci i uživatelé mají přístup k vytváření obchodů pro přiřazené umístění ve společnosti.|
-|| Správce odkazů má přístup, který umožňuje zobrazit a upravit všechny obchody patřící do přiřazených umístění.|
-|| Příslušní uživatelé mají přístup k zobrazení a úpravám všech obchodů náležejících k přiřazeným umístěním, pokud jsou součástí týmu.|
+|Celá společnost | Správci i uživatelé mají přístup k vytváření dohod pro libovolnou lokalitu ve své společnosti.|
+|| Správce referenčních seznamu má přístup k zobrazení a úpravám všech dohod. |
+|| Uživatelé referenčních seznamu mají přístup k zobrazení a úpravám všech dohod jenom v případě, že jsou součástí týmu. |
+|Jedno nebo více umístění | Správci i uživatelé mají přístup k vytváření dohod pro přiřazenou lokalitu ve své společnosti.|
+|| Správce referenčních seznamu má přístup k zobrazení a úpravám všech dohod, které patří do přiřazených umístění.|
+|| Uživatelé referenčních seznamu mají přístup k zobrazení a úpravě všech dohod, které patří do přiřazených umístění, pokud jsou součástí týmu.|
 
 ## <a name="manage-incentives"></a>Správa pobídek
 
 |**Role** | **Co můžete dělat**|**Další informace**
 |------------------------------|:-------------------------|---|
-|Motivace správce|* Iniciuje a spravuje pobídky. |[Tyto materiály vám pomůžou začít s motivací.](incentives-get-started-intro.md)
-||* Může zobrazit a upravit všechny aspekty programu pobídek.
-||* Může zobrazit a upravit informace o bance a daních
-||* Zobrazit příjem rabatu a souběžných op
+|Správce pobídek|* Iniciuje a spravuje pobídky |[Tyto zdroje informací vám pomůžou začít s pobídky.](incentives-get-started-intro.md)
+||* Může zobrazit a upravit všechny aspekty programů pobídek.
+||* Může zobrazit a upravit bankovní a daňové údaje.
+||* View rebate and co-op earnings
 ||* Podpora přístupu
-||* Pobídky sporů|
-|Motivace uživatelů|* Může zobrazit pobídky programů
-||* Může zobrazit a iniciovat deklarace motivů.
-||* Zobrazit příjem rabatu a souběžných op
-||* Vytvoření lístků podpory pro partnerské Centrum
-||* Zobrazit lístky podpory partnerů, které vytvoříte
+||* Platby za pobídky sporů|
+|Uživatel pobídek|* Může zobrazit programy pobídek
+||* Může zobrazit a iniciovat žádosti o pobídky.
+||* View rebate and co-op earnings
+||* Vytvoření lístků podpory pro Partnerské centrum
+||* Zobrazit lístky podpory pro partnery, které vytvoříte
 
-## <a name="view-partner-center-insights-data"></a>Zobrazení dat služby partner Center Insights
+## <a name="view-partner-center-insights-data"></a>Zobrazení Partnerské centrum Přehledy dat
 
 |**Role** | **Co můžete dělat**|**Další informace**|
 |------------------------------|:-------------------------|---|
-|Prohlížeč sestav Executive|Přístup ke všem datovým sadám pro vytváření sestav, vytváření lístků podpory partnerů, zobrazení lístků podpory partnera, které vytvoříte|[Přehled sestav řídicích panelů dostupných ve službě partner Center – přehledy](pci-overview-report.md)
-|Prohlížeč sestav|Přístup k sestavám dat s výjimkou výnosů a osobních údajů zákazníků a zaměstnanců, vytváření lístků podpory partnerů, zobrazení lístků podpory partnerů, které vytvoříte|
+|Prohlížeč výkonných sestav|Přístup ke všem datovým sadám pro vytváření sestav, vytváření lístků podpory pro partnery, zobrazení lístků podpory pro partnery, které vytvoříte|[Přehled sestav řídicího panelu dostupných v Partnerské centrum Přehledy](insights-overview-report.md)
+|Prohlížeč sestav|Přístup k sestavě dat s výjimkou výnosů a osobních údajů zákazníků a zaměstnanců, vytváření lístků podpory pro partnery, zobrazení lístků podpory pro partnery, které vytvoříte|
 
 ## <a name="next-steps"></a>Další kroky
 
 - [Vytváření uživatelských účtů a přiřazování rolí a oprávnění](create-user-accounts-and-set-permissions.md)
-- [Ověření informací o účtu při registraci do nového programu partnerského centra](verification-responses.md)
+- [Ověření informací o účtu při registraci do nového Partnerské centrum programu](verification-responses.md)

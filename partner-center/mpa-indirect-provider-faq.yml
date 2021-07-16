@@ -1,0 +1,170 @@
+### YamlMime:FAQ
+metadata:
+  title: Jak můžou nepřímí poskytovatelé pomoci svým prodejcům přijmout Smlouva s partnerem Microsoftu – nejčastější dotazy
+  ms.topic: article
+  ms.date: 02/17/2021
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  description: Klíčové otázky týkající se Smlouva s partnerem Microsoftu odpovědí
+  author: vinayks
+  ms.author: vinayks
+  ms.localizationpriority: medium
+  ms.custom: SEOMAY.20
+  ms.openlocfilehash: a6d0905ba604e6811e7a1eded1881a24da64bf96
+  ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/15/2021
+  ms.locfileid: "114346701"
+title: Jak můžou nepřímí poskytovatelé pomoci svým nepřímým prodejcům přijmout Smlouva s partnerem Microsoftu (MPA)
+summary: "**Odpovídající role:** Globální správce | Agent správy | Agent prodeje\n\nNásledující otázky a odpovědi řeší potenciální problémy a řešení, která pomáhají nepřímým prodejcům pochopit, jak a proč přijmout MPA. \n\nNepřímí poskytovatelé, partneři s přímým vyúčtováním a nepřímí prodejci v Cloud Solution Provider programu budou tyto informace užitečné.\n"
+sections:
+- name: Dotazy k programu a zásadám MPA
+  questions:
+  - question: >
+      Jaké jsou právní důsledky, pokud nepřímý prodejce toto MPA nepřijme?
+    answer: "Pokud podmínky MPA nepřijmete (nepřímý prodejce), nebudete moct v programu CSP provádět transakce s nepřímým poskytovatelem (distributorem). Mpa musí být přijatý pro každou oblast [CSP,](regional-authorization-overview.md) ve které chcete podnikat. Aby nepřímý prodejce vyhovl transakcím CSP s libovolným nepřímým poskytovatelem v této oblasti CSP, potřebujeme alespoň jeden podpis MPA na každou oblast CSP. \n"
+  - question: >
+      Je MPA k dispozici v místních jazycích?
+    answer: "No. Je k dispozici pouze v angličtině. \n"
+  - question: >
+      Můj prodejce se domnívá, že už je zaregistrovaý jako nepřímý prodejce, protože mohl přes nás znovu prodávat cloudová předplatná, ale nemá možnost přijmout MPA. Proč tomu tak je?
+    answer: >
+      Pokud se prodejce může přihlásit k Partnerské centrum, ale nevidí možnost přijmout mpa nebo ověřit, že jsou zaregistrovaní v programu CSP Indirect Reseller, s největší pravděpodobností to znamená, že se zaregistroval jenom v programu MPN, ale ne v PROGRAMU CSP jako nepřímý prodejce. V minulosti jsme prodejcům umožnili transakce přes nepřímého poskytovatele, i když se oficiálně neza zaregistrovali do programu CSP.
+
+
+      Teď je čas stát se oficiálním nepřímým prodejcem CSP.
+
+      To platí také pro partnery Advisoru, kteří v CSP provádí transakce. Microsoft potřebuje aktivní účet CSP Indirect Reseller v každé obchodní oblasti CSP, aby je nepřímí prodejci zprostředkovatelé vyhovovat nepřímým poskytovatelům.
+  - question: >
+      Pracuju s několika nepřímými poskytovateli (distributory) v různých zemích. Musím přijmout MPA v každé zemi CSP?
+    answer: "Pro každou oblast CSP potřebujete alespoň jeden podpis MPA pro ID MPN. Pokud máte například VE Francii ID MPN, zaregistrovali jste se do programu CSP Indirect Reseller ve Francii CSP Indirect Reseller přijali jste MPA, dodržujete předpisy v celé oblasti [CSP](regional-authorization-overview.md#europe-region-and-market) Evropa CSP Indirect Reseller nemusíte je přijímat v jiných evropských zemích. Můžete provést transakce s libovolným nepřímým poskytovatelem v celé evropské oblasti CSP. \n"
+  - question: >
+      Jsem partnerem s přímým vyúčtováním ve Francii a také provádím transakce s nepřímým poskytovatelem v Itálii. Musím přijmout dvě mpa, jednu jako přímou fakturu a jednu jako nepřímý prodejce?
+    answer: Pokud jste už přijali program MPA s přímým vyúčtováním v oblasti CSP, nemusíte přijímat MPA nepřímého prodejce CSP. Musíte se ale ujistit, že je váš účet MPN ve složce Partnerské centrum a že ID MPN sdílené s nepřímým poskytovatelem je Partnerské centrum.
+  - question: >
+      Musíme dál přijímat smlouvu MPA nepřímého prodejce každý rok?
+    answer: >
+      Nemusíte to přijímat každý rok. Aby bylo možné provést transakce s nepřímým poskytovatelem, musí být přijato alespoň jedno MPA na oblast CSP, aby se zachovalo dodržování předpisů.
+  - question: "Pokud se předplatná nemění, záleží na tom, jestli prodejci smlouvu přijmou? \n"
+    answer: "Pokud nepřímí prodejci toto MPA nepřijme, bude jim zablokován transakce s nepřímým poskytovatelem. Bude to mít vliv na pobídky Microsoftu. \n"
+  - question: >
+      Budu od vás odsunout Partnerské centrum, když nepřijme mpa? Jaká jsou přesná rizika, pokud prodejci toto MPA nepřijme?
+    answer: "Nepřímým prodejcům bude zablokován transakce s nepřímým poskytovatelem (distributorem). V blízké budoucnosti neplánujte nepřímého prodejce odsunout. \n"
+  - question: >
+      Můj prodejce říká, že mpa už přijal zaměstnanec, který opustil společnost. Musí to přijmout znovu?
+    answer: >
+      No
+  - question: >
+      Můj prodejce nedávno změnil název společnosti, ale přijal už mpa. Musí to přijmout znovu?
+    answer: >
+      No
+  - question: >
+      Musíme s našimi prodejci komunikovat o přijetí mpa, nebo bude Microsoft spolupracovat s prodejci přímo na přijetí mpa?
+    answer: >
+      Jako nepřímý poskytovatel je vaší zodpovědností jasně komunikovat se všemi nepřímými prodejci a informovat je o dopadech nepřijmutí mpa. Musíte jim také poskytnout odpovídající podporu a pokyny pro přijetí mpa. V případě kritických problémů, které nelze vyřešit, byste je měli přesměrovat na Microsoft s tímto Partnerské centrum podpory.
+  - question: "Existují nějaké dokumenty, které popisují, jak mohou prodejci přijmout podmínky mpa a potvrdit, jestli byla přijata nejnovější mpa? \n"
+    answer: "Následuje několik užitečných veřejných odkazů, které nepřímému prodejci pomůžou přijmout podmínky MPA a dodržovat předpisy. \n\n- [Průvodce Smlouva s partnerem Microsoftu (MPA) pro CSP](microsoft-partner-agreement.md) (obsahuje podrobné pokyny k migraci účtu MPN a přijetí MPA v Partnerské centrum)\n- [Práce s nepřímými poskytovateli v programu CSP](indirect-reseller-tasks-in-partner-center.md)\n- [Správa umístění v účtu partnera](manage-locations.md)\n"
+- name: Dotazy týkající se struktury účtu MPN a CSP
+  questions:
+  - question: >
+      Jaký je rozdíl mezi účty MPN a CSP a jak souvisí?
+    answer: "Váš účet MPN by se měl používat ke správě členství v Microsoftu. Poskytuje jedno globální ID MPN (PGA) a jedno nebo více ID MPN umístění (PLA) v závislosti na počtu poboček, které vytvoříte. Váš účet CSP je přidružený k VAŠIM ID MPN umístění a používá se k transakcím s nepřímými poskytovateli nebo ke správě pobídek. \n\n\n- [Správa umístění v účtu partnera](manage-locations.md)\n\n- [Ověření profilu organizace](update-your-partner-profile.md)\n\n- [Microsoft Partner Network výhody členství](mpn-overview.md)\n\n\nVáš účet CSP přidružený k ID MPN umístění umožňuje pracovat s nepřímými poskytovateli, spravovat zákazníky a získávat pobídky.\n    \n- [The Smlouva s partnerem Microsoftu (MPA) for CSP](microsoft-partner-agreement.md)\n\n- [Práce s nepřímými poskytovateli v programu CSP](indirect-reseller-tasks-in-partner-center.md)\n"
+  - question: >
+      Jaký je rozdíl mezi globálním ID MPN a ID MPN umístění?
+    answer: "Globální účet MPN odpovídá ústředí a umístění MPN jsou vaše pobočky.  Existuje jedno jedinečné globální ID MPN (PGA MPN ID) a jedno nebo více jedinečných ID MPN umístění (ID MPN PLA). ID MPN můžete zkontrolovat tak, že se přihlásíte Partnerské centrum pomocí svého účtu MPN, vyberete **Nastavení,** pak Účet **Nastavení** a přejdete na **Stránka Identifikátory.** \n\nPokud máte pobočky v různých zemích, můžete v těchto zemích vytvořit umístění MPN a získat ID MPN umístění. Tato ID MPN umístění pak můžete použít k registraci do programu CSP, sdílení informací s nepřímými poskytovateli a získání pobídek. \n\n- [Správa umístění v účtu partnera](manage-locations.md)\n\nV případě problémů vydáte [lístek podpory v](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) rámci Partnerské centrum. \n"
+  - question: >
+      Nevím, které MPN ID použít při registraci do CSP Indirect Reseller programu?
+    answer: >
+      Před [zahájením registrace CSP Indirect Reseller programu](indirect-reseller-tasks-in-partner-center.md)byste měli mít aktivní účet MPN v Partnerské centrum. Pro úspěšné přidružení by se měla shodovat země ID MPN a země vašeho účtu CSP a ID MPN by mělo být Partnerské centrum. Přihlaste se ke svému účtu MPN (přihlašovací údaje MPN a CSP se mohou lišit). Přejděte na **Nastavení** Account  ->  **Nastavení** Organization  ->  **Profile**  ->  **Identifiers**  (Identifikátory profilů organizace) a vyhledejte ID MPN s typem Location (Umístění), které odpovídá zemi vašeho účtu CSP. Před [přidružením ID MPN](manage-locations.md) k účtu CSP během procesu registrace CSP se dozvíte další informace o umístěních MPN.
+  - question: >
+      Návody, které ID MPN je přidružené k mému účtu CSP?
+    answer: "Přihlaste se ke svému CSP Indirect Reseller účtu. Přejděte na **Nastavení**  ->  Account Nastavení Organization Profile Identifiers (Identifikátory **profilů**  ->  **organizace).**  ->   V oblasti CSP na stránce je přidružené **ID MPN ID** MPN přidružené k vašemu účtu CSP a mělo by se předá vašemu nepřímému poskytovateli pro transakce CSP. \n"
+  - question: >
+      Jak můžu zobrazit všechna ID MPN?
+    answer: >
+      Přihlaste se Partnerské centrum pomocí přihlašovacích údajů účtu MPN (přihlašovací údaje MPN a CSP se mohou lišit). V **Nastavení** vyberte **Identifikátory Nastavení** profilu organizace a  ->    ->   zobrazte ID MPN. Pokud chcete přidat novou lokalitu nebo pobočku MPN, přejděte na **Právní profil** a klikněte na **Přidat umístění.**
+- name: Dotazy týkající se regionální autorizace CSP
+  questions:
+  - question: >
+      Co je oblast CSP?
+    answer: >
+      Oblast CSP se skládá z jedné nebo více zemí, kde je možné podnikat v PROGRAMU CSP. Mezi firmy patří například práce s nepřímými poskytovateli, propojení se zákazníky, transakce a nabíhání pobídek. K podnikání v oblasti CSP potřebujete alespoň jeden účet CSP (pracovní účet Office 365). Další informace o [oblasti CSP.](regional-authorization-overview.md)
+
+
+      Pokud jste CSP Indirect Reseller, musíte jako partner s nepřímým poskytovatelem ve stejné oblasti prodávat pouze zákazníkům ve stejné oblasti.
+  - question: >
+      Proč nemůžu přidružit SVÉ MPN ID ke svému tenantovi?
+    answer: "Pokud nemůžete přidružit ID MPN ke svému tenantovi a zobrazí se chyba, znamená to, že ID MPN a tenant nejsou ve stejné zemi. Aby přidružení fungovalo, musí být oba ve stejné zemi. Tento požadavek je proto, že se pobídky Microsoftu platí pro každou zemi a úroveň ID MPN. Pokud máte například účet CSP ve Francii, budete potřebovat umístění MPN (MPN ID) také ve Francii, abyste získali placené pobídky. ID MPN v USA nebude fungovat, i když jsou ve stejné oblasti CSP. \n\nPokud chcete tento problém vyřešit, vytvořte umístění MPN ve stejné zemi jako země CSP. Další informace o správě [umístění MPN.](manage-locations.md)\n"
+  - question: >
+      Mám účet CSP Indirect Reseller ve Francii. Můžu v Německu vytvořit partnerství s nepřímým poskytovatelem?
+    answer: >
+      Ano. Jakmile je CSP Indirect Reseller aktivní v oblasti CSP, můžete stejný účet použít k podnikání v celé oblasti. Další informace o [oblasti CSP](regional-authorization-overview.md)
+  - question: >
+      Jsem nepřímý prodejce v USA. Můžu ve Spojeném království vytvořit partnerství s nepřímým poskytovatelem?
+    answer: >
+      No. CSP je regionální program. Pro podnikání musí být účet CSP nepřímého prodejce i nepřímého poskytovatele ve stejné oblasti CSP. Pokud chcete tento problém vyřešit, musíte vytvořit nový účet CSP v evropské oblasti, vytvořit umístění MPN ve stejné zemi jako země účtu CSP a pak přijmout žádost o vztah od nepřímého poskytovatele. Můžete například vytvořit účet CSP Indirect Reseller ve Francii, vytvořit umístění MPN ve Francii a pak přijmout pozvánku od nepřímého poskytovatele, který je buď ve Francii, nebo v jakékoli jiné zemi v evropské oblasti CSP.
+  - question: >
+      Můžu mít ve více účtech MPN a CSP Partnerské centrum?
+    answer: >
+      V závislosti na oblastech CSP, na které vaše společnost pracuje, můžete mít jenom jeden účet MPN (přihlášení) a jeden nebo více účtů CSP. Účet MPN můžete mít například v USA (HQ) s umístěními v USA (pobočka), Spojeném království (pobočka) a Austrálii (pobočka).
+
+      V USA můžete mít jeden účet CSP (Office 365 pracovní účet), který má stejné přihlašovací údaje jako váš účet MPN. V USA můžete mít druhý účet CSP. , který má jiné přihlašovací údaje pro správu podnikání CSP v evropské oblasti, a třetí v Austrálii, která má jiné přihlašovací údaje od ostatních dvou pro správu podnikání CSP v Austrálii.
+
+
+      Všechny tři účty CSP musí být přidružené k účtům MPN ID location, aby bylo možné podnikat a získávat pobídky v těchto pobočkách. Kompetence a výhody MPN je možné spravovat pouze pomocí účtu MPN.
+  - question: >
+      Jsem CSP Indirect Reseller USA a chci rozšířit svou firmu na Evropu. Co musím udělat v Partnerské centrum?
+    answer: >
+      Budete potřebovat umístění MPN v zemi, kde chcete podnikat, a budete se muset zaregistrovat do CSP Indirect Reseller programu ve stejné zemi. Přečtěte si další informace o [vytváření nových umístění MPN a registracích CSP.](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business)
+- name: Otázka týkající se migrace účtu MPN z PMC do Partnerské centrum
+  questions:
+  - question: "Chci migrovat účet MPN z Partner Membership Center do Partnerské centrum. Jak to můžu udělat? Nevím, kdo byl můj správce MPN v PMC. Jak můžu provést migraci? \n"
+    answer: >
+      Stáhněte si podrobného průvodce migrací [MPN z PMC do PC.](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+
+
+      Po migraci účtu MPN si přečtěte další informace o podepisování smlouvy MPA v tématu Smlouva s partnerem [Microsoftu](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process).
+
+
+      V případě problémů vypište lístek [podpory v](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) rámci Partnerské centrum.
+  - question: >
+      Návody, jestli se migruje ID MPN do Partnerské centrum?
+    answer: "Přihlaste se ke svému účtu MPN s libovolnou rolí (přihlašovací údaje MPN a CSP se mohou lišit). \n\nV **nastavení účtu** na kartě **Partner** **vyberte** stránku Právní profil. Pokud se v části Informace o programu zobrazí stav programu MPN, vaše ID MPN je Partnerské centrum. Pokud se na kartě Partner (Partner) stav programu MPN nezohlední, znamená to, že jste se přihlásili pomocí svého účtu CSP nebo váš účet MPN stále není Partnerské centrum. Stále možná budete muset migrovat účet MPN z PMC do PC.\n\n\n:::image type=\"content\" source=\"images/legal-info-mpn.png\" alt-text=\"Kde se zobrazí informace o programu MPN.\":::\n"
+- name: Dotazy týkající se ověření účtu MPN a CSP
+  questions:
+  - question: >
+      Zaregistroval(a) jsem se do programu MPN a jako program nepřímého prodejce CSP, ale můj stav ověření z právních obchodních profilů je ve stavu Zamítnuto. Co bych měl/a dělat?
+    answer: "Informace o právním profilu je potřeba aktualizovat kliknutím na **Aktualizovat.** Než budete pokračovat, přečtěte si následující články:\n\n- [Ověření informací o účtu](verification-responses.md#what-is-verified-and-how-to-respond)\n\n- [Ověření profilu organizace](update-your-partner-profile.md)\n\nPokud problém sami nemůžete vyřešit, můžete vytvořit lístek podpory v rámci Partnerské centrum přihlášením pomocí účtu CSP a:\n\n- V případě problémů s ověřením firmy vytvořte [žádost o podporu.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  \n- V případě problémů s ověřením zaměstnání vytvořte [žádost o podporu.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)\n\n:::image type=\"content\" source=\"images/rejected-faq-mpa.png\" alt-text=\"Odmítl.\":::\n"
+  - question: >
+      Zaregistroval(a) jsem se do programu MPN nebo CSP Indirect Reseller, ale zdá se, že je můj stav ověření právních obchodních profilů zablokovaný ve stavu Čeká na vyřízení. Co bych měl/a dělat?
+    answer: "Pokud je právní obchodní profil nepřímého prodejce CSP po více než pěti pracovních dnech ve stavu Čekání na kvalifikaci, Partnerské centrum kliknutím na Partnerské centrum [podpory.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce) \n\n:::image type=\"content\" source=\"images/pending.png\" alt-text=\"Stav čeká na vyřízení.\":::\n"
+- name: Dotazy týkající se práce v Partnerské centrum
+  questions:
+  - question: >
+      Nevím, kdo je správcem Partnerské centrum, kdo může přijmout MPA?
+    answer: >
+      Globální správce ve vaší společnosti musí přijmout mpa. Pokud chcete zjistit, kdo má ve vaší společnosti přiřazenou roli globálního správce, přejděte do **části Správa uživatelů.** Do vyhledávacího pole zadejte globální správce. Zobrazí se jména lidí, kteří mají přiřazenou roli globálního správce. Mpa může přijmout kterýkoli z těchto lidí. Pokud vaše společnost nemá globálního správce, přečtěte si, co dělat, když [vaše společnost potřebuje globálního správce.](no-mpn-admin.md)
+
+
+      :::image type="content" source="images/user-management-clean.png" alt-text="Jak najít globálního správce":::
+  - question: >
+      Můj prodejce říká, Partnerské centrum nevidí možnost přijmout MPA. Jak je nejlépe podporovat?
+    answer: "Pokud se prodejce může přihlásit Partnerské centrum ale nevidí možnost přijmout MPA:\n\n1. Zobrazí se na kartě CSP na levé straně stránka Přehled? \n\n:::image type=\"content\" source=\"images/csp.png\" alt-text=\"Kde najít CSP v nabídce Partnerské centrum.\":::\n\nPokud se jim v nabídce služby Partnerské centrum možnost Přehled, znamená to, že se ještě neza zaregistrovali do programu CSP. Prodejce bude muset zahájit proces registrace jako CSP Indirect Reseller jak je vysvětleno v článku Práce s nepřímými poskytovateli [v programu CSP.](indirect-reseller-tasks-in-partner-center.md) Po dokončení registrace budou moct přijmout MPA.\n\n2. Pokud se jim zobrazí Přehled, požádejte je, aby Nastavení na kartu právní Nastavení partner nebo prodejce **a** posuňte se dolů na  ->    ->    ->   Informace o programu.  Jaký stav se zobrazí vedle stavu nepřímého prodejce?\n\n\nPokud je stav jiný než **aktivní,** znamená to, že stále probíhá ověřování právních obchodních profilů nebo bylo zamítnuto. Na stejné stránce by měl prodejce zkontrolovat stav  Ověření a kliknout na Další informace a vyřešit problém. Prodejce tak může poskytnout potřebnou dokumentaci a pokračovat v ověřování.\n\n:::image type=\"content\" source=\"images/active-status.png\" alt-text=\"Stav je aktivní.\":::\n\nPokud váš prodejce potřebuje podporu s absolvováním kontroly právních obchodních profilů, požádejte ho, aby otevřel lístek s výběrem těchto možností:\n\n- V **nabídce** Partnerské centrum vyberte Podpora, pak vyberte Obecné **>** Ověření účtu > a pak zvolte krok, se který potřebujete pomoct.\n"
+  - question: >
+      Návody, jestli mám správnou roli v Partnerské centrum přijmout MPA?
+    answer: "Mpa mohou přijmout jenom globální správci. To find out what your role in Partnerské centrum is:\n\n1. Přihlaste se ke svému CSP Indirect Reseller v Partnerské centrum a nejprve ověřte, že jste se zaregistrovali CSP Indirect Reseller účtu. \n\n2. Přejděte do **části Správa uživatelů** a zkontrolujte, že přihlášený účet má přiřazenou roli Globální správce. Pokud není, nejde ho použít k přijetí MPA. Do vyhledávacího pole na stránce Správa uživatelů vyhledejte globálního správce a kontaktujte ho, aby přijal MPA.\n\n:::image type=\"content\" source=\"images/user-management-clean.png\" alt-text=\"Identifikujte svou roli v Partnerské centrum.\":::\n"
+  - question: >
+      Návody, jestli moje společnost přijala MPA?
+    answer: "Přihlaste se Partnerské centrum pomocí CSP Indirect Reseller účtu.\nPokud jste agentem pro správu nebo prodejním agentem v CSP, můžete přejít na stránku Smlouvy a ověřit, Smlouva s partnerem Microsoftu je vidět. \n\n:::image type=\"content\" source=\"images/agreement-new.png\" alt-text=\"Vyhledejte smlouvy v nastavení účtu.\":::\n\n\nPokud jste globální správce, přejděte na stránku Přehled CSP. Pokud se zobrazí zelený banner, máte všechno nastavené na transakce s nepřímým poskytovatelem v této oblasti CSP. Pokud ne, zobrazí se tlačítko Přijmout a **pokračovat** pro přijetí mpa a aktivaci účtu CSP.\n\n:::image type=\"content\" source=\"images/banner-boxed.png\" alt-text=\"Zelený banner.\":::\n"
+  - question: >
+      Chci přijmout MPA, ale nevidím žádné místo (tlačítko pro přijetí podmínek)
+    answer: >
+      Přihlaste se Partnerské centrum pomocí přihlašovacích údajů CSP Indirect Reseller účtu. Přejděte na stránku přehledu CSP.  Pokud nevidíte tlačítko  Přijmout a pokračovat a žádný zelený banner s nápisem, že mpa je přijatý, znamená to, že nemáte správnou roli pro přijetí MPA. Abyste přijali MPA, musíte se obrátit na globálního správce.
+
+
+      :::image type="content" source="images/agreement-two.png" alt-text="Vyhledejte smlouvy.":::
+
+
+      :::image type="content" source="images/user-management-filter.png" alt-text="{alt-text}":::
+additionalContent: "\n## <a name=\"next-steps\"></a>Další kroky\n\n- [naučte se, jak používat Cloud Solution Provider programu k partnerům s nepřímými poskytovateli.](indirect-reseller-tasks-in-partner-center.md)"

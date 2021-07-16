@@ -127,7 +127,7 @@
   href: microsoft-partner-agreement.md
   items:
     - name: Jak nepřímá poskytovatelé můžou svým prodejcům přispět.
-      href: mpa-indirect-provider-faq.md
+      href: mpa-indirect-provider-faq.yml
       displayName: 'csp, mpa, indirect, provider'
     - name: 'Smlouvy, ceníky, nabídky v CSP'
       href: csp-documents-and-learning-resources.md
@@ -265,7 +265,7 @@
       href: register-deals.md
     - name: Získání přehledů o referencích
       href: referral-insights.md
-    - name: Získání přehledů potenciálních zákazníků
+    - name: Získání přehledů o potenciálních zákaznících
       href: analyze-your-marketing-profile.md
       displayName: mpn
 - name: Pobídky
@@ -433,7 +433,7 @@
           displayName: 'region, regio'
         - name: Žádost o kredit SLA od Microsoftu
           href: request-credit.md
-        - name: Vliv daňových zásad na výplatu
+        - name: Jak daňové zásady ovlivňují výběr
           href: tax-policies-affect-payout.md
     - name: Nastavení rozpočtu na útratu zákazníků v Azure
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -647,48 +647,90 @@
           href: partner-center-insights.md
           displayName: data
         - name: Přístup k přehledům na základě role
-          href: pci-roles.md
+          href: insights-roles.md
         - name: Analytické sestavy
           items:
             - name: Přehled
-              href: pci-overview-report.md
+              href: insights-overview-report.md
             - name: Zákazník
-              href: pci-customer-report.md
+              href: insights-customer-report.md
             - name: Výkon prodejce
-              href: pci-resellers-performance.md
+              href: insights-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Předplatná produktů
-              href: pci-product-subscriptions-report.md
+              href: insights-product-subscriptions-report.md
             - name: Využití Azure
-              href: pci-azure-usage-report.md
+              href: insights-azure-usage-report.md
             - name: Využití Teams
-              href: pci-teams-usage-report.md
+              href: insights-teams-usage-report.md
             - name: Využití Office 365
-              href: pci-office-365-usage-report.md
+              href: insights-office-365-usage-report.md
             - name: Využití Dynamics
-              href: pci-dynamics-usage-report.md
+              href: insights-dynamics-usage-report.md
             - name: Využití Enterprise Mobility + Security
-              href: pci-enterprise-mobility-security-usage-report.md
+              href: insights-enterprise-mobility-security-usage-report.md
             - name: Využití Power BI
-              href: pci-power-bi-usage-report.md
+              href: insights-power-bi-usage-report.md
             - name: Školení
-              href: pci-training-dashboard.md
+              href: insights-training-dashboard.md
             - name: Analýzy Microsoft Learn
               href: ms-learn-analytics.md
             - name: Kompetence
-              href: pci-competencies-report.md
+              href: insights-competencies-report.md
             - name: Výhody
-              href: pci-benefits-report.md
+              href: insights-benefits-report.md
             - name: Sklon z programu CloudAscent
-              href: pci-customer-opportunities.md
+              href: insights-customer-opportunities.md
             - name: Licence na produkty
-              href: pci-product-licenses-report.md
+              href: insights-product-licenses-report.md
         - name: Nejčastější dotazy k Insights
-          href: pci-known-issues.md
+          href: insights-known-issues.md
         - name: Stažení analytických sestav
-          href: pci-download-reports.md
+          href: insights-download-reports.md
+        - name: Programový přístup k analýzám
+          items:
+            - name: Začínáme
+              href: insights-programmatic-get-started.md
+            - name: Požadavky pro programový přístup
+              href: insights-programmatic-prerequisites.md
+            - name: Paradigma programového přístupu
+              href: insights-programmatic-access-paradigm.md
+            - name: První volání programového rozhraní API
+              href: insights-programmatic-first-api-call.md
+            - name: Seznam systémových dotazů
+              href: insights-programmatic-system-queries.md
+            - name: Ukázkové dotazy
+              href: insights-programmatic-sample-queries.md
+            - name: Specifikace vlastních dotazů
+              href: insights-programmatic-custom-query.md
+            - name: Ukázková aplikace
+              href: insights-programmatic-sample-application.md
+            - name: Nejčastější dotazy
+              href: insights-programmatic-faq.md
+            - name: Referenční informace k rozhraní API
+              items:
+                - name: Dostupná rozhraní API
+                  href: insights-programmatic-analytics-available-api.md
+                - name: Získání všech datových sad
+                  href: insights-programmatic-analytics-api-get-dataset.md
+                - name: Získání dotazů na sestavy
+                  href: insights-programmatic-analytics-api-get-report-queries.md
+                - name: Odstranění dotazů na sestavu
+                  href: insights-programmatic-analytics-api-delete-report-queries.md
+                - name: Vyzkoušejte dotazy na sestavy
+                  href: insights-programmatic-analytics-api-try-report-queries.md
+                - name: Získat sestavu
+                  href: insights-programmatic-analytics-api-get-report.md
+                - name: Aktualizovat sestavu
+                  href: insights-programmatic-analytics-api-update-report.md
+                - name: Odstranit sestavu
+                  href: insights-programmatic-analytics-api-delete-report.md
+                - name: Pozastavit provádění sestav
+                  href: insights-programmatic-analytics-api-pause-report-executions.md
+                - name: Pokračovat v provádění sestav
+                  href: insights-programmatic-analytics-api-resume-report-executions.md
         - name: Definice dat Insights
-          href: pci-data-definitions.md
+          href: insights-data-definitions.md
     - name: Indikátory podílu partnerů
       items:
         - name: Pro kompetenci Cloudové obchodní aplikace
