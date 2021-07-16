@@ -3,18 +3,18 @@ metadata:
   title: Kompetence – Nejčastější dotazy
   ms.topic: article
   ms.date: 11/23/2020
-  description: Odpovědi na MPN Gold nebo stříbrné kompetence, výhody vypršení platnosti, prodloužení nebo Aktivace licencí pro Azure, Cloud, Visual Studio, technické, výhody podpory.
+  description: odpovědi na MPN gold nebo stříbrné kompetence, výhody vypršení platnosti, prodloužení nebo aktivace licencí pro Azure, cloud, Visual Studio, technické služby a výhody podpory.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-mpn
   author: keramp88
   ms.author: keramp
   ms.localizationpriority: medium
-  ms.openlocfilehash: 18db609908e924ba2d968b0fec977163be88d9bc
-  ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+  ms.openlocfilehash: 72a71aa5202738b6912d1c54330bb674b2f2e8ae
+  ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 06/28/2021
-  ms.locfileid: "112989853"
+  ms.lasthandoff: 07/16/2021
+  ms.locfileid: "114373930"
 title: Kompetence – Nejčastější dotazy
 summary: >
   **Příslušné role**: správce partnerů MPN
@@ -55,23 +55,23 @@ sections:
       1. V horní části stránky kompetence vyhledejte a vyberte možnost **zpráva ke stažení dovedností** .
 
 
-      Další sestavy dovedností vaší organizace jsou dostupné i v oblasti [přehledy partnerského centra](partner-center-insights.md) v partnerském centru. Chcete-li zobrazit tyto sestavy, bude pravděpodobně nutné mít přiřazenou roli v **prohlížeči sestav** nebo v **prohlížeči sestav** pro sestavy pro konkrétní přehledy. Možná budete muset požádat správce partnerského programu MPN, aby vám poskytl přístup k jedné z těchto rolí.
+      další sestavy dovedností vaší organizace jsou dostupné taky z [Přehledy oblasti partnerského centra](partner-center-insights.md) v partnerském centru. chcete-li zobrazit tyto sestavy, bude pravděpodobně nutné přiřadit roli konkrétního Přehledy v **prohlížeči sestav** nebo v **prohlížeči sestav Executive**. Možná budete muset požádat správce partnerského programu MPN, aby vám poskytl přístup k jedné z těchto rolí.
 
 
-      Sestavy Insights zobrazíte takto:
+      Přehledy sestavy zobrazíte takto:
 
 
       1. Přihlaste se na [řídicí panel](https://partner.microsoft.com/dashboard)partnerského centra.
 
 
-      1. V nabídce partnerského centra klikněte na **přehledy** a pak na **dovednosti organizace**. Zobrazí se menší nabídka.
+      1. v nabídce partnerského centra vyberte **Přehledy** a potom **dovednosti organizace**. Zobrazí se menší nabídka.
 
 
       1. V nabídce vyberte buď **školení** , nebo **Microsoft Learn** .
 
-         - Vyberte **školení** , abyste viděli Shrnutí certifikace, posouzení a zkoušek vaší organizace v určitém časovém období. Další informace o této sestavě najdete v tématu [školení](pci-training-dashboard.md).
+         - Vyberte **školení** , abyste viděli Shrnutí certifikace, posouzení a zkoušek vaší organizace v určitém časovém období. Další informace o této sestavě najdete v tématu [školení](insights-training-dashboard.md).
 
-         - Výběrem **Microsoft Learn** zobrazíte souhrn dokončených modulů a studijních cest vaší organizace v určitém časovém období. Další informace o této sestavě najdete v tématu [Microsoft Learn Analytics Report](ms-learn-analytics.md).
+         - výběrem **Microsoft Learn** zobrazíte souhrn dokončených modulů vaší organizace a cesty Učení v určitém časovém období. Další informace o této sestavě najdete v tématu [Microsoft Learn Analytics Report](ms-learn-analytics.md).
   - question: >
       Jak dlouho trvá zobrazení nejnovějších posouzení uživatelů v sestavě uživatelských dovedností v partnerském centru?
     answer: >
@@ -113,5 +113,5 @@ sections:
 
       >
 
-      > Jenom data za posledních 12 měsíců se budou považovat za výpočetní výkon, dovednosti nebo jiné požadavky, které se týkají kompetence. Další informace o výpočtech výkonu pro kompetence, jako je Business Applications kompetence cloudu, najdete v tématu [ukazatele příspěvku partnerů](partner-contribution-indicators.md).
-additionalContent: "\n## <a name=\"next-steps\"></a>Další kroky\n   - Další informace o [kompetencích MPN](learn-about-competencies.md)\n   - Seznámení se [sestavami služby partner Center Insights](partner-center-insights.md)"
+      > Jenom data za posledních 12 měsíců se budou považovat za výpočetní výkon, dovednosti nebo jiné požadavky, které se týkají kompetence. další informace o výpočtech výkonu pro kompetence, jako je Business Applications kompetence cloudu, najdete v tématu [ukazatele příspěvku partnerů](partner-contribution-indicators.md).
+additionalContent: "\n## <a name=\"next-steps\"></a>Další kroky\n   - Další informace o [kompetencích MPN](learn-about-competencies.md)\n   - přečtěte si o [Přehledych sestavách partnerského centra](partner-center-insights.md)"
