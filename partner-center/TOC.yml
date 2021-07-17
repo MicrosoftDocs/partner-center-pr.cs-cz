@@ -14,7 +14,7 @@
       displayName: mpn
     - name: Řešení potíží s nastavením účtu
       href: troubleshoot-account-sign-n.md
-    - name: Vyřazení partnerského centra členství
+    - name: Partner Membership Center vyřazení
       href: partner-membership-center-retirement-faq.md
     - name: Výhody členství
       items:
@@ -27,18 +27,18 @@
         - name: Prodloužení platnosti nabídek
           href: renew-mpn-offers.md
           displayName: mpn
-        - name: Požádat o refundaci
+        - name: Žádost o refundaci
           href: mpn-refund-request.md
           displayName: mpn
         - name: Vyhledání výhod programu MPN
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Zásady a používání výhod – Nejčastější dotazy
+        - name: Zásady výhod a využití – Nejčastější dotazy
           href: benefits-faq-new.yml
         - name: Nejčastější dotazy k výhodám
           href: benefits-faq.yml
           displayName: 'renew, license,'
-        - name: Zobrazení nebo stažení faktury MPN
+        - name: Zobrazení nebo stažení faktury za MPN
           href: mpn-view-print-maps-invoice.md
     - name: Dostupné výhody
       items:
@@ -54,7 +54,7 @@
         - name: Softwarové produkty
           href: mpn-benefits-software.md
           displayname: 'software, on-premise benefit, mpn'
-        - name: výhody Visual Studio
+        - name: Visual Studio výhody
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
         - name: Technické předprodejní a zaváděcí služby
@@ -63,7 +63,7 @@
         - name: Technické výhody
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
-        - name: Vytvoření loga pomocí Tvůrce loga
+        - name: Vytvoření loga pomocí Logo Builderu
           href: mpn-logo-builder.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
@@ -83,13 +83,13 @@
         - name: Informace o kompetencích
           href: learn-about-competencies.md
           displayName: mpn
-        - name: zaregistrovat jako partnerský Učení
+        - name: Registrace jako Učení partner
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Nejčastější dotazy ke kompetencím
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Poplatky za kompetenci
+        - name: Poplatky za platby kompetencí
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Výjimka z kompetence Application Development
@@ -121,12 +121,12 @@
     - name: Přechod z přímého vyúčtování CSP na nepřímého prodejce
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: Partneři už se nemůžou registrovat jako poradci.
+    - name: Partneři se už nebudou moci zaregistrovat jako poradci.
       href: advisors-no-csp.md
 - name: Smlouvy CSP
   href: microsoft-partner-agreement.md
   items:
-    - name: Jak nepřímá poskytovatelé můžou svým prodejcům přispět.
+    - name: Jak můžou nepřímí poskytovatelé pomoci svým prodejcům přijmout MPA
       href: mpa-indirect-provider-faq.yml
       displayName: 'csp, mpa, indirect, provider'
     - name: 'Smlouvy, ceníky, nabídky v CSP'
@@ -134,7 +134,7 @@
       displayName: csp
     - name: Smlouvy se zákazníkem Microsoftu (podle oblasti a jazyka)
       href: agreements.md
-    - name: Jak potvrdit přijetí smlouvy o zákaznících Microsoftu v zákazníkovi
+    - name: Potvrzení souhlasu zákazníka s Smlouva se zákazníkem Microsoftu
       href: confirm-customer-agreement.md
     - name: Regionální trhy a měny v CSP
       href: regional-authorization-overview.md
@@ -191,9 +191,9 @@
         - name: Aktualizace partnerského profilu
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Certifikace seznamu hledání partnerů
+        - name: Certifikace partnerského vyhledávače
           href: partner-finder-certification.md
-        - name: Registrační identifikační číslo – informace
+        - name: Informace o čísle ID registrace
           href: reg-number-id.md
         - name: Staňte se dodavatelem ovládacího panelu
           href: enroll-as-cpv.md
@@ -220,7 +220,7 @@
           href: reset-a-user-password.md
         - name: Resetování hesla
           href: reset-my-pasword.md
-        - name: Řešení potíží s přihlašováním
+        - name: Řešení potíží s přihlášením
           href: unable-to-sign-in.md
         - name: Uživatel nemá žádného správce MPN
           href: no-mpn-admin.md
@@ -500,7 +500,7 @@
         - name: Nákup nabídek na marketplace
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
-        - name: Správa licencování v nabídek marketplace
+        - name: Správa licencování v nabídkách Marketplace
           href: csp-commercial-marketplace-licensing.md
           displayName: csp
         - name: Exkluzivní nabídky od nezávislých výrobců softwaru na marketplace
@@ -565,7 +565,7 @@
         - name: Přenos předplatných Azure
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
-        - name: Převod předplatných plánu Azure zákazníka na jiného partnera
+        - name: Přenos předplatných plánu Azure pro zákazníka na jiného partnera
           href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Předplatná softwaru
       href: csp-software-subscriptions.md
@@ -647,90 +647,48 @@
           href: partner-center-insights.md
           displayName: data
         - name: Přístup k přehledům na základě role
-          href: insights-roles.md
+          href: pci-roles.md
         - name: Analytické sestavy
           items:
             - name: Přehled
-              href: insights-overview-report.md
+              href: pci-overview-report.md
             - name: Zákazník
-              href: insights-customer-report.md
+              href: pci-customer-report.md
             - name: Výkon prodejce
-              href: insights-resellers-performance.md
+              href: pci-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Předplatná produktů
-              href: insights-product-subscriptions-report.md
+              href: pci-product-subscriptions-report.md
             - name: Využití Azure
-              href: insights-azure-usage-report.md
+              href: pci-azure-usage-report.md
             - name: Využití Teams
-              href: insights-teams-usage-report.md
+              href: pci-teams-usage-report.md
             - name: Využití Office 365
-              href: insights-office-365-usage-report.md
+              href: pci-office-365-usage-report.md
             - name: Využití Dynamics
-              href: insights-dynamics-usage-report.md
+              href: pci-dynamics-usage-report.md
             - name: Využití Enterprise Mobility + Security
-              href: insights-enterprise-mobility-security-usage-report.md
+              href: pci-enterprise-mobility-security-usage-report.md
             - name: Využití Power BI
-              href: insights-power-bi-usage-report.md
+              href: pci-power-bi-usage-report.md
             - name: Školení
-              href: insights-training-dashboard.md
+              href: pci-training-dashboard.md
             - name: Analýzy Microsoft Learn
               href: ms-learn-analytics.md
             - name: Kompetence
-              href: insights-competencies-report.md
+              href: pci-competencies-report.md
             - name: Výhody
-              href: insights-benefits-report.md
+              href: pci-benefits-report.md
             - name: Sklon z programu CloudAscent
-              href: insights-customer-opportunities.md
+              href: pci-customer-opportunities.md
             - name: Licence na produkty
-              href: insights-product-licenses-report.md
+              href: pci-product-licenses-report.md
         - name: Nejčastější dotazy k Insights
-          href: insights-known-issues.md
+          href: pci-known-issues.md
         - name: Stažení analytických sestav
-          href: insights-download-reports.md
-        - name: Programový přístup k analýzám
-          items:
-            - name: Začínáme
-              href: insights-programmatic-get-started.md
-            - name: Požadavky pro programový přístup
-              href: insights-programmatic-prerequisites.md
-            - name: Paradigma programového přístupu
-              href: insights-programmatic-access-paradigm.md
-            - name: První volání programového rozhraní API
-              href: insights-programmatic-first-api-call.md
-            - name: Seznam systémových dotazů
-              href: insights-programmatic-system-queries.md
-            - name: Ukázkové dotazy
-              href: insights-programmatic-sample-queries.md
-            - name: Specifikace vlastních dotazů
-              href: insights-programmatic-custom-query.md
-            - name: Ukázková aplikace
-              href: insights-programmatic-sample-application.md
-            - name: Nejčastější dotazy
-              href: insights-programmatic-faq.md
-            - name: Referenční informace k rozhraní API
-              items:
-                - name: Dostupná rozhraní API
-                  href: insights-programmatic-analytics-available-api.md
-                - name: Získání všech datových sad
-                  href: insights-programmatic-analytics-api-get-dataset.md
-                - name: Získání dotazů na sestavy
-                  href: insights-programmatic-analytics-api-get-report-queries.md
-                - name: Odstranění dotazů na sestavu
-                  href: insights-programmatic-analytics-api-delete-report-queries.md
-                - name: Vyzkoušejte dotazy na sestavy
-                  href: insights-programmatic-analytics-api-try-report-queries.md
-                - name: Získat sestavu
-                  href: insights-programmatic-analytics-api-get-report.md
-                - name: Aktualizovat sestavu
-                  href: insights-programmatic-analytics-api-update-report.md
-                - name: Odstranit sestavu
-                  href: insights-programmatic-analytics-api-delete-report.md
-                - name: Pozastavit provádění sestav
-                  href: insights-programmatic-analytics-api-pause-report-executions.md
-                - name: Pokračovat v provádění sestav
-                  href: insights-programmatic-analytics-api-resume-report-executions.md
+          href: pci-download-reports.md
         - name: Definice dat Insights
-          href: insights-data-definitions.md
+          href: pci-data-definitions.md
     - name: Indikátory podílu partnerů
       items:
         - name: Pro kompetenci Cloudové obchodní aplikace
